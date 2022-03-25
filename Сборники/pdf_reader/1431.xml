@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<psalm number="1431" name="А весна пришла такая нежная" canon="False" text="" textRus="" music="">
+    <verse number="1">
+        <string>А весна пришла такая нежная, </string>
+        <string>Были слышны так ее шаги. </string>
+        <string>"Здравствуй!" - ей сказал подснежник вежливо, </string>
+        <string>Поднимая к небу лепестки.</string>
+    </verse>
+    <chorus number="1">
+        <string>Весна вновь пришла, </string>
+        <string>посмотри вокруг. </string>
+        <string>А ты от Христа далеко, мой друг.</string>
+    </chorus>
+    <verse number="2">
+        <string>Ожили и птицы, и растения. </string>
+        <string>Реки пробуждаются от сна. </string>
+        <string>Почему же ты стоишь растерянно? </string>
+        <string>Посмотри, уже пришла весна.</string>
+    </verse>
+    <verse number="3">
+        <string>Посмотри, какое небо синее. </string>
+        <string>Солнца луч тебе желает: "Встань, </string>
+        <string>И, стряхнув с себя сонливость зимнюю. </string>
+        <string>Прославляй Спасителя Христа!"</string>
+    </verse>
+    <chorus number="3">
+        <string>Весна вновь пришла. </string>
+        <string>Посмотри вокруг. </string>
+        <string>Иди ко Христу поскорее, друг.</string>
+    </chorus>
+</psalm>

@@ -1,5 +1,7 @@
 import unittest
-from pv_reader import get_next_item_index, text_items
+
+from Psalm import Psalm
+from pv_reader import get_next_item_index, text_items, parse_text
 
 
 class TestGetNextItemIndex(unittest.TestCase):
@@ -56,3 +58,26 @@ class TestTextItems(unittest.TestCase):
     def test_last_elem_content(self):
         first_item = self.content[2]
         self.assertEqual(first_item, (2, "Если грех мной багряным,"))
+
+
+class TestParseText(unittest.TestCase):
+    text = '$#$А весна пришла такая нежная, %%Были слышны так ее шаги. %%"Здравствуй!" - ей сказал подснежник вежливо, %%Поднимая к небу лепестки.$#%Весна вновь пришла, %%посмотри вокруг. %%А ты от Христа далеко, мой друг.$#$Ожили и птицы, и растения. %%Реки пробуждаются от сна. %%Почему же ты стоишь растерянно? %%Посмотри, уже пришла весна.$#$Посмотри, какое небо синее. %%Солнца луч тебе желает: "Встань, %%И, стряхнув с себя сонливость зимнюю. %%Прославляй Спасителя Христа!"$#%Весна вновь пришла. %%Посмотри вокруг. %%Иди ко Христу поскорее, друг.'
+
+    def test_verses(self):
+        verses = [
+            ["А весна пришла такая нежная,", "Были слышны так ее шаги.", '"Здравствуй!" - ей сказал подснежник вежливо,', 'Поднимая к небу лепестки.'],
+            ["Ожили и птицы, и растения.", "Реки пробуждаются от сна.", "Почему же ты стоишь растерянно?", "Посмотри, уже пришла весна."],
+            ['Посмотри, какое небо синее.', 'Солнца луч тебе желает: "Встань,', 'И, стряхнув с себя сонливость зимнюю.', 'Прославляй Спасителя Христа!"']
+        ]
+        psalm = Psalm("", 0)
+        parse_text(psalm, self.text)
+        self.assertEqual(verses, psalm.verses)
+
+    def test_choruses(self):
+        choruses = {
+            1: ['Весна вновь пришла,', 'посмотри вокруг.', 'А ты от Христа далеко, мой друг.'],
+            3: ['Весна вновь пришла.', 'Посмотри вокруг.', 'Иди ко Христу поскорее, друг.']
+        }
+        psalm = Psalm("", 0)
+        parse_text(psalm, self.text)
+        self.assertEqual(choruses, psalm.choruses)

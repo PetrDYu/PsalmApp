@@ -1,4 +1,5 @@
 import enum
+import os.path
 
 import requests
 from scipy.constants import value
@@ -25,24 +26,33 @@ def parse_text(psalm: Psalm, text: str):
     verses_counter = 0
     for item in text_items(text):
         cur_type = item[0]
+        data = item[1].strip()
         if item[0] == ItemTypes.verse.index:
-            if parent_item:
-                psalm.choruses[parent_item['number']] = parent_item['children']
+            save_to_psalm(parent_item, psalm)
             parent_item = {
                 'type': cur_type,
-                'children': [item[1]]
+                'children': [data]
             }
             verses_counter += 1
         elif item[0] == ItemTypes.chorus.index:
-            if parent_item:
-                psalm.verses.append(parent_item['children'])
+            save_to_psalm(parent_item, psalm)
             parent_item = {
                 'type': cur_type,
-                'children': [item[1]],
+                'children': [data],
                 'number': verses_counter
             }
         elif item[0] == ItemTypes.string.index:
-            parent_item['children'].append(item[1])
+            parent_item['children'].append(data)
+
+    save_to_psalm(parent_item, psalm)
+
+
+def save_to_psalm(part, psalm: Psalm):
+    if part:
+        if part['type'] == ItemTypes.chorus.index:
+            psalm.choruses[part['number']] = part['children']
+        elif part['type'] == ItemTypes.verse.index:
+            psalm.verses.append(part['children'])
 
 
 def text_items(text: str):
@@ -66,16 +76,15 @@ def get_next_item_index(text: str, cur_elem_start):
     return min(enumerate([next_verse_start, next_chorus_start, next_string_start]), key=lambda x: x[1])
 
 
-def write_to_file(psalm: Psalm):
-    pass
-
-
 if __name__ == "__main__":
     res = requests.get("http://app.blagoyouth.com:8880/api/appSong/v2?hymnalId=1&time=1000")
+    COLLECTION_NAME = "Песнь Возрождения"
+    if not os.path.isdir(COLLECTION_NAME):
+        os.mkdir(COLLECTION_NAME)
     try:
         for item in res.json():
             psalm = Psalm(item[2], item[1])
             parse_text(psalm, item[3])
-            write_to_file(psalm)
-    except:
-        pass
+            psalm.write_to_file(COLLECTION_NAME)
+    except Exception as e:
+        print(e)
