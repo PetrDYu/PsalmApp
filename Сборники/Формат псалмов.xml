@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psalm number="<number in collection>" name="<name of psalm>" canon="true/false" text="<authors>" textRus="<authors>" music="<composers>">
+    <verse>
+        <string></string>
+        <string></string>
+        <string></string>
+        <string></string>
+    </verse>
+    <chorus>
+        <string></string>
+        <string></string>
+        <repeat>
+            <string></string>
+            <string></string>
+        </repeat>
+    </chorus>
+
+</psalm>
+<!--Маркеры в БПС:
+        Муз.; Музыка - композитор (music),
+        Сл. - автор слов (text),
+        Сл. и муз. - автор текста и музыки (text, music),
+        по переводу; Рус. т. - автор русского текста (textRus),
+        встречаются строки типа: Традиционная еврейская мелодия
+        ::...:: - повтор (repeat),
+        номер. - номер куплета (verse),
+        Припев: - начало припева (chorus),
+    -->
+<!--Маркеры в ПВ:
+        2й элемент list - номер (number),
+        3й элемент list - название (name),
+        4й элемент list - текст псалма,
+        $#$ - начало куплета (verse),
+        %% - начало строки (кроме первой) куплета или припева (string)
+        $#% - начало припева (chorus)
+        -->
