@@ -1,0 +1,20 @@
+# reg exp для определения нажатия кнопки
+btn_press_re: "ButtonPressed: (?P<index>.*), '(?P<name>.+)'"
+
+btn_freeze: "Freeze"
+btn_mes_calc: 'Measure "Calc"'
+btn_p1: "P1"
+btn_p2: "P2"
+btn_p3: "P3"
+btn_p4: "P4"
+btn_end_exam: "End exam"
+btn_trackball_pointer: "Trackball pointer"
+btn_patient: "Patient"
+btn_trackball_btn_left: "Trackball button left"
+btn_trackball_btn_top: "Trackball button top"
+btn_trackball_btn_right: "Trackball button right"
+
+# reg exp для определения выбора датчика
+probe_act_re: "Probe (?P<name>.+)/.+ \\((?P<addr>0x[abcdef\\d]{1,8})\\) activated on connector (?P<connector>\\w)"
+
+probes_time_file: "Probes_time.txt"
