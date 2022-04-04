@@ -25,13 +25,15 @@ class Psalm:
             verse_tag = xml.SubElement(psalm_tag, 'verse', {'number': str(i + 1)})
             for string in verse:
                 string_tag = xml.SubElement(verse_tag, 'string')
-                string_tag.text = string
+                plain_tag = xml.SubElement(string_tag, "plain")
+                plain_tag.text = string
 
             if i + 1 in self.choruses:
                 chorus_tag = xml.SubElement(psalm_tag, 'chorus', {'number': str(i + 1)})
                 for string in self.choruses[i + 1]:
                     string_tag = xml.SubElement(chorus_tag, 'string')
-                    string_tag.text = string
+                    plain_tag = xml.SubElement(string_tag, "plain")
+                    plain_tag.text = string
 
         return psalm_tag
 

@@ -1,7 +1,33 @@
 import unittest
 import re
-from Configs import REPEAT_WITH_INNER_AND_ANY_OUTER, REPEAT_RE
+from Configs import SECTION_RE, MUSIC_RE, REPEAT_WITH_INNER_AND_ANY_OUTER, REPEAT_RE
 
+
+class TestSectionRE(unittest.TestCase):
+
+    def test_with_correct_src(self):
+        src = 'XIV. ... И ОБЩЕНИЕ СВЯТОГО ДУХА ДА БУДЕТ С НАМИ.,!'
+        r = re.match(SECTION_RE, src)
+        self.assertEqual(r.group('section_n'), 'XIV')
+        self.assertEqual(r.group('section_name'), '... И ОБЩЕНИЕ СВЯТОГО ДУХА ДА БУДЕТ С НАМИ.,!')
+
+    def test_with_regular_string(self):
+        src = 'Будь моей мудростью, жизни путем,'
+        r = re.match(SECTION_RE, src)
+        self.assertIsNone(r)
+
+
+class TestMusicREs(unittest.TestCase):
+
+    def test_with_correct_src_low(self):
+        src = 'Муз. Е. Ершовой'
+        r = re.match(MUSIC_RE, src)
+        self.assertEqual(r.group("composers"), "Е. Ершовой")
+
+    def test_with_correct_src_full(self):
+        src = 'Музыка Р. Лоури'
+        r = re.match(MUSIC_RE, src)
+        self.assertEqual(r.group("composers"), "Р. Лоури")
 
 class TestRepeatWithInnerAndAnyOuterRE(unittest.TestCase):
 

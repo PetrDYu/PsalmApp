@@ -1,20 +1,23 @@
 import re
 
+#
+SECTION_RE = re.compile(r'(?P<section_n>I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XIII|XIV|XV)\. (?P<section_name>[А-Я\.\s,!]{2,})')
+
 # ищет автора музыки
-MUSIC_RE = re.compile(r'(Муз.|Музыка) (?P<composers>.+)')
+MUSIC_RE = re.compile(r'(Муз\.|Музыка) (?P<composers>.+)')
 
 # ищет источник мелодии (фразы типа "Традиционная еврейская мелодия")
 MELODY_RE = re.compile(r'(?P<melody_source>.+) мелодия')
 
 # ищет авторов текста
-TEXT_RE = re.compile(r'Сл. (?P<authors>.+)')
+TEXT_RE = re.compile(r'Сл\. (?P<authors>.+)')
 
 # ищет авторов музыки и текста
-TEXT_AND_MUSIC_RE = re.compile(r'Сл. и муз. (?P<authors>.+)')
+TEXT_AND_MUSIC_RE = re.compile(r'(С|C)л\. и муз\. (?P<authors>.+)')
 
 # ищет авторов русского перевода
-TEXT_RUS_RE = re.compile(r'(по переводу|Рус. т.) (?P<authors>.+)')
-
+TEXT_RUS_RE = re.compile(r'(по переводу|Рус\. [тТ]\.) (?P<authors>.+)')
+SEPARATE_AUTHOR_RE = re.compile(r'[А-Я]\. [А-Я]\w+') # это использовать не с match, а с find
 # Алгоритм для выделения повторений:
 #   1. запускаем REPEAT_3_DBP_RE и, если есть, выделяем и удаляем
 #   2. запускаем REPEAT_WITH_INNER_AND_ANY_OUTER и обрабатываем результаты

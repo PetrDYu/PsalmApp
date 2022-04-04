@@ -1,13 +1,14 @@
 from abc import ABCMeta, abstractmethod
 from datetime import timedelta
 
-from ParserBase.Handlers.PsalmStringData import PsalmStringData
+from Parser.Handlers.PsalmStringData import PsalmStringData
 
 
 class BaseHandler:
 	__metaclass__ = ABCMeta
 
 	next_handler = None
+	is_success = False
 
 	def __init__(self, next_handler=None):
 		self.next_handler = next_handler
@@ -20,12 +21,14 @@ class BaseHandler:
 		self.next_handler = next_handler
 
 	@abstractmethod
-	def handle_log_string(self, s: PsalmStringData):
-		"""Process string of log file"""
+	def handle_psalm_string(self, s: PsalmStringData):
+		"""Process psalm string"""
 
 	def handle(self, s: PsalmStringData):
-		self.handle_log_string(s)
-		self.next(s)
+		self.is_success = True
+		self.handle_psalm_string(s)
+		if not self.is_success:
+			self.next(s)
 
 	@staticmethod
 	def timedelta_to_float(delta: timedelta):
