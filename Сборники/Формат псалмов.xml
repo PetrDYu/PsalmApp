@@ -9,14 +9,22 @@
     <chorus>
         <string><plain></plain></string>
         <string><plain></plain></string>
-        <string><repeat rep_rate="<number of repetition>" right_closed="true" left_closed="false"><plain></plain></repeat></string>
-        <string><repeat rep_rate="<number of repetition>" right_closed="false" left_closed="true"><plain></plain></repeat></string>
+        <string>
+            <repeat rep_rate="<number of repetition>" is_opening="true" id="1"/>
+            <plain></plain>
+        </string>
+        <string>
+            <plain></plain>
+            <repeat rep_rate="<number of repetition>" is_opening="false" id="1"/>
+        </string>
     </chorus>
     <verse>
         <string><plain></plain></string>
         <string><plain></plain></string>
         <string>
-            <repeat rep_rate="<number of repetition>" right_closed="true" left_closed="true"><plain></plain></repeat>
+            <repeat rep_rate="<number of repetition>"  is_opening="true" id="2"/>
+            <plain></plain>
+            <repeat rep_rate="<number of repetition>" is_opening="false" id="2"/>
             <plain></plain>
         </string>
     </verse>

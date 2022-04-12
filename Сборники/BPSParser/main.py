@@ -37,6 +37,8 @@ if __name__ == "__main__":
 	# 	for l in b['lines']:
 	# 		for s in l['spans']:
 	# 			print(s)
+
+	## Основной блок:
 	for page in doc:
 		blocks = page.get_text("dict", flags=11)["blocks"]
 		for b in blocks:
@@ -46,6 +48,8 @@ if __name__ == "__main__":
 		if get_is_broken():
 			break
 	change_cur_psalm(0)
+
+	##
 	# print(blocks[1]['lines'][0]['spans'][0])
 	# for b in blocks:  # iterate through the text blocks
 	# 	for l in b["lines"]:  # iterate through the text lines
@@ -54,8 +58,3 @@ if __name__ == "__main__":
 	# page1 = doc.load_page(2)
 	# page1text = page1.get_text("text")
 	# print(page1text)
-
-# f = FILENAME.open('rb')
-# pdf_reader = PyPDF2.PdfFileReader(f, strict=False)
-# pdf_page = pdf_reader.getPage(12)
-# print(pdf_page.extractText())
