@@ -1,0 +1,155 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "38c257fd3d0908667a0649572b2ebe25",
+    "entities": [
+      {
+        "tableName": "Psalms",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`Id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `CollectionId` INTEGER NOT NULL, `Name` TEXT NOT NULL, `NumberInCollection` INTEGER NOT NULL, `IsCanon` INTEGER NOT NULL, `TextAuthors` TEXT NOT NULL, `RusTextAuthors` TEXT NOT NULL, `MusicComposers` TEXT NOT NULL, `AdditionalInfo` TEXT NOT NULL, FOREIGN KEY(`CollectionId`) REFERENCES `PsalmCollections`(`Id`) ON UPDATE NO ACTION ON DELETE NO ACTION )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "Id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "collectionId",
+            "columnName": "CollectionId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "Name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "numberInCollection",
+            "columnName": "NumberInCollection",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "isCanon",
+            "columnName": "IsCanon",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "textAuthors",
+            "columnName": "TextAuthors",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "rusTextAuthors",
+            "columnName": "RusTextAuthors",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "musicComposers",
+            "columnName": "MusicComposers",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "additionalInfo",
+            "columnName": "AdditionalInfo",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "Id"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [
+          {
+            "name": "index_Psalms_CollectionId",
+            "unique": false,
+            "columnNames": [
+              "CollectionId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_Psalms_CollectionId` ON `${TABLE_NAME}` (`CollectionId`)"
+          },
+          {
+            "name": "index_Psalms_Name",
+            "unique": false,
+            "columnNames": [
+              "Name"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_Psalms_Name` ON `${TABLE_NAME}` (`Name`)"
+          },
+          {
+            "name": "index_Psalms_CollectionId_NumberInCollection",
+            "unique": false,
+            "columnNames": [
+              "CollectionId",
+              "NumberInCollection"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_Psalms_CollectionId_NumberInCollection` ON `${TABLE_NAME}` (`CollectionId`, `NumberInCollection`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "PsalmCollections",
+            "onDelete": "NO ACTION",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "CollectionId"
+            ],
+            "referencedColumns": [
+              "Id"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "PsalmCollections",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`Id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `Name` TEXT NOT NULL, `ShortName` TEXT NOT NULL)",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "Id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "Name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "shortName",
+            "columnName": "ShortName",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "Id"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '38c257fd3d0908667a0649572b2ebe25')"
+    ]
+  }
+}
