@@ -2,11 +2,11 @@
   "formatVersion": 1,
   "database": {
     "version": 1,
-    "identityHash": "38c257fd3d0908667a0649572b2ebe25",
+    "identityHash": "f7f4e7670518d71cebb25f598e26806a",
     "entities": [
       {
         "tableName": "Psalms",
-        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`Id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `CollectionId` INTEGER NOT NULL, `Name` TEXT NOT NULL, `NumberInCollection` INTEGER NOT NULL, `IsCanon` INTEGER NOT NULL, `TextAuthors` TEXT NOT NULL, `RusTextAuthors` TEXT NOT NULL, `MusicComposers` TEXT NOT NULL, `AdditionalInfo` TEXT NOT NULL, FOREIGN KEY(`CollectionId`) REFERENCES `PsalmCollections`(`Id`) ON UPDATE NO ACTION ON DELETE NO ACTION )",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`Id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `CollectionId` INTEGER NOT NULL, `SectionId` INTEGER NOT NULL, `Name` TEXT NOT NULL, `NumberInCollection` INTEGER NOT NULL, `IsCanon` INTEGER NOT NULL, `TextAuthors` TEXT NOT NULL, `RusTextAuthors` TEXT NOT NULL, `MusicComposers` TEXT NOT NULL, `AdditionalInfo` TEXT NOT NULL, `Body` TEXT NOT NULL, FOREIGN KEY(`CollectionId`) REFERENCES `PsalmCollections`(`Id`) ON UPDATE NO ACTION ON DELETE NO ACTION , FOREIGN KEY(`SectionId`) REFERENCES `CollectionSections`(`Id`) ON UPDATE NO ACTION ON DELETE NO ACTION )",
         "fields": [
           {
             "fieldPath": "id",
@@ -17,6 +17,12 @@
           {
             "fieldPath": "collectionId",
             "columnName": "CollectionId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sectionId",
+            "columnName": "SectionId",
             "affinity": "INTEGER",
             "notNull": true
           },
@@ -61,6 +67,12 @@
             "columnName": "AdditionalInfo",
             "affinity": "TEXT",
             "notNull": true
+          },
+          {
+            "fieldPath": "body",
+            "columnName": "Body",
+            "affinity": "TEXT",
+            "notNull": true
           }
         ],
         "primaryKey": {
@@ -78,6 +90,15 @@
             ],
             "orders": [],
             "createSql": "CREATE INDEX IF NOT EXISTS `index_Psalms_CollectionId` ON `${TABLE_NAME}` (`CollectionId`)"
+          },
+          {
+            "name": "index_Psalms_SectionId",
+            "unique": false,
+            "columnNames": [
+              "SectionId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_Psalms_SectionId` ON `${TABLE_NAME}` (`SectionId`)"
           },
           {
             "name": "index_Psalms_Name",
@@ -106,6 +127,17 @@
             "onUpdate": "NO ACTION",
             "columns": [
               "CollectionId"
+            ],
+            "referencedColumns": [
+              "Id"
+            ]
+          },
+          {
+            "table": "CollectionSections",
+            "onDelete": "NO ACTION",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "SectionId"
             ],
             "referencedColumns": [
               "Id"
@@ -144,12 +176,72 @@
         },
         "indices": [],
         "foreignKeys": []
+      },
+      {
+        "tableName": "CollectionSections",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`Id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `CollectionId` INTEGER NOT NULL, `Name` TEXT NOT NULL, `NumberInCollection` INTEGER NOT NULL, FOREIGN KEY(`CollectionId`) REFERENCES `PsalmCollections`(`Id`) ON UPDATE NO ACTION ON DELETE NO ACTION )",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "Id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "collectionId",
+            "columnName": "CollectionId",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "name",
+            "columnName": "Name",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "numberInCollection",
+            "columnName": "NumberInCollection",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "columnNames": [
+            "Id"
+          ],
+          "autoGenerate": true
+        },
+        "indices": [
+          {
+            "name": "index_CollectionSections_CollectionId",
+            "unique": false,
+            "columnNames": [
+              "CollectionId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_CollectionSections_CollectionId` ON `${TABLE_NAME}` (`CollectionId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "PsalmCollections",
+            "onDelete": "NO ACTION",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "CollectionId"
+            ],
+            "referencedColumns": [
+              "Id"
+            ]
+          }
+        ]
       }
     ],
     "views": [],
     "setupQueries": [
       "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
-      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '38c257fd3d0908667a0649572b2ebe25')"
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'f7f4e7670518d71cebb25f598e26806a')"
     ]
   }
 }

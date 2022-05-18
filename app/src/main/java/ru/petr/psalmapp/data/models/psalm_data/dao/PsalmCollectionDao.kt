@@ -7,7 +7,7 @@ import ru.petr.psalmapp.data.models.psalm_data.PsalmCollection
 @Dao
 interface PsalmCollectionDao {
     @Insert(onConflict = OnConflictStrategy.ABORT)
-    suspend fun insert(collection: PsalmCollection)
+    suspend fun insert(collection: PsalmCollection): Long
 
     @Query("SELECT * FROM PsalmCollections")
     fun getAllCollections(): Flow<List<PsalmCollection>>
