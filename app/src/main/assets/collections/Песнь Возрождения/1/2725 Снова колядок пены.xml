@@ -1,61 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2725" name="Снова колядок пены" canon="false" text="" textRus="" music="">
+<psalm number="2725" name="РЎРЅРѕРІР° РєРѕР»СЏРґРѕРє РїРµРЅС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Снова колядок пены</plain>
+            <plain>РЎРЅРѕРІР° РєРѕР»СЏРґРѕРє РїРµРЅС‹</plain>
         </string>
         <string>
-            <plain>Нас за собой завет,</plain>
+            <plain>РќР°СЃ Р·Р° СЃРѕР±РѕР№ Р·Р°РІРµС‚,</plain>
         </string>
         <string>
-            <plain>Дивное Сына рождены</plain>
+            <plain>Р”РёРІРЅРѕРµ РЎС‹РЅР° СЂРѕР¶РґРµРЅС‹</plain>
         </string>
         <string>
-            <plain>Бог с небес нам шлет.</plain>
+            <plain>Р‘РѕРі СЃ РЅРµР±РµСЃ РЅР°Рј С€Р»РµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя, благоволение.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р±Р»Р°РіРѕРІРѕР»РµРЅРёРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ангелов песнь послушай,</plain>
+            <plain>РђРЅРіРµР»РѕРІ РїРµСЃРЅСЊ РїРѕСЃР»СѓС€Р°Р№,</plain>
         </string>
         <string>
-            <plain>Вторят ей пастухи.</plain>
+            <plain>Р’С‚РѕСЂСЏС‚ РµР№ РїР°СЃС‚СѓС…Рё.</plain>
         </string>
         <string>
-            <plain>Жаждущий жизнь получит,</plain>
+            <plain>Р–Р°Р¶РґСѓС‰РёР№ Р¶РёР·РЅСЊ РїРѕР»СѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>Чтоб за Христом идти.</plain>
+            <plain>Р§С‚РѕР± Р·Р° РҐСЂРёСЃС‚РѕРј РёРґС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ясли примите в сердце,</plain>
+            <plain>РЇСЃР»Рё РїСЂРёРјРёС‚Рµ РІ СЃРµСЂРґС†Рµ,</plain>
         </string>
         <string>
-            <plain>Пусть там Христос живет.</plain>
+            <plain>РџСѓСЃС‚СЊ С‚Р°Рј РҐСЂРёСЃС‚РѕСЃ Р¶РёРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Вырвавший жало смерти</plain>
+            <plain>Р’С‹СЂРІР°РІС€РёР№ Р¶Р°Р»Рѕ СЃРјРµСЂС‚Рё</plain>
         </string>
         <string>
-            <plain>Новую жизнь дает.</plain>
+            <plain>РќРѕРІСѓСЋ Р¶РёР·РЅСЊ РґР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Слава в вышних Богу,</plain>
+            <plain>РЎР»Р°РІР° РІ РІС‹С€РЅРёС… Р‘РѕРіСѓ,</plain>
         </string>
         <string>
-            <plain>Мир на земле,</plain>
+            <plain>РњРёСЂ РЅР° Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя, благоволение!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р±Р»Р°РіРѕРІРѕР»РµРЅРёРµ!</plain>
         </string>
     </verse>
 </psalm>

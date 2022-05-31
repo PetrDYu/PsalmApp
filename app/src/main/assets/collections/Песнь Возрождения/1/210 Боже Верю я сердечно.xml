@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="210" name="Боже Верю я сердечно" canon="false" text="" textRus="" music="">
+<psalm number="210" name="Р‘РѕР¶Рµ Р’РµСЂСЋ СЏ СЃРµСЂРґРµС‡РЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже! Верю я сердечно,</plain>
+            <plain>Р‘РѕР¶Рµ! Р’РµСЂСЋ СЏ СЃРµСЂРґРµС‡РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Что не труд мой, не закон</plain>
+            <plain>Р§С‚Рѕ РЅРµ С‚СЂСѓРґ РјРѕР№, РЅРµ Р·Р°РєРѕРЅ</plain>
         </string>
         <string>
-            <plain>Спас меня от смерти вечной;</plain>
+            <plain>РЎРїР°СЃ РјРµРЅСЏ РѕС‚ СЃРјРµСЂС‚Рё РІРµС‡РЅРѕР№;</plain>
         </string>
         <string>
-            <plain>Я трудом Христа спасен.</plain>
+            <plain>РЇ С‚СЂСѓРґРѕРј РҐСЂРёСЃС‚Р° СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дай, чтоб в жизненном хожденье</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РІ Р¶РёР·РЅРµРЅРЅРѕРј С…РѕР¶РґРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Вера не была мертва;</plain>
+            <plain>Р’РµСЂР° РЅРµ Р±С‹Р»Р° РјРµСЂС‚РІР°;</plain>
         </string>
         <string>
-            <plain>Чтоб я нес Тебе в смиренье</plain>
+            <plain>Р§С‚РѕР± СЏ РЅРµСЃ РўРµР±Рµ РІ СЃРјРёСЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Дело веры, не слова.</plain>
+            <plain>Р”РµР»Рѕ РІРµСЂС‹, РЅРµ СЃР»РѕРІР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вера - жизнь душе спасенной,</plain>
+            <plain>Р’РµСЂР° - Р¶РёР·РЅСЊ РґСѓС€Рµ СЃРїР°СЃРµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Но молю Тебя в слезах:</plain>
+            <plain>РќРѕ РјРѕР»СЋ РўРµР±СЏ РІ СЃР»РµР·Р°С…:</plain>
         </string>
         <string>
-            <plain>Дай, чтоб в жизни полусонной</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РІ Р¶РёР·РЅРё РїРѕР»СѓСЃРѕРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Не забыл я о делах.</plain>
+            <plain>РќРµ Р·Р°Р±С‹Р» СЏ Рѕ РґРµР»Р°С….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай, чтоб вера пламенела</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РІРµСЂР° РїР»Р°РјРµРЅРµР»Р°</plain>
         </string>
         <string>
-            <plain>Жаждой к подвигам святым,</plain>
+            <plain>Р–Р°Р¶РґРѕР№ Рє РїРѕРґРІРёРіР°Рј СЃРІСЏС‚С‹Рј,</plain>
         </string>
         <string>
-            <plain>Чтобы в вере было дело,</plain>
+            <plain>Р§С‚РѕР±С‹ РІ РІРµСЂРµ Р±С‹Р»Рѕ РґРµР»Рѕ,</plain>
         </string>
         <string>
-            <plain>Чтоб я делом был движим.</plain>
+            <plain>Р§С‚РѕР± СЏ РґРµР»РѕРј Р±С‹Р» РґРІРёР¶РёРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Не для пользы иль награды</plain>
+            <plain>РќРµ РґР»СЏ РїРѕР»СЊР·С‹ РёР»СЊ РЅР°РіСЂР°РґС‹</plain>
         </string>
         <string>
-            <plain>Я хочу дела творить,</plain>
+            <plain>РЇ С…РѕС‡Сѓ РґРµР»Р° С‚РІРѕСЂРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Полный пенья и отрады</plain>
+            <plain>РџРѕР»РЅС‹Р№ РїРµРЅСЊСЏ Рё РѕС‚СЂР°РґС‹</plain>
         </string>
         <string>
-            <plain>В них хочу Тебя хвалить.</plain>
+            <plain>Р’ РЅРёС… С…РѕС‡Сѓ РўРµР±СЏ С…РІР°Р»РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>За Твой крест, дела, служенье,</plain>
+            <plain>Р—Р° РўРІРѕР№ РєСЂРµСЃС‚, РґРµР»Р°, СЃР»СѓР¶РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>За спасение без дел</plain>
+            <plain>Р—Р° СЃРїР°СЃРµРЅРёРµ Р±РµР· РґРµР»</plain>
         </string>
         <string>
-            <plain>Я хочу благодаренье</plain>
+            <plain>РЇ С…РѕС‡Сѓ Р±Р»Р°РіРѕРґР°СЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Принести Тебе из дел.</plain>
+            <plain>РџСЂРёРЅРµСЃС‚Рё РўРµР±Рµ РёР· РґРµР».</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Дай, чтоб добрыми делами</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РґРѕР±СЂС‹РјРё РґРµР»Р°РјРё</plain>
         </string>
         <string>
-            <plain>Я светил вокруг себя,</plain>
+            <plain>РЇ СЃРІРµС‚РёР» РІРѕРєСЂСѓРі СЃРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Чтобы видя их очами,</plain>
+            <plain>Р§С‚РѕР±С‹ РІРёРґСЏ РёС… РѕС‡Р°РјРё,</plain>
         </string>
         <string>
-            <plain>Все прославили Тебя.</plain>
+            <plain>Р’СЃРµ РїСЂРѕСЃР»Р°РІРёР»Рё РўРµР±СЏ.</plain>
         </string>
     </verse>
 </psalm>

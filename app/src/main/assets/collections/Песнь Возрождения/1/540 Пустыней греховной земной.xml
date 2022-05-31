@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="540" name="Пустыней греховной земной" canon="false" text="" textRus="" music="">
+<psalm number="540" name="РџСѓСЃС‚С‹РЅРµР№ РіСЂРµС…РѕРІРЅРѕР№ Р·РµРјРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пустыней греховной, земной,</plain>
+            <plain>РџСѓСЃС‚С‹РЅРµР№ РіСЂРµС…РѕРІРЅРѕР№, Р·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Где неправды гнетущий обман,</plain>
+            <plain>Р“РґРµ РЅРµРїСЂР°РІРґС‹ РіРЅРµС‚СѓС‰РёР№ РѕР±РјР°РЅ,</plain>
         </string>
         <string>
-            <plain>Я к Отчизне иду неземной</plain>
+            <plain>РЇ Рє РћС‚С‡РёР·РЅРµ РёРґСѓ РЅРµР·РµРјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>По кровавым следам христиан.</plain>
+            <plain>РџРѕ РєСЂРѕРІР°РІС‹Рј СЃР»РµРґР°Рј С…СЂРёСЃС‚РёР°РЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В край родной, неземной</plain>
+            <plain>Р’ РєСЂР°Р№ СЂРѕРґРЅРѕР№, РЅРµР·РµРјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>От обмана мирской суеты</plain>
+            <plain>РћС‚ РѕР±РјР°РЅР° РјРёСЂСЃРєРѕР№ СЃСѓРµС‚С‹</plain>
         </string>
         <string>
-            <plain>Я иду и приду</plain>
+            <plain>РЇ РёРґСѓ Рё РїСЂРёРґСѓ</plain>
         </string>
         <string>
-            <plain>К незакатному солнцу любви.</plain>
+            <plain>Рљ РЅРµР·Р°РєР°С‚РЅРѕРјСѓ СЃРѕР»РЅС†Сѓ Р»СЋР±РІРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Темнеет вечерняя мгла,</plain>
+            <plain>РўРµРјРЅРµРµС‚ РІРµС‡РµСЂРЅСЏСЏ РјРіР»Р°,</plain>
         </string>
         <string>
-            <plain>Длится тяжкий и скорбный мой путь,</plain>
+            <plain>Р”Р»РёС‚СЃСЏ С‚СЏР¶РєРёР№ Рё СЃРєРѕСЂР±РЅС‹Р№ РјРѕР№ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Но не гаснет надежда моя:</plain>
+            <plain>РќРѕ РЅРµ РіР°СЃРЅРµС‚ РЅР°РґРµР¶РґР° РјРѕСЏ:</plain>
         </string>
         <string>
-            <plain>Я в Отчизне моей отдохну.</plain>
+            <plain>РЇ РІ РћС‚С‡РёР·РЅРµ РјРѕРµР№ РѕС‚РґРѕС…РЅСѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Иди же смелее вперед</plain>
+            <plain>РРґРё Р¶Рµ СЃРјРµР»РµРµ РІРїРµСЂРµРґ</plain>
         </string>
         <string>
-            <plain>За Христом, не пугаясь врага,</plain>
+            <plain>Р—Р° РҐСЂРёСЃС‚РѕРј, РЅРµ РїСѓРіР°СЏСЃСЊ РІСЂР°РіР°,</plain>
         </string>
         <string>
-            <plain>Скоро кончится путь наш земной,</plain>
+            <plain>РЎРєРѕСЂРѕ РєРѕРЅС‡РёС‚СЃСЏ РїСѓС‚СЊ РЅР°С€ Р·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Засияют Сиона врата.</plain>
+            <plain>Р—Р°СЃРёСЏСЋС‚ РЎРёРѕРЅР° РІСЂР°С‚Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ведь там ожидают меня</plain>
+            <plain>Р’РµРґСЊ С‚Р°Рј РѕР¶РёРґР°СЋС‚ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Все омытые кровью Христа,</plain>
+            <plain>Р’СЃРµ РѕРјС‹С‚С‹Рµ РєСЂРѕРІСЊСЋ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Они встретят, любовью горя,</plain>
+            <plain>РћРЅРё РІСЃС‚СЂРµС‚СЏС‚, Р»СЋР±РѕРІСЊСЋ РіРѕСЂСЏ,</plain>
         </string>
         <string>
-            <plain>Пилигрима усталой земли.</plain>
+            <plain>РџРёР»РёРіСЂРёРјР° СѓСЃС‚Р°Р»РѕР№ Р·РµРјР»Рё.</plain>
         </string>
     </verse>
 </psalm>

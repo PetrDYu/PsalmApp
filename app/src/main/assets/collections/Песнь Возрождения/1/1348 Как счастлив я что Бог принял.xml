@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1348" name="Как счастлив я что Бог принял" canon="false" text="" textRus="" music="">
+<psalm number="1348" name="РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ С‡С‚Рѕ Р‘РѕРі РїСЂРёРЅСЏР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как счастлив я, что Бог принял</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ, С‡С‚Рѕ Р‘РѕРі РїСЂРёРЅСЏР»</plain>
         </string>
         <string>
-            <plain>Меня с Собой в союз благой</plain>
+            <plain>РњРµРЅСЏ СЃ РЎРѕР±РѕР№ РІ СЃРѕСЋР· Р±Р»Р°РіРѕР№</plain>
         </string>
         <string>
-            <plain>И Сына мне в спасенье дал,</plain>
+            <plain>Р РЎС‹РЅР° РјРЅРµ РІ СЃРїР°СЃРµРЅСЊРµ РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Послав мне в сердце Дух Святой.</plain>
+            <plain>РџРѕСЃР»Р°РІ РјРЅРµ РІ СЃРµСЂРґС†Рµ Р”СѓС… РЎРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Счастлив я, счастлив я.</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІ СЏ, СЃС‡Р°СЃС‚Р»РёРІ СЏ.</plain>
         </string>
         <string>
-            <plain>Что Бог принял навек меня.</plain>
+            <plain>Р§С‚Рѕ Р‘РѕРі РїСЂРёРЅСЏР» РЅР°РІРµРє РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Теперь я с Ним и Он со мной,</plain>
+            <plain>РўРµРїРµСЂСЊ СЏ СЃ РќРёРј Рё РћРЅ СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>И в Церкви нахожусь живой:</plain>
+            <plain>Р РІ Р¦РµСЂРєРІРё РЅР°С…РѕР¶СѓСЃСЊ Р¶РёРІРѕР№:</plain>
         </string>
         <string>
-            <plain>Счастлив я, счастлив,</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІ СЏ, СЃС‡Р°СЃС‚Р»РёРІ,</plain>
         </string>
         <string>
-            <plain>Что Бог принял навек меня.</plain>
+            <plain>Р§С‚Рѕ Р‘РѕРі РїСЂРёРЅСЏР» РЅР°РІРµРє РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>По вере я в Него крещен.</plain>
+            <plain>РџРѕ РІРµСЂРµ СЏ РІ РќРµРіРѕ РєСЂРµС‰РµРЅ.</plain>
         </string>
         <string>
-            <plain>Отвергнув грех и плоти власть,</plain>
+            <plain>РћС‚РІРµСЂРіРЅСѓРІ РіСЂРµС… Рё РїР»РѕС‚Рё РІР»Р°СЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>С Ним в смерти я соединен.</plain>
+            <plain>РЎ РќРёРј РІ СЃРјРµСЂС‚Рё СЏ СЃРѕРµРґРёРЅРµРЅ.</plain>
         </string>
         <string>
-            <plain>Чтоб не владела мною страсть.</plain>
+            <plain>Р§С‚РѕР± РЅРµ РІР»Р°РґРµР»Р° РјРЅРѕСЋ СЃС‚СЂР°СЃС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Да, в вере я распят с Христом</plain>
+            <plain>Р”Р°, РІ РІРµСЂРµ СЏ СЂР°СЃРїСЏС‚ СЃ РҐСЂРёСЃС‚РѕРј</plain>
         </string>
         <string>
-            <plain>И погребен в крещенье с Ним;</plain>
+            <plain>Р РїРѕРіСЂРµР±РµРЅ РІ РєСЂРµС‰РµРЅСЊРµ СЃ РќРёРј;</plain>
         </string>
         <string>
-            <plain>И вижу в Боге я одном</plain>
+            <plain>Р РІРёР¶Сѓ РІ Р‘РѕРіРµ СЏ РѕРґРЅРѕРј</plain>
         </string>
         <string>
-            <plain>Победу над грехом своим.</plain>
+            <plain>РџРѕР±РµРґСѓ РЅР°Рґ РіСЂРµС…РѕРј СЃРІРѕРёРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Святую жизнь во мне творит</plain>
+            <plain>РЎРІСЏС‚СѓСЋ Р¶РёР·РЅСЊ РІРѕ РјРЅРµ С‚РІРѕСЂРёС‚</plain>
         </string>
         <string>
-            <plain>Он силой Духа Своего;</plain>
+            <plain>РћРЅ СЃРёР»РѕР№ Р”СѓС…Р° РЎРІРѕРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>Покой и радость мне дарит.</plain>
+            <plain>РџРѕРєРѕР№ Рё СЂР°РґРѕСЃС‚СЊ РјРЅРµ РґР°СЂРёС‚.</plain>
         </string>
         <string>
-            <plain>И я блажен в любви Его.</plain>
+            <plain>Р СЏ Р±Р»Р°Р¶РµРЅ РІ Р»СЋР±РІРё Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, призываю, люди, вас:</plain>
+            <plain>Рћ, РїСЂРёР·С‹РІР°СЋ, Р»СЋРґРё, РІР°СЃ:</plain>
         </string>
         <string>
-            <plain>Скорей отдайтесь вы Христу!</plain>
+            <plain>РЎРєРѕСЂРµР№ РѕС‚РґР°Р№С‚РµСЃСЊ РІС‹ РҐСЂРёСЃС‚Сѓ!</plain>
         </string>
         <string>
-            <plain>И вы найдете в тот же час</plain>
+            <plain>Р РІС‹ РЅР°Р№РґРµС‚Рµ РІ С‚РѕС‚ Р¶Рµ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Спасенья в Нем всю полноту.</plain>
+            <plain>РЎРїР°СЃРµРЅСЊСЏ РІ РќРµРј РІСЃСЋ РїРѕР»РЅРѕС‚Сѓ.</plain>
         </string>
     </verse>
 </psalm>

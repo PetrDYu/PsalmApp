@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="712" name="Мы окончили ученье" canon="false" text="" textRus="" music="">
+<psalm number="712" name="РњС‹ РѕРєРѕРЅС‡РёР»Рё СѓС‡РµРЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы окончили ученье</plain>
+            <plain>РњС‹ РѕРєРѕРЅС‡РёР»Рё СѓС‡РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И домой пойдем,</plain>
+            <plain>Р РґРѕРјРѕР№ РїРѕР№РґРµРј,</plain>
         </string>
         <string>
-            <plain>Все благие наставленья</plain>
+            <plain>Р’СЃРµ Р±Р»Р°РіРёРµ РЅР°СЃС‚Р°РІР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В сердце мы возьмем.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РјС‹ РІРѕР·СЊРјРµРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мирно, тихо, мирно, тихо</plain>
+            <plain>РњРёСЂРЅРѕ, С‚РёС…Рѕ, РјРёСЂРЅРѕ, С‚РёС…Рѕ</plain>
         </string>
         <string>
-            <plain>Мы домой пойдем.</plain>
+            <plain>РњС‹ РґРѕРјРѕР№ РїРѕР№РґРµРј.</plain>
         </string>
         <string>
-            <plain>Все благие наставленнья</plain>
+            <plain>Р’СЃРµ Р±Р»Р°РіРёРµ РЅР°СЃС‚Р°РІР»РµРЅРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В сердце мы возьмем.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РјС‹ РІРѕР·СЊРјРµРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дай, Спаситель, нам желанье</plain>
+            <plain>Р”Р°Р№, РЎРїР°СЃРёС‚РµР»СЊ, РЅР°Рј Р¶РµР»Р°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Церковь посещать</plain>
+            <plain>Р¦РµСЂРєРѕРІСЊ РїРѕСЃРµС‰Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И учиться свыше знанью</plain>
+            <plain>Р СѓС‡РёС‚СЊСЃСЏ СЃРІС‹С€Рµ Р·РЅР°РЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>О Тебе вещать.</plain>
+            <plain>Рћ РўРµР±Рµ РІРµС‰Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Будем ждать мы воскресенья,</plain>
+            <plain>Р‘СѓРґРµРј Р¶РґР°С‚СЊ РјС‹ РІРѕСЃРєСЂРµСЃРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб опять прийти,</plain>
+            <plain>Р§С‚РѕР± РѕРїСЏС‚СЊ РїСЂРёР№С‚Рё,</plain>
         </string>
         <string>
-            <plain>И послушать наставленья</plain>
+            <plain>Р РїРѕСЃР»СѓС€Р°С‚СЊ РЅР°СЃС‚Р°РІР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Как себя вести.</plain>
+            <plain>РљР°Рє СЃРµР±СЏ РІРµСЃС‚Рё.</plain>
         </string>
     </verse>
 </psalm>

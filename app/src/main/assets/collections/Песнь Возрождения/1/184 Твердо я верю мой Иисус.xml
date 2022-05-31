@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="184" name="Твердо я верю мой Иисус" canon="false" text="" textRus="" music="">
+<psalm number="184" name="РўРІРµСЂРґРѕ СЏ РІРµСЂСЋ РјРѕР№ РРёСЃСѓСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Твердо я верю: мой Иисус!</plain>
+            <plain>РўРІРµСЂРґРѕ СЏ РІРµСЂСЋ: РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
         <string>
-            <plain>Им я утешен и Им веселюсь;</plain>
+            <plain>РРј СЏ СѓС‚РµС€РµРЅ Рё РРј РІРµСЃРµР»СЋСЃСЊ;</plain>
         </string>
         <string>
-            <plain>Неба наследье хочет Он дать,</plain>
+            <plain>РќРµР±Р° РЅР°СЃР»РµРґСЊРµ С…РѕС‡РµС‚ РћРЅ РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Как же приятно им обладать!</plain>
+            <plain>РљР°Рє Р¶Рµ РїСЂРёСЏС‚РЅРѕ РёРј РѕР±Р»Р°РґР°С‚СЊ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вечно я буду петь с торжеством</plain>
+            <plain>Р’РµС‡РЅРѕ СЏ Р±СѓРґСѓ РїРµС‚СЊ СЃ С‚РѕСЂР¶РµСЃС‚РІРѕРј</plain>
         </string>
         <string>
-            <plain>Об Иисусе дивном моем.</plain>
+            <plain>РћР± РРёСЃСѓСЃРµ РґРёРІРЅРѕРј РјРѕРµРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Твердо я верю: с часа того,</plain>
+            <plain>РўРІРµСЂРґРѕ СЏ РІРµСЂСЋ: СЃ С‡Р°СЃР° С‚РѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>Как я отдался, дитя я Его.</plain>
+            <plain>РљР°Рє СЏ РѕС‚РґР°Р»СЃСЏ, РґРёС‚СЏ СЏ Р•РіРѕ.</plain>
         </string>
         <string>
-            <plain>Мир наполняет сердце мое,</plain>
+            <plain>РњРёСЂ РЅР°РїРѕР»РЅСЏРµС‚ СЃРµСЂРґС†Рµ РјРѕРµ,</plain>
         </string>
         <string>
-            <plain>В Нем нахожу я хлеб и питье.</plain>
+            <plain>Р’ РќРµРј РЅР°С…РѕР¶Сѓ СЏ С…Р»РµР± Рё РїРёС‚СЊРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Твердо я верю: сильной рукой</plain>
+            <plain>РўРІРµСЂРґРѕ СЏ РІРµСЂСЋ: СЃРёР»СЊРЅРѕР№ СЂСѓРєРѕР№</plain>
         </string>
         <string>
-            <plain>Он простирает Свой кров надо мной.</plain>
+            <plain>РћРЅ РїСЂРѕСЃС‚РёСЂР°РµС‚ РЎРІРѕР№ РєСЂРѕРІ РЅР°РґРѕ РјРЅРѕР№.</plain>
         </string>
         <string>
-            <plain>Чтоб ни случилось, радостен дух:</plain>
+            <plain>Р§С‚РѕР± РЅРё СЃР»СѓС‡РёР»РѕСЃСЊ, СЂР°РґРѕСЃС‚РµРЅ РґСѓС…:</plain>
         </string>
         <string>
-            <plain>Вечно со Мною Пастырь и Друг.</plain>
+            <plain>Р’РµС‡РЅРѕ СЃРѕ РњРЅРѕСЋ РџР°СЃС‚С‹СЂСЊ Рё Р”СЂСѓРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Чудный и полный мир и покой</plain>
+            <plain>Р§СѓРґРЅС‹Р№ Рё РїРѕР»РЅС‹Р№ РјРёСЂ Рё РїРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>Дух мой находит в союзе с Тобой;</plain>
+            <plain>Р”СѓС… РјРѕР№ РЅР°С…РѕРґРёС‚ РІ СЃРѕСЋР·Рµ СЃ РўРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>Дай, чтоб Тебе я сердце отдал;</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РўРµР±Рµ СЏ СЃРµСЂРґС†Рµ РѕС‚РґР°Р»;</plain>
         </string>
         <string>
-            <plain>Я б умалялся, Ты б возрастал.</plain>
+            <plain>РЇ Р± СѓРјР°Р»СЏР»СЃСЏ, РўС‹ Р± РІРѕР·СЂР°СЃС‚Р°Р».</plain>
         </string>
     </verse>
 </psalm>

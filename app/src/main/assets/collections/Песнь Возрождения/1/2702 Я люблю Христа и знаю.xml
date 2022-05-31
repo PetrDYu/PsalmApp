@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2702" name="Я люблю Христа и знаю" canon="false" text="" textRus="" music="">
+<psalm number="2702" name="РЇ Р»СЋР±Р»СЋ РҐСЂРёСЃС‚Р° Рё Р·РЅР°СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я люблю Христа и знаю,</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ РҐСЂРёСЃС‚Р° Рё Р·РЅР°СЋ,</plain>
         </string>
         <string>
-            <plain>Любит Он давно меня.</plain>
+            <plain>Р›СЋР±РёС‚ РћРЅ РґР°РІРЅРѕ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Песни я Ему слагаю,</plain>
+            <plain>РџРµСЃРЅРё СЏ Р•РјСѓ СЃР»Р°РіР°СЋ,</plain>
         </string>
         <string>
-            <plain>Лишь о Нем поет душа.</plain>
+            <plain>Р›РёС€СЊ Рѕ РќРµРј РїРѕРµС‚ РґСѓС€Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Христа люблю, О Нем пою,</plain>
+            <plain>РҐСЂРёСЃС‚Р° Р»СЋР±Р»СЋ, Рћ РќРµРј РїРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Союзом с Ним хвалюсь и дорожу.</plain>
+            <plain>РЎРѕСЋР·РѕРј СЃ РќРёРј С…РІР°Р»СЋСЃСЊ Рё РґРѕСЂРѕР¶Сѓ.</plain>
         </string>
         <string>
-            <plain>Люблю Христа, Он жизнь моя,</plain>
+            <plain>Р›СЋР±Р»СЋ РҐСЂРёСЃС‚Р°, РћРЅ Р¶РёР·РЅСЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Он прежде возлюбил меня.</plain>
+            <plain>РћРЅ РїСЂРµР¶РґРµ РІРѕР·Р»СЋР±РёР» РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Всем бы людям рассказал я,</plain>
+            <plain>Р’СЃРµРј Р±С‹ Р»СЋРґСЏРј СЂР°СЃСЃРєР°Р·Р°Р» СЏ,</plain>
         </string>
         <string>
-            <plain>Как меня Он возлюбил.</plain>
+            <plain>РљР°Рє РјРµРЅСЏ РћРЅ РІРѕР·Р»СЋР±РёР».</plain>
         </string>
         <string>
-            <plain>Прежде, чем Его узнал я,</plain>
+            <plain>РџСЂРµР¶РґРµ, С‡РµРј Р•РіРѕ СѓР·РЅР°Р» СЏ,</plain>
         </string>
         <string>
-            <plain>За меня Он кровь пролил.</plain>
+            <plain>Р—Р° РјРµРЅСЏ РћРЅ РєСЂРѕРІСЊ РїСЂРѕР»РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Никогда не перестану</plain>
+            <plain>РќРёРєРѕРіРґР° РЅРµ РїРµСЂРµСЃС‚Р°РЅСѓ</plain>
         </string>
         <string>
-            <plain>Воспевать любовь Христа.</plain>
+            <plain>Р’РѕСЃРїРµРІР°С‚СЊ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Верю, я пред Ним предстану,</plain>
+            <plain>Р’РµСЂСЋ, СЏ РїСЂРµРґ РќРёРј РїСЂРµРґСЃС‚Р°РЅСѓ,</plain>
         </string>
         <string>
-            <plain>С Ним сольюся навсегда.</plain>
+            <plain>РЎ РќРёРј СЃРѕР»СЊСЋСЃСЏ РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если вы, друзья, хотите</plain>
+            <plain>Р•СЃР»Рё РІС‹, РґСЂСѓР·СЊСЏ, С…РѕС‚РёС‚Рµ</plain>
         </string>
         <string>
-            <plain>Быть счастливыми всегда,</plain>
+            <plain>Р‘С‹С‚СЊ СЃС‡Р°СЃС‚Р»РёРІС‹РјРё РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>Дар любви Христа примите.</plain>
+            <plain>Р”Р°СЂ Р»СЋР±РІРё РҐСЂРёСЃС‚Р° РїСЂРёРјРёС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Будут петь ваши уста.</plain>
+            <plain>Р‘СѓРґСѓС‚ РїРµС‚СЊ РІР°С€Рё СѓСЃС‚Р°.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="773" name="Велик небесный наш Отец" canon="false" text="" textRus="" music="">
+<psalm number="773" name="Р’РµР»РёРє РЅРµР±РµСЃРЅС‹Р№ РЅР°С€ РћС‚РµС†" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Велик небесный наш Отец:</plain>
+            <plain>Р’РµР»РёРє РЅРµР±РµСЃРЅС‹Р№ РЅР°С€ РћС‚РµС†:</plain>
         </string>
         <string>
-            <plain>Творит Он чудеса.</plain>
+            <plain>РўРІРѕСЂРёС‚ РћРЅ С‡СѓРґРµСЃР°.</plain>
         </string>
         <string>
-            <plain>Его могущества везде</plain>
+            <plain>Р•РіРѕ РјРѕРіСѓС‰РµСЃС‚РІР° РІРµР·РґРµ</plain>
         </string>
         <string>
-            <plain>Мы слышим голоса.</plain>
+            <plain>РњС‹ СЃР»С‹С€РёРј РіРѕР»РѕСЃР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Чудесно звезды поместил в кругу пустом,</plain>
+            <plain>Р§СѓРґРµСЃРЅРѕ Р·РІРµР·РґС‹ РїРѕРјРµСЃС‚РёР» РІ РєСЂСѓРіСѓ РїСѓСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Чудесно землю Он повесил ни на чем!</plain>
+            <plain>Р§СѓРґРµСЃРЅРѕ Р·РµРјР»СЋ РћРЅ РїРѕРІРµСЃРёР» РЅРё РЅР° С‡РµРј!</plain>
         </string>
         <string>
-            <plain>Но чтоб меня спасти и в Свой дом ввести –</plain>
+            <plain>РќРѕ С‡С‚РѕР± РјРµРЅСЏ СЃРїР°СЃС‚Рё Рё РІ РЎРІРѕР№ РґРѕРј РІРІРµСЃС‚Рё вЂ“</plain>
         </string>
         <string>
-            <plain>Явил Он чудо вечной милости.</plain>
+            <plain>РЇРІРёР» РћРЅ С‡СѓРґРѕ РІРµС‡РЅРѕР№ РјРёР»РѕСЃС‚Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>По всей земле, во всех делах</plain>
+            <plain>РџРѕ РІСЃРµР№ Р·РµРјР»Рµ, РІРѕ РІСЃРµС… РґРµР»Р°С…</plain>
         </string>
         <string>
-            <plain>Бог виден нам во всем!</plain>
+            <plain>Р‘РѕРі РІРёРґРµРЅ РЅР°Рј РІРѕ РІСЃРµРј!</plain>
         </string>
         <string>
-            <plain>Но полноту Его любви –</plain>
+            <plain>РќРѕ РїРѕР»РЅРѕС‚Сѓ Р•РіРѕ Р»СЋР±РІРё вЂ“</plain>
         </string>
         <string>
-            <plain>Лишь в вечности поймем.</plain>
+            <plain>Р›РёС€СЊ РІ РІРµС‡РЅРѕСЃС‚Рё РїРѕР№РјРµРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О Нем Писанье говорит,</plain>
+            <plain>Рћ РќРµРј РџРёСЃР°РЅСЊРµ РіРѕРІРѕСЂРёС‚,</plain>
         </string>
         <string>
-            <plain>Ему хвала звучит:</plain>
+            <plain>Р•РјСѓ С…РІР°Р»Р° Р·РІСѓС‡РёС‚:</plain>
         </string>
         <string>
-            <plain>И в пенье птичек, и в цветах,</plain>
+            <plain>Р РІ РїРµРЅСЊРµ РїС‚РёС‡РµРє, Рё РІ С†РІРµС‚Р°С…,</plain>
         </string>
         <string>
-            <plain>И в вечных небесах.</plain>
+            <plain>Р РІ РІРµС‡РЅС‹С… РЅРµР±РµСЃР°С….</plain>
         </string>
     </verse>
 </psalm>

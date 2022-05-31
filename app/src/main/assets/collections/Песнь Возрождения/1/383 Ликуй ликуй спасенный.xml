@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="383" name="Ликуй ликуй спасенный" canon="false" text="" textRus="" music="">
+<psalm number="383" name="Р›РёРєСѓР№ Р»РёРєСѓР№ СЃРїР°СЃРµРЅРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ликуй, ликуй, спасенный!</plain>
+            <plain>Р›РёРєСѓР№, Р»РёРєСѓР№, СЃРїР°СЃРµРЅРЅС‹Р№!</plain>
         </string>
         <string>
-            <plain>Пусть будет славой, радостью твоей</plain>
+            <plain>РџСѓСЃС‚СЊ Р±СѓРґРµС‚ СЃР»Р°РІРѕР№, СЂР°РґРѕСЃС‚СЊСЋ С‚РІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Спаситель, вознесенный</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РІРѕР·РЅРµСЃРµРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>За все твои грехи на крест скорбей.</plain>
+            <plain>Р—Р° РІСЃРµ С‚РІРѕРё РіСЂРµС…Рё РЅР° РєСЂРµСЃС‚ СЃРєРѕСЂР±РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ликуй, ликуй спасенный,</plain>
+            <plain>Р›РёРєСѓР№, Р»РёРєСѓР№ СЃРїР°СЃРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>И пой о Том,</plain>
+            <plain>Р РїРѕР№ Рѕ РўРѕРј,</plain>
         </string>
         <string>
-            <plain>Кто пребывает вечно, -</plain>
+            <plain>РљС‚Рѕ РїСЂРµР±С‹РІР°РµС‚ РІРµС‡РЅРѕ, -</plain>
         </string>
         <string>
-            <plain>О Господе твоем!</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґРµ С‚РІРѕРµРј!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ликуй, ликуй спасенный!</plain>
+            <plain>Р›РёРєСѓР№, Р»РёРєСѓР№ СЃРїР°СЃРµРЅРЅС‹Р№!</plain>
         </string>
         <string>
-            <plain>Ты безопасен под крылом Его;</plain>
+            <plain>РўС‹ Р±РµР·РѕРїР°СЃРµРЅ РїРѕРґ РєСЂС‹Р»РѕРј Р•РіРѕ;</plain>
         </string>
         <string>
-            <plain>Вихрь бури разъяренной</plain>
+            <plain>Р’РёС…СЂСЊ Р±СѓСЂРё СЂР°Р·СЉСЏСЂРµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Отнять не может мира твоего.</plain>
+            <plain>РћС‚РЅСЏС‚СЊ РЅРµ РјРѕР¶РµС‚ РјРёСЂР° С‚РІРѕРµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ликуй, ликуй спасенный!</plain>
+            <plain>Р›РёРєСѓР№, Р»РёРєСѓР№ СЃРїР°СЃРµРЅРЅС‹Р№!</plain>
         </string>
         <string>
-            <plain>Тебя на высоте дом вечный ждет,</plain>
+            <plain>РўРµР±СЏ РЅР° РІС‹СЃРѕС‚Рµ РґРѕРј РІРµС‡РЅС‹Р№ Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>И в славе вознесенный</plain>
+            <plain>Р РІ СЃР»Р°РІРµ РІРѕР·РЅРµСЃРµРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Спаситель твой тебя туда зовет.</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ С‚РІРѕР№ С‚РµР±СЏ С‚СѓРґР° Р·РѕРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ликуй, ликуй спасенный!</plain>
+            <plain>Р›РёРєСѓР№, Р»РёРєСѓР№ СЃРїР°СЃРµРЅРЅС‹Р№!</plain>
         </string>
         <string>
-            <plain>Спеши войти в собрание святых</plain>
+            <plain>РЎРїРµС€Рё РІРѕР№С‚Рё РІ СЃРѕР±СЂР°РЅРёРµ СЃРІСЏС‚С‹С…</plain>
         </string>
         <string>
-            <plain>И, сердцем восхищенный,</plain>
+            <plain>Р, СЃРµСЂРґС†РµРј РІРѕСЃС…РёС‰РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Воспой всерадостный спасенья стих.</plain>
+            <plain>Р’РѕСЃРїРѕР№ РІСЃРµСЂР°РґРѕСЃС‚РЅС‹Р№ СЃРїР°СЃРµРЅСЊСЏ СЃС‚РёС….</plain>
         </string>
     </verse>
 </psalm>

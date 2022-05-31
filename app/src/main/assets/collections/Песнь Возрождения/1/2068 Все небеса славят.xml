@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2068" name="Все небеса славят" canon="false" text="" textRus="" music="">
+<psalm number="2068" name="Р’СЃРµ РЅРµР±РµСЃР° СЃР»Р°РІСЏС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Все небеса славят</plain>
+            <plain>Р’СЃРµ РЅРµР±РµСЃР° СЃР»Р°РІСЏС‚</plain>
         </string>
         <string>
-            <plain>Христа воскресшего.</plain>
+            <plain>РҐСЂРёСЃС‚Р° РІРѕСЃРєСЂРµСЃС€РµРіРѕ.</plain>
         </string>
         <string>
-            <plain>Сравнится кто</plain>
+            <plain>РЎСЂР°РІРЅРёС‚СЃСЏ РєС‚Рѕ</plain>
         </string>
         <string>
-            <plain>С сияньем красоты Его?</plain>
+            <plain>РЎ СЃРёСЏРЅСЊРµРј РєСЂР°СЃРѕС‚С‹ Р•РіРѕ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вовеки будет Он</plain>
+            <plain>Р’РѕРІРµРєРё Р±СѓРґРµС‚ РћРЅ</plain>
         </string>
         <string>
-            <plain>На троне Агнцем,</plain>
+            <plain>РќР° С‚СЂРѕРЅРµ РђРіРЅС†РµРј,</plain>
         </string>
         <string>
-            <plain>Колени преклоню</plain>
+            <plain>РљРѕР»РµРЅРё РїСЂРµРєР»РѕРЅСЋ</plain>
         </string>
         <string>
-            <plain>Ему я одному.</plain>
+            <plain>Р•РјСѓ СЏ РѕРґРЅРѕРјСѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Провозглашу славу</plain>
+            <plain>РџСЂРѕРІРѕР·РіР»Р°С€Сѓ СЃР»Р°РІСѓ</plain>
         </string>
         <string>
-            <plain>Христа воскресшего,</plain>
+            <plain>РҐСЂРёСЃС‚Р° РІРѕСЃРєСЂРµСЃС€РµРіРѕ,</plain>
         </string>
         <string>
-            <plain>Как был распят,</plain>
+            <plain>РљР°Рє Р±С‹Р» СЂР°СЃРїСЏС‚,</plain>
         </string>
         <string>
-            <plain>Чтоб примирить людей с Творцом.</plain>
+            <plain>Р§С‚РѕР± РїСЂРёРјРёСЂРёС‚СЊ Р»СЋРґРµР№ СЃ РўРІРѕСЂС†РѕРј.</plain>
         </string>
     </verse>
 </psalm>

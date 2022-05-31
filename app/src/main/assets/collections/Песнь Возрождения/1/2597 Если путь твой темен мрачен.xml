@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2597" name="Если путь твой темен мрачен" canon="false" text="" textRus="" music="">
+<psalm number="2597" name="Р•СЃР»Рё РїСѓС‚СЊ С‚РІРѕР№ С‚РµРјРµРЅ РјСЂР°С‡РµРЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если путь твой темен, мрачен</plain>
+            <plain>Р•СЃР»Рё РїСѓС‚СЊ С‚РІРѕР№ С‚РµРјРµРЅ, РјСЂР°С‡РµРЅ</plain>
         </string>
         <string>
-            <plain>И нависли облака,</plain>
+            <plain>Р РЅР°РІРёСЃР»Рё РѕР±Р»Р°РєР°,</plain>
         </string>
         <string>
-            <plain>Бурь не бойся, над тобою</plain>
+            <plain>Р‘СѓСЂСЊ РЅРµ Р±РѕР№СЃСЏ, РЅР°Рґ С‚РѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Божья сильная рука.</plain>
+            <plain>Р‘РѕР¶СЊСЏ СЃРёР»СЊРЅР°СЏ СЂСѓРєР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Верь Ему, Он власть имеет,</plain>
+            <plain>Р’РµСЂСЊ Р•РјСѓ, РћРЅ РІР»Р°СЃС‚СЊ РёРјРµРµС‚,</plain>
         </string>
         <string>
-            <plain>Буря перед Ним молчит.</plain>
+            <plain>Р‘СѓСЂСЏ РїРµСЂРµРґ РќРёРј РјРѕР»С‡РёС‚.</plain>
         </string>
         <string>
-            <plain>Властно Он грозу смиряет</plain>
+            <plain>Р’Р»Р°СЃС‚РЅРѕ РћРЅ РіСЂРѕР·Сѓ СЃРјРёСЂСЏРµС‚</plain>
         </string>
         <string>
-            <plain>И тебя Он сохранит.</plain>
+            <plain>Р С‚РµР±СЏ РћРЅ СЃРѕС…СЂР°РЅРёС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если ты теряешь силы,</plain>
+            <plain>Р•СЃР»Рё С‚С‹ С‚РµСЂСЏРµС€СЊ СЃРёР»С‹,</plain>
         </string>
         <string>
-            <plain>Изнемог в земной борьбе,</plain>
+            <plain>РР·РЅРµРјРѕРі РІ Р·РµРјРЅРѕР№ Р±РѕСЂСЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>Верь, надейся, твой Спаситель</plain>
+            <plain>Р’РµСЂСЊ, РЅР°РґРµР№СЃСЏ, С‚РІРѕР№ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Отдых, силы даст тебе.</plain>
+            <plain>РћС‚РґС‹С…, СЃРёР»С‹ РґР°СЃС‚ С‚РµР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Верь Ему, хоть все обьято</plain>
+            <plain>Р’РµСЂСЊ Р•РјСѓ, С…РѕС‚СЊ РІСЃРµ РѕР±СЊСЏС‚Рѕ</plain>
         </string>
         <string>
-            <plain>Беспросветной, мрачной тьмой.</plain>
+            <plain>Р‘РµСЃРїСЂРѕСЃРІРµС‚РЅРѕР№, РјСЂР°С‡РЅРѕР№ С‚СЊРјРѕР№.</plain>
         </string>
         <string>
-            <plain>Верный Страж не дремлет ночью,</plain>
+            <plain>Р’РµСЂРЅС‹Р№ РЎС‚СЂР°Р¶ РЅРµ РґСЂРµРјР»РµС‚ РЅРѕС‡СЊСЋ,</plain>
         </string>
         <string>
-            <plain>Бодрствует Он над тобой.</plain>
+            <plain>Р‘РѕРґСЂСЃС‚РІСѓРµС‚ РћРЅ РЅР°Рґ С‚РѕР±РѕР№.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Если горести, заботы</plain>
+            <plain>Р•СЃР»Рё РіРѕСЂРµСЃС‚Рё, Р·Р°Р±РѕС‚С‹</plain>
         </string>
         <string>
-            <plain>Нарушают твой покой,</plain>
+            <plain>РќР°СЂСѓС€Р°СЋС‚ С‚РІРѕР№ РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Обратись к Тому, Кто может</plain>
+            <plain>РћР±СЂР°С‚РёСЃСЊ Рє РўРѕРјСѓ, РљС‚Рѕ РјРѕР¶РµС‚</plain>
         </string>
         <string>
-            <plain>Облегчить твой путь земной.</plain>
+            <plain>РћР±Р»РµРіС‡РёС‚СЊ С‚РІРѕР№ РїСѓС‚СЊ Р·РµРјРЅРѕР№.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Дар святой, Дух благодати,</plain>
+            <plain>Р”Р°СЂ СЃРІСЏС‚РѕР№, Р”СѓС… Р±Р»Р°РіРѕРґР°С‚Рё,</plain>
         </string>
         <string>
-            <plain>Помощь Бог тебе пошлет.</plain>
+            <plain>РџРѕРјРѕС‰СЊ Р‘РѕРі С‚РµР±Рµ РїРѕС€Р»РµС‚.</plain>
         </string>
         <string>
-            <plain>Свет небесный, лучезарный</plain>
+            <plain>РЎРІРµС‚ РЅРµР±РµСЃРЅС‹Р№, Р»СѓС‡РµР·Р°СЂРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Он во тьму невзгод прольет.</plain>
+            <plain>РћРЅ РІРѕ С‚СЊРјСѓ РЅРµРІР·РіРѕРґ РїСЂРѕР»СЊРµС‚.</plain>
         </string>
     </chorus>
     <verse number="4">
         <string>
-            <plain>Верь Ему - Творцу вселенной,</plain>
+            <plain>Р’РµСЂСЊ Р•РјСѓ - РўРІРѕСЂС†Сѓ РІСЃРµР»РµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Хоть и труден здесь твой путь,</plain>
+            <plain>РҐРѕС‚СЊ Рё С‚СЂСѓРґРµРЅ Р·РґРµСЃСЊ С‚РІРѕР№ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Твердо стой средь искушений,</plain>
+            <plain>РўРІРµСЂРґРѕ СЃС‚РѕР№ СЃСЂРµРґСЊ РёСЃРєСѓС€РµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>верным до конца пребудь.</plain>
+            <plain>РІРµСЂРЅС‹Рј РґРѕ РєРѕРЅС†Р° РїСЂРµР±СѓРґСЊ.</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>"С вами во все дни Я буду",</plain>
+            <plain>"РЎ РІР°РјРё РІРѕ РІСЃРµ РґРЅРё РЇ Р±СѓРґСѓ",</plain>
         </string>
         <string>
-            <plain>- Обещал Спаситель нам,</plain>
+            <plain>- РћР±РµС‰Р°Р» РЎРїР°СЃРёС‚РµР»СЊ РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Уповай, надейся твердо,</plain>
+            <plain>РЈРїРѕРІР°Р№, РЅР°РґРµР№СЃСЏ С‚РІРµСЂРґРѕ,</plain>
         </string>
         <string>
-            <plain>Верь Его святым словам.</plain>
+            <plain>Р’РµСЂСЊ Р•РіРѕ СЃРІСЏС‚С‹Рј СЃР»РѕРІР°Рј.</plain>
         </string>
     </chorus>
 </psalm>

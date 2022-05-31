@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2260" name="О мой Господь перед Тобой" canon="false" text="" textRus="" music="">
+<psalm number="2260" name="Рћ РјРѕР№ Р“РѕСЃРїРѕРґСЊ РїРµСЂРµРґ РўРѕР±РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, мой Господь, перед Тобой,</plain>
+            <plain>Рћ, РјРѕР№ Р“РѕСЃРїРѕРґСЊ, РїРµСЂРµРґ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Склонив главу, стою в смиренье</plain>
+            <plain>РЎРєР»РѕРЅРёРІ РіР»Р°РІСѓ, СЃС‚РѕСЋ РІ СЃРјРёСЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И ощущаю над собой</plain>
+            <plain>Р РѕС‰СѓС‰Р°СЋ РЅР°Рґ СЃРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>Твоей руки благословенье.</plain>
+            <plain>РўРІРѕРµР№ СЂСѓРєРё Р±Р»Р°РіРѕСЃР»РѕРІРµРЅСЊРµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Я знаю, Ты меня простил,</plain>
+            <plain>РЇ Р·РЅР°СЋ, РўС‹ РјРµРЅСЏ РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Омыл Своей святою кровыо</plain>
+            <plain>РћРјС‹Р» РЎРІРѕРµР№ СЃРІСЏС‚РѕСЋ РєСЂРѕРІС‹Рѕ</plain>
         </string>
         <string>
-            <plain>И к новой жизни воскресил</plain>
+            <plain>Р Рє РЅРѕРІРѕР№ Р¶РёР·РЅРё РІРѕСЃРєСЂРµСЃРёР»</plain>
         </string>
         <string>
-            <plain>Своей Божественной любовью.</plain>
+            <plain>РЎРІРѕРµР№ Р‘РѕР¶РµСЃС‚РІРµРЅРЅРѕР№ Р»СЋР±РѕРІСЊСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но я в безумстве отвергал</plain>
+            <plain>РќРѕ СЏ РІ Р±РµР·СѓРјСЃС‚РІРµ РѕС‚РІРµСЂРіР°Р»</plain>
         </string>
         <string>
-            <plain>Твоё небесное ученье</plain>
+            <plain>РўРІРѕС‘ РЅРµР±РµСЃРЅРѕРµ СѓС‡РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И плакал горько и стонал</plain>
+            <plain>Р РїР»Р°РєР°Р» РіРѕСЂСЊРєРѕ Рё СЃС‚РѕРЅР°Р»</plain>
         </string>
         <string>
-            <plain>От мук душевного смятенья,</plain>
+            <plain>РћС‚ РјСѓРє РґСѓС€РµРІРЅРѕРіРѕ СЃРјСЏС‚РµРЅСЊСЏ,</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В суетной жизни был томим,</plain>
+            <plain>Р’ СЃСѓРµС‚РЅРѕР№ Р¶РёР·РЅРё Р±С‹Р» С‚РѕРјРёРј,</plain>
         </string>
         <string>
-            <plain>К чему стремился, сам не знаю.</plain>
+            <plain>Рљ С‡РµРјСѓ СЃС‚СЂРµРјРёР»СЃСЏ, СЃР°Рј РЅРµ Р·РЅР°СЋ.</plain>
         </string>
         <string>
-            <plain>И, как Тобой ещё храним,</plain>
+            <plain>Р, РєР°Рє РўРѕР±РѕР№ РµС‰С‘ С…СЂР°РЅРёРј,</plain>
         </string>
         <string>
-            <plain>Я до сих пор не пониМаю.</plain>
+            <plain>РЇ РґРѕ СЃРёС… РїРѕСЂ РЅРµ РїРѕРЅРёРњР°СЋ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я был в пороках без числа,</plain>
+            <plain>РЇ Р±С‹Р» РІ РїРѕСЂРѕРєР°С… Р±РµР· С‡РёСЃР»Р°,</plain>
         </string>
         <string>
-            <plain>Искал в неверье наслаждены,</plain>
+            <plain>РСЃРєР°Р» РІ РЅРµРІРµСЂСЊРµ РЅР°СЃР»Р°Р¶РґРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Но каждый раз меня звала</plain>
+            <plain>РќРѕ РєР°Р¶РґС‹Р№ СЂР°Р· РјРµРЅСЏ Р·РІР°Р»Р°</plain>
         </string>
         <string>
-            <plain>Твоя любовь мне дать прощенье.</plain>
+            <plain>РўРІРѕСЏ Р»СЋР±РѕРІСЊ РјРЅРµ РґР°С‚СЊ РїСЂРѕС‰РµРЅСЊРµ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Мне хорошо теперь с Тобой</plain>
+            <plain>РњРЅРµ С…РѕСЂРѕС€Рѕ С‚РµРїРµСЂСЊ СЃ РўРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>Делить и радость, и общенье</plain>
+            <plain>Р”РµР»РёС‚СЊ Рё СЂР°РґРѕСЃС‚СЊ, Рё РѕР±С‰РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И обновлённою душой</plain>
+            <plain>Р РѕР±РЅРѕРІР»С‘РЅРЅРѕСЋ РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>К Тебе нести свои моленья.</plain>
+            <plain>Рљ РўРµР±Рµ РЅРµСЃС‚Рё СЃРІРѕРё РјРѕР»РµРЅСЊСЏ.</plain>
         </string>
     </verse>
 </psalm>

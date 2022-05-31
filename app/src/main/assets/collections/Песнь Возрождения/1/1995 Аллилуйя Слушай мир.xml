@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1995" name="Аллилуйя Слушай мир" canon="false" text="" textRus="" music="">
+<psalm number="1995" name="РђР»Р»РёР»СѓР№СЏ РЎР»СѓС€Р°Р№ РјРёСЂ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Аллилуйя, Слушай, мир,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РЎР»СѓС€Р°Р№, РјРёСЂ,</plain>
         </string>
         <string>
-            <plain>Христос рожден;</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ СЂРѕР¶РґРµРЅ;</plain>
         </string>
         <string>
-            <plain>В бедных яслях положен.</plain>
+            <plain>Р’ Р±РµРґРЅС‹С… СЏСЃР»СЏС… РїРѕР»РѕР¶РµРЅ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Это чудо из чудес!</plain>
+            <plain>Р­С‚Рѕ С‡СѓРґРѕ РёР· С‡СѓРґРµСЃ!</plain>
         </string>
         <string>
-            <plain>Пойте, жители небес!</plain>
+            <plain>РџРѕР№С‚Рµ, Р¶РёС‚РµР»Рё РЅРµР±РµСЃ!</plain>
         </string>
         <string>
-            <plain>Вторьте, люди и земля.</plain>
+            <plain>Р’С‚РѕСЂСЊС‚Рµ, Р»СЋРґРё Рё Р·РµРјР»СЏ.</plain>
         </string>
         <string>
-            <plain>Милость Господа хваля.</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ Р“РѕСЃРїРѕРґР° С…РІР°Р»СЏ.</plain>
         </string>
         <string>
-            <plain>Слава Богу в небесах:</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ РІ РЅРµР±РµСЃР°С…:</plain>
         </string>
         <string>
-            <plain>Мир творит Господь в сердцах.</plain>
+            <plain>РњРёСЂ С‚РІРѕСЂРёС‚ Р“РѕСЃРїРѕРґСЊ РІ СЃРµСЂРґС†Р°С….</plain>
         </string>
         <string>
-            <plain>Божий Сын оставил трон,</plain>
+            <plain>Р‘РѕР¶РёР№ РЎС‹РЅ РѕСЃС‚Р°РІРёР» С‚СЂРѕРЅ,</plain>
         </string>
         <string>
-            <plain>В бедных яслях положен.</plain>
+            <plain>Р’ Р±РµРґРЅС‹С… СЏСЃР»СЏС… РїРѕР»РѕР¶РµРЅ.</plain>
         </string>
         <string>
-            <plain>Преклонившись перед Ним,</plain>
+            <plain>РџСЂРµРєР»РѕРЅРёРІС€РёСЃСЊ РїРµСЂРµРґ РќРёРј,</plain>
         </string>
         <string>
-            <plain>Славу Богу воздадим.</plain>
+            <plain>РЎР»Р°РІСѓ Р‘РѕРіСѓ РІРѕР·РґР°РґРёРј.</plain>
         </string>
         <string>
-            <plain>Аллилуйя. Аминь.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ. РђРјРёРЅСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Аллилуйя. Наш Господь Христос воскрес.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ. РќР°С€ Р“РѕСЃРїРѕРґСЊ РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ.</plain>
         </string>
         <string>
-            <plain>Пойте, жители небес,</plain>
+            <plain>РџРѕР№С‚Рµ, Р¶РёС‚РµР»Рё РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>Вторьте, люди и земля.</plain>
+            <plain>Р’С‚РѕСЂСЊС‚Рµ, Р»СЋРґРё Рё Р·РµРјР»СЏ.</plain>
         </string>
         <string>
-            <plain>Милость Господа хваля.</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ Р“РѕСЃРїРѕРґР° С…РІР°Р»СЏ.</plain>
         </string>
         <string>
-            <plain>Пала стража, где плита?</plain>
+            <plain>РџР°Р»Р° СЃС‚СЂР°Р¶Р°, РіРґРµ РїР»РёС‚Р°?</plain>
         </string>
         <string>
-            <plain>Дрогнут ада ворота.</plain>
+            <plain>Р”СЂРѕРіРЅСѓС‚ Р°РґР° РІРѕСЂРѕС‚Р°.</plain>
         </string>
         <string>
-            <plain>Смерть могла ль Христа держать?</plain>
+            <plain>РЎРјРµСЂС‚СЊ РјРѕРіР»Р° Р»СЊ РҐСЂРёСЃС‚Р° РґРµСЂР¶Р°С‚СЊ?</plain>
         </string>
         <string>
-            <plain>Рай открыла благодать.</plain>
+            <plain>Р Р°Р№ РѕС‚РєСЂС‹Р»Р° Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Смерть разбита, смерть без сил</plain>
+            <plain>РЎРјРµСЂС‚СЊ СЂР°Р·Р±РёС‚Р°, СЃРјРµСЂС‚СЊ Р±РµР· СЃРёР»</plain>
         </string>
         <string>
-            <plain>- Царь Спаситель победил;</plain>
+            <plain>- Р¦Р°СЂСЊ РЎРїР°СЃРёС‚РµР»СЊ РїРѕР±РµРґРёР»;</plain>
         </string>
         <string>
-            <plain>Умер Он, чтоб умер грех.</plain>
+            <plain>РЈРјРµСЂ РћРЅ, С‡С‚РѕР± СѓРјРµСЂ РіСЂРµС….</plain>
         </string>
         <string>
-            <plain>Страшный ад! Где твой успех?</plain>
+            <plain>РЎС‚СЂР°С€РЅС‹Р№ Р°Рґ! Р“РґРµ С‚РІРѕР№ СѓСЃРїРµС…?</plain>
         </string>
         <string>
-            <plain>Аллилуйя. Аминь.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ. РђРјРёРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

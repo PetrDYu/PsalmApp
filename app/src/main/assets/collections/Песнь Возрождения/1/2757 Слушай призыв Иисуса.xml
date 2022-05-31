@@ -1,129 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2757" name="Слушай призыв Иисуса" canon="false" text="" textRus="" music="">
+<psalm number="2757" name="РЎР»СѓС€Р°Р№ РїСЂРёР·С‹РІ РРёСЃСѓСЃР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слушай призыв Иисуса,</plain>
+            <plain>РЎР»СѓС€Р°Р№ РїСЂРёР·С‹РІ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>Он стучится в сердце вновь,</plain>
+            <plain>РћРЅ СЃС‚СѓС‡РёС‚СЃСЏ РІ СЃРµСЂРґС†Рµ РІРЅРѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>Не откладывай сегодня,</plain>
+            <plain>РќРµ РѕС‚РєР»Р°РґС‹РІР°Р№ СЃРµРіРѕРґРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Но прими Его любовь.</plain>
+            <plain>РќРѕ РїСЂРёРјРё Р•РіРѕ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он от зла тебе защита,</plain>
+            <plain>РћРЅ РѕС‚ Р·Р»Р° С‚РµР±Рµ Р·Р°С‰РёС‚Р°,</plain>
         </string>
         <string>
-            <plain>Он покров средь бури злой,</plain>
+            <plain>РћРЅ РїРѕРєСЂРѕРІ СЃСЂРµРґСЊ Р±СѓСЂРё Р·Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>В Нем спасенья дверь открыта.</plain>
+            <plain>Р’ РќРµРј СЃРїР°СЃРµРЅСЊСЏ РґРІРµСЂСЊ РѕС‚РєСЂС‹С‚Р°.</plain>
         </string>
         <string>
-            <plain>О, приди к Нему с мольбой!</plain>
+            <plain>Рћ, РїСЂРёРґРё Рє РќРµРјСѓ СЃ РјРѕР»СЊР±РѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Жизнь польется в чудном свете,</plain>
+            <plain>Р–РёР·РЅСЊ РїРѕР»СЊРµС‚СЃСЏ РІ С‡СѓРґРЅРѕРј СЃРІРµС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Как прекрасная река,</plain>
+            <plain>РљР°Рє РїСЂРµРєСЂР°СЃРЅР°СЏ СЂРµРєР°,</plain>
         </string>
         <string>
-            <plain>Кто найдет в спасены вечном</plain>
+            <plain>РљС‚Рѕ РЅР°Р№РґРµС‚ РІ СЃРїР°СЃРµРЅС‹ РІРµС‡РЅРѕРј</plain>
         </string>
         <string>
-            <plain>Искуплены от греха.</plain>
+            <plain>РСЃРєСѓРїР»РµРЅС‹ РѕС‚ РіСЂРµС…Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Друг; возжажди те мгновенья,</plain>
+            <plain>Р”СЂСѓРі; РІРѕР·Р¶Р°Р¶РґРё С‚Рµ РјРіРЅРѕРІРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Чтобы стук услышать вновь,</plain>
+            <plain>Р§С‚РѕР±С‹ СЃС‚СѓРє СѓСЃР»С‹С€Р°С‚СЊ РІРЅРѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>Чтобы в свете обновленья</plain>
+            <plain>Р§С‚РѕР±С‹ РІ СЃРІРµС‚Рµ РѕР±РЅРѕРІР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Господа познать любовь.</plain>
+            <plain>Р“РѕСЃРїРѕРґР° РїРѕР·РЅР°С‚СЊ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В мире этом скоротечном</plain>
+            <plain>Р’ РјРёСЂРµ СЌС‚РѕРј СЃРєРѕСЂРѕС‚РµС‡РЅРѕРј</plain>
         </string>
         <string>
-            <plain>Господа народ клеймит.</plain>
+            <plain>Р“РѕСЃРїРѕРґР° РЅР°СЂРѕРґ РєР»РµР№РјРёС‚.</plain>
         </string>
         <string>
-            <plain>Он не знает, что за гробом</plain>
+            <plain>РћРЅ РЅРµ Р·РЅР°РµС‚, С‡С‚Рѕ Р·Р° РіСЂРѕР±РѕРј</plain>
         </string>
         <string>
-            <plain>Страшный суд Господь свершит.</plain>
+            <plain>РЎС‚СЂР°С€РЅС‹Р№ СЃСѓРґ Р“РѕСЃРїРѕРґСЊ СЃРІРµСЂС€РёС‚.</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>Горьки будут раскаянья,</plain>
+            <plain>Р“РѕСЂСЊРєРё Р±СѓРґСѓС‚ СЂР°СЃРєР°СЏРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Угрызенья совести,</plain>
+            <plain>РЈРіСЂС‹Р·РµРЅСЊСЏ СЃРѕРІРµСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Кто отверг Христа страданье,</plain>
+            <plain>РљС‚Рѕ РѕС‚РІРµСЂРі РҐСЂРёСЃС‚Р° СЃС‚СЂР°РґР°РЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Не желал к Нему придти.</plain>
+            <plain>РќРµ Р¶РµР»Р°Р» Рє РќРµРјСѓ РїСЂРёРґС‚Рё.</plain>
         </string>
     </chorus>
     <verse number="5">
         <string>
-            <plain>Друг, не медли, призыв этот</plain>
+            <plain>Р”СЂСѓРі, РЅРµ РјРµРґР»Рё, РїСЂРёР·С‹РІ СЌС‚РѕС‚</plain>
         </string>
         <string>
-            <plain>Может больше не звучать,</plain>
+            <plain>РњРѕР¶РµС‚ Р±РѕР»СЊС€Рµ РЅРµ Р·РІСѓС‡Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Но пока еще есть время,</plain>
+            <plain>РќРѕ РїРѕРєР° РµС‰Рµ РµСЃС‚СЊ РІСЂРµРјСЏ,</plain>
         </string>
         <string>
-            <plain>Прими Божью благодать.</plain>
+            <plain>РџСЂРёРјРё Р‘РѕР¶СЊСЋ Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="5">
         <string>
-            <plain>Он от зла тебе защита,</plain>
+            <plain>РћРЅ РѕС‚ Р·Р»Р° С‚РµР±Рµ Р·Р°С‰РёС‚Р°,</plain>
         </string>
         <string>
-            <plain>Он покров средь бури злой,</plain>
+            <plain>РћРЅ РїРѕРєСЂРѕРІ СЃСЂРµРґСЊ Р±СѓСЂРё Р·Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>В Нем спасенья дверь открыта.</plain>
+            <plain>Р’ РќРµРј СЃРїР°СЃРµРЅСЊСЏ РґРІРµСЂСЊ РѕС‚РєСЂС‹С‚Р°.</plain>
         </string>
         <string>
-            <plain>О, приди к Нему с мольбой!</plain>
+            <plain>Рћ, РїСЂРёРґРё Рє РќРµРјСѓ СЃ РјРѕР»СЊР±РѕР№!</plain>
         </string>
     </chorus>
     <verse number="6">
         <string>
-            <plain>Он от зла тебе защита,</plain>
+            <plain>РћРЅ РѕС‚ Р·Р»Р° С‚РµР±Рµ Р·Р°С‰РёС‚Р°,</plain>
         </string>
         <string>
-            <plain>Он покров средь бури злой,</plain>
+            <plain>РћРЅ РїРѕРєСЂРѕРІ СЃСЂРµРґСЊ Р±СѓСЂРё Р·Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>В Нем спасенья дверь открыта.</plain>
+            <plain>Р’ РќРµРј СЃРїР°СЃРµРЅСЊСЏ РґРІРµСЂСЊ РѕС‚РєСЂС‹С‚Р°.</plain>
         </string>
         <string>
-            <plain>О, приди к Нему с мольбой!</plain>
+            <plain>Рћ, РїСЂРёРґРё Рє РќРµРјСѓ СЃ РјРѕР»СЊР±РѕР№!</plain>
         </string>
     </verse>
 </psalm>

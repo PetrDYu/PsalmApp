@@ -30,7 +30,7 @@ def change_cur_section(new_name: str):
         section_dir.mkdir()
     print(section_dir.parts[-1])
     section_file = section_dir / 'section.txt'
-    section_file.write_text(full_name)
+    section_file.write_text(full_name, encoding='utf-8')
     cur_section = new_name
 
 
@@ -46,7 +46,7 @@ def append_to_cur_section(additional_text: str):
         new_section_dir.mkdir()
 
     new_section_file = new_section_dir / 'section.txt'
-    new_section_file.write_text(cur_section)
+    new_section_file.write_text(cur_section, encoding='utf-8')
 
 
 

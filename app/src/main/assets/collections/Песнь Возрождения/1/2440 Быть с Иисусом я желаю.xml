@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2440" name="Быть с Иисусом я желаю" canon="false" text="" textRus="" music="">
+<psalm number="2440" name="Р‘С‹С‚СЊ СЃ РРёСЃСѓСЃРѕРј СЏ Р¶РµР»Р°СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Быть с Иисусом я желаю,</plain>
+            <plain>Р‘С‹С‚СЊ СЃ РРёСЃСѓСЃРѕРј СЏ Р¶РµР»Р°СЋ,</plain>
         </string>
         <string>
-            <plain>И Ему служить хочу.</plain>
+            <plain>Р Р•РјСѓ СЃР»СѓР¶РёС‚СЊ С…РѕС‡Сѓ.</plain>
         </string>
         <string>
-            <plain>Он меня создал, я знаю,</plain>
+            <plain>РћРЅ РјРµРЅСЏ СЃРѕР·РґР°Р», СЏ Р·РЅР°СЋ,</plain>
         </string>
         <string>
-            <plain>Я Ему принадлежу.</plain>
+            <plain>РЇ Р•РјСѓ РїСЂРёРЅР°РґР»РµР¶Сѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я люблю Его всем сердцем,</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ Р•РіРѕ РІСЃРµРј СЃРµСЂРґС†РµРј,</plain>
         </string>
         <string>
-            <plain>Он от бед хранитель мой,</plain>
+            <plain>РћРЅ РѕС‚ Р±РµРґ С…СЂР°РЅРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Знаю: после жизни этой</plain>
+            <plain>Р—РЅР°СЋ: РїРѕСЃР»Рµ Р¶РёР·РЅРё СЌС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Он возмет меня домой.</plain>
+            <plain>РћРЅ РІРѕР·РјРµС‚ РјРµРЅСЏ РґРѕРјРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Грех творить я не желаю,</plain>
+            <plain>Р“СЂРµС… С‚РІРѕСЂРёС‚СЊ СЏ РЅРµ Р¶РµР»Р°СЋ,</plain>
         </string>
         <string>
-            <plain>Делать я хочу добро.</plain>
+            <plain>Р”РµР»Р°С‚СЊ СЏ С…РѕС‡Сѓ РґРѕР±СЂРѕ.</plain>
         </string>
         <string>
-            <plain>Я из Библии то знаю:</plain>
+            <plain>РЇ РёР· Р‘РёР±Р»РёРё С‚Рѕ Р·РЅР°СЋ:</plain>
         </string>
         <string>
-            <plain>Пастырь мой не любит зло.</plain>
+            <plain>РџР°СЃС‚С‹СЂСЊ РјРѕР№ РЅРµ Р»СЋР±РёС‚ Р·Р»Рѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Посмотри на Иисуса,</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё РЅР° РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>Он давно тебя зовет.</plain>
+            <plain>РћРЅ РґР°РІРЅРѕ С‚РµР±СЏ Р·РѕРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Ты отдай Ему все сердце,</plain>
+            <plain>РўС‹ РѕС‚РґР°Р№ Р•РјСѓ РІСЃРµ СЃРµСЂРґС†Рµ,</plain>
         </string>
         <string>
-            <plain>Пусть же Он в тебе живет.</plain>
+            <plain>РџСѓСЃС‚СЊ Р¶Рµ РћРЅ РІ С‚РµР±Рµ Р¶РёРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты люби Его всем сердцем,</plain>
+            <plain>РўС‹ Р»СЋР±Рё Р•РіРѕ РІСЃРµРј СЃРµСЂРґС†РµРј,</plain>
         </string>
         <string>
-            <plain>Он от бед Хранитель твой,</plain>
+            <plain>РћРЅ РѕС‚ Р±РµРґ РҐСЂР°РЅРёС‚РµР»СЊ С‚РІРѕР№,</plain>
         </string>
         <string>
-            <plain>Знай же, после жизни этой</plain>
+            <plain>Р—РЅР°Р№ Р¶Рµ, РїРѕСЃР»Рµ Р¶РёР·РЅРё СЌС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Он возмет тебя с Собой.</plain>
+            <plain>РћРЅ РІРѕР·РјРµС‚ С‚РµР±СЏ СЃ РЎРѕР±РѕР№.</plain>
         </string>
     </verse>
 </psalm>

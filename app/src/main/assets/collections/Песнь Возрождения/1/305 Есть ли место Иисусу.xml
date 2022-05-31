@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="305" name="Есть ли место Иисусу" canon="false" text="" textRus="" music="">
+<psalm number="305" name="Р•СЃС‚СЊ Р»Рё РјРµСЃС‚Рѕ РРёСЃСѓСЃСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Есть ли место Иисусу,</plain>
+            <plain>Р•СЃС‚СЊ Р»Рё РјРµСЃС‚Рѕ РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>Чьею кровью мир омыт?</plain>
+            <plain>Р§СЊРµСЋ РєСЂРѕРІСЊСЋ РјРёСЂ РѕРјС‹С‚?</plain>
         </string>
         <string>
-            <plain>Сердца дверь открой скорее,</plain>
+            <plain>РЎРµСЂРґС†Р° РґРІРµСЂСЊ РѕС‚РєСЂРѕР№ СЃРєРѕСЂРµРµ,</plain>
         </string>
         <string>
-            <plain>Сам Господь к тебе стучит.</plain>
+            <plain>РЎР°Рј Р“РѕСЃРїРѕРґСЊ Рє С‚РµР±Рµ СЃС‚СѓС‡РёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Для Царя небесной славы</plain>
+            <plain>Р”Р»СЏ Р¦Р°СЂСЏ РЅРµР±РµСЃРЅРѕР№ СЃР»Р°РІС‹</plain>
         </string>
         <string>
-            <plain>Место в сердце приготовь.</plain>
+            <plain>РњРµСЃС‚Рѕ РІ СЃРµСЂРґС†Рµ РїСЂРёРіРѕС‚РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>О, внемли Его призыву</plain>
+            <plain>Рћ, РІРЅРµРјР»Рё Р•РіРѕ РїСЂРёР·С‹РІСѓ</plain>
         </string>
         <string>
-            <plain>И прими Его любовь!</plain>
+            <plain>Р РїСЂРёРјРё Р•РіРѕ Р»СЋР±РѕРІСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И заботам и веселью</plain>
+            <plain>Р Р·Р°Р±РѕС‚Р°Рј Рё РІРµСЃРµР»СЊСЋ</plain>
         </string>
         <string>
-            <plain>Место в сердце ты даешь,</plain>
+            <plain>РњРµСЃС‚Рѕ РІ СЃРµСЂРґС†Рµ С‚С‹ РґР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>А умершего за грех твой</plain>
+            <plain>Рђ СѓРјРµСЂС€РµРіРѕ Р·Р° РіСЂРµС… С‚РІРѕР№</plain>
         </string>
         <string>
-            <plain>Неужели оттолкнешь?</plain>
+            <plain>РќРµСѓР¶РµР»Рё РѕС‚С‚РѕР»РєРЅРµС€СЊ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дни отдашь ли Иисусу?</plain>
+            <plain>Р”РЅРё РѕС‚РґР°С€СЊ Р»Рё РРёСЃСѓСЃСѓ?</plain>
         </string>
         <string>
-            <plain>Призывает Он опять.</plain>
+            <plain>РџСЂРёР·С‹РІР°РµС‚ РћРЅ РѕРїСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Может быть, то день последний,</plain>
+            <plain>РњРѕР¶РµС‚ Р±С‹С‚СЊ, С‚Рѕ РґРµРЅСЊ РїРѕСЃР»РµРґРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Дольше Он не будет ждать.</plain>
+            <plain>Р”РѕР»СЊС€Рµ РћРЅ РЅРµ Р±СѓРґРµС‚ Р¶РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Поспеши же Иисусу</plain>
+            <plain>РџРѕСЃРїРµС€Рё Р¶Рµ РРёСЃСѓСЃСѓ</plain>
         </string>
         <string>
-            <plain>Жизнь и сердце все отдать.</plain>
+            <plain>Р–РёР·РЅСЊ Рё СЃРµСЂРґС†Рµ РІСЃРµ РѕС‚РґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Глас замолкнет благодатный.</plain>
+            <plain>Р“Р»Р°СЃ Р·Р°РјРѕР»РєРЅРµС‚ Р±Р»Р°РіРѕРґР°С‚РЅС‹Р№.</plain>
         </string>
         <string>
-            <plain>Скоро уж не будет звать.</plain>
+            <plain>РЎРєРѕСЂРѕ СѓР¶ РЅРµ Р±СѓРґРµС‚ Р·РІР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -44,5 +44,5 @@ class Psalm:
 
         f_temp = BytesIO()
         doc.write(f_temp, encoding='utf-8', xml_declaration=True)
-        with open(f'{collectionName}\\{self.number} {self.name}.xml', 'w') as f:
+        with open(f'{collectionName}\\{self.number} {self.name}.xml', 'w', encoding='utf-8') as f:
             f.write(f_temp.getvalue().decode('utf-8'))

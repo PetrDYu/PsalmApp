@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="734" name="С бурей жизни я сражаюсь" canon="false" text="" textRus="" music="">
+<psalm number="734" name="РЎ Р±СѓСЂРµР№ Р¶РёР·РЅРё СЏ СЃСЂР°Р¶Р°СЋСЃСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С бурей жизни я сражаюсь,</plain>
+            <plain>РЎ Р±СѓСЂРµР№ Р¶РёР·РЅРё СЏ СЃСЂР°Р¶Р°СЋСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Воин я Христа,</plain>
+            <plain>Р’РѕРёРЅ СЏ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Не страшусь, не отступаю</plain>
+            <plain>РќРµ СЃС‚СЂР°С€СѓСЃСЊ, РЅРµ РѕС‚СЃС‚СѓРїР°СЋ</plain>
         </string>
         <string>
-            <plain>С Ним я никогда.</plain>
+            <plain>РЎ РќРёРј СЏ РЅРёРєРѕРіРґР°.</plain>
         </string>
         <string>
-            <plain>В Его армии спасенных</plain>
+            <plain>Р’ Р•РіРѕ Р°СЂРјРёРё СЃРїР°СЃРµРЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Правда лишь царит,</plain>
+            <plain>РџСЂР°РІРґР° Р»РёС€СЊ С†Р°СЂРёС‚,</plain>
         </string>
         <string>
-            <plain>И врагов хоть миллионы,</plain>
+            <plain>Р РІСЂР°РіРѕРІ С…РѕС‚СЊ РјРёР»Р»РёРѕРЅС‹,</plain>
         </string>
         <string>
-            <plain>Он меня хранит.</plain>
+            <plain>РћРЅ РјРµРЅСЏ С…СЂР°РЅРёС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Бог мой сильный, Вождь Спаситель,</plain>
+            <plain>Р‘РѕРі РјРѕР№ СЃРёР»СЊРЅС‹Р№, Р’РѕР¶РґСЊ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Ты - Защитник мой,</plain>
+            <plain>РўС‹ - Р—Р°С‰РёС‚РЅРёРє РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты - мой добрый Повелитель,</plain>
+            <plain>РўС‹ - РјРѕР№ РґРѕР±СЂС‹Р№ РџРѕРІРµР»РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Я храним Тобой.</plain>
+            <plain>РЇ С…СЂР°РЅРёРј РўРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>К тишине родного края</plain>
+            <plain>Рљ С‚РёС€РёРЅРµ СЂРѕРґРЅРѕРіРѕ РєСЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Ты ведешь меня,</plain>
+            <plain>РўС‹ РІРµРґРµС€СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Мне открыты двери рая,</plain>
+            <plain>РњРЅРµ РѕС‚РєСЂС‹С‚С‹ РґРІРµСЂРё СЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Я люблю Тебя.</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ РўРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Друг мой робкий, маловерный,</plain>
+            <plain>Р”СЂСѓРі РјРѕР№ СЂРѕР±РєРёР№, РјР°Р»РѕРІРµСЂРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Скорби не страшись,</plain>
+            <plain>РЎРєРѕСЂР±Рё РЅРµ СЃС‚СЂР°С€РёСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Бог мой - в слове неизменный,</plain>
+            <plain>Р‘РѕРі РјРѕР№ - РІ СЃР»РѕРІРµ РЅРµРёР·РјРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Ты Ему молись.</plain>
+            <plain>РўС‹ Р•РјСѓ РјРѕР»РёСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Силу бури успокоит</plain>
+            <plain>РЎРёР»Сѓ Р±СѓСЂРё СѓСЃРїРѕРєРѕРёС‚</plain>
         </string>
         <string>
-            <plain>Властной Он рукой,</plain>
+            <plain>Р’Р»Р°СЃС‚РЅРѕР№ РћРЅ СЂСѓРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Небо для тебя откроет,</plain>
+            <plain>РќРµР±Рѕ РґР»СЏ С‚РµР±СЏ РѕС‚РєСЂРѕРµС‚,</plain>
         </string>
         <string>
-            <plain>Ты войдешь в покой.</plain>
+            <plain>РўС‹ РІРѕР№РґРµС€СЊ РІ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

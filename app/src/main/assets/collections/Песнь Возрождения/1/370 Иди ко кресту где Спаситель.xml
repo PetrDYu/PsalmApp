@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="370" name="Иди ко кресту где Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="370" name="РРґРё РєРѕ РєСЂРµСЃС‚Сѓ РіРґРµ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иди ко кресту, где Спаситель</plain>
+            <plain>РРґРё РєРѕ РєСЂРµСЃС‚Сѓ, РіРґРµ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Был мучим и распят за нас!</plain>
+            <plain>Р‘С‹Р» РјСѓС‡РёРј Рё СЂР°СЃРїСЏС‚ Р·Р° РЅР°СЃ!</plain>
         </string>
         <string>
-            <plain>Тебя приглашает Учитель,</plain>
+            <plain>РўРµР±СЏ РїСЂРёРіР»Р°С€Р°РµС‚ РЈС‡РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Он кровью Своей тебя спас.</plain>
+            <plain>РћРЅ РєСЂРѕРІСЊСЋ РЎРІРѕРµР№ С‚РµР±СЏ СЃРїР°СЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О люди, к кресту поспешите,</plain>
+            <plain>Рћ Р»СЋРґРё, Рє РєСЂРµСЃС‚Сѓ РїРѕСЃРїРµС€РёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>К кресту устремляйтесь душой,</plain>
+            <plain>Рљ РєСЂРµСЃС‚Сѓ СѓСЃС‚СЂРµРјР»СЏР№С‚РµСЃСЊ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Сегодня дар Божий примите,</plain>
+            <plain>РЎРµРіРѕРґРЅСЏ РґР°СЂ Р‘РѕР¶РёР№ РїСЂРёРјРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>В крови Его вечный покой.</plain>
+            <plain>Р’ РєСЂРѕРІРё Р•РіРѕ РІРµС‡РЅС‹Р№ РїРѕРєРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ищи у креста мир душевный,</plain>
+            <plain>РС‰Рё Сѓ РєСЂРµСЃС‚Р° РјРёСЂ РґСѓС€РµРІРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Печальное сердце открой.</plain>
+            <plain>РџРµС‡Р°Р»СЊРЅРѕРµ СЃРµСЂРґС†Рµ РѕС‚РєСЂРѕР№.</plain>
         </string>
         <string>
-            <plain>Иисус, верный Друг неизменный,</plain>
+            <plain>РРёСЃСѓСЃ, РІРµСЂРЅС‹Р№ Р”СЂСѓРі РЅРµРёР·РјРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Даст радость, блаженство, покой!</plain>
+            <plain>Р”Р°СЃС‚ СЂР°РґРѕСЃС‚СЊ, Р±Р»Р°Р¶РµРЅСЃС‚РІРѕ, РїРѕРєРѕР№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ищи от греха искупленье</plain>
+            <plain>РС‰Рё РѕС‚ РіСЂРµС…Р° РёСЃРєСѓРїР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>В крови Иисуса Христа.</plain>
+            <plain>Р’ РєСЂРѕРІРё РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>И ты обретешь избавленье</plain>
+            <plain>Р С‚С‹ РѕР±СЂРµС‚РµС€СЊ РёР·Р±Р°РІР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Навек у подножья креста.</plain>
+            <plain>РќР°РІРµРє Сѓ РїРѕРґРЅРѕР¶СЊСЏ РєСЂРµСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Господь приготовил награду</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РїСЂРёРіРѕС‚РѕРІРёР» РЅР°РіСЂР°РґСѓ</plain>
         </string>
         <string>
-            <plain>И дивный венец для того,</plain>
+            <plain>Р РґРёРІРЅС‹Р№ РІРµРЅРµС† РґР»СЏ С‚РѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>Кто в жизни своей всю отраду</plain>
+            <plain>РљС‚Рѕ РІ Р¶РёР·РЅРё СЃРІРѕРµР№ РІСЃСЋ РѕС‚СЂР°РґСѓ</plain>
         </string>
         <string>
-            <plain>Искал у креста одного.</plain>
+            <plain>РСЃРєР°Р» Сѓ РєСЂРµСЃС‚Р° РѕРґРЅРѕРіРѕ.</plain>
         </string>
     </verse>
 </psalm>

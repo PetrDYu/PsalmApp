@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2847" name="Как прозрачны твои воды" canon="false" text="" textRus="" music="">
+<psalm number="2847" name="РљР°Рє РїСЂРѕР·СЂР°С‡РЅС‹ С‚РІРѕРё РІРѕРґС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как прозрачны твои воды,</plain>
+            <plain>РљР°Рє РїСЂРѕР·СЂР°С‡РЅС‹ С‚РІРѕРё РІРѕРґС‹,</plain>
         </string>
         <string>
-            <plain>о поток небесный,</plain>
+            <plain>Рѕ РїРѕС‚РѕРє РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>и сверкают твои волны,</plain>
+            <plain>Рё СЃРІРµСЂРєР°СЋС‚ С‚РІРѕРё РІРѕР»РЅС‹,</plain>
         </string>
         <string>
-            <plain>как кристалл чудесный!</plain>
+            <plain>РєР°Рє РєСЂРёСЃС‚Р°Р»Р» С‡СѓРґРµСЃРЅС‹Р№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Близ тебя, поток небесный,</plain>
+            <plain>Р‘Р»РёР· С‚РµР±СЏ, РїРѕС‚РѕРє РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>быть всегда желаю</plain>
+            <plain>Р±С‹С‚СЊ РІСЃРµРіРґР° Р¶РµР»Р°СЋ</plain>
         </string>
         <string>
-            <plain>я твоей водой чудесной</plain>
+            <plain>СЏ С‚РІРѕРµР№ РІРѕРґРѕР№ С‡СѓРґРµСЃРЅРѕР№</plain>
         </string>
         <string>
-            <plain>жажду утоляю.</plain>
+            <plain>Р¶Р°Р¶РґСѓ СѓС‚РѕР»СЏСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Говор вод твоих как песня,</plain>
+            <plain>Р“РѕРІРѕСЂ РІРѕРґ С‚РІРѕРёС… РєР°Рє РїРµСЃРЅСЏ,</plain>
         </string>
         <string>
-            <plain>ею наслаждаюсь;</plain>
+            <plain>РµСЋ РЅР°СЃР»Р°Р¶РґР°СЋСЃСЊ;</plain>
         </string>
         <string>
-            <plain>твои воды очищают,</plain>
+            <plain>С‚РІРѕРё РІРѕРґС‹ РѕС‡РёС‰Р°СЋС‚,</plain>
         </string>
         <string>
-            <plain>в них я погружаюсь.</plain>
+            <plain>РІ РЅРёС… СЏ РїРѕРіСЂСѓР¶Р°СЋСЃСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О поток, в твоей близи</plain>
+            <plain>Рћ РїРѕС‚РѕРє, РІ С‚РІРѕРµР№ Р±Р»РёР·Рё</plain>
         </string>
         <string>
-            <plain>я радость ощущаю</plain>
+            <plain>СЏ СЂР°РґРѕСЃС‚СЊ РѕС‰СѓС‰Р°СЋ</plain>
         </string>
         <string>
-            <plain>и в болезнях, и в страданьях</plain>
+            <plain>Рё РІ Р±РѕР»РµР·РЅСЏС…, Рё РІ СЃС‚СЂР°РґР°РЅСЊСЏС…</plain>
         </string>
         <string>
-            <plain>силу в нём черпаю.</plain>
+            <plain>СЃРёР»Сѓ РІ РЅС‘Рј С‡РµСЂРїР°СЋ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Жизни дерево цветёт там,</plain>
+            <plain>Р–РёР·РЅРё РґРµСЂРµРІРѕ С†РІРµС‚С‘С‚ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>под его мы тенью</plain>
+            <plain>РїРѕРґ РµРіРѕ РјС‹ С‚РµРЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>сладкие плоды вкушаем,</plain>
+            <plain>СЃР»Р°РґРєРёРµ РїР»РѕРґС‹ РІРєСѓС€Р°РµРј,</plain>
         </string>
         <string>
-            <plain>всех зовём к спасенью.</plain>
+            <plain>РІСЃРµС… Р·РѕРІС‘Рј Рє СЃРїР°СЃРµРЅСЊСЋ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Пусть в твоих кристальных</plain>
+            <plain>РџСѓСЃС‚СЊ РІ С‚РІРѕРёС… РєСЂРёСЃС‚Р°Р»СЊРЅС‹С…</plain>
         </string>
         <string>
-            <plain>водах дух мой отразится,</plain>
+            <plain>РІРѕРґР°С… РґСѓС… РјРѕР№ РѕС‚СЂР°Р·РёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>чтоб твоим небесным светом</plain>
+            <plain>С‡С‚РѕР± С‚РІРѕРёРј РЅРµР±РµСЃРЅС‹Рј СЃРІРµС‚РѕРј</plain>
         </string>
         <string>
-            <plain>здесь я мог светиться.</plain>
+            <plain>Р·РґРµСЃСЊ СЏ РјРѕРі СЃРІРµС‚РёС‚СЊСЃСЏ.</plain>
         </string>
     </verse>
 </psalm>

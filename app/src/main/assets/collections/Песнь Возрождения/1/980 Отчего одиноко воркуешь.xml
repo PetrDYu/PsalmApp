@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="980" name="Отчего одиноко воркуешь" canon="false" text="" textRus="" music="">
+<psalm number="980" name="РћС‚С‡РµРіРѕ РѕРґРёРЅРѕРєРѕ РІРѕСЂРєСѓРµС€СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Отчего одиноко воркуешь,</plain>
+            <plain>РћС‚С‡РµРіРѕ РѕРґРёРЅРѕРєРѕ РІРѕСЂРєСѓРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Голубица, в ущелье скалы?</plain>
+            <plain>Р“РѕР»СѓР±РёС†Р°, РІ СѓС‰РµР»СЊРµ СЃРєР°Р»С‹?</plain>
         </string>
         <string>
-            <plain>О Небесной Отчизне тоскуешь.</plain>
+            <plain>Рћ РќРµР±РµСЃРЅРѕР№ РћС‚С‡РёР·РЅРµ С‚РѕСЃРєСѓРµС€СЊ.</plain>
         </string>
         <string>
-            <plain>Унывая в полночной тиши?</plain>
+            <plain>РЈРЅС‹РІР°СЏ РІ РїРѕР»РЅРѕС‡РЅРѕР№ С‚РёС€Рё?</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Голубица моя, голубица моя.</plain>
+            <plain>Р“РѕР»СѓР±РёС†Р° РјРѕСЏ, РіРѕР»СѓР±РёС†Р° РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Для тебя песнь отрадная есть.</plain>
+            <plain>Р”Р»СЏ С‚РµР±СЏ РїРµСЃРЅСЊ РѕС‚СЂР°РґРЅР°СЏ РµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Над тобою простерта десница.</plain>
+            <plain>РќР°Рґ С‚РѕР±РѕСЋ РїСЂРѕСЃС‚РµСЂС‚Р° РґРµСЃРЅРёС†Р°.</plain>
         </string>
         <string>
-            <plain>Охраняя печальную здесь.</plain>
+            <plain>РћС…СЂР°РЅСЏСЏ РїРµС‡Р°Р»СЊРЅСѓСЋ Р·РґРµСЃСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Истомленная тяжестью зноя</plain>
+            <plain>РСЃС‚РѕРјР»РµРЅРЅР°СЏ С‚СЏР¶РµСЃС‚СЊСЋ Р·РЅРѕСЏ</plain>
         </string>
         <string>
-            <plain>И гонимая бурею злой,</plain>
+            <plain>Р РіРѕРЅРёРјР°СЏ Р±СѓСЂРµСЋ Р·Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>Знаю, хочешь свободы, покоя.</plain>
+            <plain>Р—РЅР°СЋ, С…РѕС‡РµС€СЊ СЃРІРѕР±РѕРґС‹, РїРѕРєРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Знаю, хочешь на небо, домой.</plain>
+            <plain>Р—РЅР°СЋ, С…РѕС‡РµС€СЊ РЅР° РЅРµР±Рѕ, РґРѕРјРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Голубица моя, голубица моя.</plain>
+            <plain>Р“РѕР»СѓР±РёС†Р° РјРѕСЏ, РіРѕР»СѓР±РёС†Р° РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>За тобою Я скоро приду.</plain>
+            <plain>Р—Р° С‚РѕР±РѕСЋ РЇ СЃРєРѕСЂРѕ РїСЂРёРґСѓ.</plain>
         </string>
         <string>
-            <plain>Если будешь терпеть и молиться,</plain>
+            <plain>Р•СЃР»Рё Р±СѓРґРµС€СЊ С‚РµСЂРїРµС‚СЊ Рё РјРѕР»РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>- Я в Обитель тебя приведу.</plain>
+            <plain>- РЇ РІ РћР±РёС‚РµР»СЊ С‚РµР±СЏ РїСЂРёРІРµРґСѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я купил тебя тяжкой ценою.</plain>
+            <plain>РЇ РєСѓРїРёР» С‚РµР±СЏ С‚СЏР¶РєРѕР№ С†РµРЅРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Позабыть Я тебя не смогу.</plain>
+            <plain>РџРѕР·Р°Р±С‹С‚СЊ РЇ С‚РµР±СЏ РЅРµ СЃРјРѕРіСѓ.</plain>
         </string>
         <string>
-            <plain>Хоть ты плачешь, томишься порою.</plain>
+            <plain>РҐРѕС‚СЊ С‚С‹ РїР»Р°С‡РµС€СЊ, С‚РѕРјРёС€СЊСЃСЏ РїРѕСЂРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Но Я Сам твои слезы утру.</plain>
+            <plain>РќРѕ РЇ РЎР°Рј С‚РІРѕРё СЃР»РµР·С‹ СѓС‚СЂСѓ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Голубица моя, голубица моя.</plain>
+            <plain>Р“РѕР»СѓР±РёС†Р° РјРѕСЏ, РіРѕР»СѓР±РёС†Р° РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Ты - гонимая бурею злой</plain>
+            <plain>РўС‹ - РіРѕРЅРёРјР°СЏ Р±СѓСЂРµСЋ Р·Р»РѕР№</plain>
         </string>
         <string>
-            <plain>Безутешная скорбная птица.</plain>
+            <plain>Р‘РµР·СѓС‚РµС€РЅР°СЏ СЃРєРѕСЂР±РЅР°СЏ РїС‚РёС†Р°.</plain>
         </string>
         <string>
-            <plain>Я уж скоро приду за тобой.</plain>
+            <plain>РЇ СѓР¶ СЃРєРѕСЂРѕ РїСЂРёРґСѓ Р·Р° С‚РѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Не печалься! Настанет то время,</plain>
+            <plain>РќРµ РїРµС‡Р°Р»СЊСЃСЏ! РќР°СЃС‚Р°РЅРµС‚ С‚Рѕ РІСЂРµРјСЏ,</plain>
         </string>
         <string>
-            <plain>Когда кончатся скорбные дни.</plain>
+            <plain>РљРѕРіРґР° РєРѕРЅС‡Р°С‚СЃСЏ СЃРєРѕСЂР±РЅС‹Рµ РґРЅРё.</plain>
         </string>
         <string>
-            <plain>Я сниму с тебя тяжкое бремя.</plain>
+            <plain>РЇ СЃРЅРёРјСѓ СЃ С‚РµР±СЏ С‚СЏР¶РєРѕРµ Р±СЂРµРјСЏ.</plain>
         </string>
         <string>
-            <plain>Осушу Я ресницы твои.</plain>
+            <plain>РћСЃСѓС€Сѓ РЇ СЂРµСЃРЅРёС†С‹ С‚РІРѕРё.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Голубица моя, голубица моя.</plain>
+            <plain>Р“РѕР»СѓР±РёС†Р° РјРѕСЏ, РіРѕР»СѓР±РёС†Р° РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>За тобою Я скоро приду.</plain>
+            <plain>Р—Р° С‚РѕР±РѕСЋ РЇ СЃРєРѕСЂРѕ РїСЂРёРґСѓ.</plain>
         </string>
         <string>
-            <plain>Не печалься, моя голубица,</plain>
+            <plain>РќРµ РїРµС‡Р°Р»СЊСЃСЏ, РјРѕСЏ РіРѕР»СѓР±РёС†Р°,</plain>
         </string>
         <string>
-            <plain>- Я в Обитель тебя приведу.</plain>
+            <plain>- РЇ РІ РћР±РёС‚РµР»СЊ С‚РµР±СЏ РїСЂРёРІРµРґСѓ.</plain>
         </string>
     </verse>
 </psalm>

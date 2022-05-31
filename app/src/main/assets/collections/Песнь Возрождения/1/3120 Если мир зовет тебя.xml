@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3120" name="Если мир зовет тебя" canon="false" text="" textRus="" music="">
+<psalm number="3120" name="Р•СЃР»Рё РјРёСЂ Р·РѕРІРµС‚ С‚РµР±СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если мир зовет тебя</plain>
+            <plain>Р•СЃР»Рё РјРёСЂ Р·РѕРІРµС‚ С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>на греховные дела,</plain>
+            <plain>РЅР° РіСЂРµС…РѕРІРЅС‹Рµ РґРµР»Р°,</plain>
         </string>
         <string>
-            <plain>тогда задай себе вопрос:</plain>
+            <plain>С‚РѕРіРґР° Р·Р°РґР°Р№ СЃРµР±Рµ РІРѕРїСЂРѕСЃ:</plain>
         </string>
         <string>
-            <plain>«Что б решил Христос?»</plain>
+            <plain>В«Р§С‚Рѕ Р± СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ?В»</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Что б тогда решил Христос?</plain>
+            <plain>Р§С‚Рѕ Р± С‚РѕРіРґР° СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ?</plain>
         </string>
         <string>
-            <plain>Что б тогда решил Христос?</plain>
+            <plain>Р§С‚Рѕ Р± С‚РѕРіРґР° СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ?</plain>
         </string>
         <string>
-            <plain>В искушеньях ты задай вопрос:</plain>
+            <plain>Р’ РёСЃРєСѓС€РµРЅСЊСЏС… С‚С‹ Р·Р°РґР°Р№ РІРѕРїСЂРѕСЃ:</plain>
         </string>
         <string>
-            <plain>«Что б тогда решил Христос?»</plain>
+            <plain>В«Р§С‚Рѕ Р± С‚РѕРіРґР° СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ?В»</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сердце от греха храни,</plain>
+            <plain>РЎРµСЂРґС†Рµ РѕС‚ РіСЂРµС…Р° С…СЂР°РЅРё,</plain>
         </string>
         <string>
-            <plain>с Иисусом ты живи</plain>
+            <plain>СЃ РРёСЃСѓСЃРѕРј С‚С‹ Р¶РёРІРё</plain>
         </string>
         <string>
-            <plain>и размышляй над словом ты:</plain>
+            <plain>Рё СЂР°Р·РјС‹С€Р»СЏР№ РЅР°Рґ СЃР»РѕРІРѕРј С‚С‹:</plain>
         </string>
         <string>
-            <plain>«Что б решил Христос?»</plain>
+            <plain>В«Р§С‚Рѕ Р± СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ?В»</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если людям нужен ты</plain>
+            <plain>Р•СЃР»Рё Р»СЋРґСЏРј РЅСѓР¶РµРЅ С‚С‹</plain>
         </string>
         <string>
-            <plain>- словом, делом помоги,</plain>
+            <plain>- СЃР»РѕРІРѕРј, РґРµР»РѕРј РїРѕРјРѕРіРё,</plain>
         </string>
         <string>
-            <plain>сей семя доброе в пути:</plain>
+            <plain>СЃРµР№ СЃРµРјСЏ РґРѕР±СЂРѕРµ РІ РїСѓС‚Рё:</plain>
         </string>
         <string>
-            <plain>так решил Христос.</plain>
+            <plain>С‚Р°Рє СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Свет повсюду излучай,</plain>
+            <plain>РЎРІРµС‚ РїРѕРІСЃСЋРґСѓ РёР·Р»СѓС‡Р°Р№,</plain>
         </string>
         <string>
-            <plain>жизнь для Бога посвящай</plain>
+            <plain>Р¶РёР·РЅСЊ РґР»СЏ Р‘РѕРіР° РїРѕСЃРІСЏС‰Р°Р№</plain>
         </string>
         <string>
-            <plain>и грешным Слово разъясняй:</plain>
+            <plain>Рё РіСЂРµС€РЅС‹Рј РЎР»РѕРІРѕ СЂР°Р·СЉСЏСЃРЅСЏР№:</plain>
         </string>
         <string>
-            <plain>Так решил Христос.</plain>
+            <plain>РўР°Рє СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты исполнил долг земной</plain>
+            <plain>РўС‹ РёСЃРїРѕР»РЅРёР» РґРѕР»Рі Р·РµРјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>пред праведным Судьей?</plain>
+            <plain>РїСЂРµРґ РїСЂР°РІРµРґРЅС‹Рј РЎСѓРґСЊРµР№?</plain>
         </string>
         <string>
-            <plain>Всегда вопрос ты задавай:</plain>
+            <plain>Р’СЃРµРіРґР° РІРѕРїСЂРѕСЃ С‚С‹ Р·Р°РґР°РІР°Р№:</plain>
         </string>
         <string>
-            <plain>«Что б решил Христос?»</plain>
+            <plain>В«Р§С‚Рѕ Р± СЂРµС€РёР» РҐСЂРёСЃС‚РѕСЃ?В»</plain>
         </string>
     </verse>
 </psalm>

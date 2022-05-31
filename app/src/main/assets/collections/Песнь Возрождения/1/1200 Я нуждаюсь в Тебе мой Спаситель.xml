@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1200" name="Я нуждаюсь в Тебе мой Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="1200" name="РЇ РЅСѓР¶РґР°СЋСЃСЊ РІ РўРµР±Рµ РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я нуждаюсь в Тебе, мой Спаситель,</plain>
+            <plain>РЇ РЅСѓР¶РґР°СЋСЃСЊ РІ РўРµР±Рµ, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Я желаю всегда быть с Тобой,</plain>
+            <plain>РЇ Р¶РµР»Р°СЋ РІСЃРµРіРґР° Р±С‹С‚СЊ СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Ты - Господь мой, любимый</plain>
+            <plain>РўС‹ - Р“РѕСЃРїРѕРґСЊ РјРѕР№, Р»СЋР±РёРјС‹Р№</plain>
         </string>
         <string>
-            <plain>Учитель, Упованье мое и покой.</plain>
+            <plain>РЈС‡РёС‚РµР»СЊ, РЈРїРѕРІР°РЅСЊРµ РјРѕРµ Рё РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я жду Тебя, люблю Тебя.</plain>
+            <plain>РЇ Р¶РґСѓ РўРµР±СЏ, Р»СЋР±Р»СЋ РўРµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Мне трудно на пути.</plain>
+            <plain>РњРЅРµ С‚СЂСѓРґРЅРѕ РЅР° РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Без Пастыря, Хранителя</plain>
+            <plain>Р‘РµР· РџР°СЃС‚С‹СЂСЏ, РҐСЂР°РЅРёС‚РµР»СЏ</plain>
         </string>
         <string>
-            <plain>Я не могу идти.</plain>
+            <plain>РЇ РЅРµ РјРѕРіСѓ РёРґС‚Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Очищенья душа моя жаждет.</plain>
+            <plain>РћС‡РёС‰РµРЅСЊСЏ РґСѓС€Р° РјРѕСЏ Р¶Р°Р¶РґРµС‚.</plain>
         </string>
         <string>
-            <plain>Плоть желает противного ей.</plain>
+            <plain>РџР»РѕС‚СЊ Р¶РµР»Р°РµС‚ РїСЂРѕС‚РёРІРЅРѕРіРѕ РµР№.</plain>
         </string>
         <string>
-            <plain>Все борьба и борьба, о, когда же</plain>
+            <plain>Р’СЃРµ Р±РѕСЂСЊР±Р° Рё Р±РѕСЂСЊР±Р°, Рѕ, РєРѕРіРґР° Р¶Рµ</plain>
         </string>
         <string>
-            <plain>Я достигну небесных дверей?</plain>
+            <plain>РЇ РґРѕСЃС‚РёРіРЅСѓ РЅРµР±РµСЃРЅС‹С… РґРІРµСЂРµР№?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И когда в этой жизни унылой</plain>
+            <plain>Р РєРѕРіРґР° РІ СЌС‚РѕР№ Р¶РёР·РЅРё СѓРЅС‹Р»РѕР№</plain>
         </string>
         <string>
-            <plain>От борьбы утомится душа,</plain>
+            <plain>РћС‚ Р±РѕСЂСЊР±С‹ СѓС‚РѕРјРёС‚СЃСЏ РґСѓС€Р°,</plain>
         </string>
         <string>
-            <plain>Подойди же ко мне, мой Спаситель,</plain>
+            <plain>РџРѕРґРѕР№РґРё Р¶Рµ РєРѕ РјРЅРµ, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Ведь с Тобою так жизнь хороша.</plain>
+            <plain>Р’РµРґСЊ СЃ РўРѕР±РѕСЋ С‚Р°Рє Р¶РёР·РЅСЊ С…РѕСЂРѕС€Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Поселись Ты во мне, мой Спаситель,</plain>
+            <plain>РџРѕСЃРµР»РёСЃСЊ РўС‹ РІРѕ РјРЅРµ, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>И даруй чувствованья Твои,</plain>
+            <plain>Р РґР°СЂСѓР№ С‡СѓРІСЃС‚РІРѕРІР°РЅСЊСЏ РўРІРѕРё,</plain>
         </string>
         <string>
-            <plain>Чтобы верным я был. Твой служитель,</plain>
+            <plain>Р§С‚РѕР±С‹ РІРµСЂРЅС‹Рј СЏ Р±С‹Р». РўРІРѕР№ СЃР»СѓР¶РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>О, приди же ко мне и живи.</plain>
+            <plain>Рћ, РїСЂРёРґРё Р¶Рµ РєРѕ РјРЅРµ Рё Р¶РёРІРё.</plain>
         </string>
     </verse>
 </psalm>

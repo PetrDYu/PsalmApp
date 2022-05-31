@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="560" name="Не оставлю Я вас не забуду" canon="false" text="" textRus="" music="">
+<psalm number="560" name="РќРµ РѕСЃС‚Р°РІР»СЋ РЇ РІР°СЃ РЅРµ Р·Р°Р±СѓРґСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>"Не оставлю Я вас, не забуду! –</plain>
+            <plain>"РќРµ РѕСЃС‚Р°РІР»СЋ РЇ РІР°СЃ, РЅРµ Р·Р°Р±СѓРґСѓ! вЂ“</plain>
         </string>
         <string>
-            <plain>Говорит Он и мне, и тебе. –</plain>
+            <plain>Р“РѕРІРѕСЂРёС‚ РћРЅ Рё РјРЅРµ, Рё С‚РµР±Рµ. вЂ“</plain>
         </string>
         <string>
-            <plain>Сохраню и в пустыне безлюдной</plain>
+            <plain>РЎРѕС…СЂР°РЅСЋ Рё РІ РїСѓСЃС‚С‹РЅРµ Р±РµР·Р»СЋРґРЅРѕР№</plain>
         </string>
         <string>
-            <plain>И в тяжелой житейской борьбе.</plain>
+            <plain>Р РІ С‚СЏР¶РµР»РѕР№ Р¶РёС‚РµР№СЃРєРѕР№ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Помогу одолеть все преграды,</plain>
+            <plain>РџРѕРјРѕРіСѓ РѕРґРѕР»РµС‚СЊ РІСЃРµ РїСЂРµРіСЂР°РґС‹,</plain>
         </string>
         <string>
-            <plain>Силой свыше в пути наделю</plain>
+            <plain>РЎРёР»РѕР№ СЃРІС‹С€Рµ РІ РїСѓС‚Рё РЅР°РґРµР»СЋ</plain>
         </string>
         <string>
-            <plain>И в минуты тяжелой утраты</plain>
+            <plain>Р РІ РјРёРЅСѓС‚С‹ С‚СЏР¶РµР»РѕР№ СѓС‚СЂР°С‚С‹</plain>
         </string>
         <string>
-            <plain>Утешенье и крепость пошлю.</plain>
+            <plain>РЈС‚РµС€РµРЅСЊРµ Рё РєСЂРµРїРѕСЃС‚СЊ РїРѕС€Р»СЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не оставлю Я вас, не забуду.</plain>
+            <plain>РќРµ РѕСЃС‚Р°РІР»СЋ РЇ РІР°СЃ, РЅРµ Р·Р°Р±СѓРґСѓ.</plain>
         </string>
         <string>
-            <plain>Если мать и отец, и друзья</plain>
+            <plain>Р•СЃР»Рё РјР°С‚СЊ Рё РѕС‚РµС†, Рё РґСЂСѓР·СЊСЏ</plain>
         </string>
         <string>
-            <plain>Отрекутся от вас и осудят, -</plain>
+            <plain>РћС‚СЂРµРєСѓС‚СЃСЏ РѕС‚ РІР°СЃ Рё РѕСЃСѓРґСЏС‚, -</plain>
         </string>
         <string>
-            <plain>Верным Другом для вас буду Я.</plain>
+            <plain>Р’РµСЂРЅС‹Рј Р”СЂСѓРіРѕРј РґР»СЏ РІР°СЃ Р±СѓРґСѓ РЇ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Исцелю воспаленные раны,</plain>
+            <plain>РСЃС†РµР»СЋ РІРѕСЃРїР°Р»РµРЅРЅС‹Рµ СЂР°РЅС‹,</plain>
         </string>
         <string>
-            <plain>Уврачую сердечный недуг,</plain>
+            <plain>РЈРІСЂР°С‡СѓСЋ СЃРµСЂРґРµС‡РЅС‹Р№ РЅРµРґСѓРі,</plain>
         </string>
         <string>
-            <plain>Перестрою разбитые планы,</plain>
+            <plain>РџРµСЂРµСЃС‚СЂРѕСЋ СЂР°Р·Р±РёС‚С‹Рµ РїР»Р°РЅС‹,</plain>
         </string>
         <string>
-            <plain>Ободрю обессилевший дух.</plain>
+            <plain>РћР±РѕРґСЂСЋ РѕР±РµСЃСЃРёР»РµРІС€РёР№ РґСѓС….</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Воспитаю с заботою нежной,</plain>
+            <plain>Р’РѕСЃРїРёС‚Р°СЋ СЃ Р·Р°Р±РѕС‚РѕСЋ РЅРµР¶РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Приучу ваши руки к труду,</plain>
+            <plain>РџСЂРёСѓС‡Сѓ РІР°С€Рё СЂСѓРєРё Рє С‚СЂСѓРґСѓ,</plain>
         </string>
         <string>
-            <plain>Сохраню в этой жизни мятежной</plain>
+            <plain>РЎРѕС…СЂР°РЅСЋ РІ СЌС‚РѕР№ Р¶РёР·РЅРё РјСЏС‚РµР¶РЅРѕР№</plain>
         </string>
         <string>
-            <plain>И в небесное царство введу.</plain>
+            <plain>Р РІ РЅРµР±РµСЃРЅРѕРµ С†Р°СЂСЃС‚РІРѕ РІРІРµРґСѓ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Не оставлю Я вас, не забуду.</plain>
+            <plain>РќРµ РѕСЃС‚Р°РІР»СЋ РЇ РІР°СЃ, РЅРµ Р·Р°Р±СѓРґСѓ.</plain>
         </string>
         <string>
-            <plain>Если мир вас отвергнет, то Я</plain>
+            <plain>Р•СЃР»Рё РјРёСЂ РІР°СЃ РѕС‚РІРµСЂРіРЅРµС‚, С‚Рѕ РЇ</plain>
         </string>
         <string>
-            <plain>Вам Отцом и Хранителем буду,</plain>
+            <plain>Р’Р°Рј РћС‚С†РѕРј Рё РҐСЂР°РЅРёС‚РµР»РµРј Р±СѓРґСѓ,</plain>
         </string>
         <string>
-            <plain>Не покинет вас милость Моя!"</plain>
+            <plain>РќРµ РїРѕРєРёРЅРµС‚ РІР°СЃ РјРёР»РѕСЃС‚СЊ РњРѕСЏ!"</plain>
         </string>
     </verse>
 </psalm>

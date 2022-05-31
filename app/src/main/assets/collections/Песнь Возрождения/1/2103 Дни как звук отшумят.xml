@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2103" name="Дни как звук отшумят" canon="false" text="" textRus="" music="">
+<psalm number="2103" name="Р”РЅРё РєР°Рє Р·РІСѓРє РѕС‚С€СѓРјСЏС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Дни, как звук, отшумят</plain>
+            <plain>Р”РЅРё, РєР°Рє Р·РІСѓРє, РѕС‚С€СѓРјСЏС‚</plain>
         </string>
         <string>
-            <plain>И исчезнут вдали.</plain>
+            <plain>Р РёСЃС‡РµР·РЅСѓС‚ РІРґР°Р»Рё.</plain>
         </string>
         <string>
-            <plain>В синем небе летят</plain>
+            <plain>Р’ СЃРёРЅРµРј РЅРµР±Рµ Р»РµС‚СЏС‚</plain>
         </string>
         <string>
-            <plain>Над землёй журавли.</plain>
+            <plain>РќР°Рґ Р·РµРјР»С‘Р№ Р¶СѓСЂР°РІР»Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В журавлином пути</plain>
+            <plain>Р’ Р¶СѓСЂР°РІР»РёРЅРѕРј РїСѓС‚Рё</plain>
         </string>
         <string>
-            <plain>Быстрый бег твоих лет.</plain>
+            <plain>Р‘С‹СЃС‚СЂС‹Р№ Р±РµРі С‚РІРѕРёС… Р»РµС‚.</plain>
         </string>
         <string>
-            <plain>И оставишь ли ты (2 р.)</plain>
+            <plain>Р РѕСЃС‚Р°РІРёС€СЊ Р»Рё С‚С‹ (2 СЂ.)</plain>
         </string>
         <string>
-            <plain>На земле добрый след.</plain>
+            <plain>РќР° Р·РµРјР»Рµ РґРѕР±СЂС‹Р№ СЃР»РµРґ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как пройти этот путь,</plain>
+            <plain>РљР°Рє РїСЂРѕР№С‚Рё СЌС‚РѕС‚ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтобы что-то отдать,</plain>
+            <plain>Р§С‚РѕР±С‹ С‡С‚Рѕ-С‚Рѕ РѕС‚РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Людям счастье вернуть,</plain>
+            <plain>Р›СЋРґСЏРј СЃС‡Р°СЃС‚СЊРµ РІРµСЂРЅСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Веру не потерять.</plain>
+            <plain>Р’РµСЂСѓ РЅРµ РїРѕС‚РµСЂСЏС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Пусть же юность твоя</plain>
+            <plain>РџСѓСЃС‚СЊ Р¶Рµ СЋРЅРѕСЃС‚СЊ С‚РІРѕСЏ</plain>
         </string>
         <string>
-            <plain>Ярким светом горит</plain>
+            <plain>РЇСЂРєРёРј СЃРІРµС‚РѕРј РіРѕСЂРёС‚</plain>
         </string>
         <string>
-            <plain>И крупицы добра (2 р.)</plain>
+            <plain>Р РєСЂСѓРїРёС†С‹ РґРѕР±СЂР° (2 СЂ.)</plain>
         </string>
         <string>
-            <plain>Людям щедро дарит.</plain>
+            <plain>Р›СЋРґСЏРј С‰РµРґСЂРѕ РґР°СЂРёС‚.</plain>
         </string>
     </chorus>
 </psalm>

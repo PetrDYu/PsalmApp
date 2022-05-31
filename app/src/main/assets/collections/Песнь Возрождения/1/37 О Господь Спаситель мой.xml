@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="37" name="О Господь Спаситель мой" canon="false" text="" textRus="" music="">
+<psalm number="37" name="Рћ Р“РѕСЃРїРѕРґСЊ РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Господь, Спаситель мой!</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґСЊ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№!</plain>
         </string>
         <string>
-            <plain>Льну к Тебе я всей душой-,</plain>
+            <plain>Р›СЊРЅСѓ Рє РўРµР±Рµ СЏ РІСЃРµР№ РґСѓС€РѕР№-,</plain>
         </string>
         <string>
-            <plain>Я,-хочу с Тобою жить,</plain>
+            <plain>РЇ,-С…РѕС‡Сѓ СЃ РўРѕР±РѕСЋ Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Я хочу в Тебе пребыть;</plain>
+            <plain>РЇ С…РѕС‡Сѓ РІ РўРµР±Рµ РїСЂРµР±С‹С‚СЊ;</plain>
         </string>
         <string>
-            <plain>О, пребудь во мне Ты Сам,</plain>
+            <plain>Рћ, РїСЂРµР±СѓРґСЊ РІРѕ РјРЅРµ РўС‹ РЎР°Рј,</plain>
         </string>
         <string>
-            <plain>По Своим веди путям;</plain>
+            <plain>РџРѕ РЎРІРѕРёРј РІРµРґРё РїСѓС‚СЏРј;</plain>
         </string>
         <string>
-            <plain>Будь мне Пастырем, Царем</plain>
+            <plain>Р‘СѓРґСЊ РјРЅРµ РџР°СЃС‚С‹СЂРµРј, Р¦Р°СЂРµРј</plain>
         </string>
         <string>
-            <plain>:,:Будь для сердца все во всем.:,:</plain>
+            <plain>:,:Р‘СѓРґСЊ РґР»СЏ СЃРµСЂРґС†Р° РІСЃРµ РІРѕ РІСЃРµРј.:,:</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Без Тебя я был в цепях,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ СЏ Р±С‹Р» РІ С†РµРїСЏС…,</plain>
         </string>
         <string>
-            <plain>А с Тобой освобожден.</plain>
+            <plain>Рђ СЃ РўРѕР±РѕР№ РѕСЃРІРѕР±РѕР¶РґРµРЅ.</plain>
         </string>
         <string>
-            <plain>Без Тебя тонул в волнах,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ С‚РѕРЅСѓР» РІ РІРѕР»РЅР°С…,</plain>
         </string>
         <string>
-            <plain>А с Тобою я спасен.</plain>
+            <plain>Рђ СЃ РўРѕР±РѕСЋ СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Без Тебя я был покрыт,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ СЏ Р±С‹Р» РїРѕРєСЂС‹С‚,</plain>
         </string>
         <string>
-            <plain>Как проказою, грехом,</plain>
+            <plain>РљР°Рє РїСЂРѕРєР°Р·РѕСЋ, РіСЂРµС…РѕРј,</plain>
         </string>
         <string>
-            <plain>А с Тобою я омыт,</plain>
+            <plain>Рђ СЃ РўРѕР±РѕСЋ СЏ РѕРјС‹С‚,</plain>
         </string>
         <string>
-            <plain>:,:Убелен Твоим ручьем.:,:</plain>
+            <plain>:,:РЈР±РµР»РµРЅ РўРІРѕРёРј СЂСѓС‡СЊРµРј.:,:</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Без Тебя в душе царит</plain>
+            <plain>Р‘РµР· РўРµР±СЏ РІ РґСѓС€Рµ С†Р°СЂРёС‚</plain>
         </string>
         <string>
-            <plain>Роковой печали гнет,</plain>
+            <plain>Р РѕРєРѕРІРѕР№ РїРµС‡Р°Р»Рё РіРЅРµС‚,</plain>
         </string>
         <string>
-            <plain>А с Тобой и в дни невзгод</plain>
+            <plain>Рђ СЃ РўРѕР±РѕР№ Рё РІ РґРЅРё РЅРµРІР·РіРѕРґ</plain>
         </string>
         <string>
-            <plain>Сердца радостью горит.</plain>
+            <plain>РЎРµСЂРґС†Р° СЂР°РґРѕСЃС‚СЊСЋ РіРѕСЂРёС‚.</plain>
         </string>
         <string>
-            <plain>Без Тебя кругом зима,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ РєСЂСѓРіРѕРј Р·РёРјР°,</plain>
         </string>
         <string>
-            <plain>А с Тобой весны расцвет;</plain>
+            <plain>Рђ СЃ РўРѕР±РѕР№ РІРµСЃРЅС‹ СЂР°СЃС†РІРµС‚;</plain>
         </string>
         <string>
-            <plain>Без Тебя и ночь, и тьма,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ Рё РЅРѕС‡СЊ, Рё С‚СЊРјР°,</plain>
         </string>
         <string>
-            <plain>:,:А с Тобою вечный свет.:,:</plain>
+            <plain>:,:Рђ СЃ РўРѕР±РѕСЋ РІРµС‡РЅС‹Р№ СЃРІРµС‚.:,:</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Без Тебя порока яд,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ РїРѕСЂРѕРєР° СЏРґ,</plain>
         </string>
         <string>
-            <plain>А с Тобой блаженства край.</plain>
+            <plain>Рђ СЃ РўРѕР±РѕР№ Р±Р»Р°Р¶РµРЅСЃС‚РІР° РєСЂР°Р№.</plain>
         </string>
         <string>
-            <plain>Без Тебя и смерть и ад,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ Рё СЃРјРµСЂС‚СЊ Рё Р°Рґ,</plain>
         </string>
         <string>
-            <plain>А с Тобой и жизнь, и рай.</plain>
+            <plain>Рђ СЃ РўРѕР±РѕР№ Рё Р¶РёР·РЅСЊ, Рё СЂР°Р№.</plain>
         </string>
         <string>
-            <plain>Без Тебя ч прах земной,</plain>
+            <plain>Р‘РµР· РўРµР±СЏ С‡ РїСЂР°С… Р·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>А с Тобою неба сын;</plain>
+            <plain>Рђ СЃ РўРѕР±РѕСЋ РЅРµР±Р° СЃС‹РЅ;</plain>
         </string>
         <string>
-            <plain>О, владей же Ты один</plain>
+            <plain>Рћ, РІР»Р°РґРµР№ Р¶Рµ РўС‹ РѕРґРёРЅ</plain>
         </string>
         <string>
-            <plain>:,:Телом, сердцем и душой.:,:</plain>
+            <plain>:,:РўРµР»РѕРј, СЃРµСЂРґС†РµРј Рё РґСѓС€РѕР№.:,:</plain>
         </string>
     </verse>
 </psalm>

@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="138" name="Ты для меня Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="138" name="РўС‹ РґР»СЏ РјРµРЅСЏ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты для меня, Спаситель,</plain>
+            <plain>РўС‹ РґР»СЏ РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Сошел с святых небес,</plain>
+            <plain>РЎРѕС€РµР» СЃ СЃРІСЏС‚С‹С… РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>Оставил Ты обитель</plain>
+            <plain>РћСЃС‚Р°РІРёР» РўС‹ РѕР±РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Всю полную чудес.</plain>
+            <plain>Р’СЃСЋ РїРѕР»РЅСѓСЋ С‡СѓРґРµСЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты для меня, Спаситель,</plain>
+            <plain>РўС‹ РґР»СЏ РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Принял Голгофский крест.</plain>
+            <plain>РџСЂРёРЅСЏР» Р“РѕР»РіРѕС„СЃРєРёР№ РєСЂРµСЃС‚.</plain>
         </string>
         <string>
-            <plain>Хвала Тебе, о мой Искупитель,</plain>
+            <plain>РҐРІР°Р»Р° РўРµР±Рµ, Рѕ РјРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Хвала Тебе и честь!</plain>
+            <plain>РҐРІР°Р»Р° РўРµР±Рµ Рё С‡РµСЃС‚СЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты для меня, Спаситель,</plain>
+            <plain>РўС‹ РґР»СЏ РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Смирившись, в яслях был;</plain>
+            <plain>РЎРјРёСЂРёРІС€РёСЃСЊ, РІ СЏСЃР»СЏС… Р±С‹Р»;</plain>
         </string>
         <string>
-            <plain>Слепым Ты был водитель,</plain>
+            <plain>РЎР»РµРїС‹Рј РўС‹ Р±С‹Р» РІРѕРґРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Для бедных мира жил.</plain>
+            <plain>Р”Р»СЏ Р±РµРґРЅС‹С… РјРёСЂР° Р¶РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Спаситель, красотою</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РєСЂР°СЃРѕС‚РѕСЋ</plain>
         </string>
         <string>
-            <plain>Любви Твоей пленен,</plain>
+            <plain>Р›СЋР±РІРё РўРІРѕРµР№ РїР»РµРЅРµРЅ,</plain>
         </string>
         <string>
-            <plain>Я жить хочу с Тобою,</plain>
+            <plain>РЇ Р¶РёС‚СЊ С…РѕС‡Сѓ СЃ РўРѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Тобою я спасен.</plain>
+            <plain>РўРѕР±РѕСЋ СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В Тебе лишь, о Спаситель,</plain>
+            <plain>Р’ РўРµР±Рµ Р»РёС€СЊ, Рѕ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Хочу сокрыться я.</plain>
+            <plain>РҐРѕС‡Сѓ СЃРѕРєСЂС‹С‚СЊСЃСЏ СЏ.</plain>
         </string>
         <string>
-            <plain>Во мне Твою обитель</plain>
+            <plain>Р’Рѕ РјРЅРµ РўРІРѕСЋ РѕР±РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Устрой Ты для Себя.</plain>
+            <plain>РЈСЃС‚СЂРѕР№ РўС‹ РґР»СЏ РЎРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Тебе лишь петь хочу я</plain>
+            <plain>РўРµР±Рµ Р»РёС€СЊ РїРµС‚СЊ С…РѕС‡Сѓ СЏ</plain>
         </string>
         <string>
-            <plain>Всегда, во всякий миг.</plain>
+            <plain>Р’СЃРµРіРґР°, РІРѕ РІСЃСЏРєРёР№ РјРёРі.</plain>
         </string>
         <string>
-            <plain>Тебе принадлежу я,</plain>
+            <plain>РўРµР±Рµ РїСЂРёРЅР°РґР»РµР¶Сѓ СЏ,</plain>
         </string>
         <string>
-            <plain>Я весь в руках Твоих!</plain>
+            <plain>РЇ РІРµСЃСЊ РІ СЂСѓРєР°С… РўРІРѕРёС…!</plain>
         </string>
     </verse>
 </psalm>

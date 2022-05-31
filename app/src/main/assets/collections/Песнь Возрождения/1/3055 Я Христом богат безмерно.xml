@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3055" name="Я Христом богат безмерно" canon="false" text="" textRus="" music="">
+<psalm number="3055" name="РЇ РҐСЂРёСЃС‚РѕРј Р±РѕРіР°С‚ Р±РµР·РјРµСЂРЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я Христом богат безмерно,</plain>
+            <plain>РЇ РҐСЂРёСЃС‚РѕРј Р±РѕРіР°С‚ Р±РµР·РјРµСЂРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Он - сокровище моё!</plain>
+            <plain>РћРЅ - СЃРѕРєСЂРѕРІРёС‰Рµ РјРѕС‘!</plain>
         </string>
         <string>
-            <plain>Сердце так моё довольно,</plain>
+            <plain>РЎРµСЂРґС†Рµ С‚Р°Рє РјРѕС‘ РґРѕРІРѕР»СЊРЅРѕ,</plain>
         </string>
         <string>
-            <plain>что не жаждет ничего.</plain>
+            <plain>С‡С‚Рѕ РЅРµ Р¶Р°Р¶РґРµС‚ РЅРёС‡РµРіРѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мне Христос мой утоляет</plain>
+            <plain>РњРЅРµ РҐСЂРёСЃС‚РѕСЃ РјРѕР№ СѓС‚РѕР»СЏРµС‚</plain>
         </string>
         <string>
-            <plain>жажду в жизни сей сполна;</plain>
+            <plain>Р¶Р°Р¶РґСѓ РІ Р¶РёР·РЅРё СЃРµР№ СЃРїРѕР»РЅР°;</plain>
         </string>
         <string>
-            <plain>в Нём - надежда, радость, счастье,</plain>
+            <plain>РІ РќС‘Рј - РЅР°РґРµР¶РґР°, СЂР°РґРѕСЃС‚СЊ, СЃС‡Р°СЃС‚СЊРµ,</plain>
         </string>
         <string>
-            <plain>в Нём отрада вся моя.</plain>
+            <plain>РІ РќС‘Рј РѕС‚СЂР°РґР° РІСЃСЏ РјРѕСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Мне Христос - залог блаженства,</plain>
+            <plain>РњРЅРµ РҐСЂРёСЃС‚РѕСЃ - Р·Р°Р»РѕРі Р±Р»Р°Р¶РµРЅСЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>якорь крепкий для души:</plain>
+            <plain>СЏРєРѕСЂСЊ РєСЂРµРїРєРёР№ РґР»СЏ РґСѓС€Рё:</plain>
         </string>
         <string>
-            <plain>он и в шторм меня удержит,</plain>
+            <plain>РѕРЅ Рё РІ С€С‚РѕСЂРј РјРµРЅСЏ СѓРґРµСЂР¶РёС‚,</plain>
         </string>
         <string>
-            <plain>сильным волнам вопреки.</plain>
+            <plain>СЃРёР»СЊРЅС‹Рј РІРѕР»РЅР°Рј РІРѕРїСЂРµРєРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Во Христе теперь источник</plain>
+            <plain>Р’Рѕ РҐСЂРёСЃС‚Рµ С‚РµРїРµСЂСЊ РёСЃС‚РѕС‡РЅРёРє</plain>
         </string>
         <string>
-            <plain>удовольствий всех моих,</plain>
+            <plain>СѓРґРѕРІРѕР»СЊСЃС‚РІРёР№ РІСЃРµС… РјРѕРёС…,</plain>
         </string>
         <string>
-            <plain>радостей невыразимых</plain>
+            <plain>СЂР°РґРѕСЃС‚РµР№ РЅРµРІС‹СЂР°Р·РёРјС‹С…</plain>
         </string>
         <string>
-            <plain>- в мире не найти таких.</plain>
+            <plain>- РІ РјРёСЂРµ РЅРµ РЅР°Р№С‚Рё С‚Р°РєРёС….</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Он - мой дрогой Спаситель,</plain>
+            <plain>РћРЅ - РјРѕР№ РґСЂРѕРіРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>жизнь отдавший за меня;</plain>
+            <plain>Р¶РёР·РЅСЊ РѕС‚РґР°РІС€РёР№ Р·Р° РјРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>от оков греха избавил,</plain>
+            <plain>РѕС‚ РѕРєРѕРІ РіСЂРµС…Р° РёР·Р±Р°РІРёР»,</plain>
         </string>
         <string>
-            <plain>стал Его я навсегда.</plain>
+            <plain>СЃС‚Р°Р» Р•РіРѕ СЏ РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
 </psalm>

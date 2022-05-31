@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1527" name="Во Христе мир душе" canon="false" text="" textRus="" music="">
+<psalm number="1527" name="Р’Рѕ РҐСЂРёСЃС‚Рµ РјРёСЂ РґСѓС€Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Во Христе мир душе</plain>
+            <plain>Р’Рѕ РҐСЂРёСЃС‚Рµ РјРёСЂ РґСѓС€Рµ</plain>
         </string>
         <string>
-            <plain>поспеши обрести.</plain>
+            <plain>РїРѕСЃРїРµС€Рё РѕР±СЂРµСЃС‚Рё.</plain>
         </string>
         <string>
-            <plain>Кто грехом утружден.</plain>
+            <plain>РљС‚Рѕ РіСЂРµС…РѕРј СѓС‚СЂСѓР¶РґРµРЅ.</plain>
         </string>
         <string>
-            <plain>Даст покой только Он.</plain>
+            <plain>Р”Р°СЃС‚ РїРѕРєРѕР№ С‚РѕР»СЊРєРѕ РћРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Друг, утомленный в пути.</plain>
+            <plain>Р”СЂСѓРі, СѓС‚РѕРјР»РµРЅРЅС‹Р№ РІ РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Мира душе не найти.</plain>
+            <plain>РњРёСЂР° РґСѓС€Рµ РЅРµ РЅР°Р№С‚Рё.</plain>
         </string>
         <string>
-            <plain>Если Христа ты замедлишь принять,</plain>
+            <plain>Р•СЃР»Рё РҐСЂРёСЃС‚Р° С‚С‹ Р·Р°РјРµРґР»РёС€СЊ РїСЂРёРЅСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Можешь навек опоздать.</plain>
+            <plain>РњРѕР¶РµС€СЊ РЅР°РІРµРє РѕРїРѕР·РґР°С‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я не мало блуждал</plain>
+            <plain>РЇ РЅРµ РјР°Р»Рѕ Р±Р»СѓР¶РґР°Р»</plain>
         </string>
         <string>
-            <plain>И все счастье искал.</plain>
+            <plain>Р РІСЃРµ СЃС‡Р°СЃС‚СЊРµ РёСЃРєР°Р».</plain>
         </string>
         <string>
-            <plain>Всюду тьма, а не свет.</plain>
+            <plain>Р’СЃСЋРґСѓ С‚СЊРјР°, Р° РЅРµ СЃРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Значит счастья там нет.</plain>
+            <plain>Р—РЅР°С‡РёС‚ СЃС‡Р°СЃС‚СЊСЏ С‚Р°Рј РЅРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но души чистота</plain>
+            <plain>РќРѕ РґСѓС€Рё С‡РёСЃС‚РѕС‚Р°</plain>
         </string>
         <string>
-            <plain>Для тебя у Христа,</plain>
+            <plain>Р”Р»СЏ С‚РµР±СЏ Сѓ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Чтоб ты счастье познал.</plain>
+            <plain>Р§С‚РѕР± С‚С‹ СЃС‡Р°СЃС‚СЊРµ РїРѕР·РЅР°Р».</plain>
         </string>
         <string>
-            <plain>Он жестоко страдал.</plain>
+            <plain>РћРЅ Р¶РµСЃС‚РѕРєРѕ СЃС‚СЂР°РґР°Р».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Не страшися суда</plain>
+            <plain>РќРµ СЃС‚СЂР°С€РёСЃСЏ СЃСѓРґР°</plain>
         </string>
         <string>
-            <plain>И не бойся стыда.</plain>
+            <plain>Р РЅРµ Р±РѕР№СЃСЏ СЃС‚С‹РґР°.</plain>
         </string>
         <string>
-            <plain>Чтоб ты счастье познал,</plain>
+            <plain>Р§С‚РѕР± С‚С‹ СЃС‡Р°СЃС‚СЊРµ РїРѕР·РЅР°Р»,</plain>
         </string>
         <string>
-            <plain>Он жестоко страдал.</plain>
+            <plain>РћРЅ Р¶РµСЃС‚РѕРєРѕ СЃС‚СЂР°РґР°Р».</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>Друг, утомленный в пути.</plain>
+            <plain>Р”СЂСѓРі, СѓС‚РѕРјР»РµРЅРЅС‹Р№ РІ РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Мир во Христе обрети,</plain>
+            <plain>РњРёСЂ РІРѕ РҐСЂРёСЃС‚Рµ РѕР±СЂРµС‚Рё,</plain>
         </string>
         <string>
-            <plain>Верой Христа постарайся принять.</plain>
+            <plain>Р’РµСЂРѕР№ РҐСЂРёСЃС‚Р° РїРѕСЃС‚Р°СЂР°Р№СЃСЏ РїСЂРёРЅСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Вечное счастье познать.</plain>
+            <plain>Р’РµС‡РЅРѕРµ СЃС‡Р°СЃС‚СЊРµ РїРѕР·РЅР°С‚СЊ.</plain>
         </string>
     </chorus>
 </psalm>

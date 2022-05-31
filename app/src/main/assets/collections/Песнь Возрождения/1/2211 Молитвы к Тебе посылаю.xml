@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2211" name="Молитвы к Тебе посылаю" canon="false" text="" textRus="" music="">
+<psalm number="2211" name="РњРѕР»РёС‚РІС‹ Рє РўРµР±Рµ РїРѕСЃС‹Р»Р°СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Молитвы к Тебе посылаю</plain>
+            <plain>РњРѕР»РёС‚РІС‹ Рє РўРµР±Рµ РїРѕСЃС‹Р»Р°СЋ</plain>
         </string>
         <string>
-            <plain>И верю - услышишь меня,</plain>
+            <plain>Р РІРµСЂСЋ - СѓСЃР»С‹С€РёС€СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>И сердце к Тебе направляю,</plain>
+            <plain>Р СЃРµСЂРґС†Рµ Рє РўРµР±Рµ РЅР°РїСЂР°РІР»СЏСЋ,</plain>
         </string>
         <string>
-            <plain>О Боже, прости же меня.</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, РїСЂРѕСЃС‚Рё Р¶Рµ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пусть я бессилен и устал,</plain>
+            <plain>РџСѓСЃС‚СЊ СЏ Р±РµСЃСЃРёР»РµРЅ Рё СѓСЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>Пусть на пути не устоял,</plain>
+            <plain>РџСѓСЃС‚СЊ РЅР° РїСѓС‚Рё РЅРµ СѓСЃС‚РѕСЏР»,</plain>
         </string>
         <string>
-            <plain>Но ведь души моей мечты</plain>
+            <plain>РќРѕ РІРµРґСЊ РґСѓС€Рё РјРѕРµР№ РјРµС‡С‚С‹</plain>
         </string>
         <string>
-            <plain>Знаешь лишь Ты.</plain>
+            <plain>Р—РЅР°РµС€СЊ Р»РёС€СЊ РўС‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Глаза мои полны печали</plain>
+            <plain>Р“Р»Р°Р·Р° РјРѕРё РїРѕР»РЅС‹ РїРµС‡Р°Р»Рё</plain>
         </string>
         <string>
-            <plain>И сердце так сильно болит.</plain>
+            <plain>Р СЃРµСЂРґС†Рµ С‚Р°Рє СЃРёР»СЊРЅРѕ Р±РѕР»РёС‚.</plain>
         </string>
         <string>
-            <plain>Лишь Ты мои слышишь желанья,</plain>
+            <plain>Р›РёС€СЊ РўС‹ РјРѕРё СЃР»С‹С€РёС€СЊ Р¶РµР»Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>И радость лишь Ты мне даришь.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊ Р»РёС€СЊ РўС‹ РјРЅРµ РґР°СЂРёС€СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Господь, я Тебе благодарен</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, СЏ РўРµР±Рµ Р±Р»Р°РіРѕРґР°СЂРµРЅ</plain>
         </string>
         <string>
-            <plain>За вечный, божественный свет,</plain>
+            <plain>Р—Р° РІРµС‡РЅС‹Р№, Р±РѕР¶РµСЃС‚РІРµРЅРЅС‹Р№ СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>До смерти Тебя буду славить,</plain>
+            <plain>Р”Рѕ СЃРјРµСЂС‚Рё РўРµР±СЏ Р±СѓРґСѓ СЃР»Р°РІРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Прими же теперь мой обет.</plain>
+            <plain>РџСЂРёРјРё Р¶Рµ С‚РµРїРµСЂСЊ РјРѕР№ РѕР±РµС‚.</plain>
         </string>
     </verse>
 </psalm>

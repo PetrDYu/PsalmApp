@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2865" name="Живу я на святой земле" canon="false" text="" textRus="" music="">
+<psalm number="2865" name="Р–РёРІСѓ СЏ РЅР° СЃРІСЏС‚РѕР№ Р·РµРјР»Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Живу я на святой земле,</plain>
+            <plain>Р–РёРІСѓ СЏ РЅР° СЃРІСЏС‚РѕР№ Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>не страшны здесь все бури мне:</plain>
+            <plain>РЅРµ СЃС‚СЂР°С€РЅС‹ Р·РґРµСЃСЊ РІСЃРµ Р±СѓСЂРё РјРЅРµ:</plain>
         </string>
         <string>
-            <plain>дом мой стоит не на песке</plain>
+            <plain>РґРѕРј РјРѕР№ СЃС‚РѕРёС‚ РЅРµ РЅР° РїРµСЃРєРµ</plain>
         </string>
         <string>
-            <plain>- дом мой, он на скале.</plain>
+            <plain>- РґРѕРј РјРѕР№, РѕРЅ РЅР° СЃРєР°Р»Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Надёжно я свой дом</plain>
+            <plain>РќР°РґС‘Р¶РЅРѕ СЏ СЃРІРѕР№ РґРѕРј</plain>
         </string>
         <string>
-            <plain>построил на скале;</plain>
+            <plain>РїРѕСЃС‚СЂРѕРёР» РЅР° СЃРєР°Р»Рµ;</plain>
         </string>
         <string>
-            <plain>все бури не страшат меня</plain>
+            <plain>РІСЃРµ Р±СѓСЂРё РЅРµ СЃС‚СЂР°С€Р°С‚ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>- дом мой ведь на скале.</plain>
+            <plain>- РґРѕРј РјРѕР№ РІРµРґСЊ РЅР° СЃРєР°Р»Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В тяжёлых испытаниях,</plain>
+            <plain>Р’ С‚СЏР¶С‘Р»С‹С… РёСЃРїС‹С‚Р°РЅРёСЏС…,</plain>
         </string>
         <string>
-            <plain>когда мой путь скрывает тьма,</plain>
+            <plain>РєРѕРіРґР° РјРѕР№ РїСѓС‚СЊ СЃРєСЂС‹РІР°РµС‚ С‚СЊРјР°,</plain>
         </string>
         <string>
-            <plain>смогу я всё же устоять</plain>
+            <plain>СЃРјРѕРіСѓ СЏ РІСЃС‘ Р¶Рµ СѓСЃС‚РѕСЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>- дом мой ведь на скале.</plain>
+            <plain>- РґРѕРј РјРѕР№ РІРµРґСЊ РЅР° СЃРєР°Р»Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда же мне грозит беда</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ РјРЅРµ РіСЂРѕР·РёС‚ Р±РµРґР°</plain>
         </string>
         <string>
-            <plain>и падают вокруг дома,</plain>
+            <plain>Рё РїР°РґР°СЋС‚ РІРѕРєСЂСѓРі РґРѕРјР°,</plain>
         </string>
         <string>
-            <plain>укрыт я в Боге и тогда</plain>
+            <plain>СѓРєСЂС‹С‚ СЏ РІ Р‘РѕРіРµ Рё С‚РѕРіРґР°</plain>
         </string>
         <string>
-            <plain>- дом мой ведь на скале.</plain>
+            <plain>- РґРѕРј РјРѕР№ РІРµРґСЊ РЅР° СЃРєР°Р»Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Когда последний час пробьёт,</plain>
+            <plain>РљРѕРіРґР° РїРѕСЃР»РµРґРЅРёР№ С‡Р°СЃ РїСЂРѕР±СЊС‘С‚,</plain>
         </string>
         <string>
-            <plain>меня Иисус к Себе возьмёт</plain>
+            <plain>РјРµРЅСЏ РРёСЃСѓСЃ Рє РЎРµР±Рµ РІРѕР·СЊРјС‘С‚</plain>
         </string>
         <string>
-            <plain>туда,  где славят все Его</plain>
+            <plain>С‚СѓРґР°,  РіРґРµ СЃР»Р°РІСЏС‚ РІСЃРµ Р•РіРѕ</plain>
         </string>
         <string>
-            <plain>- дом мой, ведь на скале.</plain>
+            <plain>- РґРѕРј РјРѕР№, РІРµРґСЊ РЅР° СЃРєР°Р»Рµ.</plain>
         </string>
     </verse>
 </psalm>

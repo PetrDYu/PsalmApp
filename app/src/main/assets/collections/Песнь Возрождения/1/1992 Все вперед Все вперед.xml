@@ -1,97 +1,97 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1992" name="Все вперед Все вперед" canon="false" text="" textRus="" music="">
+<psalm number="1992" name="Р’СЃРµ РІРїРµСЂРµРґ Р’СЃРµ РІРїРµСЂРµРґ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Все вперед! Все вперед.</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ! Р’СЃРµ РІРїРµСЂРµРґ.</plain>
         </string>
         <string>
-            <plain>Песню воспойте новую!</plain>
+            <plain>РџРµСЃРЅСЋ РІРѕСЃРїРѕР№С‚Рµ РЅРѕРІСѓСЋ!</plain>
         </string>
         <string>
-            <plain>Будем любовь в Нем прославлять.</plain>
+            <plain>Р‘СѓРґРµРј Р»СЋР±РѕРІСЊ РІ РќРµРј РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Милость Его и благодать.</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ Р•РіРѕ Рё Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Пойте, как Он ко мне был благ</plain>
+            <plain>РџРѕР№С‚Рµ, РєР°Рє РћРЅ РєРѕ РјРЅРµ Р±С‹Р» Р±Р»Р°Рі</plain>
         </string>
         <string>
-            <plain>И как хранит в Своих руках!</plain>
+            <plain>Р РєР°Рє С…СЂР°РЅРёС‚ РІ РЎРІРѕРёС… СЂСѓРєР°С…!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пойте о Боге вечной любви,</plain>
+            <plain>РџРѕР№С‚Рµ Рѕ Р‘РѕРіРµ РІРµС‡РЅРѕР№ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Спасшем меня для славы небес.</plain>
+            <plain>РЎРїР°СЃС€РµРј РјРµРЅСЏ РґР»СЏ СЃР»Р°РІС‹ РЅРµР±РµСЃ.</plain>
         </string>
         <string>
-            <plain>Все вперед! Все вперед!</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ! Р’СЃРµ РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Песню воспойте новую.</plain>
+            <plain>РџРµСЃРЅСЋ РІРѕСЃРїРѕР№С‚Рµ РЅРѕРІСѓСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Все вперед! Все вперед!</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ! Р’СЃРµ РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Песню воспойте новую.</plain>
+            <plain>РџРµСЃРЅСЋ РІРѕСЃРїРѕР№С‚Рµ РЅРѕРІСѓСЋ.</plain>
         </string>
         <string>
-            <plain>Пойте: Он слово нам дарит.</plain>
+            <plain>РџРѕР№С‚Рµ: РћРЅ СЃР»РѕРІРѕ РЅР°Рј РґР°СЂРёС‚.</plain>
         </string>
         <string>
-            <plain>Светлый в нем луч для нас горит.</plain>
+            <plain>РЎРІРµС‚Р»С‹Р№ РІ РЅРµРј Р»СѓС‡ РґР»СЏ РЅР°СЃ РіРѕСЂРёС‚.</plain>
         </string>
         <string>
-            <plain>Пойте о смерти на кресте,</plain>
+            <plain>РџРѕР№С‚Рµ Рѕ СЃРјРµСЂС‚Рё РЅР° РєСЂРµСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>О воцареньи в высоте.</plain>
+            <plain>Рћ РІРѕС†Р°СЂРµРЅСЊРё РІ РІС‹СЃРѕС‚Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Все вперед! Все вперед!</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ! Р’СЃРµ РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Песню воспойте новую!</plain>
+            <plain>РџРµСЃРЅСЋ РІРѕСЃРїРѕР№С‚Рµ РЅРѕРІСѓСЋ!</plain>
         </string>
         <string>
-            <plain>Пойте, как нас Он возлюбил,</plain>
+            <plain>РџРѕР№С‚Рµ, РєР°Рє РЅР°СЃ РћРЅ РІРѕР·Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>Души от ада искупил,</plain>
+            <plain>Р”СѓС€Рё РѕС‚ Р°РґР° РёСЃРєСѓРїРёР»,</plain>
         </string>
         <string>
-            <plain>Как драгоценна кровь Христа,</plain>
+            <plain>РљР°Рє РґСЂР°РіРѕС†РµРЅРЅР° РєСЂРѕРІСЊ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>В ней я спасен кровью креста.</plain>
+            <plain>Р’ РЅРµР№ СЏ СЃРїР°СЃРµРЅ РєСЂРѕРІСЊСЋ РєСЂРµСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Все вперед! Все вперед!</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ! Р’СЃРµ РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Песню воспойте новую!</plain>
+            <plain>РџРµСЃРЅСЋ РІРѕСЃРїРѕР№С‚Рµ РЅРѕРІСѓСЋ!</plain>
         </string>
         <string>
-            <plain>Пойте о том, как Он силен,</plain>
+            <plain>РџРѕР№С‚Рµ Рѕ С‚РѕРј, РєР°Рє РћРЅ СЃРёР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>Как смерти власть разрушил Он.</plain>
+            <plain>РљР°Рє СЃРјРµСЂС‚Рё РІР»Р°СЃС‚СЊ СЂР°Р·СЂСѓС€РёР» РћРЅ.</plain>
         </string>
         <string>
-            <plain>Пойте, как мой Христос воскрес</plain>
+            <plain>РџРѕР№С‚Рµ, РєР°Рє РјРѕР№ РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ</plain>
         </string>
         <string>
-            <plain>И как Он дал мне свет с небес.</plain>
+            <plain>Р РєР°Рє РћРЅ РґР°Р» РјРЅРµ СЃРІРµС‚ СЃ РЅРµР±РµСЃ.</plain>
         </string>
     </verse>
 </psalm>

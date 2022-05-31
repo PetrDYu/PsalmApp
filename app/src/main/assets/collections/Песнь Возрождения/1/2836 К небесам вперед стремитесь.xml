@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2836" name="К небесам вперед стремитесь" canon="false" text="" textRus="" music="">
+<psalm number="2836" name="Рљ РЅРµР±РµСЃР°Рј РІРїРµСЂРµРґ СЃС‚СЂРµРјРёС‚РµСЃСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>К небесам вперед стремитесь</plain>
+            <plain>Рљ РЅРµР±РµСЃР°Рј РІРїРµСЂРµРґ СЃС‚СЂРµРјРёС‚РµСЃСЊ</plain>
         </string>
         <string>
-            <plain>в битве, воины Христа!</plain>
+            <plain>РІ Р±РёС‚РІРµ, РІРѕРёРЅС‹ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Ждет награда нас большая,</plain>
+            <plain>Р–РґРµС‚ РЅР°РіСЂР°РґР° РЅР°СЃ Р±РѕР»СЊС€Р°СЏ,</plain>
         </string>
         <string>
-            <plain>и победа уж близка.</plain>
+            <plain>Рё РїРѕР±РµРґР° СѓР¶ Р±Р»РёР·РєР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя! Гимн победы пусть</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! Р“РёРјРЅ РїРѕР±РµРґС‹ РїСѓСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>звучит в борьбе с врагом!</plain>
+            <plain>Р·РІСѓС‡РёС‚ РІ Р±РѕСЂСЊР±Рµ СЃ РІСЂР°РіРѕРј!</plain>
         </string>
         <string>
-            <plain>Нам венцы победы в небе</plain>
+            <plain>РќР°Рј РІРµРЅС†С‹ РїРѕР±РµРґС‹ РІ РЅРµР±Рµ</plain>
         </string>
         <string>
-            <plain>приготовлены Христом!</plain>
+            <plain>РїСЂРёРіРѕС‚РѕРІР»РµРЅС‹ РҐСЂРёСЃС‚РѕРј!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Меч возьмите, бейтесь смело,</plain>
+            <plain>РњРµС‡ РІРѕР·СЊРјРёС‚Рµ, Р±РµР№С‚РµСЃСЊ СЃРјРµР»Рѕ,</plain>
         </string>
         <string>
-            <plain>будьте бодры вы в мольбе</plain>
+            <plain>Р±СѓРґСЊС‚Рµ Р±РѕРґСЂС‹ РІС‹ РІ РјРѕР»СЊР±Рµ</plain>
         </string>
         <string>
-            <plain>и не падайте вы духом,</plain>
+            <plain>Рё РЅРµ РїР°РґР°Р№С‚Рµ РІС‹ РґСѓС…РѕРј,</plain>
         </string>
         <string>
-            <plain>но вперед стремитесь все!</plain>
+            <plain>РЅРѕ РІРїРµСЂРµРґ СЃС‚СЂРµРјРёС‚РµСЃСЊ РІСЃРµ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пленных вы освобождайте,</plain>
+            <plain>РџР»РµРЅРЅС‹С… РІС‹ РѕСЃРІРѕР±РѕР¶РґР°Р№С‚Рµ,</plain>
         </string>
         <string>
-            <plain>мир оставьте позади;</plain>
+            <plain>РјРёСЂ РѕСЃС‚Р°РІСЊС‚Рµ РїРѕР·Р°РґРё;</plain>
         </string>
         <string>
-            <plain>стойте в вере без сомнений,</plain>
+            <plain>СЃС‚РѕР№С‚Рµ РІ РІРµСЂРµ Р±РµР· СЃРѕРјРЅРµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>счастье ждет нас впереди!</plain>
+            <plain>СЃС‡Р°СЃС‚СЊРµ Р¶РґРµС‚ РЅР°СЃ РІРїРµСЂРµРґРё!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>«К небесам вперед!» - наш лозунг</plain>
+            <plain>В«Рљ РЅРµР±РµСЃР°Рј РІРїРµСЂРµРґ!В» - РЅР°С€ Р»РѕР·СѓРЅРі</plain>
         </string>
         <string>
-            <plain>будет до конца времен.</plain>
+            <plain>Р±СѓРґРµС‚ РґРѕ РєРѕРЅС†Р° РІСЂРµРјРµРЅ.</plain>
         </string>
         <string>
-            <plain>Будем мы в небесном царстве</plain>
+            <plain>Р‘СѓРґРµРј РјС‹ РІ РЅРµР±РµСЃРЅРѕРј С†Р°СЂСЃС‚РІРµ</plain>
         </string>
         <string>
-            <plain>вечно царствовать с Христом.</plain>
+            <plain>РІРµС‡РЅРѕ С†Р°СЂСЃС‚РІРѕРІР°С‚СЊ СЃ РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
     </verse>
 </psalm>

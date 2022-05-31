@@ -1,99 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2535" name="Я увижу во славе Иисуса" canon="false" text="" textRus="" music="">
+<psalm number="2535" name="РЇ СѓРІРёР¶Сѓ РІРѕ СЃР»Р°РІРµ РРёСЃСѓСЃР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я увижу во славе Иисуса</plain>
+            <plain>РЇ СѓРІРёР¶Сѓ РІРѕ СЃР»Р°РІРµ РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>и войду в мир чудесный, иной,</plain>
+            <plain>Рё РІРѕР№РґСѓ РІ РјРёСЂ С‡СѓРґРµСЃРЅС‹Р№, РёРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Когда с миром к Нему возвращуся</plain>
+            <plain>РљРѕРіРґР° СЃ РјРёСЂРѕРј Рє РќРµРјСѓ РІРѕР·РІСЂР°С‰СѓСЃСЏ</plain>
         </string>
         <string>
-            <plain>после временной жизни земной.</plain>
+            <plain>РїРѕСЃР»Рµ РІСЂРµРјРµРЅРЅРѕР№ Р¶РёР·РЅРё Р·РµРјРЅРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я Того увижу в славе,</plain>
+            <plain>РЇ РўРѕРіРѕ СѓРІРёР¶Сѓ РІ СЃР»Р°РІРµ,</plain>
         </string>
         <string>
-            <plain>Кто за всех мог умереть;</plain>
+            <plain>РљС‚Рѕ Р·Р° РІСЃРµС… РјРѕРі СѓРјРµСЂРµС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Как Он грешников избавил,</plain>
+            <plain>РљР°Рє РћРЅ РіСЂРµС€РЅРёРєРѕРІ РёР·Р±Р°РІРёР»,</plain>
         </string>
         <string>
-            <plain>со святыми буду петь.</plain>
+            <plain>СЃРѕ СЃРІСЏС‚С‹РјРё Р±СѓРґСѓ РїРµС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Агнцу Божьему Христу!</plain>
+            <plain>РђРіРЅС†Сѓ Р‘РѕР¶СЊРµРјСѓ РҐСЂРёСЃС‚Сѓ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Аминь!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђРјРёРЅСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Видеть света и жизни источник</plain>
+            <plain>Р’РёРґРµС‚СЊ СЃРІРµС‚Р° Рё Р¶РёР·РЅРё РёСЃС‚РѕС‡РЅРёРє</plain>
         </string>
         <string>
-            <plain>для спасенных желанней всего.</plain>
+            <plain>РґР»СЏ СЃРїР°СЃРµРЅРЅС‹С… Р¶РµР»Р°РЅРЅРµР№ РІСЃРµРіРѕ.</plain>
         </string>
         <string>
-            <plain>Небеса и весь мир непорочных</plain>
+            <plain>РќРµР±РµСЃР° Рё РІРµСЃСЊ РјРёСЂ РЅРµРїРѕСЂРѕС‡РЅС‹С…</plain>
         </string>
         <string>
-            <plain>озаряются славой Его.</plain>
+            <plain>РѕР·Р°СЂСЏСЋС‚СЃСЏ СЃР»Р°РІРѕР№ Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Кто опишет блаженство спасенных,</plain>
+            <plain>РљС‚Рѕ РѕРїРёС€РµС‚ Р±Р»Р°Р¶РµРЅСЃС‚РІРѕ СЃРїР°СЃРµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>возвращенных во славу Отца?</plain>
+            <plain>РІРѕР·РІСЂР°С‰РµРЅРЅС‹С… РІРѕ СЃР»Р°РІСѓ РћС‚С†Р°?</plain>
         </string>
         <string>
-            <plain>Один вид Божья Агнца на троне</plain>
+            <plain>РћРґРёРЅ РІРёРґ Р‘РѕР¶СЊСЏ РђРіРЅС†Р° РЅР° С‚СЂРѕРЅРµ</plain>
         </string>
         <string>
-            <plain>наполняет восторгом сердца.</plain>
+            <plain>РЅР°РїРѕР»РЅСЏРµС‚ РІРѕСЃС‚РѕСЂРіРѕРј СЃРµСЂРґС†Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Он ко всем будет близок безмерно,</plain>
+            <plain>РћРЅ РєРѕ РІСЃРµРј Р±СѓРґРµС‚ Р±Р»РёР·РѕРє Р±РµР·РјРµСЂРЅРѕ,</plain>
         </string>
         <string>
-            <plain>все народы - одна лишь семья...</plain>
+            <plain>РІСЃРµ РЅР°СЂРѕРґС‹ - РѕРґРЅР° Р»РёС€СЊ СЃРµРјСЊСЏ...</plain>
         </string>
         <string>
-            <plain>Все узнают Иисуса мгновенно</plain>
+            <plain>Р’СЃРµ СѓР·РЅР°СЋС‚ РРёСЃСѓСЃР° РјРіРЅРѕРІРµРЅРЅРѕ</plain>
         </string>
         <string>
-            <plain>по рубцам от гвоздей и копья.</plain>
+            <plain>РїРѕ СЂСѓР±С†Р°Рј РѕС‚ РіРІРѕР·РґРµР№ Рё РєРѕРїСЊСЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я увижу Его, и чудесно вид</plain>
+            <plain>РЇ СѓРІРёР¶Сѓ Р•РіРѕ, Рё С‡СѓРґРµСЃРЅРѕ РІРёРґ</plain>
         </string>
         <string>
-            <plain>Его все изменит во мне;</plain>
+            <plain>Р•РіРѕ РІСЃРµ РёР·РјРµРЅРёС‚ РІРѕ РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>Все земное навеки исчезнет,</plain>
+            <plain>Р’СЃРµ Р·РµРјРЅРѕРµ РЅР°РІРµРєРё РёСЃС‡РµР·РЅРµС‚,</plain>
         </string>
         <string>
-            <plain>уподоблюсь Иисусу вполне.</plain>
+            <plain>СѓРїРѕРґРѕР±Р»СЋСЃСЊ РРёСЃСѓСЃСѓ РІРїРѕР»РЅРµ.</plain>
         </string>
     </verse>
 </psalm>

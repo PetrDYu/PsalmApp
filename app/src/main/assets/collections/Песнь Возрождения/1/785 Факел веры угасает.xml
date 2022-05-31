@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="785" name="Факел веры угасает" canon="false" text="" textRus="" music="">
+<psalm number="785" name="Р¤Р°РєРµР» РІРµСЂС‹ СѓРіР°СЃР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Факел веры угасает,</plain>
+            <plain>Р¤Р°РєРµР» РІРµСЂС‹ СѓРіР°СЃР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Песни мира замирают,</plain>
+            <plain>РџРµСЃРЅРё РјРёСЂР° Р·Р°РјРёСЂР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Нет надежды, нет любви,</plain>
+            <plain>РќРµС‚ РЅР°РґРµР¶РґС‹, РЅРµС‚ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>О мой брат, о мой друг, о где же ты?</plain>
+            <plain>Рћ РјРѕР№ Р±СЂР°С‚, Рѕ РјРѕР№ РґСЂСѓРі, Рѕ РіРґРµ Р¶Рµ С‚С‹?</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Все забыл ты и забросил,</plain>
+            <plain>Р’СЃРµ Р·Р°Р±С‹Р» С‚С‹ Рё Р·Р°Р±СЂРѕСЃРёР»,</plain>
         </string>
         <string>
-            <plain>Колос веры грубо скошен,</plain>
+            <plain>РљРѕР»РѕСЃ РІРµСЂС‹ РіСЂСѓР±Рѕ СЃРєРѕС€РµРЅ,</plain>
         </string>
         <string>
-            <plain>Ты оставил всех друзей,</plain>
+            <plain>РўС‹ РѕСЃС‚Р°РІРёР» РІСЃРµС… РґСЂСѓР·РµР№,</plain>
         </string>
         <string>
-            <plain>О мой друг, о мой брат, вернись скорей.</plain>
+            <plain>Рћ РјРѕР№ РґСЂСѓРі, Рѕ РјРѕР№ Р±СЂР°С‚, РІРµСЂРЅРёСЃСЊ СЃРєРѕСЂРµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты покинул, друг, собранье,</plain>
+            <plain>РўС‹ РїРѕРєРёРЅСѓР», РґСЂСѓРі, СЃРѕР±СЂР°РЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Видит Бог твои страданья,</plain>
+            <plain>Р’РёРґРёС‚ Р‘РѕРі С‚РІРѕРё СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Он зовет тебя: "Приди!"</plain>
+            <plain>РћРЅ Р·РѕРІРµС‚ С‚РµР±СЏ: "РџСЂРёРґРё!"</plain>
         </string>
         <string>
-            <plain>Ты на зов, ты на зов Его спеши.</plain>
+            <plain>РўС‹ РЅР° Р·РѕРІ, С‚С‹ РЅР° Р·РѕРІ Р•РіРѕ СЃРїРµС€Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Друг мой бедный, где блуждаешь,</plain>
+            <plain>Р”СЂСѓРі РјРѕР№ Р±РµРґРЅС‹Р№, РіРґРµ Р±Р»СѓР¶РґР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Где напрасно ты страдаешь?</plain>
+            <plain>Р“РґРµ РЅР°РїСЂР°СЃРЅРѕ С‚С‹ СЃС‚СЂР°РґР°РµС€СЊ?</plain>
         </string>
         <string>
-            <plain>Мрак в душе твоей сильней.</plain>
+            <plain>РњСЂР°Рє РІ РґСѓС€Рµ С‚РІРѕРµР№ СЃРёР»СЊРЅРµР№.</plain>
         </string>
         <string>
-            <plain>О мой друг, о мой брат, вернись скорей!</plain>
+            <plain>Рћ РјРѕР№ РґСЂСѓРі, Рѕ РјРѕР№ Р±СЂР°С‚, РІРµСЂРЅРёСЃСЊ СЃРєРѕСЂРµР№!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Тихо в небе песни льются,</plain>
+            <plain>РўРёС…Рѕ РІ РЅРµР±Рµ РїРµСЃРЅРё Р»СЊСЋС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>То рыданья вдруг прорвутся;</plain>
+            <plain>РўРѕ СЂС‹РґР°РЅСЊСЏ РІРґСЂСѓРі РїСЂРѕСЂРІСѓС‚СЃСЏ;</plain>
         </string>
         <string>
-            <plain>Это слезы, друг, Творца</plain>
+            <plain>Р­С‚Рѕ СЃР»РµР·С‹, РґСЂСѓРі, РўРІРѕСЂС†Р°</plain>
         </string>
         <string>
-            <plain>За тебя, за тебя и за меня.</plain>
+            <plain>Р—Р° С‚РµР±СЏ, Р·Р° С‚РµР±СЏ Рё Р·Р° РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Сумрак ночи опустился,</plain>
+            <plain>РЎСѓРјСЂР°Рє РЅРѕС‡Рё РѕРїСѓСЃС‚РёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Ты сегодня не молился,</plain>
+            <plain>РўС‹ СЃРµРіРѕРґРЅСЏ РЅРµ РјРѕР»РёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>О, склони пред Ним главу</plain>
+            <plain>Рћ, СЃРєР»РѕРЅРё РїСЂРµРґ РќРёРј РіР»Р°РІСѓ</plain>
         </string>
         <string>
-            <plain>И скажи: "Я у ног Твоих стою".</plain>
+            <plain>Р СЃРєР°Р¶Рё: "РЇ Сѓ РЅРѕРі РўРІРѕРёС… СЃС‚РѕСЋ".</plain>
         </string>
     </verse>
 </psalm>

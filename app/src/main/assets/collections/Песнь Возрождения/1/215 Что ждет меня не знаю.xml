@@ -1,121 +1,121 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="215" name="Что ждет меня не знаю" canon="false" text="" textRus="" music="">
+<psalm number="215" name="Р§С‚Рѕ Р¶РґРµС‚ РјРµРЅСЏ РЅРµ Р·РЅР°СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Что ждет меня, не знаю,</plain>
+            <plain>Р§С‚Рѕ Р¶РґРµС‚ РјРµРЅСЏ, РЅРµ Р·РЅР°СЋ,</plain>
         </string>
         <string>
-            <plain>Господь мой это скрыл,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РјРѕР№ СЌС‚Рѕ СЃРєСЂС‹Р»,</plain>
         </string>
         <string>
-            <plain>Но твердо уповаю:</plain>
+            <plain>РќРѕ С‚РІРµСЂРґРѕ СѓРїРѕРІР°СЋ:</plain>
         </string>
         <string>
-            <plain>Мне путь Он проложил,</plain>
+            <plain>РњРЅРµ РїСѓС‚СЊ РћРЅ РїСЂРѕР»РѕР¶РёР»,</plain>
         </string>
         <string>
-            <plain>Избыток жизни, благ и сил</plain>
+            <plain>РР·Р±С‹С‚РѕРє Р¶РёР·РЅРё, Р±Р»Р°Рі Рё СЃРёР»</plain>
         </string>
         <string>
-            <plain>В любви Своей открыл.</plain>
+            <plain>Р’ Р»СЋР±РІРё РЎРІРѕРµР№ РѕС‚РєСЂС‹Р».</plain>
         </string>
         <string>
-            <plain>Избыток жизни, благ и сил</plain>
+            <plain>РР·Р±С‹С‚РѕРє Р¶РёР·РЅРё, Р±Р»Р°Рі Рё СЃРёР»</plain>
         </string>
         <string>
-            <plain>В любви Своей открыл.</plain>
+            <plain>Р’ Р»СЋР±РІРё РЎРІРѕРµР№ РѕС‚РєСЂС‹Р».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Куда зовет Господь мой,</plain>
+            <plain>РљСѓРґР° Р·РѕРІРµС‚ Р“РѕСЃРїРѕРґСЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Дитя Его спешит.</plain>
+            <plain>Р”РёС‚СЏ Р•РіРѕ СЃРїРµС€РёС‚.</plain>
         </string>
         <string>
-            <plain>"Он знает путь, Он знает!" –</plain>
+            <plain>"РћРЅ Р·РЅР°РµС‚ РїСѓС‚СЊ, РћРЅ Р·РЅР°РµС‚!" вЂ“</plain>
         </string>
         <string>
-            <plain>Доверчиво твердит.</plain>
+            <plain>Р”РѕРІРµСЂС‡РёРІРѕ С‚РІРµСЂРґРёС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вокруг меня затменье,</plain>
+            <plain>Р’РѕРєСЂСѓРі РјРµРЅСЏ Р·Р°С‚РјРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>С трудом иду вперед,</plain>
+            <plain>РЎ С‚СЂСѓРґРѕРј РёРґСѓ РІРїРµСЂРµРґ,</plain>
         </string>
         <string>
-            <plain>Но в Боге просветленье,</plain>
+            <plain>РќРѕ РІ Р‘РѕРіРµ РїСЂРѕСЃРІРµС‚Р»РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Он Сам меня ведет;</plain>
+            <plain>РћРЅ РЎР°Рј РјРµРЅСЏ РІРµРґРµС‚;</plain>
         </string>
         <string>
-            <plain>И часто на плечах несет</plain>
+            <plain>Р С‡Р°СЃС‚Рѕ РЅР° РїР»РµС‡Р°С… РЅРµСЃРµС‚</plain>
         </string>
         <string>
-            <plain>В час бури и невзгод.</plain>
+            <plain>Р’ С‡Р°СЃ Р±СѓСЂРё Рё РЅРµРІР·РіРѕРґ.</plain>
         </string>
         <string>
-            <plain>И часто на плечах несет</plain>
+            <plain>Р С‡Р°СЃС‚Рѕ РЅР° РїР»РµС‡Р°С… РЅРµСЃРµС‚</plain>
         </string>
         <string>
-            <plain>В час бури и невзгод.</plain>
+            <plain>Р’ С‡Р°СЃ Р±СѓСЂРё Рё РЅРµРІР·РіРѕРґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Средь бед и испытанья</plain>
+            <plain>РЎСЂРµРґСЊ Р±РµРґ Рё РёСЃРїС‹С‚Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Пусть плоть моя молчит,</plain>
+            <plain>РџСѓСЃС‚СЊ РїР»РѕС‚СЊ РјРѕСЏ РјРѕР»С‡РёС‚,</plain>
         </string>
         <string>
-            <plain>А голос средь молчанья</plain>
+            <plain>Рђ РіРѕР»РѕСЃ СЃСЂРµРґСЊ РјРѕР»С‡Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Яснее пусть твердит:</plain>
+            <plain>РЇСЃРЅРµРµ РїСѓСЃС‚СЊ С‚РІРµСЂРґРёС‚:</plain>
         </string>
         <string>
-            <plain>"Ты - Мой! - Твой путь в руке Моей;</plain>
+            <plain>"РўС‹ - РњРѕР№! - РўРІРѕР№ РїСѓС‚СЊ РІ СЂСѓРєРµ РњРѕРµР№;</plain>
         </string>
         <string>
-            <plain>Не бойся смутных дней!"</plain>
+            <plain>РќРµ Р±РѕР№СЃСЏ СЃРјСѓС‚РЅС‹С… РґРЅРµР№!"</plain>
         </string>
         <string>
-            <plain>"Ты - Мой! - Твой путь в руке Моей;</plain>
+            <plain>"РўС‹ - РњРѕР№! - РўРІРѕР№ РїСѓС‚СЊ РІ СЂСѓРєРµ РњРѕРµР№;</plain>
         </string>
         <string>
-            <plain>Не бойся смутных дней!"</plain>
+            <plain>РќРµ Р±РѕР№СЃСЏ СЃРјСѓС‚РЅС‹С… РґРЅРµР№!"</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И так иду, не зная</plain>
+            <plain>Р С‚Р°Рє РёРґСѓ, РЅРµ Р·РЅР°СЏ</plain>
         </string>
         <string>
-            <plain>И не стремяся знать,</plain>
+            <plain>Р РЅРµ СЃС‚СЂРµРјСЏСЃСЏ Р·РЅР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Что будет, лишь желая</plain>
+            <plain>Р§С‚Рѕ Р±СѓРґРµС‚, Р»РёС€СЊ Р¶РµР»Р°СЏ</plain>
         </string>
         <string>
-            <plain>Путь Господу предать;</plain>
+            <plain>РџСѓС‚СЊ Р“РѕСЃРїРѕРґСѓ РїСЂРµРґР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>С Ним сладко и во тьме шагать,</plain>
+            <plain>РЎ РќРёРј СЃР»Р°РґРєРѕ Рё РІРѕ С‚СЊРјРµ С€Р°РіР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Жить без Него - блуждать.</plain>
+            <plain>Р–РёС‚СЊ Р±РµР· РќРµРіРѕ - Р±Р»СѓР¶РґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>С Ним сладко и во тьме шагать,</plain>
+            <plain>РЎ РќРёРј СЃР»Р°РґРєРѕ Рё РІРѕ С‚СЊРјРµ С€Р°РіР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Жить без Него - блуждать.</plain>
+            <plain>Р–РёС‚СЊ Р±РµР· РќРµРіРѕ - Р±Р»СѓР¶РґР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

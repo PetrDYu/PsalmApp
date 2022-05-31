@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2197" name="Милости Твоей пояна вся земля" canon="false" text="" textRus="" music="">
+<psalm number="2197" name="РњРёР»РѕСЃС‚Рё РўРІРѕРµР№ РїРѕСЏРЅР° РІСЃСЏ Р·РµРјР»СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Милости Твоей пояна вся земля,</plain>
+            <plain>РњРёР»РѕСЃС‚Рё РўРІРѕРµР№ РїРѕСЏРЅР° РІСЃСЏ Р·РµРјР»СЏ,</plain>
         </string>
         <string>
-            <plain>Милости Твоей полна жизнь моя,</plain>
+            <plain>РњРёР»РѕСЃС‚Рё РўРІРѕРµР№ РїРѕР»РЅР° Р¶РёР·РЅСЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Милость Свою Ты превознёс над судом,</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ РЎРІРѕСЋ РўС‹ РїСЂРµРІРѕР·РЅС‘СЃ РЅР°Рґ СЃСѓРґРѕРј,</plain>
         </string>
         <string>
-            <plain>Возлюбил меня и ввёл в Свой дом.</plain>
+            <plain>Р’РѕР·Р»СЋР±РёР» РјРµРЅСЏ Рё РІРІС‘Р» РІ РЎРІРѕР№ РґРѕРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты спас меня и оправдал,</plain>
+            <plain>РўС‹ СЃРїР°СЃ РјРµРЅСЏ Рё РѕРїСЂР°РІРґР°Р»,</plain>
         </string>
         <string>
-            <plain>Освободил от вины.</plain>
+            <plain>РћСЃРІРѕР±РѕРґРёР» РѕС‚ РІРёРЅС‹.</plain>
         </string>
         <string>
-            <plain>Благодарю Тебя!</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Благодарю Тебя!</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Ты спас меня и оправдал,</plain>
+            <plain>РўС‹ СЃРїР°СЃ РјРµРЅСЏ Рё РѕРїСЂР°РІРґР°Р»,</plain>
         </string>
         <string>
-            <plain>Освободил от вины.</plain>
+            <plain>РћСЃРІРѕР±РѕРґРёР» РѕС‚ РІРёРЅС‹.</plain>
         </string>
     </chorus>
 </psalm>

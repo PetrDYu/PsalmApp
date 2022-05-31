@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2806" name="За Тобой иду Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="2806" name="Р—Р° РўРѕР±РѕР№ РёРґСѓ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>За Тобой иду, Спаситель.</plain>
+            <plain>Р—Р° РўРѕР±РѕР№ РёРґСѓ, РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
         <string>
-            <plain>Чтоб не встретилось в пути</plain>
+            <plain>Р§С‚РѕР± РЅРµ РІСЃС‚СЂРµС‚РёР»РѕСЃСЊ РІ РїСѓС‚Рё</plain>
         </string>
         <string>
-            <plain>и куда бы ни пошел Ты,</plain>
+            <plain>Рё РєСѓРґР° Р±С‹ РЅРё РїРѕС€РµР» РўС‹,</plain>
         </string>
         <string>
-            <plain>За Тобой хочу идти.</plain>
+            <plain>Р—Р° РўРѕР±РѕР№ С…РѕС‡Сѓ РёРґС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Да, я следую</plain>
+            <plain>Р”Р°, СЏ СЃР»РµРґСѓСЋ</plain>
         </string>
         <string>
-            <plain>примерно за Тобой,</plain>
+            <plain>РїСЂРёРјРµСЂРЅРѕ Р·Р° РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Спаситель мой;</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№;</plain>
         </string>
         <string>
-            <plain>Крестный путь,</plain>
+            <plain>РљСЂРµСЃС‚РЅС‹Р№ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>он самый верный,</plain>
+            <plain>РѕРЅ СЃР°РјС‹Р№ РІРµСЂРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>им иду я за Тобой.</plain>
+            <plain>РёРј РёРґСѓ СЏ Р·Р° РўРѕР±РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пусть мой путь крутой, тернистый,</plain>
+            <plain>РџСѓСЃС‚СЊ РјРѕР№ РїСѓС‚СЊ РєСЂСѓС‚РѕР№, С‚РµСЂРЅРёСЃС‚С‹Р№,</plain>
         </string>
         <string>
-            <plain>Твой не виден след порой</plain>
+            <plain>РўРІРѕР№ РЅРµ РІРёРґРµРЅ СЃР»РµРґ РїРѕСЂРѕР№</plain>
         </string>
         <string>
-            <plain>- этот путь Тобою пройден,</plain>
+            <plain>- СЌС‚РѕС‚ РїСѓС‚СЊ РўРѕР±РѕСЋ РїСЂРѕР№РґРµРЅ,</plain>
         </string>
         <string>
-            <plain>мне легко идти с Тобой.</plain>
+            <plain>РјРЅРµ Р»РµРіРєРѕ РёРґС‚Рё СЃ РўРѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если мрачен и печален</plain>
+            <plain>Р•СЃР»Рё РјСЂР°С‡РµРЅ Рё РїРµС‡Р°Р»РµРЅ</plain>
         </string>
         <string>
-            <plain>иногда мой путь земной,</plain>
+            <plain>РёРЅРѕРіРґР° РјРѕР№ РїСѓС‚СЊ Р·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>На Твой зов иду, Спаситель,</plain>
+            <plain>РќР° РўРІРѕР№ Р·РѕРІ РёРґСѓ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>я бесстрашно за Тобой.</plain>
+            <plain>СЏ Р±РµСЃСЃС‚СЂР°С€РЅРѕ Р·Р° РўРѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если будут искушенья,</plain>
+            <plain>Р•СЃР»Рё Р±СѓРґСѓС‚ РёСЃРєСѓС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>я назад не отступлю</plain>
+            <plain>СЏ РЅР°Р·Р°Рґ РЅРµ РѕС‚СЃС‚СѓРїР»СЋ</plain>
         </string>
         <string>
-            <plain>- Ты был тоже в искушеньях,</plain>
+            <plain>- РўС‹ Р±С‹Р» С‚РѕР¶Рµ РІ РёСЃРєСѓС€РµРЅСЊСЏС…,</plain>
         </string>
         <string>
-            <plain>смело я с Тобой иду!</plain>
+            <plain>СЃРјРµР»Рѕ СЏ СЃ РўРѕР±РѕР№ РёРґСѓ!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если буду я в страданьях</plain>
+            <plain>Р•СЃР»Рё Р±СѓРґСѓ СЏ РІ СЃС‚СЂР°РґР°РЅСЊСЏС…</plain>
         </string>
         <string>
-            <plain>и лишусь всего добра,</plain>
+            <plain>Рё Р»РёС€СѓСЃСЊ РІСЃРµРіРѕ РґРѕР±СЂР°,</plain>
         </string>
         <string>
-            <plain>Я, молитвой укрепляясь,</plain>
+            <plain>РЇ, РјРѕР»РёС‚РІРѕР№ СѓРєСЂРµРїР»СЏСЏСЃСЊ,</plain>
         </string>
         <string>
-            <plain>устремлю взор на Тебя.</plain>
+            <plain>СѓСЃС‚СЂРµРјР»СЋ РІР·РѕСЂ РЅР° РўРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Если смерть, как наводненье,</plain>
+            <plain>Р•СЃР»Рё СЃРјРµСЂС‚СЊ, РєР°Рє РЅР°РІРѕРґРЅРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>вдруг приблизится ко мне</plain>
+            <plain>РІРґСЂСѓРі РїСЂРёР±Р»РёР·РёС‚СЃСЏ РєРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>Ты чрез смерть принес спасенье,</plain>
+            <plain>РўС‹ С‡СЂРµР· СЃРјРµСЂС‚СЊ РїСЂРёРЅРµСЃ СЃРїР°СЃРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>я последую Тебе.</plain>
+            <plain>СЏ РїРѕСЃР»РµРґСѓСЋ РўРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1870" name="Будь Спаситель с нами" canon="false" text="" textRus="" music="">
+<psalm number="1870" name="Р‘СѓРґСЊ РЎРїР°СЃРёС‚РµР»СЊ СЃ РЅР°РјРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Будь, Спаситель, с нами:</plain>
+            <plain>Р‘СѓРґСЊ, РЎРїР°СЃРёС‚РµР»СЊ, СЃ РЅР°РјРё:</plain>
         </string>
         <string>
-            <plain>Сердце возроди</plain>
+            <plain>РЎРµСЂРґС†Рµ РІРѕР·СЂРѕРґРё</plain>
         </string>
         <string>
-            <plain>- Радости пламя</plain>
+            <plain>- Р Р°РґРѕСЃС‚Рё РїР»Р°РјСЏ</plain>
         </string>
         <string>
-            <plain>Разожги в груди.</plain>
+            <plain>Р Р°Р·РѕР¶РіРё РІ РіСЂСѓРґРё.</plain>
         </string>
         <string>
-            <plain>Ты сделать можешь</plain>
+            <plain>РўС‹ СЃРґРµР»Р°С‚СЊ РјРѕР¶РµС€СЊ</plain>
         </string>
         <string>
-            <plain>Чудо из чудес,</plain>
+            <plain>Р§СѓРґРѕ РёР· С‡СѓРґРµСЃ,</plain>
         </string>
         <string>
-            <plain>Так сделай Боже,</plain>
+            <plain>РўР°Рє СЃРґРµР»Р°Р№ Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Чтобы я воскрес.</plain>
+            <plain>Р§С‚РѕР±С‹ СЏ РІРѕСЃРєСЂРµСЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ключ каждой жизни</plain>
+            <plain>РљР»СЋС‡ РєР°Р¶РґРѕР№ Р¶РёР·РЅРё</plain>
         </string>
         <string>
-            <plain>И любви исток,</plain>
+            <plain>Р Р»СЋР±РІРё РёСЃС‚РѕРє,</plain>
         </string>
         <string>
-            <plain>Мой путь к отчизне,</plain>
+            <plain>РњРѕР№ РїСѓС‚СЊ Рє РѕС‚С‡РёР·РЅРµ,</plain>
         </string>
         <string>
-            <plain>В край, где нет тревог,</plain>
+            <plain>Р’ РєСЂР°Р№, РіРґРµ РЅРµС‚ С‚СЂРµРІРѕРі,</plain>
         </string>
         <string>
-            <plain>Мой дом, обитель,</plain>
+            <plain>РњРѕР№ РґРѕРј, РѕР±РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Там, в конце дорог,</plain>
+            <plain>РўР°Рј, РІ РєРѕРЅС†Рµ РґРѕСЂРѕРі,</plain>
         </string>
         <string>
-            <plain>Иисус Спаситель,</plain>
+            <plain>РРёСЃСѓСЃ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Мой Господь и Бог.</plain>
+            <plain>РњРѕР№ Р“РѕСЃРїРѕРґСЊ Рё Р‘РѕРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Крест Твой и страданья</plain>
+            <plain>РљСЂРµСЃС‚ РўРІРѕР№ Рё СЃС‚СЂР°РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>- Это мне завет.</plain>
+            <plain>- Р­С‚Рѕ РјРЅРµ Р·Р°РІРµС‚.</plain>
         </string>
         <string>
-            <plain>Дай упованье</plain>
+            <plain>Р”Р°Р№ СѓРїРѕРІР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>- Веры яркий свет.</plain>
+            <plain>- Р’РµСЂС‹ СЏСЂРєРёР№ СЃРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Твой путь спасенье,</plain>
+            <plain>РўРІРѕР№ РїСѓС‚СЊ СЃРїР°СЃРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Вечной жизни ключ.</plain>
+            <plain>Р’РµС‡РЅРѕР№ Р¶РёР·РЅРё РєР»СЋС‡.</plain>
         </string>
         <string>
-            <plain>Дай мне терпенье</plain>
+            <plain>Р”Р°Р№ РјРЅРµ С‚РµСЂРїРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И надежды луч.</plain>
+            <plain>Р РЅР°РґРµР¶РґС‹ Р»СѓС‡.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вот меня коснулась</plain>
+            <plain>Р’РѕС‚ РјРµРЅСЏ РєРѕСЃРЅСѓР»Р°СЃСЊ</plain>
         </string>
         <string>
-            <plain>Божия ладонь</plain>
+            <plain>Р‘РѕР¶РёСЏ Р»Р°РґРѕРЅСЊ</plain>
         </string>
         <string>
-            <plain>- Сердце проснулось,</plain>
+            <plain>- РЎРµСЂРґС†Рµ РїСЂРѕСЃРЅСѓР»РѕСЃСЊ,</plain>
         </string>
         <string>
-            <plain>И горит огонь.</plain>
+            <plain>Р РіРѕСЂРёС‚ РѕРіРѕРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Вера пылает,</plain>
+            <plain>Р’РµСЂР° РїС‹Р»Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Разум мой поет:</plain>
+            <plain>Р Р°Р·СѓРј РјРѕР№ РїРѕРµС‚:</plain>
         </string>
         <string>
-            <plain>Он точно знает</plain>
+            <plain>РћРЅ С‚РѕС‡РЅРѕ Р·РЅР°РµС‚</plain>
         </string>
         <string>
-            <plain>- Наш Господь грядет!</plain>
+            <plain>- РќР°С€ Р“РѕСЃРїРѕРґСЊ РіСЂСЏРґРµС‚!</plain>
         </string>
     </verse>
 </psalm>

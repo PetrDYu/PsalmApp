@@ -1,111 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2957" name="Он всесилен" canon="false" text="" textRus="" music="">
+<psalm number="2957" name="РћРЅ РІСЃРµСЃРёР»РµРЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Он всесилен,</plain>
+            <plain>РћРЅ РІСЃРµСЃРёР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>чтобы тебя спасти, о грешник!</plain>
+            <plain>С‡С‚РѕР±С‹ С‚РµР±СЏ СЃРїР°СЃС‚Рё, Рѕ РіСЂРµС€РЅРёРє!</plain>
         </string>
         <string>
-            <plain>Тьму ночную Он изгнал,</plain>
+            <plain>РўСЊРјСѓ РЅРѕС‡РЅСѓСЋ РћРЅ РёР·РіРЅР°Р»,</plain>
         </string>
         <string>
-            <plain>тебя Он свет послал,</plain>
+            <plain>С‚РµР±СЏ РћРЅ СЃРІРµС‚ РїРѕСЃР»Р°Р»,</plain>
         </string>
         <string>
-            <plain>- в сердце Он в твоем</plain>
+            <plain>- РІ СЃРµСЂРґС†Рµ РћРЅ РІ С‚РІРѕРµРј</plain>
         </string>
         <string>
-            <plain>сиять всегда желает.</plain>
+            <plain>СЃРёСЏС‚СЊ РІСЃРµРіРґР° Р¶РµР»Р°РµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он всесилен,</plain>
+            <plain>РћРЅ РІСЃРµСЃРёР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>чтоб спасти тебя!</plain>
+            <plain>С‡С‚РѕР± СЃРїР°СЃС‚Рё С‚РµР±СЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он всесилен,</plain>
+            <plain>РћРЅ РІСЃРµСЃРёР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>чтобы тебя спасти, о грешник!</plain>
+            <plain>С‡С‚РѕР±С‹ С‚РµР±СЏ СЃРїР°СЃС‚Рё, Рѕ РіСЂРµС€РЅРёРє!</plain>
         </string>
         <string>
-            <plain>На сиянье звезд взгляни,</plain>
+            <plain>РќР° СЃРёСЏРЅСЊРµ Р·РІРµР·Рґ РІР·РіР»СЏРЅРё,</plain>
         </string>
         <string>
-            <plain>на моря и ширь земли</plain>
+            <plain>РЅР° РјРѕСЂСЏ Рё С€РёСЂСЊ Р·РµРјР»Рё</plain>
         </string>
         <string>
-            <plain>- все Господь создал</plain>
+            <plain>- РІСЃРµ Р“РѕСЃРїРѕРґСЊ СЃРѕР·РґР°Р»</plain>
         </string>
         <string>
-            <plain>могучею рукою.</plain>
+            <plain>РјРѕРіСѓС‡РµСЋ СЂСѓРєРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он всесилен,</plain>
+            <plain>РћРЅ РІСЃРµСЃРёР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>чтобы тебя спасти, о грешник!</plain>
+            <plain>С‡С‚РѕР±С‹ С‚РµР±СЏ СЃРїР°СЃС‚Рё, Рѕ РіСЂРµС€РЅРёРє!</plain>
         </string>
         <string>
-            <plain>Жизнь твоя в руке Его,</plain>
+            <plain>Р–РёР·РЅСЊ С‚РІРѕСЏ РІ СЂСѓРєРµ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>знает сердце Он твое;</plain>
+            <plain>Р·РЅР°РµС‚ СЃРµСЂРґС†Рµ РћРЅ С‚РІРѕРµ;</plain>
         </string>
         <string>
-            <plain>Он - Отец щедрот</plain>
+            <plain>РћРЅ - РћС‚РµС† С‰РµРґСЂРѕС‚</plain>
         </string>
         <string>
-            <plain>и всяких благ источник.</plain>
+            <plain>Рё РІСЃСЏРєРёС… Р±Р»Р°Рі РёСЃС‚РѕС‡РЅРёРє.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Он всесилен,</plain>
+            <plain>РћРЅ РІСЃРµСЃРёР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>чтобы тебя спасти, о грешник!</plain>
+            <plain>С‡С‚РѕР±С‹ С‚РµР±СЏ СЃРїР°СЃС‚Рё, Рѕ РіСЂРµС€РЅРёРє!</plain>
         </string>
         <string>
-            <plain>Жар печи Он угасил,</plain>
+            <plain>Р–Р°СЂ РїРµС‡Рё РћРЅ СѓРіР°СЃРёР»,</plain>
         </string>
         <string>
-            <plain>львов свирепых усмирил;</plain>
+            <plain>Р»СЊРІРѕРІ СЃРІРёСЂРµРїС‹С… СѓСЃРјРёСЂРёР»;</plain>
         </string>
         <string>
-            <plain>Он - от смерти</plain>
+            <plain>РћРЅ - РѕС‚ СЃРјРµСЂС‚Рё</plain>
         </string>
         <string>
-            <plain>и проказы Избавитель.</plain>
+            <plain>Рё РїСЂРѕРєР°Р·С‹ РР·Р±Р°РІРёС‚РµР»СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Он всесилен,</plain>
+            <plain>РћРЅ РІСЃРµСЃРёР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>чтобы тебя спасти, о грешник!</plain>
+            <plain>С‡С‚РѕР±С‹ С‚РµР±СЏ СЃРїР°СЃС‚Рё, Рѕ РіСЂРµС€РЅРёРє!</plain>
         </string>
         <string>
-            <plain>Сон царя Он разъяснил,</plain>
+            <plain>РЎРѕРЅ С†Р°СЂСЏ РћРЅ СЂР°Р·СЉСЏСЃРЅРёР»,</plain>
         </string>
         <string>
-            <plain>Иордан Он осушил;</plain>
+            <plain>РРѕСЂРґР°РЅ РћРЅ РѕСЃСѓС€РёР»;</plain>
         </string>
         <string>
-            <plain>исцелял хромых,</plain>
+            <plain>РёСЃС†РµР»СЏР» С…СЂРѕРјС‹С…,</plain>
         </string>
         <string>
-            <plain>слепых — любви Учитель!</plain>
+            <plain>СЃР»РµРїС‹С… вЂ” Р»СЋР±РІРё РЈС‡РёС‚РµР»СЊ!</plain>
         </string>
     </verse>
 </psalm>

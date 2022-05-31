@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="177" name="На сердце лишь песня одна" canon="false" text="" textRus="" music="">
+<psalm number="177" name="РќР° СЃРµСЂРґС†Рµ Р»РёС€СЊ РїРµСЃРЅСЏ РѕРґРЅР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На сердце лишь песня одна,</plain>
+            <plain>РќР° СЃРµСЂРґС†Рµ Р»РёС€СЊ РїРµСЃРЅСЏ РѕРґРЅР°,</plain>
         </string>
         <string>
-            <plain>И в радости льется она</plain>
+            <plain>Р РІ СЂР°РґРѕСЃС‚Рё Р»СЊРµС‚СЃСЏ РѕРЅР°</plain>
         </string>
         <string>
-            <plain>Всегда, как живая волна:</plain>
+            <plain>Р’СЃРµРіРґР°, РєР°Рє Р¶РёРІР°СЏ РІРѕР»РЅР°:</plain>
         </string>
         <string>
-            <plain>Мир, мир - дар Божьей любви!</plain>
+            <plain>РњРёСЂ, РјРёСЂ - РґР°СЂ Р‘РѕР¶СЊРµР№ Р»СЋР±РІРё!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мир, мир, покой,</plain>
+            <plain>РњРёСЂ, РјРёСЂ, РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Чудный подарок небес!</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РїРѕРґР°СЂРѕРє РЅРµР±РµСЃ!</plain>
         </string>
         <string>
-            <plain>О сладостный, сладостный мир!</plain>
+            <plain>Рћ СЃР»Р°РґРѕСЃС‚РЅС‹Р№, СЃР»Р°РґРѕСЃС‚РЅС‹Р№ РјРёСЂ!</plain>
         </string>
         <string>
-            <plain>Мир, мир - дар Божьей любви!</plain>
+            <plain>РњРёСЂ, РјРёСЂ - РґР°СЂ Р‘РѕР¶СЊРµР№ Р»СЋР±РІРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Когда я Иисуса познал,</plain>
+            <plain>РљРѕРіРґР° СЏ РРёСЃСѓСЃР° РїРѕР·РЅР°Р»,</plain>
         </string>
         <string>
-            <plain>Он мир в изобилье мне дал:</plain>
+            <plain>РћРЅ РјРёСЂ РІ РёР·РѕР±РёР»СЊРµ РјРЅРµ РґР°Р»:</plain>
         </string>
         <string>
-            <plain>Я море любви ощущал;</plain>
+            <plain>РЇ РјРѕСЂРµ Р»СЋР±РІРё РѕС‰СѓС‰Р°Р»;</plain>
         </string>
         <string>
-            <plain>Мир, мир - дар Божьей любви!</plain>
+            <plain>РњРёСЂ, РјРёСЂ - РґР°СЂ Р‘РѕР¶СЊРµР№ Р»СЋР±РІРё!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В Христе пребываю душой,</plain>
+            <plain>Р’ РҐСЂРёСЃС‚Рµ РїСЂРµР±С‹РІР°СЋ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>К Нему прибегает дух мой,</plain>
+            <plain>Рљ РќРµРјСѓ РїСЂРёР±РµРіР°РµС‚ РґСѓС… РјРѕР№,</plain>
         </string>
         <string>
-            <plain>В Нем мир я вкушаю святой;</plain>
+            <plain>Р’ РќРµРј РјРёСЂ СЏ РІРєСѓС€Р°СЋ СЃРІСЏС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Мир, мир - дар Божьей любви!</plain>
+            <plain>РњРёСЂ, РјРёСЂ - РґР°СЂ Р‘РѕР¶СЊРµР№ Р»СЋР±РІРё!</plain>
         </string>
     </verse>
 </psalm>

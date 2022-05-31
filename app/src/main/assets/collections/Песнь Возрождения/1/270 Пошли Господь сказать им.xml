@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="270" name="Пошли Господь сказать им" canon="false" text="" textRus="" music="">
+<psalm number="270" name="РџРѕС€Р»Рё Р“РѕСЃРїРѕРґСЊ СЃРєР°Р·Р°С‚СЊ РёРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пошли, Господь, сказать им</plain>
+            <plain>РџРѕС€Р»Рё, Р“РѕСЃРїРѕРґСЊ, СЃРєР°Р·Р°С‚СЊ РёРј</plain>
         </string>
         <string>
-            <plain>О Божьей ко всем любви:</plain>
+            <plain>Рћ Р‘РѕР¶СЊРµР№ РєРѕ РІСЃРµРј Р»СЋР±РІРё:</plain>
         </string>
         <string>
-            <plain>Как послал Он Сына с неба,</plain>
+            <plain>РљР°Рє РїРѕСЃР»Р°Р» РћРЅ РЎС‹РЅР° СЃ РЅРµР±Р°,</plain>
         </string>
         <string>
-            <plain>Снова и снова скажи!</plain>
+            <plain>РЎРЅРѕРІР° Рё СЃРЅРѕРІР° СЃРєР°Р¶Рё!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Снова и снова скажи,</plain>
+            <plain>РЎРЅРѕРІР° Рё СЃРЅРѕРІР° СЃРєР°Р¶Рё,</plain>
         </string>
         <string>
-            <plain>Снова и снова скажи</plain>
+            <plain>РЎРЅРѕРІР° Рё СЃРЅРѕРІР° СЃРєР°Р¶Рё</plain>
         </string>
         <string>
-            <plain>Ту чудную весть об Иисусе!</plain>
+            <plain>РўСѓ С‡СѓРґРЅСѓСЋ РІРµСЃС‚СЊ РѕР± РРёСЃСѓСЃРµ!</plain>
         </string>
         <string>
-            <plain>Снова и снова скажи!</plain>
+            <plain>РЎРЅРѕРІР° Рё СЃРЅРѕРІР° СЃРєР°Р¶Рё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пошли, Господь, сказать им</plain>
+            <plain>РџРѕС€Р»Рё, Р“РѕСЃРїРѕРґСЊ, СЃРєР°Р·Р°С‚СЊ РёРј</plain>
         </string>
         <string>
-            <plain>О Христовой ко всем любви:</plain>
+            <plain>Рћ РҐСЂРёСЃС‚РѕРІРѕР№ РєРѕ РІСЃРµРј Р»СЋР±РІРё:</plain>
         </string>
         <string>
-            <plain>Как сошел Он к людям с неба,</plain>
+            <plain>РљР°Рє СЃРѕС€РµР» РћРЅ Рє Р»СЋРґСЏРј СЃ РЅРµР±Р°,</plain>
         </string>
         <string>
-            <plain>Снова и снова скажи!</plain>
+            <plain>РЎРЅРѕРІР° Рё СЃРЅРѕРІР° СЃРєР°Р¶Рё!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пошли, Господь, сказать им</plain>
+            <plain>РџРѕС€Р»Рё, Р“РѕСЃРїРѕРґСЊ, СЃРєР°Р·Р°С‚СЊ РёРј</plain>
         </string>
         <string>
-            <plain>О Христом пролитой крови,</plain>
+            <plain>Рћ РҐСЂРёСЃС‚РѕРј РїСЂРѕР»РёС‚РѕР№ РєСЂРѕРІРё,</plain>
         </string>
         <string>
-            <plain>Он воскрес, восшел на небо;</plain>
+            <plain>РћРЅ РІРѕСЃРєСЂРµСЃ, РІРѕСЃС€РµР» РЅР° РЅРµР±Рѕ;</plain>
         </string>
         <string>
-            <plain>Снова и снова скажи!</plain>
+            <plain>РЎРЅРѕРІР° Рё СЃРЅРѕРІР° СЃРєР°Р¶Рё!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Пошли, Господь, сказать им</plain>
+            <plain>РџРѕС€Р»Рё, Р“РѕСЃРїРѕРґСЊ, СЃРєР°Р·Р°С‚СЊ РёРј</plain>
         </string>
         <string>
-            <plain>О спасенье Христом души,</plain>
+            <plain>Рћ СЃРїР°СЃРµРЅСЊРµ РҐСЂРёСЃС‚РѕРј РґСѓС€Рё,</plain>
         </string>
         <string>
-            <plain>О том, что живет Он в людях;</plain>
+            <plain>Рћ С‚РѕРј, С‡С‚Рѕ Р¶РёРІРµС‚ РћРЅ РІ Р»СЋРґСЏС…;</plain>
         </string>
         <string>
-            <plain>Снова и снова скажи!</plain>
+            <plain>РЎРЅРѕРІР° Рё СЃРЅРѕРІР° СЃРєР°Р¶Рё!</plain>
         </string>
     </verse>
 </psalm>

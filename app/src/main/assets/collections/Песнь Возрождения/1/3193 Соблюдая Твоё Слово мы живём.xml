@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3193" name="Соблюдая Твоё Слово мы живём" canon="false" text="" textRus="" music="">
+<psalm number="3193" name="РЎРѕР±Р»СЋРґР°СЏ РўРІРѕС‘ РЎР»РѕРІРѕ РјС‹ Р¶РёРІС‘Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Соблюдая Твоё Слово, мы живём</plain>
+            <plain>РЎРѕР±Р»СЋРґР°СЏ РўРІРѕС‘ РЎР»РѕРІРѕ, РјС‹ Р¶РёРІС‘Рј</plain>
         </string>
         <string>
-            <plain>в Твоей любви,</plain>
+            <plain>РІ РўРІРѕРµР№ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>ибо слышим зов Твой нежный:</plain>
+            <plain>РёР±Рѕ СЃР»С‹С€РёРј Р·РѕРІ РўРІРѕР№ РЅРµР¶РЅС‹Р№:</plain>
         </string>
         <string>
-            <plain>«Иго ты Моё возьми»</plain>
+            <plain>В«РРіРѕ С‚С‹ РњРѕС‘ РІРѕР·СЊРјРёВ»</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, мы чтим высоко</plain>
+            <plain>РРёСЃСѓСЃ, РјС‹ С‡С‚РёРј РІС‹СЃРѕРєРѕ</plain>
         </string>
         <string>
-            <plain>Слово, данное Тобой.</plain>
+            <plain>РЎР»РѕРІРѕ, РґР°РЅРЅРѕРµ РўРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Твой завет мы соблюдаем,</plain>
+            <plain>РўРІРѕР№ Р·Р°РІРµС‚ РјС‹ СЃРѕР±Р»СЋРґР°РµРј,</plain>
         </string>
         <string>
-            <plain>ближних любим всей душой.</plain>
+            <plain>Р±Р»РёР¶РЅРёС… Р»СЋР±РёРј РІСЃРµР№ РґСѓС€РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Признают Тебя иные,</plain>
+            <plain>РџСЂРёР·РЅР°СЋС‚ РўРµР±СЏ РёРЅС‹Рµ,</plain>
         </string>
         <string>
-            <plain>но по слову не живут,</plain>
+            <plain>РЅРѕ РїРѕ СЃР»РѕРІСѓ РЅРµ Р¶РёРІСѓС‚,</plain>
         </string>
         <string>
-            <plain>чрез спасенье, что принёс Ты,</plain>
+            <plain>С‡СЂРµР· СЃРїР°СЃРµРЅСЊРµ, С‡С‚Рѕ РїСЂРёРЅС‘СЃ РўС‹,</plain>
         </string>
         <string>
-            <plain>по плечу любой нам труд.</plain>
+            <plain>РїРѕ РїР»РµС‡Сѓ Р»СЋР±РѕР№ РЅР°Рј С‚СЂСѓРґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Слово каждое в Писании</plain>
+            <plain>РЎР»РѕРІРѕ РєР°Р¶РґРѕРµ РІ РџРёСЃР°РЅРёРё</plain>
         </string>
         <string>
-            <plain>для души - источник сил.</plain>
+            <plain>РґР»СЏ РґСѓС€Рё - РёСЃС‚РѕС‡РЅРёРє СЃРёР».</plain>
         </string>
         <string>
-            <plain>Кто Писанию послушен</plain>
+            <plain>РљС‚Рѕ РџРёСЃР°РЅРёСЋ РїРѕСЃР»СѓС€РµРЅ</plain>
         </string>
         <string>
-            <plain>- истинный христианин.</plain>
+            <plain>- РёСЃС‚РёРЅРЅС‹Р№ С…СЂРёСЃС‚РёР°РЅРёРЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Твоя мудрость направляет</plain>
+            <plain>РўРІРѕСЏ РјСѓРґСЂРѕСЃС‚СЊ РЅР°РїСЂР°РІР»СЏРµС‚</plain>
         </string>
         <string>
-            <plain>нас на праведном пути.</plain>
+            <plain>РЅР°СЃ РЅР° РїСЂР°РІРµРґРЅРѕРј РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Если мы в любви пребудем,</plain>
+            <plain>Р•СЃР»Рё РјС‹ РІ Р»СЋР±РІРё РїСЂРµР±СѓРґРµРј,</plain>
         </string>
         <string>
-            <plain>все заветы нам легки.</plain>
+            <plain>РІСЃРµ Р·Р°РІРµС‚С‹ РЅР°Рј Р»РµРіРєРё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Твои заповеди в Слове</plain>
+            <plain>РўРІРѕРё Р·Р°РїРѕРІРµРґРё РІ РЎР»РѕРІРµ</plain>
         </string>
         <string>
-            <plain>направляют к небу нас,</plain>
+            <plain>РЅР°РїСЂР°РІР»СЏСЋС‚ Рє РЅРµР±Сѓ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>к Твоему ведут престолу,</plain>
+            <plain>Рє РўРІРѕРµРјСѓ РІРµРґСѓС‚ РїСЂРµСЃС‚РѕР»Сѓ,</plain>
         </string>
         <string>
-            <plain>где покой нам вечный дашь.</plain>
+            <plain>РіРґРµ РїРѕРєРѕР№ РЅР°Рј РІРµС‡РЅС‹Р№ РґР°С€СЊ.</plain>
         </string>
     </verse>
 </psalm>

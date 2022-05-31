@@ -1,98 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="849" name="Весна вновь наш край посетила" canon="false" text="" textRus="" music="">
+<psalm number="849" name="Р’РµСЃРЅР° РІРЅРѕРІСЊ РЅР°С€ РєСЂР°Р№ РїРѕСЃРµС‚РёР»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Весна вновь наш край посетила.</plain>
+            <plain>Р’РµСЃРЅР° РІРЅРѕРІСЊ РЅР°С€ РєСЂР°Р№ РїРѕСЃРµС‚РёР»Р°.</plain>
         </string>
         <string>
-            <plain>Блеснула в ручьях серебром.</plain>
+            <plain>Р‘Р»РµСЃРЅСѓР»Р° РІ СЂСѓС‡СЊСЏС… СЃРµСЂРµР±СЂРѕРј.</plain>
         </string>
         <string>
-            <plain>Снега на полях растопила</plain>
+            <plain>РЎРЅРµРіР° РЅР° РїРѕР»СЏС… СЂР°СЃС‚РѕРїРёР»Р°</plain>
         </string>
         <string>
-            <plain>Своим благодатным теплом.</plain>
+            <plain>РЎРІРѕРёРј Р±Р»Р°РіРѕРґР°С‚РЅС‹Рј С‚РµРїР»РѕРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>А сердце томится, сердце ждет,</plain>
+            <plain>Рђ СЃРµСЂРґС†Рµ С‚РѕРјРёС‚СЃСЏ, СЃРµСЂРґС†Рµ Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Сердце печальную песнь поет.</plain>
+            <plain>РЎРµСЂРґС†Рµ РїРµС‡Р°Р»СЊРЅСѓСЋ РїРµСЃРЅСЊ РїРѕРµС‚.</plain>
         </string>
         <string>
-            <plain>Когда же с небес к нам</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ СЃ РЅРµР±РµСЃ Рє РЅР°Рј</plain>
         </string>
         <string>
-            <plain>придет она, Вечная весна?</plain>
+            <plain>РїСЂРёРґРµС‚ РѕРЅР°, Р’РµС‡РЅР°СЏ РІРµСЃРЅР°?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И ласточка с песней веселой</plain>
+            <plain>Р Р»Р°СЃС‚РѕС‡РєР° СЃ РїРµСЃРЅРµР№ РІРµСЃРµР»РѕР№</plain>
         </string>
         <string>
-            <plain>К нам снова под крышу спешит,</plain>
+            <plain>Рљ РЅР°Рј СЃРЅРѕРІР° РїРѕРґ РєСЂС‹С€Сѓ СЃРїРµС€РёС‚,</plain>
         </string>
         <string>
-            <plain>И звонкая песнь жаворонка</plain>
+            <plain>Р Р·РІРѕРЅРєР°СЏ РїРµСЃРЅСЊ Р¶Р°РІРѕСЂРѕРЅРєР°</plain>
         </string>
         <string>
-            <plain>Весенним приветом звучит.</plain>
+            <plain>Р’РµСЃРµРЅРЅРёРј РїСЂРёРІРµС‚РѕРј Р·РІСѓС‡РёС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Заботы, печали, тревоги -</plain>
+            <plain>Р—Р°Р±РѕС‚С‹, РїРµС‡Р°Р»Рё, С‚СЂРµРІРѕРіРё -</plain>
         </string>
         <string>
-            <plain>Вот лучшая доля людей.</plain>
+            <plain>Р’РѕС‚ Р»СѓС‡С€Р°СЏ РґРѕР»СЏ Р»СЋРґРµР№.</plain>
         </string>
         <string>
-            <plain>Устал я шагать по дороге</plain>
+            <plain>РЈСЃС‚Р°Р» СЏ С€Р°РіР°С‚СЊ РїРѕ РґРѕСЂРѕРіРµ</plain>
         </string>
         <string>
-            <plain>К Небесной Отчизне моей.</plain>
+            <plain>Рљ РќРµР±РµСЃРЅРѕР№ РћС‚С‡РёР·РЅРµ РјРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Тебя я молю, мой Спаситель,</plain>
+            <plain>РўРµР±СЏ СЏ РјРѕР»СЋ, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Дай силу мне вновь обрести</plain>
+            <plain>Р”Р°Р№ СЃРёР»Сѓ РјРЅРµ РІРЅРѕРІСЊ РѕР±СЂРµСЃС‚Рё</plain>
         </string>
         <string>
-            <plain>И в дивную неба обитель</plain>
+            <plain>Р РІ РґРёРІРЅСѓСЋ РЅРµР±Р° РѕР±РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>С победною славой войти.</plain>
+            <plain>РЎ РїРѕР±РµРґРЅРѕСЋ СЃР»Р°РІРѕР№ РІРѕР№С‚Рё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ведь с вечной весною ненастьям</plain>
+            <plain>Р’РµРґСЊ СЃ РІРµС‡РЅРѕР№ РІРµСЃРЅРѕСЋ РЅРµРЅР°СЃС‚СЊСЏРј</plain>
         </string>
         <string>
-            <plain>И горестям будет конец:</plain>
+            <plain>Р РіРѕСЂРµСЃС‚СЏРј Р±СѓРґРµС‚ РєРѕРЅРµС†:</plain>
         </string>
         <string>
-            <plain>Спаситель мой с нежным участьем</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№ СЃ РЅРµР¶РЅС‹Рј СѓС‡Р°СЃС‚СЊРµРј</plain>
         </string>
         <string>
-            <plain>Подарит мне чудный венец.</plain>
+            <plain>РџРѕРґР°СЂРёС‚ РјРЅРµ С‡СѓРґРЅС‹Р№ РІРµРЅРµС†.</plain>
         </string>
     </verse>
     <chorus number="5">
         <string>
-            <plain>И сердце не будет томиться, ждать,</plain>
+            <plain>Р СЃРµСЂРґС†Рµ РЅРµ Р±СѓРґРµС‚ С‚РѕРјРёС‚СЊСЃСЏ, Р¶РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Песню печали и слез слагать.</plain>
+            <plain>РџРµСЃРЅСЋ РїРµС‡Р°Р»Рё Рё СЃР»РµР· СЃР»Р°РіР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Когда же с небес к нам придет она, Вечная весна?</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ СЃ РЅРµР±РµСЃ Рє РЅР°Рј РїСЂРёРґРµС‚ РѕРЅР°, Р’РµС‡РЅР°СЏ РІРµСЃРЅР°?</plain>
         </string>
     </chorus>
 </psalm>

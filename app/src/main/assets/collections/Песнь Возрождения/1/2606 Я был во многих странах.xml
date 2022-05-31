@@ -1,113 +1,113 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2606" name="Я был во многих странах" canon="false" text="" textRus="" music="">
+<psalm number="2606" name="РЇ Р±С‹Р» РІРѕ РјРЅРѕРіРёС… СЃС‚СЂР°РЅР°С…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я был во многих странах,</plain>
+            <plain>РЇ Р±С‹Р» РІРѕ РјРЅРѕРіРёС… СЃС‚СЂР°РЅР°С…,</plain>
         </string>
         <string>
-            <plain>Я плыл через моря,</plain>
+            <plain>РЇ РїР»С‹Р» С‡РµСЂРµР· РјРѕСЂСЏ,</plain>
         </string>
         <string>
-            <plain>С вершины гор высоких</plain>
+            <plain>РЎ РІРµСЂС€РёРЅС‹ РіРѕСЂ РІС‹СЃРѕРєРёС…</plain>
         </string>
         <string>
-            <plain>Смотрел в долины я.</plain>
+            <plain>РЎРјРѕС‚СЂРµР» РІ РґРѕР»РёРЅС‹ СЏ.</plain>
         </string>
         <string>
-            <plain>Средь видов разных, дивных</plain>
+            <plain>РЎСЂРµРґСЊ РІРёРґРѕРІ СЂР°Р·РЅС‹С…, РґРёРІРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Пленил меня собой</plain>
+            <plain>РџР»РµРЅРёР» РјРµРЅСЏ СЃРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>Один лишь холм пустынный,</plain>
+            <plain>РћРґРёРЅ Р»РёС€СЊ С…РѕР»Рј РїСѓСЃС‚С‹РЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Голгофы холм простой.</plain>
+            <plain>Р“РѕР»РіРѕС„С‹ С…РѕР»Рј РїСЂРѕСЃС‚РѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Хотя вершиной снежной</plain>
+            <plain>РҐРѕС‚СЏ РІРµСЂС€РёРЅРѕР№ СЃРЅРµР¶РЅРѕР№</plain>
         </string>
         <string>
-            <plain>И не блестит тот холм,</plain>
+            <plain>Р РЅРµ Р±Р»РµСЃС‚РёС‚ С‚РѕС‚ С…РѕР»Рј,</plain>
         </string>
         <string>
-            <plain>Не высится до неба;</plain>
+            <plain>РќРµ РІС‹СЃРёС‚СЃСЏ РґРѕ РЅРµР±Р°;</plain>
         </string>
         <string>
-            <plain>До звезд далеких он,</plain>
+            <plain>Р”Рѕ Р·РІРµР·Рґ РґР°Р»РµРєРёС… РѕРЅ,</plain>
         </string>
         <string>
-            <plain>Но все же я доныне</plain>
+            <plain>РќРѕ РІСЃРµ Р¶Рµ СЏ РґРѕРЅС‹РЅРµ</plain>
         </string>
         <string>
-            <plain>Нигде и никогда</plain>
+            <plain>РќРёРіРґРµ Рё РЅРёРєРѕРіРґР°</plain>
         </string>
         <string>
-            <plain>Так не был к небу близок,</plain>
+            <plain>РўР°Рє РЅРµ Р±С‹Р» Рє РЅРµР±Сѓ Р±Р»РёР·РѕРє,</plain>
         </string>
         <string>
-            <plain>Как с этого холма.</plain>
+            <plain>РљР°Рє СЃ СЌС‚РѕРіРѕ С…РѕР»РјР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Там сотник перед всеми</plain>
+            <plain>РўР°Рј СЃРѕС‚РЅРёРє РїРµСЂРµРґ РІСЃРµРјРё</plain>
         </string>
         <string>
-            <plain>Повинную принес;</plain>
+            <plain>РџРѕРІРёРЅРЅСѓСЋ РїСЂРёРЅРµСЃ;</plain>
         </string>
         <string>
-            <plain>Разбойнику прощены</plain>
+            <plain>Р Р°Р·Р±РѕР№РЅРёРєСѓ РїСЂРѕС‰РµРЅС‹</plain>
         </string>
         <string>
-            <plain>Там даровал Христос;</plain>
+            <plain>РўР°Рј РґР°СЂРѕРІР°Р» РҐСЂРёСЃС‚РѕСЃ;</plain>
         </string>
         <string>
-            <plain>Там ангельские арфы</plain>
+            <plain>РўР°Рј Р°РЅРіРµР»СЊСЃРєРёРµ Р°СЂС„С‹</plain>
         </string>
         <string>
-            <plain>Звучали в вышине,</plain>
+            <plain>Р—РІСѓС‡Р°Р»Рё РІ РІС‹С€РёРЅРµ,</plain>
         </string>
         <string>
-            <plain>И вечно неба хоры</plain>
+            <plain>Р РІРµС‡РЅРѕ РЅРµР±Р° С…РѕСЂС‹</plain>
         </string>
         <string>
-            <plain>Поют о том холме.</plain>
+            <plain>РџРѕСЋС‚ Рѕ С‚РѕРј С…РѕР»РјРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Спеши, усталый путник,</plain>
+            <plain>РЎРїРµС€Рё, СѓСЃС‚Р°Р»С‹Р№ РїСѓС‚РЅРёРє,</plain>
         </string>
         <string>
-            <plain>Там отдых ты найдешь,</plain>
+            <plain>РўР°Рј РѕС‚РґС‹С… С‚С‹ РЅР°Р№РґРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Грехов оставишь ношу</plain>
+            <plain>Р“СЂРµС…РѕРІ РѕСЃС‚Р°РІРёС€СЊ РЅРѕС€Сѓ</plain>
         </string>
         <string>
-            <plain>И верный путь начнешь.</plain>
+            <plain>Р РІРµСЂРЅС‹Р№ РїСѓС‚СЊ РЅР°С‡РЅРµС€СЊ.</plain>
         </string>
         <string>
-            <plain>Тогда другим скитальцам</plain>
+            <plain>РўРѕРіРґР° РґСЂСѓРіРёРј СЃРєРёС‚Р°Р»СЊС†Р°Рј</plain>
         </string>
         <string>
-            <plain>Ты светом ясным будь,</plain>
+            <plain>РўС‹ СЃРІРµС‚РѕРј СЏСЃРЅС‹Рј Р±СѓРґСЊ,</plain>
         </string>
         <string>
-            <plain>Указывай заблудшим</plain>
+            <plain>РЈРєР°Р·С‹РІР°Р№ Р·Р°Р±Р»СѓРґС€РёРј</plain>
         </string>
         <string>
-            <plain>С Голгофы к небу путь.</plain>
+            <plain>РЎ Р“РѕР»РіРѕС„С‹ Рє РЅРµР±Сѓ РїСѓС‚СЊ.</plain>
         </string>
         <string>
-            <plain>С Голгофы к небу путь,</plain>
+            <plain>РЎ Р“РѕР»РіРѕС„С‹ Рє РЅРµР±Сѓ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>С Голгофы к небу путь.</plain>
+            <plain>РЎ Р“РѕР»РіРѕС„С‹ Рє РЅРµР±Сѓ РїСѓС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

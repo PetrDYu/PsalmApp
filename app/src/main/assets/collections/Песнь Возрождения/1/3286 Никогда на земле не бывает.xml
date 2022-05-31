@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3286" name="Никогда на земле не бывает" canon="false" text="" textRus="" music="">
+<psalm number="3286" name="РќРёРєРѕРіРґР° РЅР° Р·РµРјР»Рµ РЅРµ Р±С‹РІР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Никогда на земле не бывает</plain>
+            <plain>РќРёРєРѕРіРґР° РЅР° Р·РµРјР»Рµ РЅРµ Р±С‹РІР°РµС‚</plain>
         </string>
         <string>
-            <plain>друг на друга похожих годов.</plain>
+            <plain>РґСЂСѓРі РЅР° РґСЂСѓРіР° РїРѕС…РѕР¶РёС… РіРѕРґРѕРІ.</plain>
         </string>
         <string>
-            <plain>Что-то новое нас ожидает,</plain>
+            <plain>Р§С‚Рѕ-С‚Рѕ РЅРѕРІРѕРµ РЅР°СЃ РѕР¶РёРґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>встретить новые дни будь готов.</plain>
+            <plain>РІСЃС‚СЂРµС‚РёС‚СЊ РЅРѕРІС‹Рµ РґРЅРё Р±СѓРґСЊ РіРѕС‚РѕРІ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Будут новые ветры и бури</plain>
+            <plain>Р‘СѓРґСѓС‚ РЅРѕРІС‹Рµ РІРµС‚СЂС‹ Рё Р±СѓСЂРё</plain>
         </string>
         <string>
-            <plain>проверять христиан на земле</plain>
+            <plain>РїСЂРѕРІРµСЂСЏС‚СЊ С…СЂРёСЃС‚РёР°РЅ РЅР° Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>Мир решил потушить факел веры</plain>
+            <plain>РњРёСЂ СЂРµС€РёР» РїРѕС‚СѓС€РёС‚СЊ С„Р°РєРµР» РІРµСЂС‹</plain>
         </string>
         <string>
-            <plain>обольщением новым и злым.</plain>
+            <plain>РѕР±РѕР»СЊС‰РµРЅРёРµРј РЅРѕРІС‹Рј Рё Р·Р»С‹Рј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Будут новые скорби разлуки,</plain>
+            <plain>Р‘СѓРґСѓС‚ РЅРѕРІС‹Рµ СЃРєРѕСЂР±Рё СЂР°Р·Р»СѓРєРё,</plain>
         </string>
         <string>
-            <plain>Будут новые стоны в слезах,</plain>
+            <plain>Р‘СѓРґСѓС‚ РЅРѕРІС‹Рµ СЃС‚РѕРЅС‹ РІ СЃР»РµР·Р°С…,</plain>
         </string>
         <string>
-            <plain>И молитв пламенеющих звуки,</plain>
+            <plain>Р РјРѕР»РёС‚РІ РїР»Р°РјРµРЅРµСЋС‰РёС… Р·РІСѓРєРё,</plain>
         </string>
         <string>
-            <plain>устремятся опять к небесам.</plain>
+            <plain>СѓСЃС‚СЂРµРјСЏС‚СЃСЏ РѕРїСЏС‚СЊ Рє РЅРµР±РµСЃР°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но не только горящие печи,</plain>
+            <plain>РќРѕ РЅРµ С‚РѕР»СЊРєРѕ РіРѕСЂСЏС‰РёРµ РїРµС‡Рё,</plain>
         </string>
         <string>
-            <plain>и не только разлуки одни,</plain>
+            <plain>Рё РЅРµ С‚РѕР»СЊРєРѕ СЂР°Р·Р»СѓРєРё РѕРґРЅРё,</plain>
         </string>
         <string>
-            <plain>Будут с близкими новые встречи</plain>
+            <plain>Р‘СѓРґСѓС‚ СЃ Р±Р»РёР·РєРёРјРё РЅРѕРІС‹Рµ РІСЃС‚СЂРµС‡Рё</plain>
         </string>
         <string>
-            <plain>Будут новые светлые дни.</plain>
+            <plain>Р‘СѓРґСѓС‚ РЅРѕРІС‹Рµ СЃРІРµС‚Р»С‹Рµ РґРЅРё.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Будут новые гимны победы</plain>
+            <plain>Р‘СѓРґСѓС‚ РЅРѕРІС‹Рµ РіРёРјРЅС‹ РїРѕР±РµРґС‹</plain>
         </string>
         <string>
-            <plain>Благодарности Богу звучать</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂРЅРѕСЃС‚Рё Р‘РѕРіСѓ Р·РІСѓС‡Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Будем новые с неба ответы</plain>
+            <plain>Р‘СѓРґРµРј РЅРѕРІС‹Рµ СЃ РЅРµР±Р° РѕС‚РІРµС‚С‹</plain>
         </string>
         <string>
-            <plain>Дорогие друзья получать.</plain>
+            <plain>Р”РѕСЂРѕРіРёРµ РґСЂСѓР·СЊСЏ РїРѕР»СѓС‡Р°С‚СЊ.</plain>
         </string>
     </chorus>
 </psalm>

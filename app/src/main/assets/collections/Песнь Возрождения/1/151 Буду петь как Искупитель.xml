@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="151" name="Буду петь как Искупитель" canon="false" text="" textRus="" music="">
+<psalm number="151" name="Р‘СѓРґСѓ РїРµС‚СЊ РєР°Рє РСЃРєСѓРїРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Буду петь, как Искупитель</plain>
+            <plain>Р‘СѓРґСѓ РїРµС‚СЊ, РєР°Рє РСЃРєСѓРїРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Дух мой грешный возлюбил.</plain>
+            <plain>Р”СѓС… РјРѕР№ РіСЂРµС€РЅС‹Р№ РІРѕР·Р»СЋР±РёР».</plain>
         </string>
         <string>
-            <plain>Как страдал Он, Избавитель,</plain>
+            <plain>РљР°Рє СЃС‚СЂР°РґР°Р» РћРЅ, РР·Р±Р°РІРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>И меня освободил.</plain>
+            <plain>Р РјРµРЅСЏ РѕСЃРІРѕР±РѕРґРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Песнь звучит пусть об Иисусе!</plain>
+            <plain>РџРµСЃРЅСЊ Р·РІСѓС‡РёС‚ РїСѓСЃС‚СЊ РѕР± РРёСЃСѓСЃРµ!</plain>
         </string>
         <string>
-            <plain>Кровью Он меня купил,</plain>
+            <plain>РљСЂРѕРІСЊСЋ РћРЅ РјРµРЅСЏ РєСѓРїРёР»,</plain>
         </string>
         <string>
-            <plain>На кресте меня простил Он,</plain>
+            <plain>РќР° РєСЂРµСЃС‚Рµ РјРµРЅСЏ РїСЂРѕСЃС‚РёР» РћРЅ,</plain>
         </string>
         <string>
-            <plain>Долг мой взял - освободил.</plain>
+            <plain>Р”РѕР»Рі РјРѕР№ РІР·СЏР» - РѕСЃРІРѕР±РѕРґРёР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Буду петь повествованье:</plain>
+            <plain>Р‘СѓРґСѓ РїРµС‚СЊ РїРѕРІРµСЃС‚РІРѕРІР°РЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>Чтоб меня от мук изъять,</plain>
+            <plain>Р§С‚РѕР± РјРµРЅСЏ РѕС‚ РјСѓРє РёР·СЉСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Он в любви и состраданье</plain>
+            <plain>РћРЅ РІ Р»СЋР±РІРё Рё СЃРѕСЃС‚СЂР°РґР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Восхотел Свой выкуп дать.</plain>
+            <plain>Р’РѕСЃС…РѕС‚РµР» РЎРІРѕР№ РІС‹РєСѓРї РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Буду петь, как Искупитель</plain>
+            <plain>Р‘СѓРґСѓ РїРµС‚СЊ, РєР°Рє РСЃРєСѓРїРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Славен вечным торжеством;</plain>
+            <plain>РЎР»Р°РІРµРЅ РІРµС‡РЅС‹Рј С‚РѕСЂР¶РµСЃС‚РІРѕРј;</plain>
         </string>
         <string>
-            <plain>Как силен, как победитель,</plain>
+            <plain>РљР°Рє СЃРёР»РµРЅ, РєР°Рє РїРѕР±РµРґРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Он над смертью и грехом.</plain>
+            <plain>РћРЅ РЅР°Рґ СЃРјРµСЂС‚СЊСЋ Рё РіСЂРµС…РѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Буду петь, как Искупитель</plain>
+            <plain>Р‘СѓРґСѓ РїРµС‚СЊ, РєР°Рє РСЃРєСѓРїРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Любит слабого меня;</plain>
+            <plain>Р›СЋР±РёС‚ СЃР»Р°Р±РѕРіРѕ РјРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>Он мне в рай путеводитель,</plain>
+            <plain>РћРЅ РјРЅРµ РІ СЂР°Р№ РїСѓС‚РµРІРѕРґРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Вечно с Ним пребуду я.</plain>
+            <plain>Р’РµС‡РЅРѕ СЃ РќРёРј РїСЂРµР±СѓРґСѓ СЏ.</plain>
         </string>
     </verse>
 </psalm>

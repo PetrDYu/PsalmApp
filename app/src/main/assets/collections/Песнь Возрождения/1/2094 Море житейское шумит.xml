@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2094" name="Море житейское шумит" canon="false" text="" textRus="" music="">
+<psalm number="2094" name="РњРѕСЂРµ Р¶РёС‚РµР№СЃРєРѕРµ С€СѓРјРёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Море житейское шумит,</plain>
+            <plain>РњРѕСЂРµ Р¶РёС‚РµР№СЃРєРѕРµ С€СѓРјРёС‚,</plain>
         </string>
         <string>
-            <plain>Волны свои раскидывает,</plain>
+            <plain>Р’РѕР»РЅС‹ СЃРІРѕРё СЂР°СЃРєРёРґС‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Челн мой по морю плывет,</plain>
+            <plain>Р§РµР»РЅ РјРѕР№ РїРѕ РјРѕСЂСЋ РїР»С‹РІРµС‚,</plain>
         </string>
         <string>
-            <plain>Волны его заливают.</plain>
+            <plain>Р’РѕР»РЅС‹ РµРіРѕ Р·Р°Р»РёРІР°СЋС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, поспеши!</plain>
+            <plain>Рћ, РїРѕСЃРїРµС€Рё!</plain>
         </string>
         <string>
-            <plain>Протяни милости руку,</plain>
+            <plain>РџСЂРѕС‚СЏРЅРё РјРёР»РѕСЃС‚Рё СЂСѓРєСѓ,</plain>
         </string>
         <string>
-            <plain>Приди с любовью своей,</plain>
+            <plain>РџСЂРёРґРё СЃ Р»СЋР±РѕРІСЊСЋ СЃРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Разбей ты сердечную муку.</plain>
+            <plain>Р Р°Р·Р±РµР№ С‚С‹ СЃРµСЂРґРµС‡РЅСѓСЋ РјСѓРєСѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Тяжко мне жить без Тебя,</plain>
+            <plain>РўСЏР¶РєРѕ РјРЅРµ Р¶РёС‚СЊ Р±РµР· РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Я отчужденный от мира,</plain>
+            <plain>РЇ РѕС‚С‡СѓР¶РґРµРЅРЅС‹Р№ РѕС‚ РјРёСЂР°,</plain>
         </string>
         <string>
-            <plain>Всеми разбитый людьми,</plain>
+            <plain>Р’СЃРµРјРё СЂР°Р·Р±РёС‚С‹Р№ Р»СЋРґСЊРјРё,</plain>
         </string>
         <string>
-            <plain>Исчерпана вся моя сила.</plain>
+            <plain>РСЃС‡РµСЂРїР°РЅР° РІСЃСЏ РјРѕСЏ СЃРёР»Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Грех побеждает меня,</plain>
+            <plain>Р“СЂРµС… РїРѕР±РµР¶РґР°РµС‚ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Нет во мне силы сражаться,</plain>
+            <plain>РќРµС‚ РІРѕ РјРЅРµ СЃРёР»С‹ СЃСЂР°Р¶Р°С‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>В сердце не стало огня,</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РЅРµ СЃС‚Р°Р»Рѕ РѕРіРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Враг надо мной стал смеяться.</plain>
+            <plain>Р’СЂР°Рі РЅР°РґРѕ РјРЅРѕР№ СЃС‚Р°Р» СЃРјРµСЏС‚СЊСЃСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я без Тебя сирота,</plain>
+            <plain>РЇ Р±РµР· РўРµР±СЏ СЃРёСЂРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>Так одиноко страдаю,</plain>
+            <plain>РўР°Рє РѕРґРёРЅРѕРєРѕ СЃС‚СЂР°РґР°СЋ,</plain>
         </string>
         <string>
-            <plain>Когда же придешь Ты ко мне?</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ РїСЂРёРґРµС€СЊ РўС‹ РєРѕ РјРЅРµ?</plain>
         </string>
         <string>
-            <plain>Скажи, мой Господь, умоляю.</plain>
+            <plain>РЎРєР°Р¶Рё, РјРѕР№ Р“РѕСЃРїРѕРґСЊ, СѓРјРѕР»СЏСЋ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Хочу же я встретить Тебя,</plain>
+            <plain>РҐРѕС‡Сѓ Р¶Рµ СЏ РІСЃС‚СЂРµС‚РёС‚СЊ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Прильнуть же к груди Твоей сильной,</plain>
+            <plain>РџСЂРёР»СЊРЅСѓС‚СЊ Р¶Рµ Рє РіСЂСѓРґРё РўРІРѕРµР№ СЃРёР»СЊРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>О, помоги мне, Христос,</plain>
+            <plain>Рћ, РїРѕРјРѕРіРё РјРЅРµ, РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Благослови Ты обильно.</plain>
+            <plain>Р‘Р»Р°РіРѕСЃР»РѕРІРё РўС‹ РѕР±РёР»СЊРЅРѕ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>О, поспеши!</plain>
+            <plain>Рћ, РїРѕСЃРїРµС€Рё!</plain>
         </string>
         <string>
-            <plain>Протяни милости руку,</plain>
+            <plain>РџСЂРѕС‚СЏРЅРё РјРёР»РѕСЃС‚Рё СЂСѓРєСѓ,</plain>
         </string>
         <string>
-            <plain>Приди с любовью Своей,</plain>
+            <plain>РџСЂРёРґРё СЃ Р»СЋР±РѕРІСЊСЋ РЎРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Разбей Ты сердечную муку.</plain>
+            <plain>Р Р°Р·Р±РµР№ РўС‹ СЃРµСЂРґРµС‡РЅСѓСЋ РјСѓРєСѓ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2352" name="Тих и красив был тот вечер" canon="false" text="" textRus="" music="">
+<psalm number="2352" name="РўРёС… Рё РєСЂР°СЃРёРІ Р±С‹Р» С‚РѕС‚ РІРµС‡РµСЂ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тих и красив был тот вечер,</plain>
+            <plain>РўРёС… Рё РєСЂР°СЃРёРІ Р±С‹Р» С‚РѕС‚ РІРµС‡РµСЂ,</plain>
         </string>
         <string>
-            <plain>Тихо всё было кругом,</plain>
+            <plain>РўРёС…Рѕ РІСЃС‘ Р±С‹Р»Рѕ РєСЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Нежно природа прощалась</plain>
+            <plain>РќРµР¶РЅРѕ РїСЂРёСЂРѕРґР° РїСЂРѕС‰Р°Р»Р°СЃСЊ</plain>
         </string>
         <string>
-            <plain>С сумрачным светом и днём.</plain>
+            <plain>РЎ СЃСѓРјСЂР°С‡РЅС‹Рј СЃРІРµС‚РѕРј Рё РґРЅС‘Рј.</plain>
         </string>
         <string>
-            <plain>Там, высоко над обрывом,</plain>
+            <plain>РўР°Рј, РІС‹СЃРѕРєРѕ РЅР°Рґ РѕР±СЂС‹РІРѕРј,</plain>
         </string>
         <string>
-            <plain>Кто-то на арфе играл,</plain>
+            <plain>РљС‚Рѕ-С‚Рѕ РЅР° Р°СЂС„Рµ РёРіСЂР°Р»,</plain>
         </string>
         <string>
-            <plain>Кто-то, склонясь на колени,</plain>
+            <plain>РљС‚Рѕ-С‚Рѕ, СЃРєР»РѕРЅСЏСЃСЊ РЅР° РєРѕР»РµРЅРё,</plain>
         </string>
         <string>
-            <plain>Душу свою изливал. А-а-а...</plain>
+            <plain>Р”СѓС€Сѓ СЃРІРѕСЋ РёР·Р»РёРІР°Р». Рђ-Р°-Р°...</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Лились чарующие звуки,</plain>
+            <plain>Р›РёР»РёСЃСЊ С‡Р°СЂСѓСЋС‰РёРµ Р·РІСѓРєРё,</plain>
         </string>
         <string>
-            <plain>Арфа играла сильней,</plain>
+            <plain>РђСЂС„Р° РёРіСЂР°Р»Р° СЃРёР»СЊРЅРµР№,</plain>
         </string>
         <string>
-            <plain>Будто все звуки печали,</plain>
+            <plain>Р‘СѓРґС‚Рѕ РІСЃРµ Р·РІСѓРєРё РїРµС‡Р°Р»Рё,</plain>
         </string>
         <string>
-            <plain>Все отражалися в ней.</plain>
+            <plain>Р’СЃРµ РѕС‚СЂР°Р¶Р°Р»РёСЃСЏ РІ РЅРµР№.</plain>
         </string>
         <string>
-            <plain>Вдруг оборвалися струны,</plain>
+            <plain>Р’РґСЂСѓРі РѕР±РѕСЂРІР°Р»РёСЃСЏ СЃС‚СЂСѓРЅС‹,</plain>
         </string>
         <string>
-            <plain>Тихо всё стало кругом,</plain>
+            <plain>РўРёС…Рѕ РІСЃС‘ СЃС‚Р°Р»Рѕ РєСЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Слышно лишь только рыданье</plain>
+            <plain>РЎР»С‹С€РЅРѕ Р»РёС€СЊ С‚РѕР»СЊРєРѕ СЂС‹РґР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Там, в полумраке ночном. А-а-а...</plain>
+            <plain>РўР°Рј, РІ РїРѕР»СѓРјСЂР°РєРµ РЅРѕС‡РЅРѕРј. Рђ-Р°-Р°...</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Тьма всё сильнее сгущалась,</plain>
+            <plain>РўСЊРјР° РІСЃС‘ СЃРёР»СЊРЅРµРµ СЃРіСѓС‰Р°Р»Р°СЃСЊ,</plain>
         </string>
         <string>
-            <plain>На небо вышла луна,</plain>
+            <plain>РќР° РЅРµР±Рѕ РІС‹С€Р»Р° Р»СѓРЅР°,</plain>
         </string>
         <string>
-            <plain>Девушка в лунном сиянье</plain>
+            <plain>Р”РµРІСѓС€РєР° РІ Р»СѓРЅРЅРѕРј СЃРёСЏРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Там, над обрывом, видна.</plain>
+            <plain>РўР°Рј, РЅР°Рґ РѕР±СЂС‹РІРѕРј, РІРёРґРЅР°.</plain>
         </string>
         <string>
-            <plain>И безутешно рыдая,</plain>
+            <plain>Р Р±РµР·СѓС‚РµС€РЅРѕ СЂС‹РґР°СЏ,</plain>
         </string>
         <string>
-            <plain>К Богу взывает она.</plain>
+            <plain>Рљ Р‘РѕРіСѓ РІР·С‹РІР°РµС‚ РѕРЅР°.</plain>
         </string>
         <string>
-            <plain>Слышно в тиши раскаянье,</plain>
+            <plain>РЎР»С‹С€РЅРѕ РІ С‚РёС€Рё СЂР°СЃРєР°СЏРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Полные скорби слова. А-а-а...</plain>
+            <plain>РџРѕР»РЅС‹Рµ СЃРєРѕСЂР±Рё СЃР»РѕРІР°. Рђ-Р°-Р°...</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Друг мой печальный, угрюмый,</plain>
+            <plain>Р”СЂСѓРі РјРѕР№ РїРµС‡Р°Р»СЊРЅС‹Р№, СѓРіСЂСЋРјС‹Р№,</plain>
         </string>
         <string>
-            <plain>Время своё не теряй,</plain>
+            <plain>Р’СЂРµРјСЏ СЃРІРѕС‘ РЅРµ С‚РµСЂСЏР№,</plain>
         </string>
         <string>
-            <plain>Душу свою в раскаянье</plain>
+            <plain>Р”СѓС€Сѓ СЃРІРѕСЋ РІ СЂР°СЃРєР°СЏРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Богу в служенье отдай.</plain>
+            <plain>Р‘РѕРіСѓ РІ СЃР»СѓР¶РµРЅСЊРµ РѕС‚РґР°Р№.</plain>
         </string>
         <string>
-            <plain>Струны когда оборвутся,</plain>
+            <plain>РЎС‚СЂСѓРЅС‹ РєРѕРіРґР° РѕР±РѕСЂРІСѓС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Поздно уж будет тогда,</plain>
+            <plain>РџРѕР·РґРЅРѕ СѓР¶ Р±СѓРґРµС‚ С‚РѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>Дни твоей жизни прервутся,</plain>
+            <plain>Р”РЅРё С‚РІРѕРµР№ Р¶РёР·РЅРё РїСЂРµСЂРІСѓС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Счастье уйдёт навсегда. А-а-а...</plain>
+            <plain>РЎС‡Р°СЃС‚СЊРµ СѓР№РґС‘С‚ РЅР°РІСЃРµРіРґР°. Рђ-Р°-Р°...</plain>
         </string>
     </verse>
 </psalm>

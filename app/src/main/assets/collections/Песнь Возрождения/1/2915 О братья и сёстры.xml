@@ -1,102 +1,102 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2915" name="О братья и сёстры" canon="false" text="" textRus="" music="">
+<psalm number="2915" name="Рћ Р±СЂР°С‚СЊСЏ Рё СЃС‘СЃС‚СЂС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О братья и сёстры,</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ Рё СЃС‘СЃС‚СЂС‹,</plain>
         </string>
         <string>
-            <plain>спешите все вперёд,</plain>
+            <plain>СЃРїРµС€РёС‚Рµ РІСЃРµ РІРїРµСЂС‘Рґ,</plain>
         </string>
         <string>
-            <plain>чтоб узреть Христа;</plain>
+            <plain>С‡С‚РѕР± СѓР·СЂРµС‚СЊ РҐСЂРёСЃС‚Р°;</plain>
         </string>
         <string>
-            <plain>здесь нет остановок,</plain>
+            <plain>Р·РґРµСЃСЊ РЅРµС‚ РѕСЃС‚Р°РЅРѕРІРѕРє,</plain>
         </string>
         <string>
-            <plain>нет отдыха -</plain>
+            <plain>РЅРµС‚ РѕС‚РґС‹С…Р° -</plain>
         </string>
         <string>
-            <plain>спешите вперёд всегда!</plain>
+            <plain>СЃРїРµС€РёС‚Рµ РІРїРµСЂС‘Рґ РІСЃРµРіРґР°!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, спешите, о, спешите</plain>
+            <plain>Рћ, СЃРїРµС€РёС‚Рµ, Рѕ, СЃРїРµС€РёС‚Рµ</plain>
         </string>
         <string>
-            <plain>- к отчизне на небесах!</plain>
+            <plain>- Рє РѕС‚С‡РёР·РЅРµ РЅР° РЅРµР±РµСЃР°С…!</plain>
         </string>
         <string>
-            <plain>О, спешите, о, спешите</plain>
+            <plain>Рћ, СЃРїРµС€РёС‚Рµ, Рѕ, СЃРїРµС€РёС‚Рµ</plain>
         </string>
         <string>
-            <plain>- покой ожидает там нас!</plain>
+            <plain>- РїРѕРєРѕР№ РѕР¶РёРґР°РµС‚ С‚Р°Рј РЅР°СЃ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О братья и сёстры, хоть</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ Рё СЃС‘СЃС‚СЂС‹, С…РѕС‚СЊ</plain>
         </string>
         <string>
-            <plain>этот мир и манит идти за ним,</plain>
+            <plain>СЌС‚РѕС‚ РјРёСЂ Рё РјР°РЅРёС‚ РёРґС‚Рё Р·Р° РЅРёРј,</plain>
         </string>
         <string>
-            <plain>не сможет ничем он нас удержать</plain>
+            <plain>РЅРµ СЃРјРѕР¶РµС‚ РЅРёС‡РµРј РѕРЅ РЅР°СЃ СѓРґРµСЂР¶Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>- в небесный мы град спешим.</plain>
+            <plain>- РІ РЅРµР±РµСЃРЅС‹Р№ РјС‹ РіСЂР°Рґ СЃРїРµС€РёРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О братья и сёстры, как много тех,</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ Рё СЃС‘СЃС‚СЂС‹, РєР°Рє РјРЅРѕРіРѕ С‚РµС…,</plain>
         </string>
         <string>
-            <plain>кто в праздном блаженстве спит!</plain>
+            <plain>РєС‚Рѕ РІ РїСЂР°Р·РґРЅРѕРј Р±Р»Р°Р¶РµРЅСЃС‚РІРµ СЃРїРёС‚!</plain>
         </string>
         <string>
-            <plain>- Молитесь, трезвитесь и бодрствуйте,</plain>
+            <plain>- РњРѕР»РёС‚РµСЃСЊ, С‚СЂРµР·РІРёС‚РµСЃСЊ Рё Р±РѕРґСЂСЃС‚РІСѓР№С‚Рµ,</plain>
         </string>
         <string>
-            <plain>ведь спящий не устоит.</plain>
+            <plain>РІРµРґСЊ СЃРїСЏС‰РёР№ РЅРµ СѓСЃС‚РѕРёС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О братья и сёстры,</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ Рё СЃС‘СЃС‚СЂС‹,</plain>
         </string>
         <string>
-            <plain>как много дел на ниве</plain>
+            <plain>РєР°Рє РјРЅРѕРіРѕ РґРµР» РЅР° РЅРёРІРµ</plain>
         </string>
         <string>
-            <plain>Христа нас ждёт!</plain>
+            <plain>РҐСЂРёСЃС‚Р° РЅР°СЃ Р¶РґС‘С‚!</plain>
         </string>
         <string>
-            <plain>Усердно трудитесь без отдыха:</plain>
+            <plain>РЈСЃРµСЂРґРЅРѕ С‚СЂСѓРґРёС‚РµСЃСЊ Р±РµР· РѕС‚РґС‹С…Р°:</plain>
         </string>
         <string>
-            <plain>Благую Весть ждёт народ.</plain>
+            <plain>Р‘Р»Р°РіСѓСЋ Р’РµСЃС‚СЊ Р¶РґС‘С‚ РЅР°СЂРѕРґ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О братья, не будем</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ, РЅРµ Р±СѓРґРµРј</plain>
         </string>
         <string>
-            <plain>медлительны,</plain>
+            <plain>РјРµРґР»РёС‚РµР»СЊРЅС‹,</plain>
         </string>
         <string>
-            <plain>за дело Христа - вперёд;</plain>
+            <plain>Р·Р° РґРµР»Рѕ РҐСЂРёСЃС‚Р° - РІРїРµСЂС‘Рґ;</plain>
         </string>
         <string>
-            <plain>ведь скоро для всех</plain>
+            <plain>РІРµРґСЊ СЃРєРѕСЂРѕ РґР»СЏ РІСЃРµС…</plain>
         </string>
         <string>
-            <plain>нас наступит ночь,</plain>
+            <plain>РЅР°СЃ РЅР°СЃС‚СѓРїРёС‚ РЅРѕС‡СЊ,</plain>
         </string>
         <string>
-            <plain>и время труда пройдёт.</plain>
+            <plain>Рё РІСЂРµРјСЏ С‚СЂСѓРґР° РїСЂРѕР№РґС‘С‚.</plain>
         </string>
     </verse>
 </psalm>

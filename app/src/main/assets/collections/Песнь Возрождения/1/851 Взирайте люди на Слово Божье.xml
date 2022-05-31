@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="851" name="Взирайте люди на Слово Божье" canon="false" text="" textRus="" music="">
+<psalm number="851" name="Р’Р·РёСЂР°Р№С‚Рµ Р»СЋРґРё РЅР° РЎР»РѕРІРѕ Р‘РѕР¶СЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Взирайте, люди, на Слово Божье,</plain>
+            <plain>Р’Р·РёСЂР°Р№С‚Рµ, Р»СЋРґРё, РЅР° РЎР»РѕРІРѕ Р‘РѕР¶СЊРµ,</plain>
         </string>
         <string>
-            <plain>Пока еще ныне звучит.</plain>
+            <plain>РџРѕРєР° РµС‰Рµ РЅС‹РЅРµ Р·РІСѓС‡РёС‚.</plain>
         </string>
         <string>
-            <plain>Оно ведь скоро закрыться может</plain>
+            <plain>РћРЅРѕ РІРµРґСЊ СЃРєРѕСЂРѕ Р·Р°РєСЂС‹С‚СЊСЃСЏ РјРѕР¶РµС‚</plain>
         </string>
         <string>
-            <plain>- Дух Божий об этом твердит.</plain>
+            <plain>- Р”СѓС… Р‘РѕР¶РёР№ РѕР± СЌС‚РѕРј С‚РІРµСЂРґРёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Скажут люди: "Слово Божье</plain>
+            <plain>РЎРєР°Р¶СѓС‚ Р»СЋРґРё: "РЎР»РѕРІРѕ Р‘РѕР¶СЊРµ</plain>
         </string>
         <string>
-            <plain>Пусть же вернется к нам.</plain>
+            <plain>РџСѓСЃС‚СЊ Р¶Рµ РІРµСЂРЅРµС‚СЃСЏ Рє РЅР°Рј.</plain>
         </string>
         <string>
-            <plain>Сколько, люди, не взывайте.</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ, Р»СЋРґРё, РЅРµ РІР·С‹РІР°Р№С‚Рµ.</plain>
         </string>
         <string>
-            <plain>Господь не ответит уж вам".</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РЅРµ РѕС‚РІРµС‚РёС‚ СѓР¶ РІР°Рј".</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Слова Амоса звучат так ясно,</plain>
+            <plain>РЎР»РѕРІР° РђРјРѕСЃР° Р·РІСѓС‡Р°С‚ С‚Р°Рє СЏСЃРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Что он написал наперед,</plain>
+            <plain>Р§С‚Рѕ РѕРЅ РЅР°РїРёСЃР°Р» РЅР°РїРµСЂРµРґ,</plain>
         </string>
         <string>
-            <plain>Что люди горько стонать все будут,</plain>
+            <plain>Р§С‚Рѕ Р»СЋРґРё РіРѕСЂСЊРєРѕ СЃС‚РѕРЅР°С‚СЊ РІСЃРµ Р±СѓРґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Как жаждой томимый народ.</plain>
+            <plain>РљР°Рє Р¶Р°Р¶РґРѕР№ С‚РѕРјРёРјС‹Р№ РЅР°СЂРѕРґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Любовь Господню искать все будут.</plain>
+            <plain>Р›СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЋ РёСЃРєР°С‚СЊ РІСЃРµ Р±СѓРґСѓС‚.</plain>
         </string>
         <string>
-            <plain>Как жаждущий ищет воды.</plain>
+            <plain>РљР°Рє Р¶Р°Р¶РґСѓС‰РёР№ РёС‰РµС‚ РІРѕРґС‹.</plain>
         </string>
         <string>
-            <plain>Господь закроет от них спасенье,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ Р·Р°РєСЂРѕРµС‚ РѕС‚ РЅРёС… СЃРїР°СЃРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Не смогут найти уж они.</plain>
+            <plain>РќРµ СЃРјРѕРіСѓС‚ РЅР°Р№С‚Рё СѓР¶ РѕРЅРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ходить все будут от моря до моря,</plain>
+            <plain>РҐРѕРґРёС‚СЊ РІСЃРµ Р±СѓРґСѓС‚ РѕС‚ РјРѕСЂСЏ РґРѕ РјРѕСЂСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб Слово Господне найти.</plain>
+            <plain>Р§С‚РѕР± РЎР»РѕРІРѕ Р“РѕСЃРїРѕРґРЅРµ РЅР°Р№С‚Рё.</plain>
         </string>
         <string>
-            <plain>И полны будут мученья и горя.</plain>
+            <plain>Р РїРѕР»РЅС‹ Р±СѓРґСѓС‚ РјСѓС‡РµРЅСЊСЏ Рё РіРѕСЂСЏ.</plain>
         </string>
         <string>
-            <plain>Не смогут спастись уж они.</plain>
+            <plain>РќРµ СЃРјРѕРіСѓС‚ СЃРїР°СЃС‚РёСЃСЊ СѓР¶ РѕРЅРё.</plain>
         </string>
     </verse>
 </psalm>

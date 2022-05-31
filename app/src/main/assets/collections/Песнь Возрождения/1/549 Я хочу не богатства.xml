@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="549" name="Я хочу не богатства" canon="false" text="" textRus="" music="">
+<psalm number="549" name="РЇ С…РѕС‡Сѓ РЅРµ Р±РѕРіР°С‚СЃС‚РІР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я хочу не богатства,</plain>
+            <plain>РЇ С…РѕС‡Сѓ РЅРµ Р±РѕРіР°С‚СЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Не казны серебра,</plain>
+            <plain>РќРµ РєР°Р·РЅС‹ СЃРµСЂРµР±СЂР°,</plain>
         </string>
         <string>
-            <plain>А небесного царства</plain>
+            <plain>Рђ РЅРµР±РµСЃРЅРѕРіРѕ С†Р°СЂСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>И спасенья добра.</plain>
+            <plain>Р СЃРїР°СЃРµРЅСЊСЏ РґРѕР±СЂР°.</plain>
         </string>
         <string>
-            <plain>В книге вечной спасенных,</plain>
+            <plain>Р’ РєРЅРёРіРµ РІРµС‡РЅРѕР№ СЃРїР°СЃРµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>О, скажи, Боже мой,</plain>
+            <plain>Рћ, СЃРєР°Р¶Рё, Р‘РѕР¶Рµ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>На страницах зажженных</plain>
+            <plain>РќР° СЃС‚СЂР°РЅРёС†Р°С… Р·Р°Р¶Р¶РµРЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Я записан Тобой?</plain>
+            <plain>РЇ Р·Р°РїРёСЃР°РЅ РўРѕР±РѕР№?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, скажи, Бог мой, Сам,</plain>
+            <plain>Рћ, СЃРєР°Р¶Рё, Р‘РѕРі РјРѕР№, РЎР°Рј,</plain>
         </string>
         <string>
-            <plain>Я записан ли там</plain>
+            <plain>РЇ Р·Р°РїРёСЃР°РЅ Р»Рё С‚Р°Рј</plain>
         </string>
         <string>
-            <plain>В книге вечного царства?</plain>
+            <plain>Р’ РєРЅРёРіРµ РІРµС‡РЅРѕРіРѕ С†Р°СЂСЃС‚РІР°?</plain>
         </string>
         <string>
-            <plain>Я записан ли там?</plain>
+            <plain>РЇ Р·Р°РїРёСЃР°РЅ Р»Рё С‚Р°Рј?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Во мне много пороков,</plain>
+            <plain>Р’Рѕ РјРЅРµ РјРЅРѕРіРѕ РїРѕСЂРѕРєРѕРІ,</plain>
         </string>
         <string>
-            <plain>Как песку у морей;</plain>
+            <plain>РљР°Рє РїРµСЃРєСѓ Сѓ РјРѕСЂРµР№;</plain>
         </string>
         <string>
-            <plain>Но всех рек и потоков</plain>
+            <plain>РќРѕ РІСЃРµС… СЂРµРє Рё РїРѕС‚РѕРєРѕРІ</plain>
         </string>
         <string>
-            <plain>Кровь Иисуса сильней.</plain>
+            <plain>РљСЂРѕРІСЊ РРёСЃСѓСЃР° СЃРёР»СЊРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Слово правды, нам данной,</plain>
+            <plain>РЎР»РѕРІРѕ РїСЂР°РІРґС‹, РЅР°Рј РґР°РЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Озаряет нас всех:</plain>
+            <plain>РћР·Р°СЂСЏРµС‚ РЅР°СЃ РІСЃРµС…:</plain>
         </string>
         <string>
-            <plain>"Грех, как пурпур багряный,</plain>
+            <plain>"Р“СЂРµС…, РєР°Рє РїСѓСЂРїСѓСЂ Р±Р°РіСЂСЏРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Убелю Я, как снег".</plain>
+            <plain>РЈР±РµР»СЋ РЇ, РєР°Рє СЃРЅРµРі".</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Город дивный, прекрасный,</plain>
+            <plain>Р“РѕСЂРѕРґ РґРёРІРЅС‹Р№, РїСЂРµРєСЂР°СЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Где в дворцах вечный свет,</plain>
+            <plain>Р“РґРµ РІ РґРІРѕСЂС†Р°С… РІРµС‡РЅС‹Р№ СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Где, любовью согласный,</plain>
+            <plain>Р“РґРµ, Р»СЋР±РѕРІСЊСЋ СЃРѕРіР»Р°СЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Мир весь в белом одет;</plain>
+            <plain>РњРёСЂ РІРµСЃСЊ РІ Р±РµР»РѕРј РѕРґРµС‚;</plain>
         </string>
         <string>
-            <plain>Где душ яды не травят,</plain>
+            <plain>Р“РґРµ РґСѓС€ СЏРґС‹ РЅРµ С‚СЂР°РІСЏС‚,</plain>
         </string>
         <string>
-            <plain>Зло безвестно сердцам</plain>
+            <plain>Р—Р»Рѕ Р±РµР·РІРµСЃС‚РЅРѕ СЃРµСЂРґС†Р°Рј</plain>
         </string>
         <string>
-            <plain>И где ангелы славят, -</plain>
+            <plain>Р РіРґРµ Р°РЅРіРµР»С‹ СЃР»Р°РІСЏС‚, -</plain>
         </string>
         <string>
-            <plain>Я записан ли там?</plain>
+            <plain>РЇ Р·Р°РїРёСЃР°РЅ Р»Рё С‚Р°Рј?</plain>
         </string>
     </verse>
 </psalm>

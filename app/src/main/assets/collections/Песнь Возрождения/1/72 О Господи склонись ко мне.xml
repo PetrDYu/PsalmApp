@@ -1,105 +1,105 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="72" name="О Господи склонись ко мне" canon="false" text="" textRus="" music="">
+<psalm number="72" name="Рћ Р“РѕСЃРїРѕРґРё СЃРєР»РѕРЅРёСЃСЊ РєРѕ РјРЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Господи, склонись ко мне,</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґРё, СЃРєР»РѕРЅРёСЃСЊ РєРѕ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Внемли моей мольбе!</plain>
+            <plain>Р’РЅРµРјР»Рё РјРѕРµР№ РјРѕР»СЊР±Рµ!</plain>
         </string>
         <string>
-            <plain>Не дай мне пасть в земной стране,</plain>
+            <plain>РќРµ РґР°Р№ РјРЅРµ РїР°СЃС‚СЊ РІ Р·РµРјРЅРѕР№ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>Сраженному в борьбе.</plain>
+            <plain>РЎСЂР°Р¶РµРЅРЅРѕРјСѓ РІ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
         <string>
-            <plain>Сраженному в борьбе.</plain>
+            <plain>РЎСЂР°Р¶РµРЅРЅРѕРјСѓ РІ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Ты видишь надо мною гнет</plain>
+            <plain>РўС‹ РІРёРґРёС€СЊ РЅР°РґРѕ РјРЅРѕСЋ РіРЅРµС‚</plain>
         </string>
         <string>
-            <plain>Моих грехов плотских:</plain>
+            <plain>РњРѕРёС… РіСЂРµС…РѕРІ РїР»РѕС‚СЃРєРёС…:</plain>
         </string>
         <string>
-            <plain>Меня природа к злу влечет</plain>
+            <plain>РњРµРЅСЏ РїСЂРёСЂРѕРґР° Рє Р·Р»Сѓ РІР»РµС‡РµС‚</plain>
         </string>
         <string>
-            <plain>Во всех путях моих.</plain>
+            <plain>Р’Рѕ РІСЃРµС… РїСѓС‚СЏС… РјРѕРёС….</plain>
         </string>
         <string>
-            <plain>Во всех путях моих.</plain>
+            <plain>Р’Рѕ РІСЃРµС… РїСѓС‚СЏС… РјРѕРёС….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И скорби мой терзают дух,</plain>
+            <plain>Р СЃРєРѕСЂР±Рё РјРѕР№ С‚РµСЂР·Р°СЋС‚ РґСѓС…,</plain>
         </string>
         <string>
-            <plain>Отрады нет ни в чем;</plain>
+            <plain>РћС‚СЂР°РґС‹ РЅРµС‚ РЅРё РІ С‡РµРј;</plain>
         </string>
         <string>
-            <plain>В душе моей живет недуг,</plain>
+            <plain>Р’ РґСѓС€Рµ РјРѕРµР№ Р¶РёРІРµС‚ РЅРµРґСѓРі,</plain>
         </string>
         <string>
-            <plain>Нужда и зло кругом.</plain>
+            <plain>РќСѓР¶РґР° Рё Р·Р»Рѕ РєСЂСѓРіРѕРј.</plain>
         </string>
         <string>
-            <plain>Нужда и зло кругом.</plain>
+            <plain>РќСѓР¶РґР° Рё Р·Р»Рѕ РєСЂСѓРіРѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Теперь я плотью обложен</plain>
+            <plain>РўРµРїРµСЂСЊ СЏ РїР»РѕС‚СЊСЋ РѕР±Р»РѕР¶РµРЅ</plain>
         </string>
         <string>
-            <plain>Под бременем грехов;</plain>
+            <plain>РџРѕРґ Р±СЂРµРјРµРЅРµРј РіСЂРµС…РѕРІ;</plain>
         </string>
         <string>
-            <plain>Тобой могу я быть спасен,</plain>
+            <plain>РўРѕР±РѕР№ РјРѕРіСѓ СЏ Р±С‹С‚СЊ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>В Тебе найду покров.</plain>
+            <plain>Р’ РўРµР±Рµ РЅР°Р№РґСѓ РїРѕРєСЂРѕРІ.</plain>
         </string>
         <string>
-            <plain>В Тебе найду покров.</plain>
+            <plain>Р’ РўРµР±Рµ РЅР°Р№РґСѓ РїРѕРєСЂРѕРІ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Пока в долине суетной</plain>
+            <plain>РџРѕРєР° РІ РґРѕР»РёРЅРµ СЃСѓРµС‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Не кончу я идти,</plain>
+            <plain>РќРµ РєРѕРЅС‡Сѓ СЏ РёРґС‚Рё,</plain>
         </string>
         <string>
-            <plain>Ты будь, наставник верный мой,</plain>
+            <plain>РўС‹ Р±СѓРґСЊ, РЅР°СЃС‚Р°РІРЅРёРє РІРµСЂРЅС‹Р№ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Водитель мой в пути.</plain>
+            <plain>Р’РѕРґРёС‚РµР»СЊ РјРѕР№ РІ РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Водитель мой в пути.</plain>
+            <plain>Р’РѕРґРёС‚РµР»СЊ РјРѕР№ РІ РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Когда же, Бог Спаситель мой,</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ, Р‘РѕРі РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты примешь дух к Себе,</plain>
+            <plain>РўС‹ РїСЂРёРјРµС€СЊ РґСѓС… Рє РЎРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Тогда, прославленный Тобой,</plain>
+            <plain>РўРѕРіРґР°, РїСЂРѕСЃР»Р°РІР»РµРЅРЅС‹Р№ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Найду покой в Тебе.</plain>
+            <plain>РќР°Р№РґСѓ РїРѕРєРѕР№ РІ РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Найду покой в Тебе.</plain>
+            <plain>РќР°Р№РґСѓ РїРѕРєРѕР№ РІ РўРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

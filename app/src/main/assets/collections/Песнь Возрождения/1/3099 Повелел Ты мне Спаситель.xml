@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3099" name="Повелел Ты мне Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="3099" name="РџРѕРІРµР»РµР» РўС‹ РјРЅРµ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Повелел Ты мне, Спаситель:</plain>
+            <plain>РџРѕРІРµР»РµР» РўС‹ РјРЅРµ, РЎРїР°СЃРёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>«Крест возьми, иди за Мной!»</plain>
+            <plain>В«РљСЂРµСЃС‚ РІРѕР·СЊРјРё, РёРґРё Р·Р° РњРЅРѕР№!В»</plain>
         </string>
         <string>
-            <plain>- Все грехи оставить должен я,</plain>
+            <plain>- Р’СЃРµ РіСЂРµС…Рё РѕСЃС‚Р°РІРёС‚СЊ РґРѕР»Р¶РµРЅ СЏ,</plain>
         </string>
         <string>
-            <plain>чтоб в небе жить с Тобой.</plain>
+            <plain>С‡С‚РѕР± РІ РЅРµР±Рµ Р¶РёС‚СЊ СЃ РўРѕР±РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Весь я Твой, Иисус мой</plain>
+            <plain>Р’РµСЃСЊ СЏ РўРІРѕР№, РРёСЃСѓСЃ РјРѕР№</plain>
         </string>
         <string>
-            <plain>верный, Ты простил вину мою.</plain>
+            <plain>РІРµСЂРЅС‹Р№, РўС‹ РїСЂРѕСЃС‚РёР» РІРёРЅСѓ РјРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Душу я Тебе и тело</plain>
+            <plain>Р”СѓС€Сѓ СЏ РўРµР±Рµ Рё С‚РµР»Рѕ</plain>
         </string>
         <string>
-            <plain>на служенье отдаю.</plain>
+            <plain>РЅР° СЃР»СѓР¶РµРЅСЊРµ РѕС‚РґР°СЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Не могу я благодати</plain>
+            <plain>РќРµ РјРѕРіСѓ СЏ Р±Р»Р°РіРѕРґР°С‚Рё</plain>
         </string>
         <string>
-            <plain>удостоиться Твоей,</plain>
+            <plain>СѓРґРѕСЃС‚РѕРёС‚СЊСЃСЏ РўРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>пока всё я не оставлю,</plain>
+            <plain>РїРѕРєР° РІСЃС‘ СЏ РЅРµ РѕСЃС‚Р°РІР»СЋ,</plain>
         </string>
         <string>
-            <plain>чтоб идти стезёй Твоей.</plain>
+            <plain>С‡С‚РѕР± РёРґС‚Рё СЃС‚РµР·С‘Р№ РўРІРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Должен умереть для славы</plain>
+            <plain>Р”РѕР»Р¶РµРЅ СѓРјРµСЂРµС‚СЊ РґР»СЏ СЃР»Р°РІС‹</plain>
         </string>
         <string>
-            <plain>и для дружбы с миром я,</plain>
+            <plain>Рё РґР»СЏ РґСЂСѓР¶Р±С‹ СЃ РјРёСЂРѕРј СЏ,</plain>
         </string>
         <string>
-            <plain>всей душой Тебе отдаться,</plain>
+            <plain>РІСЃРµР№ РґСѓС€РѕР№ РўРµР±Рµ РѕС‚РґР°С‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>чтоб наполнил Ты меня.</plain>
+            <plain>С‡С‚РѕР± РЅР°РїРѕР»РЅРёР» РўС‹ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Взял свой крест и за Тобою</plain>
+            <plain>Р’Р·СЏР» СЃРІРѕР№ РєСЂРµСЃС‚ Рё Р·Р° РўРѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>я иду, Спаситель мой.</plain>
+            <plain>СЏ РёРґСѓ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Для Тебя я всё оставил</plain>
+            <plain>Р”Р»СЏ РўРµР±СЏ СЏ РІСЃС‘ РѕСЃС‚Р°РІРёР»</plain>
         </string>
         <string>
-            <plain>и в Тебе нашёл покой.</plain>
+            <plain>Рё РІ РўРµР±Рµ РЅР°С€С‘Р» РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

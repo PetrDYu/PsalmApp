@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="726" name="Утром когда встает рассвет" canon="false" text="" textRus="" music="">
+<psalm number="726" name="РЈС‚СЂРѕРј РєРѕРіРґР° РІСЃС‚Р°РµС‚ СЂР°СЃСЃРІРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Утром, когда встает рассвет,</plain>
+            <plain>РЈС‚СЂРѕРј, РєРѕРіРґР° РІСЃС‚Р°РµС‚ СЂР°СЃСЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Боже, Тебе пою</plain>
+            <plain>Р‘РѕР¶Рµ, РўРµР±Рµ РїРѕСЋ</plain>
         </string>
         <string>
-            <plain>За благодать Твою ко мне</plain>
+            <plain>Р—Р° Р±Р»Р°РіРѕРґР°С‚СЊ РўРІРѕСЋ РєРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>И за любовь Твою.</plain>
+            <plain>Р Р·Р° Р»СЋР±РѕРІСЊ РўРІРѕСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Славу Тебе пою</plain>
+            <plain>РЎР»Р°РІСѓ РўРµР±Рµ РїРѕСЋ</plain>
         </string>
         <string>
-            <plain>За благодать (и любовь) Твою,</plain>
+            <plain>Р—Р° Р±Р»Р°РіРѕРґР°С‚СЊ (Рё Р»СЋР±РѕРІСЊ) РўРІРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Силы дай мне всегда</plain>
+            <plain>РЎРёР»С‹ РґР°Р№ РјРЅРµ РІСЃРµРіРґР°</plain>
         </string>
         <string>
-            <plain>Прославлять Тебя.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏС‚СЊ РўРµР±СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В радости дай воспеть Тебе,</plain>
+            <plain>Р’ СЂР°РґРѕСЃС‚Рё РґР°Р№ РІРѕСЃРїРµС‚СЊ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>В скорби - не унывать</plain>
+            <plain>Р’ СЃРєРѕСЂР±Рё - РЅРµ СѓРЅС‹РІР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И о Твоей святой любви</plain>
+            <plain>Р Рѕ РўРІРѕРµР№ СЃРІСЏС‚РѕР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Людям всем рассказать.</plain>
+            <plain>Р›СЋРґСЏРј РІСЃРµРј СЂР°СЃСЃРєР°Р·Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В жизни моей Тебя хвалить –</plain>
+            <plain>Р’ Р¶РёР·РЅРё РјРѕРµР№ РўРµР±СЏ С…РІР°Р»РёС‚СЊ вЂ“</plain>
         </string>
         <string>
-            <plain>Цель будет пусть моя,</plain>
+            <plain>Р¦РµР»СЊ Р±СѓРґРµС‚ РїСѓСЃС‚СЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб чудеса Ты мог творить</plain>
+            <plain>Р§С‚РѕР± С‡СѓРґРµСЃР° РўС‹ РјРѕРі С‚РІРѕСЂРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>В сердце моем всегда.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РјРѕРµРј РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Когда приходит день к концу,</plain>
+            <plain>РљРѕРіРґР° РїСЂРёС…РѕРґРёС‚ РґРµРЅСЊ Рє РєРѕРЅС†Сѓ,</plain>
         </string>
         <string>
-            <plain>Звезды с небес блестят,</plain>
+            <plain>Р—РІРµР·РґС‹ СЃ РЅРµР±РµСЃ Р±Р»РµСЃС‚СЏС‚,</plain>
         </string>
         <string>
-            <plain>К Богу с молитвой прихожу,</plain>
+            <plain>Рљ Р‘РѕРіСѓ СЃ РјРѕР»РёС‚РІРѕР№ РїСЂРёС…РѕР¶Сѓ,</plain>
         </string>
         <string>
-            <plain>Чтобы опять сказать:</plain>
+            <plain>Р§С‚РѕР±С‹ РѕРїСЏС‚СЊ СЃРєР°Р·Р°С‚СЊ:</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>Милости полон Ты,</plain>
+            <plain>РњРёР»РѕСЃС‚Рё РїРѕР»РѕРЅ РўС‹,</plain>
         </string>
         <string>
-            <plain>Милости (милости) и любви!</plain>
+            <plain>РњРёР»РѕСЃС‚Рё (РјРёР»РѕСЃС‚Рё) Рё Р»СЋР±РІРё!</plain>
         </string>
         <string>
-            <plain>И хочу я всегда</plain>
+            <plain>Р С…РѕС‡Сѓ СЏ РІСЃРµРіРґР°</plain>
         </string>
         <string>
-            <plain>Прославлять Тебя!</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏС‚СЊ РўРµР±СЏ!</plain>
         </string>
     </chorus>
 </psalm>

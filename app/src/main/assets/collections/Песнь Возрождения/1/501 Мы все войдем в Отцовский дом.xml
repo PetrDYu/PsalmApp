@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="501" name="Мы все войдем в Отцовский дом" canon="false" text="" textRus="" music="">
+<psalm number="501" name="РњС‹ РІСЃРµ РІРѕР№РґРµРј РІ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы все войдем в Отцовский дом</plain>
+            <plain>РњС‹ РІСЃРµ РІРѕР№РґРµРј РІ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј</plain>
         </string>
         <string>
-            <plain>И, может быть, уж вскоре.</plain>
+            <plain>Р, РјРѕР¶РµС‚ Р±С‹С‚СЊ, СѓР¶ РІСЃРєРѕСЂРµ.</plain>
         </string>
         <string>
-            <plain>Пройди ж скорей, пора скорбей,</plain>
+            <plain>РџСЂРѕР№РґРё Р¶ СЃРєРѕСЂРµР№, РїРѕСЂР° СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>Рассейся грех и горе!</plain>
+            <plain>Р Р°СЃСЃРµР№СЃСЏ РіСЂРµС… Рё РіРѕСЂРµ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мы все войдем</plain>
+            <plain>РњС‹ РІСЃРµ РІРѕР№РґРµРј</plain>
         </string>
         <string>
-            <plain>И, может быть, уж вскоре.</plain>
+            <plain>Р, РјРѕР¶РµС‚ Р±С‹С‚СЊ, СѓР¶ РІСЃРєРѕСЂРµ.</plain>
         </string>
         <string>
-            <plain>Мы все войдем</plain>
+            <plain>РњС‹ РІСЃРµ РІРѕР№РґРµРј</plain>
         </string>
         <string>
-            <plain>И, может быть, уж вскоре.</plain>
+            <plain>Р, РјРѕР¶РµС‚ Р±С‹С‚СЊ, СѓР¶ РІСЃРєРѕСЂРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как будет нам отрадно там,</plain>
+            <plain>РљР°Рє Р±СѓРґРµС‚ РЅР°Рј РѕС‚СЂР°РґРЅРѕ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>Там истина сияет;</plain>
+            <plain>РўР°Рј РёСЃС‚РёРЅР° СЃРёСЏРµС‚;</plain>
         </string>
         <string>
-            <plain>Там песнь небес среди чудес</plain>
+            <plain>РўР°Рј РїРµСЃРЅСЊ РЅРµР±РµСЃ СЃСЂРµРґРё С‡СѓРґРµСЃ</plain>
         </string>
         <string>
-            <plain>В сердца восторг вливает.</plain>
+            <plain>Р’ СЃРµСЂРґС†Р° РІРѕСЃС‚РѕСЂРі РІР»РёРІР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В земной борьбе наш щит - в мольбе,</plain>
+            <plain>Р’ Р·РµРјРЅРѕР№ Р±РѕСЂСЊР±Рµ РЅР°С€ С‰РёС‚ - РІ РјРѕР»СЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>В ней сила и опора.</plain>
+            <plain>Р’ РЅРµР№ СЃРёР»Р° Рё РѕРїРѕСЂР°.</plain>
         </string>
         <string>
-            <plain>Открыт Отцом нам вечный дом,</plain>
+            <plain>РћС‚РєСЂС‹С‚ РћС‚С†РѕРј РЅР°Рј РІРµС‡РЅС‹Р№ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Туда войдем мы скоро.</plain>
+            <plain>РўСѓРґР° РІРѕР№РґРµРј РјС‹ СЃРєРѕСЂРѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О вечный дом! В тебе одном</plain>
+            <plain>Рћ РІРµС‡РЅС‹Р№ РґРѕРј! Р’ С‚РµР±Рµ РѕРґРЅРѕРј</plain>
         </string>
         <string>
-            <plain>Сердца тревог не знают;</plain>
+            <plain>РЎРµСЂРґС†Р° С‚СЂРµРІРѕРі РЅРµ Р·РЅР°СЋС‚;</plain>
         </string>
         <string>
-            <plain>Как счастлив тот, кто в дом войдет,</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ С‚РѕС‚, РєС‚Рѕ РІ РґРѕРј РІРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Кого там ожидают!</plain>
+            <plain>РљРѕРіРѕ С‚Р°Рј РѕР¶РёРґР°СЋС‚!</plain>
         </string>
     </verse>
 </psalm>

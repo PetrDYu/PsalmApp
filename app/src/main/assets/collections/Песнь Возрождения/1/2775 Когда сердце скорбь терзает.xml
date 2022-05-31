@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2775" name="Когда сердце скорбь терзает" canon="false" text="" textRus="" music="">
+<psalm number="2775" name="РљРѕРіРґР° СЃРµСЂРґС†Рµ СЃРєРѕСЂР±СЊ С‚РµСЂР·Р°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Когда сердце скорбь терзает,</plain>
+            <plain>РљРѕРіРґР° СЃРµСЂРґС†Рµ СЃРєРѕСЂР±СЊ С‚РµСЂР·Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Будь со мной!</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
         <string>
-            <plain>Душу страхом враг пугает,</plain>
+            <plain>Р”СѓС€Сѓ СЃС‚СЂР°С…РѕРј РІСЂР°Рі РїСѓРіР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Будь со мной!</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Будь со мной, о мой Спаситель,</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№, Рѕ РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Мне так нужен Твой покой,</plain>
+            <plain>РњРЅРµ С‚Р°Рє РЅСѓР¶РµРЅ РўРІРѕР№ РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Когда в вере я слабею,</plain>
+            <plain>РљРѕРіРґР° РІ РІРµСЂРµ СЏ СЃР»Р°Р±РµСЋ,</plain>
         </string>
         <string>
-            <plain>Мой Спаситель, будь со мной!</plain>
+            <plain>РњРѕР№ РЎРїР°СЃРёС‚РµР»СЊ, Р±СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бремя ль жизни угнетает,</plain>
+            <plain>Р‘СЂРµРјСЏ Р»СЊ Р¶РёР·РЅРё СѓРіРЅРµС‚Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Будь со мной!</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
         <string>
-            <plain>Искушенья ль побеждают,</plain>
+            <plain>РСЃРєСѓС€РµРЅСЊСЏ Р»СЊ РїРѕР±РµР¶РґР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Будь со мной!</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Коль друзья меня оставят,</plain>
+            <plain>РљРѕР»СЊ РґСЂСѓР·СЊСЏ РјРµРЅСЏ РѕСЃС‚Р°РІСЏС‚,</plain>
         </string>
         <string>
-            <plain>Будь со мной!</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
         <string>
-            <plain>А враги злобу проявят,</plain>
+            <plain>Рђ РІСЂР°РіРё Р·Р»РѕР±Сѓ РїСЂРѕСЏРІСЏС‚,</plain>
         </string>
         <string>
-            <plain>Будь со мной!</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2395" name="Что стоишь ты на распутьи" canon="false" text="" textRus="" music="">
+<psalm number="2395" name="Р§С‚Рѕ СЃС‚РѕРёС€СЊ С‚С‹ РЅР° СЂР°СЃРїСѓС‚СЊРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Что стоишь ты на распутьи</plain>
+            <plain>Р§С‚Рѕ СЃС‚РѕРёС€СЊ С‚С‹ РЅР° СЂР°СЃРїСѓС‚СЊРё</plain>
         </string>
         <string>
-            <plain>С сердцем раненым в груди?</plain>
+            <plain>РЎ СЃРµСЂРґС†РµРј СЂР°РЅРµРЅС‹Рј РІ РіСЂСѓРґРё?</plain>
         </string>
         <string>
-            <plain>Друг мой бедный, где блуждаешь</plain>
+            <plain>Р”СЂСѓРі РјРѕР№ Р±РµРґРЅС‹Р№, РіРґРµ Р±Р»СѓР¶РґР°РµС€СЊ</plain>
         </string>
         <string>
-            <plain>От любви Христа вдали?</plain>
+            <plain>РћС‚ Р»СЋР±РІРё РҐСЂРёСЃС‚Р° РІРґР°Р»Рё?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Время незаметно пролетит</plain>
+            <plain>Р’СЂРµРјСЏ РЅРµР·Р°РјРµС‚РЅРѕ РїСЂРѕР»РµС‚РёС‚</plain>
         </string>
         <string>
-            <plain>- Ты стоишь разбит врагом души.</plain>
+            <plain>- РўС‹ СЃС‚РѕРёС€СЊ СЂР°Р·Р±РёС‚ РІСЂР°РіРѕРј РґСѓС€Рё.</plain>
         </string>
         <string>
-            <plain>Старость заглянула в твои глаза,</plain>
+            <plain>РЎС‚Р°СЂРѕСЃС‚СЊ Р·Р°РіР»СЏРЅСѓР»Р° РІ С‚РІРѕРё РіР»Р°Р·Р°,</plain>
         </string>
         <string>
-            <plain>А там уж конец борьбы.</plain>
+            <plain>Рђ С‚Р°Рј СѓР¶ РєРѕРЅРµС† Р±РѕСЂСЊР±С‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Что стоишь ты на распутье,</plain>
+            <plain>Р§С‚Рѕ СЃС‚РѕРёС€СЊ С‚С‹ РЅР° СЂР°СЃРїСѓС‚СЊРµ,</plain>
         </string>
         <string>
-            <plain>Не решился до сих пор.</plain>
+            <plain>РќРµ СЂРµС€РёР»СЃСЏ РґРѕ СЃРёС… РїРѕСЂ.</plain>
         </string>
         <string>
-            <plain>О, если б ты знал как нежна,</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ Р·РЅР°Р» РєР°Рє РЅРµР¶РЅР°,</plain>
         </string>
         <string>
-            <plain>Как сильна Его любовь.</plain>
+            <plain>РљР°Рє СЃРёР»СЊРЅР° Р•РіРѕ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, приди к Нему скорее</plain>
+            <plain>Рћ, РїСЂРёРґРё Рє РќРµРјСѓ СЃРєРѕСЂРµРµ</plain>
         </string>
         <string>
-            <plain>И у ног святых пади.</plain>
+            <plain>Р Сѓ РЅРѕРі СЃРІСЏС‚С‹С… РїР°РґРё.</plain>
         </string>
         <string>
-            <plain>Ведь любовь Его безмерна,</plain>
+            <plain>Р’РµРґСЊ Р»СЋР±РѕРІСЊ Р•РіРѕ Р±РµР·РјРµСЂРЅР°,</plain>
         </string>
         <string>
-            <plain>И готов Он всех спасти.</plain>
+            <plain>Р РіРѕС‚РѕРІ РћРЅ РІСЃРµС… СЃРїР°СЃС‚Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И Он даст тебе спасены,</plain>
+            <plain>Р РћРЅ РґР°СЃС‚ С‚РµР±Рµ СЃРїР°СЃРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Грех души твоей сотрет.</plain>
+            <plain>Р“СЂРµС… РґСѓС€Рё С‚РІРѕРµР№ СЃРѕС‚СЂРµС‚.</plain>
         </string>
         <string>
-            <plain>Его голос вот сегодня</plain>
+            <plain>Р•РіРѕ РіРѕР»РѕСЃ РІРѕС‚ СЃРµРіРѕРґРЅСЏ</plain>
         </string>
         <string>
-            <plain>Нежно так тебя зовет.</plain>
+            <plain>РќРµР¶РЅРѕ С‚Р°Рє С‚РµР±СЏ Р·РѕРІРµС‚.</plain>
         </string>
     </verse>
 </psalm>

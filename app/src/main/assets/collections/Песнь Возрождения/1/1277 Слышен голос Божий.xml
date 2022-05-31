@@ -1,98 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1277" name="Слышен голос Божий" canon="false" text="" textRus="" music="">
+<psalm number="1277" name="РЎР»С‹С€РµРЅ РіРѕР»РѕСЃ Р‘РѕР¶РёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слышен голос Божий,</plain>
+            <plain>РЎР»С‹С€РµРЅ РіРѕР»РѕСЃ Р‘РѕР¶РёР№,</plain>
         </string>
         <string>
-            <plain>Суд Его идет.</plain>
+            <plain>РЎСѓРґ Р•РіРѕ РёРґРµС‚.</plain>
         </string>
         <string>
-            <plain>Холодных, беспечных</plain>
+            <plain>РҐРѕР»РѕРґРЅС‹С…, Р±РµСЃРїРµС‡РЅС‹С…</plain>
         </string>
         <string>
-            <plain>Осужденье ждет.</plain>
+            <plain>РћСЃСѓР¶РґРµРЅСЊРµ Р¶РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Знай же, брат мой милый.</plain>
+            <plain>Р—РЅР°Р№ Р¶Рµ, Р±СЂР°С‚ РјРѕР№ РјРёР»С‹Р№.</plain>
         </string>
         <string>
-            <plain>Можно все вернуть</plain>
+            <plain>РњРѕР¶РЅРѕ РІСЃРµ РІРµСЂРЅСѓС‚СЊ</plain>
         </string>
         <string>
-            <plain>Через покаянье,</plain>
+            <plain>Р§РµСЂРµР· РїРѕРєР°СЏРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>через узкий путь.</plain>
+            <plain>С‡РµСЂРµР· СѓР·РєРёР№ РїСѓС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если ты утратил первую любовь.</plain>
+            <plain>Р•СЃР»Рё С‚С‹ СѓС‚СЂР°С‚РёР» РїРµСЂРІСѓСЋ Р»СЋР±РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Ближнему ты брату</plain>
+            <plain>Р‘Р»РёР¶РЅРµРјСѓ С‚С‹ Р±СЂР°С‚Сѓ</plain>
         </string>
         <string>
-            <plain>Стал совсем врагом.</plain>
+            <plain>РЎС‚Р°Р» СЃРѕРІСЃРµРј РІСЂР°РіРѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Гневаясь на брата,</plain>
+            <plain>Р“РЅРµРІР°СЏСЃСЊ РЅР° Р±СЂР°С‚Р°,</plain>
         </string>
         <string>
-            <plain>Ты не согрешай,</plain>
+            <plain>РўС‹ РЅРµ СЃРѕРіСЂРµС€Р°Р№,</plain>
         </string>
         <string>
-            <plain>Солнце уж заходит,</plain>
+            <plain>РЎРѕР»РЅС†Рµ СѓР¶ Р·Р°С…РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>ты скорей прощай.</plain>
+            <plain>С‚С‹ СЃРєРѕСЂРµР№ РїСЂРѕС‰Р°Р№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Подойди поближе,</plain>
+            <plain>РџРѕРґРѕР№РґРё РїРѕР±Р»РёР¶Рµ,</plain>
         </string>
         <string>
-            <plain>обними сильней.</plain>
+            <plain>РѕР±РЅРёРјРё СЃРёР»СЊРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Нежною улыбкой</plain>
+            <plain>РќРµР¶РЅРѕСЋ СѓР»С‹Р±РєРѕР№</plain>
         </string>
         <string>
-            <plain>Сердце обогрей.</plain>
+            <plain>РЎРµСЂРґС†Рµ РѕР±РѕРіСЂРµР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>К ночи будет поздно,</plain>
+            <plain>Рљ РЅРѕС‡Рё Р±СѓРґРµС‚ РїРѕР·РґРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Когда зло придет,</plain>
+            <plain>РљРѕРіРґР° Р·Р»Рѕ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Ужасом и страхом</plain>
+            <plain>РЈР¶Р°СЃРѕРј Рё СЃС‚СЂР°С…РѕРј</plain>
         </string>
         <string>
-            <plain>Мир весь обоймет.</plain>
+            <plain>РњРёСЂ РІРµСЃСЊ РѕР±РѕР№РјРµС‚.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Поздно будет, поздно,</plain>
+            <plain>РџРѕР·РґРЅРѕ Р±СѓРґРµС‚, РїРѕР·РґРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Дня уж не вернешь.</plain>
+            <plain>Р”РЅСЏ СѓР¶ РЅРµ РІРµСЂРЅРµС€СЊ.</plain>
         </string>
         <string>
-            <plain>То, что ты посеял</plain>
+            <plain>РўРѕ, С‡С‚Рѕ С‚С‹ РїРѕСЃРµСЏР»</plain>
         </string>
         <string>
-            <plain>- В вечности пожнешь.</plain>
+            <plain>- Р’ РІРµС‡РЅРѕСЃС‚Рё РїРѕР¶РЅРµС€СЊ.</plain>
         </string>
     </verse>
 </psalm>

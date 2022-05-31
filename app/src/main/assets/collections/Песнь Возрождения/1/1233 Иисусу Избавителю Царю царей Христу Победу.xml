@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1233" name="Иисусу Избавителю Царю царей Христу Победу" canon="false" text="" textRus="" music="">
+<psalm number="1233" name="РРёСЃСѓСЃСѓ РР·Р±Р°РІРёС‚РµР»СЋ Р¦Р°СЂСЋ С†Р°СЂРµР№ РҐСЂРёСЃС‚Сѓ РџРѕР±РµРґСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисусу, Избавителю,</plain>
+            <plain>РРёСЃСѓСЃСѓ, РР·Р±Р°РІРёС‚РµР»СЋ,</plain>
         </string>
         <string>
-            <plain>Царю царей, Христу,</plain>
+            <plain>Р¦Р°СЂСЋ С†Р°СЂРµР№, РҐСЂРёСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Победу, славу, честь, хвалу</plain>
+            <plain>РџРѕР±РµРґСѓ, СЃР»Р°РІСѓ, С‡РµСЃС‚СЊ, С…РІР°Р»Сѓ</plain>
         </string>
         <string>
-            <plain>Воздайте, весь народ.</plain>
+            <plain>Р’РѕР·РґР°Р№С‚Рµ, РІРµСЃСЊ РЅР°СЂРѕРґ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пусть каждый воспоет (Пусть воспоет)</plain>
+            <plain>РџСѓСЃС‚СЊ РєР°Р¶РґС‹Р№ РІРѕСЃРїРѕРµС‚ (РџСѓСЃС‚СЊ РІРѕСЃРїРѕРµС‚)</plain>
         </string>
         <string>
-            <plain>Пусть каждый воспоет (Пусть воспоет)</plain>
+            <plain>РџСѓСЃС‚СЊ РєР°Р¶РґС‹Р№ РІРѕСЃРїРѕРµС‚ (РџСѓСЃС‚СЊ РІРѕСЃРїРѕРµС‚)</plain>
         </string>
         <string>
-            <plain>Ту повесть вечно новую.</plain>
+            <plain>РўСѓ РїРѕРІРµСЃС‚СЊ РІРµС‡РЅРѕ РЅРѕРІСѓСЋ.</plain>
         </string>
         <string>
-            <plain>Милость, радость Божию</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ, СЂР°РґРѕСЃС‚СЊ Р‘РѕР¶РёСЋ</plain>
         </string>
         <string>
-            <plain>Пусть каждый воспоет (Пусть воспоет).</plain>
+            <plain>РџСѓСЃС‚СЊ РєР°Р¶РґС‹Р№ РІРѕСЃРїРѕРµС‚ (РџСѓСЃС‚СЊ РІРѕСЃРїРѕРµС‚).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он силу ада победил</plain>
+            <plain>РћРЅ СЃРёР»Сѓ Р°РґР° РїРѕР±РµРґРёР»</plain>
         </string>
         <string>
-            <plain>И Кровь за нас пролил,</plain>
+            <plain>Р РљСЂРѕРІСЊ Р·Р° РЅР°СЃ РїСЂРѕР»РёР»,</plain>
         </string>
         <string>
-            <plain>От вечной смерти искупил</plain>
+            <plain>РћС‚ РІРµС‡РЅРѕР№ СЃРјРµСЂС‚Рё РёСЃРєСѓРїРёР»</plain>
         </string>
         <string>
-            <plain>И жизнь вовек дает.</plain>
+            <plain>Р Р¶РёР·РЅСЊ РІРѕРІРµРє РґР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Придите, жаждущие все,</plain>
+            <plain>РџСЂРёРґРёС‚Рµ, Р¶Р°Р¶РґСѓС‰РёРµ РІСЃРµ,</plain>
         </string>
         <string>
-            <plain>К живой воды реке!</plain>
+            <plain>Рљ Р¶РёРІРѕР№ РІРѕРґС‹ СЂРµРєРµ!</plain>
         </string>
         <string>
-            <plain>И утоление душе,</plain>
+            <plain>Р СѓС‚РѕР»РµРЅРёРµ РґСѓС€Рµ,</plain>
         </string>
         <string>
-            <plain>Кто верует - найдет.</plain>
+            <plain>РљС‚Рѕ РІРµСЂСѓРµС‚ - РЅР°Р№РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Измучен ли грехами ты,</plain>
+            <plain>РР·РјСѓС‡РµРЅ Р»Рё РіСЂРµС…Р°РјРё С‚С‹,</plain>
         </string>
         <string>
-            <plain>На крест, на крест гляди!</plain>
+            <plain>РќР° РєСЂРµСЃС‚, РЅР° РєСЂРµСЃС‚ РіР»СЏРґРё!</plain>
         </string>
         <string>
-            <plain>Христа распятого проси,</plain>
+            <plain>РҐСЂРёСЃС‚Р° СЂР°СЃРїСЏС‚РѕРіРѕ РїСЂРѕСЃРё,</plain>
         </string>
         <string>
-            <plain>И в сердце мир войдет.</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ РјРёСЂ РІРѕР№РґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

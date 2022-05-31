@@ -1,78 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2828" name="О совершеннейший союз" canon="false" text="" textRus="" music="">
+<psalm number="2828" name="Рћ СЃРѕРІРµСЂС€РµРЅРЅРµР№С€РёР№ СЃРѕСЋР·" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О совершеннейший союз,</plain>
+            <plain>Рћ СЃРѕРІРµСЂС€РµРЅРЅРµР№С€РёР№ СЃРѕСЋР·,</plain>
         </string>
         <string>
-            <plain>ты - Духа побужденье;</plain>
+            <plain>С‚С‹ - Р”СѓС…Р° РїРѕР±СѓР¶РґРµРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>О братская любовь в Христе,</plain>
+            <plain>Рћ Р±СЂР°С‚СЃРєР°СЏ Р»СЋР±РѕРІСЊ РІ РҐСЂРёСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>ты - неба предвкушенье!</plain>
+            <plain>С‚С‹ - РЅРµР±Р° РїСЂРµРґРІРєСѓС€РµРЅСЊРµ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О братья, лишь любовь Христа нас всех соединяет;</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ, Р»РёС€СЊ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р° РЅР°СЃ РІСЃРµС… СЃРѕРµРґРёРЅСЏРµС‚;</plain>
         </string>
         <string>
-            <plain>Одно стремленье, цель одна в Христе объединяет.</plain>
+            <plain>РћРґРЅРѕ СЃС‚СЂРµРјР»РµРЅСЊРµ, С†РµР»СЊ РѕРґРЅР° РІ РҐСЂРёСЃС‚Рµ РѕР±СЉРµРґРёРЅСЏРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На небе и земле любовь</plain>
+            <plain>РќР° РЅРµР±Рµ Рё Р·РµРјР»Рµ Р»СЋР±РѕРІСЊ</plain>
         </string>
         <string>
-            <plain>святых объединяет;</plain>
+            <plain>СЃРІСЏС‚С‹С… РѕР±СЉРµРґРёРЅСЏРµС‚;</plain>
         </string>
         <string>
-            <plain>всех, кто спасение нашел</plain>
+            <plain>РІСЃРµС…, РєС‚Рѕ СЃРїР°СЃРµРЅРёРµ РЅР°С€РµР»</plain>
         </string>
         <string>
-            <plain>и в Боге пребывает.</plain>
+            <plain>Рё РІ Р‘РѕРіРµ РїСЂРµР±С‹РІР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Любовь, что нам Господь дает,</plain>
+            <plain>Р›СЋР±РѕРІСЊ, С‡С‚Рѕ РЅР°Рј Р“РѕСЃРїРѕРґСЊ РґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>связала нас навеки; ничто ту связь не разорвет,</plain>
+            <plain>СЃРІСЏР·Р°Р»Р° РЅР°СЃ РЅР°РІРµРєРё; РЅРёС‡С‚Рѕ С‚Сѓ СЃРІСЏР·СЊ РЅРµ СЂР°Р·РѕСЂРІРµС‚,</plain>
         </string>
         <string>
-            <plain>она сильнее смерти.</plain>
+            <plain>РѕРЅР° СЃРёР»СЊРЅРµРµ СЃРјРµСЂС‚Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Кто Бога познает и чтит</plain>
+            <plain>РљС‚Рѕ Р‘РѕРіР° РїРѕР·РЅР°РµС‚ Рё С‡С‚РёС‚</plain>
         </string>
         <string>
-            <plain>- Его родные дети.</plain>
+            <plain>- Р•РіРѕ СЂРѕРґРЅС‹Рµ РґРµС‚Рё.</plain>
         </string>
         <string>
-            <plain>Ни мир, ни ад не разлучит</plain>
+            <plain>РќРё РјРёСЂ, РЅРё Р°Рґ РЅРµ СЂР°Р·Р»СѓС‡РёС‚</plain>
         </string>
         <string>
-            <plain>Его детей вовеки.</plain>
+            <plain>Р•РіРѕ РґРµС‚РµР№ РІРѕРІРµРєРё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Союз небесной чистоты,</plain>
+            <plain>РЎРѕСЋР· РЅРµР±РµСЃРЅРѕР№ С‡РёСЃС‚РѕС‚С‹,</plain>
         </string>
         <string>
-            <plain>о тайна совершенства,</plain>
+            <plain>Рѕ С‚Р°Р№РЅР° СЃРѕРІРµСЂС€РµРЅСЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>ты крепче нас соедини</plain>
+            <plain>С‚С‹ РєСЂРµРїС‡Рµ РЅР°СЃ СЃРѕРµРґРёРЅРё</plain>
         </string>
         <string>
-            <plain>и сохрани в единстве.</plain>
+            <plain>Рё СЃРѕС…СЂР°РЅРё РІ РµРґРёРЅСЃС‚РІРµ.</plain>
         </string>
     </verse>
 </psalm>

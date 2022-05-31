@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="528" name="Есть ясный лучший мир иной" canon="false" text="" textRus="" music="">
+<psalm number="528" name="Р•СЃС‚СЊ СЏСЃРЅС‹Р№ Р»СѓС‡С€РёР№ РјРёСЂ РёРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Есть ясный лучший мир иной,</plain>
+            <plain>Р•СЃС‚СЊ СЏСЃРЅС‹Р№ Р»СѓС‡С€РёР№ РјРёСЂ РёРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Светлый мир! Светлый мир!</plain>
+            <plain>РЎРІРµС‚Р»С‹Р№ РјРёСЂ! РЎРІРµС‚Р»С‹Р№ РјРёСЂ!</plain>
         </string>
         <string>
-            <plain>Там нет печали никакой –</plain>
+            <plain>РўР°Рј РЅРµС‚ РїРµС‡Р°Р»Рё РЅРёРєР°РєРѕР№ вЂ“</plain>
         </string>
         <string>
-            <plain>Чудный край! Чудный край!</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РєСЂР°Р№! Р§СѓРґРЅС‹Р№ РєСЂР°Р№!</plain>
         </string>
         <string>
-            <plain>Святые песни там поют,</plain>
+            <plain>РЎРІСЏС‚С‹Рµ РїРµСЃРЅРё С‚Р°Рј РїРѕСЋС‚,</plain>
         </string>
         <string>
-            <plain>Там духи светлые живут;</plain>
+            <plain>РўР°Рј РґСѓС…Рё СЃРІРµС‚Р»С‹Рµ Р¶РёРІСѓС‚;</plain>
         </string>
         <string>
-            <plain>Никто не знает там греха;</plain>
+            <plain>РќРёРєС‚Рѕ РЅРµ Р·РЅР°РµС‚ С‚Р°Рј РіСЂРµС…Р°;</plain>
         </string>
         <string>
-            <plain>Светлый мир? Светлый мир!</plain>
+            <plain>РЎРІРµС‚Р»С‹Р№ РјРёСЂ? РЎРІРµС‚Р»С‹Р№ РјРёСЂ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Нет туч на небе голубом, -</plain>
+            <plain>РќРµС‚ С‚СѓС‡ РЅР° РЅРµР±Рµ РіРѕР»СѓР±РѕРј, -</plain>
         </string>
         <string>
-            <plain>Чудный край! Чудный край!</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РєСЂР°Р№! Р§СѓРґРЅС‹Р№ РєСЂР°Р№!</plain>
         </string>
         <string>
-            <plain>Никто не стонет под трудом;</plain>
+            <plain>РќРёРєС‚Рѕ РЅРµ СЃС‚РѕРЅРµС‚ РїРѕРґ С‚СЂСѓРґРѕРј;</plain>
         </string>
         <string>
-            <plain>Божий рай! Божий рай!</plain>
+            <plain>Р‘РѕР¶РёР№ СЂР°Р№! Р‘РѕР¶РёР№ СЂР°Р№!</plain>
         </string>
         <string>
-            <plain>Все радости там без конца</plain>
+            <plain>Р’СЃРµ СЂР°РґРѕСЃС‚Рё С‚Р°Рј Р±РµР· РєРѕРЅС†Р°</plain>
         </string>
         <string>
-            <plain>Пред ликом Господа Отца;</plain>
+            <plain>РџСЂРµРґ Р»РёРєРѕРј Р“РѕСЃРїРѕРґР° РћС‚С†Р°;</plain>
         </string>
         <string>
-            <plain>Все там ликует в мире том;</plain>
+            <plain>Р’СЃРµ С‚Р°Рј Р»РёРєСѓРµС‚ РІ РјРёСЂРµ С‚РѕРј;</plain>
         </string>
         <string>
-            <plain>Чудный край! Чудный край!</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РєСЂР°Р№! Р§СѓРґРЅС‹Р№ РєСЂР°Р№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хоть мы виновны пред Христом,</plain>
+            <plain>РҐРѕС‚СЊ РјС‹ РІРёРЅРѕРІРЅС‹ РїСЂРµРґ РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Он нас спас! Он нас спас!</plain>
+            <plain>РћРЅ РЅР°СЃ СЃРїР°СЃ! РћРЅ РЅР°СЃ СЃРїР°СЃ!</plain>
         </string>
         <string>
-            <plain>Хотя весь мир объят грехом,</plain>
+            <plain>РҐРѕС‚СЏ РІРµСЃСЊ РјРёСЂ РѕР±СЉСЏС‚ РіСЂРµС…РѕРј,</plain>
         </string>
         <string>
-            <plain>Он нас спас! Он нас спас!</plain>
+            <plain>РћРЅ РЅР°СЃ СЃРїР°СЃ! РћРЅ РЅР°СЃ СЃРїР°СЃ!</plain>
         </string>
         <string>
-            <plain>И кто пришел за нас терпеть,</plain>
+            <plain>Р РєС‚Рѕ РїСЂРёС€РµР» Р·Р° РЅР°СЃ С‚РµСЂРїРµС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Тот может все вины стереть,</plain>
+            <plain>РўРѕС‚ РјРѕР¶РµС‚ РІСЃРµ РІРёРЅС‹ СЃС‚РµСЂРµС‚СЊ,</plain>
         </string>
         <string>
-            <plain>В страну блаженства вновь ввести;</plain>
+            <plain>Р’ СЃС‚СЂР°РЅСѓ Р±Р»Р°Р¶РµРЅСЃС‚РІР° РІРЅРѕРІСЊ РІРІРµСЃС‚Рё;</plain>
         </string>
         <string>
-            <plain>Он нас спас! Он нас спас!</plain>
+            <plain>РћРЅ РЅР°СЃ СЃРїР°СЃ! РћРЅ РЅР°СЃ СЃРїР°СЃ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Идите все Его путем,</plain>
+            <plain>РРґРёС‚Рµ РІСЃРµ Р•РіРѕ РїСѓС‚РµРј,</plain>
         </string>
         <string>
-            <plain>Вслед за Ним! Вслед за Ним!</plain>
+            <plain>Р’СЃР»РµРґ Р·Р° РќРёРј! Р’СЃР»РµРґ Р·Р° РќРёРј!</plain>
         </string>
         <string>
-            <plain>Идите все в Отцовский дом,</plain>
+            <plain>РРґРёС‚Рµ РІСЃРµ РІ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Вслед за Ним! Вслед за Ним!</plain>
+            <plain>Р’СЃР»РµРґ Р·Р° РќРёРј! Р’СЃР»РµРґ Р·Р° РќРёРј!</plain>
         </string>
         <string>
-            <plain>Спешите, время нас не ждет,</plain>
+            <plain>РЎРїРµС€РёС‚Рµ, РІСЂРµРјСЏ РЅР°СЃ РЅРµ Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Но все спешит оно вперед;</plain>
+            <plain>РќРѕ РІСЃРµ СЃРїРµС€РёС‚ РѕРЅРѕ РІРїРµСЂРµРґ;</plain>
         </string>
         <string>
-            <plain>Уж скоро час наш подойдет,</plain>
+            <plain>РЈР¶ СЃРєРѕСЂРѕ С‡Р°СЃ РЅР°С€ РїРѕРґРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Вслед за Ним! Вслед за Ним!</plain>
+            <plain>Р’СЃР»РµРґ Р·Р° РќРёРј! Р’СЃР»РµРґ Р·Р° РќРёРј!</plain>
         </string>
     </verse>
 </psalm>

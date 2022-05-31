@@ -1,77 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="131" name="О Иисус достоин Ты" canon="false" text="" textRus="" music="">
+<psalm number="131" name="Рћ РРёСЃСѓСЃ РґРѕСЃС‚РѕРёРЅ РўС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Иисус, достоин Ты</plain>
+            <plain>Рћ РРёСЃСѓСЃ, РґРѕСЃС‚РѕРёРЅ РўС‹</plain>
         </string>
         <string>
-            <plain>Славы, чести на земле,</plain>
+            <plain>РЎР»Р°РІС‹, С‡РµСЃС‚Рё РЅР° Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>Славу, честь от нас принять всегда,</plain>
+            <plain>РЎР»Р°РІСѓ, С‡РµСЃС‚СЊ РѕС‚ РЅР°СЃ РїСЂРёРЅСЏС‚СЊ РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>И от сердца полноты</plain>
+            <plain>Р РѕС‚ СЃРµСЂРґС†Р° РїРѕР»РЅРѕС‚С‹</plain>
         </string>
         <string>
-            <plain>Песнь пою Тебе везде.</plain>
+            <plain>РџРµСЃРЅСЊ РїРѕСЋ РўРµР±Рµ РІРµР·РґРµ.</plain>
         </string>
         <string>
-            <plain>Буду петь Тебе всегда везде.</plain>
+            <plain>Р‘СѓРґСѓ РїРµС‚СЊ РўРµР±Рµ РІСЃРµРіРґР° РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Оторви от мира нас,</plain>
+            <plain>РћС‚РѕСЂРІРё РѕС‚ РјРёСЂР° РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>О Тебе дай размышлять,</plain>
+            <plain>Рћ РўРµР±Рµ РґР°Р№ СЂР°Р·РјС‹С€Р»СЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Укрепляй нас каждый час,</plain>
+            <plain>РЈРєСЂРµРїР»СЏР№ РЅР°СЃ РєР°Р¶РґС‹Р№ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Чтоб Тебя лишь прославлять!</plain>
+            <plain>Р§С‚РѕР± РўРµР±СЏ Р»РёС€СЊ РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты из праха нас создал,</plain>
+            <plain>РўС‹ РёР· РїСЂР°С…Р° РЅР°СЃ СЃРѕР·РґР°Р»,</plain>
         </string>
         <string>
-            <plain>В чудный мир к Себе призвал,</plain>
+            <plain>Р’ С‡СѓРґРЅС‹Р№ РјРёСЂ Рє РЎРµР±Рµ РїСЂРёР·РІР°Р»,</plain>
         </string>
         <string>
-            <plain>В чудный мир Ты нас к Себе призвал,</plain>
+            <plain>Р’ С‡СѓРґРЅС‹Р№ РјРёСЂ РўС‹ РЅР°СЃ Рє РЎРµР±Рµ РїСЂРёР·РІР°Р»,</plain>
         </string>
         <string>
-            <plain>Своею кровью нас омыл,</plain>
+            <plain>РЎРІРѕРµСЋ РєСЂРѕРІСЊСЋ РЅР°СЃ РѕРјС‹Р»,</plain>
         </string>
         <string>
-            <plain>Наши все грехи простил,</plain>
+            <plain>РќР°С€Рё РІСЃРµ РіСЂРµС…Рё РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Наши все грехи Ты нам простил.</plain>
+            <plain>РќР°С€Рё РІСЃРµ РіСЂРµС…Рё РўС‹ РЅР°Рј РїСЂРѕСЃС‚РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты призвал нас всех к Себе,</plain>
+            <plain>РўС‹ РїСЂРёР·РІР°Р» РЅР°СЃ РІСЃРµС… Рє РЎРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Глянул милостью на нас,</plain>
+            <plain>Р“Р»СЏРЅСѓР» РјРёР»РѕСЃС‚СЊСЋ РЅР° РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Глянул милостью Своей на нас;</plain>
+            <plain>Р“Р»СЏРЅСѓР» РјРёР»РѕСЃС‚СЊСЋ РЎРІРѕРµР№ РЅР° РЅР°СЃ;</plain>
         </string>
         <string>
-            <plain>И, простив грехи вполне,</plain>
+            <plain>Р, РїСЂРѕСЃС‚РёРІ РіСЂРµС…Рё РІРїРѕР»РЅРµ,</plain>
         </string>
         <string>
-            <plain>Ты хранишь нас всякий час,</plain>
+            <plain>РўС‹ С…СЂР°РЅРёС€СЊ РЅР°СЃ РІСЃСЏРєРёР№ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Ты хранишь нас всякий час в Себе.</plain>
+            <plain>РўС‹ С…СЂР°РЅРёС€СЊ РЅР°СЃ РІСЃСЏРєРёР№ С‡Р°СЃ РІ РЎРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

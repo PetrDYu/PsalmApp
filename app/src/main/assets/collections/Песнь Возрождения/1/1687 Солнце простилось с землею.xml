@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1687" name="Солнце простилось с землею" canon="false" text="" textRus="" music="">
+<psalm number="1687" name="РЎРѕР»РЅС†Рµ РїСЂРѕСЃС‚РёР»РѕСЃСЊ СЃ Р·РµРјР»РµСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Солнце простилось с землею,</plain>
+            <plain>РЎРѕР»РЅС†Рµ РїСЂРѕСЃС‚РёР»РѕСЃСЊ СЃ Р·РµРјР»РµСЋ,</plain>
         </string>
         <string>
-            <plain>Солнце сказало: Довстречи!</plain>
+            <plain>РЎРѕР»РЅС†Рµ СЃРєР°Р·Р°Р»Рѕ: Р”РѕРІСЃС‚СЂРµС‡Рё!</plain>
         </string>
         <string>
-            <plain>С первой на небе звездою</plain>
+            <plain>РЎ РїРµСЂРІРѕР№ РЅР° РЅРµР±Рµ Р·РІРµР·РґРѕСЋ</plain>
         </string>
         <string>
-            <plain>Тихо приходит к нам вечер.</plain>
+            <plain>РўРёС…Рѕ РїСЂРёС…РѕРґРёС‚ Рє РЅР°Рј РІРµС‡РµСЂ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Там, в вышине небес</plain>
+            <plain>РўР°Рј, РІ РІС‹С€РёРЅРµ РЅРµР±РµСЃ</plain>
         </string>
         <string>
-            <plain>Ангелы славят Его,</plain>
+            <plain>РђРЅРіРµР»С‹ СЃР»Р°РІСЏС‚ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>А мы здесь, на земле</plain>
+            <plain>Рђ РјС‹ Р·РґРµСЃСЊ, РЅР° Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>Славим Господню любовь.</plain>
+            <plain>РЎР»Р°РІРёРј Р“РѕСЃРїРѕРґРЅСЋ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сумрачней стало и глуше,</plain>
+            <plain>РЎСѓРјСЂР°С‡РЅРµР№ СЃС‚Р°Р»Рѕ Рё РіР»СѓС€Рµ,</plain>
         </string>
         <string>
-            <plain>Птицы заснули в гнездах.</plain>
+            <plain>РџС‚РёС†С‹ Р·Р°СЃРЅСѓР»Рё РІ РіРЅРµР·РґР°С….</plain>
         </string>
         <string>
-            <plain>Не уходи, послушай.</plain>
+            <plain>РќРµ СѓС…РѕРґРё, РїРѕСЃР»СѓС€Р°Р№.</plain>
         </string>
         <string>
-            <plain>Как напевают звезды.</plain>
+            <plain>РљР°Рє РЅР°РїРµРІР°СЋС‚ Р·РІРµР·РґС‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Гимн их торжественно плавный,</plain>
+            <plain>Р“РёРјРЅ РёС… С‚РѕСЂР¶РµСЃС‚РІРµРЅРЅРѕ РїР»Р°РІРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Песнь Сотворившему все.</plain>
+            <plain>РџРµСЃРЅСЊ РЎРѕС‚РІРѕСЂРёРІС€РµРјСѓ РІСЃРµ.</plain>
         </string>
         <string>
-            <plain>Слава Христу, слава,</plain>
+            <plain>РЎР»Р°РІР° РҐСЂРёСЃС‚Сѓ, СЃР»Р°РІР°,</plain>
         </string>
         <string>
-            <plain>- Пусть воспевают все.</plain>
+            <plain>- РџСѓСЃС‚СЊ РІРѕСЃРїРµРІР°СЋС‚ РІСЃРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если тревожит душу</plain>
+            <plain>Р•СЃР»Рё С‚СЂРµРІРѕР¶РёС‚ РґСѓС€Сѓ</plain>
         </string>
         <string>
-            <plain>Мысль, для чего я создан,</plain>
+            <plain>РњС‹СЃР»СЊ, РґР»СЏ С‡РµРіРѕ СЏ СЃРѕР·РґР°РЅ,</plain>
         </string>
         <string>
-            <plain>- Не уходи, послушай:</plain>
+            <plain>- РќРµ СѓС…РѕРґРё, РїРѕСЃР»СѓС€Р°Р№:</plain>
         </string>
         <string>
-            <plain>Славят Создателя звезды.</plain>
+            <plain>РЎР»Р°РІСЏС‚ РЎРѕР·РґР°С‚РµР»СЏ Р·РІРµР·РґС‹.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Голос свой влей в их пенье.</plain>
+            <plain>Р“РѕР»РѕСЃ СЃРІРѕР№ РІР»РµР№ РІ РёС… РїРµРЅСЊРµ.</plain>
         </string>
         <string>
-            <plain>Всем о любви скажи,</plain>
+            <plain>Р’СЃРµРј Рѕ Р»СЋР±РІРё СЃРєР°Р¶Рё,</plain>
         </string>
         <string>
-            <plain>Чтоб к небесам стремленье</plain>
+            <plain>Р§С‚РѕР± Рє РЅРµР±РµСЃР°Рј СЃС‚СЂРµРјР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>В души людей вложить.</plain>
+            <plain>Р’ РґСѓС€Рё Р»СЋРґРµР№ РІР»РѕР¶РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

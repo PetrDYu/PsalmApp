@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1173" name="Прости за время что прожито" canon="false" text="" textRus="" music="">
+<psalm number="1173" name="РџСЂРѕСЃС‚Рё Р·Р° РІСЂРµРјСЏ С‡С‚Рѕ РїСЂРѕР¶РёС‚Рѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Прости за время, что прожито.</plain>
+            <plain>РџСЂРѕСЃС‚Рё Р·Р° РІСЂРµРјСЏ, С‡С‚Рѕ РїСЂРѕР¶РёС‚Рѕ.</plain>
         </string>
         <string>
-            <plain>За дни бесплодные прости.</plain>
+            <plain>Р—Р° РґРЅРё Р±РµСЃРїР»РѕРґРЅС‹Рµ РїСЂРѕСЃС‚Рё.</plain>
         </string>
         <string>
-            <plain>За все, что помню, что забыто,</plain>
+            <plain>Р—Р° РІСЃРµ, С‡С‚Рѕ РїРѕРјРЅСЋ, С‡С‚Рѕ Р·Р°Р±С‹С‚Рѕ,</plain>
         </string>
         <string>
-            <plain>Прости как грешника, прости.</plain>
+            <plain>РџСЂРѕСЃС‚Рё РєР°Рє РіСЂРµС€РЅРёРєР°, РїСЂРѕСЃС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Прости меня, со мною будь,</plain>
+            <plain>РџСЂРѕСЃС‚Рё РјРµРЅСЏ, СЃРѕ РјРЅРѕСЋ Р±СѓРґСЊ,</plain>
         </string>
         <string>
-            <plain>Не оставляй меня!</plain>
+            <plain>РќРµ РѕСЃС‚Р°РІР»СЏР№ РјРµРЅСЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Прости, что часто огорчаю</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С‡С‚Рѕ С‡Р°СЃС‚Рѕ РѕРіРѕСЂС‡Р°СЋ</plain>
         </string>
         <string>
-            <plain>Тебя, Господь, в моем пути,</plain>
+            <plain>РўРµР±СЏ, Р“РѕСЃРїРѕРґСЊ, РІ РјРѕРµРј РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>Что часто так ослабеваю</plain>
+            <plain>Р§С‚Рѕ С‡Р°СЃС‚Рѕ С‚Р°Рє РѕСЃР»Р°Р±РµРІР°СЋ</plain>
         </string>
         <string>
-            <plain>И не могу вперед идти.</plain>
+            <plain>Р РЅРµ РјРѕРіСѓ РІРїРµСЂРµРґ РёРґС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Прости, что часто мало веры,</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С‡С‚Рѕ С‡Р°СЃС‚Рѕ РјР°Р»Рѕ РІРµСЂС‹,</plain>
         </string>
         <string>
-            <plain>Я устаю в земной борьбе.</plain>
+            <plain>РЇ СѓСЃС‚Р°СЋ РІ Р·РµРјРЅРѕР№ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
         <string>
-            <plain>Но у Тебя любви - без меры,</plain>
+            <plain>РќРѕ Сѓ РўРµР±СЏ Р»СЋР±РІРё - Р±РµР· РјРµСЂС‹,</plain>
         </string>
         <string>
-            <plain>И потому иду к Тебе.</plain>
+            <plain>Р РїРѕС‚РѕРјСѓ РёРґСѓ Рє РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хочу Тебе отдать, о, Боже,</plain>
+            <plain>РҐРѕС‡Сѓ РўРµР±Рµ РѕС‚РґР°С‚СЊ, Рѕ, Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Всю жизнь мою, мои мечты,</plain>
+            <plain>Р’СЃСЋ Р¶РёР·РЅСЊ РјРѕСЋ, РјРѕРё РјРµС‡С‚С‹,</plain>
         </string>
         <string>
-            <plain>Я верю: Ты во всем поможешь,</plain>
+            <plain>РЇ РІРµСЂСЋ: РўС‹ РІРѕ РІСЃРµРј РїРѕРјРѕР¶РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Моя надежда - только Ты.</plain>
+            <plain>РњРѕСЏ РЅР°РґРµР¶РґР° - С‚РѕР»СЊРєРѕ РўС‹.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2731" name="Моя заветная мечта" canon="false" text="" textRus="" music="">
+<psalm number="2731" name="РњРѕСЏ Р·Р°РІРµС‚РЅР°СЏ РјРµС‡С‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Моя заветная мечта:</plain>
+            <plain>РњРѕСЏ Р·Р°РІРµС‚РЅР°СЏ РјРµС‡С‚Р°:</plain>
         </string>
         <string>
-            <plain>Увидеть небо над Едемом,</plain>
+            <plain>РЈРІРёРґРµС‚СЊ РЅРµР±Рѕ РЅР°Рґ Р•РґРµРјРѕРј,</plain>
         </string>
         <string>
-            <plain>И там остаться навсегда,</plain>
+            <plain>Р С‚Р°Рј РѕСЃС‚Р°С‚СЊСЃСЏ РЅР°РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>В чудесной родине Адама.</plain>
+            <plain>Р’ С‡СѓРґРµСЃРЅРѕР№ СЂРѕРґРёРЅРµ РђРґР°РјР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Небо Едема, ты - моя песня,</plain>
+            <plain>РќРµР±Рѕ Р•РґРµРјР°, С‚С‹ - РјРѕСЏ РїРµСЃРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Небо Едема - сегодня мечта,</plain>
+            <plain>РќРµР±Рѕ Р•РґРµРјР° - СЃРµРіРѕРґРЅСЏ РјРµС‡С‚Р°,</plain>
         </string>
         <string>
-            <plain>Самая светлая, самая нежная,</plain>
+            <plain>РЎР°РјР°СЏ СЃРІРµС‚Р»Р°СЏ, СЃР°РјР°СЏ РЅРµР¶РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>В жизни моей одна.</plain>
+            <plain>Р’ Р¶РёР·РЅРё РјРѕРµР№ РѕРґРЅР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Молю Тебя, Спаситель мой,</plain>
+            <plain>РњРѕР»СЋ РўРµР±СЏ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Верни мне небо над Едемом</plain>
+            <plain>Р’РµСЂРЅРё РјРЅРµ РЅРµР±Рѕ РЅР°Рґ Р•РґРµРјРѕРј</plain>
         </string>
         <string>
-            <plain>И дай войти мне в тот покой,</plain>
+            <plain>Р РґР°Р№ РІРѕР№С‚Рё РјРЅРµ РІ С‚РѕС‚ РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Где смог бы стать я совершенным.</plain>
+            <plain>Р“РґРµ СЃРјРѕРі Р±С‹ СЃС‚Р°С‚СЊ СЏ СЃРѕРІРµСЂС€РµРЅРЅС‹Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Услышь меня, Спаситель мой,</plain>
+            <plain>РЈСЃР»С‹С€СЊ РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Верни мне небо над Едемом,</plain>
+            <plain>Р’РµСЂРЅРё РјРЅРµ РЅРµР±Рѕ РЅР°Рґ Р•РґРµРјРѕРј,</plain>
         </string>
         <string>
-            <plain>Где вечно буду я с Тобой,</plain>
+            <plain>Р“РґРµ РІРµС‡РЅРѕ Р±СѓРґСѓ СЏ СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Тебе служить я буду вечно.</plain>
+            <plain>РўРµР±Рµ СЃР»СѓР¶РёС‚СЊ СЏ Р±СѓРґСѓ РІРµС‡РЅРѕ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="65" name="Я Твое приобретенье" canon="false" text="" textRus="" music="">
+<psalm number="65" name="РЇ РўРІРѕРµ РїСЂРёРѕР±СЂРµС‚РµРЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я - Твое приобретенье,</plain>
+            <plain>РЇ - РўРІРѕРµ РїСЂРёРѕР±СЂРµС‚РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Дух и тело - все Твое;</plain>
+            <plain>Р”СѓС… Рё С‚РµР»Рѕ - РІСЃРµ РўРІРѕРµ;</plain>
         </string>
         <string>
-            <plain>Навсегда Тебе в служенье</plain>
+            <plain>РќР°РІСЃРµРіРґР° РўРµР±Рµ РІ СЃР»СѓР¶РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Возьми  сердце, возьми все!</plain>
+            <plain>Р’РѕР·СЊРјРё  СЃРµСЂРґС†Рµ, РІРѕР·СЊРјРё РІСЃРµ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я - Твое приобретенье,</plain>
+            <plain>РЇ - РўРІРѕРµ РїСЂРёРѕР±СЂРµС‚РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>возьми сердце, возьми все!</plain>
+            <plain>РІРѕР·СЊРјРё СЃРµСЂРґС†Рµ, РІРѕР·СЊРјРё РІСЃРµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пусть Тебя лишь созерцают</plain>
+            <plain>РџСѓСЃС‚СЊ РўРµР±СЏ Р»РёС€СЊ СЃРѕР·РµСЂС†Р°СЋС‚</plain>
         </string>
         <string>
-            <plain>Очи веры на земле!</plain>
+            <plain>РћС‡Рё РІРµСЂС‹ РЅР° Р·РµРјР»Рµ!</plain>
         </string>
         <string>
-            <plain>И уста пусть призывают</plain>
+            <plain>Р СѓСЃС‚Р° РїСѓСЃС‚СЊ РїСЂРёР·С‹РІР°СЋС‚</plain>
         </string>
         <string>
-            <plain>Всех людей к Твоей хвале.</plain>
+            <plain>Р’СЃРµС… Р»СЋРґРµР№ Рє РўРІРѕРµР№ С…РІР°Р»Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не хочу на мир строптивый</plain>
+            <plain>РќРµ С…РѕС‡Сѓ РЅР° РјРёСЂ СЃС‚СЂРѕРїС‚РёРІС‹Р№</plain>
         </string>
         <string>
-            <plain>В жизни этой уповать;</plain>
+            <plain>Р’ Р¶РёР·РЅРё СЌС‚РѕР№ СѓРїРѕРІР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>В скорбной доле иль счастливой</plain>
+            <plain>Р’ СЃРєРѕСЂР±РЅРѕР№ РґРѕР»Рµ РёР»СЊ СЃС‡Р°СЃС‚Р»РёРІРѕР№</plain>
         </string>
         <string>
-            <plain>Я хочу Тобой дышать.</plain>
+            <plain>РЇ С…РѕС‡Сѓ РўРѕР±РѕР№ РґС‹С€Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>На Голгофу я взираю,</plain>
+            <plain>РќР° Р“РѕР»РіРѕС„Сѓ СЏ РІР·РёСЂР°СЋ,</plain>
         </string>
         <string>
-            <plain>Вижу там Твой скорбный лик</plain>
+            <plain>Р’РёР¶Сѓ С‚Р°Рј РўРІРѕР№ СЃРєРѕСЂР±РЅС‹Р№ Р»РёРє</plain>
         </string>
         <string>
-            <plain>И с хвалою я взываю:</plain>
+            <plain>Р СЃ С…РІР°Р»РѕСЋ СЏ РІР·С‹РІР°СЋ:</plain>
         </string>
         <string>
-            <plain>"Как Господь в любви велик!"</plain>
+            <plain>"РљР°Рє Р“РѕСЃРїРѕРґСЊ РІ Р»СЋР±РІРё РІРµР»РёРє!"</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Верой в милость окрыленный,</plain>
+            <plain>Р’РµСЂРѕР№ РІ РјРёР»РѕСЃС‚СЊ РѕРєСЂС‹Р»РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Я припал к Твоим стопам</plain>
+            <plain>РЇ РїСЂРёРїР°Р» Рє РўРІРѕРёРј СЃС‚РѕРїР°Рј</plain>
         </string>
         <string>
-            <plain>И обрел душе смущенной</plain>
+            <plain>Р РѕР±СЂРµР» РґСѓС€Рµ СЃРјСѓС‰РµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Мир и доступ к небесам.</plain>
+            <plain>РњРёСЂ Рё РґРѕСЃС‚СѓРї Рє РЅРµР±РµСЃР°Рј.</plain>
         </string>
     </verse>
 </psalm>

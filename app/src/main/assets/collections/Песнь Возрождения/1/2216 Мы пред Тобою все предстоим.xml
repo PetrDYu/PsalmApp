@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2216" name="Мы пред Тобою все предстоим" canon="false" text="" textRus="" music="">
+<psalm number="2216" name="РњС‹ РїСЂРµРґ РўРѕР±РѕСЋ РІСЃРµ РїСЂРµРґСЃС‚РѕРёРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы пред Тобою все предстоим,</plain>
+            <plain>РњС‹ РїСЂРµРґ РўРѕР±РѕСЋ РІСЃРµ РїСЂРµРґСЃС‚РѕРёРј,</plain>
         </string>
         <string>
-            <plain>Благодарим, благодарим.</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂРёРј, Р±Р»Р°РіРѕРґР°СЂРёРј.</plain>
         </string>
         <string>
-            <plain>Дети Твои, мы в Твоей крови,</plain>
+            <plain>Р”РµС‚Рё РўРІРѕРё, РјС‹ РІ РўРІРѕРµР№ РєСЂРѕРІРё,</plain>
         </string>
         <string>
-            <plain>Мы от смерти искуплены.</plain>
+            <plain>РњС‹ РѕС‚ СЃРјРµСЂС‚Рё РёСЃРєСѓРїР»РµРЅС‹.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Боксе, Свет проливаешь в долину слёз,</plain>
+            <plain>Р‘РѕРєСЃРµ, РЎРІРµС‚ РїСЂРѕР»РёРІР°РµС€СЊ РІ РґРѕР»РёРЅСѓ СЃР»С‘Р·,</plain>
         </string>
         <string>
-            <plain>Перед Тобою горы растают, как воск.</plain>
+            <plain>РџРµСЂРµРґ РўРѕР±РѕСЋ РіРѕСЂС‹ СЂР°СЃС‚Р°СЋС‚, РєР°Рє РІРѕСЃРє.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Радость, надежду, душе покой</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ, РЅР°РґРµР¶РґСѓ, РґСѓС€Рµ РїРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>Мы получаем при встрече с Тобой.</plain>
+            <plain>РњС‹ РїРѕР»СѓС‡Р°РµРј РїСЂРё РІСЃС‚СЂРµС‡Рµ СЃ РўРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Дети Твои, мы в Твоей любви</plain>
+            <plain>Р”РµС‚Рё РўРІРѕРё, РјС‹ РІ РўРІРѕРµР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Всё имеем, и нет нужды.</plain>
+            <plain>Р’СЃС‘ РёРјРµРµРј, Рё РЅРµС‚ РЅСѓР¶РґС‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Свет воскресенья настиг меня,</plain>
+            <plain>РЎРІРµС‚ РІРѕСЃРєСЂРµСЃРµРЅСЊСЏ РЅР°СЃС‚РёРі РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Я прозрел от света дпя.</plain>
+            <plain>РЇ РїСЂРѕР·СЂРµР» РѕС‚ СЃРІРµС‚Р° РґРїСЏ.</plain>
         </string>
         <string>
-            <plain>Сильной рукою хранишь от беды,</plain>
+            <plain>РЎРёР»СЊРЅРѕР№ СЂСѓРєРѕСЋ С…СЂР°РЅРёС€СЊ РѕС‚ Р±РµРґС‹,</plain>
         </string>
         <string>
-            <plain>Мой Спаситель, со мною Ты.</plain>
+            <plain>РњРѕР№ РЎРїР°СЃРёС‚РµР»СЊ, СЃРѕ РјРЅРѕСЋ РўС‹.</plain>
         </string>
     </verse>
 </psalm>

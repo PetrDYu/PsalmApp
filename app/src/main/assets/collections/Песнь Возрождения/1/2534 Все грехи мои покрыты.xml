@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2534" name="Все грехи мои покрыты" canon="false" text="" textRus="" music="">
+<psalm number="2534" name="Р’СЃРµ РіСЂРµС…Рё РјРѕРё РїРѕРєСЂС‹С‚С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Все грехи мои покрыты,</plain>
+            <plain>Р’СЃРµ РіСЂРµС…Рё РјРѕРё РїРѕРєСЂС‹С‚С‹,</plain>
         </string>
         <string>
-            <plain>я свободен, я спасен;</plain>
+            <plain>СЏ СЃРІРѕР±РѕРґРµРЅ, СЏ СЃРїР°СЃРµРЅ;</plain>
         </string>
         <string>
-            <plain>Иисус моя защита,</plain>
+            <plain>РРёСЃСѓСЃ РјРѕСЏ Р·Р°С‰РёС‚Р°,</plain>
         </string>
         <string>
-            <plain>за меня был распят Он.</plain>
+            <plain>Р·Р° РјРµРЅСЏ Р±С‹Р» СЂР°СЃРїСЏС‚ РћРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Он мне жизнь принес.</plain>
+            <plain>РћРЅ РјРЅРµ Р¶РёР·РЅСЊ РїСЂРёРЅРµСЃ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Умер за меня Христос.</plain>
+            <plain>РЈРјРµСЂ Р·Р° РјРµРЅСЏ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я причислен к Божьим слугам,</plain>
+            <plain>РЇ РїСЂРёС‡РёСЃР»РµРЅ Рє Р‘РѕР¶СЊРёРј СЃР»СѓРіР°Рј,</plain>
         </string>
         <string>
-            <plain>я хочу добро творить:</plain>
+            <plain>СЏ С…РѕС‡Сѓ РґРѕР±СЂРѕ С‚РІРѕСЂРёС‚СЊ:</plain>
         </string>
         <string>
-            <plain>Он мне дал Святого Духа,</plain>
+            <plain>РћРЅ РјРЅРµ РґР°Р» РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р°,</plain>
         </string>
         <string>
-            <plain>помогает в правде жить.</plain>
+            <plain>РїРѕРјРѕРіР°РµС‚ РІ РїСЂР°РІРґРµ Р¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Снял с меня греха оковы,</plain>
+            <plain>РЎРЅСЏР» СЃ РјРµРЅСЏ РіСЂРµС…Р° РѕРєРѕРІС‹,</plain>
         </string>
         <string>
-            <plain>я навек свободен с Ним;</plain>
+            <plain>СЏ РЅР°РІРµРє СЃРІРѕР±РѕРґРµРЅ СЃ РќРёРј;</plain>
         </string>
         <string>
-            <plain>О могуществе Христовом</plain>
+            <plain>Рћ РјРѕРіСѓС‰РµСЃС‚РІРµ РҐСЂРёСЃС‚РѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>возвещать хочу другим.</plain>
+            <plain>РІРѕР·РІРµС‰Р°С‚СЊ С…РѕС‡Сѓ РґСЂСѓРіРёРј.</plain>
         </string>
     </verse>
 </psalm>

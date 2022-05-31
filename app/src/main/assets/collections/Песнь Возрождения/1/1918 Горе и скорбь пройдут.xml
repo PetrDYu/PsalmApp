@@ -1,83 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1918" name="Горе и скорбь пройдут" canon="false" text="" textRus="" music="">
+<psalm number="1918" name="Р“РѕСЂРµ Рё СЃРєРѕСЂР±СЊ РїСЂРѕР№РґСѓС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Горе и скорбь пройдут,</plain>
+            <plain>Р“РѕСЂРµ Рё СЃРєРѕСЂР±СЊ РїСЂРѕР№РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Нас радости в небе ждут;</plain>
+            <plain>РќР°СЃ СЂР°РґРѕСЃС‚Рё РІ РЅРµР±Рµ Р¶РґСѓС‚;</plain>
         </string>
         <string>
-            <plain>Страданье земное проходит</plain>
+            <plain>РЎС‚СЂР°РґР°РЅСЊРµ Р·РµРјРЅРѕРµ РїСЂРѕС…РѕРґРёС‚</plain>
         </string>
         <string>
-            <plain>И вечная жизнь с неба к нам придет.</plain>
+            <plain>Р РІРµС‡РЅР°СЏ Р¶РёР·РЅСЊ СЃ РЅРµР±Р° Рє РЅР°Рј РїСЂРёРґРµС‚.</plain>
         </string>
         <string>
-            <plain>Да, грех и скорбь пройдут,</plain>
+            <plain>Р”Р°, РіСЂРµС… Рё СЃРєРѕСЂР±СЊ РїСЂРѕР№РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Нас радости в небе ждут.</plain>
+            <plain>РќР°СЃ СЂР°РґРѕСЃС‚Рё РІ РЅРµР±Рµ Р¶РґСѓС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь делает скорби</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РґРµР»Р°РµС‚ СЃРєРѕСЂР±Рё</plain>
         </string>
         <string>
-            <plain>Человекам во благо навек,</plain>
+            <plain>Р§РµР»РѕРІРµРєР°Рј РІРѕ Р±Р»Р°РіРѕ РЅР°РІРµРє,</plain>
         </string>
         <string>
-            <plain>Он Сам им помогает</plain>
+            <plain>РћРЅ РЎР°Рј РёРј РїРѕРјРѕРіР°РµС‚</plain>
         </string>
         <string>
-            <plain>И дает подкрепленье в борьбе.</plain>
+            <plain>Р РґР°РµС‚ РїРѕРґРєСЂРµРїР»РµРЅСЊРµ РІ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он делает радость из печали.</plain>
+            <plain>РћРЅ РґРµР»Р°РµС‚ СЂР°РґРѕСЃС‚СЊ РёР· РїРµС‡Р°Р»Рё.</plain>
         </string>
         <string>
-            <plain>Из скорби добро творит Всесильный.</plain>
+            <plain>РР· СЃРєРѕСЂР±Рё РґРѕР±СЂРѕ С‚РІРѕСЂРёС‚ Р’СЃРµСЃРёР»СЊРЅС‹Р№.</plain>
         </string>
         <string>
-            <plain>Для любящих Бога все ко благу</plain>
+            <plain>Р”Р»СЏ Р»СЋР±СЏС‰РёС… Р‘РѕРіР° РІСЃРµ РєРѕ Р±Р»Р°РіСѓ</plain>
         </string>
         <string>
-            <plain>Он любовь дарует всем смертным.</plain>
+            <plain>РћРЅ Р»СЋР±РѕРІСЊ РґР°СЂСѓРµС‚ РІСЃРµРј СЃРјРµСЂС‚РЅС‹Рј.</plain>
         </string>
         <string>
-            <plain>Господь подкрепляет ослабевших,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РїРѕРґРєСЂРµРїР»СЏРµС‚ РѕСЃР»Р°Р±РµРІС€РёС…,</plain>
         </string>
         <string>
-            <plain>Голодным дает Он пищу</plain>
+            <plain>Р“РѕР»РѕРґРЅС‹Рј РґР°РµС‚ РћРЅ РїРёС‰Сѓ</plain>
         </string>
         <string>
-            <plain>И жаждущим воду живую.</plain>
+            <plain>Р Р¶Р°Р¶РґСѓС‰РёРј РІРѕРґСѓ Р¶РёРІСѓСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Господь, велик Ты в любви,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РІРµР»РёРє РўС‹ РІ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Велик Ты в милосердьи к слабым</plain>
+            <plain>Р’РµР»РёРє РўС‹ РІ РјРёР»РѕСЃРµСЂРґСЊРё Рє СЃР»Р°Р±С‹Рј</plain>
         </string>
         <string>
-            <plain>Господь, велик Ты в милосердьи к слабым.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РІРµР»РёРє РўС‹ РІ РјРёР»РѕСЃРµСЂРґСЊРё Рє СЃР»Р°Р±С‹Рј.</plain>
         </string>
         <string>
-            <plain>Ныне мы приходим,</plain>
+            <plain>РќС‹РЅРµ РјС‹ РїСЂРёС…РѕРґРёРј,</plain>
         </string>
         <string>
-            <plain>Мы склонились пред Тобой;</plain>
+            <plain>РњС‹ СЃРєР»РѕРЅРёР»РёСЃСЊ РїСЂРµРґ РўРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>К Тебе ныне мы приходим.</plain>
+            <plain>Рљ РўРµР±Рµ РЅС‹РЅРµ РјС‹ РїСЂРёС…РѕРґРёРј.</plain>
         </string>
         <string>
-            <plain>Приближаемся к Тебе.</plain>
+            <plain>РџСЂРёР±Р»РёР¶Р°РµРјСЃСЏ Рє РўРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

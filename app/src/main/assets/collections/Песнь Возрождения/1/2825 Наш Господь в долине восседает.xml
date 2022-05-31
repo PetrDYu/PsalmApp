@@ -1,85 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2825" name="Наш Господь в долине восседает" canon="false" text="" textRus="" music="">
+<psalm number="2825" name="РќР°С€ Р“РѕСЃРїРѕРґСЊ РІ РґРѕР»РёРЅРµ РІРѕСЃСЃРµРґР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Наш Господь в долине восседает,</plain>
+            <plain>РќР°С€ Р“РѕСЃРїРѕРґСЊ РІ РґРѕР»РёРЅРµ РІРѕСЃСЃРµРґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>чтоб судить народы все;</plain>
+            <plain>С‡С‚РѕР± СЃСѓРґРёС‚СЊ РЅР°СЂРѕРґС‹ РІСЃРµ;</plain>
         </string>
         <string>
-            <plain>Словом истины Он призывает</plain>
+            <plain>РЎР»РѕРІРѕРј РёСЃС‚РёРЅС‹ РћРЅ РїСЂРёР·С‹РІР°РµС‚</plain>
         </string>
         <string>
-            <plain>отовсюду всех к Себе.</plain>
+            <plain>РѕС‚РѕРІСЃСЋРґСѓ РІСЃРµС… Рє РЎРµР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слушайте, народы все,</plain>
+            <plain>РЎР»СѓС€Р°Р№С‚Рµ, РЅР°СЂРѕРґС‹ РІСЃРµ,</plain>
         </string>
         <string>
-            <plain>да, слушайте, народы все,</plain>
+            <plain>РґР°, СЃР»СѓС€Р°Р№С‚Рµ, РЅР°СЂРѕРґС‹ РІСЃРµ,</plain>
         </string>
         <string>
-            <plain>Божье Слово в полноте,</plain>
+            <plain>Р‘РѕР¶СЊРµ РЎР»РѕРІРѕ РІ РїРѕР»РЅРѕС‚Рµ,</plain>
         </string>
         <string>
-            <plain>да Божье Слово в полноте!</plain>
+            <plain>РґР° Р‘РѕР¶СЊРµ РЎР»РѕРІРѕ РІ РїРѕР»РЅРѕС‚Рµ!</plain>
         </string>
         <string>
-            <plain>Вас оно ль освободит,</plain>
+            <plain>Р’Р°СЃ РѕРЅРѕ Р»СЊ РѕСЃРІРѕР±РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>да, вас оно ль освободит,</plain>
+            <plain>РґР°, РІР°СЃ РѕРЅРѕ Р»СЊ РѕСЃРІРѕР±РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>Или свет вас обличит</plain>
+            <plain>РР»Рё СЃРІРµС‚ РІР°СЃ РѕР±Р»РёС‡РёС‚</plain>
         </string>
         <string>
-            <plain>(вас обличит)?</plain>
+            <plain>(РІР°СЃ РѕР±Р»РёС‡РёС‚)?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вострубите, поднимите знамя,</plain>
+            <plain>Р’РѕСЃС‚СЂСѓР±РёС‚Рµ, РїРѕРґРЅРёРјРёС‚Рµ Р·РЅР°РјСЏ,</plain>
         </string>
         <string>
-            <plain>благовестники Христа!</plain>
+            <plain>Р±Р»Р°РіРѕРІРµСЃС‚РЅРёРєРё РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Правду сделайте для всех</plain>
+            <plain>РџСЂР°РІРґСѓ СЃРґРµР»Р°Р№С‚Рµ РґР»СЏ РІСЃРµС…</plain>
         </string>
         <string>
-            <plain>весами и мерилом для суда.</plain>
+            <plain>РІРµСЃР°РјРё Рё РјРµСЂРёР»РѕРј РґР»СЏ СЃСѓРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чтоб возвышенное низким стало,</plain>
+            <plain>Р§С‚РѕР± РІРѕР·РІС‹С€РµРЅРЅРѕРµ РЅРёР·РєРёРј СЃС‚Р°Р»Рѕ,</plain>
         </string>
         <string>
-            <plain>и что низко — высоко,</plain>
+            <plain>Рё С‡С‚Рѕ РЅРёР·РєРѕ вЂ” РІС‹СЃРѕРєРѕ,</plain>
         </string>
         <string>
-            <plain>перекуйте на мечи орала,</plain>
+            <plain>РїРµСЂРµРєСѓР№С‚Рµ РЅР° РјРµС‡Рё РѕСЂР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>не страшись врага никто.</plain>
+            <plain>РЅРµ СЃС‚СЂР°С€РёСЃСЊ РІСЂР°РіР° РЅРёРєС‚Рѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В ход серпы пустите к зрелой жатве,</plain>
+            <plain>Р’ С…РѕРґ СЃРµСЂРїС‹ РїСѓСЃС‚РёС‚Рµ Рє Р·СЂРµР»РѕР№ Р¶Р°С‚РІРµ,</plain>
         </string>
         <string>
-            <plain>пока солнце не зашло!</plain>
+            <plain>РїРѕРєР° СЃРѕР»РЅС†Рµ РЅРµ Р·Р°С€Р»Рѕ!</plain>
         </string>
         <string>
-            <plain>Бог зовёт в Сион!</plain>
+            <plain>Р‘РѕРі Р·РѕРІС‘С‚ РІ РЎРёРѕРЅ!</plain>
         </string>
         <string>
-            <plain>Не пейте больше вавилонское вино!</plain>
+            <plain>РќРµ РїРµР№С‚Рµ Р±РѕР»СЊС€Рµ РІР°РІРёР»РѕРЅСЃРєРѕРµ РІРёРЅРѕ!</plain>
         </string>
     </verse>
 </psalm>

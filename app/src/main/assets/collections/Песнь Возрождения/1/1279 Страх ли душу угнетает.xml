@@ -1,84 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1279" name="Страх ли душу угнетает" canon="false" text="" textRus="" music="">
+<psalm number="1279" name="РЎС‚СЂР°С… Р»Рё РґСѓС€Сѓ СѓРіРЅРµС‚Р°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Страх ли душу угнетает.</plain>
+            <plain>РЎС‚СЂР°С… Р»Рё РґСѓС€Сѓ СѓРіРЅРµС‚Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>О, Господь, держи!</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґСЊ, РґРµСЂР¶Рё!</plain>
         </string>
         <string>
-            <plain>Иль сомненья глас смущает.</plain>
+            <plain>РР»СЊ СЃРѕРјРЅРµРЅСЊСЏ РіР»Р°СЃ СЃРјСѓС‰Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>Ты меня держи.</plain>
+            <plain>РўС‹ РјРµРЅСЏ РґРµСЂР¶Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>За руку держи, за руку держи!</plain>
+            <plain>Р—Р° СЂСѓРєСѓ РґРµСЂР¶Рё, Р·Р° СЂСѓРєСѓ РґРµСЂР¶Рё!</plain>
         </string>
         <string>
-            <plain>О, Спаситель Всемогущий,</plain>
+            <plain>Рћ, РЎРїР°СЃРёС‚РµР»СЊ Р’СЃРµРјРѕРіСѓС‰РёР№,</plain>
         </string>
         <string>
-            <plain>Сам всегда держи.</plain>
+            <plain>РЎР°Рј РІСЃРµРіРґР° РґРµСЂР¶Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если близко искушенье.</plain>
+            <plain>Р•СЃР»Рё Р±Р»РёР·РєРѕ РёСЃРєСѓС€РµРЅСЊРµ.</plain>
         </string>
         <string>
-            <plain>О, Господь, держи!</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґСЊ, РґРµСЂР¶Рё!</plain>
         </string>
         <string>
-            <plain>Дай мне верить в избавленье.</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РІРµСЂРёС‚СЊ РІ РёР·Р±Р°РІР»РµРЅСЊРµ.</plain>
         </string>
         <string>
-            <plain>Ты меня держи.</plain>
+            <plain>РўС‹ РјРµРЅСЏ РґРµСЂР¶Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В светлый час иль час ненастья.</plain>
+            <plain>Р’ СЃРІРµС‚Р»С‹Р№ С‡Р°СЃ РёР»СЊ С‡Р°СЃ РЅРµРЅР°СЃС‚СЊСЏ.</plain>
         </string>
         <string>
-            <plain>О, Господь, держи!</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґСЊ, РґРµСЂР¶Рё!</plain>
         </string>
         <string>
-            <plain>Среди скорби или счастья.</plain>
+            <plain>РЎСЂРµРґРё СЃРєРѕСЂР±Рё РёР»Рё СЃС‡Р°СЃС‚СЊСЏ.</plain>
         </string>
         <string>
-            <plain>Ты меня держи!</plain>
+            <plain>РўС‹ РјРµРЅСЏ РґРµСЂР¶Рё!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Мрак ли путь мой затмевает.</plain>
+            <plain>РњСЂР°Рє Р»Рё РїСѓС‚СЊ РјРѕР№ Р·Р°С‚РјРµРІР°РµС‚.</plain>
         </string>
         <string>
-            <plain>О, Господь, держи! Свет</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґСЊ, РґРµСЂР¶Рё! РЎРІРµС‚</plain>
         </string>
         <string>
-            <plain>Твой тьму пусть озаряет,</plain>
+            <plain>РўРІРѕР№ С‚СЊРјСѓ РїСѓСЃС‚СЊ РѕР·Р°СЂСЏРµС‚,</plain>
         </string>
         <string>
-            <plain>Ты меня держи!</plain>
+            <plain>РўС‹ РјРµРЅСЏ РґРµСЂР¶Рё!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, веди рукой пронзенной</plain>
+            <plain>Рћ, РІРµРґРё СЂСѓРєРѕР№ РїСЂРѕРЅР·РµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>К небу Ты меня.</plain>
+            <plain>Рљ РЅРµР±Сѓ РўС‹ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Там душою обновленной</plain>
+            <plain>РўР°Рј РґСѓС€РѕСЋ РѕР±РЅРѕРІР»РµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Восхвалю тебя.</plain>
+            <plain>Р’РѕСЃС…РІР°Р»СЋ С‚РµР±СЏ.</plain>
         </string>
     </verse>
 </psalm>

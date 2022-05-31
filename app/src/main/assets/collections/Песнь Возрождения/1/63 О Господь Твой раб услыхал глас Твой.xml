@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="63" name="О Господь Твой раб услыхал глас Твой" canon="false" text="" textRus="" music="">
+<psalm number="63" name="Рћ Р“РѕСЃРїРѕРґСЊ РўРІРѕР№ СЂР°Р± СѓСЃР»С‹С…Р°Р» РіР»Р°СЃ РўРІРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Господь, Твой раб услыхал глас Твой,</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґСЊ, РўРІРѕР№ СЂР°Р± СѓСЃР»С‹С…Р°Р» РіР»Р°СЃ РўРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Он любовью полн, Бог мой!</plain>
+            <plain>РћРЅ Р»СЋР±РѕРІСЊСЋ РїРѕР»РЅ, Р‘РѕРі РјРѕР№!</plain>
         </string>
         <string>
-            <plain>Веры луч святой осиял меня!</plain>
+            <plain>Р’РµСЂС‹ Р»СѓС‡ СЃРІСЏС‚РѕР№ РѕСЃРёСЏР» РјРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Ночь светлее стала дня.</plain>
+            <plain>РќРѕС‡СЊ СЃРІРµС‚Р»РµРµ СЃС‚Р°Р»Р° РґРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ближе, ближе к Твоему кресту,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р±Р»РёР¶Рµ Рє РўРІРѕРµРјСѓ РєСЂРµСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Где Ты умер за меня!</plain>
+            <plain>Р“РґРµ РўС‹ СѓРјРµСЂ Р·Р° РјРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Ближе, ближе, ближе к Твоему кресту,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р±Р»РёР¶Рµ, Р±Р»РёР¶Рµ Рє РўРІРѕРµРјСѓ РєСЂРµСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>О Господь, влеки меня!</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґСЊ, РІР»РµРєРё РјРµРЅСЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Силою Своей, Бог Спаситель мой,</plain>
+            <plain>РЎРёР»РѕСЋ РЎРІРѕРµР№, Р‘РѕРі РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Мое сердце осени;</plain>
+            <plain>РњРѕРµ СЃРµСЂРґС†Рµ РѕСЃРµРЅРё;</plain>
         </string>
         <string>
-            <plain>Чтоб служить Тебе мог я всей душой,</plain>
+            <plain>Р§С‚РѕР± СЃР»СѓР¶РёС‚СЊ РўРµР±Рµ РјРѕРі СЏ РІСЃРµР№ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Силу новую вдохни.</plain>
+            <plain>РЎРёР»Сѓ РЅРѕРІСѓСЋ РІРґРѕС…РЅРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чуден, Боже сил, тихий час ночной,</plain>
+            <plain>Р§СѓРґРµРЅ, Р‘РѕР¶Рµ СЃРёР», С‚РёС…РёР№ С‡Р°СЃ РЅРѕС‡РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Час, когда спит мир людской;</plain>
+            <plain>Р§Р°СЃ, РєРѕРіРґР° СЃРїРёС‚ РјРёСЂ Р»СЋРґСЃРєРѕР№;</plain>
         </string>
         <string>
-            <plain>Словно с Другом, я говорю с Тобой,</plain>
+            <plain>РЎР»РѕРІРЅРѕ СЃ Р”СЂСѓРіРѕРј, СЏ РіРѕРІРѕСЂСЋ СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Ты ж даешь душе покой.</plain>
+            <plain>РўС‹ Р¶ РґР°РµС€СЊ РґСѓС€Рµ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Глубину Твоей без конца любви</plain>
+            <plain>Р“Р»СѓР±РёРЅСѓ РўРІРѕРµР№ Р±РµР· РєРѕРЅС†Р° Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Здесь отчасти понял я,</plain>
+            <plain>Р—РґРµСЃСЊ РѕС‚С‡Р°СЃС‚Рё РїРѕРЅСЏР» СЏ,</plain>
         </string>
         <string>
-            <plain>Радость вечных дней мне скорей яви,</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РІРµС‡РЅС‹С… РґРЅРµР№ РјРЅРµ СЃРєРѕСЂРµР№ СЏРІРё,</plain>
         </string>
         <string>
-            <plain>Просвети скорей меня.</plain>
+            <plain>РџСЂРѕСЃРІРµС‚Рё СЃРєРѕСЂРµР№ РјРµРЅСЏ.</plain>
         </string>
     </verse>
 </psalm>

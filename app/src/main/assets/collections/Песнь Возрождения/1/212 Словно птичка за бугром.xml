@@ -1,85 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="212" name="Словно птичка за бугром" canon="false" text="" textRus="" music="">
+<psalm number="212" name="РЎР»РѕРІРЅРѕ РїС‚РёС‡РєР° Р·Р° Р±СѓРіСЂРѕРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Словно птичка за бугром</plain>
+            <plain>РЎР»РѕРІРЅРѕ РїС‚РёС‡РєР° Р·Р° Р±СѓРіСЂРѕРј</plain>
         </string>
         <string>
-            <plain>Стонет с раненым крылом;</plain>
+            <plain>РЎС‚РѕРЅРµС‚ СЃ СЂР°РЅРµРЅС‹Рј РєСЂС‹Р»РѕРј;</plain>
         </string>
         <string>
-            <plain>Ночь... и птичке нужен кров,</plain>
+            <plain>РќРѕС‡СЊ... Рё РїС‚РёС‡РєРµ РЅСѓР¶РµРЅ РєСЂРѕРІ,</plain>
         </string>
         <string>
-            <plain>Господи, ведь я таков.</plain>
+            <plain>Р“РѕСЃРїРѕРґРё, РІРµРґСЊ СЏ С‚Р°РєРѕРІ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Кто дал бы крылья,</plain>
+            <plain>РљС‚Рѕ РґР°Р» Р±С‹ РєСЂС‹Р»СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Кто дал бы крылья мне,</plain>
+            <plain>РљС‚Рѕ РґР°Р» Р±С‹ РєСЂС‹Р»СЊСЏ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Как у голубя,</plain>
+            <plain>РљР°Рє Сѓ РіРѕР»СѓР±СЏ,</plain>
         </string>
         <string>
-            <plain>Я улетел бы, я улетел бы.</plain>
+            <plain>РЇ СѓР»РµС‚РµР» Р±С‹, СЏ СѓР»РµС‚РµР» Р±С‹.</plain>
         </string>
         <string>
-            <plain>Я улетел бы и успокоился бы;</plain>
+            <plain>РЇ СѓР»РµС‚РµР» Р±С‹ Рё СѓСЃРїРѕРєРѕРёР»СЃСЏ Р±С‹;</plain>
         </string>
         <string>
-            <plain>Я б улетел далеко,</plain>
+            <plain>РЇ Р± СѓР»РµС‚РµР» РґР°Р»РµРєРѕ,</plain>
         </string>
         <string>
-            <plain>Я б улетел высоко</plain>
+            <plain>РЇ Р± СѓР»РµС‚РµР» РІС‹СЃРѕРєРѕ</plain>
         </string>
         <string>
-            <plain>К Тебе, Спаситель мой!</plain>
+            <plain>Рљ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как поблекнувший цветок,</plain>
+            <plain>РљР°Рє РїРѕР±Р»РµРєРЅСѓРІС€РёР№ С†РІРµС‚РѕРє,</plain>
         </string>
         <string>
-            <plain>Как завянувший листок,</plain>
+            <plain>РљР°Рє Р·Р°РІСЏРЅСѓРІС€РёР№ Р»РёСЃС‚РѕРє,</plain>
         </string>
         <string>
-            <plain>Как усталый стон ветров, -</plain>
+            <plain>РљР°Рє СѓСЃС‚Р°Р»С‹Р№ СЃС‚РѕРЅ РІРµС‚СЂРѕРІ, -</plain>
         </string>
         <string>
-            <plain>Господи, ведь я таков.</plain>
+            <plain>Р“РѕСЃРїРѕРґРё, РІРµРґСЊ СЏ С‚Р°РєРѕРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как бежит издалека</plain>
+            <plain>РљР°Рє Р±РµР¶РёС‚ РёР·РґР°Р»РµРєР°</plain>
         </string>
         <string>
-            <plain>Неспокойная река</plain>
+            <plain>РќРµСЃРїРѕРєРѕР№РЅР°СЏ СЂРµРєР°</plain>
         </string>
         <string>
-            <plain>Между темных берегов,</plain>
+            <plain>РњРµР¶РґСѓ С‚РµРјРЅС‹С… Р±РµСЂРµРіРѕРІ,</plain>
         </string>
         <string>
-            <plain>Господи, ведь я таков!</plain>
+            <plain>Р“РѕСЃРїРѕРґРё, РІРµРґСЊ СЏ С‚Р°РєРѕРІ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Словно мотылек, что ждет</plain>
+            <plain>РЎР»РѕРІРЅРѕ РјРѕС‚С‹Р»РµРє, С‡С‚Рѕ Р¶РґРµС‚</plain>
         </string>
         <string>
-            <plain>Крылья, чтоб начать полет</plain>
+            <plain>РљСЂС‹Р»СЊСЏ, С‡С‚РѕР± РЅР°С‡Р°С‚СЊ РїРѕР»РµС‚</plain>
         </string>
         <string>
-            <plain>Ввысь над зеленью лугов;</plain>
+            <plain>Р’РІС‹СЃСЊ РЅР°Рґ Р·РµР»РµРЅСЊСЋ Р»СѓРіРѕРІ;</plain>
         </string>
         <string>
-            <plain>Господи, ведь я таков!</plain>
+            <plain>Р“РѕСЃРїРѕРґРё, РІРµРґСЊ СЏ С‚Р°РєРѕРІ!</plain>
         </string>
     </verse>
 </psalm>

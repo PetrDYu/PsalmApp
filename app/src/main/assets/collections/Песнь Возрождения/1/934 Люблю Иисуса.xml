@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="934" name="Люблю Иисуса" canon="false" text="" textRus="" music="">
+<psalm number="934" name="Р›СЋР±Р»СЋ РРёСЃСѓСЃР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Люблю Иисуса.</plain>
+            <plain>Р›СЋР±Р»СЋ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Люблю Иисуса.</plain>
+            <plain>Р›СЋР±Р»СЋ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Люблю Иисуса.</plain>
+            <plain>Р›СЋР±Р»СЋ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Люблю Иисуса.</plain>
+            <plain>Р›СЋР±Р»СЋ РРёСЃСѓСЃР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хвала Иисусу.</plain>
+            <plain>РҐРІР°Р»Р° РРёСЃСѓСЃСѓ.</plain>
         </string>
         <string>
-            <plain>Хвала Иисусу.</plain>
+            <plain>РҐРІР°Р»Р° РРёСЃСѓСЃСѓ.</plain>
         </string>
         <string>
-            <plain>Хвала Иисусу.</plain>
+            <plain>РҐРІР°Р»Р° РРёСЃСѓСЃСѓ.</plain>
         </string>
         <string>
-            <plain>Хвала Иисусу.</plain>
+            <plain>РҐРІР°Р»Р° РРёСЃСѓСЃСѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жить для Иисуса.</plain>
+            <plain>Р–РёС‚СЊ РґР»СЏ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Жить для Иисуса.</plain>
+            <plain>Р–РёС‚СЊ РґР»СЏ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Жить для Иисуса.</plain>
+            <plain>Р–РёС‚СЊ РґР»СЏ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Жить для Иисуса.</plain>
+            <plain>Р–РёС‚СЊ РґР»СЏ РРёСЃСѓСЃР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я жду Иисуса.</plain>
+            <plain>РЇ Р¶РґСѓ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Я жду Иисуса.</plain>
+            <plain>РЇ Р¶РґСѓ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Я жду Иисуса.</plain>
+            <plain>РЇ Р¶РґСѓ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Я жду Иисуса.</plain>
+            <plain>РЇ Р¶РґСѓ РРёСЃСѓСЃР°.</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>Аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Аминь.</plain>
+            <plain>РђРјРёРЅСЊ.</plain>
         </string>
     </chorus>
 </psalm>

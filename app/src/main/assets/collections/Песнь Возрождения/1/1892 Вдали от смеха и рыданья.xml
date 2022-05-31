@@ -1,99 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1892" name="Вдали от смеха и рыданья" canon="false" text="" textRus="" music="">
+<psalm number="1892" name="Р’РґР°Р»Рё РѕС‚ СЃРјРµС…Р° Рё СЂС‹РґР°РЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вдали от смеха и рыданья -</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ СЃРјРµС…Р° Рё СЂС‹РґР°РЅСЊСЏ -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
         <string>
-            <plain>Вдали от сонных грех, вставанья.</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ СЃРѕРЅРЅС‹С… РіСЂРµС…, РІСЃС‚Р°РІР°РЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>От сеянья и ожиданья-</plain>
+            <plain>РћС‚ СЃРµСЏРЅСЊСЏ Рё РѕР¶РёРґР°РЅСЊСЏ-</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мир, радость, дом:</plain>
+            <plain>РњРёСЂ, СЂР°РґРѕСЃС‚СЊ, РґРѕРј:</plain>
         </string>
         <string>
-            <plain>Мой Бог!</plain>
+            <plain>РњРѕР№ Р‘РѕРі!</plain>
         </string>
         <string>
-            <plain>Не медли, но гряди!</plain>
+            <plain>РќРµ РјРµРґР»Рё, РЅРѕ РіСЂСЏРґРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вдали рассвета, увещанья -</plain>
+            <plain>Р’РґР°Р»Рё СЂР°СЃСЃРІРµС‚Р°, СѓРІРµС‰Р°РЅСЊСЏ -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
         <string>
-            <plain>Вдали от тени и мерцанья,</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ С‚РµРЅРё Рё РјРµСЂС†Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Вдали надежд и отчаянья -</plain>
+            <plain>Р’РґР°Р»Рё РЅР°РґРµР¶Рґ Рё РѕС‚С‡Р°СЏРЅСЊСЏ -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вдали восхода и затменья -</plain>
+            <plain>Р’РґР°Р»Рё РІРѕСЃС…РѕРґР° Рё Р·Р°С‚РјРµРЅСЊСЏ -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
         <string>
-            <plain>Вдали от бури и волненья,</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ Р±СѓСЂРё Рё РІРѕР»РЅРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Вдали дум памятных, забвенья -</plain>
+            <plain>Р’РґР°Р»Рё РґСѓРј РїР°РјСЏС‚РЅС‹С…, Р·Р°Р±РІРµРЅСЊСЏ -</plain>
         </string>
         <string>
-            <plain>Скоро буду.</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Вдали от дрожи, боли в членах -</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ РґСЂРѕР¶Рё, Р±РѕР»Рё РІ С‡Р»РµРЅР°С… -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
         <string>
-            <plain>Вдали от рек и скал бесценных,</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ СЂРµРє Рё СЃРєР°Р» Р±РµСЃС†РµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Вещей и временных, и тленных -</plain>
+            <plain>Р’РµС‰РµР№ Рё РІСЂРµРјРµРЅРЅС‹С…, Рё С‚Р»РµРЅРЅС‹С… -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Вдали разлуки и свиданья -</plain>
+            <plain>Р’РґР°Р»Рё СЂР°Р·Р»СѓРєРё Рё СЃРІРёРґР°РЅСЊСЏ -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
         <string>
-            <plain>Вдали приветствий и прощанья,</plain>
+            <plain>Р’РґР°Р»Рё РїСЂРёРІРµС‚СЃС‚РІРёР№ Рё РїСЂРѕС‰Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>И жгучих дум, и трепетанья -</plain>
+            <plain>Р Р¶РіСѓС‡РёС… РґСѓРј, Рё С‚СЂРµРїРµС‚Р°РЅСЊСЏ -</plain>
         </string>
         <string>
-            <plain>Скоро буду!</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґСѓ!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,98 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="267" name="Если сердце одиноко" canon="false" text="" textRus="" music="">
+<psalm number="267" name="Р•СЃР»Рё СЃРµСЂРґС†Рµ РѕРґРёРЅРѕРєРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если сердце одиноко</plain>
+            <plain>Р•СЃР»Рё СЃРµСЂРґС†Рµ РѕРґРёРЅРѕРєРѕ</plain>
         </string>
         <string>
-            <plain>В этом мире, поспеши</plain>
+            <plain>Р’ СЌС‚РѕРј РјРёСЂРµ, РїРѕСЃРїРµС€Рё</plain>
         </string>
         <string>
-            <plain>Слово доброе поведать</plain>
+            <plain>РЎР»РѕРІРѕ РґРѕР±СЂРѕРµ РїРѕРІРµРґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>От сочувственной души.</plain>
+            <plain>РћС‚ СЃРѕС‡СѓРІСЃС‚РІРµРЅРЅРѕР№ РґСѓС€Рё.</plain>
         </string>
         <string>
-            <plain>Слово милости сердечной,</plain>
+            <plain>РЎР»РѕРІРѕ РјРёР»РѕСЃС‚Рё СЃРµСЂРґРµС‡РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Как небесное зерно,</plain>
+            <plain>РљР°Рє РЅРµР±РµСЃРЅРѕРµ Р·РµСЂРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Принесет свой плод сторичный,</plain>
+            <plain>РџСЂРёРЅРµСЃРµС‚ СЃРІРѕР№ РїР»РѕРґ СЃС‚РѕСЂРёС‡РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Людям благо даст оно.</plain>
+            <plain>Р›СЋРґСЏРј Р±Р»Р°РіРѕ РґР°СЃС‚ РѕРЅРѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, слово любви</plain>
+            <plain>Рћ, СЃР»РѕРІРѕ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Скажи одинокому!</plain>
+            <plain>РЎРєР°Р¶Рё РѕРґРёРЅРѕРєРѕРјСѓ!</plain>
         </string>
         <string>
-            <plain>Слова от любви</plain>
+            <plain>РЎР»РѕРІР° РѕС‚ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Приносят всем свет;</plain>
+            <plain>РџСЂРёРЅРѕСЃСЏС‚ РІСЃРµРј СЃРІРµС‚;</plain>
         </string>
         <string>
-            <plain>Скажи одинокому.</plain>
+            <plain>РЎРєР°Р¶Рё РѕРґРёРЅРѕРєРѕРјСѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Брат твой может находиться</plain>
+            <plain>Р‘СЂР°С‚ С‚РІРѕР№ РјРѕР¶РµС‚ РЅР°С…РѕРґРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Близко к бездне роковой,</plain>
+            <plain>Р‘Р»РёР·РєРѕ Рє Р±РµР·РґРЅРµ СЂРѕРєРѕРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Но слова любви от сердца</plain>
+            <plain>РќРѕ СЃР»РѕРІР° Р»СЋР±РІРё РѕС‚ СЃРµСЂРґС†Р°</plain>
         </string>
         <string>
-            <plain>Могут дать ему покой,</plain>
+            <plain>РњРѕРіСѓС‚ РґР°С‚СЊ РµРјСѓ РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Ведь слова любви так мощны,</plain>
+            <plain>Р’РµРґСЊ СЃР»РѕРІР° Р»СЋР±РІРё С‚Р°Рє РјРѕС‰РЅС‹,</plain>
         </string>
         <string>
-            <plain>Словно солнца луч весной,</plain>
+            <plain>РЎР»РѕРІРЅРѕ СЃРѕР»РЅС†Р° Р»СѓС‡ РІРµСЃРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Что цветами украшает</plain>
+            <plain>Р§С‚Рѕ С†РІРµС‚Р°РјРё СѓРєСЂР°С€Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Ветви на лозе сухой.</plain>
+            <plain>Р’РµС‚РІРё РЅР° Р»РѕР·Рµ СЃСѓС…РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Слово и дела с любовью –</plain>
+            <plain>РЎР»РѕРІРѕ Рё РґРµР»Р° СЃ Р»СЋР±РѕРІСЊСЋ вЂ“</plain>
         </string>
         <string>
-            <plain>Хлеб, плывущий по водам,</plain>
+            <plain>РҐР»РµР±, РїР»С‹РІСѓС‰РёР№ РїРѕ РІРѕРґР°Рј,</plain>
         </string>
         <string>
-            <plain>Возвращаются здесь в мире</plain>
+            <plain>Р’РѕР·РІСЂР°С‰Р°СЋС‚СЃСЏ Р·РґРµСЃСЊ РІ РјРёСЂРµ</plain>
         </string>
         <string>
-            <plain>С многими плодами к нам.</plain>
+            <plain>РЎ РјРЅРѕРіРёРјРё РїР»РѕРґР°РјРё Рє РЅР°Рј.</plain>
         </string>
         <string>
-            <plain>Ту любовь, что с состраданьем</plain>
+            <plain>РўСѓ Р»СЋР±РѕРІСЊ, С‡С‚Рѕ СЃ СЃРѕСЃС‚СЂР°РґР°РЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>В скорби к ближнему спешит,</plain>
+            <plain>Р’ СЃРєРѕСЂР±Рё Рє Р±Р»РёР¶РЅРµРјСѓ СЃРїРµС€РёС‚,</plain>
         </string>
         <string>
-            <plain>Сей среди страдальцев щедро,</plain>
+            <plain>РЎРµР№ СЃСЂРµРґРё СЃС‚СЂР°РґР°Р»СЊС†РµРІ С‰РµРґСЂРѕ,</plain>
         </string>
         <string>
-            <plain>Бог тебя вознаградит.</plain>
+            <plain>Р‘РѕРі С‚РµР±СЏ РІРѕР·РЅР°РіСЂР°РґРёС‚.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1561" name="Уже седина на висках" canon="false" text="" textRus="" music="">
+<psalm number="1561" name="РЈР¶Рµ СЃРµРґРёРЅР° РЅР° РІРёСЃРєР°С…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Уже седина на висках</plain>
+            <plain>РЈР¶Рµ СЃРµРґРёРЅР° РЅР° РІРёСЃРєР°С…</plain>
         </string>
         <string>
-            <plain>И, может, для многих то странно,</plain>
+            <plain>Р, РјРѕР¶РµС‚, РґР»СЏ РјРЅРѕРіРёС… С‚Рѕ СЃС‚СЂР°РЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>И светятся счастьем глаза,</plain>
+            <plain>Р СЃРІРµС‚СЏС‚СЃСЏ СЃС‡Р°СЃС‚СЊРµРј РіР»Р°Р·Р°,</plain>
         </string>
         <string>
-            <plain>И сердце ликует: "Осанна!"</plain>
+            <plain>Р СЃРµСЂРґС†Рµ Р»РёРєСѓРµС‚: "РћСЃР°РЅРЅР°!"</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Христос, я Тебя люблю,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ, СЏ РўРµР±СЏ Р»СЋР±Р»СЋ,</plain>
         </string>
         <string>
-            <plain>Тобою спасен в надежде.</plain>
+            <plain>РўРѕР±РѕСЋ СЃРїР°СЃРµРЅ РІ РЅР°РґРµР¶РґРµ.</plain>
         </string>
         <string>
-            <plain>Христос, благодарю.</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ, Р±Р»Р°РіРѕРґР°СЂСЋ.</plain>
         </string>
         <string>
-            <plain>Что Ты возлюбил меня прежде.</plain>
+            <plain>Р§С‚Рѕ РўС‹ РІРѕР·Р»СЋР±РёР» РјРµРЅСЏ РїСЂРµР¶РґРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я помощи свыше прошу</plain>
+            <plain>РЇ РїРѕРјРѕС‰Рё СЃРІС‹С€Рµ РїСЂРѕС€Сѓ</plain>
         </string>
         <string>
-            <plain>На путь чрез пустыню неверья.</plain>
+            <plain>РќР° РїСѓС‚СЊ С‡СЂРµР· РїСѓСЃС‚С‹РЅСЋ РЅРµРІРµСЂСЊСЏ.</plain>
         </string>
         <string>
-            <plain>Дыханье даешь - я дышу,</plain>
+            <plain>Р”С‹С…Р°РЅСЊРµ РґР°РµС€СЊ - СЏ РґС‹С€Сѓ,</plain>
         </string>
         <string>
-            <plain>Научишь - и нет преткновенья.</plain>
+            <plain>РќР°СѓС‡РёС€СЊ - Рё РЅРµС‚ РїСЂРµС‚РєРЅРѕРІРµРЅСЊСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Христос, приходи поскорей,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ, РїСЂРёС…РѕРґРё РїРѕСЃРєРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>Не надо земного мне рая,</plain>
+            <plain>РќРµ РЅР°РґРѕ Р·РµРјРЅРѕРіРѕ РјРЅРµ СЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Чем ближе к Тебе, тем видней.</plain>
+            <plain>Р§РµРј Р±Р»РёР¶Рµ Рє РўРµР±Рµ, С‚РµРј РІРёРґРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Желанней Отчизна святая.</plain>
+            <plain>Р–РµР»Р°РЅРЅРµР№ РћС‚С‡РёР·РЅР° СЃРІСЏС‚Р°СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Небесное - небо дает.</plain>
+            <plain>РќРµР±РµСЃРЅРѕРµ - РЅРµР±Рѕ РґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Земля и земное отнимет.</plain>
+            <plain>Р—РµРјР»СЏ Рё Р·РµРјРЅРѕРµ РѕС‚РЅРёРјРµС‚.</plain>
         </string>
         <string>
-            <plain>Надменным противится Бог,</plain>
+            <plain>РќР°РґРјРµРЅРЅС‹Рј РїСЂРѕС‚РёРІРёС‚СЃСЏ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>А милосердных поднимет.</plain>
+            <plain>Рђ РјРёР»РѕСЃРµСЂРґРЅС‹С… РїРѕРґРЅРёРјРµС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Уже седина на висках</plain>
+            <plain>РЈР¶Рµ СЃРµРґРёРЅР° РЅР° РІРёСЃРєР°С…</plain>
         </string>
         <string>
-            <plain>И, может, для многих то странно,</plain>
+            <plain>Р, РјРѕР¶РµС‚, РґР»СЏ РјРЅРѕРіРёС… С‚Рѕ СЃС‚СЂР°РЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>И светятся счастьем глаза,</plain>
+            <plain>Р СЃРІРµС‚СЏС‚СЃСЏ СЃС‡Р°СЃС‚СЊРµРј РіР»Р°Р·Р°,</plain>
         </string>
         <string>
-            <plain>И сердце ликует: "Осанна!".</plain>
+            <plain>Р СЃРµСЂРґС†Рµ Р»РёРєСѓРµС‚: "РћСЃР°РЅРЅР°!".</plain>
         </string>
     </verse>
 </psalm>

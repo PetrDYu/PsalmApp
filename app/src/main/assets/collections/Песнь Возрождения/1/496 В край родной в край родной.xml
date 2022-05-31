@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="496" name="В край родной в край родной" canon="false" text="" textRus="" music="">
+<psalm number="496" name="Р’ РєСЂР°Р№ СЂРѕРґРЅРѕР№ РІ РєСЂР°Р№ СЂРѕРґРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В край родной, в край родной,</plain>
+            <plain>Р’ РєСЂР°Р№ СЂРѕРґРЅРѕР№, РІ РєСЂР°Р№ СЂРѕРґРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>В край родной страны,</plain>
+            <plain>Р’ РєСЂР°Р№ СЂРѕРґРЅРѕР№ СЃС‚СЂР°РЅС‹,</plain>
         </string>
         <string>
-            <plain>В край мира, счастья, тишины</plain>
+            <plain>Р’ РєСЂР°Р№ РјРёСЂР°, СЃС‡Р°СЃС‚СЊСЏ, С‚РёС€РёРЅС‹</plain>
         </string>
         <string>
-            <plain>Стремлюсь я всей душой!</plain>
+            <plain>РЎС‚СЂРµРјР»СЋСЃСЊ СЏ РІСЃРµР№ РґСѓС€РѕР№!</plain>
         </string>
         <string>
-            <plain>Ведь мир не родина моя,</plain>
+            <plain>Р’РµРґСЊ РјРёСЂ РЅРµ СЂРѕРґРёРЅР° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Ему душа чужда;</plain>
+            <plain>Р•РјСѓ РґСѓС€Р° С‡СѓР¶РґР°;</plain>
         </string>
         <string>
-            <plain>На небе дом мой и друзья;</plain>
+            <plain>РќР° РЅРµР±Рµ РґРѕРј РјРѕР№ Рё РґСЂСѓР·СЊСЏ;</plain>
         </string>
         <string>
-            <plain>Стремится дух туда!</plain>
+            <plain>РЎС‚СЂРµРјРёС‚СЃСЏ РґСѓС… С‚СѓРґР°!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>К небесам, к небесам</plain>
+            <plain>Рљ РЅРµР±РµСЃР°Рј, Рє РЅРµР±РµСЃР°Рј</plain>
         </string>
         <string>
-            <plain>Я поднял свой взор;</plain>
+            <plain>РЇ РїРѕРґРЅСЏР» СЃРІРѕР№ РІР·РѕСЂ;</plain>
         </string>
         <string>
-            <plain>Я знаю, много близких там,</plain>
+            <plain>РЇ Р·РЅР°СЋ, РјРЅРѕРіРѕ Р±Р»РёР·РєРёС… С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>Я ж в мире до сих пор;</plain>
+            <plain>РЇ Р¶ РІ РјРёСЂРµ РґРѕ СЃРёС… РїРѕСЂ;</plain>
         </string>
         <string>
-            <plain>Жесток здесь бой, дни тяжелы</plain>
+            <plain>Р–РµСЃС‚РѕРє Р·РґРµСЃСЊ Р±РѕР№, РґРЅРё С‚СЏР¶РµР»С‹</plain>
         </string>
         <string>
-            <plain>И страшно мне в борьбе;</plain>
+            <plain>Р СЃС‚СЂР°С€РЅРѕ РјРЅРµ РІ Р±РѕСЂСЊР±Рµ;</plain>
         </string>
         <string>
-            <plain>Темно среди греховной мглы</plain>
+            <plain>РўРµРјРЅРѕ СЃСЂРµРґРё РіСЂРµС…РѕРІРЅРѕР№ РјРіР»С‹</plain>
         </string>
         <string>
-            <plain>В скитальческой борьбе.</plain>
+            <plain>Р’ СЃРєРёС‚Р°Р»СЊС‡РµСЃРєРѕР№ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Недалек, недалек</plain>
+            <plain>РќРµРґР°Р»РµРє, РЅРµРґР°Р»РµРє</plain>
         </string>
         <string>
-            <plain>Злой борьбе конец;</plain>
+            <plain>Р—Р»РѕР№ Р±РѕСЂСЊР±Рµ РєРѕРЅРµС†;</plain>
         </string>
         <string>
-            <plain>Уж слышу песен я поток, -</plain>
+            <plain>РЈР¶ СЃР»С‹С€Сѓ РїРµСЃРµРЅ СЏ РїРѕС‚РѕРє, -</plain>
         </string>
         <string>
-            <plain>Идет к борцам Отец.</plain>
+            <plain>РРґРµС‚ Рє Р±РѕСЂС†Р°Рј РћС‚РµС†.</plain>
         </string>
         <string>
-            <plain>Чего глаз смертный не видал</plain>
+            <plain>Р§РµРіРѕ РіР»Р°Р· СЃРјРµСЂС‚РЅС‹Р№ РЅРµ РІРёРґР°Р»</plain>
         </string>
         <string>
-            <plain>И в мыслях не имел,</plain>
+            <plain>Р РІ РјС‹СЃР»СЏС… РЅРµ РёРјРµР»,</plain>
         </string>
         <string>
-            <plain>О чем я слухом не слыхал, -</plain>
+            <plain>Рћ С‡РµРј СЏ СЃР»СѓС…РѕРј РЅРµ СЃР»С‹С…Р°Р», -</plain>
         </string>
         <string>
-            <plain>Там будет мой удел!</plain>
+            <plain>РўР°Рј Р±СѓРґРµС‚ РјРѕР№ СѓРґРµР»!</plain>
         </string>
     </verse>
 </psalm>

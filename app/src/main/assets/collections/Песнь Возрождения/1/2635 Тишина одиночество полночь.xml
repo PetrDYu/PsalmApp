@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2635" name="Тишина одиночество полночь" canon="false" text="" textRus="" music="">
+<psalm number="2635" name="РўРёС€РёРЅР° РѕРґРёРЅРѕС‡РµСЃС‚РІРѕ РїРѕР»РЅРѕС‡СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тишина, одиночество, полночь.</plain>
+            <plain>РўРёС€РёРЅР°, РѕРґРёРЅРѕС‡РµСЃС‚РІРѕ, РїРѕР»РЅРѕС‡СЊ.</plain>
         </string>
         <string>
-            <plain>За окном серебрится луна.</plain>
+            <plain>Р—Р° РѕРєРЅРѕРј СЃРµСЂРµР±СЂРёС‚СЃСЏ Р»СѓРЅР°.</plain>
         </string>
         <string>
-            <plain>Бог в молитве приходит на помощь,</plain>
+            <plain>Р‘РѕРі РІ РјРѕР»РёС‚РІРµ РїСЂРёС…РѕРґРёС‚ РЅР° РїРѕРјРѕС‰СЊ,</plain>
         </string>
         <string>
-            <plain>И зимой наступает весна.</plain>
+            <plain>Р Р·РёРјРѕР№ РЅР°СЃС‚СѓРїР°РµС‚ РІРµСЃРЅР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>И ответа снова жду,</plain>
+            <plain>Р РѕС‚РІРµС‚Р° СЃРЅРѕРІР° Р¶РґСѓ,</plain>
         </string>
         <string>
-            <plain>Как подснежник лета, как сады - весну.</plain>
+            <plain>РљР°Рє РїРѕРґСЃРЅРµР¶РЅРёРє Р»РµС‚Р°, РєР°Рє СЃР°РґС‹ - РІРµСЃРЅСѓ.</plain>
         </string>
         <string>
-            <plain>То счастье - знать, что где-то</plain>
+            <plain>РўРѕ СЃС‡Р°СЃС‚СЊРµ - Р·РЅР°С‚СЊ, С‡С‚Рѕ РіРґРµ-С‚Рѕ</plain>
         </string>
         <string>
-            <plain>Над моей планетой</plain>
+            <plain>РќР°Рґ РјРѕРµР№ РїР»Р°РЅРµС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Бог слышит молитву мою.</plain>
+            <plain>Р‘РѕРі СЃР»С‹С€РёС‚ РјРѕР»РёС‚РІСѓ РјРѕСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я с Тобой говорить не устану,</plain>
+            <plain>РЇ СЃ РўРѕР±РѕР№ РіРѕРІРѕСЂРёС‚СЊ РЅРµ СѓСЃС‚Р°РЅСѓ,</plain>
         </string>
         <string>
-            <plain>Передам все Тебе в небеса:</plain>
+            <plain>РџРµСЂРµРґР°Рј РІСЃРµ РўРµР±Рµ РІ РЅРµР±РµСЃР°:</plain>
         </string>
         <string>
-            <plain>Свои радости, Боже, печали</plain>
+            <plain>РЎРІРѕРё СЂР°РґРѕСЃС‚Рё, Р‘РѕР¶Рµ, РїРµС‡Р°Р»Рё</plain>
         </string>
         <string>
-            <plain>И о том, как творишь чудеса.</plain>
+            <plain>Р Рѕ С‚РѕРј, РєР°Рє С‚РІРѕСЂРёС€СЊ С‡СѓРґРµСЃР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>У молитвы могучие крылья,</plain>
+            <plain>РЈ РјРѕР»РёС‚РІС‹ РјРѕРіСѓС‡РёРµ РєСЂС‹Р»СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Только я до тех пор не усну,</plain>
+            <plain>РўРѕР»СЊРєРѕ СЏ РґРѕ С‚РµС… РїРѕСЂ РЅРµ СѓСЃРЅСѓ,</plain>
         </string>
         <string>
-            <plain>Пока там, за космической пылью,</plain>
+            <plain>РџРѕРєР° С‚Р°Рј, Р·Р° РєРѕСЃРјРёС‡РµСЃРєРѕР№ РїС‹Р»СЊСЋ,</plain>
         </string>
         <string>
-            <plain>Все молитвы сольются в одну.</plain>
+            <plain>Р’СЃРµ РјРѕР»РёС‚РІС‹ СЃРѕР»СЊСЋС‚СЃСЏ РІ РѕРґРЅСѓ.</plain>
         </string>
     </verse>
 </psalm>

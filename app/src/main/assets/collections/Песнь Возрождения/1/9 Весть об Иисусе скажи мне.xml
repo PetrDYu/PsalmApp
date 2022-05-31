@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="9" name="Весть об Иисусе скажи мне" canon="false" text="" textRus="" music="">
+<psalm number="9" name="Р’РµСЃС‚СЊ РѕР± РРёСЃСѓСЃРµ СЃРєР°Р¶Рё РјРЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Весть об Иисусе скажи мне,</plain>
+            <plain>Р’РµСЃС‚СЊ РѕР± РРёСЃСѓСЃРµ СЃРєР°Р¶Рё РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Все расскажи про Него;</plain>
+            <plain>Р’СЃРµ СЂР°СЃСЃРєР°Р¶Рё РїСЂРѕ РќРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>Чудная повесть благая</plain>
+            <plain>Р§СѓРґРЅР°СЏ РїРѕРІРµСЃС‚СЊ Р±Р»Р°РіР°СЏ</plain>
         </string>
         <string>
-            <plain>Сердцу дороже всего.</plain>
+            <plain>РЎРµСЂРґС†Сѓ РґРѕСЂРѕР¶Рµ РІСЃРµРіРѕ.</plain>
         </string>
         <string>
-            <plain>Ангелов песнь повтори мне,</plain>
+            <plain>РђРЅРіРµР»РѕРІ РїРµСЃРЅСЊ РїРѕРІС‚РѕСЂРё РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Песнь о Его рождестве:</plain>
+            <plain>РџРµСЃРЅСЊ Рѕ Р•РіРѕ СЂРѕР¶РґРµСЃС‚РІРµ:</plain>
         </string>
         <string>
-            <plain>Богу - хваленье на небе,</plain>
+            <plain>Р‘РѕРіСѓ - С…РІР°Р»РµРЅСЊРµ РЅР° РЅРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Мир и любовь на земле.</plain>
+            <plain>РњРёСЂ Рё Р»СЋР±РѕРІСЊ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Весть об Иисусе скажи мне,</plain>
+            <plain>Р’РµСЃС‚СЊ РѕР± РРёСЃСѓСЃРµ СЃРєР°Р¶Рё РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Все расскажи про Него,</plain>
+            <plain>Р’СЃРµ СЂР°СЃСЃРєР°Р¶Рё РїСЂРѕ РќРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>Чудная повесть благая</plain>
+            <plain>Р§СѓРґРЅР°СЏ РїРѕРІРµСЃС‚СЊ Р±Р»Р°РіР°СЏ</plain>
         </string>
         <string>
-            <plain>Сердцу дороже всего.</plain>
+            <plain>РЎРµСЂРґС†Сѓ РґРѕСЂРѕР¶Рµ РІСЃРµРіРѕ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как Он в пустыне постился,</plain>
+            <plain>РљР°Рє РћРЅ РІ РїСѓСЃС‚С‹РЅРµ РїРѕСЃС‚РёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Как искушаем там был,</plain>
+            <plain>РљР°Рє РёСЃРєСѓС€Р°РµРј С‚Р°Рј Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>Как претерпел, расскажи мне,</plain>
+            <plain>РљР°Рє РїСЂРµС‚РµСЂРїРµР», СЂР°СЃСЃРєР°Р¶Рё РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>И как за нас победил.</plain>
+            <plain>Р РєР°Рє Р·Р° РЅР°СЃ РїРѕР±РµРґРёР».</plain>
         </string>
         <string>
-            <plain>Как Он без крова скитался,</plain>
+            <plain>РљР°Рє РћРЅ Р±РµР· РєСЂРѕРІР° СЃРєРёС‚Р°Р»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Всем помогал в их нужде;</plain>
+            <plain>Р’СЃРµРј РїРѕРјРѕРіР°Р» РІ РёС… РЅСѓР¶РґРµ;</plain>
         </string>
         <string>
-            <plain>Как Он людьми был отвержен,</plain>
+            <plain>РљР°Рє РћРЅ Р»СЋРґСЊРјРё Р±С‹Р» РѕС‚РІРµСЂР¶РµРЅ,</plain>
         </string>
         <string>
-            <plain>В бедности жил и в труде.</plain>
+            <plain>Р’ Р±РµРґРЅРѕСЃС‚Рё Р¶РёР» Рё РІ С‚СЂСѓРґРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как ко кресту пригвоздили,</plain>
+            <plain>РљР°Рє РєРѕ РєСЂРµСЃС‚Сѓ РїСЂРёРіРІРѕР·РґРёР»Рё,</plain>
         </string>
         <string>
-            <plain>Как на кресте умирал,</plain>
+            <plain>РљР°Рє РЅР° РєСЂРµСЃС‚Рµ СѓРјРёСЂР°Р»,</plain>
         </string>
         <string>
-            <plain>В гроб как Его положили</plain>
+            <plain>Р’ РіСЂРѕР± РєР°Рє Р•РіРѕ РїРѕР»РѕР¶РёР»Рё</plain>
         </string>
         <string>
-            <plain>И как из гроба восстал.</plain>
+            <plain>Р РєР°Рє РёР· РіСЂРѕР±Р° РІРѕСЃСЃС‚Р°Р».</plain>
         </string>
         <string>
-            <plain>Чудную повесть скажи мне,</plain>
+            <plain>Р§СѓРґРЅСѓСЋ РїРѕРІРµСЃС‚СЊ СЃРєР°Р¶Рё РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Как Он людей возлюбил;</plain>
+            <plain>РљР°Рє РћРЅ Р»СЋРґРµР№ РІРѕР·Р»СЋР±РёР»;</plain>
         </string>
         <string>
-            <plain>Слава вовеки Иисусу,</plain>
+            <plain>РЎР»Р°РІР° РІРѕРІРµРєРё РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>Он и мой грех искупил!</plain>
+            <plain>РћРЅ Рё РјРѕР№ РіСЂРµС… РёСЃРєСѓРїРёР»!</plain>
         </string>
     </verse>
 </psalm>

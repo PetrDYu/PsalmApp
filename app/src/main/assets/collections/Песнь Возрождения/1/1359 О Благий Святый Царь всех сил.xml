@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1359" name="О Благий Святый Царь всех сил" canon="false" text="" textRus="" music="">
+<psalm number="1359" name="Рћ Р‘Р»Р°РіРёР№ РЎРІСЏС‚С‹Р№ Р¦Р°СЂСЊ РІСЃРµС… СЃРёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, Благий, Святый Царь всех сил!</plain>
+            <plain>Рћ, Р‘Р»Р°РіРёР№, РЎРІСЏС‚С‹Р№ Р¦Р°СЂСЊ РІСЃРµС… СЃРёР»!</plain>
         </string>
         <string>
-            <plain>Все, что в мире есть.</plain>
+            <plain>Р’СЃРµ, С‡С‚Рѕ РІ РјРёСЂРµ РµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Ты совершил.</plain>
+            <plain>РўС‹ СЃРѕРІРµСЂС€РёР».</plain>
         </string>
         <string>
-            <plain>Бог-Творец! Бог-Творец!</plain>
+            <plain>Р‘РѕРі-РўРІРѕСЂРµС†! Р‘РѕРі-РўРІРѕСЂРµС†!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Пред Тобой мы с мольбой</plain>
+            <plain>РџСЂРµРґ РўРѕР±РѕР№ РјС‹ СЃ РјРѕР»СЊР±РѕР№</plain>
         </string>
         <string>
-            <plain>Предстоим:</plain>
+            <plain>РџСЂРµРґСЃС‚РѕРёРј:</plain>
         </string>
         <string>
-            <plain>Мир Твой дай нам - созданьям Твоим.</plain>
+            <plain>РњРёСЂ РўРІРѕР№ РґР°Р№ РЅР°Рј - СЃРѕР·РґР°РЅСЊСЏРј РўРІРѕРёРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В вере истинной нас соблюди</plain>
+            <plain>Р’ РІРµСЂРµ РёСЃС‚РёРЅРЅРѕР№ РЅР°СЃ СЃРѕР±Р»СЋРґРё</plain>
         </string>
         <string>
-            <plain>И в надежде Твоей утверди,</plain>
+            <plain>Р РІ РЅР°РґРµР¶РґРµ РўРІРѕРµР№ СѓС‚РІРµСЂРґРё,</plain>
         </string>
         <string>
-            <plain>Возгревай любовь в нашей груди.</plain>
+            <plain>Р’РѕР·РіСЂРµРІР°Р№ Р»СЋР±РѕРІСЊ РІ РЅР°С€РµР№ РіСЂСѓРґРё.</plain>
         </string>
         <string>
-            <plain>Светом правды святой нас веди.</plain>
+            <plain>РЎРІРµС‚РѕРј РїСЂР°РІРґС‹ СЃРІСЏС‚РѕР№ РЅР°СЃ РІРµРґРё.</plain>
         </string>
         <string>
-            <plain>В небеса! В небеса!</plain>
+            <plain>Р’ РЅРµР±РµСЃР°! Р’ РЅРµР±РµСЃР°!</plain>
         </string>
     </verse>
 </psalm>

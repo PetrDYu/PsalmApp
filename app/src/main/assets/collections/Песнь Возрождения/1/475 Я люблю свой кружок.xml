@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="475" name="Я люблю свой кружок" canon="false" text="" textRus="" music="">
+<psalm number="475" name="РЇ Р»СЋР±Р»СЋ СЃРІРѕР№ РєСЂСѓР¶РѕРє" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я люблю свой кружок,</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ СЃРІРѕР№ РєСЂСѓР¶РѕРє,</plain>
         </string>
         <string>
-            <plain>В нем душой я далек</plain>
+            <plain>Р’ РЅРµРј РґСѓС€РѕР№ СЏ РґР°Р»РµРє</plain>
         </string>
         <string>
-            <plain>От соблазнов людских</plain>
+            <plain>РћС‚ СЃРѕР±Р»Р°Р·РЅРѕРІ Р»СЋРґСЃРєРёС…</plain>
         </string>
         <string>
-            <plain>И от мыслей плохих.</plain>
+            <plain>Р РѕС‚ РјС‹СЃР»РµР№ РїР»РѕС…РёС….</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>В нем душой мыслю я,</plain>
+            <plain>Р’ РЅРµРј РґСѓС€РѕР№ РјС‹СЃР»СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>Будто я у ручья,</plain>
+            <plain>Р‘СѓРґС‚Рѕ СЏ Сѓ СЂСѓС‡СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Где для сердца течет</plain>
+            <plain>Р“РґРµ РґР»СЏ СЃРµСЂРґС†Р° С‚РµС‡РµС‚</plain>
         </string>
         <string>
-            <plain>Ток живительных вод.</plain>
+            <plain>РўРѕРє Р¶РёРІРёС‚РµР»СЊРЅС‹С… РІРѕРґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В нем я с жаждой святой</plain>
+            <plain>Р’ РЅРµРј СЏ СЃ Р¶Р°Р¶РґРѕР№ СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Пью душевный покой,</plain>
+            <plain>РџСЊСЋ РґСѓС€РµРІРЅС‹Р№ РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>В нем вкушаю я плод</plain>
+            <plain>Р’ РЅРµРј РІРєСѓС€Р°СЋ СЏ РїР»РѕРґ</plain>
         </string>
         <string>
-            <plain>Благодатных щедрот.</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚РЅС‹С… С‰РµРґСЂРѕС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В нем я близок к Творцу</plain>
+            <plain>Р’ РЅРµРј СЏ Р±Р»РёР·РѕРє Рє РўРІРѕСЂС†Сѓ</plain>
         </string>
         <string>
-            <plain>Как к благому Отцу,</plain>
+            <plain>РљР°Рє Рє Р±Р»Р°РіРѕРјСѓ РћС‚С†Сѓ,</plain>
         </string>
         <string>
-            <plain>Близок к юным друзьям</plain>
+            <plain>Р‘Р»РёР·РѕРє Рє СЋРЅС‹Рј РґСЂСѓР·СЊСЏРј</plain>
         </string>
         <string>
-            <plain>Как к Господним детям.</plain>
+            <plain>РљР°Рє Рє Р“РѕСЃРїРѕРґРЅРёРј РґРµС‚СЏРј.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Как в кружке весел я,</plain>
+            <plain>РљР°Рє РІ РєСЂСѓР¶РєРµ РІРµСЃРµР» СЏ,</plain>
         </string>
         <string>
-            <plain>Он - счастливых семья,</plain>
+            <plain>РћРЅ - СЃС‡Р°СЃС‚Р»РёРІС‹С… СЃРµРјСЊСЏ,</plain>
         </string>
         <string>
-            <plain>В нем на мыслях светло</plain>
+            <plain>Р’ РЅРµРј РЅР° РјС‹СЃР»СЏС… СЃРІРµС‚Р»Рѕ</plain>
         </string>
         <string>
-            <plain>И на сердце тепло.</plain>
+            <plain>Р РЅР° СЃРµСЂРґС†Рµ С‚РµРїР»Рѕ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Как в кружке счастлив я,</plain>
+            <plain>РљР°Рє РІ РєСЂСѓР¶РєРµ СЃС‡Р°СЃС‚Р»РёРІ СЏ,</plain>
         </string>
         <string>
-            <plain>Все там братья, друзья,</plain>
+            <plain>Р’СЃРµ С‚Р°Рј Р±СЂР°С‚СЊСЏ, РґСЂСѓР·СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Всюду вижу привет,</plain>
+            <plain>Р’СЃСЋРґСѓ РІРёР¶Сѓ РїСЂРёРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Ласку, радость и свет.</plain>
+            <plain>Р›Р°СЃРєСѓ, СЂР°РґРѕСЃС‚СЊ Рё СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Полны света, добра</plain>
+            <plain>РџРѕР»РЅС‹ СЃРІРµС‚Р°, РґРѕР±СЂР°</plain>
         </string>
         <string>
-            <plain>Те часы, вечера,</plain>
+            <plain>РўРµ С‡Р°СЃС‹, РІРµС‡РµСЂР°,</plain>
         </string>
         <string>
-            <plain>Что провел я в кружке</plain>
+            <plain>Р§С‚Рѕ РїСЂРѕРІРµР» СЏ РІ РєСЂСѓР¶РєРµ</plain>
         </string>
         <string>
-            <plain>От тревог вдалеке.</plain>
+            <plain>РћС‚ С‚СЂРµРІРѕРі РІРґР°Р»РµРєРµ.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Боже мой, сохрани</plain>
+            <plain>Р‘РѕР¶Рµ РјРѕР№, СЃРѕС…СЂР°РЅРё</plain>
         </string>
         <string>
-            <plain>Навсегда, на все дни</plain>
+            <plain>РќР°РІСЃРµРіРґР°, РЅР° РІСЃРµ РґРЅРё</plain>
         </string>
         <string>
-            <plain>Мой кружок дорогой</plain>
+            <plain>РњРѕР№ РєСЂСѓР¶РѕРє РґРѕСЂРѕРіРѕР№</plain>
         </string>
         <string>
-            <plain>Для работы святой.</plain>
+            <plain>Р”Р»СЏ СЂР°Р±РѕС‚С‹ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
 </psalm>

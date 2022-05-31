@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="314" name="Дочь Самарии не знала" canon="false" text="" textRus="" music="">
+<psalm number="314" name="Р”РѕС‡СЊ РЎР°РјР°СЂРёРё РЅРµ Р·РЅР°Р»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Дочь Самарии не знала,</plain>
+            <plain>Р”РѕС‡СЊ РЎР°РјР°СЂРёРё РЅРµ Р·РЅР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Что, как бедную овцу,</plain>
+            <plain>Р§С‚Рѕ, РєР°Рє Р±РµРґРЅСѓСЋ РѕРІС†Сѓ,</plain>
         </string>
         <string>
-            <plain>Длань Христа ее искала,</plain>
+            <plain>Р”Р»Р°РЅСЊ РҐСЂРёСЃС‚Р° РµРµ РёСЃРєР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Чтоб привесть к Творцу,</plain>
+            <plain>Р§С‚РѕР± РїСЂРёРІРµСЃС‚СЊ Рє РўРІРѕСЂС†Сѓ,</plain>
         </string>
         <string>
-            <plain>И что Тот, Кто полн желанья</plain>
+            <plain>Р С‡С‚Рѕ РўРѕС‚, РљС‚Рѕ РїРѕР»РЅ Р¶РµР»Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Снять с нее греховный гнет</plain>
+            <plain>РЎРЅСЏС‚СЊ СЃ РЅРµРµ РіСЂРµС…РѕРІРЅС‹Р№ РіРЅРµС‚</plain>
         </string>
         <string>
-            <plain>И избавить от страданья,</plain>
+            <plain>Р РёР·Р±Р°РІРёС‚СЊ РѕС‚ СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>У колодца ждет.</plain>
+            <plain>РЈ РєРѕР»РѕРґС†Р° Р¶РґРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Повесть дивную послушай:</plain>
+            <plain>РџРѕРІРµСЃС‚СЊ РґРёРІРЅСѓСЋ РїРѕСЃР»СѓС€Р°Р№:</plain>
         </string>
         <string>
-            <plain>Милость миру Бог дает;</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ РјРёСЂСѓ Р‘РѕРі РґР°РµС‚;</plain>
         </string>
         <string>
-            <plain>Царь Христос, кто любит души,</plain>
+            <plain>Р¦Р°СЂСЊ РҐСЂРёСЃС‚РѕСЃ, РєС‚Рѕ Р»СЋР±РёС‚ РґСѓС€Рё,</plain>
         </string>
         <string>
-            <plain>У колодца ждет.</plain>
+            <plain>РЈ РєРѕР»РѕРґС†Р° Р¶РґРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Там, где пальмы наклонялись,</plain>
+            <plain>РўР°Рј, РіРґРµ РїР°Р»СЊРјС‹ РЅР°РєР»РѕРЅСЏР»РёСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Ей сказал Спаситель Сам,</plain>
+            <plain>Р•Р№ СЃРєР°Р·Р°Р» РЎРїР°СЃРёС‚РµР»СЊ РЎР°Рј,</plain>
         </string>
         <string>
-            <plain>Как ее лета промчались</plain>
+            <plain>РљР°Рє РµРµ Р»РµС‚Р° РїСЂРѕРјС‡Р°Р»РёСЃСЊ</plain>
         </string>
         <string>
-            <plain>По земным путям.</plain>
+            <plain>РџРѕ Р·РµРјРЅС‹Рј РїСѓС‚СЏРј.</plain>
         </string>
         <string>
-            <plain>Вот она спешит в селенье</plain>
+            <plain>Р’РѕС‚ РѕРЅР° СЃРїРµС€РёС‚ РІ СЃРµР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И народу весть несет:</plain>
+            <plain>Р РЅР°СЂРѕРґСѓ РІРµСЃС‚СЊ РЅРµСЃРµС‚:</plain>
         </string>
         <string>
-            <plain>"Не Мессия ль то смиренно</plain>
+            <plain>"РќРµ РњРµСЃСЃРёСЏ Р»СЊ С‚Рѕ СЃРјРёСЂРµРЅРЅРѕ</plain>
         </string>
         <string>
-            <plain>У колодца ждет?"</plain>
+            <plain>РЈ РєРѕР»РѕРґС†Р° Р¶РґРµС‚?"</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И теперь вода живая</plain>
+            <plain>Р С‚РµРїРµСЂСЊ РІРѕРґР° Р¶РёРІР°СЏ</plain>
         </string>
         <string>
-            <plain>Для сердец людских течет;</plain>
+            <plain>Р”Р»СЏ СЃРµСЂРґРµС† Р»СЋРґСЃРєРёС… С‚РµС‡РµС‚;</plain>
         </string>
         <string>
-            <plain>Благодать в ней разливая,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊ РІ РЅРµР№ СЂР°Р·Р»РёРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Даром Бог дает.</plain>
+            <plain>Р”Р°СЂРѕРј Р‘РѕРі РґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Да познает мир: с щедротой</plain>
+            <plain>Р”Р° РїРѕР·РЅР°РµС‚ РјРёСЂ: СЃ С‰РµРґСЂРѕС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Ключ свой Бог на нас прольет,</plain>
+            <plain>РљР»СЋС‡ СЃРІРѕР№ Р‘РѕРі РЅР° РЅР°СЃ РїСЂРѕР»СЊРµС‚,</plain>
         </string>
         <string>
-            <plain>Если любим мы Того,</plain>
+            <plain>Р•СЃР»Рё Р»СЋР±РёРј РјС‹ РўРѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>Кто У колодца ждет.</plain>
+            <plain>РљС‚Рѕ РЈ РєРѕР»РѕРґС†Р° Р¶РґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

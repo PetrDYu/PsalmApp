@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1997" name="Восхвалю я имя Бога моего с песнею" canon="false" text="" textRus="" music="">
+<psalm number="1997" name="Р’РѕСЃС…РІР°Р»СЋ СЏ РёРјСЏ Р‘РѕРіР° РјРѕРµРіРѕ СЃ РїРµСЃРЅРµСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Восхвалю я имя Бога моего с песнею</plain>
+            <plain>Р’РѕСЃС…РІР°Р»СЋ СЏ РёРјСЏ Р‘РѕРіР° РјРѕРµРіРѕ СЃ РїРµСЃРЅРµСЋ</plain>
         </string>
         <string>
-            <plain>И возвеличу Его во хвалении;</plain>
+            <plain>Р РІРѕР·РІРµР»РёС‡Сѓ Р•РіРѕ РІРѕ С…РІР°Р»РµРЅРёРё;</plain>
         </string>
         <string>
-            <plain>Ибо утвердилась милость Его на нас</plain>
+            <plain>РР±Рѕ СѓС‚РІРµСЂРґРёР»Р°СЃСЊ РјРёР»РѕСЃС‚СЊ Р•РіРѕ РЅР° РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>И истина Господня пребывает вовеки.</plain>
+            <plain>Р РёСЃС‚РёРЅР° Р“РѕСЃРїРѕРґРЅСЏ РїСЂРµР±С‹РІР°РµС‚ РІРѕРІРµРєРё.</plain>
         </string>
     </verse>
 </psalm>

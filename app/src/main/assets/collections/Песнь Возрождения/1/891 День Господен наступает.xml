@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="891" name="День Господен наступает" canon="false" text="" textRus="" music="">
+<psalm number="891" name="Р”РµРЅСЊ Р“РѕСЃРїРѕРґРµРЅ РЅР°СЃС‚СѓРїР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>День Господен наступает,</plain>
+            <plain>Р”РµРЅСЊ Р“РѕСЃРїРѕРґРµРЅ РЅР°СЃС‚СѓРїР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Издали уж виден свет.</plain>
+            <plain>РР·РґР°Р»Рё СѓР¶ РІРёРґРµРЅ СЃРІРµС‚.</plain>
         </string>
         <string>
-            <plain>И всех спящих пробуждает</plain>
+            <plain>Р РІСЃРµС… СЃРїСЏС‰РёС… РїСЂРѕР±СѓР¶РґР°РµС‚</plain>
         </string>
         <string>
-            <plain>Утра радостный рассвет.</plain>
+            <plain>РЈС‚СЂР° СЂР°РґРѕСЃС‚РЅС‹Р№ СЂР°СЃСЃРІРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слыша зов Его, мужайтесь,</plain>
+            <plain>РЎР»С‹С€Р° Р·РѕРІ Р•РіРѕ, РјСѓР¶Р°Р№С‚РµСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Меч духовный обнажив.</plain>
+            <plain>РњРµС‡ РґСѓС…РѕРІРЅС‹Р№ РѕР±РЅР°Р¶РёРІ.</plain>
         </string>
         <string>
-            <plain>Вы за Господа сражайтесь,</plain>
+            <plain>Р’С‹ Р·Р° Р“РѕСЃРїРѕРґР° СЃСЂР°Р¶Р°Р№С‚РµСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Шлем спасенья возложив.</plain>
+            <plain>РЁР»РµРј СЃРїР°СЃРµРЅСЊСЏ РІРѕР·Р»РѕР¶РёРІ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вождь ваш верен! В битвах бранных</plain>
+            <plain>Р’РѕР¶РґСЊ РІР°С€ РІРµСЂРµРЅ! Р’ Р±РёС‚РІР°С… Р±СЂР°РЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Смелость в сердце сохраним.</plain>
+            <plain>РЎРјРµР»РѕСЃС‚СЊ РІ СЃРµСЂРґС†Рµ СЃРѕС…СЂР°РЅРёРј.</plain>
         </string>
         <string>
-            <plain>Легион ведет избранных</plain>
+            <plain>Р›РµРіРёРѕРЅ РІРµРґРµС‚ РёР·Р±СЂР°РЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Сам Христос: мы победим!</plain>
+            <plain>РЎР°Рј РҐСЂРёСЃС‚РѕСЃ: РјС‹ РїРѕР±РµРґРёРј!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Все вперёд, не унывая,</plain>
+            <plain>Р’СЃРµ РІРїРµСЂС‘Рґ, РЅРµ СѓРЅС‹РІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Козней не боясь врага.</plain>
+            <plain>РљРѕР·РЅРµР№ РЅРµ Р±РѕСЏСЃСЊ РІСЂР°РіР°.</plain>
         </string>
         <string>
-            <plain>На Начальника взирая,</plain>
+            <plain>РќР° РќР°С‡Р°Р»СЊРЅРёРєР° РІР·РёСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Нам победа дорога.</plain>
+            <plain>РќР°Рј РїРѕР±РµРґР° РґРѕСЂРѕРіР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>При развернутых знаменах,</plain>
+            <plain>РџСЂРё СЂР°Р·РІРµСЂРЅСѓС‚С‹С… Р·РЅР°РјРµРЅР°С…,</plain>
         </string>
         <string>
-            <plain>Проносясь чрез все места.</plain>
+            <plain>РџСЂРѕРЅРѕСЃСЏСЃСЊ С‡СЂРµР· РІСЃРµ РјРµСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Пойте в громких антифонах:</plain>
+            <plain>РџРѕР№С‚Рµ РІ РіСЂРѕРјРєРёС… Р°РЅС‚РёС„РѕРЅР°С…:</plain>
         </string>
         <string>
-            <plain>Близко царствие Христа!</plain>
+            <plain>Р‘Р»РёР·РєРѕ С†Р°СЂСЃС‚РІРёРµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
 </psalm>

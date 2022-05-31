@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1773" name="Прекрасен как солнце" canon="false" text="" textRus="" music="">
+<psalm number="1773" name="РџСЂРµРєСЂР°СЃРµРЅ РєР°Рє СЃРѕР»РЅС†Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Прекрасен, как солнце,</plain>
+            <plain>РџСЂРµРєСЂР°СЃРµРЅ, РєР°Рє СЃРѕР»РЅС†Рµ,</plain>
         </string>
         <string>
-            <plain>восторг наш сердечный:</plain>
+            <plain>РІРѕСЃС‚РѕСЂРі РЅР°С€ СЃРµСЂРґРµС‡РЅС‹Р№:</plain>
         </string>
         <string>
-            <plain>Воскрес наш Спаситель,</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃ РЅР°С€ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Сын Божий предвечный!</plain>
+            <plain>РЎС‹РЅ Р‘РѕР¶РёР№ РїСЂРµРґРІРµС‡РЅС‹Р№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Об этом слагаем</plain>
+            <plain>РћР± СЌС‚РѕРј СЃР»Р°РіР°РµРј</plain>
         </string>
         <string>
-            <plain>мы светлые песни.</plain>
+            <plain>РјС‹ СЃРІРµС‚Р»С‹Рµ РїРµСЃРЅРё.</plain>
         </string>
         <string>
-            <plain>О, спящий духовно,</plain>
+            <plain>Рћ, СЃРїСЏС‰РёР№ РґСѓС…РѕРІРЅРѕ,</plain>
         </string>
         <string>
-            <plain>ты ныне воскресни!</plain>
+            <plain>С‚С‹ РЅС‹РЅРµ РІРѕСЃРєСЂРµСЃРЅРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>От жизни греховной,</plain>
+            <plain>РћС‚ Р¶РёР·РЅРё РіСЂРµС…РѕРІРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>безрадостной прежде</plain>
+            <plain>Р±РµР·СЂР°РґРѕСЃС‚РЅРѕР№ РїСЂРµР¶РґРµ</plain>
         </string>
         <string>
-            <plain>Воскресни, чтоб жить</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃРЅРё, С‡С‚РѕР± Р¶РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>и в любви, и в надежде.</plain>
+            <plain>Рё РІ Р»СЋР±РІРё, Рё РІ РЅР°РґРµР¶РґРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Да стихнет неверия</plain>
+            <plain>Р”Р° СЃС‚РёС…РЅРµС‚ РЅРµРІРµСЂРёСЏ</plain>
         </string>
         <string>
-            <plain>грозная вьюга:</plain>
+            <plain>РіСЂРѕР·РЅР°СЏ РІСЊСЋРіР°:</plain>
         </string>
         <string>
-            <plain>Приветствуйте, братья</plain>
+            <plain>РџСЂРёРІРµС‚СЃС‚РІСѓР№С‚Рµ, Р±СЂР°С‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>и сестры, друг друга!</plain>
+            <plain>Рё СЃРµСЃС‚СЂС‹, РґСЂСѓРі РґСЂСѓРіР°!</plain>
         </string>
     </verse>
 </psalm>

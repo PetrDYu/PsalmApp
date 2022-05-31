@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1374" name="Бог живущий в высшем свете" canon="false" text="" textRus="" music="">
+<psalm number="1374" name="Р‘РѕРі Р¶РёРІСѓС‰РёР№ РІ РІС‹СЃС€РµРј СЃРІРµС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог, живущий в высшем свете.</plain>
+            <plain>Р‘РѕРі, Р¶РёРІСѓС‰РёР№ РІ РІС‹СЃС€РµРј СЃРІРµС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Жизни вечной Властелин!</plain>
+            <plain>Р–РёР·РЅРё РІРµС‡РЅРѕР№ Р’Р»Р°СЃС‚РµР»РёРЅ!</plain>
         </string>
         <string>
-            <plain>Ряд веков, тысячелетий</plain>
+            <plain>Р СЏРґ РІРµРєРѕРІ, С‚С‹СЃСЏС‡РµР»РµС‚РёР№</plain>
         </string>
         <string>
-            <plain>Пред Тобой, как день один.</plain>
+            <plain>РџСЂРµРґ РўРѕР±РѕР№, РєР°Рє РґРµРЅСЊ РѕРґРёРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Полн загадок год грядущий.</plain>
+            <plain>РџРѕР»РЅ Р·Р°РіР°РґРѕРє РіРѕРґ РіСЂСЏРґСѓС‰РёР№.</plain>
         </string>
         <string>
-            <plain>Но он весь в руках Твоих;</plain>
+            <plain>РќРѕ РѕРЅ РІРµСЃСЊ РІ СЂСѓРєР°С… РўРІРѕРёС…;</plain>
         </string>
         <string>
-            <plain>Помоги нам. Всемогущий,</plain>
+            <plain>РџРѕРјРѕРіРё РЅР°Рј. Р’СЃРµРјРѕРіСѓС‰РёР№,</plain>
         </string>
         <string>
-            <plain>Жить с Тобою каждый миг!</plain>
+            <plain>Р–РёС‚СЊ СЃ РўРѕР±РѕСЋ РєР°Р¶РґС‹Р№ РјРёРі!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Что весь век наш пред Тобою?</plain>
+            <plain>Р§С‚Рѕ РІРµСЃСЊ РІРµРє РЅР°С€ РїСЂРµРґ РўРѕР±РѕСЋ?</plain>
         </string>
         <string>
-            <plain>Как мелькнувшая звезда,</plain>
+            <plain>РљР°Рє РјРµР»СЊРєРЅСѓРІС€Р°СЏ Р·РІРµР·РґР°,</plain>
         </string>
         <string>
-            <plain>Наша жизнь блеснет порою</plain>
+            <plain>РќР°С€Р° Р¶РёР·РЅСЊ Р±Р»РµСЃРЅРµС‚ РїРѕСЂРѕСЋ</plain>
         </string>
         <string>
-            <plain>И погаснет без следа.</plain>
+            <plain>Р РїРѕРіР°СЃРЅРµС‚ Р±РµР· СЃР»РµРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Что весь век наш пред Тобою?</plain>
+            <plain>Р§С‚Рѕ РІРµСЃСЊ РІРµРє РЅР°С€ РїСЂРµРґ РўРѕР±РѕСЋ?</plain>
         </string>
         <string>
-            <plain>Наша жизнь, как легкий пар,</plain>
+            <plain>РќР°С€Р° Р¶РёР·РЅСЊ, РєР°Рє Р»РµРіРєРёР№ РїР°СЂ,</plain>
         </string>
         <string>
-            <plain>Что, поднявшись над землею.</plain>
+            <plain>Р§С‚Рѕ, РїРѕРґРЅСЏРІС€РёСЃСЊ РЅР°Рґ Р·РµРјР»РµСЋ.</plain>
         </string>
         <string>
-            <plain>Исчезает в летний жар.</plain>
+            <plain>РСЃС‡РµР·Р°РµС‚ РІ Р»РµС‚РЅРёР№ Р¶Р°СЂ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Жизнь вся наша пред Тобою,</plain>
+            <plain>Р–РёР·РЅСЊ РІСЃСЏ РЅР°С€Р° РїСЂРµРґ РўРѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Как трава, что, лишь взойдет.</plain>
+            <plain>РљР°Рє С‚СЂР°РІР°, С‡С‚Рѕ, Р»РёС€СЊ РІР·РѕР№РґРµС‚.</plain>
         </string>
         <string>
-            <plain>Тотчас вянет под жарою</plain>
+            <plain>РўРѕС‚С‡Р°СЃ РІСЏРЅРµС‚ РїРѕРґ Р¶Р°СЂРѕСЋ</plain>
         </string>
         <string>
-            <plain>Иссушающих забот.</plain>
+            <plain>РСЃСЃСѓС€Р°СЋС‰РёС… Р·Р°Р±РѕС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты ведь бренность нашу знаешь,</plain>
+            <plain>РўС‹ РІРµРґСЊ Р±СЂРµРЅРЅРѕСЃС‚СЊ РЅР°С€Сѓ Р·РЅР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Все же нашей жизни день</plain>
+            <plain>Р’СЃРµ Р¶Рµ РЅР°С€РµР№ Р¶РёР·РЅРё РґРµРЅСЊ</plain>
         </string>
         <string>
-            <plain>Больше тысяч лет считаешь</plain>
+            <plain>Р‘РѕР»СЊС€Рµ С‚С‹СЃСЏС‡ Р»РµС‚ СЃС‡РёС‚Р°РµС€СЊ</plain>
         </string>
         <string>
-            <plain>И даешь бессмертья сень.</plain>
+            <plain>Р РґР°РµС€СЊ Р±РµСЃСЃРјРµСЂС‚СЊСЏ СЃРµРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

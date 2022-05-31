@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1944" name="Велика страна родная" canon="false" text="" textRus="" music="">
+<psalm number="1944" name="Р’РµР»РёРєР° СЃС‚СЂР°РЅР° СЂРѕРґРЅР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Велика страна родная;</plain>
+            <plain>Р’РµР»РёРєР° СЃС‚СЂР°РЅР° СЂРѕРґРЅР°СЏ;</plain>
         </string>
         <string>
-            <plain>Как могучий богатырь,</plain>
+            <plain>РљР°Рє РјРѕРіСѓС‡РёР№ Р±РѕРіР°С‚С‹СЂСЊ,</plain>
         </string>
         <string>
-            <plain>Полушарье край от края</plain>
+            <plain>РџРѕР»СѓС€Р°СЂСЊРµ РєСЂР°Р№ РѕС‚ РєСЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Охватила ее ширь.</plain>
+            <plain>РћС…РІР°С‚РёР»Р° РµРµ С€РёСЂСЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Но к величию пространства</plain>
+            <plain>РќРѕ Рє РІРµР»РёС‡РёСЋ РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>Возвеличь ее, Благой,</plain>
+            <plain>Р’РѕР·РІРµР»РёС‡СЊ РµРµ, Р‘Р»Р°РіРѕР№,</plain>
         </string>
         <string>
-            <plain>Правдой перво-христианства,</plain>
+            <plain>РџСЂР°РІРґРѕР№ РїРµСЂРІРѕ-С…СЂРёСЃС‚РёР°РЅСЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Жизнью истинно святой.</plain>
+            <plain>Р–РёР·РЅСЊСЋ РёСЃС‚РёРЅРЅРѕ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Силой духа, силой слова,</plain>
+            <plain>РЎРёР»РѕР№ РґСѓС…Р°, СЃРёР»РѕР№ СЃР»РѕРІР°,</plain>
         </string>
         <string>
-            <plain>Осчастливь судьбу Руси.</plain>
+            <plain>РћСЃС‡Р°СЃС‚Р»РёРІСЊ СЃСѓРґСЊР±Сѓ Р СѓСЃРё.</plain>
         </string>
         <string>
-            <plain>К высям царствия Христова</plain>
+            <plain>Рљ РІС‹СЃСЏРј С†Р°СЂСЃС‚РІРёСЏ РҐСЂРёСЃС‚РѕРІР°</plain>
         </string>
         <string>
-            <plain>Мысль народа вознеси.</plain>
+            <plain>РњС‹СЃР»СЊ РЅР°СЂРѕРґР° РІРѕР·РЅРµСЃРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Да умрет кумир телесный,</plain>
+            <plain>Р”Р° СѓРјСЂРµС‚ РєСѓРјРёСЂ С‚РµР»РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Материальный идеал;</plain>
+            <plain>РњР°С‚РµСЂРёР°Р»СЊРЅС‹Р№ РёРґРµР°Р»;</plain>
         </string>
         <string>
-            <plain>Дай, чтоб идеал небесный</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РёРґРµР°Р» РЅРµР±РµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Над страною воссиял.</plain>
+            <plain>РќР°Рґ СЃС‚СЂР°РЅРѕСЋ РІРѕСЃСЃРёСЏР».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Дай, чтоб меч ей был не нужен.</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РјРµС‡ РµР№ Р±С‹Р» РЅРµ РЅСѓР¶РµРЅ.</plain>
         </string>
         <string>
-            <plain>Чтобы сгинула война;</plain>
+            <plain>Р§С‚РѕР±С‹ СЃРіРёРЅСѓР»Р° РІРѕР№РЅР°;</plain>
         </string>
         <string>
-            <plain>Чтобы жизненных жемчужин</plain>
+            <plain>Р§С‚РѕР±С‹ Р¶РёР·РЅРµРЅРЅС‹С… Р¶РµРјС‡СѓР¶РёРЅ</plain>
         </string>
         <string>
-            <plain>Не губила впредь она.</plain>
+            <plain>РќРµ РіСѓР±РёР»Р° РІРїСЂРµРґСЊ РѕРЅР°.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Дай, чтоб жизни молодые</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± Р¶РёР·РЅРё РјРѕР»РѕРґС‹Рµ</plain>
         </string>
         <string>
-            <plain>Воевали без крови</plain>
+            <plain>Р’РѕРµРІР°Р»Рё Р±РµР· РєСЂРѕРІРё</plain>
         </string>
         <string>
-            <plain>За спасение России</plain>
+            <plain>Р—Р° СЃРїР°СЃРµРЅРёРµ Р РѕСЃСЃРёРё</plain>
         </string>
         <string>
-            <plain>И за Царствие любви.</plain>
+            <plain>Р Р·Р° Р¦Р°СЂСЃС‚РІРёРµ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Низведи к ней царство братства,</plain>
+            <plain>РќРёР·РІРµРґРё Рє РЅРµР№ С†Р°СЂСЃС‚РІРѕ Р±СЂР°С‚СЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Век желанный, золотой;</plain>
+            <plain>Р’РµРє Р¶РµР»Р°РЅРЅС‹Р№, Р·РѕР»РѕС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Дождь духовного богатства</plain>
+            <plain>Р”РѕР¶РґСЊ РґСѓС…РѕРІРЅРѕРіРѕ Р±РѕРіР°С‚СЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>Да прольется над страной.</plain>
+            <plain>Р”Р° РїСЂРѕР»СЊРµС‚СЃСЏ РЅР°Рґ СЃС‚СЂР°РЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Дай народам подвиг мирный,</plain>
+            <plain>Р”Р°Р№ РЅР°СЂРѕРґР°Рј РїРѕРґРІРёРі РјРёСЂРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Реки знания пошли</plain>
+            <plain>Р РµРєРё Р·РЅР°РЅРёСЏ РїРѕС€Р»Рё</plain>
         </string>
         <string>
-            <plain>И соделай край обширный</plain>
+            <plain>Р СЃРѕРґРµР»Р°Р№ РєСЂР°Р№ РѕР±С€РёСЂРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Средоточием земли.</plain>
+            <plain>РЎСЂРµРґРѕС‚РѕС‡РёРµРј Р·РµРјР»Рё.</plain>
         </string>
     </verse>
 </psalm>

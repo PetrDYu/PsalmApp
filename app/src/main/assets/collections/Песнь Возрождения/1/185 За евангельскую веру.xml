@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="185" name="За евангельскую веру" canon="false" text="" textRus="" music="">
+<psalm number="185" name="Р—Р° РµРІР°РЅРіРµР»СЊСЃРєСѓСЋ РІРµСЂСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>За евангельскую веру,</plain>
+            <plain>Р—Р° РµРІР°РЅРіРµР»СЊСЃРєСѓСЋ РІРµСЂСѓ,</plain>
         </string>
         <string>
-            <plain>За Христа мы постоим;</plain>
+            <plain>Р—Р° РҐСЂРёСЃС‚Р° РјС‹ РїРѕСЃС‚РѕРёРј;</plain>
         </string>
         <string>
-            <plain>Следуя Его примеру,</plain>
+            <plain>РЎР»РµРґСѓСЏ Р•РіРѕ РїСЂРёРјРµСЂСѓ,</plain>
         </string>
         <string>
-            <plain>Все вперед, вперед за Ним!</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ, РІРїРµСЂРµРґ Р·Р° РќРёРј!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дружной, радостной семьею,</plain>
+            <plain>Р”СЂСѓР¶РЅРѕР№, СЂР°РґРѕСЃС‚РЅРѕР№ СЃРµРјСЊРµСЋ,</plain>
         </string>
         <string>
-            <plain>Как один Его народ,</plain>
+            <plain>РљР°Рє РѕРґРёРЅ Р•РіРѕ РЅР°СЂРѕРґ,</plain>
         </string>
         <string>
-            <plain>Одним сердцем и душою</plain>
+            <plain>РћРґРЅРёРј СЃРµСЂРґС†РµРј Рё РґСѓС€РѕСЋ</plain>
         </string>
         <string>
-            <plain>За Христом вперед, вперед!</plain>
+            <plain>Р—Р° РҐСЂРёСЃС‚РѕРј РІРїРµСЂРµРґ, РІРїРµСЂРµРґ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Жарок бой и страшно пламя</plain>
+            <plain>Р–Р°СЂРѕРє Р±РѕР№ Рё СЃС‚СЂР°С€РЅРѕ РїР»Р°РјСЏ</plain>
         </string>
         <string>
-            <plain>И колеблются места;</plain>
+            <plain>Р РєРѕР»РµР±Р»СЋС‚СЃСЏ РјРµСЃС‚Р°;</plain>
         </string>
         <string>
-            <plain>Подымите выше знамя</plain>
+            <plain>РџРѕРґС‹РјРёС‚Рµ РІС‹С€Рµ Р·РЅР°РјСЏ</plain>
         </string>
         <string>
-            <plain>Победителя Христа.</plain>
+            <plain>РџРѕР±РµРґРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В мире жизни равнодушной</plain>
+            <plain>Р’ РјРёСЂРµ Р¶РёР·РЅРё СЂР°РІРЅРѕРґСѓС€РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Наш Христос пренебрежен;</plain>
+            <plain>РќР°С€ РҐСЂРёСЃС‚РѕСЃ РїСЂРµРЅРµР±СЂРµР¶РµРЅ;</plain>
         </string>
         <string>
-            <plain>Постоим единодушно</plain>
+            <plain>РџРѕСЃС‚РѕРёРј РµРґРёРЅРѕРґСѓС€РЅРѕ</plain>
         </string>
         <string>
-            <plain>За Его святой закон.</plain>
+            <plain>Р—Р° Р•РіРѕ СЃРІСЏС‚РѕР№ Р·Р°РєРѕРЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Крепость веры, дщерь Сиона,</plain>
+            <plain>РљСЂРµРїРѕСЃС‚СЊ РІРµСЂС‹, РґС‰РµСЂСЊ РЎРёРѕРЅР°,</plain>
         </string>
         <string>
-            <plain>Будем дружно защищать;</plain>
+            <plain>Р‘СѓРґРµРј РґСЂСѓР¶РЅРѕ Р·Р°С‰РёС‰Р°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>И оружьем Гедеона</plain>
+            <plain>Р РѕСЂСѓР¶СЊРµРј Р“РµРґРµРѕРЅР°</plain>
         </string>
         <string>
-            <plain>Вражью силу отражать.</plain>
+            <plain>Р’СЂР°Р¶СЊСЋ СЃРёР»Сѓ РѕС‚СЂР°Р¶Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Подвиг правды, труд суровый</plain>
+            <plain>РџРѕРґРІРёРі РїСЂР°РІРґС‹, С‚СЂСѓРґ СЃСѓСЂРѕРІС‹Р№</plain>
         </string>
         <string>
-            <plain>Будем смело совершать</plain>
+            <plain>Р‘СѓРґРµРј СЃРјРµР»Рѕ СЃРѕРІРµСЂС€Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И шатры любви Христовой</plain>
+            <plain>Р С€Р°С‚СЂС‹ Р»СЋР±РІРё РҐСЂРёСЃС‚РѕРІРѕР№</plain>
         </string>
         <string>
-            <plain>Будем в мире расширять.</plain>
+            <plain>Р‘СѓРґРµРј РІ РјРёСЂРµ СЂР°СЃС€РёСЂСЏС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2855" name="С хвалебными песнями радостно" canon="false" text="" textRus="" music="">
+<psalm number="2855" name="РЎ С…РІР°Р»РµР±РЅС‹РјРё РїРµСЃРЅСЏРјРё СЂР°РґРѕСЃС‚РЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С хвалебными песнями радостно</plain>
+            <plain>РЎ С…РІР°Р»РµР±РЅС‹РјРё РїРµСЃРЅСЏРјРё СЂР°РґРѕСЃС‚РЅРѕ</plain>
         </string>
         <string>
-            <plain>мы пришли в этот радостный час,</plain>
+            <plain>РјС‹ РїСЂРёС€Р»Рё РІ СЌС‚РѕС‚ СЂР°РґРѕСЃС‚РЅС‹Р№ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>во славу Всевышнего льются они,</plain>
+            <plain>РІРѕ СЃР»Р°РІСѓ Р’СЃРµРІС‹С€РЅРµРіРѕ Р»СЊСЋС‚СЃСЏ РѕРЅРё,</plain>
         </string>
         <string>
-            <plain>который печётся о нас.</plain>
+            <plain>РєРѕС‚РѕСЂС‹Р№ РїРµС‡С‘С‚СЃСЏ Рѕ РЅР°СЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Воспойте, воспойте!</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ, РІРѕСЃРїРѕР№С‚Рµ!</plain>
         </string>
         <string>
-            <plain>Дары принесите Ему!</plain>
+            <plain>Р”Р°СЂС‹ РїСЂРёРЅРµСЃРёС‚Рµ Р•РјСѓ!</plain>
         </string>
         <string>
-            <plain>Воспойте, воспойте,</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ, РІРѕСЃРїРѕР№С‚Рµ,</plain>
         </string>
         <string>
-            <plain>всем сердцем воздайте хвалу!</plain>
+            <plain>РІСЃРµРј СЃРµСЂРґС†РµРј РІРѕР·РґР°Р№С‚Рµ С…РІР°Р»Сѓ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Нам солнце вещает о Божьей любви,</plain>
+            <plain>РќР°Рј СЃРѕР»РЅС†Рµ РІРµС‰Р°РµС‚ Рѕ Р‘РѕР¶СЊРµР№ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>а звёзды о славе Его;</plain>
+            <plain>Р° Р·РІС‘Р·РґС‹ Рѕ СЃР»Р°РІРµ Р•РіРѕ;</plain>
         </string>
         <string>
-            <plain>потоки нам благословений даны;</plain>
+            <plain>РїРѕС‚РѕРєРё РЅР°Рј Р±Р»Р°РіРѕСЃР»РѕРІРµРЅРёР№ РґР°РЅС‹;</plain>
         </string>
         <string>
-            <plain>терпенье Его велико.</plain>
+            <plain>С‚РµСЂРїРµРЅСЊРµ Р•РіРѕ РІРµР»РёРєРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В святилище Божье мы не пришли</plain>
+            <plain>Р’ СЃРІСЏС‚РёР»РёС‰Рµ Р‘РѕР¶СЊРµ РјС‹ РЅРµ РїСЂРёС€Р»Рё</plain>
         </string>
         <string>
-            <plain>и радостно славим Его:</plain>
+            <plain>Рё СЂР°РґРѕСЃС‚РЅРѕ СЃР»Р°РІРёРј Р•РіРѕ:</plain>
         </string>
         <string>
-            <plain>пусть будут дни жизни Ему отданы.</plain>
+            <plain>РїСѓСЃС‚СЊ Р±СѓРґСѓС‚ РґРЅРё Р¶РёР·РЅРё Р•РјСѓ РѕС‚РґР°РЅС‹.</plain>
         </string>
         <string>
-            <plain>Душа, чти Его высоко!</plain>
+            <plain>Р”СѓС€Р°, С‡С‚Рё Р•РіРѕ РІС‹СЃРѕРєРѕ!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,83 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="70" name="Как овечку Пастырь сильный" canon="false" text="" textRus="" music="">
+<psalm number="70" name="РљР°Рє РѕРІРµС‡РєСѓ РџР°СЃС‚С‹СЂСЊ СЃРёР»СЊРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как овечку, Пастырь сильный,</plain>
+            <plain>РљР°Рє РѕРІРµС‡РєСѓ, РџР°СЃС‚С‹СЂСЊ СЃРёР»СЊРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Ты веди меня вперед;</plain>
+            <plain>РўС‹ РІРµРґРё РјРµРЅСЏ РІРїРµСЂРµРґ;</plain>
         </string>
         <string>
-            <plain>Пажити Твои обильны,</plain>
+            <plain>РџР°Р¶РёС‚Рё РўРІРѕРё РѕР±РёР»СЊРЅС‹,</plain>
         </string>
         <string>
-            <plain>Голос Твой к водам зовет.</plain>
+            <plain>Р“РѕР»РѕСЃ РўРІРѕР№ Рє РІРѕРґР°Рј Р·РѕРІРµС‚.</plain>
         </string>
         <string>
-            <plain>О Иисус мой! О Иисус мой!</plain>
+            <plain>Рћ РРёСЃСѓСЃ РјРѕР№! Рћ РРёСЃСѓСЃ РјРѕР№!</plain>
         </string>
         <string>
-            <plain>За меня Ты кровь пролил.</plain>
+            <plain>Р—Р° РјРµРЅСЏ РўС‹ РєСЂРѕРІСЊ РїСЂРѕР»РёР».</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>На земле Ты будь мне Другом,</plain>
+            <plain>РќР° Р·РµРјР»Рµ РўС‹ Р±СѓРґСЊ РјРЅРµ Р”СЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Агнцев в мире охраняй;</plain>
+            <plain>РђРіРЅС†РµРІ РІ РјРёСЂРµ РѕС…СЂР°РЅСЏР№;</plain>
         </string>
         <string>
-            <plain>Нас веди небесным лугом,</plain>
+            <plain>РќР°СЃ РІРµРґРё РЅРµР±РµСЃРЅС‹Рј Р»СѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>А заблудших выручай.</plain>
+            <plain>Рђ Р·Р°Р±Р»СѓРґС€РёС… РІС‹СЂСѓС‡Р°Р№.</plain>
         </string>
         <string>
-            <plain>О Иисус мой! О Иисус мой!</plain>
+            <plain>Рћ РРёСЃСѓСЃ РјРѕР№! Рћ РРёСЃСѓСЃ РјРѕР№!</plain>
         </string>
         <string>
-            <plain>Ты грехи мои понес.</plain>
+            <plain>РўС‹ РіСЂРµС…Рё РјРѕРё РїРѕРЅРµСЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, исполни обещанье:</plain>
+            <plain>Рћ, РёСЃРїРѕР»РЅРё РѕР±РµС‰Р°РЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>Дай Свою мне благодать!</plain>
+            <plain>Р”Р°Р№ РЎРІРѕСЋ РјРЅРµ Р±Р»Р°РіРѕРґР°С‚СЊ!</plain>
         </string>
         <string>
-            <plain>После долгого скитанья</plain>
+            <plain>РџРѕСЃР»Рµ РґРѕР»РіРѕРіРѕ СЃРєРёС‚Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Поспеши меня принять.</plain>
+            <plain>РџРѕСЃРїРµС€Рё РјРµРЅСЏ РїСЂРёРЅСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>О Иисус мой! О Иисус мой!</plain>
+            <plain>Рћ РРёСЃСѓСЃ РјРѕР№! Рћ РРёСЃСѓСЃ РјРѕР№!</plain>
         </string>
         <string>
-            <plain>Приближай меня к Себе.</plain>
+            <plain>РџСЂРёР±Р»РёР¶Р°Р№ РјРµРЅСЏ Рє РЎРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сделай сердце мне способным</plain>
+            <plain>РЎРґРµР»Р°Р№ СЃРµСЂРґС†Рµ РјРЅРµ СЃРїРѕСЃРѕР±РЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Вечный Твой завет любить.</plain>
+            <plain>Р’РµС‡РЅС‹Р№ РўРІРѕР№ Р·Р°РІРµС‚ Р»СЋР±РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Дай любовь ко мне подобным,</plain>
+            <plain>Р”Р°Р№ Р»СЋР±РѕРІСЊ РєРѕ РјРЅРµ РїРѕРґРѕР±РЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Научи любовью жить.</plain>
+            <plain>РќР°СѓС‡Рё Р»СЋР±РѕРІСЊСЋ Р¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>О Иисус мой! О Иисус мой!</plain>
+            <plain>Рћ РРёСЃСѓСЃ РјРѕР№! Рћ РРёСЃСѓСЃ РјРѕР№!</plain>
         </string>
         <string>
-            <plain>До могилы будь со мной!</plain>
+            <plain>Р”Рѕ РјРѕРіРёР»С‹ Р±СѓРґСЊ СЃРѕ РјРЅРѕР№!</plain>
         </string>
     </verse>
 </psalm>

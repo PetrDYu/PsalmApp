@@ -1,85 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="952" name="Наш Спаситель в каждом веке" canon="false" text="" textRus="" music="">
+<psalm number="952" name="РќР°С€ РЎРїР°СЃРёС‚РµР»СЊ РІ РєР°Р¶РґРѕРј РІРµРєРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Наш Спаситель в каждом веке</plain>
+            <plain>РќР°С€ РЎРїР°СЃРёС‚РµР»СЊ РІ РєР°Р¶РґРѕРј РІРµРєРµ</plain>
         </string>
         <string>
-            <plain>К сокрушенным близок был,</plain>
+            <plain>Рљ СЃРѕРєСЂСѓС€РµРЅРЅС‹Рј Р±Р»РёР·РѕРє Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>Разве Он о человеке</plain>
+            <plain>Р Р°Р·РІРµ РћРЅ Рѕ С‡РµР»РѕРІРµРєРµ</plain>
         </string>
         <string>
-            <plain>В наше время позабыл?</plain>
+            <plain>Р’ РЅР°С€Рµ РІСЂРµРјСЏ РїРѕР·Р°Р±С‹Р»?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог в Иудее, Бог в Галилее,</plain>
+            <plain>Р‘РѕРі РІ РСѓРґРµРµ, Р‘РѕРі РІ Р“Р°Р»РёР»РµРµ,</plain>
         </string>
         <string>
-            <plain>Людям помочь спешил.</plain>
+            <plain>Р›СЋРґСЏРј РїРѕРјРѕС‡СЊ СЃРїРµС€РёР».</plain>
         </string>
         <string>
-            <plain>Тот же Мессия также</plain>
+            <plain>РўРѕС‚ Р¶Рµ РњРµСЃСЃРёСЏ С‚Р°РєР¶Рµ</plain>
         </string>
         <string>
-            <plain>Россию Милости не лишил.</plain>
+            <plain>Р РѕСЃСЃРёСЋ РњРёР»РѕСЃС‚Рё РЅРµ Р»РёС€РёР».</plain>
         </string>
         <string>
-            <plain>Будет то время, каждое племя</plain>
+            <plain>Р‘СѓРґРµС‚ С‚Рѕ РІСЂРµРјСЏ, РєР°Р¶РґРѕРµ РїР»РµРјСЏ</plain>
         </string>
         <string>
-            <plain>Примет любовь Христа.</plain>
+            <plain>РџСЂРёРјРµС‚ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>За пробужденье, за исцеленье</plain>
+            <plain>Р—Р° РїСЂРѕР±СѓР¶РґРµРЅСЊРµ, Р·Р° РёСЃС†РµР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Молятся здесь сердца.</plain>
+            <plain>РњРѕР»СЏС‚СЃСЏ Р·РґРµСЃСЊ СЃРµСЂРґС†Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Милосердием Господним</plain>
+            <plain>РњРёР»РѕСЃРµСЂРґРёРµРј Р“РѕСЃРїРѕРґРЅРёРј</plain>
         </string>
         <string>
-            <plain>Был очищен Нееман.</plain>
+            <plain>Р‘С‹Р» РѕС‡РёС‰РµРЅ РќРµРµРјР°РЅ.</plain>
         </string>
         <string>
-            <plain>Разве нет у нас сегодня</plain>
+            <plain>Р Р°Р·РІРµ РЅРµС‚ Сѓ РЅР°СЃ СЃРµРіРѕРґРЅСЏ</plain>
         </string>
         <string>
-            <plain>Исцеленных христиан?</plain>
+            <plain>РСЃС†РµР»РµРЅРЅС‹С… С…СЂРёСЃС‚РёР°РЅ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Елисей - слуга Господний -</plain>
+            <plain>Р•Р»РёСЃРµР№ - СЃР»СѓРіР° Р“РѕСЃРїРѕРґРЅРёР№ -</plain>
         </string>
         <string>
-            <plain>Чудотворный дар носил.</plain>
+            <plain>Р§СѓРґРѕС‚РІРѕСЂРЅС‹Р№ РґР°СЂ РЅРѕСЃРёР».</plain>
         </string>
         <string>
-            <plain>Разве нет у нас сегодня</plain>
+            <plain>Р Р°Р·РІРµ РЅРµС‚ Сѓ РЅР°СЃ СЃРµРіРѕРґРЅСЏ</plain>
         </string>
         <string>
-            <plain>Тех, кто просит свыше сил?</plain>
+            <plain>РўРµС…, РєС‚Рѕ РїСЂРѕСЃРёС‚ СЃРІС‹С€Рµ СЃРёР»?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Иисус Христос - Сын Божий -</plain>
+            <plain>РРёСЃСѓСЃ РҐСЂРёСЃС‚РѕСЃ - РЎС‹РЅ Р‘РѕР¶РёР№ -</plain>
         </string>
         <string>
-            <plain>Шел больным здоровье дать.</plain>
+            <plain>РЁРµР» Р±РѕР»СЊРЅС‹Рј Р·РґРѕСЂРѕРІСЊРµ РґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Разве Дух Святой не может</plain>
+            <plain>Р Р°Р·РІРµ Р”СѓС… РЎРІСЏС‚РѕР№ РЅРµ РјРѕР¶РµС‚</plain>
         </string>
         <string>
-            <plain>Это дело продолжать?</plain>
+            <plain>Р­С‚Рѕ РґРµР»Рѕ РїСЂРѕРґРѕР»Р¶Р°С‚СЊ?</plain>
         </string>
     </verse>
 </psalm>

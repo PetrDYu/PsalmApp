@@ -1,74 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="18" name="Брат напомни мне опять" canon="false" text="" textRus="" music="">
+<psalm number="18" name="Р‘СЂР°С‚ РЅР°РїРѕРјРЅРё РјРЅРµ РѕРїСЏС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Брат, напомни мне опять</plain>
+            <plain>Р‘СЂР°С‚, РЅР°РїРѕРјРЅРё РјРЅРµ РѕРїСЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>Звуки слов любви,</plain>
+            <plain>Р—РІСѓРєРё СЃР»РѕРІ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Чтоб я сердцем мог понять</plain>
+            <plain>Р§С‚РѕР± СЏ СЃРµСЂРґС†РµРј РјРѕРі РїРѕРЅСЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>Тайну слов любви.</plain>
+            <plain>РўР°Р№РЅСѓ СЃР»РѕРІ Р»СЋР±РІРё.</plain>
         </string>
         <string>
-            <plain>Песнь любви польется,</plain>
+            <plain>РџРµСЃРЅСЊ Р»СЋР±РІРё РїРѕР»СЊРµС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>К небу дух взнесется.</plain>
+            <plain>Рљ РЅРµР±Сѓ РґСѓС… РІР·РЅРµСЃРµС‚СЃСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Славьте Христа,</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Славьте Христа,</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Славьте любовь Христа!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сам Спаситель в мир принес</plain>
+            <plain>РЎР°Рј РЎРїР°СЃРёС‚РµР»СЊ РІ РјРёСЂ РїСЂРёРЅРµСЃ</plain>
         </string>
         <string>
-            <plain>Звуки слов любви;</plain>
+            <plain>Р—РІСѓРєРё СЃР»РѕРІ Р»СЋР±РІРё;</plain>
         </string>
         <string>
-            <plain>И гласят в утеху слез</plain>
+            <plain>Р РіР»Р°СЃСЏС‚ РІ СѓС‚РµС…Сѓ СЃР»РµР·</plain>
         </string>
         <string>
-            <plain>Звуки слов любви.</plain>
+            <plain>Р—РІСѓРєРё СЃР»РѕРІ Р»СЋР±РІРё.</plain>
         </string>
         <string>
-            <plain>Песнь любви вещает:</plain>
+            <plain>РџРµСЃРЅСЊ Р»СЋР±РІРё РІРµС‰Р°РµС‚:</plain>
         </string>
         <string>
-            <plain>Грешных Бог прощает.</plain>
+            <plain>Р“СЂРµС€РЅС‹С… Р‘РѕРі РїСЂРѕС‰Р°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дышат радостью святой</plain>
+            <plain>Р”С‹С€Р°С‚ СЂР°РґРѕСЃС‚СЊСЋ СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Звуки слов любви;</plain>
+            <plain>Р—РІСѓРєРё СЃР»РѕРІ Р»СЋР±РІРё;</plain>
         </string>
         <string>
-            <plain>Полны дивной красотой</plain>
+            <plain>РџРѕР»РЅС‹ РґРёРІРЅРѕР№ РєСЂР°СЃРѕС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Звуки слов любви.</plain>
+            <plain>Р—РІСѓРєРё СЃР»РѕРІ Р»СЋР±РІРё.</plain>
         </string>
         <string>
-            <plain>Песнь любви Христовой</plain>
+            <plain>РџРµСЃРЅСЊ Р»СЋР±РІРё РҐСЂРёСЃС‚РѕРІРѕР№</plain>
         </string>
         <string>
-            <plain>Будит к жизни новой.</plain>
+            <plain>Р‘СѓРґРёС‚ Рє Р¶РёР·РЅРё РЅРѕРІРѕР№.</plain>
         </string>
     </verse>
 </psalm>

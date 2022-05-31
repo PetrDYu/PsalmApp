@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1898" name="Вот горчичное зерно" canon="false" text="" textRus="" music="">
+<psalm number="1898" name="Р’РѕС‚ РіРѕСЂС‡РёС‡РЅРѕРµ Р·РµСЂРЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот, горчичное зерно;</plain>
+            <plain>Р’РѕС‚, РіРѕСЂС‡РёС‡РЅРѕРµ Р·РµСЂРЅРѕ;</plain>
         </string>
         <string>
-            <plain>Меньше всех семян оно,</plain>
+            <plain>РњРµРЅСЊС€Рµ РІСЃРµС… СЃРµРјСЏРЅ РѕРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Но, упав у чистых вод,</plain>
+            <plain>РќРѕ, СѓРїР°РІ Сѓ С‡РёСЃС‚С‹С… РІРѕРґ,</plain>
         </string>
         <string>
-            <plain>Пышным деревом растет.</plain>
+            <plain>РџС‹С€РЅС‹Рј РґРµСЂРµРІРѕРј СЂР°СЃС‚РµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мал наш труд перед Тобой;</plain>
+            <plain>РњР°Р» РЅР°С€ С‚СЂСѓРґ РїРµСЂРµРґ РўРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>Меньше всех Твоих работ,</plain>
+            <plain>РњРµРЅСЊС€Рµ РІСЃРµС… РўРІРѕРёС… СЂР°Р±РѕС‚,</plain>
         </string>
         <string>
-            <plain>Но пошли Твой Дух Святой</plain>
+            <plain>РќРѕ РїРѕС€Р»Рё РўРІРѕР№ Р”СѓС… РЎРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>И он в мире возрастет.</plain>
+            <plain>Р РѕРЅ РІ РјРёСЂРµ РІРѕР·СЂР°СЃС‚РµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Птицы под его листвой</plain>
+            <plain>РџС‚РёС†С‹ РїРѕРґ РµРіРѕ Р»РёСЃС‚РІРѕР№</plain>
         </string>
         <string>
-            <plain>Ищут кров с своей семьей;</plain>
+            <plain>РС‰СѓС‚ РєСЂРѕРІ СЃ СЃРІРѕРµР№ СЃРµРјСЊРµР№;</plain>
         </string>
         <string>
-            <plain>И, нашедши в нем приют,</plain>
+            <plain>Р, РЅР°С€РµРґС€Рё РІ РЅРµРј РїСЂРёСЋС‚,</plain>
         </string>
         <string>
-            <plain>Богу радостно поют.</plain>
+            <plain>Р‘РѕРіСѓ СЂР°РґРѕСЃС‚РЅРѕ РїРѕСЋС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Так и Царствие Твое:</plain>
+            <plain>РўР°Рє Рё Р¦Р°СЂСЃС‚РІРёРµ РўРІРѕРµ:</plain>
         </string>
         <string>
-            <plain>Сила вечная, бытье</plain>
+            <plain>РЎРёР»Р° РІРµС‡РЅР°СЏ, Р±С‹С‚СЊРµ</plain>
         </string>
         <string>
-            <plain>В нем сокрыто и оно</plain>
+            <plain>Р’ РЅРµРј СЃРѕРєСЂС‹С‚Рѕ Рё РѕРЅРѕ</plain>
         </string>
         <string>
-            <plain>К нам в сердца заронено.</plain>
+            <plain>Рљ РЅР°Рј РІ СЃРµСЂРґС†Р° Р·Р°СЂРѕРЅРµРЅРѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В нас и вне нас, но всегда</plain>
+            <plain>Р’ РЅР°СЃ Рё РІРЅРµ РЅР°СЃ, РЅРѕ РІСЃРµРіРґР°</plain>
         </string>
         <string>
-            <plain>В изобилии плода</plain>
+            <plain>Р’ РёР·РѕР±РёР»РёРё РїР»РѕРґР°</plain>
         </string>
         <string>
-            <plain>Беспрестанно все растет</plain>
+            <plain>Р‘РµСЃРїСЂРµСЃС‚Р°РЅРЅРѕ РІСЃРµ СЂР°СЃС‚РµС‚</plain>
         </string>
         <string>
-            <plain>И сердца к Тебе влечет.</plain>
+            <plain>Р СЃРµСЂРґС†Р° Рє РўРµР±Рµ РІР»РµС‡РµС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>В Галилее Муж скорбей</plain>
+            <plain>Р’ Р“Р°Р»РёР»РµРµ РњСѓР¶ СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>Был лишь с горсточкой друзей,</plain>
+            <plain>Р‘С‹Р» Р»РёС€СЊ СЃ РіРѕСЂСЃС‚РѕС‡РєРѕР№ РґСЂСѓР·РµР№,</plain>
         </string>
         <string>
-            <plain>А кругом во мраке нужд</plain>
+            <plain>Рђ РєСЂСѓРіРѕРј РІРѕ РјСЂР°РєРµ РЅСѓР¶Рґ</plain>
         </string>
         <string>
-            <plain>Мир был вести Божьей чужд.</plain>
+            <plain>РњРёСЂ Р±С‹Р» РІРµСЃС‚Рё Р‘РѕР¶СЊРµР№ С‡СѓР¶Рґ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Но с тех пор к Тебе пришли</plain>
+            <plain>РќРѕ СЃ С‚РµС… РїРѕСЂ Рє РўРµР±Рµ РїСЂРёС€Р»Рё</plain>
         </string>
         <string>
-            <plain>Сонмы страждущих земли;</plain>
+            <plain>РЎРѕРЅРјС‹ СЃС‚СЂР°Р¶РґСѓС‰РёС… Р·РµРјР»Рё;</plain>
         </string>
         <string>
-            <plain>И нашли покой от зла</plain>
+            <plain>Р РЅР°С€Р»Рё РїРѕРєРѕР№ РѕС‚ Р·Р»Р°</plain>
         </string>
         <string>
-            <plain>Души верных без числа.</plain>
+            <plain>Р”СѓС€Рё РІРµСЂРЅС‹С… Р±РµР· С‡РёСЃР»Р°.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>И теперь зерно растет</plain>
+            <plain>Р С‚РµРїРµСЂСЊ Р·РµСЂРЅРѕ СЂР°СЃС‚РµС‚</plain>
         </string>
         <string>
-            <plain>И дает обильный плод;</plain>
+            <plain>Р РґР°РµС‚ РѕР±РёР»СЊРЅС‹Р№ РїР»РѕРґ;</plain>
         </string>
         <string>
-            <plain>И теперь в листве его</plain>
+            <plain>Р С‚РµРїРµСЂСЊ РІ Р»РёСЃС‚РІРµ РµРіРѕ</plain>
         </string>
         <string>
-            <plain>Радость, мир и торжество.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ, РјРёСЂ Рё С‚РѕСЂР¶РµСЃС‚РІРѕ.</plain>
         </string>
     </verse>
 </psalm>

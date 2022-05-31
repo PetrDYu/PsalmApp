@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2526" name="Вот волхвы с востока идут" canon="false" text="" textRus="" music="">
+<psalm number="2526" name="Р’РѕС‚ РІРѕР»С…РІС‹ СЃ РІРѕСЃС‚РѕРєР° РёРґСѓС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот, волхвы с востока идут,</plain>
+            <plain>Р’РѕС‚, РІРѕР»С…РІС‹ СЃ РІРѕСЃС‚РѕРєР° РёРґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Взяв дары, не глядя на труд,</plain>
+            <plain>Р’Р·СЏРІ РґР°СЂС‹, РЅРµ РіР»СЏРґСЏ РЅР° С‚СЂСѓРґ,</plain>
         </string>
         <string>
-            <plain>Чрез пустыню к Божью Сыну</plain>
+            <plain>Р§СЂРµР· РїСѓСЃС‚С‹РЅСЋ Рє Р‘РѕР¶СЊСЋ РЎС‹РЅСѓ</plain>
         </string>
         <string>
-            <plain>Долгий свершают путь.</plain>
+            <plain>Р”РѕР»РіРёР№ СЃРІРµСЂС€Р°СЋС‚ РїСѓС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, чудная волхвов звезда!</plain>
+            <plain>Рћ, С‡СѓРґРЅР°СЏ РІРѕР»С…РІРѕРІ Р·РІРµР·РґР°!</plain>
         </string>
         <string>
-            <plain>Ты светила им тогда.</plain>
+            <plain>РўС‹ СЃРІРµС‚РёР»Р° РёРј С‚РѕРіРґР°.</plain>
         </string>
         <string>
-            <plain>Просвещая, ободряя,</plain>
+            <plain>РџСЂРѕСЃРІРµС‰Р°СЏ, РѕР±РѕРґСЂСЏСЏ,</plain>
         </string>
         <string>
-            <plain>Нас веди к ногам Христа.</plain>
+            <plain>РќР°СЃ РІРµРґРё Рє РЅРѕРіР°Рј РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В Вифлееме Царь нам рожден!</plain>
+            <plain>Р’ Р’РёС„Р»РµРµРјРµ Р¦Р°СЂСЊ РЅР°Рј СЂРѕР¶РґРµРЅ!</plain>
         </string>
         <string>
-            <plain>Золотом почту Его трон.</plain>
+            <plain>Р—РѕР»РѕС‚РѕРј РїРѕС‡С‚Сѓ Р•РіРѕ С‚СЂРѕРЅ.</plain>
         </string>
         <string>
-            <plain>Вековечно, бесконечно</plain>
+            <plain>Р’РµРєРѕРІРµС‡РЅРѕ, Р±РµСЃРєРѕРЅРµС‡РЅРѕ</plain>
         </string>
         <string>
-            <plain>Царствовать будет Он.</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРѕРІР°С‚СЊ Р±СѓРґРµС‚ РћРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ладан в дар несу я Христу!</plain>
+            <plain>Р›Р°РґР°РЅ РІ РґР°СЂ РЅРµСЃСѓ СЏ РҐСЂРёСЃС‚Сѓ!</plain>
         </string>
         <string>
-            <plain>Он с небес пришел в нищету.</plain>
+            <plain>РћРЅ СЃ РЅРµР±РµСЃ РїСЂРёС€РµР» РІ РЅРёС‰РµС‚Сѓ.</plain>
         </string>
         <string>
-            <plain>Песнопенья и моленья</plain>
+            <plain>РџРµСЃРЅРѕРїРµРЅСЊСЏ Рё РјРѕР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Наши придут к Нему.</plain>
+            <plain>РќР°С€Рё РїСЂРёРґСѓС‚ Рє РќРµРјСѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Смирны горькой запах благой</plain>
+            <plain>РЎРјРёСЂРЅС‹ РіРѕСЂСЊРєРѕР№ Р·Р°РїР°С… Р±Р»Р°РіРѕР№</plain>
         </string>
         <string>
-            <plain>- Дар Младенцу в знак роковой:</plain>
+            <plain>- Р”Р°СЂ РњР»Р°РґРµРЅС†Сѓ РІ Р·РЅР°Рє СЂРѕРєРѕРІРѕР№:</plain>
         </string>
         <string>
-            <plain>За виновных умерщвленный</plain>
+            <plain>Р—Р° РІРёРЅРѕРІРЅС‹С… СѓРјРµСЂС‰РІР»РµРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Ляжет во гроб чужой.</plain>
+            <plain>Р›СЏР¶РµС‚ РІРѕ РіСЂРѕР± С‡СѓР¶РѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Славен Он, Воскресший Господь!</plain>
+            <plain>РЎР»Р°РІРµРЅ РћРЅ, Р’РѕСЃРєСЂРµСЃС€РёР№ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>Царь и Бог страдал за народ.</plain>
+            <plain>Р¦Р°СЂСЊ Рё Р‘РѕРі СЃС‚СЂР°РґР°Р» Р·Р° РЅР°СЂРѕРґ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Небо Ему поет.</plain>
+            <plain>РќРµР±Рѕ Р•РјСѓ РїРѕРµС‚.</plain>
         </string>
     </verse>
 </psalm>

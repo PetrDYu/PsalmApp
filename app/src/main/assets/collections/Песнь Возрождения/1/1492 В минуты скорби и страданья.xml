@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1492" name="В минуты скорби и страданья" canon="false" text="" textRus="" music="">
+<psalm number="1492" name="Р’ РјРёРЅСѓС‚С‹ СЃРєРѕСЂР±Рё Рё СЃС‚СЂР°РґР°РЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В минуты скорби и страданья,</plain>
+            <plain>Р’ РјРёРЅСѓС‚С‹ СЃРєРѕСЂР±Рё Рё СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Когда в душе глухая ночь,</plain>
+            <plain>РљРѕРіРґР° РІ РґСѓС€Рµ РіР»СѓС…Р°СЏ РЅРѕС‡СЊ,</plain>
         </string>
         <string>
-            <plain>Как тяжелы переживанья.</plain>
+            <plain>РљР°Рє С‚СЏР¶РµР»С‹ РїРµСЂРµР¶РёРІР°РЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>Не может человек помочь.</plain>
+            <plain>РќРµ РјРѕР¶РµС‚ С‡РµР»РѕРІРµРє РїРѕРјРѕС‡СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Один Господь - верный</plain>
+            <plain>РћРґРёРЅ Р“РѕСЃРїРѕРґСЊ - РІРµСЂРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Друг неизменный -</plain>
+            <plain>Р”СЂСѓРі РЅРµРёР·РјРµРЅРЅС‹Р№ -</plain>
         </string>
         <string>
-            <plain>Утешенье тебе не</plain>
+            <plain>РЈС‚РµС€РµРЅСЊРµ С‚РµР±Рµ РЅРµ</plain>
         </string>
         <string>
-            <plain>замедлит послать.</plain>
+            <plain>Р·Р°РјРµРґР»РёС‚ РїРѕСЃР»Р°С‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Но знай и верь: Господь все видит,</plain>
+            <plain>РќРѕ Р·РЅР°Р№ Рё РІРµСЂСЊ: Р“РѕСЃРїРѕРґСЊ РІСЃРµ РІРёРґРёС‚,</plain>
         </string>
         <string>
-            <plain>Страдает вместе Он с тобой.</plain>
+            <plain>РЎС‚СЂР°РґР°РµС‚ РІРјРµСЃС‚Рµ РћРЅ СЃ С‚РѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Склонись на грудь к Нему скорее</plain>
+            <plain>РЎРєР»РѕРЅРёСЃСЊ РЅР° РіСЂСѓРґСЊ Рє РќРµРјСѓ СЃРєРѕСЂРµРµ</plain>
         </string>
         <string>
-            <plain>Своей измученной главой.</plain>
+            <plain>РЎРІРѕРµР№ РёР·РјСѓС‡РµРЅРЅРѕР№ РіР»Р°РІРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как хорошо и как отрадно</plain>
+            <plain>РљР°Рє С…РѕСЂРѕС€Рѕ Рё РєР°Рє РѕС‚СЂР°РґРЅРѕ</plain>
         </string>
         <string>
-            <plain>Почувствовать и услыхать</plain>
+            <plain>РџРѕС‡СѓРІСЃС‚РІРѕРІР°С‚СЊ Рё СѓСЃР»С‹С…Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Его слова, когда Он шепчет:</plain>
+            <plain>Р•РіРѕ СЃР»РѕРІР°, РєРѕРіРґР° РћРЅ С€РµРїС‡РµС‚:</plain>
         </string>
         <string>
-            <plain>"Я помогу тебе страдать".</plain>
+            <plain>"РЇ РїРѕРјРѕРіСѓ С‚РµР±Рµ СЃС‚СЂР°РґР°С‚СЊ".</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Нет лучше Друга, непорочней,</plain>
+            <plain>РќРµС‚ Р»СѓС‡С€Рµ Р”СЂСѓРіР°, РЅРµРїРѕСЂРѕС‡РЅРµР№,</plain>
         </string>
         <string>
-            <plain>Запомни, брат мой, навсегда.</plain>
+            <plain>Р—Р°РїРѕРјРЅРё, Р±СЂР°С‚ РјРѕР№, РЅР°РІСЃРµРіРґР°.</plain>
         </string>
         <string>
-            <plain>Земная дружба так непрочна,</plain>
+            <plain>Р—РµРјРЅР°СЏ РґСЂСѓР¶Р±Р° С‚Р°Рє РЅРµРїСЂРѕС‡РЅР°,</plain>
         </string>
         <string>
-            <plain>Господь же верен нам всегда.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ Р¶Рµ РІРµСЂРµРЅ РЅР°Рј РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Он нас так любит, так ласкает,</plain>
+            <plain>РћРЅ РЅР°СЃ С‚Р°Рє Р»СЋР±РёС‚, С‚Р°Рє Р»Р°СЃРєР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Когда нам тяжело страдать.</plain>
+            <plain>РљРѕРіРґР° РЅР°Рј С‚СЏР¶РµР»Рѕ СЃС‚СЂР°РґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Его слова нас утешают.</plain>
+            <plain>Р•РіРѕ СЃР»РѕРІР° РЅР°СЃ СѓС‚РµС€Р°СЋС‚.</plain>
         </string>
         <string>
-            <plain>О, будем же Ему внимать.</plain>
+            <plain>Рћ, Р±СѓРґРµРј Р¶Рµ Р•РјСѓ РІРЅРёРјР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>К груди Христа прильнем скорее,</plain>
+            <plain>Рљ РіСЂСѓРґРё РҐСЂРёСЃС‚Р° РїСЂРёР»СЊРЅРµРј СЃРєРѕСЂРµРµ,</plain>
         </string>
         <string>
-            <plain>Как хорошо с Ним отдыхать,</plain>
+            <plain>РљР°Рє С…РѕСЂРѕС€Рѕ СЃ РќРёРј РѕС‚РґС‹С…Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>А, отдохнув, друзья, смелее</plain>
+            <plain>Рђ, РѕС‚РґРѕС…РЅСѓРІ, РґСЂСѓР·СЊСЏ, СЃРјРµР»РµРµ</plain>
         </string>
         <string>
-            <plain>вперед идти, не унывать.</plain>
+            <plain>РІРїРµСЂРµРґ РёРґС‚Рё, РЅРµ СѓРЅС‹РІР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

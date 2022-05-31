@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="866" name="Всегда удивляться я должен" canon="false" text="" textRus="" music="">
+<psalm number="866" name="Р’СЃРµРіРґР° СѓРґРёРІР»СЏС‚СЊСЃСЏ СЏ РґРѕР»Р¶РµРЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Всегда удивляться я должен,</plain>
+            <plain>Р’СЃРµРіРґР° СѓРґРёРІР»СЏС‚СЊСЃСЏ СЏ РґРѕР»Р¶РµРЅ,</plain>
         </string>
         <string>
-            <plain>Христос, что нас возлюбил:</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ, С‡С‚Рѕ РЅР°СЃ РІРѕР·Р»СЋР±РёР»:</plain>
         </string>
         <string>
-            <plain>Ведь я был неправдой исполнен,</plain>
+            <plain>Р’РµРґСЊ СЏ Р±С‹Р» РЅРµРїСЂР°РІРґРѕР№ РёСЃРїРѕР»РЅРµРЅ,</plain>
         </string>
         <string>
-            <plain>А Ты Кровь за нас пролил.</plain>
+            <plain>Рђ РўС‹ РљСЂРѕРІСЊ Р·Р° РЅР°СЃ РїСЂРѕР»РёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Повесть чудная, вечно новая,</plain>
+            <plain>РџРѕРІРµСЃС‚СЊ С‡СѓРґРЅР°СЏ, РІРµС‡РЅРѕ РЅРѕРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Слушать я ее готов.</plain>
+            <plain>РЎР»СѓС€Р°С‚СЊ СЏ РµРµ РіРѕС‚РѕРІ.</plain>
         </string>
         <string>
-            <plain>Повесть чудная, вечно новая</plain>
+            <plain>РџРѕРІРµСЃС‚СЊ С‡СѓРґРЅР°СЏ, РІРµС‡РЅРѕ РЅРѕРІР°СЏ</plain>
         </string>
         <string>
-            <plain>Про Спасителя любовь.</plain>
+            <plain>РџСЂРѕ РЎРїР°СЃРёС‚РµР»СЏ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он молит за нас в Гефсиманьи:</plain>
+            <plain>РћРЅ РјРѕР»РёС‚ Р·Р° РЅР°СЃ РІ Р“РµС„СЃРёРјР°РЅСЊРё:</plain>
         </string>
         <string>
-            <plain>«Отец, воля пусть Твоя...»</plain>
+            <plain>В«РћС‚РµС†, РІРѕР»СЏ РїСѓСЃС‚СЊ РўРІРѕСЏ...В»</plain>
         </string>
         <string>
-            <plain>За нас перенес Он страданья,</plain>
+            <plain>Р—Р° РЅР°СЃ РїРµСЂРµРЅРµСЃ РћРЅ СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>В Его ранах жизнь моя.</plain>
+            <plain>Р’ Р•РіРѕ СЂР°РЅР°С… Р¶РёР·РЅСЊ РјРѕСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вот ангел от Бога нисходит,</plain>
+            <plain>Р’РѕС‚ Р°РЅРіРµР» РѕС‚ Р‘РѕРіР° РЅРёСЃС…РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>Христа чтобы подкреплять</plain>
+            <plain>РҐСЂРёСЃС‚Р° С‡С‚РѕР±С‹ РїРѕРґРєСЂРµРїР»СЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>В борьбе Гефсиманской суровой,</plain>
+            <plain>Р’ Р±РѕСЂСЊР±Рµ Р“РµС„СЃРёРјР°РЅСЃРєРѕР№ СЃСѓСЂРѕРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Где я должен был страдать.</plain>
+            <plain>Р“РґРµ СЏ РґРѕР»Р¶РµРЅ Р±С‹Р» СЃС‚СЂР°РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Когда я на небе пребуду</plain>
+            <plain>РљРѕРіРґР° СЏ РЅР° РЅРµР±Рµ РїСЂРµР±СѓРґСѓ</plain>
         </string>
         <string>
-            <plain>И славу Христа узрю,</plain>
+            <plain>Р СЃР»Р°РІСѓ РҐСЂРёСЃС‚Р° СѓР·СЂСЋ,</plain>
         </string>
         <string>
-            <plain>О том, что Он грешников любит,</plain>
+            <plain>Рћ С‚РѕРј, С‡С‚Рѕ РћРЅ РіСЂРµС€РЅРёРєРѕРІ Р»СЋР±РёС‚,</plain>
         </string>
         <string>
-            <plain>На небе я гимн спою.</plain>
+            <plain>РќР° РЅРµР±Рµ СЏ РіРёРјРЅ СЃРїРѕСЋ.</plain>
         </string>
     </verse>
 </psalm>

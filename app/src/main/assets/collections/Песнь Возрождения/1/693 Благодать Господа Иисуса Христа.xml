@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="693" name="Благодать Господа Иисуса Христа" canon="false" text="" textRus="" music="">
+<psalm number="693" name="Р‘Р»Р°РіРѕРґР°С‚СЊ Р“РѕСЃРїРѕРґР° РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благодать Господа Иисуса Христа,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊ Р“РѕСЃРїРѕРґР° РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>И любовь Бога Отца,</plain>
+            <plain>Р Р»СЋР±РѕРІСЊ Р‘РѕРіР° РћС‚С†Р°,</plain>
         </string>
         <string>
-            <plain>И общение Святого Духа</plain>
+            <plain>Р РѕР±С‰РµРЅРёРµ РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р°</plain>
         </string>
         <string>
-            <plain>Да будет с нами.</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ СЃ РЅР°РјРё.</plain>
         </string>
         <string>
-            <plain>Аминь.</plain>
+            <plain>РђРјРёРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

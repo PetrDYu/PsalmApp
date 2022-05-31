@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3287" name="В радостный день торжества" canon="false" text="" textRus="" music="">
+<psalm number="3287" name="Р’ СЂР°РґРѕСЃС‚РЅС‹Р№ РґРµРЅСЊ С‚РѕСЂР¶РµСЃС‚РІР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В радостный день торжества</plain>
+            <plain>Р’ СЂР°РґРѕСЃС‚РЅС‹Р№ РґРµРЅСЊ С‚РѕСЂР¶РµСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>- Праздник всего естества</plain>
+            <plain>- РџСЂР°Р·РґРЅРёРє РІСЃРµРіРѕ РµСЃС‚РµСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>Всё, что Господь искупил</plain>
+            <plain>Р’СЃС‘, С‡С‚Рѕ Р“РѕСЃРїРѕРґСЊ РёСЃРєСѓРїРёР»</plain>
         </string>
         <string>
-            <plain>Славу поёт Богу сил.</plain>
+            <plain>РЎР»Р°РІСѓ РїРѕС‘С‚ Р‘РѕРіСѓ СЃРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Всем нам Спаситель рождён,</plain>
+            <plain>Р’СЃРµРј РЅР°Рј РЎРїР°СЃРёС‚РµР»СЊ СЂРѕР¶РґС‘РЅ,</plain>
         </string>
         <string>
-            <plain>Именем Он наречён,</plain>
+            <plain>РРјРµРЅРµРј РћРЅ РЅР°СЂРµС‡С‘РЅ,</plain>
         </string>
         <string>
-            <plain>Именем чудным и дивным вовек</plain>
+            <plain>РРјРµРЅРµРј С‡СѓРґРЅС‹Рј Рё РґРёРІРЅС‹Рј РІРѕРІРµРє</plain>
         </string>
         <string>
-            <plain>Радуйся о человек!</plain>
+            <plain>Р Р°РґСѓР№СЃСЏ Рѕ С‡РµР»РѕРІРµРє!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Имя Его - Иисус</plain>
+            <plain>РРјСЏ Р•РіРѕ - РРёСЃСѓСЃ</plain>
         </string>
         <string>
-            <plain>Странник и воин Христос,</plain>
+            <plain>РЎС‚СЂР°РЅРЅРёРє Рё РІРѕРёРЅ РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Нас Он избавил от уз,</plain>
+            <plain>РќР°СЃ РћРЅ РёР·Р±Р°РІРёР» РѕС‚ СѓР·,</plain>
         </string>
         <string>
-            <plain>Радость спасенья принёс.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ СЃРїР°СЃРµРЅСЊСЏ РїСЂРёРЅС‘СЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Славим явленье</plain>
+            <plain>РЎР»Р°РІРёРј СЏРІР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Его рождества,</plain>
+            <plain>Р•РіРѕ СЂРѕР¶РґРµСЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Сильного Он победил,</plain>
+            <plain>РЎРёР»СЊРЅРѕРіРѕ РћРЅ РїРѕР±РµРґРёР»,</plain>
         </string>
         <string>
-            <plain>Нас от греха искупил.</plain>
+            <plain>РќР°СЃ РѕС‚ РіСЂРµС…Р° РёСЃРєСѓРїРёР».</plain>
         </string>
     </verse>
 </psalm>

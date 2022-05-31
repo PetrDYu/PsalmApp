@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2939" name="От всей души в час утренний" canon="false" text="" textRus="" music="">
+<psalm number="2939" name="РћС‚ РІСЃРµР№ РґСѓС€Рё РІ С‡Р°СЃ СѓС‚СЂРµРЅРЅРёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>От всей души в час утренний</plain>
+            <plain>РћС‚ РІСЃРµР№ РґСѓС€Рё РІ С‡Р°СЃ СѓС‚СЂРµРЅРЅРёР№</plain>
         </string>
         <string>
-            <plain>приносим в жертву мы</plain>
+            <plain>РїСЂРёРЅРѕСЃРёРј РІ Р¶РµСЂС‚РІСѓ РјС‹</plain>
         </string>
         <string>
-            <plain>за благодать Твою, Господь,</plain>
+            <plain>Р·Р° Р±Р»Р°РіРѕРґР°С‚СЊ РўРІРѕСЋ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>что вновь явил нам Ты.</plain>
+            <plain>С‡С‚Рѕ РІРЅРѕРІСЊ СЏРІРёР» РЅР°Рј РўС‹.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь, Ты любящей рукой</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РўС‹ Р»СЋР±СЏС‰РµР№ СЂСѓРєРѕР№</plain>
         </string>
         <string>
-            <plain>нас пробудил от сна...</plain>
+            <plain>РЅР°СЃ РїСЂРѕР±СѓРґРёР» РѕС‚ СЃРЅР°...</plain>
         </string>
         <string>
-            <plain>Пусть будет с первых слов</plain>
+            <plain>РџСѓСЃС‚СЊ Р±СѓРґРµС‚ СЃ РїРµСЂРІС‹С… СЃР»РѕРІ</plain>
         </string>
         <string>
-            <plain>хвала Тебе вознесена.</plain>
+            <plain>С…РІР°Р»Р° РўРµР±Рµ РІРѕР·РЅРµСЃРµРЅР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В Твоей большой любви, Господь,</plain>
+            <plain>Р’ РўРІРѕРµР№ Р±РѕР»СЊС€РѕР№ Р»СЋР±РІРё, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Ты нас во тьме ночной,</plain>
+            <plain>РўС‹ РЅР°СЃ РІРѕ С‚СЊРјРµ РЅРѕС‡РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>когда мы спали сладким сном,</plain>
+            <plain>РєРѕРіРґР° РјС‹ СЃРїР°Р»Рё СЃР»Р°РґРєРёРј СЃРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>хранил Своей рукой.</plain>
+            <plain>С…СЂР°РЅРёР» РЎРІРѕРµР№ СЂСѓРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как радостно в час утренний,</plain>
+            <plain>РљР°Рє СЂР°РґРѕСЃС‚РЅРѕ РІ С‡Р°СЃ СѓС‚СЂРµРЅРЅРёР№,</plain>
         </string>
         <string>
-            <plain>с природой съединясь,</plain>
+            <plain>СЃ РїСЂРёСЂРѕРґРѕР№ СЃСЉРµРґРёРЅСЏСЃСЊ,</plain>
         </string>
         <string>
-            <plain>воздать Тебе за благодать,</plain>
+            <plain>РІРѕР·РґР°С‚СЊ РўРµР±Рµ Р·Р° Р±Р»Р°РіРѕРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>что вновь нам пролилась!</plain>
+            <plain>С‡С‚Рѕ РІРЅРѕРІСЊ РЅР°Рј РїСЂРѕР»РёР»Р°СЃСЊ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В час утренний в молитве</plain>
+            <plain>Р’ С‡Р°СЃ СѓС‚СЂРµРЅРЅРёР№ РІ РјРѕР»РёС‚РІРµ</plain>
         </string>
         <string>
-            <plain>мы склонимся пред Творцом,</plain>
+            <plain>РјС‹ СЃРєР»РѕРЅРёРјСЃСЏ РїСЂРµРґ РўРІРѕСЂС†РѕРј,</plain>
         </string>
         <string>
-            <plain>за благодатью благодать</plain>
+            <plain>Р·Р° Р±Р»Р°РіРѕРґР°С‚СЊСЋ Р±Р»Р°РіРѕРґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>из рук Его возьмём.</plain>
+            <plain>РёР· СЂСѓРє Р•РіРѕ РІРѕР·СЊРјС‘Рј.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Как свет рассеивает тьму</plain>
+            <plain>РљР°Рє СЃРІРµС‚ СЂР°СЃСЃРµРёРІР°РµС‚ С‚СЊРјСѓ</plain>
         </string>
         <string>
-            <plain>на утренней заре,</plain>
+            <plain>РЅР° СѓС‚СЂРµРЅРЅРµР№ Р·Р°СЂРµ,</plain>
         </string>
         <string>
-            <plain>пусть так Твой благодати</plain>
+            <plain>РїСѓСЃС‚СЊ С‚Р°Рє РўРІРѕР№ Р±Р»Р°РіРѕРґР°С‚Рё</plain>
         </string>
         <string>
-            <plain>луч нам светит в темноте.</plain>
+            <plain>Р»СѓС‡ РЅР°Рј СЃРІРµС‚РёС‚ РІ С‚РµРјРЅРѕС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

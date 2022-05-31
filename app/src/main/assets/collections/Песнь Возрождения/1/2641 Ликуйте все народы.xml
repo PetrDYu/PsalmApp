@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2641" name="Ликуйте все народы" canon="false" text="" textRus="" music="">
+<psalm number="2641" name="Р›РёРєСѓР№С‚Рµ РІСЃРµ РЅР°СЂРѕРґС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ликуйте, все народы,</plain>
+            <plain>Р›РёРєСѓР№С‚Рµ, РІСЃРµ РЅР°СЂРѕРґС‹,</plain>
         </string>
         <string>
-            <plain>Ликуй, земля и воды.</plain>
+            <plain>Р›РёРєСѓР№, Р·РµРјР»СЏ Рё РІРѕРґС‹.</plain>
         </string>
         <string>
-            <plain>Ликуйте, пашни и леса,</plain>
+            <plain>Р›РёРєСѓР№С‚Рµ, РїР°С€РЅРё Рё Р»РµСЃР°,</plain>
         </string>
         <string>
-            <plain>И вторьте, небеса.</plain>
+            <plain>Р РІС‚РѕСЂСЊС‚Рµ, РЅРµР±РµСЃР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Христос воскрес!</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ!</plain>
         </string>
         <string>
-            <plain>Хвала Ему и честь.</plain>
+            <plain>РҐРІР°Р»Р° Р•РјСѓ Рё С‡РµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Христос воскрес!</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ!</plain>
         </string>
         <string>
-            <plain>Воистину воскрес.</plain>
+            <plain>Р’РѕРёСЃС‚РёРЅСѓ РІРѕСЃРєСЂРµСЃ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Воскрес из гроба наш Христос,</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃ РёР· РіСЂРѕР±Р° РЅР°С€ РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Воскрес для славы, не для слез.</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃ РґР»СЏ СЃР»Р°РІС‹, РЅРµ РґР»СЏ СЃР»РµР·.</plain>
         </string>
         <string>
-            <plain>Воскрес для славы в небесах,</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃ РґР»СЏ СЃР»Р°РІС‹ РІ РЅРµР±РµСЃР°С…,</plain>
         </string>
         <string>
-            <plain>И Сам теперь Он там.</plain>
+            <plain>Р РЎР°Рј С‚РµРїРµСЂСЊ РћРЅ С‚Р°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Воспойте славу Господу</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ СЃР»Р°РІСѓ Р“РѕСЃРїРѕРґСѓ</plain>
         </string>
         <string>
-            <plain>За дивное спасение,</plain>
+            <plain>Р—Р° РґРёРІРЅРѕРµ СЃРїР°СЃРµРЅРёРµ,</plain>
         </string>
         <string>
-            <plain>Прославьте Бога все сердца,</plain>
+            <plain>РџСЂРѕСЃР»Р°РІСЊС‚Рµ Р‘РѕРіР° РІСЃРµ СЃРµСЂРґС†Р°,</plain>
         </string>
         <string>
-            <plain>И пойте песнь хваления.</plain>
+            <plain>Р РїРѕР№С‚Рµ РїРµСЃРЅСЊ С…РІР°Р»РµРЅРёСЏ.</plain>
         </string>
     </verse>
 </psalm>

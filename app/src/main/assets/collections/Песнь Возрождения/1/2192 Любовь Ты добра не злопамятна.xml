@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2192" name="Любовь Ты добра не злопамятна" canon="false" text="" textRus="" music="">
+<psalm number="2192" name="Р›СЋР±РѕРІСЊ РўС‹ РґРѕР±СЂР° РЅРµ Р·Р»РѕРїР°РјСЏС‚РЅР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Любовь! Ты добра, не злопамятна,</plain>
+            <plain>Р›СЋР±РѕРІСЊ! РўС‹ РґРѕР±СЂР°, РЅРµ Р·Р»РѕРїР°РјСЏС‚РЅР°,</plain>
         </string>
         <string>
-            <plain>Обиды не помнишь и дня,</plain>
+            <plain>РћР±РёРґС‹ РЅРµ РїРѕРјРЅРёС€СЊ Рё РґРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Порою сурово, но праведно</plain>
+            <plain>РџРѕСЂРѕСЋ СЃСѓСЂРѕРІРѕ, РЅРѕ РїСЂР°РІРµРґРЅРѕ</plain>
         </string>
         <string>
-            <plain>Во всем неподкупный судья.</plain>
+            <plain>Р’Рѕ РІСЃРµРј РЅРµРїРѕРґРєСѓРїРЅС‹Р№ СЃСѓРґСЊСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Откуда такая нежданная</plain>
+            <plain>РћС‚РєСѓРґР° С‚Р°РєР°СЏ РЅРµР¶РґР°РЅРЅР°СЏ</plain>
         </string>
         <string>
-            <plain>Ко мне постучалась ты вдруг,</plain>
+            <plain>РљРѕ РјРЅРµ РїРѕСЃС‚СѓС‡Р°Р»Р°СЃСЊ С‚С‹ РІРґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Как жизнь хороша и желанная,</plain>
+            <plain>РљР°Рє Р¶РёР·РЅСЊ С…РѕСЂРѕС€Р° Рё Р¶РµР»Р°РЅРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Верна, как испытанный друг.</plain>
+            <plain>Р’РµСЂРЅР°, РєР°Рє РёСЃРїС‹С‚Р°РЅРЅС‹Р№ РґСЂСѓРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>С тобой только зорька лучистая</plain>
+            <plain>РЎ С‚РѕР±РѕР№ С‚РѕР»СЊРєРѕ Р·РѕСЂСЊРєР° Р»СѓС‡РёСЃС‚Р°СЏ</plain>
         </string>
         <string>
-            <plain>Сравниться на небе смогла б.</plain>
+            <plain>РЎСЂР°РІРЅРёС‚СЊСЃСЏ РЅР° РЅРµР±Рµ СЃРјРѕРіР»Р° Р±.</plain>
         </string>
         <string>
-            <plain>Какая ты светлая, чистая,</plain>
+            <plain>РљР°РєР°СЏ С‚С‹ СЃРІРµС‚Р»Р°СЏ, С‡РёСЃС‚Р°СЏ,</plain>
         </string>
         <string>
-            <plain>А может, ты с неба пришла.</plain>
+            <plain>Рђ РјРѕР¶РµС‚, С‚С‹ СЃ РЅРµР±Р° РїСЂРёС€Р»Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И если ты искра лишь малая</plain>
+            <plain>Р РµСЃР»Рё С‚С‹ РёСЃРєСЂР° Р»РёС€СЊ РјР°Р»Р°СЏ</plain>
         </string>
         <string>
-            <plain>Его лучезарного дня,</plain>
+            <plain>Р•РіРѕ Р»СѓС‡РµР·Р°СЂРЅРѕРіРѕ РґРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Какая же та необъятная,</plain>
+            <plain>РљР°РєР°СЏ Р¶Рµ С‚Р° РЅРµРѕР±СЉСЏС‚РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Что любит на небе меня.</plain>
+            <plain>Р§С‚Рѕ Р»СЋР±РёС‚ РЅР° РЅРµР±Рµ РјРµРЅСЏ.</plain>
         </string>
     </verse>
 </psalm>

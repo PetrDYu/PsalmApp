@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3081" name="Бог святою кровью Агнца" canon="false" text="" textRus="" music="">
+<psalm number="3081" name="Р‘РѕРі СЃРІСЏС‚РѕСЋ РєСЂРѕРІСЊСЋ РђРіРЅС†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог святою кровью Агнца</plain>
+            <plain>Р‘РѕРі СЃРІСЏС‚РѕСЋ РєСЂРѕРІСЊСЋ РђРіРЅС†Р°</plain>
         </string>
         <string>
-            <plain>нас очистил и омыл</plain>
+            <plain>РЅР°СЃ РѕС‡РёСЃС‚РёР» Рё РѕРјС‹Р»</plain>
         </string>
         <string>
-            <plain>и огонь Святого Духа</plain>
+            <plain>Рё РѕРіРѕРЅСЊ РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р°</plain>
         </string>
         <string>
-            <plain>в наши души щедро влил.</plain>
+            <plain>РІ РЅР°С€Рё РґСѓС€Рё С‰РµРґСЂРѕ РІР»РёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слава Богу! Кровью Агнца</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ! РљСЂРѕРІСЊСЋ РђРіРЅС†Р°</plain>
         </string>
         <string>
-            <plain>убелён я словно снег.</plain>
+            <plain>СѓР±РµР»С‘РЅ СЏ СЃР»РѕРІРЅРѕ СЃРЅРµРі.</plain>
         </string>
         <string>
-            <plain>Я помазан, аллилуйя!</plain>
+            <plain>РЇ РїРѕРјР°Р·Р°РЅ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Я Христов теперь навек.</plain>
+            <plain>РЇ РҐСЂРёСЃС‚РѕРІ С‚РµРїРµСЂСЊ РЅР°РІРµРє.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Чрез крещенье Духом</plain>
+            <plain>Р§СЂРµР· РєСЂРµС‰РµРЅСЊРµ Р”СѓС…РѕРј</plain>
         </string>
         <string>
-            <plain>свыше вся душа любви полна,</plain>
+            <plain>СЃРІС‹С€Рµ РІСЃСЏ РґСѓС€Р° Р»СЋР±РІРё РїРѕР»РЅР°,</plain>
         </string>
         <string>
-            <plain>радостью и миром дышит,</plain>
+            <plain>СЂР°РґРѕСЃС‚СЊСЋ Рё РјРёСЂРѕРј РґС‹С€РёС‚,</plain>
         </string>
         <string>
-            <plain>в мыслях и делах чиста.</plain>
+            <plain>РІ РјС‹СЃР»СЏС… Рё РґРµР»Р°С… С‡РёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Божий дар, крещенье Духом,</plain>
+            <plain>Р‘РѕР¶РёР№ РґР°СЂ, РєСЂРµС‰РµРЅСЊРµ Р”СѓС…РѕРј,</plain>
         </string>
         <string>
-            <plain>ты - помазанье с небес.</plain>
+            <plain>С‚С‹ - РїРѕРјР°Р·Р°РЅСЊРµ СЃ РЅРµР±РµСЃ.</plain>
         </string>
         <string>
-            <plain>Нас в одно соединяет</plain>
+            <plain>РќР°СЃ РІ РѕРґРЅРѕ СЃРѕРµРґРёРЅСЏРµС‚</plain>
         </string>
         <string>
-            <plain>Дух Святой, Сын и Отец.</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, РЎС‹РЅ Рё РћС‚РµС†.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Разделенья истребляет</plain>
+            <plain>Р Р°Р·РґРµР»РµРЅСЊСЏ РёСЃС‚СЂРµР±Р»СЏРµС‚</plain>
         </string>
         <string>
-            <plain>в нас Святого Духа жар</plain>
+            <plain>РІ РЅР°СЃ РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р° Р¶Р°СЂ</plain>
         </string>
         <string>
-            <plain>и в одно объединяет всех,</plain>
+            <plain>Рё РІ РѕРґРЅРѕ РѕР±СЉРµРґРёРЅСЏРµС‚ РІСЃРµС…,</plain>
         </string>
         <string>
-            <plain>кто принял Божий дар.</plain>
+            <plain>РєС‚Рѕ РїСЂРёРЅСЏР» Р‘РѕР¶РёР№ РґР°СЂ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И даёт крещенье Духом</plain>
+            <plain>Р РґР°С‘С‚ РєСЂРµС‰РµРЅСЊРµ Р”СѓС…РѕРј</plain>
         </string>
         <string>
-            <plain>силу новую душе.</plain>
+            <plain>СЃРёР»Сѓ РЅРѕРІСѓСЋ РґСѓС€Рµ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Бог дарует</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! Р‘РѕРі РґР°СЂСѓРµС‚</plain>
         </string>
         <string>
-            <plain>полноту спасенья мне.</plain>
+            <plain>РїРѕР»РЅРѕС‚Сѓ СЃРїР°СЃРµРЅСЊСЏ РјРЅРµ.</plain>
         </string>
     </verse>
 </psalm>

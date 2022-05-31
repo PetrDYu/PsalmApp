@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2376" name="Хвала Тебе о Боже мой" canon="false" text="" textRus="" music="">
+<psalm number="2376" name="РҐРІР°Р»Р° РўРµР±Рµ Рѕ Р‘РѕР¶Рµ РјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хвала Тебе, о Боже мой,</plain>
+            <plain>РҐРІР°Р»Р° РўРµР±Рµ, Рѕ Р‘РѕР¶Рµ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Великий Царь небес, земли,</plain>
+            <plain>Р’РµР»РёРєРёР№ Р¦Р°СЂСЊ РЅРµР±РµСЃ, Р·РµРјР»Рё,</plain>
         </string>
         <string>
-            <plain>Все покоряется Тебе,</plain>
+            <plain>Р’СЃРµ РїРѕРєРѕСЂСЏРµС‚СЃСЏ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>На Небесах и на земле.</plain>
+            <plain>РќР° РќРµР±РµСЃР°С… Рё РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>И все Тобой сотворено,</plain>
+            <plain>Р РІСЃРµ РўРѕР±РѕР№ СЃРѕС‚РІРѕСЂРµРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Владыкой вечным Богом.</plain>
+            <plain>Р’Р»Р°РґС‹РєРѕР№ РІРµС‡РЅС‹Рј Р‘РѕРіРѕРј.</plain>
         </string>
         <string>
-            <plain>И нет другого на земле,</plain>
+            <plain>Р РЅРµС‚ РґСЂСѓРіРѕРіРѕ РЅР° Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>Чтоб называть великим Богом.</plain>
+            <plain>Р§С‚РѕР± РЅР°Р·С‹РІР°С‚СЊ РІРµР»РёРєРёРј Р‘РѕРіРѕРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И в мире чудном средь небес,</plain>
+            <plain>Р РІ РјРёСЂРµ С‡СѓРґРЅРѕРј СЃСЂРµРґСЊ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>В сияньи славы вечной,</plain>
+            <plain>Р’ СЃРёСЏРЅСЊРё СЃР»Р°РІС‹ РІРµС‡РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Тебя, о славить буду я,</plain>
+            <plain>РўРµР±СЏ, Рѕ СЃР»Р°РІРёС‚СЊ Р±СѓРґСѓ СЏ,</plain>
         </string>
         <string>
-            <plain>Спаситель мой сердечный.</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№ СЃРµСЂРґРµС‡РЅС‹Р№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И пусть живет любовь Твоя</plain>
+            <plain>Р РїСѓСЃС‚СЊ Р¶РёРІРµС‚ Р»СЋР±РѕРІСЊ РўРІРѕСЏ</plain>
         </string>
         <string>
-            <plain>В народе, избранным Тобою,</plain>
+            <plain>Р’ РЅР°СЂРѕРґРµ, РёР·Р±СЂР°РЅРЅС‹Рј РўРѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Твоей любви, о, нет конца,</plain>
+            <plain>РўРІРѕРµР№ Р»СЋР±РІРё, Рѕ, РЅРµС‚ РєРѕРЅС†Р°,</plain>
         </string>
         <string>
-            <plain>В сердцах возлюбленных Тобою.</plain>
+            <plain>Р’ СЃРµСЂРґС†Р°С… РІРѕР·Р»СЋР±Р»РµРЅРЅС‹С… РўРѕР±РѕСЋ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Тебе о, слава, мой Господь,</plain>
+            <plain>РўРµР±Рµ Рѕ, СЃР»Р°РІР°, РјРѕР№ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Тебе благодарены,</plain>
+            <plain>РўРµР±Рµ Р±Р»Р°РіРѕРґР°СЂРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Что хлеб насущный нам даешь,</plain>
+            <plain>Р§С‚Рѕ С…Р»РµР± РЅР°СЃСѓС‰РЅС‹Р№ РЅР°Рј РґР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>И мир Свой посылаешь.</plain>
+            <plain>Р РјРёСЂ РЎРІРѕР№ РїРѕСЃС‹Р»Р°РµС€СЊ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Как чудно все вокруг с Тобой,</plain>
+            <plain>РљР°Рє С‡СѓРґРЅРѕ РІСЃРµ РІРѕРєСЂСѓРі СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>И сердце радость наполняет,</plain>
+            <plain>Р СЃРµСЂРґС†Рµ СЂР°РґРѕСЃС‚СЊ РЅР°РїРѕР»РЅСЏРµС‚,</plain>
         </string>
         <string>
-            <plain>Когда наедине с Тобой,</plain>
+            <plain>РљРѕРіРґР° РЅР°РµРґРёРЅРµ СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Мой Бог, я пребываю.</plain>
+            <plain>РњРѕР№ Р‘РѕРі, СЏ РїСЂРµР±С‹РІР°СЋ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Тебе и сила, и хвала,</plain>
+            <plain>РўРµР±Рµ Рё СЃРёР»Р°, Рё С…РІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Тебе благодарены,</plain>
+            <plain>РўРµР±Рµ Р±Р»Р°РіРѕРґР°СЂРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>За то, что возлюбил меня,</plain>
+            <plain>Р—Р° С‚Рѕ, С‡С‚Рѕ РІРѕР·Р»СЋР±РёР» РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Ведь Ты - мое спасены.</plain>
+            <plain>Р’РµРґСЊ РўС‹ - РјРѕРµ СЃРїР°СЃРµРЅС‹.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>О, аллилуйя, честь, хвала,</plain>
+            <plain>Рћ, Р°Р»Р»РёР»СѓР№СЏ, С‡РµСЃС‚СЊ, С…РІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Тебе благодарены,</plain>
+            <plain>РўРµР±Рµ Р±Р»Р°РіРѕРґР°СЂРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Тебе пою я песнь мою,</plain>
+            <plain>РўРµР±Рµ РїРѕСЋ СЏ РїРµСЃРЅСЊ РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Великий свет, мое спасены.</plain>
+            <plain>Р’РµР»РёРєРёР№ СЃРІРµС‚, РјРѕРµ СЃРїР°СЃРµРЅС‹.</plain>
         </string>
     </verse>
 </psalm>

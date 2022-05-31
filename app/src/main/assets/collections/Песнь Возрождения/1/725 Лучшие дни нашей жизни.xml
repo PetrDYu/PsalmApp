@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="725" name="Лучшие дни нашей жизни" canon="false" text="" textRus="" music="">
+<psalm number="725" name="Р›СѓС‡С€РёРµ РґРЅРё РЅР°С€РµР№ Р¶РёР·РЅРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Лучшие дни нашей жизни,</plain>
+            <plain>Р›СѓС‡С€РёРµ РґРЅРё РЅР°С€РµР№ Р¶РёР·РЅРё,</plain>
         </string>
         <string>
-            <plain>Свежие силы весны молодой</plain>
+            <plain>РЎРІРµР¶РёРµ СЃРёР»С‹ РІРµСЃРЅС‹ РјРѕР»РѕРґРѕР№</plain>
         </string>
         <string>
-            <plain>Мы посвятим Иисусу</plain>
+            <plain>РњС‹ РїРѕСЃРІСЏС‚РёРј РРёСЃСѓСЃСѓ</plain>
         </string>
         <string>
-            <plain>В дар для Него дорогой!</plain>
+            <plain>Р’ РґР°СЂ РґР»СЏ РќРµРіРѕ РґРѕСЂРѕРіРѕР№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Что может быть нам приятней,</plain>
+            <plain>Р§С‚Рѕ РјРѕР¶РµС‚ Р±С‹С‚СЊ РЅР°Рј РїСЂРёСЏС‚РЅРµР№,</plain>
         </string>
         <string>
-            <plain>Как Иисусу служить,</plain>
+            <plain>РљР°Рє РРёСЃСѓСЃСѓ СЃР»СѓР¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Жизни простор необъятный,</plain>
+            <plain>Р–РёР·РЅРё РїСЂРѕСЃС‚РѕСЂ РЅРµРѕР±СЉСЏС‚РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Сердце Христу подарить."</plain>
+            <plain>РЎРµСЂРґС†Рµ РҐСЂРёСЃС‚Сѓ РїРѕРґР°СЂРёС‚СЊ."</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Слышишь, как Он призывает?</plain>
+            <plain>РЎР»С‹С€РёС€СЊ, РєР°Рє РћРЅ РїСЂРёР·С‹РІР°РµС‚?</plain>
         </string>
         <string>
-            <plain>Час посвященья для нас настал!</plain>
+            <plain>Р§Р°СЃ РїРѕСЃРІСЏС‰РµРЅСЊСЏ РґР»СЏ РЅР°СЃ РЅР°СЃС‚Р°Р»!</plain>
         </string>
         <string>
-            <plain>Больше мы медлить не можем:</plain>
+            <plain>Р‘РѕР»СЊС€Рµ РјС‹ РјРµРґР»РёС‚СЊ РЅРµ РјРѕР¶РµРј:</plain>
         </string>
         <string>
-            <plain>Он ведь нам жизнь даровал!</plain>
+            <plain>РћРЅ РІРµРґСЊ РЅР°Рј Р¶РёР·РЅСЊ РґР°СЂРѕРІР°Р»!</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Братья, поднимем же знамя</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, РїРѕРґРЅРёРјРµРј Р¶Рµ Р·РЅР°РјСЏ</plain>
         </string>
         <string>
-            <plain>С именем чудным Христа!</plain>
+            <plain>РЎ РёРјРµРЅРµРј С‡СѓРґРЅС‹Рј РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Пусть загорается пламя</plain>
+            <plain>РџСѓСЃС‚СЊ Р·Р°РіРѕСЂР°РµС‚СЃСЏ РїР»Р°РјСЏ</plain>
         </string>
         <string>
-            <plain>Жертвенной крови Христа.</plain>
+            <plain>Р–РµСЂС‚РІРµРЅРЅРѕР№ РєСЂРѕРІРё РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Смело во имя Иисуса,</plain>
+            <plain>РЎРјРµР»Рѕ РІРѕ РёРјСЏ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>Братья, вперед на борьбу с грехом!</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, РІРїРµСЂРµРґ РЅР° Р±РѕСЂСЊР±Сѓ СЃ РіСЂРµС…РѕРј!</plain>
         </string>
         <string>
-            <plain>Тысячи гибнут в пороках,</plain>
+            <plain>РўС‹СЃСЏС‡Рё РіРёР±РЅСѓС‚ РІ РїРѕСЂРѕРєР°С…,</plain>
         </string>
         <string>
-            <plain>С вестью благой к ним пойдем.</plain>
+            <plain>РЎ РІРµСЃС‚СЊСЋ Р±Р»Р°РіРѕР№ Рє РЅРёРј РїРѕР№РґРµРј.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Пусть нас постигнут гоненья,</plain>
+            <plain>РџСѓСЃС‚СЊ РЅР°СЃ РїРѕСЃС‚РёРіРЅСѓС‚ РіРѕРЅРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Смерть за Христа не страшна!</plain>
+            <plain>РЎРјРµСЂС‚СЊ Р·Р° РҐСЂРёСЃС‚Р° РЅРµ СЃС‚СЂР°С€РЅР°!</plain>
         </string>
         <string>
-            <plain>С радостным пеньем хваленья</plain>
+            <plain>РЎ СЂР°РґРѕСЃС‚РЅС‹Рј РїРµРЅСЊРµРј С…РІР°Р»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Мы одолеем врага!</plain>
+            <plain>РњС‹ РѕРґРѕР»РµРµРј РІСЂР°РіР°!</plain>
         </string>
     </chorus>
 </psalm>

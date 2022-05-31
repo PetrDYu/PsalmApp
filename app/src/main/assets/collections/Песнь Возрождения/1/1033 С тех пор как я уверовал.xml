@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1033" name="С тех пор как я уверовал" canon="false" text="" textRus="" music="">
+<psalm number="1033" name="РЎ С‚РµС… РїРѕСЂ РєР°Рє СЏ СѓРІРµСЂРѕРІР°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С тех пор как я уверовал,</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ РєР°Рє СЏ СѓРІРµСЂРѕРІР°Р»,</plain>
         </string>
         <string>
-            <plain>Я светом озарен.</plain>
+            <plain>РЇ СЃРІРµС‚РѕРј РѕР·Р°СЂРµРЅ.</plain>
         </string>
         <string>
-            <plain>В душе я жизнь почувствовал,</plain>
+            <plain>Р’ РґСѓС€Рµ СЏ Р¶РёР·РЅСЊ РїРѕС‡СѓРІСЃС‚РІРѕРІР°Р»,</plain>
         </string>
         <string>
-            <plain>И ныне я спасен.</plain>
+            <plain>Р РЅС‹РЅРµ СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я знаю, в Кого уверовал,</plain>
+            <plain>РЇ Р·РЅР°СЋ, РІ РљРѕРіРѕ СѓРІРµСЂРѕРІР°Р»,</plain>
         </string>
         <string>
-            <plain>И верю, что Он есть силен.</plain>
+            <plain>Р РІРµСЂСЋ, С‡С‚Рѕ РћРЅ РµСЃС‚СЊ СЃРёР»РµРЅ.</plain>
         </string>
         <string>
-            <plain>Хранит навек залог мой</plain>
+            <plain>РҐСЂР°РЅРёС‚ РЅР°РІРµРє Р·Р°Р»РѕРі РјРѕР№</plain>
         </string>
         <string>
-            <plain>Для меня на оный день.</plain>
+            <plain>Р”Р»СЏ РјРµРЅСЏ РЅР° РѕРЅС‹Р№ РґРµРЅСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Известна мне Его любовь.</plain>
+            <plain>РР·РІРµСЃС‚РЅР° РјРЅРµ Р•РіРѕ Р»СЋР±РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Его могущество.</plain>
+            <plain>Р•РіРѕ РјРѕРіСѓС‰РµСЃС‚РІРѕ.</plain>
         </string>
         <string>
-            <plain>Пролитая святая Кровь -</plain>
+            <plain>РџСЂРѕР»РёС‚Р°СЏ СЃРІСЏС‚Р°СЏ РљСЂРѕРІСЊ -</plain>
         </string>
         <string>
-            <plain>Над смертью торжество.</plain>
+            <plain>РќР°Рґ СЃРјРµСЂС‚СЊСЋ С‚РѕСЂР¶РµСЃС‚РІРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Готов в руках пронзенных я</plain>
+            <plain>Р“РѕС‚РѕРІ РІ СЂСѓРєР°С… РїСЂРѕРЅР·РµРЅРЅС‹С… СЏ</plain>
         </string>
         <string>
-            <plain>Жить или умирать.</plain>
+            <plain>Р–РёС‚СЊ РёР»Рё СѓРјРёСЂР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Цветы цветут иль тернии -</plain>
+            <plain>Р¦РІРµС‚С‹ С†РІРµС‚СѓС‚ РёР»СЊ С‚РµСЂРЅРёРё -</plain>
         </string>
         <string>
-            <plain>Готов я принимать.</plain>
+            <plain>Р“РѕС‚РѕРІ СЏ РїСЂРёРЅРёРјР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Пусть все исчезнет, все пройдет,</plain>
+            <plain>РџСѓСЃС‚СЊ РІСЃРµ РёСЃС‡РµР·РЅРµС‚, РІСЃРµ РїСЂРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Господь же - все один.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ Р¶Рµ - РІСЃРµ РѕРґРёРЅ.</plain>
         </string>
         <string>
-            <plain>Пусть сердце песню воспоет</plain>
+            <plain>РџСѓСЃС‚СЊ СЃРµСЂРґС†Рµ РїРµСЃРЅСЋ РІРѕСЃРїРѕРµС‚</plain>
         </string>
         <string>
-            <plain>Тебе, мой Властелин!</plain>
+            <plain>РўРµР±Рµ, РјРѕР№ Р’Р»Р°СЃС‚РµР»РёРЅ!</plain>
         </string>
     </verse>
 </psalm>

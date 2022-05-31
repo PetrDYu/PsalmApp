@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="704" name="Бог любви на путь меня наставил" canon="false" text="" textRus="" music="">
+<psalm number="704" name="Р‘РѕРі Р»СЋР±РІРё РЅР° РїСѓС‚СЊ РјРµРЅСЏ РЅР°СЃС‚Р°РІРёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог любви на путь меня наставил;</plain>
+            <plain>Р‘РѕРі Р»СЋР±РІРё РЅР° РїСѓС‚СЊ РјРµРЅСЏ РЅР°СЃС‚Р°РІРёР»;</plain>
         </string>
         <string>
-            <plain>Долго я во тьме один блуждал, -</plain>
+            <plain>Р”РѕР»РіРѕ СЏ РІРѕ С‚СЊРјРµ РѕРґРёРЅ Р±Р»СѓР¶РґР°Р», -</plain>
         </string>
         <string>
-            <plain>Сам Господь теперь меня избавил,</plain>
+            <plain>РЎР°Рј Р“РѕСЃРїРѕРґСЊ С‚РµРїРµСЂСЊ РјРµРЅСЏ РёР·Р±Р°РІРёР»,</plain>
         </string>
         <string>
-            <plain>Светом свыше путь мой осиял.</plain>
+            <plain>РЎРІРµС‚РѕРј СЃРІС‹С€Рµ РїСѓС‚СЊ РјРѕР№ РѕСЃРёСЏР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вижу край чудесный,</plain>
+            <plain>Р’РёР¶Сѓ РєСЂР°Р№ С‡СѓРґРµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Вечный дом небесный,</plain>
+            <plain>Р’РµС‡РЅС‹Р№ РґРѕРј РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Радостно туда стремлюсь.</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ С‚СѓРґР° СЃС‚СЂРµРјР»СЋСЃСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как звезда, что утро предвещает</plain>
+            <plain>РљР°Рє Р·РІРµР·РґР°, С‡С‚Рѕ СѓС‚СЂРѕ РїСЂРµРґРІРµС‰Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Среди ночи здесь в земной стране,</plain>
+            <plain>РЎСЂРµРґРё РЅРѕС‡Рё Р·РґРµСЃСЊ РІ Р·РµРјРЅРѕР№ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>Так Господне слово мне сияет</plain>
+            <plain>РўР°Рє Р“РѕСЃРїРѕРґРЅРµ СЃР»РѕРІРѕ РјРЅРµ СЃРёСЏРµС‚</plain>
         </string>
         <string>
-            <plain>И вещает о великом дне.</plain>
+            <plain>Р РІРµС‰Р°РµС‚ Рѕ РІРµР»РёРєРѕРј РґРЅРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Страх и ужас часто обнимают,</plain>
+            <plain>РЎС‚СЂР°С… Рё СѓР¶Р°СЃ С‡Р°СЃС‚Рѕ РѕР±РЅРёРјР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Но Господь в опасности хранит,</plain>
+            <plain>РќРѕ Р“РѕСЃРїРѕРґСЊ РІ РѕРїР°СЃРЅРѕСЃС‚Рё С…СЂР°РЅРёС‚,</plain>
         </string>
         <string>
-            <plain>Мир дает и душу ободряет,</plain>
+            <plain>РњРёСЂ РґР°РµС‚ Рё РґСѓС€Сѓ РѕР±РѕРґСЂСЏРµС‚,</plain>
         </string>
         <string>
-            <plain>Силу, радость в сердце мне вселит.</plain>
+            <plain>РЎРёР»Сѓ, СЂР°РґРѕСЃС‚СЊ РІ СЃРµСЂРґС†Рµ РјРЅРµ РІСЃРµР»РёС‚.</plain>
         </string>
     </verse>
 </psalm>

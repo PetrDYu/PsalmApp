@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3208" name="Благословен Спаситель мой" canon="false" text="" textRus="" music="">
+<psalm number="3208" name="Р‘Р»Р°РіРѕСЃР»РѕРІРµРЅ РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благословен Спаситель мой.</plain>
+            <plain>Р‘Р»Р°РіРѕСЃР»РѕРІРµРЅ РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Он на престол взошёл с хвалой.</plain>
+            <plain>РћРЅ РЅР° РїСЂРµСЃС‚РѕР» РІР·РѕС€С‘Р» СЃ С…РІР°Р»РѕР№.</plain>
         </string>
         <string>
-            <plain>Он в этот мир пришёл с небес</plain>
+            <plain>РћРЅ РІ СЌС‚РѕС‚ РјРёСЂ РїСЂРёС€С‘Р» СЃ РЅРµР±РµСЃ</plain>
         </string>
         <string>
-            <plain>как мира Князь, Творец чудес.</plain>
+            <plain>РєР°Рє РјРёСЂР° РљРЅСЏР·СЊ, РўРІРѕСЂРµС† С‡СѓРґРµСЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О народы, придите скорей!</plain>
+            <plain>Рћ РЅР°СЂРѕРґС‹, РїСЂРёРґРёС‚Рµ СЃРєРѕСЂРµР№!</plain>
         </string>
         <string>
-            <plain>Вот пред вами Муж скорбей, скорбей,</plain>
+            <plain>Р’РѕС‚ РїСЂРµРґ РІР°РјРё РњСѓР¶ СЃРєРѕСЂР±РµР№, СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>Он на древо позор наш вознёс;</plain>
+            <plain>РћРЅ РЅР° РґСЂРµРІРѕ РїРѕР·РѕСЂ РЅР°С€ РІРѕР·РЅС‘СЃ;</plain>
         </string>
         <string>
-            <plain>славен милостью Христос!</plain>
+            <plain>СЃР»Р°РІРµРЅ РјРёР»РѕСЃС‚СЊСЋ РҐСЂРёСЃС‚РѕСЃ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Иисус для всех слугою стал</plain>
+            <plain>РРёСЃСѓСЃ РґР»СЏ РІСЃРµС… СЃР»СѓРіРѕСЋ СЃС‚Р°Р»</plain>
         </string>
         <string>
-            <plain>и на себя грех мира взял.</plain>
+            <plain>Рё РЅР° СЃРµР±СЏ РіСЂРµС… РјРёСЂР° РІР·СЏР».</plain>
         </string>
         <string>
-            <plain>Познайте все, что сделал Он:</plain>
+            <plain>РџРѕР·РЅР°Р№С‚Рµ РІСЃРµ, С‡С‚Рѕ СЃРґРµР»Р°Р» РћРЅ:</plain>
         </string>
         <string>
-            <plain>там на кресте Он был казнён.</plain>
+            <plain>С‚Р°Рј РЅР° РєСЂРµСЃС‚Рµ РћРЅ Р±С‹Р» РєР°Р·РЅС‘РЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Лежала вся вина на нас,</plain>
+            <plain>Р›РµР¶Р°Р»Р° РІСЃСЏ РІРёРЅР° РЅР° РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>но нас Христос от смерти спас.</plain>
+            <plain>РЅРѕ РЅР°СЃ РҐСЂРёСЃС‚РѕСЃ РѕС‚ СЃРјРµСЂС‚Рё СЃРїР°СЃ.</plain>
         </string>
         <string>
-            <plain>Там на кресте Он кровь пролил,</plain>
+            <plain>РўР°Рј РЅР° РєСЂРµСЃС‚Рµ РћРЅ РєСЂРѕРІСЊ РїСЂРѕР»РёР»,</plain>
         </string>
         <string>
-            <plain>и ею нас Он искупил.</plain>
+            <plain>Рё РµСЋ РЅР°СЃ РћРЅ РёСЃРєСѓРїРёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Вину мою на крест вознёс</plain>
+            <plain>Р’РёРЅСѓ РјРѕСЋ РЅР° РєСЂРµСЃС‚ РІРѕР·РЅС‘СЃ</plain>
         </string>
         <string>
-            <plain>Спаситель мой, Иисус Христос.</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
         <string>
-            <plain>Подумай, что Он пережил,</plain>
+            <plain>РџРѕРґСѓРјР°Р№, С‡С‚Рѕ РћРЅ РїРµСЂРµР¶РёР»,</plain>
         </string>
         <string>
-            <plain>когда Отцом оставлен был!</plain>
+            <plain>РєРѕРіРґР° РћС‚С†РѕРј РѕСЃС‚Р°РІР»РµРЅ Р±С‹Р»!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2894" name="О Библия слова твои" canon="false" text="" textRus="" music="">
+<psalm number="2894" name="Рћ Р‘РёР±Р»РёСЏ СЃР»РѕРІР° С‚РІРѕРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Библия, слова твои</plain>
+            <plain>Рћ Р‘РёР±Р»РёСЏ, СЃР»РѕРІР° С‚РІРѕРё</plain>
         </string>
         <string>
-            <plain>звучат через века;</plain>
+            <plain>Р·РІСѓС‡Р°С‚ С‡РµСЂРµР· РІРµРєР°;</plain>
         </string>
         <string>
-            <plain>о весть божественной</plain>
+            <plain>Рѕ РІРµСЃС‚СЊ Р±РѕР¶РµСЃС‚РІРµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>любви, как ты мне дорога!</plain>
+            <plain>Р»СЋР±РІРё, РєР°Рє С‚С‹ РјРЅРµ РґРѕСЂРѕРіР°!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О книга книг, где благодать</plain>
+            <plain>Рћ РєРЅРёРіР° РєРЅРёРі, РіРґРµ Р±Р»Р°РіРѕРґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>открыта для души!</plain>
+            <plain>РѕС‚РєСЂС‹С‚Р° РґР»СЏ РґСѓС€Рё!</plain>
         </string>
         <string>
-            <plain>Наставник ты и свет в пути,</plain>
+            <plain>РќР°СЃС‚Р°РІРЅРёРє С‚С‹ Рё СЃРІРµС‚ РІ РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>чтоб не ошиблись мы.</plain>
+            <plain>С‡С‚РѕР± РЅРµ РѕС€РёР±Р»РёСЃСЊ РјС‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О Библия, ты с высоты</plain>
+            <plain>Рћ Р‘РёР±Р»РёСЏ, С‚С‹ СЃ РІС‹СЃРѕС‚С‹</plain>
         </string>
         <string>
-            <plain>даруешь силу мне;</plain>
+            <plain>РґР°СЂСѓРµС€СЊ СЃРёР»Сѓ РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>на вечном Слове истины</plain>
+            <plain>РЅР° РІРµС‡РЅРѕРј РЎР»РѕРІРµ РёСЃС‚РёРЅС‹</plain>
         </string>
         <string>
-            <plain>стою, как на скале.</plain>
+            <plain>СЃС‚РѕСЋ, РєР°Рє РЅР° СЃРєР°Р»Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О Библия, ты - ясный</plain>
+            <plain>Рћ Р‘РёР±Р»РёСЏ, С‚С‹ - СЏСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>свет в моей борьбе земной;</plain>
+            <plain>СЃРІРµС‚ РІ РјРѕРµР№ Р±РѕСЂСЊР±Рµ Р·РµРјРЅРѕР№;</plain>
         </string>
         <string>
-            <plain>ты есть путеводитель мой,</plain>
+            <plain>С‚С‹ РµСЃС‚СЊ РїСѓС‚РµРІРѕРґРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>ведущий в дом родной.</plain>
+            <plain>РІРµРґСѓС‰РёР№ РІ РґРѕРј СЂРѕРґРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты путеводная звезда</plain>
+            <plain>РўС‹ РїСѓС‚РµРІРѕРґРЅР°СЏ Р·РІРµР·РґР°</plain>
         </string>
         <string>
-            <plain>здесь на пути земном;</plain>
+            <plain>Р·РґРµСЃСЊ РЅР° РїСѓС‚Рё Р·РµРјРЅРѕРј;</plain>
         </string>
         <string>
-            <plain>кто за тобой идёт всегда,</plain>
+            <plain>РєС‚Рѕ Р·Р° С‚РѕР±РѕР№ РёРґС‘С‚ РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>придёт в небесный дом.</plain>
+            <plain>РїСЂРёРґС‘С‚ РІ РЅРµР±РµСЃРЅС‹Р№ РґРѕРј.</plain>
         </string>
     </verse>
 </psalm>

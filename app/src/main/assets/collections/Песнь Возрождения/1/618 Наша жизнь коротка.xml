@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="618" name="Наша жизнь коротка" canon="false" text="" textRus="" music="">
+<psalm number="618" name="РќР°С€Р° Р¶РёР·РЅСЊ РєРѕСЂРѕС‚РєР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Наша жизнь коротка,</plain>
+            <plain>РќР°С€Р° Р¶РёР·РЅСЊ РєРѕСЂРѕС‚РєР°,</plain>
         </string>
         <string>
-            <plain>Словно птицы полет,</plain>
+            <plain>РЎР»РѕРІРЅРѕ РїС‚РёС†С‹ РїРѕР»РµС‚,</plain>
         </string>
         <string>
-            <plain>И быстрей челнока</plain>
+            <plain>Р Р±С‹СЃС‚СЂРµР№ С‡РµР»РЅРѕРєР°</plain>
         </string>
         <string>
-            <plain>Улетает вперед.</plain>
+            <plain>РЈР»РµС‚Р°РµС‚ РІРїРµСЂРµРґ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Наша жизнь, словно тень,</plain>
+            <plain>РќР°С€Р° Р¶РёР·РЅСЊ, СЃР»РѕРІРЅРѕ С‚РµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>На земле нам дана.</plain>
+            <plain>РќР° Р·РµРјР»Рµ РЅР°Рј РґР°РЅР°.</plain>
         </string>
         <string>
-            <plain>И как солнце зайдет -</plain>
+            <plain>Р РєР°Рє СЃРѕР»РЅС†Рµ Р·Р°Р№РґРµС‚ -</plain>
         </string>
         <string>
-            <plain>Исчезает она.</plain>
+            <plain>РСЃС‡РµР·Р°РµС‚ РѕРЅР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как цветок полевой:</plain>
+            <plain>РљР°Рє С†РІРµС‚РѕРє РїРѕР»РµРІРѕР№:</plain>
         </string>
         <string>
-            <plain>По утру расцветал,</plain>
+            <plain>РџРѕ СѓС‚СЂСѓ СЂР°СЃС†РІРµС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>А уж к вечеру в зной</plain>
+            <plain>Рђ СѓР¶ Рє РІРµС‡РµСЂСѓ РІ Р·РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Пожелтел и завял.</plain>
+            <plain>РџРѕР¶РµР»С‚РµР» Рё Р·Р°РІСЏР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Жизнь ведь только, как звук,</plain>
+            <plain>Р–РёР·РЅСЊ РІРµРґСЊ С‚РѕР»СЊРєРѕ, РєР°Рє Р·РІСѓРє,</plain>
         </string>
         <string>
-            <plain>Как удар молотка,</plain>
+            <plain>РљР°Рє СѓРґР°СЂ РјРѕР»РѕС‚РєР°,</plain>
         </string>
         <string>
-            <plain>Как нежданный испуг -</plain>
+            <plain>РљР°Рє РЅРµР¶РґР°РЅРЅС‹Р№ РёСЃРїСѓРі -</plain>
         </string>
         <string>
-            <plain>Так она коротка.</plain>
+            <plain>РўР°Рє РѕРЅР° РєРѕСЂРѕС‚РєР°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И не думаешь ты</plain>
+            <plain>Р РЅРµ РґСѓРјР°РµС€СЊ С‚С‹</plain>
         </string>
         <string>
-            <plain>Ни о чем, человек:</plain>
+            <plain>РќРё Рѕ С‡РµРј, С‡РµР»РѕРІРµРє:</plain>
         </string>
         <string>
-            <plain>Что ты скоро умрешь</plain>
+            <plain>Р§С‚Рѕ С‚С‹ СЃРєРѕСЂРѕ СѓРјСЂРµС€СЊ</plain>
         </string>
         <string>
-            <plain>И короток твой век.</plain>
+            <plain>Р РєРѕСЂРѕС‚РѕРє С‚РІРѕР№ РІРµРє.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Позаботься же ты</plain>
+            <plain>РџРѕР·Р°Р±РѕС‚СЊСЃСЏ Р¶Рµ С‚С‹</plain>
         </string>
         <string>
-            <plain>И Христа поищи,</plain>
+            <plain>Р РҐСЂРёСЃС‚Р° РїРѕРёС‰Рё,</plain>
         </string>
         <string>
-            <plain>В Нем отраду найдешь</plain>
+            <plain>Р’ РќРµРј РѕС‚СЂР°РґСѓ РЅР°Р№РґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>И спасенье души.</plain>
+            <plain>Р СЃРїР°СЃРµРЅСЊРµ РґСѓС€Рё.</plain>
         </string>
     </verse>
 </psalm>

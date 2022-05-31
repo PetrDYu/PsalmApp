@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3090" name="Брат мой верь обетованьям" canon="false" text="" textRus="" music="">
+<psalm number="3090" name="Р‘СЂР°С‚ РјРѕР№ РІРµСЂСЊ РѕР±РµС‚РѕРІР°РЅСЊСЏРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Брат мой, верь обетованьям</plain>
+            <plain>Р‘СЂР°С‚ РјРѕР№, РІРµСЂСЊ РѕР±РµС‚РѕРІР°РЅСЊСЏРј</plain>
         </string>
         <string>
-            <plain>и маловерным не будь!</plain>
+            <plain>Рё РјР°Р»РѕРІРµСЂРЅС‹Рј РЅРµ Р±СѓРґСЊ!</plain>
         </string>
         <string>
-            <plain>Ты побори все сомненья,</plain>
+            <plain>РўС‹ РїРѕР±РѕСЂРё РІСЃРµ СЃРѕРјРЅРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>в истине Божьей пребудь.</plain>
+            <plain>РІ РёСЃС‚РёРЅРµ Р‘РѕР¶СЊРµР№ РїСЂРµР±СѓРґСЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Братья, сёстры, молитесь,</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, СЃС‘СЃС‚СЂС‹, РјРѕР»РёС‚РµСЃСЊ,</plain>
         </string>
         <string>
-            <plain>возьмите веры щит!</plain>
+            <plain>РІРѕР·СЊРјРёС‚Рµ РІРµСЂС‹ С‰РёС‚!</plain>
         </string>
         <string>
-            <plain>Всё, что просите,</plain>
+            <plain>Р’СЃС‘, С‡С‚Рѕ РїСЂРѕСЃРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>будет - истина устоит!</plain>
+            <plain>Р±СѓРґРµС‚ - РёСЃС‚РёРЅР° СѓСЃС‚РѕРёС‚!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сам Искупитель в страданьях</plain>
+            <plain>РЎР°Рј РСЃРєСѓРїРёС‚РµР»СЊ РІ СЃС‚СЂР°РґР°РЅСЊСЏС…</plain>
         </string>
         <string>
-            <plain>долг за тебя заплатил.</plain>
+            <plain>РґРѕР»Рі Р·Р° С‚РµР±СЏ Р·Р°РїР»Р°С‚РёР».</plain>
         </string>
         <string>
-            <plain>Брат мой, верь обетованьям,</plain>
+            <plain>Р‘СЂР°С‚ РјРѕР№, РІРµСЂСЊ РѕР±РµС‚РѕРІР°РЅСЊСЏРј,</plain>
         </string>
         <string>
-            <plain>враг чтоб тебя не смутил.</plain>
+            <plain>РІСЂР°Рі С‡С‚РѕР± С‚РµР±СЏ РЅРµ СЃРјСѓС‚РёР».</plain>
         </string>
         <string>
-            <plain>З Всё, в чём нужду ты имеешь,</plain>
+            <plain>Р— Р’СЃС‘, РІ С‡С‘Рј РЅСѓР¶РґСѓ С‚С‹ РёРјРµРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>к трону Отца принеси.</plain>
+            <plain>Рє С‚СЂРѕРЅСѓ РћС‚С†Р° РїСЂРёРЅРµСЃРё.</plain>
         </string>
         <string>
-            <plain>Верь, что тебя Он услышит</plain>
+            <plain>Р’РµСЂСЊ, С‡С‚Рѕ С‚РµР±СЏ РћРЅ СѓСЃР»С‹С€РёС‚</plain>
         </string>
         <string>
-            <plain>- обетованья верны.</plain>
+            <plain>- РѕР±РµС‚РѕРІР°РЅСЊСЏ РІРµСЂРЅС‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Брат, тебе небо открыто;</plain>
+            <plain>Р‘СЂР°С‚, С‚РµР±Рµ РЅРµР±Рѕ РѕС‚РєСЂС‹С‚Рѕ;</plain>
         </string>
         <string>
-            <plain>видишь: святые дары.</plain>
+            <plain>РІРёРґРёС€СЊ: СЃРІСЏС‚С‹Рµ РґР°СЂС‹.</plain>
         </string>
         <string>
-            <plain>Просишь - дано тебе будет</plain>
+            <plain>РџСЂРѕСЃРёС€СЊ - РґР°РЅРѕ С‚РµР±Рµ Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>всё, что во благо души!</plain>
+            <plain>РІСЃС‘, С‡С‚Рѕ РІРѕ Р±Р»Р°РіРѕ РґСѓС€Рё!</plain>
         </string>
     </verse>
 </psalm>

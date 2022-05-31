@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1440" name="Помни радость крещенья" canon="false" text="" textRus="" music="">
+<psalm number="1440" name="РџРѕРјРЅРё СЂР°РґРѕСЃС‚СЊ РєСЂРµС‰РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Помни радость крещенья</plain>
+            <plain>РџРѕРјРЅРё СЂР°РґРѕСЃС‚СЊ РєСЂРµС‰РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В чудном свете созвездий,</plain>
+            <plain>Р’ С‡СѓРґРЅРѕРј СЃРІРµС‚Рµ СЃРѕР·РІРµР·РґРёР№,</plain>
         </string>
         <string>
-            <plain>Помни миг избавленья</plain>
+            <plain>РџРѕРјРЅРё РјРёРі РёР·Р±Р°РІР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>От греховной одежды.</plain>
+            <plain>РћС‚ РіСЂРµС…РѕРІРЅРѕР№ РѕРґРµР¶РґС‹.</plain>
         </string>
         <string>
-            <plain>Отрази на скрижалях</plain>
+            <plain>РћС‚СЂР°Р·Рё РЅР° СЃРєСЂРёР¶Р°Р»СЏС…</plain>
         </string>
         <string>
-            <plain>Жар молитвы под небом.</plain>
+            <plain>Р–Р°СЂ РјРѕР»РёС‚РІС‹ РїРѕРґ РЅРµР±РѕРј.</plain>
         </string>
         <string>
-            <plain>Чтоб к Творцу улетала</plain>
+            <plain>Р§С‚РѕР± Рє РўРІРѕСЂС†Сѓ СѓР»РµС‚Р°Р»Р°</plain>
         </string>
         <string>
-            <plain>Нежной, чистой, как лебедь.</plain>
+            <plain>РќРµР¶РЅРѕР№, С‡РёСЃС‚РѕР№, РєР°Рє Р»РµР±РµРґСЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Если в жизни сомненье</plain>
+            <plain>Р•СЃР»Рё РІ Р¶РёР·РЅРё СЃРѕРјРЅРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Вдруг нагрянет с тревогой,</plain>
+            <plain>Р’РґСЂСѓРі РЅР°РіСЂСЏРЅРµС‚ СЃ С‚СЂРµРІРѕРіРѕР№,</plain>
         </string>
         <string>
-            <plain>И земное теченье</plain>
+            <plain>Р Р·РµРјРЅРѕРµ С‚РµС‡РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>понесет на пороги;</plain>
+            <plain>РїРѕРЅРµСЃРµС‚ РЅР° РїРѕСЂРѕРіРё;</plain>
         </string>
         <string>
-            <plain>И едва будет биться</plain>
+            <plain>Р РµРґРІР° Р±СѓРґРµС‚ Р±РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Пульс слабеющей веры.</plain>
+            <plain>РџСѓР»СЊСЃ СЃР»Р°Р±РµСЋС‰РµР№ РІРµСЂС‹.</plain>
         </string>
         <string>
-            <plain>Пусть тогда возвратится</plain>
+            <plain>РџСѓСЃС‚СЊ С‚РѕРіРґР° РІРѕР·РІСЂР°С‚РёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Ночь и памятный берег.</plain>
+            <plain>РќРѕС‡СЊ Рё РїР°РјСЏС‚РЅС‹Р№ Р±РµСЂРµРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>А былое припомнив.</plain>
+            <plain>Рђ Р±С‹Р»РѕРµ РїСЂРёРїРѕРјРЅРёРІ.</plain>
         </string>
         <string>
-            <plain>Отыщу все причины,</plain>
+            <plain>РћС‚С‹С‰Сѓ РІСЃРµ РїСЂРёС‡РёРЅС‹,</plain>
         </string>
         <string>
-            <plain>Что дорогой наклонной</plain>
+            <plain>Р§С‚Рѕ РґРѕСЂРѕРіРѕР№ РЅР°РєР»РѕРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Уводили к пучине.</plain>
+            <plain>РЈРІРѕРґРёР»Рё Рє РїСѓС‡РёРЅРµ.</plain>
         </string>
         <string>
-            <plain>И священным порывом</plain>
+            <plain>Р СЃРІСЏС‰РµРЅРЅС‹Рј РїРѕСЂС‹РІРѕРј</plain>
         </string>
         <string>
-            <plain>Избери обновленье,</plain>
+            <plain>РР·Р±РµСЂРё РѕР±РЅРѕРІР»РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Повернув у обрыва</plain>
+            <plain>РџРѕРІРµСЂРЅСѓРІ Сѓ РѕР±СЂС‹РІР°</plain>
         </string>
         <string>
-            <plain>На тропинку спасенья.</plain>
+            <plain>РќР° С‚СЂРѕРїРёРЅРєСѓ СЃРїР°СЃРµРЅСЊСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И Спаситель поможет.</plain>
+            <plain>Р РЎРїР°СЃРёС‚РµР»СЊ РїРѕРјРѕР¶РµС‚.</plain>
         </string>
         <string>
-            <plain>Свергнув чуждые верви,</plain>
+            <plain>РЎРІРµСЂРіРЅСѓРІ С‡СѓР¶РґС‹Рµ РІРµСЂРІРё,</plain>
         </string>
         <string>
-            <plain>И надежду умножит,</plain>
+            <plain>Р РЅР°РґРµР¶РґСѓ СѓРјРЅРѕР¶РёС‚,</plain>
         </string>
         <string>
-            <plain>- Только искренно веруй.</plain>
+            <plain>- РўРѕР»СЊРєРѕ РёСЃРєСЂРµРЅРЅРѕ РІРµСЂСѓР№.</plain>
         </string>
         <string>
-            <plain>А, потерю восполнив</plain>
+            <plain>Рђ, РїРѕС‚РµСЂСЋ РІРѕСЃРїРѕР»РЅРёРІ</plain>
         </string>
         <string>
-            <plain>При Его освященьи.</plain>
+            <plain>РџСЂРё Р•РіРѕ РѕСЃРІСЏС‰РµРЅСЊРё.</plain>
         </string>
         <string>
-            <plain>Цену радости помни,</plain>
+            <plain>Р¦РµРЅСѓ СЂР°РґРѕСЃС‚Рё РїРѕРјРЅРё,</plain>
         </string>
         <string>
-            <plain>Помни счастье прощенья.</plain>
+            <plain>РџРѕРјРЅРё СЃС‡Р°СЃС‚СЊРµ РїСЂРѕС‰РµРЅСЊСЏ.</plain>
         </string>
     </verse>
 </psalm>

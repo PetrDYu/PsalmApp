@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3086" name="По Христа обетованью" canon="false" text="" textRus="" music="">
+<psalm number="3086" name="РџРѕ РҐСЂРёСЃС‚Р° РѕР±РµС‚РѕРІР°РЅСЊСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>По Христа обетованью</plain>
+            <plain>РџРѕ РҐСЂРёСЃС‚Р° РѕР±РµС‚РѕРІР°РЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>Дух Святой к нам снизошёл,</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№ Рє РЅР°Рј СЃРЅРёР·РѕС€С‘Р»,</plain>
         </string>
         <string>
-            <plain>в силе освящая души тем,</plain>
+            <plain>РІ СЃРёР»Рµ РѕСЃРІСЏС‰Р°СЏ РґСѓС€Рё С‚РµРј,</plain>
         </string>
         <string>
-            <plain>кто от греха спасён.</plain>
+            <plain>РєС‚Рѕ РѕС‚ РіСЂРµС…Р° СЃРїР°СЃС‘РЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дух Святой, Ты - мой Учитель,</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, РўС‹ - РјРѕР№ РЈС‡РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>в сердце пребывай моём.</plain>
+            <plain>РІ СЃРµСЂРґС†Рµ РїСЂРµР±С‹РІР°Р№ РјРѕС‘Рј.</plain>
         </string>
         <string>
-            <plain>Ты - мой верный Утешитель,</plain>
+            <plain>РўС‹ - РјРѕР№ РІРµСЂРЅС‹Р№ РЈС‚РµС€РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>счастлив я в Тебе одном.</plain>
+            <plain>СЃС‡Р°СЃС‚Р»РёРІ СЏ РІ РўРµР±Рµ РѕРґРЅРѕРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Над грехом я власть имею,</plain>
+            <plain>РќР°Рґ РіСЂРµС…РѕРј СЏ РІР»Р°СЃС‚СЊ РёРјРµСЋ,</plain>
         </string>
         <string>
-            <plain>радость льётся через край.</plain>
+            <plain>СЂР°РґРѕСЃС‚СЊ Р»СЊС‘С‚СЃСЏ С‡РµСЂРµР· РєСЂР°Р№.</plain>
         </string>
         <string>
-            <plain>Мир духовный я имею,</plain>
+            <plain>РњРёСЂ РґСѓС…РѕРІРЅС‹Р№ СЏ РёРјРµСЋ,</plain>
         </string>
         <string>
-            <plain>жизнь моя - цветущий рай.</plain>
+            <plain>Р¶РёР·РЅСЊ РјРѕСЏ - С†РІРµС‚СѓС‰РёР№ СЂР°Р№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Силою Святого Духа</plain>
+            <plain>РЎРёР»РѕСЋ РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р°</plain>
         </string>
         <string>
-            <plain>зло могу я побеждать,</plain>
+            <plain>Р·Р»Рѕ РјРѕРіСѓ СЏ РїРѕР±РµР¶РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>мужество в борьбе даёт Он</plain>
+            <plain>РјСѓР¶РµСЃС‚РІРѕ РІ Р±РѕСЂСЊР±Рµ РґР°С‘С‚ РћРЅ</plain>
         </string>
         <string>
-            <plain>и дарует благодать.</plain>
+            <plain>Рё РґР°СЂСѓРµС‚ Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я с Утешителем ныне</plain>
+            <plain>РЇ СЃ РЈС‚РµС€РёС‚РµР»РµРј РЅС‹РЅРµ</plain>
         </string>
         <string>
-            <plain>в мире сладостном живу.</plain>
+            <plain>РІ РјРёСЂРµ СЃР»Р°РґРѕСЃС‚РЅРѕРј Р¶РёРІСѓ.</plain>
         </string>
         <string>
-            <plain>Освящён я, рад и счастлив,</plain>
+            <plain>РћСЃРІСЏС‰С‘РЅ СЏ, СЂР°Рґ Рё СЃС‡Р°СЃС‚Р»РёРІ,</plain>
         </string>
         <string>
-            <plain>весь Ему принадлежу.</plain>
+            <plain>РІРµСЃСЊ Р•РјСѓ РїСЂРёРЅР°РґР»РµР¶Сѓ.</plain>
         </string>
     </verse>
 </psalm>

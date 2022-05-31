@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2999" name="Мы Спасителю гимн хвалы поём" canon="false" text="" textRus="" music="">
+<psalm number="2999" name="РњС‹ РЎРїР°СЃРёС‚РµР»СЋ РіРёРјРЅ С…РІР°Р»С‹ РїРѕС‘Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы Спасителю гимн хвалы поём,</plain>
+            <plain>РњС‹ РЎРїР°СЃРёС‚РµР»СЋ РіРёРјРЅ С…РІР°Р»С‹ РїРѕС‘Рј,</plain>
         </string>
         <string>
-            <plain>за истину всегда стоим.</plain>
+            <plain>Р·Р° РёСЃС‚РёРЅСѓ РІСЃРµРіРґР° СЃС‚РѕРёРј.</plain>
         </string>
         <string>
-            <plain>Славим Господа мы в своих сердцах,</plain>
+            <plain>РЎР»Р°РІРёРј Р“РѕСЃРїРѕРґР° РјС‹ РІ СЃРІРѕРёС… СЃРµСЂРґС†Р°С…,</plain>
         </string>
         <string>
-            <plain>Его мы силой победим.</plain>
+            <plain>Р•РіРѕ РјС‹ СЃРёР»РѕР№ РїРѕР±РµРґРёРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Славьте, да, славьте,</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ, РґР°, СЃР»Р°РІСЊС‚Рµ,</plain>
         </string>
         <string>
-            <plain>славьте Искупителя Христа!</plain>
+            <plain>СЃР»Р°РІСЊС‚Рµ РСЃРєСѓРїРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>О, славьте, да, славьте,</plain>
+            <plain>Рћ, СЃР»Р°РІСЊС‚Рµ, РґР°, СЃР»Р°РІСЊС‚Рµ,</plain>
         </string>
         <string>
-            <plain>славьте Искупителя Христа!</plain>
+            <plain>СЃР»Р°РІСЊС‚Рµ РСЃРєСѓРїРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если вражье войско на нас пойдёт,</plain>
+            <plain>Р•СЃР»Рё РІСЂР°Р¶СЊРµ РІРѕР№СЃРєРѕ РЅР° РЅР°СЃ РїРѕР№РґС‘С‚,</plain>
         </string>
         <string>
-            <plain>мы гимн победный воспоём,</plain>
+            <plain>РјС‹ РіРёРјРЅ РїРѕР±РµРґРЅС‹Р№ РІРѕСЃРїРѕС‘Рј,</plain>
         </string>
         <string>
-            <plain>ибо в нашем сердце Иисус живёт;</plain>
+            <plain>РёР±Рѕ РІ РЅР°С€РµРј СЃРµСЂРґС†Рµ РРёСЃСѓСЃ Р¶РёРІС‘С‚;</plain>
         </string>
         <string>
-            <plain>победу мы имеем в Нём.</plain>
+            <plain>РїРѕР±РµРґСѓ РјС‹ РёРјРµРµРј РІ РќС‘Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Да, Иисусу всякая власть дана</plain>
+            <plain>Р”Р°, РРёСЃСѓСЃСѓ РІСЃСЏРєР°СЏ РІР»Р°СЃС‚СЊ РґР°РЅР°</plain>
         </string>
         <string>
-            <plain>и в небесах, и на земле;</plain>
+            <plain>Рё РІ РЅРµР±РµСЃР°С…, Рё РЅР° Р·РµРјР»Рµ;</plain>
         </string>
         <string>
-            <plain>а иные царства покоя ждут,</plain>
+            <plain>Р° РёРЅС‹Рµ С†Р°СЂСЃС‚РІР° РїРѕРєРѕСЏ Р¶РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>- оно дано уж ныне мне.</plain>
+            <plain>- РѕРЅРѕ РґР°РЅРѕ СѓР¶ РЅС‹РЅРµ РјРЅРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Скоро с трубным звуком Господь придёт</plain>
+            <plain>РЎРєРѕСЂРѕ СЃ С‚СЂСѓР±РЅС‹Рј Р·РІСѓРєРѕРј Р“РѕСЃРїРѕРґСЊ РїСЂРёРґС‘С‚</plain>
         </string>
         <string>
-            <plain>И всех, кто верно ждёт Его,</plain>
+            <plain>Р РІСЃРµС…, РєС‚Рѕ РІРµСЂРЅРѕ Р¶РґС‘С‚ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>Он на облаках в небеса возьмёт,</plain>
+            <plain>РћРЅ РЅР° РѕР±Р»Р°РєР°С… РІ РЅРµР±РµСЃР° РІРѕР·СЊРјС‘С‚,</plain>
         </string>
         <string>
-            <plain>чтоб были вечно у Него.</plain>
+            <plain>С‡С‚РѕР± Р±С‹Р»Рё РІРµС‡РЅРѕ Сѓ РќРµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>В месте, что Господь приготовил нам,</plain>
+            <plain>Р’ РјРµСЃС‚Рµ, С‡С‚Рѕ Р“РѕСЃРїРѕРґСЊ РїСЂРёРіРѕС‚РѕРІРёР» РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>где мы вдали от всех невзгод,</plain>
+            <plain>РіРґРµ РјС‹ РІРґР°Р»Рё РѕС‚ РІСЃРµС… РЅРµРІР·РіРѕРґ,</plain>
         </string>
         <string>
-            <plain>будем прославлять мы Иисуса там</plain>
+            <plain>Р±СѓРґРµРј РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ РјС‹ РРёСЃСѓСЃР° С‚Р°Рј</plain>
         </string>
         <string>
-            <plain>и чтить, как Господа господ.</plain>
+            <plain>Рё С‡С‚РёС‚СЊ, РєР°Рє Р“РѕСЃРїРѕРґР° РіРѕСЃРїРѕРґ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1887" name="Я знаю Боже указал мне путь" canon="false" text="" textRus="" music="">
+<psalm number="1887" name="РЇ Р·РЅР°СЋ Р‘РѕР¶Рµ СѓРєР°Р·Р°Р» РјРЅРµ РїСѓС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я знаю, Боже указал мне путь,</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р‘РѕР¶Рµ СѓРєР°Р·Р°Р» РјРЅРµ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Я знаю, Боже указал мне путь.</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р‘РѕР¶Рµ СѓРєР°Р·Р°Р» РјРЅРµ РїСѓС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Будем жить мы для Него,</plain>
+            <plain>Р‘СѓРґРµРј Р¶РёС‚СЊ РјС‹ РґР»СЏ РќРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>В наших мыслях и делах,</plain>
+            <plain>Р’ РЅР°С€РёС… РјС‹СЃР»СЏС… Рё РґРµР»Р°С…,</plain>
         </string>
         <string>
-            <plain>Я знаю, Боже указал мне путь.</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р‘РѕР¶Рµ СѓРєР°Р·Р°Р» РјРЅРµ РїСѓС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я знаю, Боже жажду утолит,</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р‘РѕР¶Рµ Р¶Р°Р¶РґСѓ СѓС‚РѕР»РёС‚,</plain>
         </string>
         <string>
-            <plain>Я знаю. Боже жажду утолит.</plain>
+            <plain>РЇ Р·РЅР°СЋ. Р‘РѕР¶Рµ Р¶Р°Р¶РґСѓ СѓС‚РѕР»РёС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я знаю, Боже, радость меня ждет,</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р‘РѕР¶Рµ, СЂР°РґРѕСЃС‚СЊ РјРµРЅСЏ Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Я знаю, Боже, радость меня ждет.</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р‘РѕР¶Рµ, СЂР°РґРѕСЃС‚СЊ РјРµРЅСЏ Р¶РґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

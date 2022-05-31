@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1978" name="Будь скор чтоб слышать Божье" canon="false" text="" textRus="" music="">
+<psalm number="1978" name="Р‘СѓРґСЊ СЃРєРѕСЂ С‡С‚РѕР± СЃР»С‹С€Р°С‚СЊ Р‘РѕР¶СЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Будь скор, чтоб слышать Божье</plain>
+            <plain>Р‘СѓРґСЊ СЃРєРѕСЂ, С‡С‚РѕР± СЃР»С‹С€Р°С‚СЊ Р‘РѕР¶СЊРµ</plain>
         </string>
         <string>
-            <plain>Слово, Его молитвой освятить;</plain>
+            <plain>РЎР»РѕРІРѕ, Р•РіРѕ РјРѕР»РёС‚РІРѕР№ РѕСЃРІСЏС‚РёС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Будь скор учение Христово</plain>
+            <plain>Р‘СѓРґСЊ СЃРєРѕСЂ СѓС‡РµРЅРёРµ РҐСЂРёСЃС‚РѕРІРѕ</plain>
         </string>
         <string>
-            <plain>В основу жизни положить.</plain>
+            <plain>Р’ РѕСЃРЅРѕРІСѓ Р¶РёР·РЅРё РїРѕР»РѕР¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Будь скор на дело благовестья</plain>
+            <plain>Р‘СѓРґСЊ СЃРєРѕСЂ РЅР° РґРµР»Рѕ Р±Р»Р°РіРѕРІРµСЃС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>О вечной правде и любви;</plain>
+            <plain>Рћ РІРµС‡РЅРѕР№ РїСЂР°РІРґРµ Рё Р»СЋР±РІРё;</plain>
         </string>
         <string>
-            <plain>Пойди во все углы нечестья</plain>
+            <plain>РџРѕР№РґРё РІРѕ РІСЃРµ СѓРіР»С‹ РЅРµС‡РµСЃС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>И души к Господу зови.</plain>
+            <plain>Р РґСѓС€Рё Рє Р“РѕСЃРїРѕРґСѓ Р·РѕРІРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Будь скор на кроткое служенье</plain>
+            <plain>Р‘СѓРґСЊ СЃРєРѕСЂ РЅР° РєСЂРѕС‚РєРѕРµ СЃР»СѓР¶РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Израненным в бою с грехом;</plain>
+            <plain>РР·СЂР°РЅРµРЅРЅС‹Рј РІ Р±РѕСЋ СЃ РіСЂРµС…РѕРј;</plain>
         </string>
         <string>
-            <plain>Спеши нести им исцеленье</plain>
+            <plain>РЎРїРµС€Рё РЅРµСЃС‚Рё РёРј РёСЃС†РµР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Из ран Христа, Его крестом.</plain>
+            <plain>РР· СЂР°РЅ РҐСЂРёСЃС‚Р°, Р•РіРѕ РєСЂРµСЃС‚РѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Будь скор на помощь угнетенным</plain>
+            <plain>Р‘СѓРґСЊ СЃРєРѕСЂ РЅР° РїРѕРјРѕС‰СЊ СѓРіРЅРµС‚РµРЅРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Грехом и жизнью суетной;</plain>
+            <plain>Р“СЂРµС…РѕРј Рё Р¶РёР·РЅСЊСЋ СЃСѓРµС‚РЅРѕР№;</plain>
         </string>
         <string>
-            <plain>И в подвиге, Христом свершенном.</plain>
+            <plain>Р РІ РїРѕРґРІРёРіРµ, РҐСЂРёСЃС‚РѕРј СЃРІРµСЂС€РµРЅРЅРѕРј.</plain>
         </string>
         <string>
-            <plain>Им избавление открой.</plain>
+            <plain>РРј РёР·Р±Р°РІР»РµРЅРёРµ РѕС‚РєСЂРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Будь скор на помощь бедным братьям</plain>
+            <plain>Р‘СѓРґСЊ СЃРєРѕСЂ РЅР° РїРѕРјРѕС‰СЊ Р±РµРґРЅС‹Рј Р±СЂР°С‚СЊСЏРј</plain>
         </string>
         <string>
-            <plain>Бездомным, сиротам, больным:</plain>
+            <plain>Р‘РµР·РґРѕРјРЅС‹Рј, СЃРёСЂРѕС‚Р°Рј, Р±РѕР»СЊРЅС‹Рј:</plain>
         </string>
         <string>
-            <plain>Служи им кровом, хлебом, платьем</plain>
+            <plain>РЎР»СѓР¶Рё РёРј РєСЂРѕРІРѕРј, С…Р»РµР±РѕРј, РїР»Р°С‚СЊРµРј</plain>
         </string>
         <string>
-            <plain>И всем имуществом своим.</plain>
+            <plain>Р РІСЃРµРј РёРјСѓС‰РµСЃС‚РІРѕРј СЃРІРѕРёРј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Будь скор всегда на Божье дело.</plain>
+            <plain>Р‘СѓРґСЊ СЃРєРѕСЂ РІСЃРµРіРґР° РЅР° Р‘РѕР¶СЊРµ РґРµР»Рѕ.</plain>
         </string>
         <string>
-            <plain>Ни дня, ни часа не теряй;</plain>
+            <plain>РќРё РґРЅСЏ, РЅРё С‡Р°СЃР° РЅРµ С‚РµСЂСЏР№;</plain>
         </string>
         <string>
-            <plain>Когда зовут, не медли, смело</plain>
+            <plain>РљРѕРіРґР° Р·РѕРІСѓС‚, РЅРµ РјРµРґР»Рё, СЃРјРµР»Рѕ</plain>
         </string>
         <string>
-            <plain>Иди и долг свой исполняй.</plain>
+            <plain>РРґРё Рё РґРѕР»Рі СЃРІРѕР№ РёСЃРїРѕР»РЅСЏР№.</plain>
         </string>
     </verse>
 </psalm>

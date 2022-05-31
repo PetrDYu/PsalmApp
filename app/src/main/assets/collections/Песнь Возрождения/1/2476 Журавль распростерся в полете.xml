@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2476" name="Журавль распростерся в полете" canon="false" text="" textRus="" music="">
+<psalm number="2476" name="Р–СѓСЂР°РІР»СЊ СЂР°СЃРїСЂРѕСЃС‚РµСЂСЃСЏ РІ РїРѕР»РµС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Журавль распростерся в полете,</plain>
+            <plain>Р–СѓСЂР°РІР»СЊ СЂР°СЃРїСЂРѕСЃС‚РµСЂСЃСЏ РІ РїРѕР»РµС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Я знаю, Он ищет гнездо.</plain>
+            <plain>РЇ Р·РЅР°СЋ, РћРЅ РёС‰РµС‚ РіРЅРµР·РґРѕ.</plain>
         </string>
         <string>
-            <plain>И радость трепещет во взлете,</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊ С‚СЂРµРїРµС‰РµС‚ РІРѕ РІР·Р»РµС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Я знаю, здесь будет семья.</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р·РґРµСЃСЊ Р±СѓРґРµС‚ СЃРµРјСЊСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Милые друзья,</plain>
+            <plain>РњРёР»С‹Рµ РґСЂСѓР·СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Вам желаю я Счастья и любви,</plain>
+            <plain>Р’Р°Рј Р¶РµР»Р°СЋ СЏ РЎС‡Р°СЃС‚СЊСЏ Рё Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Жить как журавли.</plain>
+            <plain>Р–РёС‚СЊ РєР°Рє Р¶СѓСЂР°РІР»Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На старой соломеиной крыше</plain>
+            <plain>РќР° СЃС‚Р°СЂРѕР№ СЃРѕР»РѕРјРµРёРЅРѕР№ РєСЂС‹С€Рµ</plain>
         </string>
         <string>
-            <plain>С журавкой гнездятся они,</plain>
+            <plain>РЎ Р¶СѓСЂР°РІРєРѕР№ РіРЅРµР·РґСЏС‚СЃСЏ РѕРЅРё,</plain>
         </string>
         <string>
-            <plain>И голос счастливый их слышен,</plain>
+            <plain>Р РіРѕР»РѕСЃ СЃС‡Р°СЃС‚Р»РёРІС‹Р№ РёС… СЃР»С‹С€РµРЅ,</plain>
         </string>
         <string>
-            <plain>Курлычат мои журавли.</plain>
+            <plain>РљСѓСЂР»С‹С‡Р°С‚ РјРѕРё Р¶СѓСЂР°РІР»Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Их верность достойна примера,</plain>
+            <plain>РС… РІРµСЂРЅРѕСЃС‚СЊ РґРѕСЃС‚РѕР№РЅР° РїСЂРёРјРµСЂР°,</plain>
         </string>
         <string>
-            <plain>И людям должно подражать.</plain>
+            <plain>Р Р»СЋРґСЏРј РґРѕР»Р¶РЅРѕ РїРѕРґСЂР°Р¶Р°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Любить без конца и без меры</plain>
+            <plain>Р›СЋР±РёС‚СЊ Р±РµР· РєРѕРЅС†Р° Рё Р±РµР· РјРµСЂС‹</plain>
         </string>
         <string>
-            <plain>И верность хранить до конца.</plain>
+            <plain>Р РІРµСЂРЅРѕСЃС‚СЊ С…СЂР°РЅРёС‚СЊ РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
 </psalm>

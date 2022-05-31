@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3020" name="Град Божий песни в старину" canon="false" text="" textRus="" music="">
+<psalm number="3020" name="Р“СЂР°Рґ Р‘РѕР¶РёР№ РїРµСЃРЅРё РІ СЃС‚Р°СЂРёРЅСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Град Божий, песни в старину</plain>
+            <plain>Р“СЂР°Рґ Р‘РѕР¶РёР№, РїРµСЃРЅРё РІ СЃС‚Р°СЂРёРЅСѓ</plain>
         </string>
         <string>
-            <plain>слагали о тебе,</plain>
+            <plain>СЃР»Р°РіР°Р»Рё Рѕ С‚РµР±Рµ,</plain>
         </string>
         <string>
-            <plain>лишь издали твою красу</plain>
+            <plain>Р»РёС€СЊ РёР·РґР°Р»Рё С‚РІРѕСЋ РєСЂР°СЃСѓ</plain>
         </string>
         <string>
-            <plain>Пророки зрили все.</plain>
+            <plain>РџСЂРѕСЂРѕРєРё Р·СЂРёР»Рё РІСЃРµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иерусалим, небесный град,</plain>
+            <plain>РРµСЂСѓСЃР°Р»РёРј, РЅРµР±РµСЃРЅС‹Р№ РіСЂР°Рґ,</plain>
         </string>
         <string>
-            <plain>всё ярче светишь ты.</plain>
+            <plain>РІСЃС‘ СЏСЂС‡Рµ СЃРІРµС‚РёС€СЊ С‚С‹.</plain>
         </string>
         <string>
-            <plain>Господь, создавший этот град,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, СЃРѕР·РґР°РІС€РёР№ СЌС‚РѕС‚ РіСЂР°Рґ,</plain>
         </string>
         <string>
-            <plain>всё в истине творит.</plain>
+            <plain>РІСЃС‘ РІ РёСЃС‚РёРЅРµ С‚РІРѕСЂРёС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На землю этот град сошёл,</plain>
+            <plain>РќР° Р·РµРјР»СЋ СЌС‚РѕС‚ РіСЂР°Рґ СЃРѕС€С‘Р»,</plain>
         </string>
         <string>
-            <plain>святы его врата.</plain>
+            <plain>СЃРІСЏС‚С‹ РµРіРѕ РІСЂР°С‚Р°.</plain>
         </string>
         <string>
-            <plain>Того, кто в град златой пришёл,</plain>
+            <plain>РўРѕРіРѕ, РєС‚Рѕ РІ РіСЂР°Рґ Р·Р»Р°С‚РѕР№ РїСЂРёС€С‘Р»,</plain>
         </string>
         <string>
-            <plain>пленит его краса.</plain>
+            <plain>РїР»РµРЅРёС‚ РµРіРѕ РєСЂР°СЃР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты здесь родную мать обрёл,</plain>
+            <plain>РўС‹ Р·РґРµСЃСЊ СЂРѕРґРЅСѓСЋ РјР°С‚СЊ РѕР±СЂС‘Р»,</plain>
         </string>
         <string>
-            <plain>Всевышнего дитя;</plain>
+            <plain>Р’СЃРµРІС‹С€РЅРµРіРѕ РґРёС‚СЏ;</plain>
         </string>
         <string>
-            <plain>омытый кровью, ты вошёл</plain>
+            <plain>РѕРјС‹С‚С‹Р№ РєСЂРѕРІСЊСЋ, С‚С‹ РІРѕС€С‘Р»</plain>
         </string>
         <string>
-            <plain>в те чудные врата.</plain>
+            <plain>РІ С‚Рµ С‡СѓРґРЅС‹Рµ РІСЂР°С‚Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Его светильник - Агнец сам</plain>
+            <plain>Р•РіРѕ СЃРІРµС‚РёР»СЊРЅРёРє - РђРіРЅРµС† СЃР°Рј</plain>
         </string>
         <string>
-            <plain>- как ясен свет Его!</plain>
+            <plain>- РєР°Рє СЏСЃРµРЅ СЃРІРµС‚ Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>А вместо стен - спасенье там,</plain>
+            <plain>Рђ РІРјРµСЃС‚Рѕ СЃС‚РµРЅ - СЃРїР°СЃРµРЅСЊРµ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>и хор хвалу поёт.</plain>
+            <plain>Рё С…РѕСЂ С…РІР°Р»Сѓ РїРѕС‘С‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Тот град на истине стоит,</plain>
+            <plain>РўРѕС‚ РіСЂР°Рґ РЅР° РёСЃС‚РёРЅРµ СЃС‚РѕРёС‚,</plain>
         </string>
         <string>
-            <plain>свободный от врага.</plain>
+            <plain>СЃРІРѕР±РѕРґРЅС‹Р№ РѕС‚ РІСЂР°РіР°.</plain>
         </string>
         <string>
-            <plain>Кто слышит зов, пусть поспешит</plain>
+            <plain>РљС‚Рѕ СЃР»С‹С€РёС‚ Р·РѕРІ, РїСѓСЃС‚СЊ РїРѕСЃРїРµС€РёС‚</plain>
         </string>
         <string>
-            <plain>войти в его врата.</plain>
+            <plain>РІРѕР№С‚Рё РІ РµРіРѕ РІСЂР°С‚Р°.</plain>
         </string>
     </verse>
 </psalm>

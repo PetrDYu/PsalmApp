@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="77" name="Господь одно хочу лишь я" canon="false" text="" textRus="" music="">
+<psalm number="77" name="Р“РѕСЃРїРѕРґСЊ РѕРґРЅРѕ С…РѕС‡Сѓ Р»РёС€СЊ СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господь, одно хочу лишь я,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РѕРґРЅРѕ С…РѕС‡Сѓ Р»РёС€СЊ СЏ,</plain>
         </string>
         <string>
-            <plain>Хотя мой путь земной тернист:</plain>
+            <plain>РҐРѕС‚СЏ РјРѕР№ РїСѓС‚СЊ Р·РµРјРЅРѕР№ С‚РµСЂРЅРёСЃС‚:</plain>
         </string>
         <string>
-            <plain>Веди меня среди огня,</plain>
+            <plain>Р’РµРґРё РјРµРЅСЏ СЃСЂРµРґРё РѕРіРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб я был чист, чтоб я был чист!</plain>
+            <plain>Р§С‚РѕР± СЏ Р±С‹Р» С‡РёСЃС‚, С‡С‚РѕР± СЏ Р±С‹Р» С‡РёСЃС‚!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Омой меня внутри и вне</plain>
+            <plain>РћРјРѕР№ РјРµРЅСЏ РІРЅСѓС‚СЂРё Рё РІРЅРµ</plain>
         </string>
         <string>
-            <plain>И, если нужно, - плавь в огне,</plain>
+            <plain>Р, РµСЃР»Рё РЅСѓР¶РЅРѕ, - РїР»Р°РІСЊ РІ РѕРіРЅРµ,</plain>
         </string>
         <string>
-            <plain>Чтоб в сердце грех, на самом дне,</plain>
+            <plain>Р§С‚РѕР± РІ СЃРµСЂРґС†Рµ РіСЂРµС…, РЅР° СЃР°РјРѕРј РґРЅРµ,</plain>
         </string>
         <string>
-            <plain>Был удален совсем во мне.</plain>
+            <plain>Р‘С‹Р» СѓРґР°Р»РµРЅ СЃРѕРІСЃРµРј РІРѕ РјРЅРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Не делать зла стараюсь я,</plain>
+            <plain>РќРµ РґРµР»Р°С‚СЊ Р·Р»Р° СЃС‚Р°СЂР°СЋСЃСЊ СЏ,</plain>
         </string>
         <string>
-            <plain>От грешных помыслов бегу,</plain>
+            <plain>РћС‚ РіСЂРµС€РЅС‹С… РїРѕРјС‹СЃР»РѕРІ Р±РµРіСѓ,</plain>
         </string>
         <string>
-            <plain>Как ни стремлюсь быть чистым я,</plain>
+            <plain>РљР°Рє РЅРё СЃС‚СЂРµРјР»СЋСЃСЊ Р±С‹С‚СЊ С‡РёСЃС‚С‹Рј СЏ,</plain>
         </string>
         <string>
-            <plain>- Все ж чистым быть я не могу.</plain>
+            <plain>- Р’СЃРµ Р¶ С‡РёСЃС‚С‹Рј Р±С‹С‚СЊ СЏ РЅРµ РјРѕРіСѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пошлешь ли в жизни счастье мне,</plain>
+            <plain>РџРѕС€Р»РµС€СЊ Р»Рё РІ Р¶РёР·РЅРё СЃС‡Р°СЃС‚СЊРµ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Богатство, славу иль успех,</plain>
+            <plain>Р‘РѕРіР°С‚СЃС‚РІРѕ, СЃР»Р°РІСѓ РёР»СЊ СѓСЃРїРµС…,</plain>
         </string>
         <string>
-            <plain>Но сердце чистое во мне</plain>
+            <plain>РќРѕ СЃРµСЂРґС†Рµ С‡РёСЃС‚РѕРµ РІРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>- Дороже всех, дороже всех.</plain>
+            <plain>- Р”РѕСЂРѕР¶Рµ РІСЃРµС…, РґРѕСЂРѕР¶Рµ РІСЃРµС….</plain>
         </string>
     </verse>
 </psalm>

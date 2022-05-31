@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1059" name="Церковь Божья поднимайся" canon="false" text="" textRus="" music="">
+<psalm number="1059" name="Р¦РµСЂРєРѕРІСЊ Р‘РѕР¶СЊСЏ РїРѕРґРЅРёРјР°Р№СЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Церковь Божья, поднимайся!</plain>
+            <plain>Р¦РµСЂРєРѕРІСЊ Р‘РѕР¶СЊСЏ, РїРѕРґРЅРёРјР°Р№СЃСЏ!</plain>
         </string>
         <string>
-            <plain>К встрече ты приготовляйся.</plain>
+            <plain>Рљ РІСЃС‚СЂРµС‡Рµ С‚С‹ РїСЂРёРіРѕС‚РѕРІР»СЏР№СЃСЏ.</plain>
         </string>
         <string>
-            <plain>Бог готовых лишь возьмет,</plain>
+            <plain>Р‘РѕРі РіРѕС‚РѕРІС‹С… Р»РёС€СЊ РІРѕР·СЊРјРµС‚,</plain>
         </string>
         <string>
-            <plain>Скоро, скоро Он придет.</plain>
+            <plain>РЎРєРѕСЂРѕ, СЃРєРѕСЂРѕ РћРЅ РїСЂРёРґРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Моя невеста, ты так устала.</plain>
+            <plain>РњРѕСЏ РЅРµРІРµСЃС‚Р°, С‚С‹ С‚Р°Рє СѓСЃС‚Р°Р»Р°.</plain>
         </string>
         <string>
-            <plain>Страдать так мало тебе осталось.</plain>
+            <plain>РЎС‚СЂР°РґР°С‚СЊ С‚Р°Рє РјР°Р»Рѕ С‚РµР±Рµ РѕСЃС‚Р°Р»РѕСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Ты потрудись здесь еще немного.</plain>
+            <plain>РўС‹ РїРѕС‚СЂСѓРґРёСЃСЊ Р·РґРµСЃСЊ РµС‰Рµ РЅРµРјРЅРѕРіРѕ.</plain>
         </string>
         <string>
-            <plain>Там, в небесах, ты отдохнешь!</plain>
+            <plain>РўР°Рј, РІ РЅРµР±РµСЃР°С…, С‚С‹ РѕС‚РґРѕС…РЅРµС€СЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Скоро будет избавленье.</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґРµС‚ РёР·Р±Р°РІР»РµРЅСЊРµ.</plain>
         </string>
         <string>
-            <plain>Только в Боге утешенье!</plain>
+            <plain>РўРѕР»СЊРєРѕ РІ Р‘РѕРіРµ СѓС‚РµС€РµРЅСЊРµ!</plain>
         </string>
         <string>
-            <plain>О невеста, не страшись.</plain>
+            <plain>Рћ РЅРµРІРµСЃС‚Р°, РЅРµ СЃС‚СЂР°С€РёСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Твердо истины держись.</plain>
+            <plain>РўРІРµСЂРґРѕ РёСЃС‚РёРЅС‹ РґРµСЂР¶РёСЃСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я ведь знаю, ты устала,</plain>
+            <plain>РЇ РІРµРґСЊ Р·РЅР°СЋ, С‚С‹ СѓСЃС‚Р°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Ты так много пострадала.</plain>
+            <plain>РўС‹ С‚Р°Рє РјРЅРѕРіРѕ РїРѕСЃС‚СЂР°РґР°Р»Р°.</plain>
         </string>
         <string>
-            <plain>Скоро будет кончен путь,</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґРµС‚ РєРѕРЅС‡РµРЅ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Скоро сможешь отдохнуть.</plain>
+            <plain>РЎРєРѕСЂРѕ СЃРјРѕР¶РµС€СЊ РѕС‚РґРѕС…РЅСѓС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Только в небе будет радость.</plain>
+            <plain>РўРѕР»СЊРєРѕ РІ РЅРµР±Рµ Р±СѓРґРµС‚ СЂР°РґРѕСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Вкусишь там покоя сладость.</plain>
+            <plain>Р’РєСѓСЃРёС€СЊ С‚Р°Рј РїРѕРєРѕСЏ СЃР»Р°РґРѕСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>О невеста, ободрись!</plain>
+            <plain>Рћ РЅРµРІРµСЃС‚Р°, РѕР±РѕРґСЂРёСЃСЊ!</plain>
         </string>
         <string>
-            <plain>Встань, для Бога потрудись!</plain>
+            <plain>Р’СЃС‚Р°РЅСЊ, РґР»СЏ Р‘РѕРіР° РїРѕС‚СЂСѓРґРёСЃСЊ!</plain>
         </string>
     </verse>
 </psalm>

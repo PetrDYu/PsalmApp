@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2315" name="С берегов далеких стран" canon="false" text="" textRus="" music="">
+<psalm number="2315" name="РЎ Р±РµСЂРµРіРѕРІ РґР°Р»РµРєРёС… СЃС‚СЂР°РЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С берегов далеких стран</plain>
+            <plain>РЎ Р±РµСЂРµРіРѕРІ РґР°Р»РµРєРёС… СЃС‚СЂР°РЅ</plain>
         </string>
         <string>
-            <plain>Раздается зов всем нам:</plain>
+            <plain>Р Р°Р·РґР°РµС‚СЃСЏ Р·РѕРІ РІСЃРµРј РЅР°Рј:</plain>
         </string>
         <string>
-            <plain>"О, придите научить</plain>
+            <plain>"Рћ, РїСЂРёРґРёС‚Рµ РЅР°СѓС‡РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Богу в истине служить".</plain>
+            <plain>Р‘РѕРіСѓ РІ РёСЃС‚РёРЅРµ СЃР»СѓР¶РёС‚СЊ".</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О друзья, пойдем скорей</plain>
+            <plain>Рћ РґСЂСѓР·СЊСЏ, РїРѕР№РґРµРј СЃРєРѕСЂРµР№</plain>
         </string>
         <string>
-            <plain>К людям темным в край иной</plain>
+            <plain>Рљ Р»СЋРґСЏРј С‚РµРјРЅС‹Рј РІ РєСЂР°Р№ РёРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Возвестить им путь спасенья!</plain>
+            <plain>Р’РѕР·РІРµСЃС‚РёС‚СЊ РёРј РїСѓС‚СЊ СЃРїР°СЃРµРЅСЊСЏ!</plain>
         </string>
         <string>
-            <plain>О, прощай, мой дом родной!</plain>
+            <plain>Рћ, РїСЂРѕС‰Р°Р№, РјРѕР№ РґРѕРј СЂРѕРґРЅРѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>"Бог живой неведом нам,</plain>
+            <plain>"Р‘РѕРі Р¶РёРІРѕР№ РЅРµРІРµРґРѕРј РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Служим мы земным богам.</plain>
+            <plain>РЎР»СѓР¶РёРј РјС‹ Р·РµРјРЅС‹Рј Р±РѕРіР°Рј.</plain>
         </string>
         <string>
-            <plain>О, придите свет пролить</plain>
+            <plain>Рћ, РїСЂРёРґРёС‚Рµ СЃРІРµС‚ РїСЂРѕР»РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И от тьмы освободить".</plain>
+            <plain>Р РѕС‚ С‚СЊРјС‹ РѕСЃРІРѕР±РѕРґРёС‚СЊ".</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Слушай, друг! Вот призыв тот</plain>
+            <plain>РЎР»СѓС€Р°Р№, РґСЂСѓРі! Р’РѕС‚ РїСЂРёР·С‹РІ С‚РѕС‚</plain>
         </string>
         <string>
-            <plain>О спасеньи вопиет.</plain>
+            <plain>Рћ СЃРїР°СЃРµРЅСЊРё РІРѕРїРёРµС‚.</plain>
         </string>
         <string>
-            <plain>Ты и силен и здоров,</plain>
+            <plain>РўС‹ Рё СЃРёР»РµРЅ Рё Р·РґРѕСЂРѕРІ,</plain>
         </string>
         <string>
-            <plain>Так откликнись же на зов.</plain>
+            <plain>РўР°Рє РѕС‚РєР»РёРєРЅРёСЃСЊ Р¶Рµ РЅР° Р·РѕРІ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Поспешите же, друзья,</plain>
+            <plain>РџРѕСЃРїРµС€РёС‚Рµ Р¶Рµ, РґСЂСѓР·СЊСЏ,</plain>
         </string>
         <string>
-            <plain>И отправьтесь за моря</plain>
+            <plain>Р РѕС‚РїСЂР°РІСЊС‚РµСЃСЊ Р·Р° РјРѕСЂСЏ</plain>
         </string>
         <string>
-            <plain>Им открыть любовь Отца,</plain>
+            <plain>РРј РѕС‚РєСЂС‹С‚СЊ Р»СЋР±РѕРІСЊ РћС‚С†Р°,</plain>
         </string>
         <string>
-            <plain>Вседержителя Творца.</plain>
+            <plain>Р’СЃРµРґРµСЂР¶РёС‚РµР»СЏ РўРІРѕСЂС†Р°.</plain>
         </string>
     </verse>
 </psalm>

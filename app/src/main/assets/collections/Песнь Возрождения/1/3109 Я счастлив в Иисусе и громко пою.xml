@@ -1,74 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3109" name="Я счастлив в Иисусе и громко пою" canon="false" text="" textRus="" music="">
+<psalm number="3109" name="РЇ СЃС‡Р°СЃС‚Р»РёРІ РІ РРёСЃСѓСЃРµ Рё РіСЂРѕРјРєРѕ РїРѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я счастлив в Иисусе и громко пою,</plain>
+            <plain>РЇ СЃС‡Р°СЃС‚Р»РёРІ РІ РРёСЃСѓСЃРµ Рё РіСЂРѕРјРєРѕ РїРѕСЋ,</plain>
         </string>
         <string>
-            <plain>что ныне спасенье нашел!</plain>
+            <plain>С‡С‚Рѕ РЅС‹РЅРµ СЃРїР°СЃРµРЅСЊРµ РЅР°С€РµР»!</plain>
         </string>
         <string>
-            <plain>Томил я в грехах прежде душу свою</plain>
+            <plain>РўРѕРјРёР» СЏ РІ РіСЂРµС…Р°С… РїСЂРµР¶РґРµ РґСѓС€Сѓ СЃРІРѕСЋ</plain>
         </string>
         <string>
-            <plain>- в Христе избавленье обрел.</plain>
+            <plain>- РІ РҐСЂРёСЃС‚Рµ РёР·Р±Р°РІР»РµРЅСЊРµ РѕР±СЂРµР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пою: Он меня оправдал,</plain>
+            <plain>РџРѕСЋ: РћРЅ РјРµРЅСЏ РѕРїСЂР°РІРґР°Р»,</plain>
         </string>
         <string>
-            <plain>Он новое сердце мне дал.</plain>
+            <plain>РћРЅ РЅРѕРІРѕРµ СЃРµСЂРґС†Рµ РјРЅРµ РґР°Р».</plain>
         </string>
         <string>
-            <plain>Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Как чудно: Его я дитя,</plain>
+            <plain>РљР°Рє С‡СѓРґРЅРѕ: Р•РіРѕ СЏ РґРёС‚СЏ,</plain>
         </string>
         <string>
-            <plain>и громко Его славлю я!</plain>
+            <plain>Рё РіСЂРѕРјРєРѕ Р•РіРѕ СЃР»Р°РІР»СЋ СЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Рожденный от Духа и кровью омыт,</plain>
+            <plain>Р РѕР¶РґРµРЅРЅС‹Р№ РѕС‚ Р”СѓС…Р° Рё РєСЂРѕРІСЊСЋ РѕРјС‹С‚,</plain>
         </string>
         <string>
-            <plain>я в Нем освященье обрел;</plain>
+            <plain>СЏ РІ РќРµРј РѕСЃРІСЏС‰РµРЅСЊРµ РѕР±СЂРµР»;</plain>
         </string>
         <string>
-            <plain>мой путь ныне славой Господней покрыт</plain>
+            <plain>РјРѕР№ РїСѓС‚СЊ РЅС‹РЅРµ СЃР»Р°РІРѕР№ Р“РѕСЃРїРѕРґРЅРµР№ РїРѕРєСЂС‹С‚</plain>
         </string>
         <string>
-            <plain>- с тех пор, как Он в сердце вошел.</plain>
+            <plain>- СЃ С‚РµС… РїРѕСЂ, РєР°Рє РћРЅ РІ СЃРµСЂРґС†Рµ РІРѕС€РµР».</plain>
         </string>
         <string>
-            <plain>З Когда искушает меня сатана,</plain>
+            <plain>Р— РљРѕРіРґР° РёСЃРєСѓС€Р°РµС‚ РјРµРЅСЏ СЃР°С‚Р°РЅР°,</plain>
         </string>
         <string>
-            <plain>и в битве с Ним я изнурен, я знаю:</plain>
+            <plain>Рё РІ Р±РёС‚РІРµ СЃ РќРёРј СЏ РёР·РЅСѓСЂРµРЅ, СЏ Р·РЅР°СЋ:</plain>
         </string>
         <string>
-            <plain>Спаситель мой верен всегда,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№ РІРµСЂРµРЅ РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>даст новую силу мне Он.</plain>
+            <plain>РґР°СЃС‚ РЅРѕРІСѓСЋ СЃРёР»Сѓ РјРЅРµ РћРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я странствую дальше к небесной стране</plain>
+            <plain>РЇ СЃС‚СЂР°РЅСЃС‚РІСѓСЋ РґР°Р»СЊС€Рµ Рє РЅРµР±РµСЃРЅРѕР№ СЃС‚СЂР°РЅРµ</plain>
         </string>
         <string>
-            <plain>чрез радости горе, нужду;</plain>
+            <plain>С‡СЂРµР· СЂР°РґРѕСЃС‚Рё РіРѕСЂРµ, РЅСѓР¶РґСѓ;</plain>
         </string>
         <string>
-            <plain>всегда уповая, живу я в Христе</plain>
+            <plain>РІСЃРµРіРґР° СѓРїРѕРІР°СЏ, Р¶РёРІСѓ СЏ РІ РҐСЂРёСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>и славу Ему приношу.</plain>
+            <plain>Рё СЃР»Р°РІСѓ Р•РјСѓ РїСЂРёРЅРѕС€Сѓ.</plain>
         </string>
     </verse>
 </psalm>

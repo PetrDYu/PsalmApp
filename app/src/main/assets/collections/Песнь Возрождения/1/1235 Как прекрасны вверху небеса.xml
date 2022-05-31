@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1235" name="Как прекрасны вверху небеса" canon="false" text="" textRus="" music="">
+<psalm number="1235" name="РљР°Рє РїСЂРµРєСЂР°СЃРЅС‹ РІРІРµСЂС…Сѓ РЅРµР±РµСЃР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как прекрасны вверху небеса.</plain>
+            <plain>РљР°Рє РїСЂРµРєСЂР°СЃРЅС‹ РІРІРµСЂС…Сѓ РЅРµР±РµСЃР°.</plain>
         </string>
         <string>
-            <plain>Среди звезд ходит плавно луна,</plain>
+            <plain>РЎСЂРµРґРё Р·РІРµР·Рґ С…РѕРґРёС‚ РїР»Р°РІРЅРѕ Р»СѓРЅР°,</plain>
         </string>
         <string>
-            <plain>И всегда мои смотрят глаза</plain>
+            <plain>Р РІСЃРµРіРґР° РјРѕРё СЃРјРѕС‚СЂСЏС‚ РіР»Р°Р·Р°</plain>
         </string>
         <string>
-            <plain>Лишь туда, лишь туда, лишь туда.</plain>
+            <plain>Р›РёС€СЊ С‚СѓРґР°, Р»РёС€СЊ С‚СѓРґР°, Р»РёС€СЊ С‚СѓРґР°.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Вижу неба красивый наряд,</plain>
+            <plain>Р’РёР¶Сѓ РЅРµР±Р° РєСЂР°СЃРёРІС‹Р№ РЅР°СЂСЏРґ,</plain>
         </string>
         <string>
-            <plain>Почему "нет Творца" говорят.</plain>
+            <plain>РџРѕС‡РµРјСѓ "РЅРµС‚ РўРІРѕСЂС†Р°" РіРѕРІРѕСЂСЏС‚.</plain>
         </string>
         <string>
-            <plain>И умом я понять не могу:</plain>
+            <plain>Р СѓРјРѕРј СЏ РїРѕРЅСЏС‚СЊ РЅРµ РјРѕРіСѓ:</plain>
         </string>
         <string>
-            <plain>Почему, почему, почему?</plain>
+            <plain>РџРѕС‡РµРјСѓ, РїРѕС‡РµРјСѓ, РїРѕС‡РµРјСѓ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Все сияет в своей красоте,</plain>
+            <plain>Р’СЃРµ СЃРёСЏРµС‚ РІ СЃРІРѕРµР№ РєСЂР°СЃРѕС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Небо мне говорит о Творце.</plain>
+            <plain>РќРµР±Рѕ РјРЅРµ РіРѕРІРѕСЂРёС‚ Рѕ РўРІРѕСЂС†Рµ.</plain>
         </string>
         <string>
-            <plain>И поет эту песня Земля:</plain>
+            <plain>Р РїРѕРµС‚ СЌС‚Сѓ РїРµСЃРЅСЏ Р—РµРјР»СЏ:</plain>
         </string>
         <string>
-            <plain>Для тебя, для тебя, для тебя.</plain>
+            <plain>Р”Р»СЏ С‚РµР±СЏ, РґР»СЏ С‚РµР±СЏ, РґР»СЏ С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Буду петь я о том, что спасен.</plain>
+            <plain>Р‘СѓРґСѓ РїРµС‚СЊ СЏ Рѕ С‚РѕРј, С‡С‚Рѕ СЃРїР°СЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Что жить буду с Иисусом Христом.</plain>
+            <plain>Р§С‚Рѕ Р¶РёС‚СЊ Р±СѓРґСѓ СЃ РРёСЃСѓСЃРѕРј РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
         <string>
-            <plain>У Него Кровь стекала с чела</plain>
+            <plain>РЈ РќРµРіРѕ РљСЂРѕРІСЊ СЃС‚РµРєР°Р»Р° СЃ С‡РµР»Р°</plain>
         </string>
         <string>
-            <plain>За меня, за меня, за меня.</plain>
+            <plain>Р—Р° РјРµРЅСЏ, Р·Р° РјРµРЅСЏ, Р·Р° РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Свой восторг я хочу передать,</plain>
+            <plain>РЎРІРѕР№ РІРѕСЃС‚РѕСЂРі СЏ С…РѕС‡Сѓ РїРµСЂРµРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Иисусу Христу рассказать,</plain>
+            <plain>РРёСЃСѓСЃСѓ РҐСЂРёСЃС‚Сѓ СЂР°СЃСЃРєР°Р·Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Но слов лучших найти не могу,</plain>
+            <plain>РќРѕ СЃР»РѕРІ Р»СѓС‡С€РёС… РЅР°Р№С‚Рё РЅРµ РјРѕРіСѓ,</plain>
         </string>
         <string>
-            <plain>Как Иисуса всем сердцем люблю.</plain>
+            <plain>РљР°Рє РРёСЃСѓСЃР° РІСЃРµРј СЃРµСЂРґС†РµРј Р»СЋР±Р»СЋ.</plain>
         </string>
     </verse>
 </psalm>

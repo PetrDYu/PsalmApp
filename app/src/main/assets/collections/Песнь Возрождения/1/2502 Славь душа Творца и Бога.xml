@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2502" name="Славь душа Творца и Бога" canon="false" text="" textRus="" music="">
+<psalm number="2502" name="РЎР»Р°РІСЊ РґСѓС€Р° РўРІРѕСЂС†Р° Рё Р‘РѕРіР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Славь, душа, Творца и Бога!</plain>
+            <plain>РЎР»Р°РІСЊ, РґСѓС€Р°, РўРІРѕСЂС†Р° Рё Р‘РѕРіР°!</plain>
         </string>
         <string>
-            <plain>Он нас любит без конца.</plain>
+            <plain>РћРЅ РЅР°СЃ Р»СЋР±РёС‚ Р±РµР· РєРѕРЅС†Р°.</plain>
         </string>
         <string>
-            <plain>Он открыл Свои чертоги,</plain>
+            <plain>РћРЅ РѕС‚РєСЂС‹Р» РЎРІРѕРё С‡РµСЂС‚РѕРіРё,</plain>
         </string>
         <string>
-            <plain>Он послал Свой мир в сердца.</plain>
+            <plain>РћРЅ РїРѕСЃР»Р°Р» РЎРІРѕР№ РјРёСЂ РІ СЃРµСЂРґС†Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Славь премудрого Творца.</plain>
+            <plain>РЎР»Р°РІСЊ РїСЂРµРјСѓРґСЂРѕРіРѕ РўРІРѕСЂС†Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Славь за все благодеянья,</plain>
+            <plain>РЎР»Р°РІСЊ Р·Р° РІСЃРµ Р±Р»Р°РіРѕРґРµСЏРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>что в нужде являл отцам,</plain>
+            <plain>С‡С‚Рѕ РІ РЅСѓР¶РґРµ СЏРІР»СЏР» РѕС‚С†Р°Рј,</plain>
         </string>
         <string>
-            <plain>Избавлял их от страданья,</plain>
+            <plain>РР·Р±Р°РІР»СЏР» РёС… РѕС‚ СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>воздавал не по делам!</plain>
+            <plain>РІРѕР·РґР°РІР°Р» РЅРµ РїРѕ РґРµР»Р°Рј!</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Дивен Бог теперь и к нам.</plain>
+            <plain>Р”РёРІРµРЅ Р‘РѕРі С‚РµРїРµСЂСЊ Рё Рє РЅР°Рј.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Как отец детей жалеет,</plain>
+            <plain>РљР°Рє РѕС‚РµС† РґРµС‚РµР№ Р¶Р°Р»РµРµС‚,</plain>
         </string>
         <string>
-            <plain>принимать всегда готов.</plain>
+            <plain>РїСЂРёРЅРёРјР°С‚СЊ РІСЃРµРіРґР° РіРѕС‚РѕРІ.</plain>
         </string>
         <string>
-            <plain>Водит милостью Своею,</plain>
+            <plain>Р’РѕРґРёС‚ РјРёР»РѕСЃС‚СЊСЋ РЎРІРѕРµСЋ,</plain>
         </string>
         <string>
-            <plain>охраняет от врагов.</plain>
+            <plain>РѕС…СЂР°РЅСЏРµС‚ РѕС‚ РІСЂР°РіРѕРІ.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Славь Творца вовек веков!</plain>
+            <plain>РЎР»Р°РІСЊ РўРІРѕСЂС†Р° РІРѕРІРµРє РІРµРєРѕРІ!</plain>
         </string>
     </chorus>
 </psalm>

@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="454" name="Христос Ты в Кане Галилейской" canon="false" text="" textRus="" music="">
+<psalm number="454" name="РҐСЂРёСЃС‚РѕСЃ РўС‹ РІ РљР°РЅРµ Р“Р°Р»РёР»РµР№СЃРєРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Христос! Ты в Кане Галилейской</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ! РўС‹ РІ РљР°РЅРµ Р“Р°Р»РёР»РµР№СЃРєРѕР№</plain>
         </string>
         <string>
-            <plain>На брачный праздник приходил,</plain>
+            <plain>РќР° Р±СЂР°С‡РЅС‹Р№ РїСЂР°Р·РґРЅРёРє РїСЂРёС…РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>И в первый раз средь тьмы житейской</plain>
+            <plain>Р РІ РїРµСЂРІС‹Р№ СЂР°Р· СЃСЂРµРґСЊ С‚СЊРјС‹ Р¶РёС‚РµР№СЃРєРѕР№</plain>
         </string>
         <string>
-            <plain>Ты славу там свою явил.</plain>
+            <plain>РўС‹ СЃР»Р°РІСѓ С‚Р°Рј СЃРІРѕСЋ СЏРІРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, Господи! Ты к нам приди</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґРё! РўС‹ Рє РЅР°Рј РїСЂРёРґРё</plain>
         </string>
         <string>
-            <plain>И славу Свою яви.</plain>
+            <plain>Р СЃР»Р°РІСѓ РЎРІРѕСЋ СЏРІРё.</plain>
         </string>
         <string>
-            <plain>О Господи! Ты к нам приди</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґРё! РўС‹ Рє РЅР°Рј РїСЂРёРґРё</plain>
         </string>
         <string>
-            <plain>И нас благослови!</plain>
+            <plain>Р РЅР°СЃ Р±Р»Р°РіРѕСЃР»РѕРІРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Приди и к нам, как гость чудесный,</plain>
+            <plain>РџСЂРёРґРё Рё Рє РЅР°Рј, РєР°Рє РіРѕСЃС‚СЊ С‡СѓРґРµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>И радость всех благослови,</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊ РІСЃРµС… Р±Р»Р°РіРѕСЃР»РѕРІРё,</plain>
         </string>
         <string>
-            <plain>И укрепи Ты связью тесной</plain>
+            <plain>Р СѓРєСЂРµРїРё РўС‹ СЃРІСЏР·СЊСЋ С‚РµСЃРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Союз по вере и любви.</plain>
+            <plain>РЎРѕСЋР· РїРѕ РІРµСЂРµ Рё Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты радость брака освящаешь,</plain>
+            <plain>РўС‹ СЂР°РґРѕСЃС‚СЊ Р±СЂР°РєР° РѕСЃРІСЏС‰Р°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Ты в Церкви вечной как Жених</plain>
+            <plain>РўС‹ РІ Р¦РµСЂРєРІРё РІРµС‡РЅРѕР№ РєР°Рє Р–РµРЅРёС…</plain>
         </string>
         <string>
-            <plain>На брачном пире восседаешь</plain>
+            <plain>РќР° Р±СЂР°С‡РЅРѕРј РїРёСЂРµ РІРѕСЃСЃРµРґР°РµС€СЊ</plain>
         </string>
         <string>
-            <plain>Среди искупленных Своих.</plain>
+            <plain>РЎСЂРµРґРё РёСЃРєСѓРїР»РµРЅРЅС‹С… РЎРІРѕРёС….</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты всех зовешь на праздник славы,</plain>
+            <plain>РўС‹ РІСЃРµС… Р·РѕРІРµС€СЊ РЅР° РїСЂР°Р·РґРЅРёРє СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>И дай, чтоб новая чета,</plain>
+            <plain>Р РґР°Р№, С‡С‚РѕР± РЅРѕРІР°СЏ С‡РµС‚Р°,</plain>
         </string>
         <string>
-            <plain>Храня всегда Твои уставы,</plain>
+            <plain>РҐСЂР°РЅСЏ РІСЃРµРіРґР° РўРІРѕРё СѓСЃС‚Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Могла войти на брак Христа.</plain>
+            <plain>РњРѕРіР»Р° РІРѕР№С‚Рё РЅР° Р±СЂР°Рє РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Христос! Где в мире этом радость</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ! Р“РґРµ РІ РјРёСЂРµ СЌС‚РѕРј СЂР°РґРѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>Без света Твоего лица?</plain>
+            <plain>Р‘РµР· СЃРІРµС‚Р° РўРІРѕРµРіРѕ Р»РёС†Р°?</plain>
         </string>
         <string>
-            <plain>Где жизни истинная сладость,</plain>
+            <plain>Р“РґРµ Р¶РёР·РЅРё РёСЃС‚РёРЅРЅР°СЏ СЃР»Р°РґРѕСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Где счастье в мире без Творца?</plain>
+            <plain>Р“РґРµ СЃС‡Р°СЃС‚СЊРµ РІ РјРёСЂРµ Р±РµР· РўРІРѕСЂС†Р°?</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Нигде! Для жизни этой силы</plain>
+            <plain>РќРёРіРґРµ! Р”Р»СЏ Р¶РёР·РЅРё СЌС‚РѕР№ СЃРёР»С‹</plain>
         </string>
         <string>
-            <plain>Лишь у Тебя, Господь Иисус!</plain>
+            <plain>Р›РёС€СЊ Сѓ РўРµР±СЏ, Р“РѕСЃРїРѕРґСЊ РРёСЃСѓСЃ!</plain>
         </string>
         <string>
-            <plain>Облагодатствуй до могилы</plain>
+            <plain>РћР±Р»Р°РіРѕРґР°С‚СЃС‚РІСѓР№ РґРѕ РјРѕРіРёР»С‹</plain>
         </string>
         <string>
-            <plain>Тобой свершаемый союз.</plain>
+            <plain>РўРѕР±РѕР№ СЃРІРµСЂС€Р°РµРјС‹Р№ СЃРѕСЋР·.</plain>
         </string>
     </verse>
 </psalm>

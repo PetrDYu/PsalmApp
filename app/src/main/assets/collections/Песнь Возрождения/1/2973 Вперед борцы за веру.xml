@@ -1,104 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2973" name="Вперед борцы за веру" canon="false" text="" textRus="" music="">
+<psalm number="2973" name="Р’РїРµСЂРµРґ Р±РѕСЂС†С‹ Р·Р° РІРµСЂСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вперед, борцы за веру,</plain>
+            <plain>Р’РїРµСЂРµРґ, Р±РѕСЂС†С‹ Р·Р° РІРµСЂСѓ,</plain>
         </string>
         <string>
-            <plain>преследуйте врага,</plain>
+            <plain>РїСЂРµСЃР»РµРґСѓР№С‚Рµ РІСЂР°РіР°,</plain>
         </string>
         <string>
-            <plain>чтоб одержать победу</plain>
+            <plain>С‡С‚РѕР± РѕРґРµСЂР¶Р°С‚СЊ РїРѕР±РµРґСѓ</plain>
         </string>
         <string>
-            <plain>с Иисусом навсегда!</plain>
+            <plain>СЃ РРёСЃСѓСЃРѕРј РЅР°РІСЃРµРіРґР°!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вперед! Вперед! Вперед!</plain>
+            <plain>Р’РїРµСЂРµРґ! Р’РїРµСЂРµРґ! Р’РїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Господь зовет:</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>Вперед! Вперед! Вперед!</plain>
+            <plain>Р’РїРµСЂРµРґ! Р’РїРµСЂРµРґ! Р’РїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Вперед! Вперед! Вперед!</plain>
+            <plain>Р’РїРµСЂРµРґ! Р’РїРµСЂРµРґ! Р’РїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Он правильно ведет.</plain>
+            <plain>РћРЅ РїСЂР°РІРёР»СЊРЅРѕ РІРµРґРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вперед! Пусть даже слабость</plain>
+            <plain>Р’РїРµСЂРµРґ! РџСѓСЃС‚СЊ РґР°Р¶Рµ СЃР»Р°Р±РѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>не устрашит тебя,</plain>
+            <plain>РЅРµ СѓСЃС‚СЂР°С€РёС‚ С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>иди чрез тьму ночную</plain>
+            <plain>РёРґРё С‡СЂРµР· С‚СЊРјСѓ РЅРѕС‡РЅСѓСЋ</plain>
         </string>
         <string>
-            <plain>ты по следам Христа!</plain>
+            <plain>С‚С‹ РїРѕ СЃР»РµРґР°Рј РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вперед! Хоть волны Грозно</plain>
+            <plain>Р’РїРµСЂРµРґ! РҐРѕС‚СЊ РІРѕР»РЅС‹ Р“СЂРѕР·РЅРѕ</plain>
         </string>
         <string>
-            <plain>встают перед тобой,</plain>
+            <plain>РІСЃС‚Р°СЋС‚ РїРµСЂРµРґ С‚РѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>корабль твой уцелеет:</plain>
+            <plain>РєРѕСЂР°Р±Р»СЊ С‚РІРѕР№ СѓС†РµР»РµРµС‚:</plain>
         </string>
         <string>
-            <plain>Господь всегда с тобой.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РІСЃРµРіРґР° СЃ С‚РѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Вперед! Пусть вражьи стрелы</plain>
+            <plain>Р’РїРµСЂРµРґ! РџСѓСЃС‚СЊ РІСЂР°Р¶СЊРё СЃС‚СЂРµР»С‹</plain>
         </string>
         <string>
-            <plain>летят вокруг тебя,</plain>
+            <plain>Р»РµС‚СЏС‚ РІРѕРєСЂСѓРі С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>ты будешь невредимым,</plain>
+            <plain>С‚С‹ Р±СѓРґРµС€СЊ РЅРµРІСЂРµРґРёРјС‹Рј,</plain>
         </string>
         <string>
-            <plain>ведь ты в руках Христа.</plain>
+            <plain>РІРµРґСЊ С‚С‹ РІ СЂСѓРєР°С… РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Вперед! Брось все сомненья,</plain>
+            <plain>Р’РїРµСЂРµРґ! Р‘СЂРѕСЃСЊ РІСЃРµ СЃРѕРјРЅРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>на Бога уповай,</plain>
+            <plain>РЅР° Р‘РѕРіР° СѓРїРѕРІР°Р№,</plain>
         </string>
         <string>
-            <plain>на чувства не надейся,</plain>
+            <plain>РЅР° С‡СѓРІСЃС‚РІР° РЅРµ РЅР°РґРµР№СЃСЏ,</plain>
         </string>
         <string>
-            <plain>а Слову доверяй.</plain>
+            <plain>Р° РЎР»РѕРІСѓ РґРѕРІРµСЂСЏР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Вперед к небесной цели!</plain>
+            <plain>Р’РїРµСЂРµРґ Рє РЅРµР±РµСЃРЅРѕР№ С†РµР»Рё!</plain>
         </string>
         <string>
-            <plain>Забудь, что позади</plain>
+            <plain>Р—Р°Р±СѓРґСЊ, С‡С‚Рѕ РїРѕР·Р°РґРё</plain>
         </string>
         <string>
-            <plain>и одержи победу:</plain>
+            <plain>Рё РѕРґРµСЂР¶Рё РїРѕР±РµРґСѓ:</plain>
         </string>
         <string>
-            <plain>венец ждет впереди.</plain>
+            <plain>РІРµРЅРµС† Р¶РґРµС‚ РІРїРµСЂРµРґРё.</plain>
         </string>
     </verse>
 </psalm>

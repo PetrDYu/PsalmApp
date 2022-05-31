@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2977" name="В небесах в святых просторах" canon="false" text="" textRus="" music="">
+<psalm number="2977" name="Р’ РЅРµР±РµСЃР°С… РІ СЃРІСЏС‚С‹С… РїСЂРѕСЃС‚РѕСЂР°С…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В небесах, в святых просторах</plain>
+            <plain>Р’ РЅРµР±РµСЃР°С…, РІ СЃРІСЏС‚С‹С… РїСЂРѕСЃС‚РѕСЂР°С…</plain>
         </string>
         <string>
-            <plain>хоры ангелов поют;</plain>
+            <plain>С…РѕСЂС‹ Р°РЅРіРµР»РѕРІ РїРѕСЋС‚;</plain>
         </string>
         <string>
-            <plain>песни их так благозвучны</plain>
+            <plain>РїРµСЃРЅРё РёС… С‚Р°Рє Р±Р»Р°РіРѕР·РІСѓС‡РЅС‹</plain>
         </string>
         <string>
-            <plain>- эхо их мы слышим тут.</plain>
+            <plain>- СЌС…Рѕ РёС… РјС‹ СЃР»С‹С€РёРј С‚СѓС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Песни сладостные льются</plain>
+            <plain>РџРµСЃРЅРё СЃР»Р°РґРѕСЃС‚РЅС‹Рµ Р»СЊСЋС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>громко с ангельских высот.</plain>
+            <plain>РіСЂРѕРјРєРѕ СЃ Р°РЅРіРµР»СЊСЃРєРёС… РІС‹СЃРѕС‚.</plain>
         </string>
         <string>
-            <plain>Принесем хвалу Иисусу</plain>
+            <plain>РџСЂРёРЅРµСЃРµРј С…РІР°Р»Сѓ РРёСЃСѓСЃСѓ</plain>
         </string>
         <string>
-            <plain>- так желает наш Господь;</plain>
+            <plain>- С‚Р°Рє Р¶РµР»Р°РµС‚ РЅР°С€ Р“РѕСЃРїРѕРґСЊ;</plain>
         </string>
         <string>
-            <plain>Он избрал нас - Свой народ!</plain>
+            <plain>РћРЅ РёР·Р±СЂР°Р» РЅР°СЃ - РЎРІРѕР№ РЅР°СЂРѕРґ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как ликуют наши души,</plain>
+            <plain>РљР°Рє Р»РёРєСѓСЋС‚ РЅР°С€Рё РґСѓС€Рё,</plain>
         </string>
         <string>
-            <plain>как любовь влечет туда,</plain>
+            <plain>РєР°Рє Р»СЋР±РѕРІСЊ РІР»РµС‡РµС‚ С‚СѓРґР°,</plain>
         </string>
         <string>
-            <plain>где мы встретим всех спасенных,</plain>
+            <plain>РіРґРµ РјС‹ РІСЃС‚СЂРµС‚РёРј РІСЃРµС… СЃРїР°СЃРµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>там на небе у Христа!</plain>
+            <plain>С‚Р°Рј РЅР° РЅРµР±Рµ Сѓ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>«Свят Господь!» - они взывают,</plain>
+            <plain>В«РЎРІСЏС‚ Р“РѕСЃРїРѕРґСЊ!В» - РѕРЅРё РІР·С‹РІР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>громко их хвала звучит;</plain>
+            <plain>РіСЂРѕРјРєРѕ РёС… С…РІР°Р»Р° Р·РІСѓС‡РёС‚;</plain>
         </string>
         <string>
-            <plain>отражаясь от престола,</plain>
+            <plain>РѕС‚СЂР°Р¶Р°СЏСЃСЊ РѕС‚ РїСЂРµСЃС‚РѕР»Р°,</plain>
         </string>
         <string>
-            <plain>отзвук эха к нам летит.</plain>
+            <plain>РѕС‚Р·РІСѓРє СЌС…Р° Рє РЅР°Рј Р»РµС‚РёС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Смысл небесных песнопений</plain>
+            <plain>РЎРјС‹СЃР» РЅРµР±РµСЃРЅС‹С… РїРµСЃРЅРѕРїРµРЅРёР№</plain>
         </string>
         <string>
-            <plain>мы все глубже познаем,</plain>
+            <plain>РјС‹ РІСЃРµ РіР»СѓР±Р¶Рµ РїРѕР·РЅР°РµРј,</plain>
         </string>
         <string>
-            <plain>со спасенными мы вместе</plain>
+            <plain>СЃРѕ СЃРїР°СЃРµРЅРЅС‹РјРё РјС‹ РІРјРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>песни Господу поем.</plain>
+            <plain>РїРµСЃРЅРё Р“РѕСЃРїРѕРґСѓ РїРѕРµРј.</plain>
         </string>
     </verse>
 </psalm>

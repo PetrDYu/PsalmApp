@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="871" name="В час молитвы в час прощенья" canon="false" text="" textRus="" music="">
+<psalm number="871" name="Р’ С‡Р°СЃ РјРѕР»РёС‚РІС‹ РІ С‡Р°СЃ РїСЂРѕС‰РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В час молитвы, в час прощенья,</plain>
+            <plain>Р’ С‡Р°СЃ РјРѕР»РёС‚РІС‹, РІ С‡Р°СЃ РїСЂРѕС‰РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>В час твоей души больной,</plain>
+            <plain>Р’ С‡Р°СЃ С‚РІРѕРµР№ РґСѓС€Рё Р±РѕР»СЊРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>В час приятный, в час спасенья</plain>
+            <plain>Р’ С‡Р°СЃ РїСЂРёСЏС‚РЅС‹Р№, РІ С‡Р°СЃ СЃРїР°СЃРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Не придешь ли, брат, домой?</plain>
+            <plain>РќРµ РїСЂРёРґРµС€СЊ Р»Рё, Р±СЂР°С‚, РґРѕРјРѕР№?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Почему не теперь?</plain>
+            <plain>РџРѕС‡РµРјСѓ РЅРµ С‚РµРїРµСЂСЊ?</plain>
         </string>
         <string>
-            <plain>Не откроешь сердца дверь?</plain>
+            <plain>РќРµ РѕС‚РєСЂРѕРµС€СЊ СЃРµСЂРґС†Р° РґРІРµСЂСЊ?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Далеко ты заблудился</plain>
+            <plain>Р”Р°Р»РµРєРѕ С‚С‹ Р·Р°Р±Р»СѓРґРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>От Христа в путях земли.</plain>
+            <plain>РћС‚ РҐСЂРёСЃС‚Р° РІ РїСѓС‚СЏС… Р·РµРјР»Рё.</plain>
         </string>
         <string>
-            <plain>За Тебя Он там смирился.</plain>
+            <plain>Р—Р° РўРµР±СЏ РћРЅ С‚Р°Рј СЃРјРёСЂРёР»СЃСЏ.</plain>
         </string>
         <string>
-            <plain>О, приди, мой друг, в мольбе.</plain>
+            <plain>Рћ, РїСЂРёРґРё, РјРѕР№ РґСЂСѓРі, РІ РјРѕР»СЊР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не найдешь ты утешенья</plain>
+            <plain>РќРµ РЅР°Р№РґРµС€СЊ С‚С‹ СѓС‚РµС€РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В грешном мире сем, брат мой,</plain>
+            <plain>Р’ РіСЂРµС€РЅРѕРј РјРёСЂРµ СЃРµРј, Р±СЂР°С‚ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Но в Иисусе в день спасенья</plain>
+            <plain>РќРѕ РІ РРёСЃСѓСЃРµ РІ РґРµРЅСЊ СЃРїР°СЃРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Вечный обретешь покой.</plain>
+            <plain>Р’РµС‡РЅС‹Р№ РѕР±СЂРµС‚РµС€СЊ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Поспеши прийти к Нему ты</plain>
+            <plain>РџРѕСЃРїРµС€Рё РїСЂРёР№С‚Рё Рє РќРµРјСѓ С‚С‹</plain>
         </string>
         <string>
-            <plain>И взыщи прощение.</plain>
+            <plain>Р РІР·С‹С‰Рё РїСЂРѕС‰РµРЅРёРµ.</plain>
         </string>
         <string>
-            <plain>Дай Ему свои обеты</plain>
+            <plain>Р”Р°Р№ Р•РјСѓ СЃРІРѕРё РѕР±РµС‚С‹</plain>
         </string>
         <string>
-            <plain>- Прийми искупление.</plain>
+            <plain>- РџСЂРёР№РјРё РёСЃРєСѓРїР»РµРЅРёРµ.</plain>
         </string>
     </verse>
 </psalm>

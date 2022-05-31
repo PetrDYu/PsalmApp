@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="367" name="Только вера во Христа" canon="false" text="" textRus="" music="">
+<psalm number="367" name="РўРѕР»СЊРєРѕ РІРµСЂР° РІРѕ РҐСЂРёСЃС‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Только вера во Христа,</plain>
+            <plain>РўРѕР»СЊРєРѕ РІРµСЂР° РІРѕ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>В кровь, пролитую с креста,</plain>
+            <plain>Р’ РєСЂРѕРІСЊ, РїСЂРѕР»РёС‚СѓСЋ СЃ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Может грешным душам дать</plain>
+            <plain>РњРѕР¶РµС‚ РіСЂРµС€РЅС‹Рј РґСѓС€Р°Рј РґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Радость, счастье, благодать.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ, СЃС‡Р°СЃС‚СЊРµ, Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты грешил и зло творил –</plain>
+            <plain>РўС‹ РіСЂРµС€РёР» Рё Р·Р»Рѕ С‚РІРѕСЂРёР» вЂ“</plain>
         </string>
         <string>
-            <plain>Смерть навеки заслужил;</plain>
+            <plain>РЎРјРµСЂС‚СЊ РЅР°РІРµРєРё Р·Р°СЃР»СѓР¶РёР»;</plain>
         </string>
         <string>
-            <plain>Но невинный умер Он,</plain>
+            <plain>РќРѕ РЅРµРІРёРЅРЅС‹Р№ СѓРјРµСЂ РћРЅ,</plain>
         </string>
         <string>
-            <plain>И от смерти ты спасен.</plain>
+            <plain>Р РѕС‚ СЃРјРµСЂС‚Рё С‚С‹ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Верь же в мощь Его заслуг,</plain>
+            <plain>Р’РµСЂСЊ Р¶Рµ РІ РјРѕС‰СЊ Р•РіРѕ Р·Р°СЃР»СѓРі,</plain>
         </string>
         <string>
-            <plain>И твоих пороков круг</plain>
+            <plain>Р С‚РІРѕРёС… РїРѕСЂРѕРєРѕРІ РєСЂСѓРі</plain>
         </string>
         <string>
-            <plain>Навсегда Он удалит,</plain>
+            <plain>РќР°РІСЃРµРіРґР° РћРЅ СѓРґР°Р»РёС‚,</plain>
         </string>
         <string>
-            <plain>И ты будешь Им омыт.</plain>
+            <plain>Р С‚С‹ Р±СѓРґРµС€СЊ РРј РѕРјС‹С‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он не требует теперь</plain>
+            <plain>РћРЅ РЅРµ С‚СЂРµР±СѓРµС‚ С‚РµРїРµСЂСЊ</plain>
         </string>
         <string>
-            <plain>Дел твоих, тому поверь.</plain>
+            <plain>Р”РµР» С‚РІРѕРёС…, С‚РѕРјСѓ РїРѕРІРµСЂСЊ.</plain>
         </string>
         <string>
-            <plain>Жизнь приняв, как дар, потом</plain>
+            <plain>Р–РёР·РЅСЊ РїСЂРёРЅСЏРІ, РєР°Рє РґР°СЂ, РїРѕС‚РѕРј</plain>
         </string>
         <string>
-            <plain>Прославляй Его трудом.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏР№ Р•РіРѕ С‚СЂСѓРґРѕРј.</plain>
         </string>
     </verse>
 </psalm>

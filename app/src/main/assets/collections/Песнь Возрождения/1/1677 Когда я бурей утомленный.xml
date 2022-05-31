@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1677" name="Когда я бурей утомленный" canon="false" text="" textRus="" music="">
+<psalm number="1677" name="РљРѕРіРґР° СЏ Р±СѓСЂРµР№ СѓС‚РѕРјР»РµРЅРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Когда я, бурей утомленный.</plain>
+            <plain>РљРѕРіРґР° СЏ, Р±СѓСЂРµР№ СѓС‚РѕРјР»РµРЅРЅС‹Р№.</plain>
         </string>
         <string>
-            <plain>Идти не в состоянии,</plain>
+            <plain>РРґС‚Рё РЅРµ РІ СЃРѕСЃС‚РѕСЏРЅРёРё,</plain>
         </string>
         <string>
-            <plain>Я прихожу к Тебе с мольбою,</plain>
+            <plain>РЇ РїСЂРёС…РѕР¶Сѓ Рє РўРµР±Рµ СЃ РјРѕР»СЊР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Услышь меня, молю - услышь.</plain>
+            <plain>РЈСЃР»С‹С€СЊ РјРµРЅСЏ, РјРѕР»СЋ - СѓСЃР»С‹С€СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты утешаешь вновь меня:</plain>
+            <plain>РўС‹ СѓС‚РµС€Р°РµС€СЊ РІРЅРѕРІСЊ РјРµРЅСЏ:</plain>
         </string>
         <string>
-            <plain>Да, Я люблю, люблю тебя.</plain>
+            <plain>Р”Р°, РЇ Р»СЋР±Р»СЋ, Р»СЋР±Р»СЋ С‚РµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Я возлюбил чрез смерть тебя.</plain>
+            <plain>РЇ РІРѕР·Р»СЋР±РёР» С‡СЂРµР· СЃРјРµСЂС‚СЊ С‚РµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Иди же с верой до конца.</plain>
+            <plain>РРґРё Р¶Рµ СЃ РІРµСЂРѕР№ РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Когда на сердце очень больно</plain>
+            <plain>РљРѕРіРґР° РЅР° СЃРµСЂРґС†Рµ РѕС‡РµРЅСЊ Р±РѕР»СЊРЅРѕ</plain>
         </string>
         <string>
-            <plain>И слезы прячутся в глазах.</plain>
+            <plain>Р СЃР»РµР·С‹ РїСЂСЏС‡СѓС‚СЃСЏ РІ РіР»Р°Р·Р°С….</plain>
         </string>
         <string>
-            <plain>Ты говоришь, любимый голос:</plain>
+            <plain>РўС‹ РіРѕРІРѕСЂРёС€СЊ, Р»СЋР±РёРјС‹Р№ РіРѕР»РѕСЃ:</plain>
         </string>
         <string>
-            <plain>Я - утешитель, Я твой врач.</plain>
+            <plain>РЇ - СѓС‚РµС€РёС‚РµР»СЊ, РЇ С‚РІРѕР№ РІСЂР°С‡.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда друзья не понимают,</plain>
+            <plain>РљРѕРіРґР° РґСЂСѓР·СЊСЏ РЅРµ РїРѕРЅРёРјР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>А только боль мне придают,</plain>
+            <plain>Рђ С‚РѕР»СЊРєРѕ Р±РѕР»СЊ РјРЅРµ РїСЂРёРґР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Тогда я вновь к Тебе взываю,</plain>
+            <plain>РўРѕРіРґР° СЏ РІРЅРѕРІСЊ Рє РўРµР±Рµ РІР·С‹РІР°СЋ,</plain>
         </string>
         <string>
-            <plain>Мой утешитель и мой Друг.</plain>
+            <plain>РњРѕР№ СѓС‚РµС€РёС‚РµР»СЊ Рё РјРѕР№ Р”СЂСѓРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Когда на сердце снова радость</plain>
+            <plain>РљРѕРіРґР° РЅР° СЃРµСЂРґС†Рµ СЃРЅРѕРІР° СЂР°РґРѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>И увядает грусть моя,</plain>
+            <plain>Р СѓРІСЏРґР°РµС‚ РіСЂСѓСЃС‚СЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Тогда душа к Тебе взывает.</plain>
+            <plain>РўРѕРіРґР° РґСѓС€Р° Рє РўРµР±Рµ РІР·С‹РІР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Хвала тебе, мой Бог, хвала.</plain>
+            <plain>РҐРІР°Р»Р° С‚РµР±Рµ, РјРѕР№ Р‘РѕРі, С…РІР°Р»Р°.</plain>
         </string>
     </verse>
 </psalm>

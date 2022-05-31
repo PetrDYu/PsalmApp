@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="762" name="Любовь Господня все зовет" canon="false" text="" textRus="" music="">
+<psalm number="762" name="Р›СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЏ РІСЃРµ Р·РѕРІРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Любовь Господня все зовет,</plain>
+            <plain>Р›СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЏ РІСЃРµ Р·РѕРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Не медли к Христу прийти!</plain>
+            <plain>РќРµ РјРµРґР»Рё Рє РҐСЂРёСЃС‚Сѓ РїСЂРёР№С‚Рё!</plain>
         </string>
         <string>
-            <plain>Спеши скорей, пока Он ждет,</plain>
+            <plain>РЎРїРµС€Рё СЃРєРѕСЂРµР№, РїРѕРєР° РћРЅ Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Себя осчастливишь ты.</plain>
+            <plain>РЎРµР±СЏ РѕСЃС‡Р°СЃС‚Р»РёРІРёС€СЊ С‚С‹.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Зачем же медлишь?</plain>
+            <plain>Р—Р°С‡РµРј Р¶Рµ РјРµРґР»РёС€СЊ?</plain>
         </string>
         <string>
-            <plain>Поспеши!</plain>
+            <plain>РџРѕСЃРїРµС€Рё!</plain>
         </string>
         <string>
-            <plain>И время не пропускай!</plain>
+            <plain>Р РІСЂРµРјСЏ РЅРµ РїСЂРѕРїСѓСЃРєР°Р№!</plain>
         </string>
         <string>
-            <plain>Остаться вне врат страшись!</plain>
+            <plain>РћСЃС‚Р°С‚СЊСЃСЏ РІРЅРµ РІСЂР°С‚ СЃС‚СЂР°С€РёСЃСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Взгляни на избранных Христа,</plain>
+            <plain>Р’Р·РіР»СЏРЅРё РЅР° РёР·Р±СЂР°РЅРЅС‹С… РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Которые Им живут,</plain>
+            <plain>РљРѕС‚РѕСЂС‹Рµ РРј Р¶РёРІСѓС‚,</plain>
         </string>
         <string>
-            <plain>Чья жизнь пред Господом чиста, -</plain>
+            <plain>Р§СЊСЏ Р¶РёР·РЅСЊ РїСЂРµРґ Р“РѕСЃРїРѕРґРѕРј С‡РёСЃС‚Р°, -</plain>
         </string>
         <string>
-            <plain>Их радость и счастье ждут.</plain>
+            <plain>РС… СЂР°РґРѕСЃС‚СЊ Рё СЃС‡Р°СЃС‚СЊРµ Р¶РґСѓС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И даже здесь, в долине слез,</plain>
+            <plain>Р РґР°Р¶Рµ Р·РґРµСЃСЊ, РІ РґРѕР»РёРЅРµ СЃР»РµР·,</plain>
         </string>
         <string>
-            <plain>Спасенному легче жить.</plain>
+            <plain>РЎРїР°СЃРµРЅРЅРѕРјСѓ Р»РµРіС‡Рµ Р¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Он твердо верит, что Христос</plain>
+            <plain>РћРЅ С‚РІРµСЂРґРѕ РІРµСЂРёС‚, С‡С‚Рѕ РҐСЂРёСЃС‚РѕСЃ</plain>
         </string>
         <string>
-            <plain>Его будет Сам хранить.</plain>
+            <plain>Р•РіРѕ Р±СѓРґРµС‚ РЎР°Рј С…СЂР°РЅРёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Примкни к рядам Господних слуг,</plain>
+            <plain>РџСЂРёРјРєРЅРё Рє СЂСЏРґР°Рј Р“РѕСЃРїРѕРґРЅРёС… СЃР»СѓРі,</plain>
         </string>
         <string>
-            <plain>И к небу одной тропой</plain>
+            <plain>Р Рє РЅРµР±Сѓ РѕРґРЅРѕР№ С‚СЂРѕРїРѕР№</plain>
         </string>
         <string>
-            <plain>Пойдем мы вместе, там наш дух</plain>
+            <plain>РџРѕР№РґРµРј РјС‹ РІРјРµСЃС‚Рµ, С‚Р°Рј РЅР°С€ РґСѓС…</plain>
         </string>
         <string>
-            <plain>Найдет полный мир, покой.</plain>
+            <plain>РќР°Р№РґРµС‚ РїРѕР»РЅС‹Р№ РјРёСЂ, РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1852" name="Боже Праведный" canon="false" text="" textRus="" music="">
+<psalm number="1852" name="Р‘РѕР¶Рµ РџСЂР°РІРµРґРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже Праведный!</plain>
+            <plain>Р‘РѕР¶Рµ РџСЂР°РІРµРґРЅС‹Р№!</plain>
         </string>
         <string>
-            <plain>Прости Все мои Ты согрешенья,</plain>
+            <plain>РџСЂРѕСЃС‚Рё Р’СЃРµ РјРѕРё РўС‹ СЃРѕРіСЂРµС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Разреши и отпусти</plain>
+            <plain>Р Р°Р·СЂРµС€Рё Рё РѕС‚РїСѓСЃС‚Рё</plain>
         </string>
         <string>
-            <plain>Все плотские заблужденья.</plain>
+            <plain>Р’СЃРµ РїР»РѕС‚СЃРєРёРµ Р·Р°Р±Р»СѓР¶РґРµРЅСЊСЏ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Не суди меня, Судья,</plain>
+            <plain>РќРµ СЃСѓРґРё РјРµРЅСЏ, РЎСѓРґСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Но спаси меня, Спаситель!</plain>
+            <plain>РќРѕ СЃРїР°СЃРё РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ!</plain>
         </string>
         <string>
-            <plain>И погибшего меня</plain>
+            <plain>Р РїРѕРіРёР±С€РµРіРѕ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Оживи, мой Искупитель!</plain>
+            <plain>РћР¶РёРІРё, РјРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О Христос! Тебя молю:</plain>
+            <plain>Рћ РҐСЂРёСЃС‚РѕСЃ! РўРµР±СЏ РјРѕР»СЋ:</plain>
         </string>
         <string>
-            <plain>Дай в пути земном и тесном</plain>
+            <plain>Р”Р°Р№ РІ РїСѓС‚Рё Р·РµРјРЅРѕРј Рё С‚РµСЃРЅРѕРј</plain>
         </string>
         <string>
-            <plain>Видеть лик Твой, как в раю,</plain>
+            <plain>Р’РёРґРµС‚СЊ Р»РёРє РўРІРѕР№, РєР°Рє РІ СЂР°СЋ,</plain>
         </string>
         <string>
-            <plain>В царстве вечном и небесном.</plain>
+            <plain>Р’ С†Р°СЂСЃС‚РІРµ РІРµС‡РЅРѕРј Рё РЅРµР±РµСЃРЅРѕРј.</plain>
         </string>
     </verse>
 </psalm>

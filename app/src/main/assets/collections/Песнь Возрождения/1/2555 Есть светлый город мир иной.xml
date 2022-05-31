@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2555" name="Есть светлый город мир иной" canon="false" text="" textRus="" music="">
+<psalm number="2555" name="Р•СЃС‚СЊ СЃРІРµС‚Р»С‹Р№ РіРѕСЂРѕРґ РјРёСЂ РёРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Есть светлый город, мир иной,</plain>
+            <plain>Р•СЃС‚СЊ СЃРІРµС‚Р»С‹Р№ РіРѕСЂРѕРґ, РјРёСЂ РёРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Где слез никто не льет,</plain>
+            <plain>Р“РґРµ СЃР»РµР· РЅРёРєС‚Рѕ РЅРµ Р»СЊРµС‚,</plain>
         </string>
         <string>
-            <plain>Там радость вечная царит,</plain>
+            <plain>РўР°Рј СЂР°РґРѕСЃС‚СЊ РІРµС‡РЅР°СЏ С†Р°СЂРёС‚,</plain>
         </string>
         <string>
-            <plain>Хор ангелов поет.</plain>
+            <plain>РҐРѕСЂ Р°РЅРіРµР»РѕРІ РїРѕРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Сердце жаждет освобожденья,</plain>
+            <plain>РЎРµСЂРґС†Рµ Р¶Р°Р¶РґРµС‚ РѕСЃРІРѕР±РѕР¶РґРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Туда стремятся все помышленья,</plain>
+            <plain>РўСѓРґР° СЃС‚СЂРµРјСЏС‚СЃСЏ РІСЃРµ РїРѕРјС‹С€Р»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Сердце рвется вдаль блаженства,</plain>
+            <plain>РЎРµСЂРґС†Рµ СЂРІРµС‚СЃСЏ РІРґР°Р»СЊ Р±Р»Р°Р¶РµРЅСЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Чтоб узреть лицо Христа.</plain>
+            <plain>Р§С‚РѕР± СѓР·СЂРµС‚СЊ Р»РёС†Рѕ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Велик и дивен город тот,</plain>
+            <plain>Р’РµР»РёРє Рё РґРёРІРµРЅ РіРѕСЂРѕРґ С‚РѕС‚,</plain>
         </string>
         <string>
-            <plain>Счастлив Его народ,</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІ Р•РіРѕ РЅР°СЂРѕРґ,</plain>
         </string>
         <string>
-            <plain>Греха, вражды не знает он,</plain>
+            <plain>Р“СЂРµС…Р°, РІСЂР°Р¶РґС‹ РЅРµ Р·РЅР°РµС‚ РѕРЅ,</plain>
         </string>
         <string>
-            <plain>Свободен от невзгод.</plain>
+            <plain>РЎРІРѕР±РѕРґРµРЅ РѕС‚ РЅРµРІР·РіРѕРґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Все радости там без конца</plain>
+            <plain>Р’СЃРµ СЂР°РґРѕСЃС‚Рё С‚Р°Рј Р±РµР· РєРѕРЅС†Р°</plain>
         </string>
         <string>
-            <plain>Живущим в мире том,</plain>
+            <plain>Р–РёРІСѓС‰РёРј РІ РјРёСЂРµ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Не будет там никто стонать</plain>
+            <plain>РќРµ Р±СѓРґРµС‚ С‚Р°Рј РЅРёРєС‚Рѕ СЃС‚РѕРЅР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Под игом и грехом.</plain>
+            <plain>РџРѕРґ РёРіРѕРј Рё РіСЂРµС…РѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В чертог Небесный те войдут,</plain>
+            <plain>Р’ С‡РµСЂС‚РѕРі РќРµР±РµСЃРЅС‹Р№ С‚Рµ РІРѕР№РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Кого Христос простил,</plain>
+            <plain>РљРѕРіРѕ РҐСЂРёСЃС‚РѕСЃ РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Кого Он спас и оправдал</plain>
+            <plain>РљРѕРіРѕ РћРЅ СЃРїР°СЃ Рё РѕРїСЂР°РІРґР°Р»</plain>
         </string>
         <string>
-            <plain>И Кровию омыл.</plain>
+            <plain>Р РљСЂРѕРІРёСЋ РѕРјС‹Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>В обьятиях Своей любви</plain>
+            <plain>Р’ РѕР±СЊСЏС‚РёСЏС… РЎРІРѕРµР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Он их к Себе возьмет,</plain>
+            <plain>РћРЅ РёС… Рє РЎРµР±Рµ РІРѕР·СЊРјРµС‚,</plain>
         </string>
         <string>
-            <plain>Все слезы с плачущих очей</plain>
+            <plain>Р’СЃРµ СЃР»РµР·С‹ СЃ РїР»Р°С‡СѓС‰РёС… РѕС‡РµР№</plain>
         </string>
         <string>
-            <plain>Спаситель Сам отрет.</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РЎР°Рј РѕС‚СЂРµС‚.</plain>
         </string>
     </verse>
 </psalm>

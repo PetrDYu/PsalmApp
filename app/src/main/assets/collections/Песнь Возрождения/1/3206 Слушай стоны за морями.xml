@@ -1,125 +1,125 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3206" name="Слушай стоны за морями" canon="false" text="" textRus="" music="">
+<psalm number="3206" name="РЎР»СѓС€Р°Р№ СЃС‚РѕРЅС‹ Р·Р° РјРѕСЂСЏРјРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слушай: стоны за морями</plain>
+            <plain>РЎР»СѓС€Р°Р№: СЃС‚РѕРЅС‹ Р·Р° РјРѕСЂСЏРјРё</plain>
         </string>
         <string>
-            <plain>раздаются там и тут</plain>
+            <plain>СЂР°Р·РґР°СЋС‚СЃСЏ С‚Р°Рј Рё С‚СѓС‚</plain>
         </string>
         <string>
-            <plain>- то язычники веками</plain>
+            <plain>- С‚Рѕ СЏР·С‹С‡РЅРёРєРё РІРµРєР°РјРё</plain>
         </string>
         <string>
-            <plain>помощи с тоскою ждут,</plain>
+            <plain>РїРѕРјРѕС‰Рё СЃ С‚РѕСЃРєРѕСЋ Р¶РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>и увидеть свет небесный</plain>
+            <plain>Рё СѓРІРёРґРµС‚СЊ СЃРІРµС‚ РЅРµР±РµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>очень жаждут там они.</plain>
+            <plain>РѕС‡РµРЅСЊ Р¶Р°Р¶РґСѓС‚ С‚Р°Рј РѕРЅРё.</plain>
         </string>
         <string>
-            <plain>Слышишь ли их зов сердечный?</plain>
+            <plain>РЎР»С‹С€РёС€СЊ Р»Рё РёС… Р·РѕРІ СЃРµСЂРґРµС‡РЅС‹Р№?</plain>
         </string>
         <string>
-            <plain>Знаешь ли их боль и ты?</plain>
+            <plain>Р—РЅР°РµС€СЊ Р»Рё РёС… Р±РѕР»СЊ Рё С‚С‹?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Кто пойдёт,</plain>
+            <plain>РљС‚Рѕ РїРѕР№РґС‘С‚,</plain>
         </string>
         <string>
-            <plain>Кто пойдёт,</plain>
+            <plain>РљС‚Рѕ РїРѕР№РґС‘С‚,</plain>
         </string>
         <string>
-            <plain>о, кто пойдёт</plain>
+            <plain>Рѕ, РєС‚Рѕ РїРѕР№РґС‘С‚</plain>
         </string>
         <string>
-            <plain>о, кто пойдёт</plain>
+            <plain>Рѕ, РєС‚Рѕ РїРѕР№РґС‘С‚</plain>
         </string>
         <string>
-            <plain>С вестью в дальние края?</plain>
+            <plain>РЎ РІРµСЃС‚СЊСЋ РІ РґР°Р»СЊРЅРёРµ РєСЂР°СЏ?</plain>
         </string>
         <string>
-            <plain>О, кто пойдёт?</plain>
+            <plain>Рћ, РєС‚Рѕ РїРѕР№РґС‘С‚?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И друзья для нас дороже,</plain>
+            <plain>Р РґСЂСѓР·СЊСЏ РґР»СЏ РЅР°СЃ РґРѕСЂРѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>слыша зов из-за морей,</plain>
+            <plain>СЃР»С‹С€Р° Р·РѕРІ РёР·-Р·Р° РјРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>и отчизну почитаем,</plain>
+            <plain>Рё РѕС‚С‡РёР·РЅСѓ РїРѕС‡РёС‚Р°РµРј,</plain>
         </string>
         <string>
-            <plain>зов услышав, мы сильней.</plain>
+            <plain>Р·РѕРІ СѓСЃР»С‹С€Р°РІ, РјС‹ СЃРёР»СЊРЅРµР№.</plain>
         </string>
         <string>
-            <plain>- Кто для Господа решиться</plain>
+            <plain>- РљС‚Рѕ РґР»СЏ Р“РѕСЃРїРѕРґР° СЂРµС€РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>в страны дальние пойти,</plain>
+            <plain>РІ СЃС‚СЂР°РЅС‹ РґР°Р»СЊРЅРёРµ РїРѕР№С‚Рё,</plain>
         </string>
         <string>
-            <plain>чтоб усердно там трудиться</plain>
+            <plain>С‡С‚РѕР± СѓСЃРµСЂРґРЅРѕ С‚Р°Рј С‚СЂСѓРґРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>в братской, пламенной любви?</plain>
+            <plain>РІ Р±СЂР°С‚СЃРєРѕР№, РїР»Р°РјРµРЅРЅРѕР№ Р»СЋР±РІРё?</plain>
         </string>
         <string>
-            <plain>З Не найдёшь в друзьях поддержки</plain>
+            <plain>Р— РќРµ РЅР°Р№РґС‘С€СЊ РІ РґСЂСѓР·СЊСЏС… РїРѕРґРґРµСЂР¶РєРё</plain>
         </string>
         <string>
-            <plain>- не прислушивайся к ним,</plain>
+            <plain>- РЅРµ РїСЂРёСЃР»СѓС€РёРІР°Р№СЃСЏ Рє РЅРёРј,</plain>
         </string>
         <string>
-            <plain>поспеши же к душам грешным,</plain>
+            <plain>РїРѕСЃРїРµС€Рё Р¶Рµ Рє РґСѓС€Р°Рј РіСЂРµС€РЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>их веди к вратам златым.</plain>
+            <plain>РёС… РІРµРґРё Рє РІСЂР°С‚Р°Рј Р·Р»Р°С‚С‹Рј.</plain>
         </string>
         <string>
-            <plain>Ведь они в грехах сегодня</plain>
+            <plain>Р’РµРґСЊ РѕРЅРё РІ РіСЂРµС…Р°С… СЃРµРіРѕРґРЅСЏ</plain>
         </string>
         <string>
-            <plain>и во тьме ночной живут</plain>
+            <plain>Рё РІРѕ С‚СЊРјРµ РЅРѕС‡РЅРѕР№ Р¶РёРІСѓС‚</plain>
         </string>
         <string>
-            <plain>- укажи им путь Господний:</plain>
+            <plain>- СѓРєР°Р¶Рё РёРј РїСѓС‚СЊ Р“РѕСЃРїРѕРґРЅРёР№:</plain>
         </string>
         <string>
-            <plain>мир они лишь в Нём найдут.</plain>
+            <plain>РјРёСЂ РѕРЅРё Р»РёС€СЊ РІ РќС‘Рј РЅР°Р№РґСѓС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Брат, иди чрез океаны,</plain>
+            <plain>Р‘СЂР°С‚, РёРґРё С‡СЂРµР· РѕРєРµР°РЅС‹,</plain>
         </string>
         <string>
-            <plain>дом оставь свой позади,</plain>
+            <plain>РґРѕРј РѕСЃС‚Р°РІСЊ СЃРІРѕР№ РїРѕР·Р°РґРё,</plain>
         </string>
         <string>
-            <plain>поспеши в чужие страны,</plain>
+            <plain>РїРѕСЃРїРµС€Рё РІ С‡СѓР¶РёРµ СЃС‚СЂР°РЅС‹,</plain>
         </string>
         <string>
-            <plain>именем Христа иди!</plain>
+            <plain>РёРјРµРЅРµРј РҐСЂРёСЃС‚Р° РёРґРё!</plain>
         </string>
         <string>
-            <plain>Как, покинув трон высокий,</plain>
+            <plain>РљР°Рє, РїРѕРєРёРЅСѓРІ С‚СЂРѕРЅ РІС‹СЃРѕРєРёР№,</plain>
         </string>
         <string>
-            <plain>В жертву дал Иисус Себя,</plain>
+            <plain>Р’ Р¶РµСЂС‚РІСѓ РґР°Р» РРёСЃСѓСЃ РЎРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>так и ты иди в край дальний,</plain>
+            <plain>С‚Р°Рє Рё С‚С‹ РёРґРё РІ РєСЂР°Р№ РґР°Р»СЊРЅРёР№,</plain>
         </string>
         <string>
-            <plain>чтоб трудиться для Христа.</plain>
+            <plain>С‡С‚РѕР± С‚СЂСѓРґРёС‚СЊСЃСЏ РґР»СЏ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="360" name="Сколько раз скорбя жестоко" canon="false" text="" textRus="" music="">
+<psalm number="360" name="РЎРєРѕР»СЊРєРѕ СЂР°Р· СЃРєРѕСЂР±СЏ Р¶РµСЃС‚РѕРєРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сколько раз, скорбя жестоко,</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ СЂР°Р·, СЃРєРѕСЂР±СЏ Р¶РµСЃС‚РѕРєРѕ,</plain>
         </string>
         <string>
-            <plain>Ты со вздохом повторял:</plain>
+            <plain>РўС‹ СЃРѕ РІР·РґРѕС…РѕРј РїРѕРІС‚РѕСЂСЏР»:</plain>
         </string>
         <string>
-            <plain>"Кто бы из тоски глубокой</plain>
+            <plain>"РљС‚Рѕ Р±С‹ РёР· С‚РѕСЃРєРё РіР»СѓР±РѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>Сердцу выход указал?"</plain>
+            <plain>РЎРµСЂРґС†Сѓ РІС‹С…РѕРґ СѓРєР°Р·Р°Р»?"</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, приди скорей к Иисусу!</plain>
+            <plain>Рћ, РїСЂРёРґРё СЃРєРѕСЂРµР№ Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Знает скорбь твою, поверь;</plain>
+            <plain>Р—РЅР°РµС‚ СЃРєРѕСЂР±СЊ С‚РІРѕСЋ, РїРѕРІРµСЂСЊ;</plain>
         </string>
         <string>
-            <plain>Всех Он с радостью встречает.</plain>
+            <plain>Р’СЃРµС… РћРЅ СЃ СЂР°РґРѕСЃС‚СЊСЋ РІСЃС‚СЂРµС‡Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>О, приди к Нему теперь!</plain>
+            <plain>Рћ, РїСЂРёРґРё Рє РќРµРјСѓ С‚РµРїРµСЂСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Да, приди! Душою черствой</plain>
+            <plain>Р”Р°, РїСЂРёРґРё! Р”СѓС€РѕСЋ С‡РµСЂСЃС‚РІРѕР№</plain>
         </string>
         <string>
-            <plain>Ты Его не оттолкни;</plain>
+            <plain>РўС‹ Р•РіРѕ РЅРµ РѕС‚С‚РѕР»РєРЅРё;</plain>
         </string>
         <string>
-            <plain>Вспомни вечность, не упорствуй,</plain>
+            <plain>Р’СЃРїРѕРјРЅРё РІРµС‡РЅРѕСЃС‚СЊ, РЅРµ СѓРїРѕСЂСЃС‚РІСѓР№,</plain>
         </string>
         <string>
-            <plain>Сочтены ведь наши дни.</plain>
+            <plain>РЎРѕС‡С‚РµРЅС‹ РІРµРґСЊ РЅР°С€Рё РґРЅРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Да, приди! Благоприятный</plain>
+            <plain>Р”Р°, РїСЂРёРґРё! Р‘Р»Р°РіРѕРїСЂРёСЏС‚РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Ныне день: Христос зовет,</plain>
+            <plain>РќС‹РЅРµ РґРµРЅСЊ: РҐСЂРёСЃС‚РѕСЃ Р·РѕРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Даром Он и безвозвратно</plain>
+            <plain>Р”Р°СЂРѕРј РћРЅ Рё Р±РµР·РІРѕР·РІСЂР°С‚РЅРѕ</plain>
         </string>
         <string>
-            <plain>Полный мир душе дает.</plain>
+            <plain>РџРѕР»РЅС‹Р№ РјРёСЂ РґСѓС€Рµ РґР°РµС‚.</plain>
         </string>
     </verse>
 </psalm>

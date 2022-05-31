@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3143" name="Господь мой Бог великий Бог" canon="false" text="" textRus="" music="">
+<psalm number="3143" name="Р“РѕСЃРїРѕРґСЊ РјРѕР№ Р‘РѕРі РІРµР»РёРєРёР№ Р‘РѕРі" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господь, мой Бог, великий Бог,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РјРѕР№ Р‘РѕРі, РІРµР»РёРєРёР№ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Ты - Царь царей вовек веков!</plain>
+            <plain>РўС‹ - Р¦Р°СЂСЊ С†Р°СЂРµР№ РІРѕРІРµРє РІРµРєРѕРІ!</plain>
         </string>
         <string>
-            <plain>Народы подступитесь и в вере</plain>
+            <plain>РќР°СЂРѕРґС‹ РїРѕРґСЃС‚СѓРїРёС‚РµСЃСЊ Рё РІ РІРµСЂРµ</plain>
         </string>
         <string>
-            <plain>преклонитесь с хвалой в устах!</plain>
+            <plain>РїСЂРµРєР»РѕРЅРёС‚РµСЃСЊ СЃ С…РІР°Р»РѕР№ РІ СѓСЃС‚Р°С…!</plain>
         </string>
         <string>
-            <plain>Прими, Отец благой и Сын,</plain>
+            <plain>РџСЂРёРјРё, РћС‚РµС† Р±Р»Р°РіРѕР№ Рё РЎС‹РЅ,</plain>
         </string>
         <string>
-            <plain>и Дух святой, хвалу от нас!</plain>
+            <plain>Рё Р”СѓС… СЃРІСЏС‚РѕР№, С…РІР°Р»Сѓ РѕС‚ РЅР°СЃ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пусть все народы мира</plain>
+            <plain>РџСѓСЃС‚СЊ РІСЃРµ РЅР°СЂРѕРґС‹ РјРёСЂР°</plain>
         </string>
         <string>
-            <plain>прославят Спасителя Христа!</plain>
+            <plain>РїСЂРѕСЃР»Р°РІСЏС‚ РЎРїР°СЃРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь, мой Бог, великий Бог,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РјРѕР№ Р‘РѕРі, РІРµР»РёРєРёР№ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Ты - Царь царей вовек веков!</plain>
+            <plain>РўС‹ - Р¦Р°СЂСЊ С†Р°СЂРµР№ РІРѕРІРµРє РІРµРєРѕРІ!</plain>
         </string>
         <string>
-            <plain>Иисус всю власть имеет,</plain>
+            <plain>РРёСЃСѓСЃ РІСЃСЋ РІР»Р°СЃС‚СЊ РёРјРµРµС‚,</plain>
         </string>
         <string>
-            <plain>Вселенной Он владеет вовек веков.</plain>
+            <plain>Р’СЃРµР»РµРЅРЅРѕР№ РћРЅ РІР»Р°РґРµРµС‚ РІРѕРІРµРє РІРµРєРѕРІ.</plain>
         </string>
         <string>
-            <plain>Как в Слове обещал, Он</plain>
+            <plain>РљР°Рє РІ РЎР»РѕРІРµ РѕР±РµС‰Р°Р», РћРЅ</plain>
         </string>
         <string>
-            <plain>Царство основал, Бог Саваоф!</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРѕ РѕСЃРЅРѕРІР°Р», Р‘РѕРі РЎР°РІР°РѕС„!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Господь, мой Бог, великий Бог,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РјРѕР№ Р‘РѕРі, РІРµР»РёРєРёР№ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Ты - Царь царей вовек веков!</plain>
+            <plain>РўС‹ - Р¦Р°СЂСЊ С†Р°СЂРµР№ РІРѕРІРµРє РІРµРєРѕРІ!</plain>
         </string>
         <string>
-            <plain>От края и до края звучит</plain>
+            <plain>РћС‚ РєСЂР°СЏ Рё РґРѕ РєСЂР°СЏ Р·РІСѓС‡РёС‚</plain>
         </string>
         <string>
-            <plain>пусть не смолкая Царю хвала!</plain>
+            <plain>РїСѓСЃС‚СЊ РЅРµ СЃРјРѕР»РєР°СЏ Р¦Р°СЂСЋ С…РІР°Р»Р°!</plain>
         </string>
         <string>
-            <plain>Пусть всюду на земле прославят</plain>
+            <plain>РџСѓСЃС‚СЊ РІСЃСЋРґСѓ РЅР° Р·РµРјР»Рµ РїСЂРѕСЃР»Р°РІСЏС‚</plain>
         </string>
         <string>
-            <plain>громко все Его в веках!</plain>
+            <plain>РіСЂРѕРјРєРѕ РІСЃРµ Р•РіРѕ РІ РІРµРєР°С…!</plain>
         </string>
     </verse>
 </psalm>

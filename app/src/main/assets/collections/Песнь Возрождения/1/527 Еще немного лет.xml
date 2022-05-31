@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="527" name="Еще немного лет" canon="false" text="" textRus="" music="">
+<psalm number="527" name="Р•С‰Рµ РЅРµРјРЅРѕРіРѕ Р»РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Еще немного лет,</plain>
+            <plain>Р•С‰Рµ РЅРµРјРЅРѕРіРѕ Р»РµС‚,</plain>
         </string>
         <string>
-            <plain>Еще немного битв,</plain>
+            <plain>Р•С‰Рµ РЅРµРјРЅРѕРіРѕ Р±РёС‚РІ,</plain>
         </string>
         <string>
-            <plain>Немного слез, забот и бед,</plain>
+            <plain>РќРµРјРЅРѕРіРѕ СЃР»РµР·, Р·Р°Р±РѕС‚ Рё Р±РµРґ,</plain>
         </string>
         <string>
-            <plain>Немного лишь молитв.</plain>
+            <plain>РќРµРјРЅРѕРіРѕ Р»РёС€СЊ РјРѕР»РёС‚РІ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Еще немного мук,</plain>
+            <plain>Р•С‰Рµ РЅРµРјРЅРѕРіРѕ РјСѓРє,</plain>
         </string>
         <string>
-            <plain>Немного тяжких снов,</plain>
+            <plain>РќРµРјРЅРѕРіРѕ С‚СЏР¶РєРёС… СЃРЅРѕРІ,</plain>
         </string>
         <string>
-            <plain>Немного вздохов и разлук, -</plain>
+            <plain>РќРµРјРЅРѕРіРѕ РІР·РґРѕС…РѕРІ Рё СЂР°Р·Р»СѓРє, -</plain>
         </string>
         <string>
-            <plain>Немного лишь псалмов.</plain>
+            <plain>РќРµРјРЅРѕРіРѕ Р»РёС€СЊ РїСЃР°Р»РјРѕРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И будет вечный мир,</plain>
+            <plain>Р Р±СѓРґРµС‚ РІРµС‡РЅС‹Р№ РјРёСЂ,</plain>
         </string>
         <string>
-            <plain>И будет вечный пир,</plain>
+            <plain>Р Р±СѓРґРµС‚ РІРµС‡РЅС‹Р№ РїРёСЂ,</plain>
         </string>
         <string>
-            <plain>И будет вечный день без мглы,</plain>
+            <plain>Р Р±СѓРґРµС‚ РІРµС‡РЅС‹Р№ РґРµРЅСЊ Р±РµР· РјРіР»С‹,</plain>
         </string>
         <string>
-            <plain>И вечный гимн хвалы.</plain>
+            <plain>Р РІРµС‡РЅС‹Р№ РіРёРјРЅ С…РІР°Р»С‹.</plain>
         </string>
     </verse>
 </psalm>

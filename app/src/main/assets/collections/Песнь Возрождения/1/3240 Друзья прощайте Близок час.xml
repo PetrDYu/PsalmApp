@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3240" name="Друзья прощайте Близок час" canon="false" text="" textRus="" music="">
+<psalm number="3240" name="Р”СЂСѓР·СЊСЏ РїСЂРѕС‰Р°Р№С‚Рµ Р‘Р»РёР·РѕРє С‡Р°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Друзья, прощайте! Близок час,</plain>
+            <plain>Р”СЂСѓР·СЊСЏ, РїСЂРѕС‰Р°Р№С‚Рµ! Р‘Р»РёР·РѕРє С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>нас скоро встреча ждёт,</plain>
+            <plain>РЅР°СЃ СЃРєРѕСЂРѕ РІСЃС‚СЂРµС‡Р° Р¶РґС‘С‚,</plain>
         </string>
         <string>
-            <plain>когда услышим звук трубы</plain>
+            <plain>РєРѕРіРґР° СѓСЃР»С‹С€РёРј Р·РІСѓРє С‚СЂСѓР±С‹</plain>
         </string>
         <string>
-            <plain>и Бог нас призовёт.</plain>
+            <plain>Рё Р‘РѕРі РЅР°СЃ РїСЂРёР·РѕРІС‘С‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В день, когда мы все воскреснем,</plain>
+            <plain>Р’ РґРµРЅСЊ, РєРѕРіРґР° РјС‹ РІСЃРµ РІРѕСЃРєСЂРµСЃРЅРµРј,</plain>
         </string>
         <string>
-            <plain>после ночи на земле,</plain>
+            <plain>РїРѕСЃР»Рµ РЅРѕС‡Рё РЅР° Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>дорогих друзей мы встретим,</plain>
+            <plain>РґРѕСЂРѕРіРёС… РґСЂСѓР·РµР№ РјС‹ РІСЃС‚СЂРµС‚РёРј,</plain>
         </string>
         <string>
-            <plain>в небесах будем все.</plain>
+            <plain>РІ РЅРµР±РµСЃР°С… Р±СѓРґРµРј РІСЃРµ.</plain>
         </string>
         <string>
-            <plain>В день, когда все воскреснем,</plain>
+            <plain>Р’ РґРµРЅСЊ, РєРѕРіРґР° РІСЃРµ РІРѕСЃРєСЂРµСЃРЅРµРј,</plain>
         </string>
         <string>
-            <plain>Призовёт нас Бог к Себе.</plain>
+            <plain>РџСЂРёР·РѕРІС‘С‚ РЅР°СЃ Р‘РѕРі Рє РЎРµР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Из праха созданная плоть</plain>
+            <plain>РР· РїСЂР°С…Р° СЃРѕР·РґР°РЅРЅР°СЏ РїР»РѕС‚СЊ</plain>
         </string>
         <string>
-            <plain>вновь в землю попадёт,</plain>
+            <plain>РІРЅРѕРІСЊ РІ Р·РµРјР»СЋ РїРѕРїР°РґС‘С‚,</plain>
         </string>
         <string>
-            <plain>но смерть лишь хижину души</plain>
+            <plain>РЅРѕ СЃРјРµСЂС‚СЊ Р»РёС€СЊ С…РёР¶РёРЅСѓ РґСѓС€Рё</plain>
         </string>
         <string>
-            <plain>во власть свою возьмёт.</plain>
+            <plain>РІРѕ РІР»Р°СЃС‚СЊ СЃРІРѕСЋ РІРѕР·СЊРјС‘С‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но разве умерла душа?</plain>
+            <plain>РќРѕ СЂР°Р·РІРµ СѓРјРµСЂР»Р° РґСѓС€Р°?</plain>
         </string>
         <string>
-            <plain>- О нет! Он жива!</plain>
+            <plain>- Рћ РЅРµС‚! РћРЅ Р¶РёРІР°!</plain>
         </string>
         <string>
-            <plain>Она живёт в раю Христа,</plain>
+            <plain>РћРЅР° Р¶РёРІС‘С‚ РІ СЂР°СЋ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>ей не нужна земля.</plain>
+            <plain>РµР№ РЅРµ РЅСѓР¶РЅР° Р·РµРјР»СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В одежде снежной</plain>
+            <plain>Р’ РѕРґРµР¶РґРµ СЃРЅРµР¶РЅРѕР№</plain>
         </string>
         <string>
-            <plain>белизны душа хвалу поёт</plain>
+            <plain>Р±РµР»РёР·РЅС‹ РґСѓС€Р° С…РІР°Р»Сѓ РїРѕС‘С‚</plain>
         </string>
         <string>
-            <plain>и часа обновления</plain>
+            <plain>Рё С‡Р°СЃР° РѕР±РЅРѕРІР»РµРЅРёСЏ</plain>
         </string>
         <string>
-            <plain>она смиренно ждёт.</plain>
+            <plain>РѕРЅР° СЃРјРёСЂРµРЅРЅРѕ Р¶РґС‘С‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Уж скоро час пробьёт для нас,</plain>
+            <plain>РЈР¶ СЃРєРѕСЂРѕ С‡Р°СЃ РїСЂРѕР±СЊС‘С‚ РґР»СЏ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>когда мы в небесах</plain>
+            <plain>РєРѕРіРґР° РјС‹ РІ РЅРµР±РµСЃР°С…</plain>
         </string>
         <string>
-            <plain>навечно будем со Христом,</plain>
+            <plain>РЅР°РІРµС‡РЅРѕ Р±СѓРґРµРј СЃРѕ РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>где нет печальных глаз.</plain>
+            <plain>РіРґРµ РЅРµС‚ РїРµС‡Р°Р»СЊРЅС‹С… РіР»Р°Р·.</plain>
         </string>
     </verse>
 </psalm>

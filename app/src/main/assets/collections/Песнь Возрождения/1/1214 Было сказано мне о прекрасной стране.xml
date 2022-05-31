@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1214" name="Было сказано мне о прекрасной стране" canon="false" text="" textRus="" music="">
+<psalm number="1214" name="Р‘С‹Р»Рѕ СЃРєР°Р·Р°РЅРѕ РјРЅРµ Рѕ РїСЂРµРєСЂР°СЃРЅРѕР№ СЃС‚СЂР°РЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Было сказано мне о прекрасной стране,</plain>
+            <plain>Р‘С‹Р»Рѕ СЃРєР°Р·Р°РЅРѕ РјРЅРµ Рѕ РїСЂРµРєСЂР°СЃРЅРѕР№ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>О которой гласит Библия,</plain>
+            <plain>Рћ РєРѕС‚РѕСЂРѕР№ РіР»Р°СЃРёС‚ Р‘РёР±Р»РёСЏ,</plain>
         </string>
         <string>
-            <plain>Где уж нет ни забот, ни тяжелых работ,</plain>
+            <plain>Р“РґРµ СѓР¶ РЅРµС‚ РЅРё Р·Р°Р±РѕС‚, РЅРё С‚СЏР¶РµР»С‹С… СЂР°Р±РѕС‚,</plain>
         </string>
         <string>
-            <plain>И там уж нет насилия.</plain>
+            <plain>Р С‚Р°Рј СѓР¶ РЅРµС‚ РЅР°СЃРёР»РёСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В той прекрасной стране,</plain>
+            <plain>Р’ С‚РѕР№ РїСЂРµРєСЂР°СЃРЅРѕР№ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>- было сказано мне,</plain>
+            <plain>- Р±С‹Р»Рѕ СЃРєР°Р·Р°РЅРѕ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>- Туча грозная не взойдет;</plain>
+            <plain>- РўСѓС‡Р° РіСЂРѕР·РЅР°СЏ РЅРµ РІР·РѕР№РґРµС‚;</plain>
         </string>
         <string>
-            <plain>Ушла смерти тень.</plain>
+            <plain>РЈС€Р»Р° СЃРјРµСЂС‚Рё С‚РµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Настал вечный день,</plain>
+            <plain>РќР°СЃС‚Р°Р» РІРµС‡РЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>И вовек солнце не зайдет.</plain>
+            <plain>Р РІРѕРІРµРє СЃРѕР»РЅС†Рµ РЅРµ Р·Р°Р№РґРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Там приносят сады золотые плоды.</plain>
+            <plain>РўР°Рј РїСЂРёРЅРѕСЃСЏС‚ СЃР°РґС‹ Р·РѕР»РѕС‚С‹Рµ РїР»РѕРґС‹.</plain>
         </string>
         <string>
-            <plain>Все цветет, словно лилия.</plain>
+            <plain>Р’СЃРµ С†РІРµС‚РµС‚, СЃР»РѕРІРЅРѕ Р»РёР»РёСЏ.</plain>
         </string>
         <string>
-            <plain>Там на арфе мой брат будет песни играть,</plain>
+            <plain>РўР°Рј РЅР° Р°СЂС„Рµ РјРѕР№ Р±СЂР°С‚ Р±СѓРґРµС‚ РїРµСЃРЅРё РёРіСЂР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>И там уж нет насилия.</plain>
+            <plain>Р С‚Р°Рј СѓР¶ РЅРµС‚ РЅР°СЃРёР»РёСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Там обители нам, удрученным сердцам</plain>
+            <plain>РўР°Рј РѕР±РёС‚РµР»Рё РЅР°Рј, СѓРґСЂСѓС‡РµРЅРЅС‹Рј СЃРµСЂРґС†Р°Рј</plain>
         </string>
         <string>
-            <plain>Убраны, словно скиния.</plain>
+            <plain>РЈР±СЂР°РЅС‹, СЃР»РѕРІРЅРѕ СЃРєРёРЅРёСЏ.</plain>
         </string>
         <string>
-            <plain>Там источник живой, звуки песни святой,</plain>
+            <plain>РўР°Рј РёСЃС‚РѕС‡РЅРёРє Р¶РёРІРѕР№, Р·РІСѓРєРё РїРµСЃРЅРё СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>И там уж нет насилия.</plain>
+            <plain>Р С‚Р°Рј СѓР¶ РЅРµС‚ РЅР°СЃРёР»РёСЏ.</plain>
         </string>
     </verse>
 </psalm>

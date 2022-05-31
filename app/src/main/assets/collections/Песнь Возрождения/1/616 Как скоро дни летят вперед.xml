@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="616" name="Как скоро дни летят вперед" canon="false" text="" textRus="" music="">
+<psalm number="616" name="РљР°Рє СЃРєРѕСЂРѕ РґРЅРё Р»РµС‚СЏС‚ РІРїРµСЂРµРґ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как скоро дни летят вперед</plain>
+            <plain>РљР°Рє СЃРєРѕСЂРѕ РґРЅРё Р»РµС‚СЏС‚ РІРїРµСЂРµРґ</plain>
         </string>
         <string>
-            <plain>Неслышной чередой!</plain>
+            <plain>РќРµСЃР»С‹С€РЅРѕР№ С‡РµСЂРµРґРѕР№!</plain>
         </string>
         <string>
-            <plain>Вот день один к концу идет,</plain>
+            <plain>Р’РѕС‚ РґРµРЅСЊ РѕРґРёРЅ Рє РєРѕРЅС†Сѓ РёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Вот настает другой.</plain>
+            <plain>Р’РѕС‚ РЅР°СЃС‚Р°РµС‚ РґСЂСѓРіРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Час за часом, день за днем</plain>
+            <plain>Р§Р°СЃ Р·Р° С‡Р°СЃРѕРј, РґРµРЅСЊ Р·Р° РґРЅРµРј</plain>
         </string>
         <string>
-            <plain>Мы к концу забот идем;</plain>
+            <plain>РњС‹ Рє РєРѕРЅС†Сѓ Р·Р°Р±РѕС‚ РёРґРµРј;</plain>
         </string>
         <string>
-            <plain>Вот последний час пробьет,</plain>
+            <plain>Р’РѕС‚ РїРѕСЃР»РµРґРЅРёР№ С‡Р°СЃ РїСЂРѕР±СЊРµС‚,</plain>
         </string>
         <string>
-            <plain>И Спаситель наш придет.</plain>
+            <plain>Р РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€ РїСЂРёРґРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Кто верил, уповал, любил</plain>
+            <plain>РљС‚Рѕ РІРµСЂРёР», СѓРїРѕРІР°Р», Р»СЋР±РёР»</plain>
         </string>
         <string>
-            <plain>И пребывал с Христом,</plain>
+            <plain>Р РїСЂРµР±С‹РІР°Р» СЃ РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Того Христос чрез мрак могил</plain>
+            <plain>РўРѕРіРѕ РҐСЂРёСЃС‚РѕСЃ С‡СЂРµР· РјСЂР°Рє РјРѕРіРёР»</plain>
         </string>
         <string>
-            <plain>Возьмет в Свой вечный дом.</plain>
+            <plain>Р’РѕР·СЊРјРµС‚ РІ РЎРІРѕР№ РІРµС‡РЅС‹Р№ РґРѕРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда пробьет и для меня</plain>
+            <plain>РљРѕРіРґР° РїСЂРѕР±СЊРµС‚ Рё РґР»СЏ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Последний час житья,</plain>
+            <plain>РџРѕСЃР»РµРґРЅРёР№ С‡Р°СЃ Р¶РёС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Где буду после обитать -</plain>
+            <plain>Р“РґРµ Р±СѓРґСѓ РїРѕСЃР»Рµ РѕР±РёС‚Р°С‚СЊ -</plain>
         </string>
         <string>
-            <plain>Мне дано Богом знать.</plain>
+            <plain>РњРЅРµ РґР°РЅРѕ Р‘РѕРіРѕРј Р·РЅР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>От сердца верю, верю я,</plain>
+            <plain>РћС‚ СЃРµСЂРґС†Р° РІРµСЂСЋ, РІРµСЂСЋ СЏ,</plain>
         </string>
         <string>
-            <plain>Что тот Господний зов</plain>
+            <plain>Р§С‚Рѕ С‚РѕС‚ Р“РѕСЃРїРѕРґРЅРёР№ Р·РѕРІ</plain>
         </string>
         <string>
-            <plain>Не будет страшен для меня:</plain>
+            <plain>РќРµ Р±СѓРґРµС‚ СЃС‚СЂР°С€РµРЅ РґР»СЏ РјРµРЅСЏ:</plain>
         </string>
         <string>
-            <plain>Я буду ввек Христов.</plain>
+            <plain>РЇ Р±СѓРґСѓ РІРІРµРє РҐСЂРёСЃС‚РѕРІ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Когда настанет жданный миг</plain>
+            <plain>РљРѕРіРґР° РЅР°СЃС‚Р°РЅРµС‚ Р¶РґР°РЅРЅС‹Р№ РјРёРі</plain>
         </string>
         <string>
-            <plain>Расстаться мне с землей,</plain>
+            <plain>Р Р°СЃСЃС‚Р°С‚СЊСЃСЏ РјРЅРµ СЃ Р·РµРјР»РµР№,</plain>
         </string>
         <string>
-            <plain>Ты вспомни между слуг Твоих</plain>
+            <plain>РўС‹ РІСЃРїРѕРјРЅРё РјРµР¶РґСѓ СЃР»СѓРі РўРІРѕРёС…</plain>
         </string>
         <string>
-            <plain>Спасенного Тобой.</plain>
+            <plain>РЎРїР°СЃРµРЅРЅРѕРіРѕ РўРѕР±РѕР№.</plain>
         </string>
     </verse>
 </psalm>

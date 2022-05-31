@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1849" name="Если ты друг мой призовешь" canon="false" text="" textRus="" music="">
+<psalm number="1849" name="Р•СЃР»Рё С‚С‹ РґСЂСѓРі РјРѕР№ РїСЂРёР·РѕРІРµС€СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если ты, друг мой, призовешь</plain>
+            <plain>Р•СЃР»Рё С‚С‹, РґСЂСѓРі РјРѕР№, РїСЂРёР·РѕРІРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Христа, Если ты, друг мой, призовешь</plain>
+            <plain>РҐСЂРёСЃС‚Р°, Р•СЃР»Рё С‚С‹, РґСЂСѓРі РјРѕР№, РїСЂРёР·РѕРІРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Христа, Если ты, друг мой, призовешь</plain>
+            <plain>РҐСЂРёСЃС‚Р°, Р•СЃР»Рё С‚С‹, РґСЂСѓРі РјРѕР№, РїСЂРёР·РѕРІРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Христа, Он не откажет, нет.</plain>
+            <plain>РҐСЂРёСЃС‚Р°, РћРЅ РЅРµ РѕС‚РєР°Р¶РµС‚, РЅРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, Иисус лечит раны ваши,</plain>
+            <plain>РРёСЃСѓСЃ, РРёСЃСѓСЃ Р»РµС‡РёС‚ СЂР°РЅС‹ РІР°С€Рё,</plain>
         </string>
         <string>
-            <plain>Иисус, Иисус лечит души ваши,</plain>
+            <plain>РРёСЃСѓСЃ, РРёСЃСѓСЃ Р»РµС‡РёС‚ РґСѓС€Рё РІР°С€Рё,</plain>
         </string>
         <string>
-            <plain>Иисус, Иисус, любит вас</plain>
+            <plain>РРёСЃСѓСЃ, РРёСЃСѓСЃ, Р»СЋР±РёС‚ РІР°СЃ</plain>
         </string>
         <string>
-            <plain>Он сильно, Он вам даст покой!</plain>
+            <plain>РћРЅ СЃРёР»СЊРЅРѕ, РћРЅ РІР°Рј РґР°СЃС‚ РїРѕРєРѕР№!</plain>
         </string>
     </chorus>
 </psalm>

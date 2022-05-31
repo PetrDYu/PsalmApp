@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="11" name="Спаситель говори нам" canon="false" text="" textRus="" music="">
+<psalm number="11" name="РЎРїР°СЃРёС‚РµР»СЊ РіРѕРІРѕСЂРё РЅР°Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Спаситель, говори нам</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РіРѕРІРѕСЂРё РЅР°Рј</plain>
         </string>
         <string>
-            <plain>Везде во всякий час</plain>
+            <plain>Р’РµР·РґРµ РІРѕ РІСЃСЏРєРёР№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Слова любви и силы:</plain>
+            <plain>РЎР»РѕРІР° Р»СЋР±РІРё Рё СЃРёР»С‹:</plain>
         </string>
         <string>
-            <plain>"Я не оставлю вас!"</plain>
+            <plain>"РЇ РЅРµ РѕСЃС‚Р°РІР»СЋ РІР°СЃ!"</plain>
         </string>
         <string>
-            <plain>Пошли Ты нам влеченье</plain>
+            <plain>РџРѕС€Р»Рё РўС‹ РЅР°Рј РІР»РµС‡РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Твоим словам внимать,</plain>
+            <plain>РўРІРѕРёРј СЃР»РѕРІР°Рј РІРЅРёРјР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Наполни сердце пеньем,</plain>
+            <plain>РќР°РїРѕР»РЅРё СЃРµСЂРґС†Рµ РїРµРЅСЊРµРј,</plain>
         </string>
         <string>
-            <plain>В Тебе дай ликовать.</plain>
+            <plain>Р’ РўРµР±Рµ РґР°Р№ Р»РёРєРѕРІР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Спаситель, говори нам</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РіРѕРІРѕСЂРё РЅР°Рј</plain>
         </string>
         <string>
-            <plain>Слова любви святой,</plain>
+            <plain>РЎР»РѕРІР° Р»СЋР±РІРё СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Что мы непобедимы,</plain>
+            <plain>Р§С‚Рѕ РјС‹ РЅРµРїРѕР±РµРґРёРјС‹,</plain>
         </string>
         <string>
-            <plain>Когда живем с Тобой.</plain>
+            <plain>РљРѕРіРґР° Р¶РёРІРµРј СЃ РўРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Спаситель, чтобы в душах</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, С‡С‚РѕР±С‹ РІ РґСѓС€Р°С…</plain>
         </string>
         <string>
-            <plain>Луч веры не погас,</plain>
+            <plain>Р›СѓС‡ РІРµСЂС‹ РЅРµ РїРѕРіР°СЃ,</plain>
         </string>
         <string>
-            <plain>Твои слова дай слышать:</plain>
+            <plain>РўРІРѕРё СЃР»РѕРІР° РґР°Р№ СЃР»С‹С€Р°С‚СЊ:</plain>
         </string>
         <string>
-            <plain>"Я не оставлю вас!"</plain>
+            <plain>"РЇ РЅРµ РѕСЃС‚Р°РІР»СЋ РІР°СЃ!"</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Спаситель, говори нам,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РіРѕРІРѕСЂРё РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Открой щедрот ключи,</plain>
+            <plain>РћС‚РєСЂРѕР№ С‰РµРґСЂРѕС‚ РєР»СЋС‡Рё,</plain>
         </string>
         <string>
-            <plain>Наполни счастья гимном,</plain>
+            <plain>РќР°РїРѕР»РЅРё СЃС‡Р°СЃС‚СЊСЏ РіРёРјРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>Молиться нас учи.</plain>
+            <plain>РњРѕР»РёС‚СЊСЃСЏ РЅР°СЃ СѓС‡Рё.</plain>
         </string>
         <string>
-            <plain>Дай нам себя всецело</plain>
+            <plain>Р”Р°Р№ РЅР°Рј СЃРµР±СЏ РІСЃРµС†РµР»Рѕ</plain>
         </string>
         <string>
-            <plain>Тебе отдать любя,</plain>
+            <plain>РўРµР±Рµ РѕС‚РґР°С‚СЊ Р»СЋР±СЏ,</plain>
         </string>
         <string>
-            <plain>Твое здесь делать дело</plain>
+            <plain>РўРІРѕРµ Р·РґРµСЃСЊ РґРµР»Р°С‚СЊ РґРµР»Рѕ</plain>
         </string>
         <string>
-            <plain>И ждать с небес Тебя.</plain>
+            <plain>Р Р¶РґР°С‚СЊ СЃ РЅРµР±РµСЃ РўРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Спаситель, говори нам,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РіРѕРІРѕСЂРё РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Завет нам открывай,</plain>
+            <plain>Р—Р°РІРµС‚ РЅР°Рј РѕС‚РєСЂС‹РІР°Р№,</plain>
         </string>
         <string>
-            <plain>Являй причин причину,</plain>
+            <plain>РЇРІР»СЏР№ РїСЂРёС‡РёРЅ РїСЂРёС‡РёРЅСѓ,</plain>
         </string>
         <string>
-            <plain>К служенью силы дай.</plain>
+            <plain>Рљ СЃР»СѓР¶РµРЅСЊСЋ СЃРёР»С‹ РґР°Р№.</plain>
         </string>
         <string>
-            <plain>Нет и мире лучшей доли,</plain>
+            <plain>РќРµС‚ Рё РјРёСЂРµ Р»СѓС‡С€РµР№ РґРѕР»Рё,</plain>
         </string>
         <string>
-            <plain>Как жить всегда с Тобой,</plain>
+            <plain>РљР°Рє Р¶РёС‚СЊ РІСЃРµРіРґР° СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Творить Твою лишь волю</plain>
+            <plain>РўРІРѕСЂРёС‚СЊ РўРІРѕСЋ Р»РёС€СЊ РІРѕР»СЋ</plain>
         </string>
         <string>
-            <plain>И в Твой войти покой.</plain>
+            <plain>Р РІ РўРІРѕР№ РІРѕР№С‚Рё РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

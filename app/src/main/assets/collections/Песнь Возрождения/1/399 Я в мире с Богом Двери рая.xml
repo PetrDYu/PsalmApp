@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="399" name="Я в мире с Богом Двери рая" canon="false" text="" textRus="" music="">
+<psalm number="399" name="РЇ РІ РјРёСЂРµ СЃ Р‘РѕРіРѕРј Р”РІРµСЂРё СЂР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я в мире с Богом! – Двери рая</plain>
+            <plain>РЇ РІ РјРёСЂРµ СЃ Р‘РѕРіРѕРј! вЂ“ Р”РІРµСЂРё СЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Он мне отверз, как брату брат;</plain>
+            <plain>РћРЅ РјРЅРµ РѕС‚РІРµСЂР·, РєР°Рє Р±СЂР°С‚Сѓ Р±СЂР°С‚;</plain>
         </string>
         <string>
-            <plain>О, как безмерно я богат,</plain>
+            <plain>Рћ, РєР°Рє Р±РµР·РјРµСЂРЅРѕ СЏ Р±РѕРіР°С‚,</plain>
         </string>
         <string>
-            <plain>Его прощеньем обладая!</plain>
+            <plain>Р•РіРѕ РїСЂРѕС‰РµРЅСЊРµРј РѕР±Р»Р°РґР°СЏ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Моя душа нашла покой,</plain>
+            <plain>РњРѕСЏ РґСѓС€Р° РЅР°С€Р»Р° РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Его мне дал Спаситель мой.</plain>
+            <plain>Р•РіРѕ РјРЅРµ РґР°Р» РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Я в мире с Ним!</plain>
+            <plain>РЇ РІ РјРёСЂРµ СЃ РќРёРј!</plain>
         </string>
         <string>
-            <plain>Я в мире с Ним!</plain>
+            <plain>РЇ РІ РјРёСЂРµ СЃ РќРёРј!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Не давит сердце мне тоскою,</plain>
+            <plain>РќРµ РґР°РІРёС‚ СЃРµСЂРґС†Рµ РјРЅРµ С‚РѕСЃРєРѕСЋ,</plain>
         </string>
         <string>
-            <plain>И верю я, что для меня</plain>
+            <plain>Р РІРµСЂСЋ СЏ, С‡С‚Рѕ РґР»СЏ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Есть место там в чертогах дня,</plain>
+            <plain>Р•СЃС‚СЊ РјРµСЃС‚Рѕ С‚Р°Рј РІ С‡РµСЂС‚РѕРіР°С… РґРЅСЏ,</plain>
         </string>
         <string>
-            <plain>В стране блаженной за рекою.</plain>
+            <plain>Р’ СЃС‚СЂР°РЅРµ Р±Р»Р°Р¶РµРЅРЅРѕР№ Р·Р° СЂРµРєРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я в мире с Богом! Он со мною</plain>
+            <plain>РЇ РІ РјРёСЂРµ СЃ Р‘РѕРіРѕРј! РћРЅ СЃРѕ РјРЅРѕСЋ</plain>
         </string>
         <string>
-            <plain>Везде, на всех путях моих,</plain>
+            <plain>Р’РµР·РґРµ, РЅР° РІСЃРµС… РїСѓС‚СЏС… РјРѕРёС…,</plain>
         </string>
         <string>
-            <plain>В тревогах, горестях земных,</plain>
+            <plain>Р’ С‚СЂРµРІРѕРіР°С…, РіРѕСЂРµСЃС‚СЏС… Р·РµРјРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>В борьбе с неправдой и нуждою.</plain>
+            <plain>Р’ Р±РѕСЂСЊР±Рµ СЃ РЅРµРїСЂР°РІРґРѕР№ Рё РЅСѓР¶РґРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Как в счастье, так и в тяжкой доле</plain>
+            <plain>РљР°Рє РІ СЃС‡Р°СЃС‚СЊРµ, С‚Р°Рє Рё РІ С‚СЏР¶РєРѕР№ РґРѕР»Рµ</plain>
         </string>
         <string>
-            <plain>Всегда твердят мои уста:</plain>
+            <plain>Р’СЃРµРіРґР° С‚РІРµСЂРґСЏС‚ РјРѕРё СѓСЃС‚Р°:</plain>
         </string>
         <string>
-            <plain>"Пусть воля Господа Христа</plain>
+            <plain>"РџСѓСЃС‚СЊ РІРѕР»СЏ Р“РѕСЃРїРѕРґР° РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Моею вечно будет волей!"</plain>
+            <plain>РњРѕРµСЋ РІРµС‡РЅРѕ Р±СѓРґРµС‚ РІРѕР»РµР№!"</plain>
         </string>
     </verse>
 </psalm>

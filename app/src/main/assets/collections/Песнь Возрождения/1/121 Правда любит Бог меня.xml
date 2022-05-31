@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="121" name="Правда любит Бог меня" canon="false" text="" textRus="" music="">
+<psalm number="121" name="РџСЂР°РІРґР° Р»СЋР±РёС‚ Р‘РѕРі РјРµРЅСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Правда, любит Бог меня:</plain>
+            <plain>РџСЂР°РІРґР°, Р»СЋР±РёС‚ Р‘РѕРі РјРµРЅСЏ:</plain>
         </string>
         <string>
-            <plain>Дар спасенья Он мне дал;</plain>
+            <plain>Р”Р°СЂ СЃРїР°СЃРµРЅСЊСЏ РћРЅ РјРЅРµ РґР°Р»;</plain>
         </string>
         <string>
-            <plain>В тьме ночной иль в свете дня</plain>
+            <plain>Р’ С‚СЊРјРµ РЅРѕС‡РЅРѕР№ РёР»СЊ РІ СЃРІРµС‚Рµ РґРЅСЏ</plain>
         </string>
         <string>
-            <plain>Быть со мной Он обещал.</plain>
+            <plain>Р‘С‹С‚СЊ СЃРѕ РјРЅРѕР№ РћРЅ РѕР±РµС‰Р°Р».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дар спасенья Он мне дал.</plain>
+            <plain>Р”Р°СЂ СЃРїР°СЃРµРЅСЊСЏ РћРЅ РјРЅРµ РґР°Р».</plain>
         </string>
         <string>
-            <plain>Дар спасенья Он мне дал.</plain>
+            <plain>Р”Р°СЂ СЃРїР°СЃРµРЅСЊСЏ РћРЅ РјРЅРµ РґР°Р».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Правда, любит Бог меня:</plain>
+            <plain>РџСЂР°РІРґР°, Р»СЋР±РёС‚ Р‘РѕРі РјРµРЅСЏ:</plain>
         </string>
         <string>
-            <plain>Если слышит скорби стон,</plain>
+            <plain>Р•СЃР»Рё СЃР»С‹С€РёС‚ СЃРєРѕСЂР±Рё СЃС‚РѕРЅ,</plain>
         </string>
         <string>
-            <plain>Надо мной главу склоня,</plain>
+            <plain>РќР°РґРѕ РјРЅРѕР№ РіР»Р°РІСѓ СЃРєР»РѕРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Утешает сердце Он.</plain>
+            <plain>РЈС‚РµС€Р°РµС‚ СЃРµСЂРґС†Рµ РћРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Правда, любит Бог меня:</plain>
+            <plain>РџСЂР°РІРґР°, Р»СЋР±РёС‚ Р‘РѕРі РјРµРЅСЏ:</plain>
         </string>
         <string>
-            <plain>В тяжком жизненном бою</plain>
+            <plain>Р’ С‚СЏР¶РєРѕРј Р¶РёР·РЅРµРЅРЅРѕРј Р±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Вражьи стрелы отстраня,</plain>
+            <plain>Р’СЂР°Р¶СЊРё СЃС‚СЂРµР»С‹ РѕС‚СЃС‚СЂР°РЅСЏ,</plain>
         </string>
         <string>
-            <plain>Он дает мне мощь Свою.</plain>
+            <plain>РћРЅ РґР°РµС‚ РјРЅРµ РјРѕС‰СЊ РЎРІРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Правда, любит Бог меня:</plain>
+            <plain>РџСЂР°РІРґР°, Р»СЋР±РёС‚ Р‘РѕРі РјРµРЅСЏ:</plain>
         </string>
         <string>
-            <plain>Учит Он добру без слов,</plain>
+            <plain>РЈС‡РёС‚ РћРЅ РґРѕР±СЂСѓ Р±РµР· СЃР»РѕРІ,</plain>
         </string>
         <string>
-            <plain>И, в себе порок казня,</plain>
+            <plain>Р, РІ СЃРµР±Рµ РїРѕСЂРѕРє РєР°Р·РЅСЏ,</plain>
         </string>
         <string>
-            <plain>Слушать я Его готов.</plain>
+            <plain>РЎР»СѓС€Р°С‚СЊ СЏ Р•РіРѕ РіРѕС‚РѕРІ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Правда, любит Бог меня:</plain>
+            <plain>РџСЂР°РІРґР°, Р»СЋР±РёС‚ Р‘РѕРі РјРµРЅСЏ:</plain>
         </string>
         <string>
-            <plain>И хочу я одного:</plain>
+            <plain>Р С…РѕС‡Сѓ СЏ РѕРґРЅРѕРіРѕ:</plain>
         </string>
         <string>
-            <plain>Слово истины храня,</plain>
+            <plain>РЎР»РѕРІРѕ РёСЃС‚РёРЅС‹ С…СЂР°РЅСЏ,</plain>
         </string>
         <string>
-            <plain>Без конца любить Его.</plain>
+            <plain>Р‘РµР· РєРѕРЅС†Р° Р»СЋР±РёС‚СЊ Р•РіРѕ.</plain>
         </string>
     </verse>
 </psalm>

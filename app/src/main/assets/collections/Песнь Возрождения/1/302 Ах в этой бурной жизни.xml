@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="302" name="Ах в этой бурной жизни" canon="false" text="" textRus="" music="">
+<psalm number="302" name="РђС… РІ СЌС‚РѕР№ Р±СѓСЂРЅРѕР№ Р¶РёР·РЅРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ах, в этой бурной жизни</plain>
+            <plain>РђС…, РІ СЌС‚РѕР№ Р±СѓСЂРЅРѕР№ Р¶РёР·РЅРё</plain>
         </string>
         <string>
-            <plain>Кто сердцу даст покой,</plain>
+            <plain>РљС‚Рѕ СЃРµСЂРґС†Сѓ РґР°СЃС‚ РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Кто жаждущих напоит</plain>
+            <plain>РљС‚Рѕ Р¶Р°Р¶РґСѓС‰РёС… РЅР°РїРѕРёС‚</plain>
         </string>
         <string>
-            <plain>Живительной водой?</plain>
+            <plain>Р–РёРІРёС‚РµР»СЊРЅРѕР№ РІРѕРґРѕР№?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Христос Лишь Один,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ Р›РёС€СЊ РћРґРёРЅ,</plain>
         </string>
         <string>
-            <plain>Христос лишь Один,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ Р»РёС€СЊ РћРґРёРЅ,</plain>
         </string>
         <string>
-            <plain>Христос лишь один</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ Р»РёС€СЊ РѕРґРёРЅ</plain>
         </string>
         <string>
-            <plain>Тебя утешит навсегда.</plain>
+            <plain>РўРµР±СЏ СѓС‚РµС€РёС‚ РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я скорбью удрученный,</plain>
+            <plain>РЇ СЃРєРѕСЂР±СЊСЋ СѓРґСЂСѓС‡РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Со всех сторон враги,</plain>
+            <plain>РЎРѕ РІСЃРµС… СЃС‚РѕСЂРѕРЅ РІСЂР°РіРё,</plain>
         </string>
         <string>
-            <plain>Кто защитит, утешит</plain>
+            <plain>РљС‚Рѕ Р·Р°С‰РёС‚РёС‚, СѓС‚РµС€РёС‚</plain>
         </string>
         <string>
-            <plain>На жизненном пути?</plain>
+            <plain>РќР° Р¶РёР·РЅРµРЅРЅРѕРј РїСѓС‚Рё?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, грех меня терзает,</plain>
+            <plain>Рћ, РіСЂРµС… РјРµРЅСЏ С‚РµСЂР·Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Страшусь я пред судом;</plain>
+            <plain>РЎС‚СЂР°С€СѓСЃСЊ СЏ РїСЂРµРґ СЃСѓРґРѕРј;</plain>
         </string>
         <string>
-            <plain>Не знаю избавленье</plain>
+            <plain>РќРµ Р·РЅР°СЋ РёР·Р±Р°РІР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Найти мне где и в ком.</plain>
+            <plain>РќР°Р№С‚Рё РјРЅРµ РіРґРµ Рё РІ РєРѕРј.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>В Христе лишь одном,</plain>
+            <plain>Р’ РҐСЂРёСЃС‚Рµ Р»РёС€СЊ РѕРґРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>В Христе лишь одном!</plain>
+            <plain>Р’ РҐСЂРёСЃС‚Рµ Р»РёС€СЊ РѕРґРЅРѕРј!</plain>
         </string>
         <string>
-            <plain>В Христе лишь одном,</plain>
+            <plain>Р’ РҐСЂРёСЃС‚Рµ Р»РёС€СЊ РѕРґРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>Мой друг, спасенье ты найдешь.</plain>
+            <plain>РњРѕР№ РґСЂСѓРі, СЃРїР°СЃРµРЅСЊРµ С‚С‹ РЅР°Р№РґРµС€СЊ.</plain>
         </string>
     </chorus>
 </psalm>

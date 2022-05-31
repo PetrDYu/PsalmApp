@@ -1,83 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1029" name="Слышал я о стране" canon="false" text="" textRus="" music="">
+<psalm number="1029" name="РЎР»С‹С€Р°Р» СЏ Рѕ СЃС‚СЂР°РЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слышал я о стране,</plain>
+            <plain>РЎР»С‹С€Р°Р» СЏ Рѕ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>светлой той стороне.</plain>
+            <plain>СЃРІРµС‚Р»РѕР№ С‚РѕР№ СЃС‚РѕСЂРѕРЅРµ.</plain>
         </string>
         <string>
-            <plain>Слово Божье о ней говорит.</plain>
+            <plain>РЎР»РѕРІРѕ Р‘РѕР¶СЊРµ Рѕ РЅРµР№ РіРѕРІРѕСЂРёС‚.</plain>
         </string>
         <string>
-            <plain>От забот всех вдали</plain>
+            <plain>РћС‚ Р·Р°Р±РѕС‚ РІСЃРµС… РІРґР°Р»Рё</plain>
         </string>
         <string>
-            <plain>там не будет тоски.</plain>
+            <plain>С‚Р°Рј РЅРµ Р±СѓРґРµС‚ С‚РѕСЃРєРё.</plain>
         </string>
         <string>
-            <plain>Все новое Бог сотворит.</plain>
+            <plain>Р’СЃРµ РЅРѕРІРѕРµ Р‘РѕРі СЃРѕС‚РІРѕСЂРёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>До небесной страны.</plain>
+            <plain>Р”Рѕ РЅРµР±РµСЃРЅРѕР№ СЃС‚СЂР°РЅС‹.</plain>
         </string>
         <string>
-            <plain>Светлой той стороны</plain>
+            <plain>РЎРІРµС‚Р»РѕР№ С‚РѕР№ СЃС‚РѕСЂРѕРЅС‹</plain>
         </string>
         <string>
-            <plain>Голос бури земной не дойдет.</plain>
+            <plain>Р“РѕР»РѕСЃ Р±СѓСЂРё Р·РµРјРЅРѕР№ РЅРµ РґРѕР№РґРµС‚.</plain>
         </string>
         <string>
-            <plain>Украшен тот град,</plain>
+            <plain>РЈРєСЂР°С€РµРЅ С‚РѕС‚ РіСЂР°Рґ,</plain>
         </string>
         <string>
-            <plain>Ждет он всех Божьих чад.</plain>
+            <plain>Р–РґРµС‚ РѕРЅ РІСЃРµС… Р‘РѕР¶СЊРёС… С‡Р°Рґ.</plain>
         </string>
         <string>
-            <plain>Солнца там никогда не зайдет.</plain>
+            <plain>РЎРѕР»РЅС†Р° С‚Р°Рј РЅРёРєРѕРіРґР° РЅРµ Р·Р°Р№РґРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Древо жизни цветет,</plain>
+            <plain>Р”СЂРµРІРѕ Р¶РёР·РЅРё С†РІРµС‚РµС‚,</plain>
         </string>
         <string>
-            <plain>плод целебный несет,</plain>
+            <plain>РїР»РѕРґ С†РµР»РµР±РЅС‹Р№ РЅРµСЃРµС‚,</plain>
         </string>
         <string>
-            <plain>И живая река там бежит.</plain>
+            <plain>Р Р¶РёРІР°СЏ СЂРµРєР° С‚Р°Рј Р±РµР¶РёС‚.</plain>
         </string>
         <string>
-            <plain>Голос арфы звучит,</plain>
+            <plain>Р“РѕР»РѕСЃ Р°СЂС„С‹ Р·РІСѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>песнь хвалы не молчит,</plain>
+            <plain>РїРµСЃРЅСЊ С…РІР°Р»С‹ РЅРµ РјРѕР»С‡РёС‚,</plain>
         </string>
         <string>
-            <plain>Все новое Бог сотворит.</plain>
+            <plain>Р’СЃРµ РЅРѕРІРѕРµ Р‘РѕРі СЃРѕС‚РІРѕСЂРёС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Одесную Отца</plain>
+            <plain>РћРґРµСЃРЅСѓСЋ РћС‚С†Р°</plain>
         </string>
         <string>
-            <plain>нам обитель дана,</plain>
+            <plain>РЅР°Рј РѕР±РёС‚РµР»СЊ РґР°РЅР°,</plain>
         </string>
         <string>
-            <plain>Бесконечная радость царит.</plain>
+            <plain>Р‘РµСЃРєРѕРЅРµС‡РЅР°СЏ СЂР°РґРѕСЃС‚СЊ С†Р°СЂРёС‚.</plain>
         </string>
         <string>
-            <plain>Там весна не пройдет,</plain>
+            <plain>РўР°Рј РІРµСЃРЅР° РЅРµ РїСЂРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>плач туда не войдет,</plain>
+            <plain>РїР»Р°С‡ С‚СѓРґР° РЅРµ РІРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Все новое Бог сотворит!</plain>
+            <plain>Р’СЃРµ РЅРѕРІРѕРµ Р‘РѕРі СЃРѕС‚РІРѕСЂРёС‚!</plain>
         </string>
     </verse>
 </psalm>

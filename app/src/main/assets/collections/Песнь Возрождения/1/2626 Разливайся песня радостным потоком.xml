@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2626" name="Разливайся песня радостным потоком" canon="false" text="" textRus="" music="">
+<psalm number="2626" name="Р Р°Р·Р»РёРІР°Р№СЃСЏ РїРµСЃРЅСЏ СЂР°РґРѕСЃС‚РЅС‹Рј РїРѕС‚РѕРєРѕРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Разливайся, песня,</plain>
+            <plain>Р Р°Р·Р»РёРІР°Р№СЃСЏ, РїРµСЃРЅСЏ,</plain>
         </string>
         <string>
-            <plain>радостным потоком</plain>
+            <plain>СЂР°РґРѕСЃС‚РЅС‹Рј РїРѕС‚РѕРєРѕРј</plain>
         </string>
         <string>
-            <plain>- О любви небесной</plain>
+            <plain>- Рћ Р»СЋР±РІРё РЅРµР±РµСЃРЅРѕР№</plain>
         </string>
         <string>
-            <plain>близким и далеким.</plain>
+            <plain>Р±Р»РёР·РєРёРј Рё РґР°Р»РµРєРёРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Кто Иисуса любит</plain>
+            <plain>РљС‚Рѕ РРёСЃСѓСЃР° Р»СЋР±РёС‚</plain>
         </string>
         <string>
-            <plain>и за Ним идет,</plain>
+            <plain>Рё Р·Р° РќРёРј РёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Тот на небе будет,</plain>
+            <plain>РўРѕС‚ РЅР° РЅРµР±Рµ Р±СѓРґРµС‚,</plain>
         </string>
         <string>
-            <plain>где Господь живет,</plain>
+            <plain>РіРґРµ Р“РѕСЃРїРѕРґСЊ Р¶РёРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Где Господь живет.</plain>
+            <plain>Р“РґРµ Р“РѕСЃРїРѕРґСЊ Р¶РёРІРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В плане Иисуса:</plain>
+            <plain>Р’ РїР»Р°РЅРµ РРёСЃСѓСЃР°:</plain>
         </string>
         <string>
-            <plain>грешникам спасены,</plain>
+            <plain>РіСЂРµС€РЅРёРєР°Рј СЃРїР°СЃРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Страшная Голгофа,</plain>
+            <plain>РЎС‚СЂР°С€РЅР°СЏ Р“РѕР»РіРѕС„Р°,</plain>
         </string>
         <string>
-            <plain>радость воскресенья.</plain>
+            <plain>СЂР°РґРѕСЃС‚СЊ РІРѕСЃРєСЂРµСЃРµРЅСЊСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жить Спаситель будет</plain>
+            <plain>Р–РёС‚СЊ РЎРїР°СЃРёС‚РµР»СЊ Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>в возрожденном сердце,</plain>
+            <plain>РІ РІРѕР·СЂРѕР¶РґРµРЅРЅРѕРј СЃРµСЂРґС†Рµ,</plain>
         </string>
         <string>
-            <plain>Славьте Бога, люди,</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ Р‘РѕРіР°, Р»СЋРґРё,</plain>
         </string>
         <string>
-            <plain>Он нас спас от смерти.</plain>
+            <plain>РћРЅ РЅР°СЃ СЃРїР°СЃ РѕС‚ СЃРјРµСЂС‚Рё.</plain>
         </string>
     </verse>
 </psalm>

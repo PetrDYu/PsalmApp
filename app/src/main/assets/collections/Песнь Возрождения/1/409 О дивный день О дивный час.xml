@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="409" name="О дивный день О дивный час" canon="false" text="" textRus="" music="">
+<psalm number="409" name="Рћ РґРёРІРЅС‹Р№ РґРµРЅСЊ Рћ РґРёРІРЅС‹Р№ С‡Р°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О дивный день! О дивный час,</plain>
+            <plain>Рћ РґРёРІРЅС‹Р№ РґРµРЅСЊ! Рћ РґРёРІРЅС‹Р№ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Когда Спаситель в первый раз</plain>
+            <plain>РљРѕРіРґР° РЎРїР°СЃРёС‚РµР»СЊ РІ РїРµСЂРІС‹Р№ СЂР°Р·</plain>
         </string>
         <string>
-            <plain>С душой моей в завет вступил</plain>
+            <plain>РЎ РґСѓС€РѕР№ РјРѕРµР№ РІ Р·Р°РІРµС‚ РІСЃС‚СѓРїРёР»</plain>
         </string>
         <string>
-            <plain>И мир мне в сердце подарил.</plain>
+            <plain>Р РјРёСЂ РјРЅРµ РІ СЃРµСЂРґС†Рµ РїРѕРґР°СЂРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дивный день, дивный день,</plain>
+            <plain>Р”РёРІРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил!</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР»!</plain>
         </string>
         <string>
-            <plain>С тех пор Христос всегда со мной</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ РҐСЂРёСЃС‚РѕСЃ РІСЃРµРіРґР° СЃРѕ РјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>И водит Сам меня рукой.</plain>
+            <plain>Р РІРѕРґРёС‚ РЎР°Рј РјРµРЅСЏ СЂСѓРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Дивный день, дивный день,</plain>
+            <plain>Р”РёРІРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил.</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О дивный день, когда Христос</plain>
+            <plain>Рћ РґРёРІРЅС‹Р№ РґРµРЅСЊ, РєРѕРіРґР° РҐСЂРёСЃС‚РѕСЃ</plain>
         </string>
         <string>
-            <plain>Меня нашел в долине слез,</plain>
+            <plain>РњРµРЅСЏ РЅР°С€РµР» РІ РґРѕР»РёРЅРµ СЃР»РµР·,</plain>
         </string>
         <string>
-            <plain>Он мой теперь и я Его,</plain>
+            <plain>РћРЅ РјРѕР№ С‚РµРїРµСЂСЊ Рё СЏ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>И не страшусь я ничего.</plain>
+            <plain>Р РЅРµ СЃС‚СЂР°С€СѓСЃСЊ СЏ РЅРёС‡РµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О дивный день, когда простер</plain>
+            <plain>Рћ РґРёРІРЅС‹Р№ РґРµРЅСЊ, РєРѕРіРґР° РїСЂРѕСЃС‚РµСЂ</plain>
         </string>
         <string>
-            <plain>Ко мне Он руку, я прозрел,</plain>
+            <plain>РљРѕ РјРЅРµ РћРЅ СЂСѓРєСѓ, СЏ РїСЂРѕР·СЂРµР»,</plain>
         </string>
         <string>
-            <plain>Когда Христа увидел взор</plain>
+            <plain>РљРѕРіРґР° РҐСЂРёСЃС‚Р° СѓРІРёРґРµР» РІР·РѕСЂ</plain>
         </string>
         <string>
-            <plain>И дух любовь Его воспел.</plain>
+            <plain>Р РґСѓС… Р»СЋР±РѕРІСЊ Р•РіРѕ РІРѕСЃРїРµР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О дивный день, когда душой</plain>
+            <plain>Рћ РґРёРІРЅС‹Р№ РґРµРЅСЊ, РєРѕРіРґР° РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>Я к жизни радостной восстал,</plain>
+            <plain>РЇ Рє Р¶РёР·РЅРё СЂР°РґРѕСЃС‚РЅРѕР№ РІРѕСЃСЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>Когда и счастье и покой</plain>
+            <plain>РљРѕРіРґР° Рё СЃС‡Р°СЃС‚СЊРµ Рё РїРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>Спаситель в душу мне послал.</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РІ РґСѓС€Сѓ РјРЅРµ РїРѕСЃР»Р°Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О дивный день, когда душой</plain>
+            <plain>Рћ РґРёРІРЅС‹Р№ РґРµРЅСЊ, РєРѕРіРґР° РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>Поверил я в любовь Христа</plain>
+            <plain>РџРѕРІРµСЂРёР» СЏ РІ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>И был омыт крови струей,</plain>
+            <plain>Р Р±С‹Р» РѕРјС‹С‚ РєСЂРѕРІРё СЃС‚СЂСѓРµР№,</plain>
         </string>
         <string>
-            <plain>Стекавшей некогда с креста.</plain>
+            <plain>РЎС‚РµРєР°РІС€РµР№ РЅРµРєРѕРіРґР° СЃ РєСЂРµСЃС‚Р°.</plain>
         </string>
     </verse>
 </psalm>

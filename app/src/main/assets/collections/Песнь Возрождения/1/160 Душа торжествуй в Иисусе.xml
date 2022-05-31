@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="160" name="Душа торжествуй в Иисусе" canon="false" text="" textRus="" music="">
+<psalm number="160" name="Р”СѓС€Р° С‚РѕСЂР¶РµСЃС‚РІСѓР№ РІ РРёСЃСѓСЃРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Душа, торжествуй в Иисусе,</plain>
+            <plain>Р”СѓС€Р°, С‚РѕСЂР¶РµСЃС‚РІСѓР№ РІ РРёСЃСѓСЃРµ,</plain>
         </string>
         <string>
-            <plain>Грехи твои смыл Он с тебя;</plain>
+            <plain>Р“СЂРµС…Рё С‚РІРѕРё СЃРјС‹Р» РћРЅ СЃ С‚РµР±СЏ;</plain>
         </string>
         <string>
-            <plain>Любовью тебя окружает,</plain>
+            <plain>Р›СЋР±РѕРІСЊСЋ С‚РµР±СЏ РѕРєСЂСѓР¶Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Добром осыпает, любя.</plain>
+            <plain>Р”РѕР±СЂРѕРј РѕСЃС‹РїР°РµС‚, Р»СЋР±СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Как счастлив я быть с Иисусом!</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ Р±С‹С‚СЊ СЃ РРёСЃСѓСЃРѕРј!</plain>
         </string>
         <string>
-            <plain>Я отдых нашел у Него;</plain>
+            <plain>РЇ РѕС‚РґС‹С… РЅР°С€РµР» Сѓ РќРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>Он дал мне спокойствие, радость,</plain>
+            <plain>РћРЅ РґР°Р» РјРЅРµ СЃРїРѕРєРѕР№СЃС‚РІРёРµ, СЂР°РґРѕСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Участие в Царстве Его.</plain>
+            <plain>РЈС‡Р°СЃС‚РёРµ РІ Р¦Р°СЂСЃС‚РІРµ Р•РіРѕ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как счастлив я быть с Иисусом!</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ Р±С‹С‚СЊ СЃ РРёСЃСѓСЃРѕРј!</plain>
         </string>
         <string>
-            <plain>Святого Он Духа мне дал</plain>
+            <plain>РЎРІСЏС‚РѕРіРѕ РћРЅ Р”СѓС…Р° РјРЅРµ РґР°Р»</plain>
         </string>
         <string>
-            <plain>Как сыну, наследнику царства,</plain>
+            <plain>РљР°Рє СЃС‹РЅСѓ, РЅР°СЃР»РµРґРЅРёРєСѓ С†Р°СЂСЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Которое Он обещал.</plain>
+            <plain>РљРѕС‚РѕСЂРѕРµ РћРЅ РѕР±РµС‰Р°Р».</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Как счастлив я быть с Иисусом!</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ Р±С‹С‚СЊ СЃ РРёСЃСѓСЃРѕРј!</plain>
         </string>
         <string>
-            <plain>Я бремя сложил у креста,</plain>
+            <plain>РЇ Р±СЂРµРјСЏ СЃР»РѕР¶РёР» Сѓ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>И мир я нашел и блаженство</plain>
+            <plain>Р РјРёСЂ СЏ РЅР°С€РµР» Рё Р±Р»Р°Р¶РµРЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>У ног Иисуса Христа.</plain>
+            <plain>РЈ РЅРѕРі РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Как счастлив я быть с Иисусом!</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ Р±С‹С‚СЊ СЃ РРёСЃСѓСЃРѕРј!</plain>
         </string>
         <string>
-            <plain>Хотя бы мой путь был тернист,</plain>
+            <plain>РҐРѕС‚СЏ Р±С‹ РјРѕР№ РїСѓС‚СЊ Р±С‹Р» С‚РµСЂРЅРёСЃС‚,</plain>
         </string>
         <string>
-            <plain>Меня доведет Он до цели,</plain>
+            <plain>РњРµРЅСЏ РґРѕРІРµРґРµС‚ РћРЅ РґРѕ С†РµР»Рё,</plain>
         </string>
         <string>
-            <plain>И стану душою я чист.</plain>
+            <plain>Р СЃС‚Р°РЅСѓ РґСѓС€РѕСЋ СЏ С‡РёСЃС‚.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Как счастлив я быть с Иисусом!</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ Р±С‹С‚СЊ СЃ РРёСЃСѓСЃРѕРј!</plain>
         </string>
         <string>
-            <plain>Всегда быть в общении с Ним,</plain>
+            <plain>Р’СЃРµРіРґР° Р±С‹С‚СЊ РІ РѕР±С‰РµРЅРёРё СЃ РќРёРј,</plain>
         </string>
         <string>
-            <plain>Богатством Его наслаждаясь</plain>
+            <plain>Р‘РѕРіР°С‚СЃС‚РІРѕРј Р•РіРѕ РЅР°СЃР»Р°Р¶РґР°СЏСЃСЊ</plain>
         </string>
         <string>
-            <plain>И радуясь Им лишь одним.</plain>
+            <plain>Р СЂР°РґСѓСЏСЃСЊ РРј Р»РёС€СЊ РѕРґРЅРёРј.</plain>
         </string>
     </chorus>
 </psalm>

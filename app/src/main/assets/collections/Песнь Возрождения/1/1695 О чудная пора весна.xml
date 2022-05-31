@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1695" name="О чудная пора весна" canon="false" text="" textRus="" music="">
+<psalm number="1695" name="Рћ С‡СѓРґРЅР°СЏ РїРѕСЂР° РІРµСЃРЅР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О чудная пора весн,</plain>
+            <plain>Рћ С‡СѓРґРЅР°СЏ РїРѕСЂР° РІРµСЃРЅ,</plain>
         </string>
         <string>
-            <plain>Как солнце заблестит,</plain>
+            <plain>РљР°Рє СЃРѕР»РЅС†Рµ Р·Р°Р±Р»РµСЃС‚РёС‚,</plain>
         </string>
         <string>
-            <plain>Природа, в жизни встав от сна,</plain>
+            <plain>РџСЂРёСЂРѕРґР°, РІ Р¶РёР·РЅРё РІСЃС‚Р°РІ РѕС‚ СЃРЅР°,</plain>
         </string>
         <string>
-            <plain>Всем сердце веселит.</plain>
+            <plain>Р’СЃРµРј СЃРµСЂРґС†Рµ РІРµСЃРµР»РёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Юность ты моя.</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ С‚С‹ РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Жизни всей весна!</plain>
+            <plain>Р–РёР·РЅРё РІСЃРµР№ РІРµСЃРЅР°!</plain>
         </string>
         <string>
-            <plain>Расцвет всех сил и чувств святых</plain>
+            <plain>Р Р°СЃС†РІРµС‚ РІСЃРµС… СЃРёР» Рё С‡СѓРІСЃС‚РІ СЃРІСЏС‚С‹С…</plain>
         </string>
         <string>
-            <plain>- Для Господа.</plain>
+            <plain>- Р”Р»СЏ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Когда везде, в полях, лесах.</plain>
+            <plain>РљРѕРіРґР° РІРµР·РґРµ, РІ РїРѕР»СЏС…, Р»РµСЃР°С….</plain>
         </string>
         <string>
-            <plain>Все пышно расцветёт,</plain>
+            <plain>Р’СЃРµ РїС‹С€РЅРѕ СЂР°СЃС†РІРµС‚С‘С‚,</plain>
         </string>
         <string>
-            <plain>Хор пташек, взвившись к небесам.</plain>
+            <plain>РҐРѕСЂ РїС‚Р°С€РµРє, РІР·РІРёРІС€РёСЃСЊ Рє РЅРµР±РµСЃР°Рј.</plain>
         </string>
         <string>
-            <plain>Творцу свой гимн поёт.</plain>
+            <plain>РўРІРѕСЂС†Сѓ СЃРІРѕР№ РіРёРјРЅ РїРѕС‘С‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Да, есть пора расцвета сил</plain>
+            <plain>Р”Р°, РµСЃС‚СЊ РїРѕСЂР° СЂР°СЃС†РІРµС‚Р° СЃРёР»</plain>
         </string>
         <string>
-            <plain>Для сердца всех людей,</plain>
+            <plain>Р”Р»СЏ СЃРµСЂРґС†Р° РІСЃРµС… Р»СЋРґРµР№,</plain>
         </string>
         <string>
-            <plain>Блажен, кто Богу посвятил</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅ, РєС‚Рѕ Р‘РѕРіСѓ РїРѕСЃРІСЏС‚РёР»</plain>
         </string>
         <string>
-            <plain>Ее в любви своей.</plain>
+            <plain>Р•Рµ РІ Р»СЋР±РІРё СЃРІРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Мой друг, ведь юность - та пора -</plain>
+            <plain>РњРѕР№ РґСЂСѓРі, РІРµРґСЊ СЋРЅРѕСЃС‚СЊ - С‚Р° РїРѕСЂР° -</plain>
         </string>
         <string>
-            <plain>Весна всех дней твоих.</plain>
+            <plain>Р’РµСЃРЅР° РІСЃРµС… РґРЅРµР№ С‚РІРѕРёС….</plain>
         </string>
         <string>
-            <plain>Расцвет мечтаний золотых.</plain>
+            <plain>Р Р°СЃС†РІРµС‚ РјРµС‡С‚Р°РЅРёР№ Р·РѕР»РѕС‚С‹С….</plain>
         </string>
         <string>
-            <plain>Расцвет всех чувств святых.</plain>
+            <plain>Р Р°СЃС†РІРµС‚ РІСЃРµС… С‡СѓРІСЃС‚РІ СЃРІСЏС‚С‹С….</plain>
         </string>
     </verse>
 </psalm>

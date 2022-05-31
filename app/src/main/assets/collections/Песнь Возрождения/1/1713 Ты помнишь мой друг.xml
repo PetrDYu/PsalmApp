@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1713" name="Ты помнишь мой друг" canon="false" text="" textRus="" music="">
+<psalm number="1713" name="РўС‹ РїРѕРјРЅРёС€СЊ РјРѕР№ РґСЂСѓРі" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты помнишь, мой друг,</plain>
+            <plain>РўС‹ РїРѕРјРЅРёС€СЊ, РјРѕР№ РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Как все начиналось у нас с тобой,</plain>
+            <plain>РљР°Рє РІСЃРµ РЅР°С‡РёРЅР°Р»РѕСЃСЊ Сѓ РЅР°СЃ СЃ С‚РѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>И радости в играх, и гонки качелей скрипящих.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚Рё РІ РёРіСЂР°С…, Рё РіРѕРЅРєРё РєР°С‡РµР»РµР№ СЃРєСЂРёРїСЏС‰РёС….</plain>
         </string>
         <string>
-            <plain>И плач, детский плач, неудача</plain>
+            <plain>Р РїР»Р°С‡, РґРµС‚СЃРєРёР№ РїР»Р°С‡, РЅРµСѓРґР°С‡Р°</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дом мой - детства начало,</plain>
+            <plain>Р”РѕРј РјРѕР№ - РґРµС‚СЃС‚РІР° РЅР°С‡Р°Р»Рѕ,</plain>
         </string>
         <string>
-            <plain>Дом мой - где нет печали,</plain>
+            <plain>Р”РѕРј РјРѕР№ - РіРґРµ РЅРµС‚ РїРµС‡Р°Р»Рё,</plain>
         </string>
         <string>
-            <plain>Я спешу в этот светлый</plain>
+            <plain>РЇ СЃРїРµС€Сѓ РІ СЌС‚РѕС‚ СЃРІРµС‚Р»С‹Р№</plain>
         </string>
         <string>
-            <plain>Отчий дом.</plain>
+            <plain>РћС‚С‡РёР№ РґРѕРј.</plain>
         </string>
         <string>
-            <plain>Дом мой, так долго ждущий,</plain>
+            <plain>Р”РѕРј РјРѕР№, С‚Р°Рє РґРѕР»РіРѕ Р¶РґСѓС‰РёР№,</plain>
         </string>
         <string>
-            <plain>А я - к нему идущий...</plain>
+            <plain>Рђ СЏ - Рє РЅРµРјСѓ РёРґСѓС‰РёР№...</plain>
         </string>
         <string>
-            <plain>Вновь хочу возвратиться в</plain>
+            <plain>Р’РЅРѕРІСЊ С…РѕС‡Сѓ РІРѕР·РІСЂР°С‚РёС‚СЊСЃСЏ РІ</plain>
         </string>
         <string>
-            <plain>Отчий дом.</plain>
+            <plain>РћС‚С‡РёР№ РґРѕРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Но детство прошло так</plain>
+            <plain>РќРѕ РґРµС‚СЃС‚РІРѕ РїСЂРѕС€Р»Рѕ С‚Р°Рє</plain>
         </string>
         <string>
-            <plain>совсем незаметно для нас с тобой,</plain>
+            <plain>СЃРѕРІСЃРµРј РЅРµР·Р°РјРµС‚РЅРѕ РґР»СЏ РЅР°СЃ СЃ С‚РѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Как солнце садится и тает свеча,догорая,</plain>
+            <plain>РљР°Рє СЃРѕР»РЅС†Рµ СЃР°РґРёС‚СЃСЏ Рё С‚Р°РµС‚ СЃРІРµС‡Р°,РґРѕРіРѕСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Свой свет для других сохраняя.</plain>
+            <plain>РЎРІРѕР№ СЃРІРµС‚ РґР»СЏ РґСЂСѓРіРёС… СЃРѕС…СЂР°РЅСЏСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты помнишь, мой друг,</plain>
+            <plain>РўС‹ РїРѕРјРЅРёС€СЊ, РјРѕР№ РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Когда-то в Едеме, давным давно,</plain>
+            <plain>РљРѕРіРґР°-С‚Рѕ РІ Р•РґРµРјРµ, РґР°РІРЅС‹Рј РґР°РІРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Из отчего дома ушли, чтоб жизни учиться,</plain>
+            <plain>РР· РѕС‚С‡РµРіРѕ РґРѕРјР° СѓС€Р»Рё, С‡С‚РѕР± Р¶РёР·РЅРё СѓС‡РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Вот снова хотим возвратиться.</plain>
+            <plain>Р’РѕС‚ СЃРЅРѕРІР° С…РѕС‚РёРј РІРѕР·РІСЂР°С‚РёС‚СЊСЃСЏ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2149" name="Иисус я люблю Тебя" canon="false" text="" textRus="" music="">
+<psalm number="2149" name="РРёСЃСѓСЃ СЏ Р»СЋР±Р»СЋ РўРµР±СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисус, я люблю Тебя,</plain>
+            <plain>РРёСЃСѓСЃ, СЏ Р»СЋР±Р»СЋ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Я благодарю Тебя!</plain>
+            <plain>РЇ Р±Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Только Ты достоин</plain>
+            <plain>РўРѕР»СЊРєРѕ РўС‹ РґРѕСЃС‚РѕРёРЅ</plain>
         </string>
         <string>
-            <plain>песнь хвалы моей принять.</plain>
+            <plain>РїРµСЃРЅСЊ С…РІР°Р»С‹ РјРѕРµР№ РїСЂРёРЅСЏС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, я люблю Тебя,</plain>
+            <plain>РРёСЃСѓСЃ, СЏ Р»СЋР±Р»СЋ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Я благодарю Тебя!</plain>
+            <plain>РЇ Р±Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Только Ты достоин</plain>
+            <plain>РўРѕР»СЊРєРѕ РўС‹ РґРѕСЃС‚РѕРёРЅ</plain>
         </string>
         <string>
-            <plain>Песнь хвалы принять.</plain>
+            <plain>РџРµСЃРЅСЊ С…РІР°Р»С‹ РїСЂРёРЅСЏС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вся слава Тебе принадлежит!</plain>
+            <plain>Р’СЃСЏ СЃР»Р°РІР° РўРµР±Рµ РїСЂРёРЅР°РґР»РµР¶РёС‚!</plain>
         </string>
         <string>
-            <plain>Лишь Твой престол вовеки устоит!</plain>
+            <plain>Р›РёС€СЊ РўРІРѕР№ РїСЂРµСЃС‚РѕР» РІРѕРІРµРєРё СѓСЃС‚РѕРёС‚!</plain>
         </string>
         <string>
-            <plain>И, воздевая к небу руки, Тебя воспою,</plain>
+            <plain>Р, РІРѕР·РґРµРІР°СЏ Рє РЅРµР±Сѓ СЂСѓРєРё, РўРµР±СЏ РІРѕСЃРїРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Царь царей, Господь великий.</plain>
+            <plain>Р¦Р°СЂСЊ С†Р°СЂРµР№, Р“РѕСЃРїРѕРґСЊ РІРµР»РёРєРёР№.</plain>
         </string>
         <string>
-            <plain>Эммануил, Тебя люблю.</plain>
+            <plain>Р­РјРјР°РЅСѓРёР», РўРµР±СЏ Р»СЋР±Р»СЋ.</plain>
         </string>
     </verse>
 </psalm>

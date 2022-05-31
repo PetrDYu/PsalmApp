@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="817" name="Воспою любовь Христа" canon="false" text="" textRus="" music="">
+<psalm number="817" name="Р’РѕСЃРїРѕСЋ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Воспою любовь Христа!</plain>
+            <plain>Р’РѕСЃРїРѕСЋ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Умер Он от мук креста</plain>
+            <plain>РЈРјРµСЂ РћРЅ РѕС‚ РјСѓРє РєСЂРµСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>За тебя и за меня,</plain>
+            <plain>Р—Р° С‚РµР±СЏ Рё Р·Р° РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Всех нас, грешных, возлюбя.</plain>
+            <plain>Р’СЃРµС… РЅР°СЃ, РіСЂРµС€РЅС‹С…, РІРѕР·Р»СЋР±СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Воспою любовь Христа,</plain>
+            <plain>Р’РѕСЃРїРѕСЋ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Вознесут хвалу уста.</plain>
+            <plain>Р’РѕР·РЅРµСЃСѓС‚ С…РІР°Р»Сѓ СѓСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Умер Он, чтоб я мог жить,</plain>
+            <plain>РЈРјРµСЂ РћРЅ, С‡С‚РѕР± СЏ РјРѕРі Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>По Его путям ходить.</plain>
+            <plain>РџРѕ Р•РіРѕ РїСѓС‚СЏРј С…РѕРґРёС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Прежде слез моих за грех,</plain>
+            <plain>РџСЂРµР¶РґРµ СЃР»РµР· РјРѕРёС… Р·Р° РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>Плакал Он тогда за всех,</plain>
+            <plain>РџР»Р°РєР°Р» РћРЅ С‚РѕРіРґР° Р·Р° РІСЃРµС…,</plain>
         </string>
         <string>
-            <plain>Прежде чем молился я,-</plain>
+            <plain>РџСЂРµР¶РґРµ С‡РµРј РјРѕР»РёР»СЃСЏ СЏ,-</plain>
         </string>
         <string>
-            <plain>Он молился за меня.</plain>
+            <plain>РћРЅ РјРѕР»РёР»СЃСЏ Р·Р° РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Глубину Его любви</plain>
+            <plain>Р“Р»СѓР±РёРЅСѓ Р•РіРѕ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Не могу вполне понять:</plain>
+            <plain>РќРµ РјРѕРіСѓ РІРїРѕР»РЅРµ РїРѕРЅСЏС‚СЊ:</plain>
         </string>
         <string>
-            <plain>Как Он снял грехи мои</plain>
+            <plain>РљР°Рє РћРЅ СЃРЅСЏР» РіСЂРµС…Рё РјРѕРё</plain>
         </string>
         <string>
-            <plain>И дарует благодать?</plain>
+            <plain>Р РґР°СЂСѓРµС‚ Р±Р»Р°РіРѕРґР°С‚СЊ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Чем же я Ему воздам?</plain>
+            <plain>Р§РµРј Р¶Рµ СЏ Р•РјСѓ РІРѕР·РґР°Рј?</plain>
         </string>
         <string>
-            <plain>Ведь за грех мой Он страдал.</plain>
+            <plain>Р’РµРґСЊ Р·Р° РіСЂРµС… РјРѕР№ РћРЅ СЃС‚СЂР°РґР°Р».</plain>
         </string>
         <string>
-            <plain>О Господь! Возьми меня,</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґСЊ! Р’РѕР·СЊРјРё РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб я был Твоим всегда.</plain>
+            <plain>Р§С‚РѕР± СЏ Р±С‹Р» РўРІРѕРёРј РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
 </psalm>

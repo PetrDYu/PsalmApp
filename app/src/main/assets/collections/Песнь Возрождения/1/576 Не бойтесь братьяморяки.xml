@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="576" name="Не бойтесь братьяморяки" canon="false" text="" textRus="" music="">
+<psalm number="576" name="РќРµ Р±РѕР№С‚РµСЃСЊ Р±СЂР°С‚СЊСЏРјРѕСЂСЏРєРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не бойтесь, братья-моряки!</plain>
+            <plain>РќРµ Р±РѕР№С‚РµСЃСЊ, Р±СЂР°С‚СЊСЏ-РјРѕСЂСЏРєРё!</plain>
         </string>
         <string>
-            <plain>Хоть грозен бурный вал,</plain>
+            <plain>РҐРѕС‚СЊ РіСЂРѕР·РµРЅ Р±СѓСЂРЅС‹Р№ РІР°Р»,</plain>
         </string>
         <string>
-            <plain>Но вот уж видны маяки</plain>
+            <plain>РќРѕ РІРѕС‚ СѓР¶ РІРёРґРЅС‹ РјР°СЏРєРё</plain>
         </string>
         <string>
-            <plain>И свет их засиял.</plain>
+            <plain>Р СЃРІРµС‚ РёС… Р·Р°СЃРёСЏР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вот видны уж берега,</plain>
+            <plain>Р’РѕС‚ РІРёРґРЅС‹ СѓР¶ Р±РµСЂРµРіР°,</plain>
         </string>
         <string>
-            <plain>Будет конец скорбям.</plain>
+            <plain>Р‘СѓРґРµС‚ РєРѕРЅРµС† СЃРєРѕСЂР±СЏРј.</plain>
         </string>
         <string>
-            <plain>Друзья, пристанем скоро все</plain>
+            <plain>Р”СЂСѓР·СЊСЏ, РїСЂРёСЃС‚Р°РЅРµРј СЃРєРѕСЂРѕ РІСЃРµ</plain>
         </string>
         <string>
-            <plain>К небесным берегам.</plain>
+            <plain>Рљ РЅРµР±РµСЃРЅС‹Рј Р±РµСЂРµРіР°Рј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Страдали мы от бури злой</plain>
+            <plain>РЎС‚СЂР°РґР°Р»Рё РјС‹ РѕС‚ Р±СѓСЂРё Р·Р»РѕР№</plain>
         </string>
         <string>
-            <plain>И от волны морской,</plain>
+            <plain>Р РѕС‚ РІРѕР»РЅС‹ РјРѕСЂСЃРєРѕР№,</plain>
         </string>
         <string>
-            <plain>И смерть грозила нам не раз</plain>
+            <plain>Р СЃРјРµСЂС‚СЊ РіСЂРѕР·РёР»Р° РЅР°Рј РЅРµ СЂР°Р·</plain>
         </string>
         <string>
-            <plain>В жестокий, бурный час.</plain>
+            <plain>Р’ Р¶РµСЃС‚РѕРєРёР№, Р±СѓСЂРЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И вот награда к нам близка:</plain>
+            <plain>Р РІРѕС‚ РЅР°РіСЂР°РґР° Рє РЅР°Рј Р±Р»РёР·РєР°:</plain>
         </string>
         <string>
-            <plain>У гавани покой;</plain>
+            <plain>РЈ РіР°РІР°РЅРё РїРѕРєРѕР№;</plain>
         </string>
         <string>
-            <plain>Долой, унынье и тоска!</plain>
+            <plain>Р”РѕР»РѕР№, СѓРЅС‹РЅСЊРµ Рё С‚РѕСЃРєР°!</plain>
         </string>
         <string>
-            <plain>Возрадуйтесь душой!</plain>
+            <plain>Р’РѕР·СЂР°РґСѓР№С‚РµСЃСЊ РґСѓС€РѕР№!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сплотитесь, как одна семья,</plain>
+            <plain>РЎРїР»РѕС‚РёС‚РµСЃСЊ, РєР°Рє РѕРґРЅР° СЃРµРјСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Направьте паруса,</plain>
+            <plain>РќР°РїСЂР°РІСЊС‚Рµ РїР°СЂСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>На берегу нас ждут друзья:</plain>
+            <plain>РќР° Р±РµСЂРµРіСѓ РЅР°СЃ Р¶РґСѓС‚ РґСЂСѓР·СЊСЏ:</plain>
         </string>
         <string>
-            <plain>Уж слышны голоса.</plain>
+            <plain>РЈР¶ СЃР»С‹С€РЅС‹ РіРѕР»РѕСЃР°.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2348" name="Тебе хочу я воспеть аллилуйя" canon="false" text="" textRus="" music="">
+<psalm number="2348" name="РўРµР±Рµ С…РѕС‡Сѓ СЏ РІРѕСЃРїРµС‚СЊ Р°Р»Р»РёР»СѓР№СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тебе хочу я воспеть аллилуйя,</plain>
+            <plain>РўРµР±Рµ С…РѕС‡Сѓ СЏ РІРѕСЃРїРµС‚СЊ Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>О, мой Господь, я Тобою дышу,</plain>
+            <plain>Рћ, РјРѕР№ Р“РѕСЃРїРѕРґСЊ, СЏ РўРѕР±РѕСЋ РґС‹С€Сѓ,</plain>
         </string>
         <string>
-            <plain>Благодарю я Тебя за спасенье,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂСЋ СЏ РўРµР±СЏ Р·Р° СЃРїР°СЃРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>И аллилуйя пою.</plain>
+            <plain>Р Р°Р»Р»РёР»СѓР№СЏ РїРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Сила Твоя даже смерть победила.</plain>
+            <plain>РЎРёР»Р° РўРІРѕСЏ РґР°Р¶Рµ СЃРјРµСЂС‚СЊ РїРѕР±РµРґРёР»Р°.</plain>
         </string>
         <string>
-            <plain>Твоей любовью я сердце смирил,</plain>
+            <plain>РўРІРѕРµР№ Р»СЋР±РѕРІСЊСЋ СЏ СЃРµСЂРґС†Рµ СЃРјРёСЂРёР»,</plain>
         </string>
         <string>
-            <plain>Вечный мой Бог, я Тебя прославляю,</plain>
+            <plain>Р’РµС‡РЅС‹Р№ РјРѕР№ Р‘РѕРі, СЏ РўРµР±СЏ РїСЂРѕСЃР»Р°РІР»СЏСЋ,</plain>
         </string>
         <string>
-            <plain>И аллилуйя пою.</plain>
+            <plain>Р Р°Р»Р»РёР»СѓР№СЏ РїРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, мой Господь, Ты утешь меня в скорби,</plain>
+            <plain>Рћ, РјРѕР№ Р“РѕСЃРїРѕРґСЊ, РўС‹ СѓС‚РµС€СЊ РјРµРЅСЏ РІ СЃРєРѕСЂР±Рё,</plain>
         </string>
         <string>
-            <plain>Мир окружил меня мрачный и злой.</plain>
+            <plain>РњРёСЂ РѕРєСЂСѓР¶РёР» РјРµРЅСЏ РјСЂР°С‡РЅС‹Р№ Рё Р·Р»РѕР№.</plain>
         </string>
         <string>
-            <plain>Дай Духа сил, я Тебя умоляю,</plain>
+            <plain>Р”Р°Р№ Р”СѓС…Р° СЃРёР», СЏ РўРµР±СЏ СѓРјРѕР»СЏСЋ,</plain>
         </string>
         <string>
-            <plain>И аллилуйя пою.</plain>
+            <plain>Р Р°Р»Р»РёР»СѓР№СЏ РїРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я так стремлюсь удостоиться чести,</plain>
+            <plain>РЇ С‚Р°Рє СЃС‚СЂРµРјР»СЋСЃСЊ СѓРґРѕСЃС‚РѕРёС‚СЊСЃСЏ С‡РµСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Вечно с Тобой славить, имя Твое,</plain>
+            <plain>Р’РµС‡РЅРѕ СЃ РўРѕР±РѕР№ СЃР»Р°РІРёС‚СЊ, РёРјСЏ РўРІРѕРµ,</plain>
         </string>
         <string>
-            <plain>Чашу страданий с Тобой разделяю,</plain>
+            <plain>Р§Р°С€Сѓ СЃС‚СЂР°РґР°РЅРёР№ СЃ РўРѕР±РѕР№ СЂР°Р·РґРµР»СЏСЋ,</plain>
         </string>
         <string>
-            <plain>И аллилуйя пою.</plain>
+            <plain>Р Р°Р»Р»РёР»СѓР№СЏ РїРѕСЋ.</plain>
         </string>
     </verse>
 </psalm>

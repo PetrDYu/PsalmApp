@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3175" name="Я Тебе Господь в служеньи" canon="false" text="" textRus="" music="">
+<psalm number="3175" name="РЇ РўРµР±Рµ Р“РѕСЃРїРѕРґСЊ РІ СЃР»СѓР¶РµРЅСЊРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я Тебе, Господь, в служеньи</plain>
+            <plain>РЇ РўРµР±Рµ, Р“РѕСЃРїРѕРґСЊ, РІ СЃР»СѓР¶РµРЅСЊРё</plain>
         </string>
         <string>
-            <plain>верно следовать хочу</plain>
+            <plain>РІРµСЂРЅРѕ СЃР»РµРґРѕРІР°С‚СЊ С…РѕС‡Сѓ</plain>
         </string>
         <string>
-            <plain>и в минуты искушенья</plain>
+            <plain>Рё РІ РјРёРЅСѓС‚С‹ РёСЃРєСѓС€РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>верить Слову Твоему.</plain>
+            <plain>РІРµСЂРёС‚СЊ РЎР»РѕРІСѓ РўРІРѕРµРјСѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Чтоб идти лишь за Тобою,</plain>
+            <plain>Р§С‚РѕР± РёРґС‚Рё Р»РёС€СЊ Р·Р° РўРѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>всё, Господь оставил я.</plain>
+            <plain>РІСЃС‘, Р“РѕСЃРїРѕРґСЊ РѕСЃС‚Р°РІРёР» СЏ.</plain>
         </string>
         <string>
-            <plain>Всей любить Тебя душою</plain>
+            <plain>Р’СЃРµР№ Р»СЋР±РёС‚СЊ РўРµР±СЏ РґСѓС€РѕСЋ</plain>
         </string>
         <string>
-            <plain>- в этом радость вся моя.</plain>
+            <plain>- РІ СЌС‚РѕРј СЂР°РґРѕСЃС‚СЊ РІСЃСЏ РјРѕСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если в трудностях я буду</plain>
+            <plain>Р•СЃР»Рё РІ С‚СЂСѓРґРЅРѕСЃС‚СЏС… СЏ Р±СѓРґСѓ</plain>
         </string>
         <string>
-            <plain>иль врагами окружён,</plain>
+            <plain>РёР»СЊ РІСЂР°РіР°РјРё РѕРєСЂСѓР¶С‘РЅ,</plain>
         </string>
         <string>
-            <plain>я вблизи Тебя пребуду:</plain>
+            <plain>СЏ РІР±Р»РёР·Рё РўРµР±СЏ РїСЂРµР±СѓРґСѓ:</plain>
         </string>
         <string>
-            <plain>здесь я буду защищён.</plain>
+            <plain>Р·РґРµСЃСЊ СЏ Р±СѓРґСѓ Р·Р°С‰РёС‰С‘РЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Радостно с Тобой хочу</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ СЃ РўРѕР±РѕР№ С…РѕС‡Сѓ</plain>
         </string>
         <string>
-            <plain>я битву в вере продолжать.</plain>
+            <plain>СЏ Р±РёС‚РІСѓ РІ РІРµСЂРµ РїСЂРѕРґРѕР»Р¶Р°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>На кресте Ты, умирая,</plain>
+            <plain>РќР° РєСЂРµСЃС‚Рµ РўС‹, СѓРјРёСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>дал Свою мне благодать.</plain>
+            <plain>РґР°Р» РЎРІРѕСЋ РјРЅРµ Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если следую я верно,</plain>
+            <plain>Р•СЃР»Рё СЃР»РµРґСѓСЋ СЏ РІРµСЂРЅРѕ,</plain>
         </string>
         <string>
-            <plain>нас никто не разлучит,</plain>
+            <plain>РЅР°СЃ РЅРёРєС‚Рѕ РЅРµ СЂР°Р·Р»СѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>благодати мне довольно,</plain>
+            <plain>Р±Р»Р°РіРѕРґР°С‚Рё РјРЅРµ РґРѕРІРѕР»СЊРЅРѕ,</plain>
         </string>
         <string>
-            <plain>даже если враг грозит.</plain>
+            <plain>РґР°Р¶Рµ РµСЃР»Рё РІСЂР°Рі РіСЂРѕР·РёС‚.</plain>
         </string>
     </verse>
 </psalm>

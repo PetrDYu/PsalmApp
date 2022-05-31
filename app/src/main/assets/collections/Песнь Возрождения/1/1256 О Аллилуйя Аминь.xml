@@ -1,97 +1,97 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1256" name="О Аллилуйя Аминь" canon="false" text="" textRus="" music="">
+<psalm number="1256" name="Рћ РђР»Р»РёР»СѓР№СЏ РђРјРёРЅСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Живет Отец на небе.</plain>
+            <plain>Р–РёРІРµС‚ РћС‚РµС† РЅР° РЅРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>К Нему придут все дети.</plain>
+            <plain>Рљ РќРµРјСѓ РїСЂРёРґСѓС‚ РІСЃРµ РґРµС‚Рё.</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>В Его мы будем свете.</plain>
+            <plain>Р’ Р•РіРѕ РјС‹ Р±СѓРґРµРј СЃРІРµС‚Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя, Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Слава Богу!</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя, Аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Дух Святой!</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Бог есть любовь святая.</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ СЃРІСЏС‚Р°СЏ.</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Иисус - есть двери рая.</plain>
+            <plain>РРёСЃСѓСЃ - РµСЃС‚СЊ РґРІРµСЂРё СЂР°СЏ.</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Нас всех Он призывает.</plain>
+            <plain>РќР°СЃ РІСЃРµС… РћРЅ РїСЂРёР·С‹РІР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Иисуса Кровь святая,</plain>
+            <plain>РРёСЃСѓСЃР° РљСЂРѕРІСЊ СЃРІСЏС‚Р°СЏ,</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Грех всякий очищает.</plain>
+            <plain>Р“СЂРµС… РІСЃСЏРєРёР№ РѕС‡РёС‰Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Жизнь нашу обновляет.</plain>
+            <plain>Р–РёР·РЅСЊ РЅР°С€Сѓ РѕР±РЅРѕРІР»СЏРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Господь к смиренным близко,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ Рє СЃРјРёСЂРµРЅРЅС‹Рј Р±Р»РёР·РєРѕ,</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Склонимся в духе низко.</plain>
+            <plain>РЎРєР»РѕРЅРёРјСЃСЏ РІ РґСѓС…Рµ РЅРёР·РєРѕ.</plain>
         </string>
         <string>
-            <plain>О, Аллилуйя, Аминь!</plain>
+            <plain>Рћ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Бог к сокрушенным близко.</plain>
+            <plain>Р‘РѕРі Рє СЃРѕРєСЂСѓС€РµРЅРЅС‹Рј Р±Р»РёР·РєРѕ.</plain>
         </string>
     </verse>
 </psalm>

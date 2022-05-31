@@ -1,171 +1,171 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="224" name="В городе Антиохии" canon="false" text="" textRus="" music="">
+<psalm number="224" name="Р’ РіРѕСЂРѕРґРµ РђРЅС‚РёРѕС…РёРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В городе Антиохии,</plain>
+            <plain>Р’ РіРѕСЂРѕРґРµ РђРЅС‚РёРѕС…РёРё,</plain>
         </string>
         <string>
-            <plain>Как гласит о том рассказ,</plain>
+            <plain>РљР°Рє РіР»Р°СЃРёС‚ Рѕ С‚РѕРј СЂР°СЃСЃРєР°Р·,</plain>
         </string>
         <string>
-            <plain>Христианами святые</plain>
+            <plain>РҐСЂРёСЃС‚РёР°РЅР°РјРё СЃРІСЏС‚С‹Рµ</plain>
         </string>
         <string>
-            <plain>Назвалися в первый раз.</plain>
+            <plain>РќР°Р·РІР°Р»РёСЃСЏ РІ РїРµСЂРІС‹Р№ СЂР°Р·.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты нам дал, Господь, ученье,</plain>
+            <plain>РўС‹ РЅР°Рј РґР°Р», Р“РѕСЃРїРѕРґСЊ, СѓС‡РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Веру первых христиан;</plain>
+            <plain>Р’РµСЂСѓ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ;</plain>
         </string>
         <string>
-            <plain>Дай нам в жизни и служенье</plain>
+            <plain>Р”Р°Р№ РЅР°Рј РІ Р¶РёР·РЅРё Рё СЃР»СѓР¶РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Оправдать высокий сан.</plain>
+            <plain>РћРїСЂР°РІРґР°С‚СЊ РІС‹СЃРѕРєРёР№ СЃР°РЅ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В братстве, общности имений,</plain>
+            <plain>Р’ Р±СЂР°С‚СЃС‚РІРµ, РѕР±С‰РЅРѕСЃС‚Рё РёРјРµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>В жизни первых христиан –</plain>
+            <plain>Р’ Р¶РёР·РЅРё РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ вЂ“</plain>
         </string>
         <string>
-            <plain>Образец для поколений,</plain>
+            <plain>РћР±СЂР°Р·РµС† РґР»СЏ РїРѕРєРѕР»РµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Совершенной жизни план.</plain>
+            <plain>РЎРѕРІРµСЂС€РµРЅРЅРѕР№ Р¶РёР·РЅРё РїР»Р°РЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В смерти, верой озаренной,</plain>
+            <plain>Р’ СЃРјРµСЂС‚Рё, РІРµСЂРѕР№ РѕР·Р°СЂРµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>От огня и тяжких ран</plain>
+            <plain>РћС‚ РѕРіРЅСЏ Рё С‚СЏР¶РєРёС… СЂР°РЅ</plain>
         </string>
         <string>
-            <plain>Мир увидел, изумленный,</plain>
+            <plain>РњРёСЂ СѓРІРёРґРµР», РёР·СѓРјР»РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Верность первых христиан.</plain>
+            <plain>Р’РµСЂРЅРѕСЃС‚СЊ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В казематах и пещерах,</plain>
+            <plain>Р’ РєР°Р·РµРјР°С‚Р°С… Рё РїРµС‰РµСЂР°С…,</plain>
         </string>
         <string>
-            <plain>В катакомбах разных стран</plain>
+            <plain>Р’ РєР°С‚Р°РєРѕРјР±Р°С… СЂР°Р·РЅС‹С… СЃС‚СЂР°РЅ</plain>
         </string>
         <string>
-            <plain>Людям явлена в примерах</plain>
+            <plain>Р›СЋРґСЏРј СЏРІР»РµРЅР° РІ РїСЂРёРјРµСЂР°С…</plain>
         </string>
         <string>
-            <plain>Стойкость первых христиан.</plain>
+            <plain>РЎС‚РѕР№РєРѕСЃС‚СЊ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>В наши дни, дни искушений,</plain>
+            <plain>Р’ РЅР°С€Рё РґРЅРё, РґРЅРё РёСЃРєСѓС€РµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Тот же путь Тобой нам дан;</plain>
+            <plain>РўРѕС‚ Р¶Рµ РїСѓС‚СЊ РўРѕР±РѕР№ РЅР°Рј РґР°РЅ;</plain>
         </string>
         <string>
-            <plain>Дай нам силу вдохновений,</plain>
+            <plain>Р”Р°Р№ РЅР°Рј СЃРёР»Сѓ РІРґРѕС…РЅРѕРІРµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Силу первых христиан.</plain>
+            <plain>РЎРёР»Сѓ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Одно сердце, одну душу</plain>
+            <plain>РћРґРЅРѕ СЃРµСЂРґС†Рµ, РѕРґРЅСѓ РґСѓС€Сѓ</plain>
         </string>
         <string>
-            <plain>Да имеет Божий стан.</plain>
+            <plain>Р”Р° РёРјРµРµС‚ Р‘РѕР¶РёР№ СЃС‚Р°РЅ.</plain>
         </string>
         <string>
-            <plain>Огласим моря и сушу</plain>
+            <plain>РћРіР»Р°СЃРёРј РјРѕСЂСЏ Рё СЃСѓС€Сѓ</plain>
         </string>
         <string>
-            <plain>Песней первых христиан.</plain>
+            <plain>РџРµСЃРЅРµР№ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Через нас открой вселенной</plain>
+            <plain>Р§РµСЂРµР· РЅР°СЃ РѕС‚РєСЂРѕР№ РІСЃРµР»РµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Тайну первых христиан,</plain>
+            <plain>РўР°Р№РЅСѓ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ,</plain>
         </string>
         <string>
-            <plain>- Мощь любви неизреченной,</plain>
+            <plain>- РњРѕС‰СЊ Р»СЋР±РІРё РЅРµРёР·СЂРµС‡РµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Твой великий океан.</plain>
+            <plain>РўРІРѕР№ РІРµР»РёРєРёР№ РѕРєРµР°РЅ.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Дай нам ревность благовестья,</plain>
+            <plain>Р”Р°Р№ РЅР°Рј СЂРµРІРЅРѕСЃС‚СЊ Р±Р»Р°РіРѕРІРµСЃС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Как у первых христиан,</plain>
+            <plain>РљР°Рє Сѓ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ,</plain>
         </string>
         <string>
-            <plain>Чтоб рассеять мрак нечестья,</plain>
+            <plain>Р§С‚РѕР± СЂР°СЃСЃРµСЏС‚СЊ РјСЂР°Рє РЅРµС‡РµСЃС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Суеверия туман.</plain>
+            <plain>РЎСѓРµРІРµСЂРёСЏ С‚СѓРјР°РЅ.</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>Дай, чтоб люди увидали</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± Р»СЋРґРё СѓРІРёРґР°Р»Рё</plain>
         </string>
         <string>
-            <plain>Вековой жрецов обман,</plain>
+            <plain>Р’РµРєРѕРІРѕР№ Р¶СЂРµС†РѕРІ РѕР±РјР°РЅ,</plain>
         </string>
         <string>
-            <plain>Чтоб с Тобой мы воссоздали</plain>
+            <plain>Р§С‚РѕР± СЃ РўРѕР±РѕР№ РјС‹ РІРѕСЃСЃРѕР·РґР°Р»Рё</plain>
         </string>
         <string>
-            <plain>Церковь первых христиан.</plain>
+            <plain>Р¦РµСЂРєРѕРІСЊ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ.</plain>
         </string>
     </verse>
     <verse number="10">
         <string>
-            <plain>Светом знания без тени</plain>
+            <plain>РЎРІРµС‚РѕРј Р·РЅР°РЅРёСЏ Р±РµР· С‚РµРЅРё</plain>
         </string>
         <string>
-            <plain>Жизнь народа освети,</plain>
+            <plain>Р–РёР·РЅСЊ РЅР°СЂРѕРґР° РѕСЃРІРµС‚Рё,</plain>
         </string>
         <string>
-            <plain>Чтоб во свете откровений</plain>
+            <plain>Р§С‚РѕР± РІРѕ СЃРІРµС‚Рµ РѕС‚РєСЂРѕРІРµРЅРёР№</plain>
         </string>
         <string>
-            <plain>Он познал Твои пути.</plain>
+            <plain>РћРЅ РїРѕР·РЅР°Р» РўРІРѕРё РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="11">
         <string>
-            <plain>Пусть над миром пронесется</plain>
+            <plain>РџСѓСЃС‚СЊ РЅР°Рґ РјРёСЂРѕРј РїСЂРѕРЅРµСЃРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Духа Божья ураган,</plain>
+            <plain>Р”СѓС…Р° Р‘РѕР¶СЊСЏ СѓСЂР°РіР°РЅ,</plain>
         </string>
         <string>
-            <plain>Царство Божье да начнется</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРѕ Р‘РѕР¶СЊРµ РґР° РЅР°С‡РЅРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Правдой первых христиан.</plain>
+            <plain>РџСЂР°РІРґРѕР№ РїРµСЂРІС‹С… С…СЂРёСЃС‚РёР°РЅ.</plain>
         </string>
     </verse>
 </psalm>

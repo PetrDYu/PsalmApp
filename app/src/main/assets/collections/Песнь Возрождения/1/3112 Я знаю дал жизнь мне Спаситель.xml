@@ -1,77 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3112" name="Я знаю дал жизнь мне Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="3112" name="РЇ Р·РЅР°СЋ РґР°Р» Р¶РёР·РЅСЊ РјРЅРµ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я знаю: дал жизнь мне Спаситель,</plain>
+            <plain>РЇ Р·РЅР°СЋ: РґР°Р» Р¶РёР·РЅСЊ РјРЅРµ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Он - мир мой, и радость, и свет.</plain>
+            <plain>РћРЅ - РјРёСЂ РјРѕР№, Рё СЂР°РґРѕСЃС‚СЊ, Рё СЃРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Вину мою снял Искупитель,</plain>
+            <plain>Р’РёРЅСѓ РјРѕСЋ СЃРЅСЏР» РСЃРєСѓРїРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>распял и вознес грех на крест.</plain>
+            <plain>СЂР°СЃРїСЏР» Рё РІРѕР·РЅРµСЃ РіСЂРµС… РЅР° РєСЂРµСЃС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, славьте Христа,</plain>
+            <plain>Рћ, СЃР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>о, славьте Христа!</plain>
+            <plain>Рѕ, СЃР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Спаситель мой жив,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№ Р¶РёРІ,</plain>
         </string>
         <string>
-            <plain>в этом радость моя.</plain>
+            <plain>РІ СЌС‚РѕРј СЂР°РґРѕСЃС‚СЊ РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Он - жизнь и надежды моей звезда!</plain>
+            <plain>РћРЅ - Р¶РёР·РЅСЊ Рё РЅР°РґРµР¶РґС‹ РјРѕРµР№ Р·РІРµР·РґР°!</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Прославьте Христа!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РџСЂРѕСЃР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь есть обилье богатства.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РµСЃС‚СЊ РѕР±РёР»СЊРµ Р±РѕРіР°С‚СЃС‚РІР°.</plain>
         </string>
         <string>
-            <plain>Он в Сыне любовь нам явил,</plain>
+            <plain>РћРЅ РІ РЎС‹РЅРµ Р»СЋР±РѕРІСЊ РЅР°Рј СЏРІРёР»,</plain>
         </string>
         <string>
-            <plain>призвал нас к свободе из рабства</plain>
+            <plain>РїСЂРёР·РІР°Р» РЅР°СЃ Рє СЃРІРѕР±РѕРґРµ РёР· СЂР°Р±СЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>и грешникам небо открыл.</plain>
+            <plain>Рё РіСЂРµС€РЅРёРєР°Рј РЅРµР±Рѕ РѕС‚РєСЂС‹Р».</plain>
         </string>
         <string>
-            <plain>З Всех щедро Он благословляет,</plain>
+            <plain>Р— Р’СЃРµС… С‰РµРґСЂРѕ РћРЅ Р±Р»Р°РіРѕСЃР»РѕРІР»СЏРµС‚,</plain>
         </string>
         <string>
-            <plain>кто здесь благодарен Ему,</plain>
+            <plain>РєС‚Рѕ Р·РґРµСЃСЊ Р±Р»Р°РіРѕРґР°СЂРµРЅ Р•РјСѓ,</plain>
         </string>
         <string>
-            <plain>и боли Он тем утоляет,</plain>
+            <plain>Рё Р±РѕР»Рё РћРЅ С‚РµРј СѓС‚РѕР»СЏРµС‚,</plain>
         </string>
         <string>
-            <plain>кто в скорби приходит к Нему.</plain>
+            <plain>РєС‚Рѕ РІ СЃРєРѕСЂР±Рё РїСЂРёС…РѕРґРёС‚ Рє РќРµРјСѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Душа, славь Христа за спасенье</plain>
+            <plain>Р”СѓС€Р°, СЃР»Р°РІСЊ РҐСЂРёСЃС‚Р° Р·Р° СЃРїР°СЃРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>и имя Его восхваляй,</plain>
+            <plain>Рё РёРјСЏ Р•РіРѕ РІРѕСЃС…РІР°Р»СЏР№,</plain>
         </string>
         <string>
-            <plain>неси Ему благодаренье,</plain>
+            <plain>РЅРµСЃРё Р•РјСѓ Р±Р»Р°РіРѕРґР°СЂРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>с восторгом Его воспевай!</plain>
+            <plain>СЃ РІРѕСЃС‚РѕСЂРіРѕРј Р•РіРѕ РІРѕСЃРїРµРІР°Р№!</plain>
         </string>
     </verse>
 </psalm>

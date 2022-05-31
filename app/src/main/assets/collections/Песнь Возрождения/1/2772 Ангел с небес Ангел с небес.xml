@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2772" name="Ангел с небес Ангел с небес" canon="false" text="" textRus="" music="">
+<psalm number="2772" name="РђРЅРіРµР» СЃ РЅРµР±РµСЃ РђРЅРіРµР» СЃ РЅРµР±РµСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ангел с небес, Ангел с небес</plain>
+            <plain>РђРЅРіРµР» СЃ РЅРµР±РµСЃ, РђРЅРіРµР» СЃ РЅРµР±РµСЃ</plain>
         </string>
         <string>
-            <plain>Людям принес Благую весть.</plain>
+            <plain>Р›СЋРґСЏРј РїСЂРёРЅРµСЃ Р‘Р»Р°РіСѓСЋ РІРµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>И с той поры в сердцах людей</plain>
+            <plain>Р СЃ С‚РѕР№ РїРѕСЂС‹ РІ СЃРµСЂРґС†Р°С… Р»СЋРґРµР№</plain>
         </string>
         <string>
-            <plain>Любовь Христа царит.</plain>
+            <plain>Р›СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р° С†Р°СЂРёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Боже, благослови,</plain>
+            <plain>Р‘РѕР¶Рµ, Р±Р»Р°РіРѕСЃР»РѕРІРё,</plain>
         </string>
         <string>
-            <plain>Боже, благослови,</plain>
+            <plain>Р‘РѕР¶Рµ, Р±Р»Р°РіРѕСЃР»РѕРІРё,</plain>
         </string>
         <string>
-            <plain>В этот вечерний час</plain>
+            <plain>Р’ СЌС‚РѕС‚ РІРµС‡РµСЂРЅРёР№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Ты нас благослови.</plain>
+            <plain>РўС‹ РЅР°СЃ Р±Р»Р°РіРѕСЃР»РѕРІРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ангел с небес, Ангел с небес</plain>
+            <plain>РђРЅРіРµР» СЃ РЅРµР±РµСЃ, РђРЅРіРµР» СЃ РЅРµР±РµСЃ</plain>
         </string>
         <string>
-            <plain>Людям принес Благую весть.</plain>
+            <plain>Р›СЋРґСЏРј РїСЂРёРЅРµСЃ Р‘Р»Р°РіСѓСЋ РІРµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>С неба Господь Мессию послал,</plain>
+            <plain>РЎ РЅРµР±Р° Р“РѕСЃРїРѕРґСЊ РњРµСЃСЃРёСЋ РїРѕСЃР»Р°Р»,</plain>
         </string>
         <string>
-            <plain>Он грех всего мира взял.</plain>
+            <plain>РћРЅ РіСЂРµС… РІСЃРµРіРѕ РјРёСЂР° РІР·СЏР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ангел с небес, Ангел с небес</plain>
+            <plain>РђРЅРіРµР» СЃ РЅРµР±РµСЃ, РђРЅРіРµР» СЃ РЅРµР±РµСЃ</plain>
         </string>
         <string>
-            <plain>Людям принес Благую весть.</plain>
+            <plain>Р›СЋРґСЏРј РїСЂРёРЅРµСЃ Р‘Р»Р°РіСѓСЋ РІРµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>И с той поры прихода Христа</plain>
+            <plain>Р СЃ С‚РѕР№ РїРѕСЂС‹ РїСЂРёС…РѕРґР° РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Дети Божьи ждут.</plain>
+            <plain>Р”РµС‚Рё Р‘РѕР¶СЊРё Р¶РґСѓС‚.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Бог так любит всех,</plain>
+            <plain>Р‘РѕРі С‚Р°Рє Р»СЋР±РёС‚ РІСЃРµС…,</plain>
         </string>
         <string>
-            <plain>Бог так любит всех,</plain>
+            <plain>Р‘РѕРі С‚Р°Рє Р»СЋР±РёС‚ РІСЃРµС…,</plain>
         </string>
         <string>
-            <plain>Бог так любит всех!</plain>
+            <plain>Р‘РѕРі С‚Р°Рє Р»СЋР±РёС‚ РІСЃРµС…!</plain>
         </string>
         <string>
-            <plain>Ангелы здесь поют.</plain>
+            <plain>РђРЅРіРµР»С‹ Р·РґРµСЃСЊ РїРѕСЋС‚.</plain>
         </string>
     </chorus>
 </psalm>

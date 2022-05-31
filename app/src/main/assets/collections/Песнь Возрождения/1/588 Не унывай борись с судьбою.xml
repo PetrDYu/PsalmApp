@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="588" name="Не унывай борись с судьбою" canon="false" text="" textRus="" music="">
+<psalm number="588" name="РќРµ СѓРЅС‹РІР°Р№ Р±РѕСЂРёСЃСЊ СЃ СЃСѓРґСЊР±РѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не унывай, борись с судьбою, -</plain>
+            <plain>РќРµ СѓРЅС‹РІР°Р№, Р±РѕСЂРёСЃСЊ СЃ СЃСѓРґСЊР±РѕСЋ, -</plain>
         </string>
         <string>
-            <plain>Твердил мне солнца яркий луч.</plain>
+            <plain>РўРІРµСЂРґРёР» РјРЅРµ СЃРѕР»РЅС†Р° СЏСЂРєРёР№ Р»СѓС‡.</plain>
         </string>
         <string>
-            <plain>Не унывай, Господь с тобою, -</plain>
+            <plain>РќРµ СѓРЅС‹РІР°Р№, Р“РѕСЃРїРѕРґСЊ СЃ С‚РѕР±РѕСЋ, -</plain>
         </string>
         <string>
-            <plain>Мне жаворонок пел из туч.</plain>
+            <plain>РњРЅРµ Р¶Р°РІРѕСЂРѕРЅРѕРє РїРµР» РёР· С‚СѓС‡.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Не говори, что нет спасенья,</plain>
+            <plain>РќРµ РіРѕРІРѕСЂРё, С‡С‚Рѕ РЅРµС‚ СЃРїР°СЃРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Что ты в печалях изнемог.</plain>
+            <plain>Р§С‚Рѕ С‚С‹ РІ РїРµС‡Р°Р»СЏС… РёР·РЅРµРјРѕРі.</plain>
         </string>
         <string>
-            <plain>Чем ночь темней, тем ярче звезды,</plain>
+            <plain>Р§РµРј РЅРѕС‡СЊ С‚РµРјРЅРµР№, С‚РµРј СЏСЂС‡Рµ Р·РІРµР·РґС‹,</plain>
         </string>
         <string>
-            <plain>Чем глубже скорбь, тем ближе Бог.</plain>
+            <plain>Р§РµРј РіР»СѓР±Р¶Рµ СЃРєРѕСЂР±СЊ, С‚РµРј Р±Р»РёР¶Рµ Р‘РѕРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Не унывай, вперед смелее, -</plain>
+            <plain>РќРµ СѓРЅС‹РІР°Р№, РІРїРµСЂРµРґ СЃРјРµР»РµРµ, -</plain>
         </string>
         <string>
-            <plain>Мне повторял смеясь поток.</plain>
+            <plain>РњРЅРµ РїРѕРІС‚РѕСЂСЏР» СЃРјРµСЏСЃСЊ РїРѕС‚РѕРє.</plain>
         </string>
         <string>
-            <plain>Не унывай, будь веселее, -</plain>
+            <plain>РќРµ СѓРЅС‹РІР°Р№, Р±СѓРґСЊ РІРµСЃРµР»РµРµ, -</plain>
         </string>
         <string>
-            <plain>Твердил голубенький цветок.</plain>
+            <plain>РўРІРµСЂРґРёР» РіРѕР»СѓР±РµРЅСЊРєРёР№ С†РІРµС‚РѕРє.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не унывай, - мне утро мая</plain>
+            <plain>РќРµ СѓРЅС‹РІР°Р№, - РјРЅРµ СѓС‚СЂРѕ РјР°СЏ</plain>
         </string>
         <string>
-            <plain>Вещало свежестью своей,</plain>
+            <plain>Р’РµС‰Р°Р»Рѕ СЃРІРµР¶РµСЃС‚СЊСЋ СЃРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>И вся природа, воскресая,</plain>
+            <plain>Р РІСЃСЏ РїСЂРёСЂРѕРґР°, РІРѕСЃРєСЂРµСЃР°СЏ,</plain>
         </string>
         <string>
-            <plain>Будила жизнь в душе моей.</plain>
+            <plain>Р‘СѓРґРёР»Р° Р¶РёР·РЅСЊ РІ РґСѓС€Рµ РјРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И я с тех пор благословляю</plain>
+            <plain>Р СЏ СЃ С‚РµС… РїРѕСЂ Р±Р»Р°РіРѕСЃР»РѕРІР»СЏСЋ</plain>
         </string>
         <string>
-            <plain>И солнца луч, и светлый май,</plain>
+            <plain>Р СЃРѕР»РЅС†Р° Р»СѓС‡, Рё СЃРІРµС‚Р»С‹Р№ РјР°Р№,</plain>
         </string>
         <string>
-            <plain>И говор струй, и пташек пенье,</plain>
+            <plain>Р РіРѕРІРѕСЂ СЃС‚СЂСѓР№, Рё РїС‚Р°С€РµРє РїРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Твердивших мне "Не унывай!"</plain>
+            <plain>РўРІРµСЂРґРёРІС€РёС… РјРЅРµ "РќРµ СѓРЅС‹РІР°Р№!"</plain>
         </string>
     </verse>
 </psalm>

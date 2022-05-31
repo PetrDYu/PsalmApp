@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1488" name="В черном море одиноко" canon="false" text="" textRus="" music="">
+<psalm number="1488" name="Р’ С‡РµСЂРЅРѕРј РјРѕСЂРµ РѕРґРёРЅРѕРєРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В черном море одиноко</plain>
+            <plain>Р’ С‡РµСЂРЅРѕРј РјРѕСЂРµ РѕРґРёРЅРѕРєРѕ</plain>
         </string>
         <string>
-            <plain>Белый-белый дом стоит,</plain>
+            <plain>Р‘РµР»С‹Р№-Р±РµР»С‹Р№ РґРѕРј СЃС‚РѕРёС‚,</plain>
         </string>
         <string>
-            <plain>Огоньком любви высокой</plain>
+            <plain>РћРіРѕРЅСЊРєРѕРј Р»СЋР±РІРё РІС‹СЃРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>В окнах дома свет горит.</plain>
+            <plain>Р’ РѕРєРЅР°С… РґРѕРјР° СЃРІРµС‚ РіРѕСЂРёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Это - корабль на грешной земле</plain>
+            <plain>Р­С‚Рѕ - РєРѕСЂР°Р±Р»СЊ РЅР° РіСЂРµС€РЅРѕР№ Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>Держит свой путь к родной стороне.</plain>
+            <plain>Р”РµСЂР¶РёС‚ СЃРІРѕР№ РїСѓС‚СЊ Рє СЂРѕРґРЅРѕР№ СЃС‚РѕСЂРѕРЅРµ.</plain>
         </string>
         <string>
-            <plain>Под парусом веры мчится вперед.</plain>
+            <plain>РџРѕРґ РїР°СЂСѓСЃРѕРј РІРµСЂС‹ РјС‡РёС‚СЃСЏ РІРїРµСЂРµРґ.</plain>
         </string>
         <string>
-            <plain>Весть о спасении людям несет.</plain>
+            <plain>Р’РµСЃС‚СЊ Рѕ СЃРїР°СЃРµРЅРёРё Р»СЋРґСЏРј РЅРµСЃРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В этом доме с Иисусом</plain>
+            <plain>Р’ СЌС‚РѕРј РґРѕРјРµ СЃ РРёСЃСѓСЃРѕРј</plain>
         </string>
         <string>
-            <plain>Разговоры мы ведем,</plain>
+            <plain>Р Р°Р·РіРѕРІРѕСЂС‹ РјС‹ РІРµРґРµРј,</plain>
         </string>
         <string>
-            <plain>В этом доме Иисусу</plain>
+            <plain>Р’ СЌС‚РѕРј РґРѕРјРµ РРёСЃСѓСЃСѓ</plain>
         </string>
         <string>
-            <plain>Песни славы мы поем.</plain>
+            <plain>РџРµСЃРЅРё СЃР»Р°РІС‹ РјС‹ РїРѕРµРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Здесь Христос нас утешает.</plain>
+            <plain>Р—РґРµСЃСЊ РҐСЂРёСЃС‚РѕСЃ РЅР°СЃ СѓС‚РµС€Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>Здесь Он силы нам дает,</plain>
+            <plain>Р—РґРµСЃСЊ РћРЅ СЃРёР»С‹ РЅР°Рј РґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Словом Божьим подкрепляет.</plain>
+            <plain>РЎР»РѕРІРѕРј Р‘РѕР¶СЊРёРј РїРѕРґРєСЂРµРїР»СЏРµС‚.</plain>
         </string>
         <string>
-            <plain>Чтобы прямо плыть вперед.</plain>
+            <plain>Р§С‚РѕР±С‹ РїСЂСЏРјРѕ РїР»С‹С‚СЊ РІРїРµСЂРµРґ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>На пути нам очень часто</plain>
+            <plain>РќР° РїСѓС‚Рё РЅР°Рј РѕС‡РµРЅСЊ С‡Р°СЃС‚Рѕ</plain>
         </string>
         <string>
-            <plain>Буря страшная грозит,</plain>
+            <plain>Р‘СѓСЂСЏ СЃС‚СЂР°С€РЅР°СЏ РіСЂРѕР·РёС‚,</plain>
         </string>
         <string>
-            <plain>Но в окошках все же ясно</plain>
+            <plain>РќРѕ РІ РѕРєРѕС€РєР°С… РІСЃРµ Р¶Рµ СЏСЃРЅРѕ</plain>
         </string>
         <string>
-            <plain>Христианский свет горит.</plain>
+            <plain>РҐСЂРёСЃС‚РёР°РЅСЃРєРёР№ СЃРІРµС‚ РіРѕСЂРёС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Наш любимый Искупитель,</plain>
+            <plain>РќР°С€ Р»СЋР±РёРјС‹Р№ РСЃРєСѓРїРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Охраняй нас на пути,</plain>
+            <plain>РћС…СЂР°РЅСЏР№ РЅР°СЃ РЅР° РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>И в Свою, Христос, обитель</plain>
+            <plain>Р РІ РЎРІРѕСЋ, РҐСЂРёСЃС‚РѕСЃ, РѕР±РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>На руках Ты нас неси.</plain>
+            <plain>РќР° СЂСѓРєР°С… РўС‹ РЅР°СЃ РЅРµСЃРё.</plain>
         </string>
     </verse>
 </psalm>

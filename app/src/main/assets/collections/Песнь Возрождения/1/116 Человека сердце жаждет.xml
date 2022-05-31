@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="116" name="Человека сердце жаждет" canon="false" text="" textRus="" music="">
+<psalm number="116" name="Р§РµР»РѕРІРµРєР° СЃРµСЂРґС†Рµ Р¶Р°Р¶РґРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Человека сердце жаждет</plain>
+            <plain>Р§РµР»РѕРІРµРєР° СЃРµСЂРґС†Рµ Р¶Р°Р¶РґРµС‚</plain>
         </string>
         <string>
-            <plain>Милости, любви Творца;</plain>
+            <plain>РњРёР»РѕСЃС‚Рё, Р»СЋР±РІРё РўРІРѕСЂС†Р°;</plain>
         </string>
         <string>
-            <plain>Без Него оно так страждет,</plain>
+            <plain>Р‘РµР· РќРµРіРѕ РѕРЅРѕ С‚Р°Рє СЃС‚СЂР°Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Как без пастыря овца.</plain>
+            <plain>РљР°Рє Р±РµР· РїР°СЃС‚С‹СЂСЏ РѕРІС†Р°.</plain>
         </string>
         <string>
-            <plain>О мой Бог! Ты видишь, знаешь:</plain>
+            <plain>Рћ РјРѕР№ Р‘РѕРі! РўС‹ РІРёРґРёС€СЊ, Р·РЅР°РµС€СЊ:</plain>
         </string>
         <string>
-            <plain>Я хочу любви Твоей,</plain>
+            <plain>РЇ С…РѕС‡Сѓ Р»СЋР±РІРё РўРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>И я знаю, Ты желаешь</plain>
+            <plain>Р СЏ Р·РЅР°СЋ, РўС‹ Р¶РµР»Р°РµС€СЊ</plain>
         </string>
         <string>
-            <plain>Дать любовь душе моей.</plain>
+            <plain>Р”Р°С‚СЊ Р»СЋР±РѕРІСЊ РґСѓС€Рµ РјРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Знаю я из слов Писанья,</plain>
+            <plain>Р—РЅР°СЋ СЏ РёР· СЃР»РѕРІ РџРёСЃР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Ты меня уж возлюбил!</plain>
+            <plain>РўС‹ РјРµРЅСЏ СѓР¶ РІРѕР·Р»СЋР±РёР»!</plain>
         </string>
         <string>
-            <plain>Для меня Ты в день страданья</plain>
+            <plain>Р”Р»СЏ РјРµРЅСЏ РўС‹ РІ РґРµРЅСЊ СЃС‚СЂР°РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Сына Своего забыл.</plain>
+            <plain>РЎС‹РЅР° РЎРІРѕРµРіРѕ Р·Р°Р±С‹Р».</plain>
         </string>
         <string>
-            <plain>Сердцем, полным умиленья,</plain>
+            <plain>РЎРµСЂРґС†РµРј, РїРѕР»РЅС‹Рј СѓРјРёР»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Я б хотел на крест взирать;</plain>
+            <plain>РЇ Р± С…РѕС‚РµР» РЅР° РєСЂРµСЃС‚ РІР·РёСЂР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Кровь и раны от мученья</plain>
+            <plain>РљСЂРѕРІСЊ Рё СЂР°РЅС‹ РѕС‚ РјСѓС‡РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Никогда не забывать!</plain>
+            <plain>РќРёРєРѕРіРґР° РЅРµ Р·Р°Р±С‹РІР°С‚СЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я б хотел, чтоб вид мученья</plain>
+            <plain>РЇ Р± С…РѕС‚РµР», С‡С‚РѕР± РІРёРґ РјСѓС‡РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Влил в меня огонь такой,</plain>
+            <plain>Р’Р»РёР» РІ РјРµРЅСЏ РѕРіРѕРЅСЊ С‚Р°РєРѕР№,</plain>
         </string>
         <string>
-            <plain>Чтоб он сжег во мне сомненья,</plain>
+            <plain>Р§С‚РѕР± РѕРЅ СЃР¶РµРі РІРѕ РјРЅРµ СЃРѕРјРЅРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Все соблазны, грех плотской;</plain>
+            <plain>Р’СЃРµ СЃРѕР±Р»Р°Р·РЅС‹, РіСЂРµС… РїР»РѕС‚СЃРєРѕР№;</plain>
         </string>
         <string>
-            <plain>Чтоб, любя не для награды,</plain>
+            <plain>Р§С‚РѕР±, Р»СЋР±СЏ РЅРµ РґР»СЏ РЅР°РіСЂР°РґС‹,</plain>
         </string>
         <string>
-            <plain>Беззаветно и вполне,</plain>
+            <plain>Р‘РµР·Р·Р°РІРµС‚РЅРѕ Рё РІРїРѕР»РЅРµ,</plain>
         </string>
         <string>
-            <plain>Я не видел бы преграды</plain>
+            <plain>РЇ РЅРµ РІРёРґРµР» Р±С‹ РїСЂРµРіСЂР°РґС‹</plain>
         </string>
         <string>
-            <plain>Для любви Твоей ко мне.</plain>
+            <plain>Р”Р»СЏ Р»СЋР±РІРё РўРІРѕРµР№ РєРѕ РјРЅРµ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="371" name="Думай так как Бог велит" canon="false" text="" textRus="" music="">
+<psalm number="371" name="Р”СѓРјР°Р№ С‚Р°Рє РєР°Рє Р‘РѕРі РІРµР»РёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Думай так, как Бог велит,</plain>
+            <plain>Р”СѓРјР°Р№ С‚Р°Рє, РєР°Рє Р‘РѕРі РІРµР»РёС‚,</plain>
         </string>
         <string>
-            <plain>Мысли Божьи выражай;</plain>
+            <plain>РњС‹СЃР»Рё Р‘РѕР¶СЊРё РІС‹СЂР°Р¶Р°Р№;</plain>
         </string>
         <string>
-            <plain>Не страшись, хоть мир грозит;</plain>
+            <plain>РќРµ СЃС‚СЂР°С€РёСЃСЊ, С…РѕС‚СЊ РјРёСЂ РіСЂРѕР·РёС‚;</plain>
         </string>
         <string>
-            <plain>Угнетенных ободряй!</plain>
+            <plain>РЈРіРЅРµС‚РµРЅРЅС‹С… РѕР±РѕРґСЂСЏР№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слушай совесть, честным будь!</plain>
+            <plain>РЎР»СѓС€Р°Р№ СЃРѕРІРµСЃС‚СЊ, С‡РµСЃС‚РЅС‹Рј Р±СѓРґСЊ!</plain>
         </string>
         <string>
-            <plain>Слушай разум, мудрым будь!</plain>
+            <plain>РЎР»СѓС€Р°Р№ СЂР°Р·СѓРј, РјСѓРґСЂС‹Рј Р±СѓРґСЊ!</plain>
         </string>
         <string>
-            <plain>Слушай сердце, но Христа</plain>
+            <plain>РЎР»СѓС€Р°Р№ СЃРµСЂРґС†Рµ, РЅРѕ РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Лучше слушать, чем весь мир.</plain>
+            <plain>Р›СѓС‡С€Рµ СЃР»СѓС€Р°С‚СЊ, С‡РµРј РІРµСЃСЊ РјРёСЂ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Нравов ты не будь рабом,</plain>
+            <plain>РќСЂР°РІРѕРІ С‚С‹ РЅРµ Р±СѓРґСЊ СЂР°Р±РѕРј,</plain>
         </string>
         <string>
-            <plain>Дар небес не отвергай,</plain>
+            <plain>Р”Р°СЂ РЅРµР±РµСЃ РЅРµ РѕС‚РІРµСЂРіР°Р№,</plain>
         </string>
         <string>
-            <plain>Но Его являй кругом;</plain>
+            <plain>РќРѕ Р•РіРѕ СЏРІР»СЏР№ РєСЂСѓРіРѕРј;</plain>
         </string>
         <string>
-            <plain>Среди клятв благословляй.</plain>
+            <plain>РЎСЂРµРґРё РєР»СЏС‚РІ Р±Р»Р°РіРѕСЃР»РѕРІР»СЏР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Зло, обиды забывай;</plain>
+            <plain>Р—Р»Рѕ, РѕР±РёРґС‹ Р·Р°Р±С‹РІР°Р№;</plain>
         </string>
         <string>
-            <plain>Путь Христа не оставляй;</plain>
+            <plain>РџСѓС‚СЊ РҐСЂРёСЃС‚Р° РЅРµ РѕСЃС‚Р°РІР»СЏР№;</plain>
         </string>
         <string>
-            <plain>Не стыдись Ему служить,</plain>
+            <plain>РќРµ СЃС‚С‹РґРёСЃСЊ Р•РјСѓ СЃР»СѓР¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>По Его веленьям жить.</plain>
+            <plain>РџРѕ Р•РіРѕ РІРµР»РµРЅСЊСЏРј Р¶РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

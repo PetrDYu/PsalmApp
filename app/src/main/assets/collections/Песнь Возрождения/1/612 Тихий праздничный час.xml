@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="612" name="Тихий праздничный час" canon="false" text="" textRus="" music="">
+<psalm number="612" name="РўРёС…РёР№ РїСЂР°Р·РґРЅРёС‡РЅС‹Р№ С‡Р°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тихий, праздничный час...</plain>
+            <plain>РўРёС…РёР№, РїСЂР°Р·РґРЅРёС‡РЅС‹Р№ С‡Р°СЃ...</plain>
         </string>
         <string>
-            <plain>Год прошел, год угас...</plain>
+            <plain>Р“РѕРґ РїСЂРѕС€РµР», РіРѕРґ СѓРіР°СЃ...</plain>
         </string>
         <string>
-            <plain>Новый год, новый год</plain>
+            <plain>РќРѕРІС‹Р№ РіРѕРґ, РЅРѕРІС‹Р№ РіРѕРґ</plain>
         </string>
         <string>
-            <plain>Нам Всевышний дает!</plain>
+            <plain>РќР°Рј Р’СЃРµРІС‹С€РЅРёР№ РґР°РµС‚!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Год прошел, ближе дом,</plain>
+            <plain>Р“РѕРґ РїСЂРѕС€РµР», Р±Р»РёР¶Рµ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Ближе встреча с Отцом;</plain>
+            <plain>Р‘Р»РёР¶Рµ РІСЃС‚СЂРµС‡Р° СЃ РћС‚С†РѕРј;</plain>
         </string>
         <string>
-            <plain>Друг, воспой, друг, воспой!</plain>
+            <plain>Р”СЂСѓРі, РІРѕСЃРїРѕР№, РґСЂСѓРі, РІРѕСЃРїРѕР№!</plain>
         </string>
         <string>
-            <plain>Ближе вечный покой.</plain>
+            <plain>Р‘Р»РёР¶Рµ РІРµС‡РЅС‹Р№ РїРѕРєРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Что с собой принесет</plain>
+            <plain>Р§С‚Рѕ СЃ СЃРѕР±РѕР№ РїСЂРёРЅРµСЃРµС‚</plain>
         </string>
         <string>
-            <plain>Нами встреченный год?</plain>
+            <plain>РќР°РјРё РІСЃС‚СЂРµС‡РµРЅРЅС‹Р№ РіРѕРґ?</plain>
         </string>
         <string>
-            <plain>Смерть иль пир, смерть иль пир,</plain>
+            <plain>РЎРјРµСЂС‚СЊ РёР»СЊ РїРёСЂ, СЃРјРµСЂС‚СЊ РёР»СЊ РїРёСЂ,</plain>
         </string>
         <string>
-            <plain>Бурю сердца иль мир?</plain>
+            <plain>Р‘СѓСЂСЋ СЃРµСЂРґС†Р° РёР»СЊ РјРёСЂ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Что грядет - нам темно,</plain>
+            <plain>Р§С‚Рѕ РіСЂСЏРґРµС‚ - РЅР°Рј С‚РµРјРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Но мы знаем одно:</plain>
+            <plain>РќРѕ РјС‹ Р·РЅР°РµРј РѕРґРЅРѕ:</plain>
         </string>
         <string>
-            <plain>С нами Тот, с нами Тот,</plain>
+            <plain>РЎ РЅР°РјРё РўРѕС‚, СЃ РЅР°РјРё РўРѕС‚,</plain>
         </string>
         <string>
-            <plain>Кто нас к небу ведет.</plain>
+            <plain>РљС‚Рѕ РЅР°СЃ Рє РЅРµР±Сѓ РІРµРґРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>С нами Вождь, полный сил,</plain>
+            <plain>РЎ РЅР°РјРё Р’РѕР¶РґСЊ, РїРѕР»РЅС‹Р№ СЃРёР»,</plain>
         </string>
         <string>
-            <plain>Кто врага победил;</plain>
+            <plain>РљС‚Рѕ РІСЂР°РіР° РїРѕР±РµРґРёР»;</plain>
         </string>
         <string>
-            <plain>Он сулит, Он сулит</plain>
+            <plain>РћРЅ СЃСѓР»РёС‚, РћРЅ СЃСѓР»РёС‚</plain>
         </string>
         <string>
-            <plain>Нам охрану и щит.</plain>
+            <plain>РќР°Рј РѕС…СЂР°РЅСѓ Рё С‰РёС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И мы слышим в мольбе:</plain>
+            <plain>Р РјС‹ СЃР»С‹С€РёРј РІ РјРѕР»СЊР±Рµ:</plain>
         </string>
         <string>
-            <plain>"Все ко благу тебе!</plain>
+            <plain>"Р’СЃРµ РєРѕ Р±Р»Р°РіСѓ С‚РµР±Рµ!</plain>
         </string>
         <string>
-            <plain>Не страшись, не страшись,</plain>
+            <plain>РќРµ СЃС‚СЂР°С€РёСЃСЊ, РЅРµ СЃС‚СЂР°С€РёСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Только бодрствуй, молись!"</plain>
+            <plain>РўРѕР»СЊРєРѕ Р±РѕРґСЂСЃС‚РІСѓР№, РјРѕР»РёСЃСЊ!"</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Если горе - молись,</plain>
+            <plain>Р•СЃР»Рё РіРѕСЂРµ - РјРѕР»РёСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Если радость - стремись</plain>
+            <plain>Р•СЃР»Рё СЂР°РґРѕСЃС‚СЊ - СЃС‚СЂРµРјРёСЃСЊ</plain>
         </string>
         <string>
-            <plain>Воспевать, воспевать</plain>
+            <plain>Р’РѕСЃРїРµРІР°С‚СЊ, РІРѕСЃРїРµРІР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Божьих рук благодать.</plain>
+            <plain>Р‘РѕР¶СЊРёС… СЂСѓРє Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

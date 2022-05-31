@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2691" name="Недолог путь мой на земле" canon="false" text="" textRus="" music="">
+<psalm number="2691" name="РќРµРґРѕР»РѕРі РїСѓС‚СЊ РјРѕР№ РЅР° Р·РµРјР»Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Недолог путь мой на земле,</plain>
+            <plain>РќРµРґРѕР»РѕРі РїСѓС‚СЊ РјРѕР№ РЅР° Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>Но благодарен я Тебе,</plain>
+            <plain>РќРѕ Р±Р»Р°РіРѕРґР°СЂРµРЅ СЏ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Что Ты, Христос, нашел меня</plain>
+            <plain>Р§С‚Рѕ РўС‹, РҐСЂРёСЃС‚РѕСЃ, РЅР°С€РµР» РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Среди греха, в пучине зла.</plain>
+            <plain>РЎСЂРµРґРё РіСЂРµС…Р°, РІ РїСѓС‡РёРЅРµ Р·Р»Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Цари, Христос, в душе моей,</plain>
+            <plain>Р¦Р°СЂРё, РҐСЂРёСЃС‚РѕСЃ, РІ РґСѓС€Рµ РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Гори, огонь любви, сильней,</plain>
+            <plain>Р“РѕСЂРё, РѕРіРѕРЅСЊ Р»СЋР±РІРё, СЃРёР»СЊРЅРµР№,</plain>
         </string>
         <string>
-            <plain>Когда пройду свой путь земной</plain>
+            <plain>РљРѕРіРґР° РїСЂРѕР№РґСѓ СЃРІРѕР№ РїСѓС‚СЊ Р·РµРјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Сольюсь навек, Христос, с Тобой.</plain>
+            <plain>РЎРѕР»СЊСЋСЃСЊ РЅР°РІРµРє, РҐСЂРёСЃС‚РѕСЃ, СЃ РўРѕР±РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь, Ты хочешь от меня,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РўС‹ С…РѕС‡РµС€СЊ РѕС‚ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб в тьме ночной иль в свете дня</plain>
+            <plain>Р§С‚РѕР± РІ С‚СЊРјРµ РЅРѕС‡РЅРѕР№ РёР»СЊ РІ СЃРІРµС‚Рµ РґРЅСЏ</plain>
         </string>
         <string>
-            <plain>Твои заветы я хранил,</plain>
+            <plain>РўРІРѕРё Р·Р°РІРµС‚С‹ СЏ С…СЂР°РЅРёР»,</plain>
         </string>
         <string>
-            <plain>Трудился, верил и любил.</plain>
+            <plain>РўСЂСѓРґРёР»СЃСЏ, РІРµСЂРёР» Рё Р»СЋР±РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай свято, честно жизнь прожить</plain>
+            <plain>Р”Р°Р№ СЃРІСЏС‚Рѕ, С‡РµСЃС‚РЅРѕ Р¶РёР·РЅСЊ РїСЂРѕР¶РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И каждым мигом дорожить,</plain>
+            <plain>Р РєР°Р¶РґС‹Рј РјРёРіРѕРј РґРѕСЂРѕР¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Хочу, чтоб добрый Пастырь мой</plain>
+            <plain>РҐРѕС‡Сѓ, С‡С‚РѕР± РґРѕР±СЂС‹Р№ РџР°СЃС‚С‹СЂСЊ РјРѕР№</plain>
         </string>
         <string>
-            <plain>Доволен был Своей овцой.</plain>
+            <plain>Р”РѕРІРѕР»РµРЅ Р±С‹Р» РЎРІРѕРµР№ РѕРІС†РѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты жизнь земную, словно дар,</plain>
+            <plain>РўС‹ Р¶РёР·РЅСЊ Р·РµРјРЅСѓСЋ, СЃР»РѕРІРЅРѕ РґР°СЂ,</plain>
         </string>
         <string>
-            <plain>В Своей любви мне, Боже, дал.</plain>
+            <plain>Р’ РЎРІРѕРµР№ Р»СЋР±РІРё РјРЅРµ, Р‘РѕР¶Рµ, РґР°Р».</plain>
         </string>
         <string>
-            <plain>Она, как вечности залог,</plain>
+            <plain>РћРЅР°, РєР°Рє РІРµС‡РЅРѕСЃС‚Рё Р·Р°Р»РѕРі,</plain>
         </string>
         <string>
-            <plain>Где всё во всем мой Царь и Бог.</plain>
+            <plain>Р“РґРµ РІСЃС‘ РІРѕ РІСЃРµРј РјРѕР№ Р¦Р°СЂСЊ Рё Р‘РѕРі.</plain>
         </string>
     </verse>
 </psalm>

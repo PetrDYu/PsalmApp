@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="425" name="Ручьем святая кровь течет" canon="false" text="" textRus="" music="">
+<psalm number="425" name="Р СѓС‡СЊРµРј СЃРІСЏС‚Р°СЏ РєСЂРѕРІСЊ С‚РµС‡РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ручьем святая кровь течет</plain>
+            <plain>Р СѓС‡СЊРµРј СЃРІСЏС‚Р°СЏ РєСЂРѕРІСЊ С‚РµС‡РµС‚</plain>
         </string>
         <string>
-            <plain>В омытие грехов;</plain>
+            <plain>Р’ РѕРјС‹С‚РёРµ РіСЂРµС…РѕРІ;</plain>
         </string>
         <string>
-            <plain>Покой в нем страждущий найдет</plain>
+            <plain>РџРѕРєРѕР№ РІ РЅРµРј СЃС‚СЂР°Р¶РґСѓС‰РёР№ РЅР°Р№РґРµС‚</plain>
         </string>
         <string>
-            <plain>И отдых от трудов.</plain>
+            <plain>Р РѕС‚РґС‹С… РѕС‚ С‚СЂСѓРґРѕРІ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисуса кровь с креста текла</plain>
+            <plain>РРёСЃСѓСЃР° РєСЂРѕРІСЊ СЃ РєСЂРµСЃС‚Р° С‚РµРєР»Р°</plain>
         </string>
         <string>
-            <plain>С Его чела, с ланит;</plain>
+            <plain>РЎ Р•РіРѕ С‡РµР»Р°, СЃ Р»Р°РЅРёС‚;</plain>
         </string>
         <string>
-            <plain>Я был в пороках без числа,</plain>
+            <plain>РЇ Р±С‹Р» РІ РїРѕСЂРѕРєР°С… Р±РµР· С‡РёСЃР»Р°,</plain>
         </string>
         <string>
-            <plain>Но ею я омыт.</plain>
+            <plain>РќРѕ РµСЋ СЏ РѕРјС‹С‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Разбойник на кресте нашел</plain>
+            <plain>Р Р°Р·Р±РѕР№РЅРёРє РЅР° РєСЂРµСЃС‚Рµ РЅР°С€РµР»</plain>
         </string>
         <string>
-            <plain>Тот чудный ключ святой;</plain>
+            <plain>РўРѕС‚ С‡СѓРґРЅС‹Р№ РєР»СЋС‡ СЃРІСЏС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Омытый им, и он обрел</plain>
+            <plain>РћРјС‹С‚С‹Р№ РёРј, Рё РѕРЅ РѕР±СЂРµР»</plain>
         </string>
         <string>
-            <plain>Своей душе покой.</plain>
+            <plain>РЎРІРѕРµР№ РґСѓС€Рµ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда крови Его струя</plain>
+            <plain>РљРѕРіРґР° РєСЂРѕРІРё Р•РіРѕ СЃС‚СЂСѓСЏ</plain>
         </string>
         <string>
-            <plain>Проникла в сердце мне,</plain>
+            <plain>РџСЂРѕРЅРёРєР»Р° РІ СЃРµСЂРґС†Рµ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Вновь ожила душа моя</plain>
+            <plain>Р’РЅРѕРІСЊ РѕР¶РёР»Р° РґСѓС€Р° РјРѕСЏ</plain>
         </string>
         <string>
-            <plain>В небесной белизне.</plain>
+            <plain>Р’ РЅРµР±РµСЃРЅРѕР№ Р±РµР»РёР·РЅРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>От Господа я был далек,</plain>
+            <plain>РћС‚ Р“РѕСЃРїРѕРґР° СЏ Р±С‹Р» РґР°Р»РµРє,</plain>
         </string>
         <string>
-            <plain>Блуждал в земных путях;</plain>
+            <plain>Р‘Р»СѓР¶РґР°Р» РІ Р·РµРјРЅС‹С… РїСѓС‚СЏС…;</plain>
         </string>
         <string>
-            <plain>Но Он меня к Себе привлек,</plain>
+            <plain>РќРѕ РћРЅ РјРµРЅСЏ Рє РЎРµР±Рµ РїСЂРёРІР»РµРє,</plain>
         </string>
         <string>
-            <plain>И я в Его руках.</plain>
+            <plain>Р СЏ РІ Р•РіРѕ СЂСѓРєР°С….</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И если в немощи я вновь</plain>
+            <plain>Р РµСЃР»Рё РІ РЅРµРјРѕС‰Рё СЏ РІРЅРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>Иисуса огорчу,</plain>
+            <plain>РРёСЃСѓСЃР° РѕРіРѕСЂС‡Сѓ,</plain>
         </string>
         <string>
-            <plain>Я знаю, что святая кровь</plain>
+            <plain>РЇ Р·РЅР°СЋ, С‡С‚Рѕ СЃРІСЏС‚Р°СЏ РєСЂРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>Сотрет вину мою.</plain>
+            <plain>РЎРѕС‚СЂРµС‚ РІРёРЅСѓ РјРѕСЋ.</plain>
         </string>
     </verse>
 </psalm>

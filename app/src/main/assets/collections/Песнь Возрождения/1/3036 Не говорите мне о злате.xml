@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3036" name="Не говорите мне о злате" canon="false" text="" textRus="" music="">
+<psalm number="3036" name="РќРµ РіРѕРІРѕСЂРёС‚Рµ РјРЅРµ Рѕ Р·Р»Р°С‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не говорите мне о злате,</plain>
+            <plain>РќРµ РіРѕРІРѕСЂРёС‚Рµ РјРЅРµ Рѕ Р·Р»Р°С‚Рµ,</plain>
         </string>
         <string>
-            <plain>благах, сокровищах земных:</plain>
+            <plain>Р±Р»Р°РіР°С…, СЃРѕРєСЂРѕРІРёС‰Р°С… Р·РµРјРЅС‹С…:</plain>
         </string>
         <string>
-            <plain>мой взор они не привлекают,</plain>
+            <plain>РјРѕР№ РІР·РѕСЂ РѕРЅРё РЅРµ РїСЂРёРІР»РµРєР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>я не нашёл блаженства в них.</plain>
+            <plain>СЏ РЅРµ РЅР°С€С‘Р» Р±Р»Р°Р¶РµРЅСЃС‚РІР° РІ РЅРёС….</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Люби, что хочешь,</plain>
+            <plain>Р›СЋР±Рё, С‡С‚Рѕ С…РѕС‡РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>ну а я люблю Христа.</plain>
+            <plain>РЅСѓ Р° СЏ Р»СЋР±Р»СЋ РҐСЂРёСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Он — жизнь моя.</plain>
+            <plain>РћРЅ вЂ” Р¶РёР·РЅСЊ РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Люби, что хочешь,</plain>
+            <plain>Р›СЋР±Рё, С‡С‚Рѕ С…РѕС‡РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>ну а я люблю Христа,</plain>
+            <plain>РЅСѓ Р° СЏ Р»СЋР±Р»СЋ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Он - цель моя.</plain>
+            <plain>РћРЅ - С†РµР»СЊ РјРѕСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Один Христос - моё богатство,</plain>
+            <plain>РћРґРёРЅ РҐСЂРёСЃС‚РѕСЃ - РјРѕС‘ Р±РѕРіР°С‚СЃС‚РІРѕ,</plain>
         </string>
         <string>
-            <plain>как дорог мне Спаситель мой!</plain>
+            <plain>РєР°Рє РґРѕСЂРѕРі РјРЅРµ РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№!</plain>
         </string>
         <string>
-            <plain>Свой взор к Нему лишь направляю,</plain>
+            <plain>РЎРІРѕР№ РІР·РѕСЂ Рє РќРµРјСѓ Р»РёС€СЊ РЅР°РїСЂР°РІР»СЏСЋ,</plain>
         </string>
         <string>
-            <plain>я в Нём нашёл душе покой.</plain>
+            <plain>СЏ РІ РќС‘Рј РЅР°С€С‘Р» РґСѓС€Рµ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Всё то, что в мире - проходяще,</plain>
+            <plain>Р’СЃС‘ С‚Рѕ, С‡С‚Рѕ РІ РјРёСЂРµ - РїСЂРѕС…РѕРґСЏС‰Рµ,</plain>
         </string>
         <string>
-            <plain>и пользы нет от благ плотских;</plain>
+            <plain>Рё РїРѕР»СЊР·С‹ РЅРµС‚ РѕС‚ Р±Р»Р°Рі РїР»РѕС‚СЃРєРёС…;</plain>
         </string>
         <string>
-            <plain>и всё, что создано руками,</plain>
+            <plain>Рё РІСЃС‘, С‡С‚Рѕ СЃРѕР·РґР°РЅРѕ СЂСѓРєР°РјРё,</plain>
         </string>
         <string>
-            <plain>погибнуть может в один миг.</plain>
+            <plain>РїРѕРіРёР±РЅСѓС‚СЊ РјРѕР¶РµС‚ РІ РѕРґРёРЅ РјРёРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Меня над всем возвысить может,</plain>
+            <plain>РњРµРЅСЏ РЅР°Рґ РІСЃРµРј РІРѕР·РІС‹СЃРёС‚СЊ РјРѕР¶РµС‚,</plain>
         </string>
         <string>
-            <plain>в борьбе со злом дал благодать;</plain>
+            <plain>РІ Р±РѕСЂСЊР±Рµ СЃРѕ Р·Р»РѕРј РґР°Р» Р±Р»Р°РіРѕРґР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>сокровищ столько Он дарует,</plain>
+            <plain>СЃРѕРєСЂРѕРІРёС‰ СЃС‚РѕР»СЊРєРѕ РћРЅ РґР°СЂСѓРµС‚,</plain>
         </string>
         <string>
-            <plain>что я несказанно богат.</plain>
+            <plain>С‡С‚Рѕ СЏ РЅРµСЃРєР°Р·Р°РЅРЅРѕ Р±РѕРіР°С‚.</plain>
         </string>
     </verse>
 </psalm>

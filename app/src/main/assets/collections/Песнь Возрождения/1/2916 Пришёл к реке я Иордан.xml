@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2916" name="Пришёл к реке я Иордан" canon="false" text="" textRus="" music="">
+<psalm number="2916" name="РџСЂРёС€С‘Р» Рє СЂРµРєРµ СЏ РРѕСЂРґР°РЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пришёл к реке я Иордан,</plain>
+            <plain>РџСЂРёС€С‘Р» Рє СЂРµРєРµ СЏ РРѕСЂРґР°РЅ,</plain>
         </string>
         <string>
-            <plain>идя в священный Ханаан,</plain>
+            <plain>РёРґСЏ РІ СЃРІСЏС‰РµРЅРЅС‹Р№ РҐР°РЅР°Р°РЅ,</plain>
         </string>
         <string>
-            <plain>куда Господь меня позвал</plain>
+            <plain>РєСѓРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїРѕР·РІР°Р»</plain>
         </string>
         <string>
-            <plain>и я всем сердцем зову внял.</plain>
+            <plain>Рё СЏ РІСЃРµРј СЃРµСЂРґС†РµРј Р·РѕРІСѓ РІРЅСЏР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Войди в священный Ханаан,</plain>
+            <plain>Р’РѕР№РґРё РІ СЃРІСЏС‰РµРЅРЅС‹Р№ РҐР°РЅР°Р°РЅ,</plain>
         </string>
         <string>
-            <plain>войди в священный Ханаан!</plain>
+            <plain>РІРѕР№РґРё РІ СЃРІСЏС‰РµРЅРЅС‹Р№ РҐР°РЅР°Р°РЅ!</plain>
         </string>
         <string>
-            <plain>Там сладкие плоды растут,</plain>
+            <plain>РўР°Рј СЃР»Р°РґРєРёРµ РїР»РѕРґС‹ СЂР°СЃС‚СѓС‚,</plain>
         </string>
         <string>
-            <plain>там молоко и мёд текут.</plain>
+            <plain>С‚Р°Рј РјРѕР»РѕРєРѕ Рё РјС‘Рґ С‚РµРєСѓС‚.</plain>
         </string>
         <string>
-            <plain>Войди в священный Ханаан!</plain>
+            <plain>Р’РѕР№РґРё РІ СЃРІСЏС‰РµРЅРЅС‹Р№ РҐР°РЅР°Р°РЅ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он все мои грехи простил</plain>
+            <plain>РћРЅ РІСЃРµ РјРѕРё РіСЂРµС…Рё РїСЂРѕСЃС‚РёР»</plain>
         </string>
         <string>
-            <plain>и светом свыше озарил;</plain>
+            <plain>Рё СЃРІРµС‚РѕРј СЃРІС‹С€Рµ РѕР·Р°СЂРёР»;</plain>
         </string>
         <string>
-            <plain>однако страстно жаждал</plain>
+            <plain>РѕРґРЅР°РєРѕ СЃС‚СЂР°СЃС‚РЅРѕ Р¶Р°Р¶РґР°Р»</plain>
         </string>
         <string>
-            <plain>я войти в священный Ханаан.</plain>
+            <plain>СЏ РІРѕР№С‚Рё РІ СЃРІСЏС‰РµРЅРЅС‹Р№ РҐР°РЅР°Р°РЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И здесь пред смертью я предстал,</plain>
+            <plain>Р Р·РґРµСЃСЊ РїСЂРµРґ СЃРјРµСЂС‚СЊСЋ СЏ РїСЂРµРґСЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>и смерти «я» своё предал,</plain>
+            <plain>Рё СЃРјРµСЂС‚Рё В«СЏВ» СЃРІРѕС‘ РїСЂРµРґР°Р»,</plain>
         </string>
         <string>
-            <plain>и ветхий человек распят;</plain>
+            <plain>Рё РІРµС‚С…РёР№ С‡РµР»РѕРІРµРє СЂР°СЃРїСЏС‚;</plain>
         </string>
         <string>
-            <plain>теперь свободен я и свят.</plain>
+            <plain>С‚РµРїРµСЂСЊ СЃРІРѕР±РѕРґРµРЅ СЏ Рё СЃРІСЏС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И благодати дар второй</plain>
+            <plain>Р Р±Р»Р°РіРѕРґР°С‚Рё РґР°СЂ РІС‚РѕСЂРѕР№</plain>
         </string>
         <string>
-            <plain>мне даровал Спаситель мой;</plain>
+            <plain>РјРЅРµ РґР°СЂРѕРІР°Р» РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№;</plain>
         </string>
         <string>
-            <plain>грех первородный побеждён</plain>
+            <plain>РіСЂРµС… РїРµСЂРІРѕСЂРѕРґРЅС‹Р№ РїРѕР±РµР¶РґС‘РЅ</plain>
         </string>
         <string>
-            <plain>и весь я Богу посвящён.</plain>
+            <plain>Рё РІРµСЃСЊ СЏ Р‘РѕРіСѓ РїРѕСЃРІСЏС‰С‘РЅ.</plain>
         </string>
     </verse>
 </psalm>

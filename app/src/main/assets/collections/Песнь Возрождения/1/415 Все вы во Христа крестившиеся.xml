@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="415" name="Все вы во Христа крестившиеся" canon="false" text="" textRus="" music="">
+<psalm number="415" name="Р’СЃРµ РІС‹ РІРѕ РҐСЂРёСЃС‚Р° РєСЂРµСЃС‚РёРІС€РёРµСЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Все вы,</plain>
+            <plain>Р’СЃРµ РІС‹,</plain>
         </string>
         <string>
-            <plain>во Христа крестившиеся,</plain>
+            <plain>РІРѕ РҐСЂРёСЃС‚Р° РєСЂРµСЃС‚РёРІС€РёРµСЃСЏ,</plain>
         </string>
         <string>
-            <plain>во Христа облеклись.</plain>
+            <plain>РІРѕ РҐСЂРёСЃС‚Р° РѕР±Р»РµРєР»РёСЃСЊ.</plain>
         </string>
     </verse>
 </psalm>

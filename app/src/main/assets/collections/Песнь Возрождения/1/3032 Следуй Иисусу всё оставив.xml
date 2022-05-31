@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3032" name="Следуй Иисусу всё оставив" canon="false" text="" textRus="" music="">
+<psalm number="3032" name="РЎР»РµРґСѓР№ РРёСЃСѓСЃСѓ РІСЃС‘ РѕСЃС‚Р°РІРёРІ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Следуй Иисусу, всё оставив:</plain>
+            <plain>РЎР»РµРґСѓР№ РРёСЃСѓСЃСѓ, РІСЃС‘ РѕСЃС‚Р°РІРёРІ:</plain>
         </string>
         <string>
-            <plain>славу, честь, почёт, хвалу;</plain>
+            <plain>СЃР»Р°РІСѓ, С‡РµСЃС‚СЊ, РїРѕС‡С‘С‚, С…РІР°Р»Сѓ;</plain>
         </string>
         <string>
-            <plain>держи в вере Божью руку,</plain>
+            <plain>РґРµСЂР¶Рё РІ РІРµСЂРµ Р‘РѕР¶СЊСЋ СЂСѓРєСѓ,</plain>
         </string>
         <string>
-            <plain>силы все отдай Ему.</plain>
+            <plain>СЃРёР»С‹ РІСЃРµ РѕС‚РґР°Р№ Р•РјСѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Следуй Иисусу, всё оставив:</plain>
+            <plain>РЎР»РµРґСѓР№ РРёСЃСѓСЃСѓ, РІСЃС‘ РѕСЃС‚Р°РІРёРІ:</plain>
         </string>
         <string>
-            <plain>славу, честь, почёт, хвалу;</plain>
+            <plain>СЃР»Р°РІСѓ, С‡РµСЃС‚СЊ, РїРѕС‡С‘С‚, С…РІР°Р»Сѓ;</plain>
         </string>
         <string>
-            <plain>держи в вере Божью руку,</plain>
+            <plain>РґРµСЂР¶Рё РІ РІРµСЂРµ Р‘РѕР¶СЊСЋ СЂСѓРєСѓ,</plain>
         </string>
         <string>
-            <plain>силы все отдай Ему.</plain>
+            <plain>СЃРёР»С‹ РІСЃРµ РѕС‚РґР°Р№ Р•РјСѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Всё, что дорого здесь</plain>
+            <plain>Р’СЃС‘, С‡С‚Рѕ РґРѕСЂРѕРіРѕ Р·РґРµСЃСЊ</plain>
         </string>
         <string>
-            <plain>сердцу, Иисусу посвяти;</plain>
+            <plain>СЃРµСЂРґС†Сѓ, РРёСЃСѓСЃСѓ РїРѕСЃРІСЏС‚Рё;</plain>
         </string>
         <string>
-            <plain>и тогда огонь небесный</plain>
+            <plain>Рё С‚РѕРіРґР° РѕРіРѕРЅСЊ РЅРµР±РµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>не замедлит снизойти.</plain>
+            <plain>РЅРµ Р·Р°РјРµРґР»РёС‚ СЃРЅРёР·РѕР№С‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Претерпи всё для Иисуса:</plain>
+            <plain>РџСЂРµС‚РµСЂРїРё РІСЃС‘ РґР»СЏ РРёСЃСѓСЃР°:</plain>
         </string>
         <string>
-            <plain>вражий гнев, издёвку, смех;</plain>
+            <plain>РІСЂР°Р¶РёР№ РіРЅРµРІ, РёР·РґС‘РІРєСѓ, СЃРјРµС…;</plain>
         </string>
         <string>
-            <plain>погребённым будь для мира,</plain>
+            <plain>РїРѕРіСЂРµР±С‘РЅРЅС‹Рј Р±СѓРґСЊ РґР»СЏ РјРёСЂР°,</plain>
         </string>
         <string>
-            <plain>ярким светом будь для всех.</plain>
+            <plain>СЏСЂРєРёРј СЃРІРµС‚РѕРј Р±СѓРґСЊ РґР»СЏ РІСЃРµС….</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Его Слову твёрдо верить,</plain>
+            <plain>Р•РіРѕ РЎР»РѕРІСѓ С‚РІС‘СЂРґРѕ РІРµСЂРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>в свете Божием ходить</plain>
+            <plain>РІ СЃРІРµС‚Рµ Р‘РѕР¶РёРµРј С…РѕРґРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>- нас ведёт из веры в явность:</plain>
+            <plain>- РЅР°СЃ РІРµРґС‘С‚ РёР· РІРµСЂС‹ РІ СЏРІРЅРѕСЃС‚СЊ:</plain>
         </string>
         <string>
-            <plain>с Ним однажды вечно жить.</plain>
+            <plain>СЃ РќРёРј РѕРґРЅР°Р¶РґС‹ РІРµС‡РЅРѕ Р¶РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

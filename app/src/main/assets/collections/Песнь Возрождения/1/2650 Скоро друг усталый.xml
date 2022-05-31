@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2650" name="Скоро друг усталый" canon="false" text="" textRus="" music="">
+<psalm number="2650" name="РЎРєРѕСЂРѕ РґСЂСѓРі СѓСЃС‚Р°Р»С‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Скоро, друг усталый,</plain>
+            <plain>РЎРєРѕСЂРѕ, РґСЂСѓРі СѓСЃС‚Р°Р»С‹Р№,</plain>
         </string>
         <string>
-            <plain>Кончен долгий путь,</plain>
+            <plain>РљРѕРЅС‡РµРЅ РґРѕР»РіРёР№ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Скоро можно будет</plain>
+            <plain>РЎРєРѕСЂРѕ РјРѕР¶РЅРѕ Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>Сердцу отдохнуть.</plain>
+            <plain>РЎРµСЂРґС†Сѓ РѕС‚РґРѕС…РЅСѓС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Близок твой Спаситель, - страшись;</plain>
+            <plain>Р‘Р»РёР·РѕРє С‚РІРѕР№ РЎРїР°СЃРёС‚РµР»СЊ, - СЃС‚СЂР°С€РёСЃСЊ;</plain>
         </string>
         <string>
-            <plain>Верный Он хранитель, - ободрись!</plain>
+            <plain>Р’РµСЂРЅС‹Р№ РћРЅ С…СЂР°РЅРёС‚РµР»СЊ, - РѕР±РѕРґСЂРёСЃСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В темную минуту</plain>
+            <plain>Р’ С‚РµРјРЅСѓСЋ РјРёРЅСѓС‚Сѓ</plain>
         </string>
         <string>
-            <plain>Потерял ли ты</plain>
+            <plain>РџРѕС‚РµСЂСЏР» Р»Рё С‚С‹</plain>
         </string>
         <string>
-            <plain>Веру и силу Божью</plain>
+            <plain>Р’РµСЂСѓ Рё СЃРёР»Сѓ Р‘РѕР¶СЊСЋ</plain>
         </string>
         <string>
-            <plain>И покой души?</plain>
+            <plain>Р РїРѕРєРѕР№ РґСѓС€Рё?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Обещанья вечны:</plain>
+            <plain>РћР±РµС‰Р°РЅСЊСЏ РІРµС‡РЅС‹:</plain>
         </string>
         <string>
-            <plain>Не изменит Бог.</plain>
+            <plain>РќРµ РёР·РјРµРЅРёС‚ Р‘РѕРі.</plain>
         </string>
         <string>
-            <plain>Он - твоя защита</plain>
+            <plain>РћРЅ - С‚РІРѕСЏ Р·Р°С‰РёС‚Р°</plain>
         </string>
         <string>
-            <plain>От земных тревог.</plain>
+            <plain>РћС‚ Р·РµРјРЅС‹С… С‚СЂРµРІРѕРі.</plain>
         </string>
     </verse>
 </psalm>

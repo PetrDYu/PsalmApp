@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="26" name="Услышь слова мои Ты ныне" canon="false" text="" textRus="" music="">
+<psalm number="26" name="РЈСЃР»С‹С€СЊ СЃР»РѕРІР° РјРѕРё РўС‹ РЅС‹РЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Услышь слова мои Ты ныне,</plain>
+            <plain>РЈСЃР»С‹С€СЊ СЃР»РѕРІР° РјРѕРё РўС‹ РЅС‹РЅРµ,</plain>
         </string>
         <string>
-            <plain>Нужду мою уразумей!</plain>
+            <plain>РќСѓР¶РґСѓ РјРѕСЋ СѓСЂР°Р·СѓРјРµР№!</plain>
         </string>
         <string>
-            <plain>В Твоей любви и благостыне</plain>
+            <plain>Р’ РўРІРѕРµР№ Р»СЋР±РІРё Рё Р±Р»Р°РіРѕСЃС‚С‹РЅРµ</plain>
         </string>
         <string>
-            <plain>Внемли мольбе души моей.</plain>
+            <plain>Р’РЅРµРјР»Рё РјРѕР»СЊР±Рµ РґСѓС€Рё РјРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Предстану рано пред Тобою</plain>
+            <plain>РџСЂРµРґСЃС‚Р°РЅСѓ СЂР°РЅРѕ РїСЂРµРґ РўРѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>И буду дар Твой ожидать;</plain>
+            <plain>Р Р±СѓРґСѓ РґР°СЂ РўРІРѕР№ РѕР¶РёРґР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Я знаю, Ты не любишь злое,</plain>
+            <plain>РЇ Р·РЅР°СЋ, РўС‹ РЅРµ Р»СЋР±РёС€СЊ Р·Р»РѕРµ,</plain>
         </string>
         <string>
-            <plain>Греху не хочешь место дать.</plain>
+            <plain>Р“СЂРµС…Сѓ РЅРµ С…РѕС‡РµС€СЊ РјРµСЃС‚Рѕ РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И я по милости великой</plain>
+            <plain>Р СЏ РїРѕ РјРёР»РѕСЃС‚Рё РІРµР»РёРєРѕР№</plain>
         </string>
         <string>
-            <plain>Войду в Твой дом и поклонюсь,</plain>
+            <plain>Р’РѕР№РґСѓ РІ РўРІРѕР№ РґРѕРј Рё РїРѕРєР»РѕРЅСЋСЃСЊ,</plain>
         </string>
         <string>
-            <plain>И пред Твоим небесным ликом</plain>
+            <plain>Р РїСЂРµРґ РўРІРѕРёРј РЅРµР±РµСЃРЅС‹Рј Р»РёРєРѕРј</plain>
         </string>
         <string>
-            <plain>Я в страхе радостном смирюсь.</plain>
+            <plain>РЇ РІ СЃС‚СЂР°С…Рµ СЂР°РґРѕСЃС‚РЅРѕРј СЃРјРёСЂСЋСЃСЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Все уповающие духом</plain>
+            <plain>Р’СЃРµ СѓРїРѕРІР°СЋС‰РёРµ РґСѓС…РѕРј</plain>
         </string>
         <string>
-            <plain>С восторгом будут ликовать.</plain>
+            <plain>РЎ РІРѕСЃС‚РѕСЂРіРѕРј Р±СѓРґСѓС‚ Р»РёРєРѕРІР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Для них соделался Ты другом,</plain>
+            <plain>Р”Р»СЏ РЅРёС… СЃРѕРґРµР»Р°Р»СЃСЏ РўС‹ РґСЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Тебя им должно восхвалять.</plain>
+            <plain>РўРµР±СЏ РёРј РґРѕР»Р¶РЅРѕ РІРѕСЃС…РІР°Р»СЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О Боже, Ты благословляешь</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, РўС‹ Р±Р»Р°РіРѕСЃР»РѕРІР»СЏРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Дарами Сына Своего;</plain>
+            <plain>Р”Р°СЂР°РјРё РЎС‹РЅР° РЎРІРѕРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>Благословеньем укрываешь,</plain>
+            <plain>Р‘Р»Р°РіРѕСЃР»РѕРІРµРЅСЊРµРј СѓРєСЂС‹РІР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Как крепкой бронею, его.</plain>
+            <plain>РљР°Рє РєСЂРµРїРєРѕР№ Р±СЂРѕРЅРµСЋ, РµРіРѕ.</plain>
         </string>
     </verse>
 </psalm>

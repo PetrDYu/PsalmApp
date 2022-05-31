@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3114" name="Возвратится ль дух мой к Богу" canon="false" text="" textRus="" music="">
+<psalm number="3114" name="Р’РѕР·РІСЂР°С‚РёС‚СЃСЏ Р»СЊ РґСѓС… РјРѕР№ Рє Р‘РѕРіСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Возвратится ль дух мой к Богу,</plain>
+            <plain>Р’РѕР·РІСЂР°С‚РёС‚СЃСЏ Р»СЊ РґСѓС… РјРѕР№ Рє Р‘РѕРіСѓ,</plain>
         </string>
         <string>
-            <plain>если путь окончу свой?</plain>
+            <plain>РµСЃР»Рё РїСѓС‚СЊ РѕРєРѕРЅС‡Сѓ СЃРІРѕР№?</plain>
         </string>
         <string>
-            <plain>Если станет прах землею,</plain>
+            <plain>Р•СЃР»Рё СЃС‚Р°РЅРµС‚ РїСЂР°С… Р·РµРјР»РµСЋ,</plain>
         </string>
         <string>
-            <plain>буду ль я, Господь, с Тобой?</plain>
+            <plain>Р±СѓРґСѓ Р»СЊ СЏ, Р“РѕСЃРїРѕРґСЊ, СЃ РўРѕР±РѕР№?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, вперед, душа, стремись ты,</plain>
+            <plain>Рћ, РІРїРµСЂРµРґ, РґСѓС€Р°, СЃС‚СЂРµРјРёСЃСЊ С‚С‹,</plain>
         </string>
         <string>
-            <plain>в небе счастье ждет тебя;</plain>
+            <plain>РІ РЅРµР±Рµ СЃС‡Р°СЃС‚СЊРµ Р¶РґРµС‚ С‚РµР±СЏ;</plain>
         </string>
         <string>
-            <plain>если путь твой завершиться,</plain>
+            <plain>РµСЃР»Рё РїСѓС‚СЊ С‚РІРѕР№ Р·Р°РІРµСЂС€РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>будешь с Христом всегда!</plain>
+            <plain>Р±СѓРґРµС€СЊ СЃ РҐСЂРёСЃС‚РѕРј РІСЃРµРіРґР°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, действительно ль увижу</plain>
+            <plain>Рћ, РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ Р»СЊ СѓРІРёР¶Сѓ</plain>
         </string>
         <string>
-            <plain>Сына Божьего я там,</plain>
+            <plain>РЎС‹РЅР° Р‘РѕР¶СЊРµРіРѕ СЏ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>пострадавшего невинно,</plain>
+            <plain>РїРѕСЃС‚СЂР°РґР°РІС€РµРіРѕ РЅРµРІРёРЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>давшего спасенье нам?</plain>
+            <plain>РґР°РІС€РµРіРѕ СЃРїР°СЃРµРЅСЊРµ РЅР°Рј?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, услышу ль я звучанье</plain>
+            <plain>Рћ, СѓСЃР»С‹С€Сѓ Р»СЊ СЏ Р·РІСѓС‡Р°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>гуслей золотых в раю,</plain>
+            <plain>РіСѓСЃР»РµР№ Р·РѕР»РѕС‚С‹С… РІ СЂР°СЋ,</plain>
         </string>
         <string>
-            <plain>и в небесном ликованьи</plain>
+            <plain>Рё РІ РЅРµР±РµСЃРЅРѕРј Р»РёРєРѕРІР°РЅСЊРё</plain>
         </string>
         <string>
-            <plain>«Аллилуйя» воспою?</plain>
+            <plain>В«РђР»Р»РёР»СѓР№СЏВ» РІРѕСЃРїРѕСЋ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Вознесется ль дух мой в небо,</plain>
+            <plain>Р’РѕР·РЅРµСЃРµС‚СЃСЏ Р»СЊ РґСѓС… РјРѕР№ РІ РЅРµР±Рѕ,</plain>
         </string>
         <string>
-            <plain>если ангелы меня позовут</plain>
+            <plain>РµСЃР»Рё Р°РЅРіРµР»С‹ РјРµРЅСЏ РїРѕР·РѕРІСѓС‚</plain>
         </string>
         <string>
-            <plain>в страну блаженства,</plain>
+            <plain>РІ СЃС‚СЂР°РЅСѓ Р±Р»Р°Р¶РµРЅСЃС‚РІР°,</plain>
         </string>
         <string>
-            <plain>где жить вечно буду я?</plain>
+            <plain>РіРґРµ Р¶РёС‚СЊ РІРµС‡РЅРѕ Р±СѓРґСѓ СЏ?</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2414" name="Я иду к Тебе Боже" canon="false" text="" textRus="" music="">
+<psalm number="2414" name="РЇ РёРґСѓ Рє РўРµР±Рµ Р‘РѕР¶Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я иду к Тебе, Боже,</plain>
+            <plain>РЇ РёРґСѓ Рє РўРµР±Рµ, Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Я иду к Тебе везде,</plain>
+            <plain>РЇ РёРґСѓ Рє РўРµР±Рµ РІРµР·РґРµ,</plain>
         </string>
         <string>
-            <plain>Я иду к Тебе Боже,</plain>
+            <plain>РЇ РёРґСѓ Рє РўРµР±Рµ Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Я иду к Тебе по земле.</plain>
+            <plain>РЇ РёРґСѓ Рє РўРµР±Рµ РїРѕ Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я иду к Тебе днем,</plain>
+            <plain>РЇ РёРґСѓ Рє РўРµР±Рµ РґРЅРµРј,</plain>
         </string>
         <string>
-            <plain>Простираюсь к Тебе ночью,</plain>
+            <plain>РџСЂРѕСЃС‚РёСЂР°СЋСЃСЊ Рє РўРµР±Рµ РЅРѕС‡СЊСЋ,</plain>
         </string>
         <string>
-            <plain>Ожидаю Тебя утром,</plain>
+            <plain>РћР¶РёРґР°СЋ РўРµР±СЏ СѓС‚СЂРѕРј,</plain>
         </string>
         <string>
-            <plain>Я иду, иду к Тебе.</plain>
+            <plain>РЇ РёРґСѓ, РёРґСѓ Рє РўРµР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На пути устали ноги,</plain>
+            <plain>РќР° РїСѓС‚Рё СѓСЃС‚Р°Р»Рё РЅРѕРіРё,</plain>
         </string>
         <string>
-            <plain>враг изранил мою душу.</plain>
+            <plain>РІСЂР°Рі РёР·СЂР°РЅРёР» РјРѕСЋ РґСѓС€Сѓ.</plain>
         </string>
         <string>
-            <plain>Я - усталый путник,</plain>
+            <plain>РЇ - СѓСЃС‚Р°Р»С‹Р№ РїСѓС‚РЅРёРє,</plain>
         </string>
         <string>
-            <plain>Боже, поспеши ко мне, Боже мой.</plain>
+            <plain>Р‘РѕР¶Рµ, РїРѕСЃРїРµС€Рё РєРѕ РјРЅРµ, Р‘РѕР¶Рµ РјРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Силы дай с грехом сражаться,</plain>
+            <plain>РЎРёР»С‹ РґР°Р№ СЃ РіСЂРµС…РѕРј СЃСЂР°Р¶Р°С‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Побеждать, идти вперед,</plain>
+            <plain>РџРѕР±РµР¶РґР°С‚СЊ, РёРґС‚Рё РІРїРµСЂРµРґ,</plain>
         </string>
         <string>
-            <plain>Помоги не колебаться</plain>
+            <plain>РџРѕРјРѕРіРё РЅРµ РєРѕР»РµР±Р°С‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>среди жизненных невзгод.</plain>
+            <plain>СЃСЂРµРґРё Р¶РёР·РЅРµРЅРЅС‹С… РЅРµРІР·РіРѕРґ.</plain>
         </string>
     </verse>
 </psalm>

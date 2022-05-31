@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2909" name="В Своей любви великой" canon="false" text="" textRus="" music="">
+<psalm number="2909" name="Р’ РЎРІРѕРµР№ Р»СЋР±РІРё РІРµР»РёРєРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В Своей любви великой</plain>
+            <plain>Р’ РЎРІРѕРµР№ Р»СЋР±РІРё РІРµР»РёРєРѕР№</plain>
         </string>
         <string>
-            <plain>послал Господь для нас</plain>
+            <plain>РїРѕСЃР»Р°Р» Р“РѕСЃРїРѕРґСЊ РґР»СЏ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>с небес родного Сына,</plain>
+            <plain>СЃ РЅРµР±РµСЃ СЂРѕРґРЅРѕРіРѕ РЎС‹РЅР°,</plain>
         </string>
         <string>
-            <plain>Он мир от смерти спас.</plain>
+            <plain>РћРЅ РјРёСЂ РѕС‚ СЃРјРµСЂС‚Рё СЃРїР°СЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Смотрите, Бог какую любовь</plain>
+            <plain>РЎРјРѕС‚СЂРёС‚Рµ, Р‘РѕРі РєР°РєСѓСЋ Р»СЋР±РѕРІСЊ</plain>
         </string>
         <string>
-            <plain>к нам проявил тем,</plain>
+            <plain>Рє РЅР°Рј РїСЂРѕСЏРІРёР» С‚РµРј,</plain>
         </string>
         <string>
-            <plain>что Он нам в Иисусе</plain>
+            <plain>С‡С‚Рѕ РћРЅ РЅР°Рј РІ РРёСЃСѓСЃРµ</plain>
         </string>
         <string>
-            <plain>спасенье подарил!</plain>
+            <plain>СЃРїР°СЃРµРЅСЊРµ РїРѕРґР°СЂРёР»!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сошёл с небес на землю</plain>
+            <plain>РЎРѕС€С‘Р» СЃ РЅРµР±РµСЃ РЅР° Р·РµРјР»СЋ</plain>
         </string>
         <string>
-            <plain>и человеком стал,</plain>
+            <plain>Рё С‡РµР»РѕРІРµРєРѕРј СЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>чтоб от вины избавить всех,</plain>
+            <plain>С‡С‚РѕР± РѕС‚ РІРёРЅС‹ РёР·Р±Р°РІРёС‚СЊ РІСЃРµС…,</plain>
         </string>
         <string>
-            <plain>кто велик и мал.</plain>
+            <plain>РєС‚Рѕ РІРµР»РёРє Рё РјР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>За всех людей страдал</plain>
+            <plain>Р—Р° РІСЃРµС… Р»СЋРґРµР№ СЃС‚СЂР°РґР°Р»</plain>
         </string>
         <string>
-            <plain>Ты и умер на кресте.</plain>
+            <plain>РўС‹ Рё СѓРјРµСЂ РЅР° РєСЂРµСЃС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Иисус, о Агнец Божий,</plain>
+            <plain>РРёСЃСѓСЃ, Рѕ РђРіРЅРµС† Р‘РѕР¶РёР№,</plain>
         </string>
         <string>
-            <plain>дороже всех Ты мне.</plain>
+            <plain>РґРѕСЂРѕР¶Рµ РІСЃРµС… РўС‹ РјРЅРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Понёс Ты на Голгофу</plain>
+            <plain>РџРѕРЅС‘СЃ РўС‹ РЅР° Р“РѕР»РіРѕС„Сѓ</plain>
         </string>
         <string>
-            <plain>болезни, грех и смерть</plain>
+            <plain>Р±РѕР»РµР·РЅРё, РіСЂРµС… Рё СЃРјРµСЂС‚СЊ</plain>
         </string>
         <string>
-            <plain>и пролил кровь, чтоб ею</plain>
+            <plain>Рё РїСЂРѕР»РёР» РєСЂРѕРІСЊ, С‡С‚РѕР± РµСЋ</plain>
         </string>
         <string>
-            <plain>нас убелить как снег.</plain>
+            <plain>РЅР°СЃ СѓР±РµР»РёС‚СЊ РєР°Рє СЃРЅРµРі.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>За нас Он был унижен</plain>
+            <plain>Р—Р° РЅР°СЃ РћРЅ Р±С‹Р» СѓРЅРёР¶РµРЅ</plain>
         </string>
         <string>
-            <plain>и до крови избит.</plain>
+            <plain>Рё РґРѕ РєСЂРѕРІРё РёР·Р±РёС‚.</plain>
         </string>
         <string>
-            <plain>Как тяжко пострадал Он,</plain>
+            <plain>РљР°Рє С‚СЏР¶РєРѕ РїРѕСЃС‚СЂР°РґР°Р» РћРЅ,</plain>
         </string>
         <string>
-            <plain>чтоб нас всех исцелить!</plain>
+            <plain>С‡С‚РѕР± РЅР°СЃ РІСЃРµС… РёСЃС†РµР»РёС‚СЊ!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Чтоб жить могли мы свято,</plain>
+            <plain>Р§С‚РѕР± Р¶РёС‚СЊ РјРѕРіР»Рё РјС‹ СЃРІСЏС‚Рѕ,</plain>
         </string>
         <string>
-            <plain>кровь Господа текла.</plain>
+            <plain>РєСЂРѕРІСЊ Р“РѕСЃРїРѕРґР° С‚РµРєР»Р°.</plain>
         </string>
         <string>
-            <plain>Ты на кресте Голгофском</plain>
+            <plain>РўС‹ РЅР° РєСЂРµСЃС‚Рµ Р“РѕР»РіРѕС„СЃРєРѕРј</plain>
         </string>
         <string>
-            <plain>нас спас; Тебе хвала!</plain>
+            <plain>РЅР°СЃ СЃРїР°СЃ; РўРµР±Рµ С…РІР°Р»Р°!</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Тебе, Иисус, возносим</plain>
+            <plain>РўРµР±Рµ, РРёСЃСѓСЃ, РІРѕР·РЅРѕСЃРёРј</plain>
         </string>
         <string>
-            <plain>стократную хвалу,</plain>
+            <plain>СЃС‚РѕРєСЂР°С‚РЅСѓСЋ С…РІР°Р»Сѓ,</plain>
         </string>
         <string>
-            <plain>Твоё мы имя славим</plain>
+            <plain>РўРІРѕС‘ РјС‹ РёРјСЏ СЃР»Р°РІРёРј</plain>
         </string>
         <string>
-            <plain>за благодать Твою!</plain>
+            <plain>Р·Р° Р±Р»Р°РіРѕРґР°С‚СЊ РўРІРѕСЋ!</plain>
         </string>
     </verse>
 </psalm>

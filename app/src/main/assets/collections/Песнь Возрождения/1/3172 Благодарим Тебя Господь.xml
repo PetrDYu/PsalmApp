@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3172" name="Благодарим Тебя Господь" canon="false" text="" textRus="" music="">
+<psalm number="3172" name="Р‘Р»Р°РіРѕРґР°СЂРёРј РўРµР±СЏ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благодарим Тебя, Господь,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂРёРј РўРµР±СЏ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>за щедрые дары!</plain>
+            <plain>Р·Р° С‰РµРґСЂС‹Рµ РґР°СЂС‹!</plain>
         </string>
         <string>
-            <plain>Твоя рука нам всё даёт,</plain>
+            <plain>РўРІРѕСЏ СЂСѓРєР° РЅР°Рј РІСЃС‘ РґР°С‘С‚,</plain>
         </string>
         <string>
-            <plain>достоин Ты хвалы!</plain>
+            <plain>РґРѕСЃС‚РѕРёРЅ РўС‹ С…РІР°Р»С‹!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Тебе мы благодарность</plain>
+            <plain>РўРµР±Рµ РјС‹ Р±Р»Р°РіРѕРґР°СЂРЅРѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>уж здесь, Господь, несём,</plain>
+            <plain>СѓР¶ Р·РґРµСЃСЊ, Р“РѕСЃРїРѕРґСЊ, РЅРµСЃС‘Рј,</plain>
         </string>
         <string>
-            <plain>но вечный гимн хвалы</plain>
+            <plain>РЅРѕ РІРµС‡РЅС‹Р№ РіРёРјРЅ С…РІР°Р»С‹</plain>
         </string>
         <string>
-            <plain>Тебе мы в небе воспоём!</plain>
+            <plain>РўРµР±Рµ РјС‹ РІ РЅРµР±Рµ РІРѕСЃРїРѕС‘Рј!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь, за хлеб насущный</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, Р·Р° С…Р»РµР± РЅР°СЃСѓС‰РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>наш благодарим Тебя!</plain>
+            <plain>РЅР°С€ Р±Р»Р°РіРѕРґР°СЂРёРј РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>И жизни хлеб Ты нам даёшь,</plain>
+            <plain>Р Р¶РёР·РЅРё С…Р»РµР± РўС‹ РЅР°Рј РґР°С‘С€СЊ,</plain>
         </string>
         <string>
-            <plain>он - истина Твоя!</plain>
+            <plain>РѕРЅ - РёСЃС‚РёРЅР° РўРІРѕСЏ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И за одежду и ночлег</plain>
+            <plain>Р Р·Р° РѕРґРµР¶РґСѓ Рё РЅРѕС‡Р»РµРі</plain>
         </string>
         <string>
-            <plain>благодарим Тебя!</plain>
+            <plain>Р±Р»Р°РіРѕРґР°СЂРёРј РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>В Свою Ты святость нас облёк,</plain>
+            <plain>Р’ РЎРІРѕСЋ РўС‹ СЃРІСЏС‚РѕСЃС‚СЊ РЅР°СЃ РѕР±Р»С‘Рє,</plain>
         </string>
         <string>
-            <plain>душа покой нашла.</plain>
+            <plain>РґСѓС€Р° РїРѕРєРѕР№ РЅР°С€Р»Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>За веру в Сына Твоего</plain>
+            <plain>Р—Р° РІРµСЂСѓ РІ РЎС‹РЅР° РўРІРѕРµРіРѕ</plain>
         </string>
         <string>
-            <plain>благодарим Тебя,</plain>
+            <plain>Р±Р»Р°РіРѕРґР°СЂРёРј РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>и за надежду, что Ты дал:</plain>
+            <plain>Рё Р·Р° РЅР°РґРµР¶РґСѓ, С‡С‚Рѕ РўС‹ РґР°Р»:</plain>
         </string>
         <string>
-            <plain>жить с Ним на все века!</plain>
+            <plain>Р¶РёС‚СЊ СЃ РќРёРј РЅР° РІСЃРµ РІРµРєР°!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="486" name="Он вернется Он вернется" canon="false" text="" textRus="" music="">
+<psalm number="486" name="РћРЅ РІРµСЂРЅРµС‚СЃСЏ РћРЅ РІРµСЂРЅРµС‚СЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Он вернется, Он вернется</plain>
+            <plain>РћРЅ РІРµСЂРЅРµС‚СЃСЏ, РћРЅ РІРµСЂРЅРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>На землю, Царь славы,</plain>
+            <plain>РќР° Р·РµРјР»СЋ, Р¦Р°СЂСЊ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Взять жемчужинки живые,</plain>
+            <plain>Р’Р·СЏС‚СЊ Р¶РµРјС‡СѓР¶РёРЅРєРё Р¶РёРІС‹Рµ,</plain>
         </string>
         <string>
-            <plain>Любимые Им.</plain>
+            <plain>Р›СЋР±РёРјС‹Рµ РРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Словно ясные звезды,</plain>
+            <plain>РЎР»РѕРІРЅРѕ СЏСЃРЅС‹Рµ Р·РІРµР·РґС‹,</plain>
         </string>
         <string>
-            <plain>Что на небе сверкают,</plain>
+            <plain>Р§С‚Рѕ РЅР° РЅРµР±Рµ СЃРІРµСЂРєР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Так они воссияют</plain>
+            <plain>РўР°Рє РѕРЅРё РІРѕСЃСЃРёСЏСЋС‚</plain>
         </string>
         <string>
-            <plain>На царском венце.</plain>
+            <plain>РќР° С†Р°СЂСЃРєРѕРј РІРµРЅС†Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он возьмет их, Он возьмет их</plain>
+            <plain>РћРЅ РІРѕР·СЊРјРµС‚ РёС…, РћРЅ РІРѕР·СЊРјРµС‚ РёС…</plain>
         </string>
         <string>
-            <plain>В небесное царство;</plain>
+            <plain>Р’ РЅРµР±РµСЃРЅРѕРµ С†Р°СЂСЃС‚РІРѕ;</plain>
         </string>
         <string>
-            <plain>От земли Он соберет их,</plain>
+            <plain>РћС‚ Р·РµРјР»Рё РћРЅ СЃРѕР±РµСЂРµС‚ РёС…,</plain>
         </string>
         <string>
-            <plain>Любимых Своих.</plain>
+            <plain>Р›СЋР±РёРјС‹С… РЎРІРѕРёС….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Кто из деток, кто из деток</plain>
+            <plain>РљС‚Рѕ РёР· РґРµС‚РѕРє, РєС‚Рѕ РёР· РґРµС‚РѕРє</plain>
         </string>
         <string>
-            <plain>Спасителя любит, -</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЏ Р»СЋР±РёС‚, -</plain>
         </string>
         <string>
-            <plain>Те жемчужинки живые,</plain>
+            <plain>РўРµ Р¶РµРјС‡СѓР¶РёРЅРєРё Р¶РёРІС‹Рµ,</plain>
         </string>
         <string>
-            <plain>Любимые Им.</plain>
+            <plain>Р›СЋР±РёРјС‹Рµ РРј.</plain>
         </string>
     </verse>
 </psalm>

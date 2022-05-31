@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1048" name="Ты сердце новое Господь мне подарил" canon="false" text="" textRus="" music="">
+<psalm number="1048" name="РўС‹ СЃРµСЂРґС†Рµ РЅРѕРІРѕРµ Р“РѕСЃРїРѕРґСЊ РјРЅРµ РїРѕРґР°СЂРёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты сердце новое. Господь, мне подарил,</plain>
+            <plain>РўС‹ СЃРµСЂРґС†Рµ РЅРѕРІРѕРµ. Р“РѕСЃРїРѕРґСЊ, РјРЅРµ РїРѕРґР°СЂРёР»,</plain>
         </string>
         <string>
-            <plain>Любовию мне раны излечил.</plain>
+            <plain>Р›СЋР±РѕРІРёСЋ РјРЅРµ СЂР°РЅС‹ РёР·Р»РµС‡РёР».</plain>
         </string>
         <string>
-            <plain>Тебя я буду вечно прославлять</plain>
+            <plain>РўРµР±СЏ СЏ Р±СѓРґСѓ РІРµС‡РЅРѕ РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>И на Тебя с надеждою взирать.</plain>
+            <plain>Р РЅР° РўРµР±СЏ СЃ РЅР°РґРµР¶РґРѕСЋ РІР·РёСЂР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>С надеждой,</plain>
+            <plain>РЎ РЅР°РґРµР¶РґРѕР№,</plain>
         </string>
         <string>
-            <plain>С надеждой на Тебя.</plain>
+            <plain>РЎ РЅР°РґРµР¶РґРѕР№ РЅР° РўРµР±СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как хорошо, что есть на свете Ты!</plain>
+            <plain>РљР°Рє С…РѕСЂРѕС€Рѕ, С‡С‚Рѕ РµСЃС‚СЊ РЅР° СЃРІРµС‚Рµ РўС‹!</plain>
         </string>
         <string>
-            <plain>К Тебе стремясь, летят мои мечты.</plain>
+            <plain>Рљ РўРµР±Рµ СЃС‚СЂРµРјСЏСЃСЊ, Р»РµС‚СЏС‚ РјРѕРё РјРµС‡С‚С‹.</plain>
         </string>
         <string>
-            <plain>Тебе хочу я сердце открывать,</plain>
+            <plain>РўРµР±Рµ С…РѕС‡Сѓ СЏ СЃРµСЂРґС†Рµ РѕС‚РєСЂС‹РІР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Тебе лишь свои тайны доверять.</plain>
+            <plain>РўРµР±Рµ Р»РёС€СЊ СЃРІРѕРё С‚Р°Р№РЅС‹ РґРѕРІРµСЂСЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пусть нелегко мне за Тобой идти,</plain>
+            <plain>РџСѓСЃС‚СЊ РЅРµР»РµРіРєРѕ РјРЅРµ Р·Р° РўРѕР±РѕР№ РёРґС‚Рё,</plain>
         </string>
         <string>
-            <plain>И тернии, а не розы на пути.</plain>
+            <plain>Р С‚РµСЂРЅРёРё, Р° РЅРµ СЂРѕР·С‹ РЅР° РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Но все равно я за Тобой иду,</plain>
+            <plain>РќРѕ РІСЃРµ СЂР°РІРЅРѕ СЏ Р·Р° РўРѕР±РѕР№ РёРґСѓ,</plain>
         </string>
         <string>
-            <plain>Пока здесь путь земной не совершу.</plain>
+            <plain>РџРѕРєР° Р·РґРµСЃСЊ РїСѓС‚СЊ Р·РµРјРЅРѕР№ РЅРµ СЃРѕРІРµСЂС€Сѓ.</plain>
         </string>
     </verse>
 </psalm>

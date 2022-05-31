@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="530" name="Страны богатства я достиг" canon="false" text="" textRus="" music="">
+<psalm number="530" name="РЎС‚СЂР°РЅС‹ Р±РѕРіР°С‚СЃС‚РІР° СЏ РґРѕСЃС‚РёРі" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Страны богатства я достиг:</plain>
+            <plain>РЎС‚СЂР°РЅС‹ Р±РѕРіР°С‚СЃС‚РІР° СЏ РґРѕСЃС‚РёРі:</plain>
         </string>
         <string>
-            <plain>И мед, и хлеб в моих руках;</plain>
+            <plain>Р РјРµРґ, Рё С…Р»РµР± РІ РјРѕРёС… СЂСѓРєР°С…;</plain>
         </string>
         <string>
-            <plain>В стране той вечный день горит,</plain>
+            <plain>Р’ СЃС‚СЂР°РЅРµ С‚РѕР№ РІРµС‡РЅС‹Р№ РґРµРЅСЊ РіРѕСЂРёС‚,</plain>
         </string>
         <string>
-            <plain>Там ночи мрак навек забыт.</plain>
+            <plain>РўР°Рј РЅРѕС‡Рё РјСЂР°Рє РЅР°РІРµРє Р·Р°Р±С‹С‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О чудный край, приют сердец!</plain>
+            <plain>Рћ С‡СѓРґРЅС‹Р№ РєСЂР°Р№, РїСЂРёСЋС‚ СЃРµСЂРґРµС†!</plain>
         </string>
         <string>
-            <plain>Стою я на горе твоей,</plain>
+            <plain>РЎС‚РѕСЋ СЏ РЅР° РіРѕСЂРµ С‚РІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Смотрю я в даль седых морей,</plain>
+            <plain>РЎРјРѕС‚СЂСЋ СЏ РІ РґР°Р»СЊ СЃРµРґС‹С… РјРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>И там в лучах блестит дворец;</plain>
+            <plain>Р С‚Р°Рј РІ Р»СѓС‡Р°С… Р±Р»РµСЃС‚РёС‚ РґРІРѕСЂРµС†;</plain>
         </string>
         <string>
-            <plain>Я вижу берег неземной,</plain>
+            <plain>РЇ РІРёР¶Сѓ Р±РµСЂРµРі РЅРµР·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Свет неба и свой дом родной.</plain>
+            <plain>РЎРІРµС‚ РЅРµР±Р° Рё СЃРІРѕР№ РґРѕРј СЂРѕРґРЅРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Спаситель мой идет со мной,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№ РёРґРµС‚ СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Общенье мне дает с Собой;</plain>
+            <plain>РћР±С‰РµРЅСЊРµ РјРЅРµ РґР°РµС‚ СЃ РЎРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>Меня рукой ведет Он Сам</plain>
+            <plain>РњРµРЅСЏ СЂСѓРєРѕР№ РІРµРґРµС‚ РћРЅ РЎР°Рј</plain>
         </string>
         <string>
-            <plain>Чрез край богатства к небесам.</plain>
+            <plain>Р§СЂРµР· РєСЂР°Р№ Р±РѕРіР°С‚СЃС‚РІР° Рє РЅРµР±РµСЃР°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Деревья в той стране цветут</plain>
+            <plain>Р”РµСЂРµРІСЊСЏ РІ С‚РѕР№ СЃС‚СЂР°РЅРµ С†РІРµС‚СѓС‚</plain>
         </string>
         <string>
-            <plain>И аромат повсюду льют;</plain>
+            <plain>Р Р°СЂРѕРјР°С‚ РїРѕРІСЃСЋРґСѓ Р»СЊСЋС‚;</plain>
         </string>
         <string>
-            <plain>Везде журчит волной вода,</plain>
+            <plain>Р’РµР·РґРµ Р¶СѓСЂС‡РёС‚ РІРѕР»РЅРѕР№ РІРѕРґР°,</plain>
         </string>
         <string>
-            <plain>Цветы не вянут никогда.</plain>
+            <plain>Р¦РІРµС‚С‹ РЅРµ РІСЏРЅСѓС‚ РЅРёРєРѕРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И ветерок, лаская слух,</plain>
+            <plain>Р РІРµС‚РµСЂРѕРє, Р»Р°СЃРєР°СЏ СЃР»СѓС…,</plain>
         </string>
         <string>
-            <plain>Несет с высот чудесный звук</plain>
+            <plain>РќРµСЃРµС‚ СЃ РІС‹СЃРѕС‚ С‡СѓРґРµСЃРЅС‹Р№ Р·РІСѓРє</plain>
         </string>
         <string>
-            <plain>То песня ангелов святых,</plain>
+            <plain>РўРѕ РїРµСЃРЅСЏ Р°РЅРіРµР»РѕРІ СЃРІСЏС‚С‹С…,</plain>
         </string>
         <string>
-            <plain>Поющих счастье душ людских.</plain>
+            <plain>РџРѕСЋС‰РёС… СЃС‡Р°СЃС‚СЊРµ РґСѓС€ Р»СЋРґСЃРєРёС….</plain>
         </string>
     </verse>
 </psalm>

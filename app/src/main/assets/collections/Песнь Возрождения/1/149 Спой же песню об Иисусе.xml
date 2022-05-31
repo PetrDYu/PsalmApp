@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="149" name="Спой же песню об Иисусе" canon="false" text="" textRus="" music="">
+<psalm number="149" name="РЎРїРѕР№ Р¶Рµ РїРµСЃРЅСЋ РѕР± РРёСЃСѓСЃРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Спой же песню об Иисусе,</plain>
+            <plain>РЎРїРѕР№ Р¶Рµ РїРµСЃРЅСЋ РѕР± РРёСЃСѓСЃРµ,</plain>
         </string>
         <string>
-            <plain>Славя Его,</plain>
+            <plain>РЎР»Р°РІСЏ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>Он так благ, ты полагайся</plain>
+            <plain>РћРЅ С‚Р°Рє Р±Р»Р°Рі, С‚С‹ РїРѕР»Р°РіР°Р№СЃСЏ</plain>
         </string>
         <string>
-            <plain>Лишь на Него.</plain>
+            <plain>Р›РёС€СЊ РЅР° РќРµРіРѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Любит нас Он как лучший друг,</plain>
+            <plain>Р›СЋР±РёС‚ РЅР°СЃ РћРЅ РєР°Рє Р»СѓС‡С€РёР№ РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Он вблизи нас всегда вокруг,</plain>
+            <plain>РћРЅ РІР±Р»РёР·Рё РЅР°СЃ РІСЃРµРіРґР° РІРѕРєСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Поспеши же Ему принесть</plain>
+            <plain>РџРѕСЃРїРµС€Рё Р¶Рµ Р•РјСѓ РїСЂРёРЅРµСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>Хвалу и честь.</plain>
+            <plain>РҐРІР°Р»Сѓ Рё С‡РµСЃС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Одно слово для Иисуса:</plain>
+            <plain>РћРґРЅРѕ СЃР»РѕРІРѕ РґР»СЏ РРёСЃСѓСЃР°:</plain>
         </string>
         <string>
-            <plain>Он Свой чужим;</plain>
+            <plain>РћРЅ РЎРІРѕР№ С‡СѓР¶РёРј;</plain>
         </string>
         <string>
-            <plain>Чтобы все Ему служили,</plain>
+            <plain>Р§С‚РѕР±С‹ РІСЃРµ Р•РјСѓ СЃР»СѓР¶РёР»Рё,</plain>
         </string>
         <string>
-            <plain>Мы все хотим.</plain>
+            <plain>РњС‹ РІСЃРµ С…РѕС‚РёРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он во всякое мгновенье</plain>
+            <plain>РћРЅ РІРѕ РІСЃСЏРєРѕРµ РјРіРЅРѕРІРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Близок к сердцам.</plain>
+            <plain>Р‘Р»РёР·РѕРє Рє СЃРµСЂРґС†Р°Рј.</plain>
         </string>
         <string>
-            <plain>Люди могут обмануть нас,</plain>
+            <plain>Р›СЋРґРё РјРѕРіСѓС‚ РѕР±РјР°РЅСѓС‚СЊ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Он верен нам.</plain>
+            <plain>РћРЅ РІРµСЂРµРЅ РЅР°Рј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Будем петь мы все сердечно:</plain>
+            <plain>Р‘СѓРґРµРј РїРµС‚СЊ РјС‹ РІСЃРµ СЃРµСЂРґРµС‡РЅРѕ:</plain>
         </string>
         <string>
-            <plain>"Иисус Один".</plain>
+            <plain>"РРёСЃСѓСЃ РћРґРёРЅ".</plain>
         </string>
         <string>
-            <plain>Будет все во всем нам вечно</plain>
+            <plain>Р‘СѓРґРµС‚ РІСЃРµ РІРѕ РІСЃРµРј РЅР°Рј РІРµС‡РЅРѕ</plain>
         </string>
         <string>
-            <plain>Вышнего Сын.</plain>
+            <plain>Р’С‹С€РЅРµРіРѕ РЎС‹РЅ.</plain>
         </string>
     </verse>
 </psalm>

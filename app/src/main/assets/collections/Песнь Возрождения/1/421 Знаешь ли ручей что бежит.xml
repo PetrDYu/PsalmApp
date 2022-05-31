@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="421" name="Знаешь ли ручей что бежит" canon="false" text="" textRus="" music="">
+<psalm number="421" name="Р—РЅР°РµС€СЊ Р»Рё СЂСѓС‡РµР№ С‡С‚Рѕ Р±РµР¶РёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Знаешь ли ручей, что бежит</plain>
+            <plain>Р—РЅР°РµС€СЊ Р»Рё СЂСѓС‡РµР№, С‡С‚Рѕ Р±РµР¶РёС‚</plain>
         </string>
         <string>
-            <plain>Со креста, где умер Христос?</plain>
+            <plain>РЎРѕ РєСЂРµСЃС‚Р°, РіРґРµ СѓРјРµСЂ РҐСЂРёСЃС‚РѕСЃ?</plain>
         </string>
         <string>
-            <plain>Знаешь ли Того, Кто дарит</plain>
+            <plain>Р—РЅР°РµС€СЊ Р»Рё РўРѕРіРѕ, РљС‚Рѕ РґР°СЂРёС‚</plain>
         </string>
         <string>
-            <plain>Выкуп от страданий и слез?</plain>
+            <plain>Р’С‹РєСѓРї РѕС‚ СЃС‚СЂР°РґР°РЅРёР№ Рё СЃР»РµР·?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Хоть, как пурпур, грех мой плотской,</plain>
+            <plain>РҐРѕС‚СЊ, РєР°Рє РїСѓСЂРїСѓСЂ, РіСЂРµС… РјРѕР№ РїР»РѕС‚СЃРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Хоть вина горы тяжелей,</plain>
+            <plain>РҐРѕС‚СЊ РІРёРЅР° РіРѕСЂС‹ С‚СЏР¶РµР»РµР№,</plain>
         </string>
         <string>
-            <plain>Кровь Христа стекает струей,</plain>
+            <plain>РљСЂРѕРІСЊ РҐСЂРёСЃС‚Р° СЃС‚РµРєР°РµС‚ СЃС‚СЂСѓРµР№,</plain>
         </string>
         <string>
-            <plain>Ей я сделан снега белей.</plain>
+            <plain>Р•Р№ СЏ СЃРґРµР»Р°РЅ СЃРЅРµРіР° Р±РµР»РµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Позабытый вечным Отцом,</plain>
+            <plain>РџРѕР·Р°Р±С‹С‚С‹Р№ РІРµС‡РЅС‹Рј РћС‚С†РѕРј,</plain>
         </string>
         <string>
-            <plain>Кровь Свою Христос проливал;</plain>
+            <plain>РљСЂРѕРІСЊ РЎРІРѕСЋ РҐСЂРёСЃС‚РѕСЃ РїСЂРѕР»РёРІР°Р»;</plain>
         </string>
         <string>
-            <plain>На кресте с терновым венцом</plain>
+            <plain>РќР° РєСЂРµСЃС‚Рµ СЃ С‚РµСЂРЅРѕРІС‹Рј РІРµРЅС†РѕРј</plain>
         </string>
         <string>
-            <plain>Не напрасно Он пострадал.</plain>
+            <plain>РќРµ РЅР°РїСЂР°СЃРЅРѕ РћРЅ РїРѕСЃС‚СЂР°РґР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я пришел на призыв Христа,</plain>
+            <plain>РЇ РїСЂРёС€РµР» РЅР° РїСЂРёР·С‹РІ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Он - источник жизни моей;</plain>
+            <plain>РћРЅ - РёСЃС‚РѕС‡РЅРёРє Р¶РёР·РЅРё РјРѕРµР№;</plain>
         </string>
         <string>
-            <plain>В Нем спасенья вся полнота,</plain>
+            <plain>Р’ РќРµРј СЃРїР°СЃРµРЅСЊСЏ РІСЃСЏ РїРѕР»РЅРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>Им я сделан снега белей.</plain>
+            <plain>РРј СЏ СЃРґРµР»Р°РЅ СЃРЅРµРіР° Р±РµР»РµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Слабый и усталый мой дух</plain>
+            <plain>РЎР»Р°Р±С‹Р№ Рё СѓСЃС‚Р°Р»С‹Р№ РјРѕР№ РґСѓС…</plain>
         </string>
         <string>
-            <plain>Мира, счастья долго искал;</plain>
+            <plain>РњРёСЂР°, СЃС‡Р°СЃС‚СЊСЏ РґРѕР»РіРѕ РёСЃРєР°Р»;</plain>
         </string>
         <string>
-            <plain>Как к овце заблудшей пастух,</plain>
+            <plain>РљР°Рє Рє РѕРІС†Рµ Р·Р°Р±Р»СѓРґС€РµР№ РїР°СЃС‚СѓС…,</plain>
         </string>
         <string>
-            <plain>Мой Господь пришел и мир дал.</plain>
+            <plain>РњРѕР№ Р“РѕСЃРїРѕРґСЊ РїСЂРёС€РµР» Рё РјРёСЂ РґР°Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Духом я люблю созерцать</plain>
+            <plain>Р”СѓС…РѕРј СЏ Р»СЋР±Р»СЋ СЃРѕР·РµСЂС†Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Со креста текущий ручей;</plain>
+            <plain>РЎРѕ РєСЂРµСЃС‚Р° С‚РµРєСѓС‰РёР№ СЂСѓС‡РµР№;</plain>
         </string>
         <string>
-            <plain>Льется в нем для всех благодать;</plain>
+            <plain>Р›СЊРµС‚СЃСЏ РІ РЅРµРј РґР»СЏ РІСЃРµС… Р±Р»Р°РіРѕРґР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Им я сделан снега белей.</plain>
+            <plain>РРј СЏ СЃРґРµР»Р°РЅ СЃРЅРµРіР° Р±РµР»РµР№.</plain>
         </string>
     </verse>
 </psalm>

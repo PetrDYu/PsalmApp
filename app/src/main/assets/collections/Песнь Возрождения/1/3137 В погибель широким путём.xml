@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3137" name="В погибель широким путём" canon="false" text="" textRus="" music="">
+<psalm number="3137" name="Р’ РїРѕРіРёР±РµР»СЊ С€РёСЂРѕРєРёРј РїСѓС‚С‘Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В погибель широким путём</plain>
+            <plain>Р’ РїРѕРіРёР±РµР»СЊ С€РёСЂРѕРєРёРј РїСѓС‚С‘Рј</plain>
         </string>
         <string>
-            <plain>многие ныне спешат -</plain>
+            <plain>РјРЅРѕРіРёРµ РЅС‹РЅРµ СЃРїРµС€Р°С‚ -</plain>
         </string>
         <string>
-            <plain>им весть принесите о том,</plain>
+            <plain>РёРј РІРµСЃС‚СЊ РїСЂРёРЅРµСЃРёС‚Рµ Рѕ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>что грех их Иисусом распят.</plain>
+            <plain>С‡С‚Рѕ РіСЂРµС… РёС… РРёСЃСѓСЃРѕРј СЂР°СЃРїСЏС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>К Богу, о к Богу заблудших веди,</plain>
+            <plain>Рљ Р‘РѕРіСѓ, Рѕ Рє Р‘РѕРіСѓ Р·Р°Р±Р»СѓРґС€РёС… РІРµРґРё,</plain>
         </string>
         <string>
-            <plain>весть о Христе им неси!</plain>
+            <plain>РІРµСЃС‚СЊ Рѕ РҐСЂРёСЃС‚Рµ РёРј РЅРµСЃРё!</plain>
         </string>
         <string>
-            <plain>Слушай, как стонут они!</plain>
+            <plain>РЎР»СѓС€Р°Р№, РєР°Рє СЃС‚РѕРЅСѓС‚ РѕРЅРё!</plain>
         </string>
         <string>
-            <plain>О, к Богу заблудших веди!</plain>
+            <plain>Рћ, Рє Р‘РѕРіСѓ Р·Р°Р±Р»СѓРґС€РёС… РІРµРґРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Есть страны за далью морей,</plain>
+            <plain>Р•СЃС‚СЊ СЃС‚СЂР°РЅС‹ Р·Р° РґР°Р»СЊСЋ РјРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>душ много гибнущих в нихих</plain>
+            <plain>РґСѓС€ РјРЅРѕРіРѕ РіРёР±РЅСѓС‰РёС… РІ РЅРёС…РёС…</plain>
         </string>
         <string>
-            <plain>грех взял Иисус Назорей</plain>
+            <plain>РіСЂРµС… РІР·СЏР» РРёСЃСѓСЃ РќР°Р·РѕСЂРµР№</plain>
         </string>
         <string>
-            <plain>и умер в страданьях за них.</plain>
+            <plain>Рё СѓРјРµСЂ РІ СЃС‚СЂР°РґР°РЅСЊСЏС… Р·Р° РЅРёС….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И если ты встретишь в пути</plain>
+            <plain>Р РµСЃР»Рё С‚С‹ РІСЃС‚СЂРµС‚РёС€СЊ РІ РїСѓС‚Рё</plain>
         </string>
         <string>
-            <plain>сердце от Бога вдали,</plain>
+            <plain>СЃРµСЂРґС†Рµ РѕС‚ Р‘РѕРіР° РІРґР°Р»Рё,</plain>
         </string>
         <string>
-            <plain>скажи ему весть о любви</plain>
+            <plain>СЃРєР°Р¶Рё РµРјСѓ РІРµСЃС‚СЊ Рѕ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>и к Богу заблудших веди.</plain>
+            <plain>Рё Рє Р‘РѕРіСѓ Р·Р°Р±Р»СѓРґС€РёС… РІРµРґРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Идите по миру всему,</plain>
+            <plain>РРґРёС‚Рµ РїРѕ РјРёСЂСѓ РІСЃРµРјСѓ,</plain>
         </string>
         <string>
-            <plain>Слово несите везде,</plain>
+            <plain>РЎР»РѕРІРѕ РЅРµСЃРёС‚Рµ РІРµР·РґРµ,</plain>
         </string>
         <string>
-            <plain>чтоб те, кто от Бога далёк,</plain>
+            <plain>С‡С‚РѕР± С‚Рµ, РєС‚Рѕ РѕС‚ Р‘РѕРіР° РґР°Р»С‘Рє,</plain>
         </string>
         <string>
-            <plain>услышали весть о Христе!</plain>
+            <plain>СѓСЃР»С‹С€Р°Р»Рё РІРµСЃС‚СЊ Рѕ РҐСЂРёСЃС‚Рµ!</plain>
         </string>
     </verse>
 </psalm>

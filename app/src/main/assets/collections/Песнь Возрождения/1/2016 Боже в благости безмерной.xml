@@ -1,98 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2016" name="Боже в благости безмерной" canon="false" text="" textRus="" music="">
+<psalm number="2016" name="Р‘РѕР¶Рµ РІ Р±Р»Р°РіРѕСЃС‚Рё Р±РµР·РјРµСЂРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, в благости безмерной,</plain>
+            <plain>Р‘РѕР¶Рµ, РІ Р±Р»Р°РіРѕСЃС‚Рё Р±РµР·РјРµСЂРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Я смиряюсь пред Тобой.</plain>
+            <plain>РЇ СЃРјРёСЂСЏСЋСЃСЊ РїСЂРµРґ РўРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Дух премудрости священной</plain>
+            <plain>Р”СѓС… РїСЂРµРјСѓРґСЂРѕСЃС‚Рё СЃРІСЏС‰РµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>В сердце мне излей Ты Свой.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РјРЅРµ РёР·Р»РµР№ РўС‹ РЎРІРѕР№.</plain>
         </string>
         <string>
-            <plain>Одари дарами веры</plain>
+            <plain>РћРґР°СЂРё РґР°СЂР°РјРё РІРµСЂС‹</plain>
         </string>
         <string>
-            <plain>В пламенеющей любви,</plain>
+            <plain>Р’ РїР»Р°РјРµРЅРµСЋС‰РµР№ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Чтоб об имени Христовом</plain>
+            <plain>Р§С‚РѕР± РѕР± РёРјРµРЅРё РҐСЂРёСЃС‚РѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Возвещал я во все дни.</plain>
+            <plain>Р’РѕР·РІРµС‰Р°Р» СЏ РІРѕ РІСЃРµ РґРЅРё.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>О, мой Пастырь, мой Господь,</plain>
+            <plain>Рћ, РјРѕР№ РџР°СЃС‚С‹СЂСЊ, РјРѕР№ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Мой Спаситель дорогой,</plain>
+            <plain>РњРѕР№ РЎРїР°СЃРёС‚РµР»СЊ РґРѕСЂРѕРіРѕР№,</plain>
         </string>
         <string>
-            <plain>Только Ты мой щит И Ты мой оплот;</plain>
+            <plain>РўРѕР»СЊРєРѕ РўС‹ РјРѕР№ С‰РёС‚ Р РўС‹ РјРѕР№ РѕРїР»РѕС‚;</plain>
         </string>
         <string>
-            <plain>Вечно я хочу быть с Тобой, Господь,</plain>
+            <plain>Р’РµС‡РЅРѕ СЏ С…РѕС‡Сѓ Р±С‹С‚СЊ СЃ РўРѕР±РѕР№, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Но всегда со мной Сам пребудь.</plain>
+            <plain>РќРѕ РІСЃРµРіРґР° СЃРѕ РјРЅРѕР№ РЎР°Рј РїСЂРµР±СѓРґСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай забыть мне все заботы</plain>
+            <plain>Р”Р°Р№ Р·Р°Р±С‹С‚СЊ РјРЅРµ РІСЃРµ Р·Р°Р±РѕС‚С‹</plain>
         </string>
         <string>
-            <plain>И забыть плотское "я";</plain>
+            <plain>Р Р·Р°Р±С‹С‚СЊ РїР»РѕС‚СЃРєРѕРµ "СЏ";</plain>
         </string>
         <string>
-            <plain>На Твоё святое дело</plain>
+            <plain>РќР° РўРІРѕС‘ СЃРІСЏС‚РѕРµ РґРµР»Рѕ</plain>
         </string>
         <string>
-            <plain>Я готов, пошли меня.</plain>
+            <plain>РЇ РіРѕС‚РѕРІ, РїРѕС€Р»Рё РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Дай мне силу благодати,</plain>
+            <plain>Р”Р°Р№ РјРЅРµ СЃРёР»Сѓ Р±Р»Р°РіРѕРґР°С‚Рё,</plain>
         </string>
         <string>
-            <plain>Силу слов Твоих живых,</plain>
+            <plain>РЎРёР»Сѓ СЃР»РѕРІ РўРІРѕРёС… Р¶РёРІС‹С…,</plain>
         </string>
         <string>
-            <plain>Чтоб Твои слова святые</plain>
+            <plain>Р§С‚РѕР± РўРІРѕРё СЃР»РѕРІР° СЃРІСЏС‚С‹Рµ</plain>
         </string>
         <string>
-            <plain>Сеял я в сердцах людей.</plain>
+            <plain>РЎРµСЏР» СЏ РІ СЃРµСЂРґС†Р°С… Р»СЋРґРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Боже, в благости безмерный,</plain>
+            <plain>Р‘РѕР¶Рµ, РІ Р±Р»Р°РіРѕСЃС‚Рё Р±РµР·РјРµСЂРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Полон Ты святых даров.</plain>
+            <plain>РџРѕР»РѕРЅ РўС‹ СЃРІСЏС‚С‹С… РґР°СЂРѕРІ.</plain>
         </string>
         <string>
-            <plain>Дай мне быть в служенье верпьтм,</plain>
+            <plain>Р”Р°Р№ РјРЅРµ Р±С‹С‚СЊ РІ СЃР»СѓР¶РµРЅСЊРµ РІРµСЂРїСЊС‚Рј,</plain>
         </string>
         <string>
-            <plain>Дай мне дар - Твою любовь.</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РґР°СЂ - РўРІРѕСЋ Р»СЋР±РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Дай мне с плотью не считаться,</plain>
+            <plain>Р”Р°Р№ РјРЅРµ СЃ РїР»РѕС‚СЊСЋ РЅРµ СЃС‡РёС‚Р°С‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Как придётся пострадать,</plain>
+            <plain>РљР°Рє РїСЂРёРґС‘С‚СЃСЏ РїРѕСЃС‚СЂР°РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>И за правду поцви.заться,</plain>
+            <plain>Р Р·Р° РїСЂР°РІРґСѓ РїРѕС†РІРё.Р·Р°С‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>О Тебе всегда вещать.</plain>
+            <plain>Рћ РўРµР±Рµ РІСЃРµРіРґР° РІРµС‰Р°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

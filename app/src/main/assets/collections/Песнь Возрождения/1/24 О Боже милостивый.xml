@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="24" name="О Боже милостивый" canon="false" text="" textRus="" music="">
+<psalm number="24" name="Рћ Р‘РѕР¶Рµ РјРёР»РѕСЃС‚РёРІС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Боже милостивый!</plain>
+            <plain>Рћ Р‘РѕР¶Рµ РјРёР»РѕСЃС‚РёРІС‹Р№!</plain>
         </string>
         <string>
-            <plain>Благослови Ты нас,</plain>
+            <plain>Р‘Р»Р°РіРѕСЃР»РѕРІРё РўС‹ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Чтоб крепнули порывы</plain>
+            <plain>Р§С‚РѕР± РєСЂРµРїРЅСѓР»Рё РїРѕСЂС‹РІС‹</plain>
         </string>
         <string>
-            <plain>К добру во всякий час.</plain>
+            <plain>Рљ РґРѕР±СЂСѓ РІРѕ РІСЃСЏРєРёР№ С‡Р°СЃ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>О Боже! Вечным светом</plain>
+            <plain>Рћ Р‘РѕР¶Рµ! Р’РµС‡РЅС‹Рј СЃРІРµС‚РѕРј</plain>
         </string>
         <string>
-            <plain>Ты всех нас осени;</plain>
+            <plain>РўС‹ РІСЃРµС… РЅР°СЃ РѕСЃРµРЅРё;</plain>
         </string>
         <string>
-            <plain>Когда даем обеты,</plain>
+            <plain>РљРѕРіРґР° РґР°РµРј РѕР±РµС‚С‹,</plain>
         </string>
         <string>
-            <plain>Ты к нам главу склони.</plain>
+            <plain>РўС‹ Рє РЅР°Рј РіР»Р°РІСѓ СЃРєР»РѕРЅРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Веди Ты нас путями</plain>
+            <plain>Р’РµРґРё РўС‹ РЅР°СЃ РїСѓС‚СЏРјРё</plain>
         </string>
         <string>
-            <plain>Разумного труда!</plain>
+            <plain>Р Р°Р·СѓРјРЅРѕРіРѕ С‚СЂСѓРґР°!</plain>
         </string>
         <string>
-            <plain>Пребудь Ты Духом с нами</plain>
+            <plain>РџСЂРµР±СѓРґСЊ РўС‹ Р”СѓС…РѕРј СЃ РЅР°РјРё</plain>
         </string>
         <string>
-            <plain>И ныне, и всегда.</plain>
+            <plain>Р РЅС‹РЅРµ, Рё РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
 </psalm>

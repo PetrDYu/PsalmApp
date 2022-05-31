@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3100" name="Блажен тот час когда" canon="false" text="" textRus="" music="">
+<psalm number="3100" name="Р‘Р»Р°Р¶РµРЅ С‚РѕС‚ С‡Р°СЃ РєРѕРіРґР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Блажен тот час, когда</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅ С‚РѕС‚ С‡Р°СЃ, РєРѕРіРґР°</plain>
         </string>
         <string>
-            <plain>Господь мне сердце осветил,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РјРЅРµ СЃРµСЂРґС†Рµ РѕСЃРІРµС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Своею кровью от греха</plain>
+            <plain>РЎРІРѕРµСЋ РєСЂРѕРІСЊСЋ РѕС‚ РіСЂРµС…Р°</plain>
         </string>
         <string>
-            <plain>меня освободил.</plain>
+            <plain>РјРµРЅСЏ РѕСЃРІРѕР±РѕРґРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он дал мне благодать.</plain>
+            <plain>РћРЅ РґР°Р» РјРЅРµ Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Нет слов, чтоб это описать</plain>
+            <plain>РќРµС‚ СЃР»РѕРІ, С‡С‚РѕР± СЌС‚Рѕ РѕРїРёСЃР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>- лишь можно испытать!</plain>
+            <plain>- Р»РёС€СЊ РјРѕР¶РЅРѕ РёСЃРїС‹С‚Р°С‚СЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Искра Господня с алтаря</plain>
+            <plain>РСЃРєСЂР° Р“РѕСЃРїРѕРґРЅСЏ СЃ Р°Р»С‚Р°СЂСЏ</plain>
         </string>
         <string>
-            <plain>попала в душу мне,</plain>
+            <plain>РїРѕРїР°Р»Р° РІ РґСѓС€Сѓ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>огнём святым её зажгла,</plain>
+            <plain>РѕРіРЅС‘Рј СЃРІСЏС‚С‹Рј РµС‘ Р·Р°Р¶РіР»Р°,</plain>
         </string>
         <string>
-            <plain>и нет уж места тьме.</plain>
+            <plain>Рё РЅРµС‚ СѓР¶ РјРµСЃС‚Р° С‚СЊРјРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, чудный свет, сияй во мне</plain>
+            <plain>Рћ, С‡СѓРґРЅС‹Р№ СЃРІРµС‚, СЃРёСЏР№ РІРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>и ярче всё свети!</plain>
+            <plain>Рё СЏСЂС‡Рµ РІСЃС‘ СЃРІРµС‚Рё!</plain>
         </string>
         <string>
-            <plain>Чрез Дух и Слово Ты Своё,</plain>
+            <plain>Р§СЂРµР· Р”СѓС… Рё РЎР»РѕРІРѕ РўС‹ РЎРІРѕС‘,</plain>
         </string>
         <string>
-            <plain>Господь, меня веди.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РјРµРЅСЏ РІРµРґРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, помоги мне каждый день</plain>
+            <plain>Рћ, РїРѕРјРѕРіРё РјРЅРµ РєР°Р¶РґС‹Р№ РґРµРЅСЊ</plain>
         </string>
         <string>
-            <plain>в союзе жить с Тобой!</plain>
+            <plain>РІ СЃРѕСЋР·Рµ Р¶РёС‚СЊ СЃ РўРѕР±РѕР№!</plain>
         </string>
         <string>
-            <plain>Когда Ты - свет стезе моей,</plain>
+            <plain>РљРѕРіРґР° РўС‹ - СЃРІРµС‚ СЃС‚РµР·Рµ РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>путь безопасен мой.</plain>
+            <plain>РїСѓС‚СЊ Р±РµР·РѕРїР°СЃРµРЅ РјРѕР№.</plain>
         </string>
     </verse>
 </psalm>

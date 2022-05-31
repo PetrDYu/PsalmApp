@@ -1,123 +1,123 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="338" name="Народ теснится и бежит" canon="false" text="" textRus="" music="">
+<psalm number="338" name="РќР°СЂРѕРґ С‚РµСЃРЅРёС‚СЃСЏ Рё Р±РµР¶РёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Народ теснится и бежит,</plain>
+            <plain>РќР°СЂРѕРґ С‚РµСЃРЅРёС‚СЃСЏ Рё Р±РµР¶РёС‚,</plain>
         </string>
         <string>
-            <plain>Куда-то стар и млад спешит.</plain>
+            <plain>РљСѓРґР°-С‚Рѕ СЃС‚Р°СЂ Рё РјР»Р°Рґ СЃРїРµС€РёС‚.</plain>
         </string>
         <string>
-            <plain>О чем волнуется толпа?</plain>
+            <plain>Рћ С‡РµРј РІРѕР»РЅСѓРµС‚СЃСЏ С‚РѕР»РїР°?</plain>
         </string>
         <string>
-            <plain>Куда стремится так она?</plain>
+            <plain>РљСѓРґР° СЃС‚СЂРµРјРёС‚СЃСЏ С‚Р°Рє РѕРЅР°?</plain>
         </string>
         <string>
-            <plain>Вот громко, громко глас зовет:</plain>
+            <plain>Р’РѕС‚ РіСЂРѕРјРєРѕ, РіСЂРѕРјРєРѕ РіР»Р°СЃ Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>"Иисус Назорей идет!"</plain>
+            <plain>"РРёСЃСѓСЃ РќР°Р·РѕСЂРµР№ РёРґРµС‚!"</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Кто ж этот чудный муж такой,</plain>
+            <plain>РљС‚Рѕ Р¶ СЌС‚РѕС‚ С‡СѓРґРЅС‹Р№ РјСѓР¶ С‚Р°РєРѕР№,</plain>
         </string>
         <string>
-            <plain>Кто управляет так толпой?</plain>
+            <plain>РљС‚Рѕ СѓРїСЂР°РІР»СЏРµС‚ С‚Р°Рє С‚РѕР»РїРѕР№?</plain>
         </string>
         <string>
-            <plain>Чьим словом множество людей</plain>
+            <plain>Р§СЊРёРј СЃР»РѕРІРѕРј РјРЅРѕР¶РµСЃС‚РІРѕ Р»СЋРґРµР№</plain>
         </string>
         <string>
-            <plain>От вражьих спасены сетей?</plain>
+            <plain>РћС‚ РІСЂР°Р¶СЊРёС… СЃРїР°СЃРµРЅС‹ СЃРµС‚РµР№?</plain>
         </string>
         <string>
-            <plain>Вот громче, громче глас зовет:</plain>
+            <plain>Р’РѕС‚ РіСЂРѕРјС‡Рµ, РіСЂРѕРјС‡Рµ РіР»Р°СЃ Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>"Иисус Назорей идет!"</plain>
+            <plain>"РРёСЃСѓСЃ РќР°Р·РѕСЂРµР№ РёРґРµС‚!"</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>То - наш Господь, который нас</plain>
+            <plain>РўРѕ - РЅР°С€ Р“РѕСЃРїРѕРґСЊ, РєРѕС‚РѕСЂС‹Р№ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>От смерти и проклятья спас;</plain>
+            <plain>РћС‚ СЃРјРµСЂС‚Рё Рё РїСЂРѕРєР»СЏС‚СЊСЏ СЃРїР°СЃ;</plain>
         </string>
         <string>
-            <plain>Утешить может Он больных</plain>
+            <plain>РЈС‚РµС€РёС‚СЊ РјРѕР¶РµС‚ РћРЅ Р±РѕР»СЊРЅС‹С…</plain>
         </string>
         <string>
-            <plain>И исцелить всех немощных.</plain>
+            <plain>Р РёСЃС†РµР»РёС‚СЊ РІСЃРµС… РЅРµРјРѕС‰РЅС‹С….</plain>
         </string>
         <string>
-            <plain>Слепой, убогий, всяк зовет:</plain>
+            <plain>РЎР»РµРїРѕР№, СѓР±РѕРіРёР№, РІСЃСЏРє Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>"Иисус Назорей идет!"</plain>
+            <plain>"РРёСЃСѓСЃ РќР°Р·РѕСЂРµР№ РёРґРµС‚!"</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И ныне также Он идет</plain>
+            <plain>Р РЅС‹РЅРµ С‚Р°РєР¶Рµ РћРЅ РёРґРµС‚</plain>
         </string>
         <string>
-            <plain>Ко всем, кто только позовет;</plain>
+            <plain>РљРѕ РІСЃРµРј, РєС‚Рѕ С‚РѕР»СЊРєРѕ РїРѕР·РѕРІРµС‚;</plain>
         </string>
         <string>
-            <plain>С любовью всюду входит Он,</plain>
+            <plain>РЎ Р»СЋР±РѕРІСЊСЋ РІСЃСЋРґСѓ РІС…РѕРґРёС‚ РћРЅ,</plain>
         </string>
         <string>
-            <plain>Где для сердец нужда есть в Нем.</plain>
+            <plain>Р“РґРµ РґР»СЏ СЃРµСЂРґРµС† РЅСѓР¶РґР° РµСЃС‚СЊ РІ РќРµРј.</plain>
         </string>
         <string>
-            <plain>Глас у твоих дверей зовет:</plain>
+            <plain>Р“Р»Р°СЃ Сѓ С‚РІРѕРёС… РґРІРµСЂРµР№ Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>"Иисус Назорей идет!"</plain>
+            <plain>"РРёСЃСѓСЃ РќР°Р·РѕСЂРµР№ РёРґРµС‚!"</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Идите же скорей домой</plain>
+            <plain>РРґРёС‚Рµ Р¶Рµ СЃРєРѕСЂРµР№ РґРѕРјРѕР№</plain>
         </string>
         <string>
-            <plain>В Отцовский дом, на пир святой;</plain>
+            <plain>Р’ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј, РЅР° РїРёСЂ СЃРІСЏС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Есть для заблудших место там</plain>
+            <plain>Р•СЃС‚СЊ РґР»СЏ Р·Р°Р±Р»СѓРґС€РёС… РјРµСЃС‚Рѕ С‚Р°Рј</plain>
         </string>
         <string>
-            <plain>И от греха спасенье вам.</plain>
+            <plain>Р РѕС‚ РіСЂРµС…Р° СЃРїР°СЃРµРЅСЊРµ РІР°Рј.</plain>
         </string>
         <string>
-            <plain>Ах, слышите ль как глас зовет:</plain>
+            <plain>РђС…, СЃР»С‹С€РёС‚Рµ Р»СЊ РєР°Рє РіР»Р°СЃ Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>"Иисус Назорей идет!"</plain>
+            <plain>"РРёСЃСѓСЃ РќР°Р·РѕСЂРµР№ РёРґРµС‚!"</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Но не забудьте никогда,</plain>
+            <plain>РќРѕ РЅРµ Р·Р°Р±СѓРґСЊС‚Рµ РЅРёРєРѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>Что есть возможность навсегда</plain>
+            <plain>Р§С‚Рѕ РµСЃС‚СЊ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РЅР°РІСЃРµРіРґР°</plain>
         </string>
         <string>
-            <plain>Отвергнуть Божью благодать</plain>
+            <plain>РћС‚РІРµСЂРіРЅСѓС‚СЊ Р‘РѕР¶СЊСЋ Р±Р»Р°РіРѕРґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И с ужасом потом узнать:</plain>
+            <plain>Р СЃ СѓР¶Р°СЃРѕРј РїРѕС‚РѕРј СѓР·РЅР°С‚СЊ:</plain>
         </string>
         <string>
-            <plain>"Господь был близко и ушел, -</plain>
+            <plain>"Р“РѕСЃРїРѕРґСЊ Р±С‹Р» Р±Р»РёР·РєРѕ Рё СѓС€РµР», -</plain>
         </string>
         <string>
-            <plain>Иисус Назорей прошел!"</plain>
+            <plain>РРёСЃСѓСЃ РќР°Р·РѕСЂРµР№ РїСЂРѕС€РµР»!"</plain>
         </string>
     </verse>
 </psalm>

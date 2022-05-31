@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="377" name="Послушай радостную весть" canon="false" text="" textRus="" music="">
+<psalm number="377" name="РџРѕСЃР»СѓС€Р°Р№ СЂР°РґРѕСЃС‚РЅСѓСЋ РІРµСЃС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Послушай радостную весть,</plain>
+            <plain>РџРѕСЃР»СѓС€Р°Р№ СЂР°РґРѕСЃС‚РЅСѓСЋ РІРµСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Что совершил для нас Христос:</plain>
+            <plain>Р§С‚Рѕ СЃРѕРІРµСЂС€РёР» РґР»СЏ РЅР°СЃ РҐСЂРёСЃС‚РѕСЃ:</plain>
         </string>
         <string>
-            <plain>Как Он оставил славу, честь</plain>
+            <plain>РљР°Рє РћРЅ РѕСЃС‚Р°РІРёР» СЃР»Р°РІСѓ, С‡РµСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>И к нам пришел в долину слез!</plain>
+            <plain>Р Рє РЅР°Рј РїСЂРёС€РµР» РІ РґРѕР»РёРЅСѓ СЃР»РµР·!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Кто радостной поверит вести,</plain>
+            <plain>РљС‚Рѕ СЂР°РґРѕСЃС‚РЅРѕР№ РїРѕРІРµСЂРёС‚ РІРµСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Тот будет вечно жить с Иисусом вместе!</plain>
+            <plain>РўРѕС‚ Р±СѓРґРµС‚ РІРµС‡РЅРѕ Р¶РёС‚СЊ СЃ РРёСЃСѓСЃРѕРј РІРјРµСЃС‚Рµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он за тебя и за меня,</plain>
+            <plain>РћРЅ Р·Р° С‚РµР±СЏ Рё Р·Р° РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Умерши, в гробе был три дня;</plain>
+            <plain>РЈРјРµСЂС€Рё, РІ РіСЂРѕР±Рµ Р±С‹Р» С‚СЂРё РґРЅСЏ;</plain>
         </string>
         <string>
-            <plain>Он чашу скорби выпил Сам,</plain>
+            <plain>РћРЅ С‡Р°С€Сѓ СЃРєРѕСЂР±Рё РІС‹РїРёР» РЎР°Рј,</plain>
         </string>
         <string>
-            <plain>Чтоб чашу радости дать нам.</plain>
+            <plain>Р§С‚РѕР± С‡Р°С€Сѓ СЂР°РґРѕСЃС‚Рё РґР°С‚СЊ РЅР°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>За нас Он кровь Свою пролил</plain>
+            <plain>Р—Р° РЅР°СЃ РћРЅ РєСЂРѕРІСЊ РЎРІРѕСЋ РїСЂРѕР»РёР»</plain>
         </string>
         <string>
-            <plain>И ключ спасенья нам открыл;</plain>
+            <plain>Р РєР»СЋС‡ СЃРїР°СЃРµРЅСЊСЏ РЅР°Рј РѕС‚РєСЂС‹Р»;</plain>
         </string>
         <string>
-            <plain>И если жаждущий придет,</plain>
+            <plain>Р РµСЃР»Рё Р¶Р°Р¶РґСѓС‰РёР№ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>В Нем утоление найдет.</plain>
+            <plain>Р’ РќРµРј СѓС‚РѕР»РµРЅРёРµ РЅР°Р№РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Поверь Евангельским словам</plain>
+            <plain>РџРѕРІРµСЂСЊ Р•РІР°РЅРіРµР»СЊСЃРєРёРј СЃР»РѕРІР°Рј</plain>
         </string>
         <string>
-            <plain>И путь найдешь ты к небесам;</plain>
+            <plain>Р РїСѓС‚СЊ РЅР°Р№РґРµС€СЊ С‚С‹ Рє РЅРµР±РµСЃР°Рј;</plain>
         </string>
         <string>
-            <plain>Верь, наказание на Нем</plain>
+            <plain>Р’РµСЂСЊ, РЅР°РєР°Р·Р°РЅРёРµ РЅР° РќРµРј</plain>
         </string>
         <string>
-            <plain>Совершено за нас Отцом.</plain>
+            <plain>РЎРѕРІРµСЂС€РµРЅРѕ Р·Р° РЅР°СЃ РћС‚С†РѕРј.</plain>
         </string>
     </verse>
 </psalm>

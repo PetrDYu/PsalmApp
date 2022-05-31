@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3029" name="Мы приветствуем тебя" canon="false" text="" textRus="" music="">
+<psalm number="3029" name="РњС‹ РїСЂРёРІРµС‚СЃС‚РІСѓРµРј С‚РµР±СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы приветствуем тебя,</plain>
+            <plain>РњС‹ РїСЂРёРІРµС‚СЃС‚РІСѓРµРј С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>ночь, что нам дала Христа,</plain>
+            <plain>РЅРѕС‡СЊ, С‡С‚Рѕ РЅР°Рј РґР°Р»Р° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>что младенцем был рождён</plain>
+            <plain>С‡С‚Рѕ РјР»Р°РґРµРЅС†РµРј Р±С‹Р» СЂРѕР¶РґС‘РЅ</plain>
         </string>
         <string>
-            <plain>и положен в ясли Он.</plain>
+            <plain>Рё РїРѕР»РѕР¶РµРЅ РІ СЏСЃР»Рё РћРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Рады встретить мы тебя,</plain>
+            <plain>Р Р°РґС‹ РІСЃС‚СЂРµС‚РёС‚СЊ РјС‹ С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>ночь святая, дивная!</plain>
+            <plain>РЅРѕС‡СЊ СЃРІСЏС‚Р°СЏ, РґРёРІРЅР°СЏ!</plain>
         </string>
         <string>
-            <plain>Радовались ангелы -</plain>
+            <plain>Р Р°РґРѕРІР°Р»РёСЃСЊ Р°РЅРіРµР»С‹ -</plain>
         </string>
         <string>
-            <plain>ещё больше рады мы.</plain>
+            <plain>РµС‰С‘ Р±РѕР»СЊС€Рµ СЂР°РґС‹ РјС‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Все от Бога далеки,</plain>
+            <plain>Р’СЃРµ РѕС‚ Р‘РѕРіР° РґР°Р»РµРєРё,</plain>
         </string>
         <string>
-            <plain>были под проклятьем мы,</plain>
+            <plain>Р±С‹Р»Рё РїРѕРґ РїСЂРѕРєР»СЏС‚СЊРµРј РјС‹,</plain>
         </string>
         <string>
-            <plain>но в Младенце прощены,</plain>
+            <plain>РЅРѕ РІ РњР»Р°РґРµРЅС†Рµ РїСЂРѕС‰РµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Богу вновь угодны мы.</plain>
+            <plain>Р‘РѕРіСѓ РІРЅРѕРІСЊ СѓРіРѕРґРЅС‹ РјС‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Слава Богу в вышине!</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ РІ РІС‹С€РёРЅРµ!</plain>
         </string>
         <string>
-            <plain>Нас, погрязших в страшном зле,</plain>
+            <plain>РќР°СЃ, РїРѕРіСЂСЏР·С€РёС… РІ СЃС‚СЂР°С€РЅРѕРј Р·Р»Рµ,</plain>
         </string>
         <string>
-            <plain>горячо так возлюбил</plain>
+            <plain>РіРѕСЂСЏС‡Рѕ С‚Р°Рє РІРѕР·Р»СЋР±РёР»</plain>
         </string>
         <string>
-            <plain>и нам Сына здесь явил.</plain>
+            <plain>Рё РЅР°Рј РЎС‹РЅР° Р·РґРµСЃСЊ СЏРІРёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Слава Господу Христу,</plain>
+            <plain>РЎР»Р°РІР° Р“РѕСЃРїРѕРґСѓ РҐСЂРёСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>что на землю бедную</plain>
+            <plain>С‡С‚Рѕ РЅР° Р·РµРјР»СЋ Р±РµРґРЅСѓСЋ</plain>
         </string>
         <string>
-            <plain>с трона царского сошёл,</plain>
+            <plain>СЃ С‚СЂРѕРЅР° С†Р°СЂСЃРєРѕРіРѕ СЃРѕС€С‘Р»,</plain>
         </string>
         <string>
-            <plain>к нам Спасителем пришёл!</plain>
+            <plain>Рє РЅР°Рј РЎРїР°СЃРёС‚РµР»РµРј РїСЂРёС€С‘Р»!</plain>
         </string>
     </verse>
 </psalm>

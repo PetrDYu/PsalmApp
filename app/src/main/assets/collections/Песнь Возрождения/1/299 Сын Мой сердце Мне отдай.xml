@@ -1,92 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="299" name="Сын Мой сердце Мне отдай" canon="false" text="" textRus="" music="">
+<psalm number="299" name="РЎС‹РЅ РњРѕР№ СЃРµСЂРґС†Рµ РњРЅРµ РѕС‚РґР°Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сын Мой, сердце Мне отдай;</plain>
+            <plain>РЎС‹РЅ РњРѕР№, СЃРµСЂРґС†Рµ РњРЅРµ РѕС‚РґР°Р№;</plain>
         </string>
         <string>
-            <plain>Ты родной покинул край.</plain>
+            <plain>РўС‹ СЂРѕРґРЅРѕР№ РїРѕРєРёРЅСѓР» РєСЂР°Р№.</plain>
         </string>
         <string>
-            <plain>Сердце страждет и давно</plain>
+            <plain>РЎРµСЂРґС†Рµ СЃС‚СЂР°Р¶РґРµС‚ Рё РґР°РІРЅРѕ</plain>
         </string>
         <string>
-            <plain>В нем уныло и темно.</plain>
+            <plain>Р’ РЅРµРј СѓРЅС‹Р»Рѕ Рё С‚РµРјРЅРѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Сын Мой, сердце (Мне) отдай.</plain>
+            <plain>РЎС‹РЅ РњРѕР№, СЃРµСЂРґС†Рµ (РњРЅРµ) РѕС‚РґР°Р№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Одинок ты, темен путь,</plain>
+            <plain>РћРґРёРЅРѕРє С‚С‹, С‚РµРјРµРЅ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Негде сердцу отдохнуть,</plain>
+            <plain>РќРµРіРґРµ СЃРµСЂРґС†Сѓ РѕС‚РґРѕС…РЅСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>И лучи любви Отца</plain>
+            <plain>Р Р»СѓС‡Рё Р»СЋР±РІРё РћС‚С†Р°</plain>
         </string>
         <string>
-            <plain>Не согреют гордеца.</plain>
+            <plain>РќРµ СЃРѕРіСЂРµСЋС‚ РіРѕСЂРґРµС†Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Светло, радостно тому,</plain>
+            <plain>РЎРІРµС‚Р»Рѕ, СЂР°РґРѕСЃС‚РЅРѕ С‚РѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Кто отдаст Мне жизнь свою;</plain>
+            <plain>РљС‚Рѕ РѕС‚РґР°СЃС‚ РњРЅРµ Р¶РёР·РЅСЊ СЃРІРѕСЋ;</plain>
         </string>
         <string>
-            <plain>Но как тяжко одному</plain>
+            <plain>РќРѕ РєР°Рє С‚СЏР¶РєРѕ РѕРґРЅРѕРјСѓ</plain>
         </string>
         <string>
-            <plain>В этом жизненном бою.</plain>
+            <plain>Р’ СЌС‚РѕРј Р¶РёР·РЅРµРЅРЅРѕРј Р±РѕСЋ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты любил того, кто был</plain>
+            <plain>РўС‹ Р»СЋР±РёР» С‚РѕРіРѕ, РєС‚Рѕ Р±С‹Р»</plain>
         </string>
         <string>
-            <plain>Для твоей души врагом,</plain>
+            <plain>Р”Р»СЏ С‚РІРѕРµР№ РґСѓС€Рё РІСЂР°РіРѕРј,</plain>
         </string>
         <string>
-            <plain>А отца ты не любил,</plain>
+            <plain>Рђ РѕС‚С†Р° С‚С‹ РЅРµ Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>Огорчал Его грехом.</plain>
+            <plain>РћРіРѕСЂС‡Р°Р» Р•РіРѕ РіСЂРµС…РѕРј.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Сердце Мне свое отдай</plain>
+            <plain>РЎРµСЂРґС†Рµ РњРЅРµ СЃРІРѕРµ РѕС‚РґР°Р№</plain>
         </string>
         <string>
-            <plain>Безраздельно, целиком,</plain>
+            <plain>Р‘РµР·СЂР°Р·РґРµР»СЊРЅРѕ, С†РµР»РёРєРѕРј,</plain>
         </string>
         <string>
-            <plain>Кроткой верою признай</plain>
+            <plain>РљСЂРѕС‚РєРѕР№ РІРµСЂРѕСЋ РїСЂРёР·РЅР°Р№</plain>
         </string>
         <string>
-            <plain>Бога любящим Отцом.</plain>
+            <plain>Р‘РѕРіР° Р»СЋР±СЏС‰РёРј РћС‚С†РѕРј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Сердце Господу отдай,</plain>
+            <plain>РЎРµСЂРґС†Рµ Р“РѕСЃРїРѕРґСѓ РѕС‚РґР°Р№,</plain>
         </string>
         <string>
-            <plain>Лучших дней не ожидай</plain>
+            <plain>Р›СѓС‡С€РёС… РґРЅРµР№ РЅРµ РѕР¶РёРґР°Р№</plain>
         </string>
         <string>
-            <plain>И сегодня дай ответ</plain>
+            <plain>Р СЃРµРіРѕРґРЅСЏ РґР°Р№ РѕС‚РІРµС‚</plain>
         </string>
         <string>
-            <plain>На призыв протекших лет.</plain>
+            <plain>РќР° РїСЂРёР·С‹РІ РїСЂРѕС‚РµРєС€РёС… Р»РµС‚.</plain>
         </string>
     </verse>
 </psalm>

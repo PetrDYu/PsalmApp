@@ -1,157 +1,157 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="904" name="Есть люди в этом мире" canon="false" text="" textRus="" music="">
+<psalm number="904" name="Р•СЃС‚СЊ Р»СЋРґРё РІ СЌС‚РѕРј РјРёСЂРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Есть люди в этом мире</plain>
+            <plain>Р•СЃС‚СЊ Р»СЋРґРё РІ СЌС‚РѕРј РјРёСЂРµ</plain>
         </string>
         <string>
-            <plain>В деревнях, в городах,</plain>
+            <plain>Р’ РґРµСЂРµРІРЅСЏС…, РІ РіРѕСЂРѕРґР°С…,</plain>
         </string>
         <string>
-            <plain>Их жизнь есть вечный ропот</plain>
+            <plain>РС… Р¶РёР·РЅСЊ РµСЃС‚СЊ РІРµС‡РЅС‹Р№ СЂРѕРїРѕС‚</plain>
         </string>
         <string>
-            <plain>Всегда во всех делах.</plain>
+            <plain>Р’СЃРµРіРґР° РІРѕ РІСЃРµС… РґРµР»Р°С….</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, они ропщут понедельник,</plain>
+            <plain>Рћ, РѕРЅРё СЂРѕРїС‰СѓС‚ РїРѕРЅРµРґРµР»СЊРЅРёРє,</plain>
         </string>
         <string>
-            <plain>Вторник, среду, четверг, пятницу,</plain>
+            <plain>Р’С‚РѕСЂРЅРёРє, СЃСЂРµРґСѓ, С‡РµС‚РІРµСЂРі, РїСЏС‚РЅРёС†Сѓ,</plain>
         </string>
         <string>
-            <plain>Субботу, воскресенье</plain>
+            <plain>РЎСѓР±Р±РѕС‚Сѓ, РІРѕСЃРєСЂРµСЃРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>- Ропщут всю неделю.</plain>
+            <plain>- Р РѕРїС‰СѓС‚ РІСЃСЋ РЅРµРґРµР»СЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Они всем недовольны,</plain>
+            <plain>РћРЅРё РІСЃРµРј РЅРµРґРѕРІРѕР»СЊРЅС‹,</plain>
         </string>
         <string>
-            <plain>Им угодить невмочь.</plain>
+            <plain>РРј СѓРіРѕРґРёС‚СЊ РЅРµРІРјРѕС‡СЊ.</plain>
         </string>
         <string>
-            <plain>То есть их тяжкий недуг</plain>
+            <plain>РўРѕ РµСЃС‚СЊ РёС… С‚СЏР¶РєРёР№ РЅРµРґСѓРі</plain>
         </string>
         <string>
-            <plain>- все ропщут день и ночь.</plain>
+            <plain>- РІСЃРµ СЂРѕРїС‰СѓС‚ РґРµРЅСЊ Рё РЅРѕС‡СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Им тяжело в деревнях,</plain>
+            <plain>РРј С‚СЏР¶РµР»Рѕ РІ РґРµСЂРµРІРЅСЏС…,</plain>
         </string>
         <string>
-            <plain>Им плохо в городах.</plain>
+            <plain>РРј РїР»РѕС…Рѕ РІ РіРѕСЂРѕРґР°С….</plain>
         </string>
         <string>
-            <plain>Все люди им плохие,</plain>
+            <plain>Р’СЃРµ Р»СЋРґРё РёРј РїР»РѕС…РёРµ,</plain>
         </string>
         <string>
-            <plain>Их речи: "Ох" да "Ах".</plain>
+            <plain>РС… СЂРµС‡Рё: "РћС…" РґР° "РђС…".</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Жена винит все мужа,</plain>
+            <plain>Р–РµРЅР° РІРёРЅРёС‚ РІСЃРµ РјСѓР¶Р°,</plain>
         </string>
         <string>
-            <plain>А муж винит жену.</plain>
+            <plain>Рђ РјСѓР¶ РІРёРЅРёС‚ Р¶РµРЅСѓ.</plain>
         </string>
         <string>
-            <plain>Они всегда находят</plain>
+            <plain>РћРЅРё РІСЃРµРіРґР° РЅР°С…РѕРґСЏС‚</plain>
         </string>
         <string>
-            <plain>В других людях вину.</plain>
+            <plain>Р’ РґСЂСѓРіРёС… Р»СЋРґСЏС… РІРёРЅСѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>То цены слишком низки,</plain>
+            <plain>РўРѕ С†РµРЅС‹ СЃР»РёС€РєРѕРј РЅРёР·РєРё,</plain>
         </string>
         <string>
-            <plain>То слишком высоки.</plain>
+            <plain>РўРѕ СЃР»РёС€РєРѕРј РІС‹СЃРѕРєРё.</plain>
         </string>
         <string>
-            <plain>Так ропщут год за годом</plain>
+            <plain>РўР°Рє СЂРѕРїС‰СѓС‚ РіРѕРґ Р·Р° РіРѕРґРѕРј</plain>
         </string>
         <string>
-            <plain>Всю жизнь свою они.</plain>
+            <plain>Р’СЃСЋ Р¶РёР·РЅСЊ СЃРІРѕСЋ РѕРЅРё.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Плохой для них пресвитер,</plain>
+            <plain>РџР»РѕС…РѕР№ РґР»СЏ РЅРёС… РїСЂРµСЃРІРёС‚РµСЂ,</plain>
         </string>
         <string>
-            <plain>Не нравится им хор,</plain>
+            <plain>РќРµ РЅСЂР°РІРёС‚СЃСЏ РёРј С…РѕСЂ,</plain>
         </string>
         <string>
-            <plain>Не так сказали слово</plain>
+            <plain>РќРµ С‚Р°Рє СЃРєР°Р·Р°Р»Рё СЃР»РѕРІРѕ</plain>
         </string>
         <string>
-            <plain>И не на месте сбор.</plain>
+            <plain>Р РЅРµ РЅР° РјРµСЃС‚Рµ СЃР±РѕСЂ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Плохи для них все члены,</plain>
+            <plain>РџР»РѕС…Рё РґР»СЏ РЅРёС… РІСЃРµ С‡Р»РµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Все делают не так.</plain>
+            <plain>Р’СЃРµ РґРµР»Р°СЋС‚ РЅРµ С‚Р°Рє.</plain>
         </string>
         <string>
-            <plain>И им, как не стараться,</plain>
+            <plain>Р РёРј, РєР°Рє РЅРµ СЃС‚Р°СЂР°С‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Не угодить никак.</plain>
+            <plain>РќРµ СѓРіРѕРґРёС‚СЊ РЅРёРєР°Рє.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>В собраньи они редко</plain>
+            <plain>Р’ СЃРѕР±СЂР°РЅСЊРё РѕРЅРё СЂРµРґРєРѕ</plain>
         </string>
         <string>
-            <plain>- То жарко, то сквозит,</plain>
+            <plain>- РўРѕ Р¶Р°СЂРєРѕ, С‚Рѕ СЃРєРІРѕР·РёС‚,</plain>
         </string>
         <string>
-            <plain>То их пугает дождик,</plain>
+            <plain>РўРѕ РёС… РїСѓРіР°РµС‚ РґРѕР¶РґРёРє,</plain>
         </string>
         <string>
-            <plain>То голова болит.</plain>
+            <plain>РўРѕ РіРѕР»РѕРІР° Р±РѕР»РёС‚.</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>Коль есть здесь тот, кто ропщет,</plain>
+            <plain>РљРѕР»СЊ РµСЃС‚СЊ Р·РґРµСЃСЊ С‚РѕС‚, РєС‚Рѕ СЂРѕРїС‰РµС‚,</plain>
         </string>
         <string>
-            <plain>То знай, что это грех,</plain>
+            <plain>РўРѕ Р·РЅР°Р№, С‡С‚Рѕ СЌС‚Рѕ РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>И страшный ад навеки</plain>
+            <plain>Р СЃС‚СЂР°С€РЅС‹Р№ Р°Рґ РЅР°РІРµРєРё</plain>
         </string>
         <string>
-            <plain>Ждет ропотников всех.</plain>
+            <plain>Р–РґРµС‚ СЂРѕРїРѕС‚РЅРёРєРѕРІ РІСЃРµС….</plain>
         </string>
     </verse>
     <verse number="10">
         <string>
-            <plain>О ропотник! Покайся!</plain>
+            <plain>Рћ СЂРѕРїРѕС‚РЅРёРє! РџРѕРєР°Р№СЃСЏ!</plain>
         </string>
         <string>
-            <plain>Не стань других винить,</plain>
+            <plain>РќРµ СЃС‚Р°РЅСЊ РґСЂСѓРіРёС… РІРёРЅРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Трудиться сам старайся,</plain>
+            <plain>РўСЂСѓРґРёС‚СЊСЃСЏ СЃР°Рј СЃС‚Р°СЂР°Р№СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Старайся всех любить.</plain>
+            <plain>РЎС‚Р°СЂР°Р№СЃСЏ РІСЃРµС… Р»СЋР±РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

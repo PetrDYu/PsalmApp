@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1576" name="В сердце песня новая звучит" canon="false" text="" textRus="" music="">
+<psalm number="1576" name="Р’ СЃРµСЂРґС†Рµ РїРµСЃРЅСЏ РЅРѕРІР°СЏ Р·РІСѓС‡РёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В сердце песня новая звучит.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РїРµСЃРЅСЏ РЅРѕРІР°СЏ Р·РІСѓС‡РёС‚.</plain>
         </string>
         <string>
-            <plain>Что мне дал Спаситель мой:</plain>
+            <plain>Р§С‚Рѕ РјРЅРµ РґР°Р» РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№:</plain>
         </string>
         <string>
-            <plain>Я с тобою всюду,</plain>
+            <plain>РЇ СЃ С‚РѕР±РѕСЋ РІСЃСЋРґСѓ,</plain>
         </string>
         <string>
-            <plain>Я - твой шит.</plain>
+            <plain>РЇ - С‚РІРѕР№ С€РёС‚.</plain>
         </string>
         <string>
-            <plain>Не пугайся тьмы земной.</plain>
+            <plain>РќРµ РїСѓРіР°Р№СЃСЏ С‚СЊРјС‹ Р·РµРјРЅРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, мой Спаситель,</plain>
+            <plain>РРёСЃСѓСЃ, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Радость мне дает.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РјРЅРµ РґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Восполняет нужды,</plain>
+            <plain>Р’РѕСЃРїРѕР»РЅСЏРµС‚ РЅСѓР¶РґС‹,</plain>
         </string>
         <string>
-            <plain>В Нем душа всегда поет.</plain>
+            <plain>Р’ РќРµРј РґСѓС€Р° РІСЃРµРіРґР° РїРѕРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Жизнь мою терзал грех и порок,</plain>
+            <plain>Р–РёР·РЅСЊ РјРѕСЋ С‚РµСЂР·Р°Р» РіСЂРµС… Рё РїРѕСЂРѕРє,</plain>
         </string>
         <string>
-            <plain>Весь разбитый я страдал.</plain>
+            <plain>Р’РµСЃСЊ СЂР°Р·Р±РёС‚С‹Р№ СЏ СЃС‚СЂР°РґР°Р».</plain>
         </string>
         <string>
-            <plain>Но Господь меня к Себе привлек.</plain>
+            <plain>РќРѕ Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ Рє РЎРµР±Рµ РїСЂРёРІР»РµРє.</plain>
         </string>
         <string>
-            <plain>Песню новую мне дал.</plain>
+            <plain>РџРµСЃРЅСЋ РЅРѕРІСѓСЋ РјРЅРµ РґР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я питаюсь от Его стола,</plain>
+            <plain>РЇ РїРёС‚Р°СЋСЃСЊ РѕС‚ Р•РіРѕ СЃС‚РѕР»Р°,</plain>
         </string>
         <string>
-            <plain>Сплю я под Его крылом.</plain>
+            <plain>РЎРїР»СЋ СЏ РїРѕРґ Р•РіРѕ РєСЂС‹Р»РѕРј.</plain>
         </string>
         <string>
-            <plain>Лик Его не закрывает мгла,</plain>
+            <plain>Р›РёРє Р•РіРѕ РЅРµ Р·Р°РєСЂС‹РІР°РµС‚ РјРіР»Р°,</plain>
         </string>
         <string>
-            <plain>Я всегда пою о Нем.</plain>
+            <plain>РЇ РІСЃРµРіРґР° РїРѕСЋ Рѕ РќРµРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хоть порой чрез воды Он ведет,</plain>
+            <plain>РҐРѕС‚СЊ РїРѕСЂРѕР№ С‡СЂРµР· РІРѕРґС‹ РћРЅ РІРµРґРµС‚,</plain>
         </string>
         <string>
-            <plain>И страшат меня труды.</plain>
+            <plain>Р СЃС‚СЂР°С€Р°С‚ РјРµРЅСЏ С‚СЂСѓРґС‹.</plain>
         </string>
         <string>
-            <plain>Хоть встречаю длинный ряд невзгод,</plain>
+            <plain>РҐРѕС‚СЊ РІСЃС‚СЂРµС‡Р°СЋ РґР»РёРЅРЅС‹Р№ СЂСЏРґ РЅРµРІР·РіРѕРґ,</plain>
         </string>
         <string>
-            <plain>Но везде Его следы.</plain>
+            <plain>РќРѕ РІРµР·РґРµ Р•РіРѕ СЃР»РµРґС‹.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Скоро Он придет опять с небес</plain>
+            <plain>РЎРєРѕСЂРѕ РћРЅ РїСЂРёРґРµС‚ РѕРїСЏС‚СЊ СЃ РЅРµР±РµСЃ</plain>
         </string>
         <string>
-            <plain>И возьмет меня к Себе.</plain>
+            <plain>Р РІРѕР·СЊРјРµС‚ РјРµРЅСЏ Рє РЎРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>С Ним войду я в светлый мир чудес,</plain>
+            <plain>РЎ РќРёРј РІРѕР№РґСѓ СЏ РІ СЃРІРµС‚Р»С‹Р№ РјРёСЂ С‡СѓРґРµСЃ,</plain>
         </string>
         <string>
-            <plain>Царствовать на высоте.</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРѕРІР°С‚СЊ РЅР° РІС‹СЃРѕС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

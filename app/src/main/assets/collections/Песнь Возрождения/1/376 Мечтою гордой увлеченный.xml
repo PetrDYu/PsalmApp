@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="376" name="Мечтою гордой увлеченный" canon="false" text="" textRus="" music="">
+<psalm number="376" name="РњРµС‡С‚РѕСЋ РіРѕСЂРґРѕР№ СѓРІР»РµС‡РµРЅРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мечтою гордой увлеченный,</plain>
+            <plain>РњРµС‡С‚РѕСЋ РіРѕСЂРґРѕР№ СѓРІР»РµС‡РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Хотел умом я все объять;</plain>
+            <plain>РҐРѕС‚РµР» СѓРјРѕРј СЏ РІСЃРµ РѕР±СЉСЏС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Блуждал я долго ослепленный,</plain>
+            <plain>Р‘Р»СѓР¶РґР°Р» СЏ РґРѕР»РіРѕ РѕСЃР»РµРїР»РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>И стал я в муке прозревать.</plain>
+            <plain>Р СЃС‚Р°Р» СЏ РІ РјСѓРєРµ РїСЂРѕР·СЂРµРІР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Как блудный сын, к Отцу спешу,</plain>
+            <plain>РљР°Рє Р±Р»СѓРґРЅС‹Р№ СЃС‹РЅ, Рє РћС‚С†Сѓ СЃРїРµС€Сѓ,</plain>
         </string>
         <string>
-            <plain>"Помилуй грешного!" - прошу.</plain>
+            <plain>"РџРѕРјРёР»СѓР№ РіСЂРµС€РЅРѕРіРѕ!" - РїСЂРѕС€Сѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В наряд величия одетый,</plain>
+            <plain>Р’ РЅР°СЂСЏРґ РІРµР»РёС‡РёСЏ РѕРґРµС‚С‹Р№,</plain>
         </string>
         <string>
-            <plain>Довольный доблестью своей,</plain>
+            <plain>Р”РѕРІРѕР»СЊРЅС‹Р№ РґРѕР±Р»РµСЃС‚СЊСЋ СЃРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Я забывал Отца заветы</plain>
+            <plain>РЇ Р·Р°Р±С‹РІР°Р» РћС‚С†Р° Р·Р°РІРµС‚С‹</plain>
         </string>
         <string>
-            <plain>И смысл Его заповедей.</plain>
+            <plain>Р СЃРјС‹СЃР» Р•РіРѕ Р·Р°РїРѕРІРµРґРµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как сын заблудший и ленивый,</plain>
+            <plain>РљР°Рє СЃС‹РЅ Р·Р°Р±Р»СѓРґС€РёР№ Рё Р»РµРЅРёРІС‹Р№,</plain>
         </string>
         <string>
-            <plain>Утратив пору лучших дней,</plain>
+            <plain>РЈС‚СЂР°С‚РёРІ РїРѕСЂСѓ Р»СѓС‡С€РёС… РґРЅРµР№,</plain>
         </string>
         <string>
-            <plain>Я угашал к добру порывы</plain>
+            <plain>РЇ СѓРіР°С€Р°Р» Рє РґРѕР±СЂСѓ РїРѕСЂС‹РІС‹</plain>
         </string>
         <string>
-            <plain>Во мраке пагубных страстей.</plain>
+            <plain>Р’Рѕ РјСЂР°РєРµ РїР°РіСѓР±РЅС‹С… СЃС‚СЂР°СЃС‚РµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я расточал богатства Божьи,</plain>
+            <plain>РЇ СЂР°СЃС‚РѕС‡Р°Р» Р±РѕРіР°С‚СЃС‚РІР° Р‘РѕР¶СЊРё,</plain>
         </string>
         <string>
-            <plain>Не отдав ничего Ему;</plain>
+            <plain>РќРµ РѕС‚РґР°РІ РЅРёС‡РµРіРѕ Р•РјСѓ;</plain>
         </string>
         <string>
-            <plain>Зарыл талант на бездорожье,</plain>
+            <plain>Р—Р°СЂС‹Р» С‚Р°Р»Р°РЅС‚ РЅР° Р±РµР·РґРѕСЂРѕР¶СЊРµ,</plain>
         </string>
         <string>
-            <plain>А на путях я сеял тьму.</plain>
+            <plain>Рђ РЅР° РїСѓС‚СЏС… СЏ СЃРµСЏР» С‚СЊРјСѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Отец мой видел расточенье;</plain>
+            <plain>РћС‚РµС† РјРѕР№ РІРёРґРµР» СЂР°СЃС‚РѕС‡РµРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Чтоб я, заблудший сын, ожил,</plain>
+            <plain>Р§С‚РѕР± СЏ, Р·Р°Р±Р»СѓРґС€РёР№ СЃС‹РЅ, РѕР¶РёР»,</plain>
         </string>
         <string>
-            <plain>Он Сына Правды на мученье,</plain>
+            <plain>РћРЅ РЎС‹РЅР° РџСЂР°РІРґС‹ РЅР° РјСѓС‡РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>На подвиг крестный осудил.</plain>
+            <plain>РќР° РїРѕРґРІРёРі РєСЂРµСЃС‚РЅС‹Р№ РѕСЃСѓРґРёР».</plain>
         </string>
     </verse>
 </psalm>

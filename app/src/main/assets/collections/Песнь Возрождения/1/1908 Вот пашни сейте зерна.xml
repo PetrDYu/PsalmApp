@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1908" name="Вот пашни сейте зерна" canon="false" text="" textRus="" music="">
+<psalm number="1908" name="Р’РѕС‚ РїР°С€РЅРё СЃРµР№С‚Рµ Р·РµСЂРЅР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот пашни: сейте зерна</plain>
+            <plain>Р’РѕС‚ РїР°С€РЅРё: СЃРµР№С‚Рµ Р·РµСЂРЅР°</plain>
         </string>
         <string>
-            <plain>В сторонке от дорог,</plain>
+            <plain>Р’ СЃС‚РѕСЂРѕРЅРєРµ РѕС‚ РґРѕСЂРѕРі,</plain>
         </string>
         <string>
-            <plain>И влагой животворной</plain>
+            <plain>Р РІР»Р°РіРѕР№ Р¶РёРІРѕС‚РІРѕСЂРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Польет их вечный Бог;</plain>
+            <plain>РџРѕР»СЊРµС‚ РёС… РІРµС‡РЅС‹Р№ Р‘РѕРі;</plain>
         </string>
         <string>
-            <plain>Пошлет Он снег зимою,</plain>
+            <plain>РџРѕС€Р»РµС‚ РћРЅ СЃРЅРµРі Р·РёРјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Жару живых лучей</plain>
+            <plain>Р–Р°СЂСѓ Р¶РёРІС‹С… Р»СѓС‡РµР№</plain>
         </string>
         <string>
-            <plain>Грядущею весною,</plain>
+            <plain>Р“СЂСЏРґСѓС‰РµСЋ РІРµСЃРЅРѕСЋ,</plain>
         </string>
         <string>
-            <plain>И дар дождливых дней.</plain>
+            <plain>Р РґР°СЂ РґРѕР¶РґР»РёРІС‹С… РґРЅРµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Нам даны все блага</plain>
+            <plain>РќР°Рј РґР°РЅС‹ РІСЃРµ Р±Р»Р°РіР°</plain>
         </string>
         <string>
-            <plain>С равнин родной страны;</plain>
+            <plain>РЎ СЂР°РІРЅРёРЅ СЂРѕРґРЅРѕР№ СЃС‚СЂР°РЅС‹;</plain>
         </string>
         <string>
-            <plain>Хвала Христу, хвала</plain>
+            <plain>РҐРІР°Р»Р° РҐСЂРёСЃС‚Сѓ, С…РІР°Р»Р°</plain>
         </string>
         <string>
-            <plain>Христу За всю любовь!</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ Р—Р° РІСЃСЋ Р»СЋР±РѕРІСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ведь Он Один Создатель</plain>
+            <plain>Р’РµРґСЊ РћРЅ РћРґРёРЅ РЎРѕР·РґР°С‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Живущего всего;</plain>
+            <plain>Р–РёРІСѓС‰РµРіРѕ РІСЃРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>Планет Он основатель,</plain>
+            <plain>РџР»Р°РЅРµС‚ РћРЅ РѕСЃРЅРѕРІР°С‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Поля, цветы - Его;</plain>
+            <plain>РџРѕР»СЏ, С†РІРµС‚С‹ - Р•РіРѕ;</plain>
         </string>
         <string>
-            <plain>Ему моря послушны,</plain>
+            <plain>Р•РјСѓ РјРѕСЂСЏ РїРѕСЃР»СѓС€РЅС‹,</plain>
         </string>
         <string>
-            <plain>Питает пташек Он,</plain>
+            <plain>РџРёС‚Р°РµС‚ РїС‚Р°С€РµРє РћРЅ,</plain>
         </string>
         <string>
-            <plain>Не будем равнодушны.</plain>
+            <plain>РќРµ Р±СѓРґРµРј СЂР°РІРЅРѕРґСѓС€РЅС‹.</plain>
         </string>
         <string>
-            <plain>Почтим Его закон.</plain>
+            <plain>РџРѕС‡С‚РёРј Р•РіРѕ Р·Р°РєРѕРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Христу споем напевы</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ СЃРїРѕРµРј РЅР°РїРµРІС‹</plain>
         </string>
         <string>
-            <plain>За воздух и за свет.</plain>
+            <plain>Р—Р° РІРѕР·РґСѓС… Рё Р·Р° СЃРІРµС‚.</plain>
         </string>
         <string>
-            <plain>За жатву, за посевы.</plain>
+            <plain>Р—Р° Р¶Р°С‚РІСѓ, Р·Р° РїРѕСЃРµРІС‹.</plain>
         </string>
         <string>
-            <plain>За опыт прошлых лет.</plain>
+            <plain>Р—Р° РѕРїС‹С‚ РїСЂРѕС€Р»С‹С… Р»РµС‚.</plain>
         </string>
         <string>
-            <plain>Прими же приношенья,</plain>
+            <plain>РџСЂРёРјРё Р¶Рµ РїСЂРёРЅРѕС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Господь, за клад даров;</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, Р·Р° РєР»Р°Рґ РґР°СЂРѕРІ;</plain>
         </string>
         <string>
-            <plain>Прими в Твое владенье</plain>
+            <plain>РџСЂРёРјРё РІ РўРІРѕРµ РІР»Р°РґРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Сердца Твоих рабов.</plain>
+            <plain>РЎРµСЂРґС†Р° РўРІРѕРёС… СЂР°Р±РѕРІ.</plain>
         </string>
     </verse>
 </psalm>

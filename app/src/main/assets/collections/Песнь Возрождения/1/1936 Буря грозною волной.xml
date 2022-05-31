@@ -1,99 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1936" name="Буря грозною волной" canon="false" text="" textRus="" music="">
+<psalm number="1936" name="Р‘СѓСЂСЏ РіСЂРѕР·РЅРѕСЋ РІРѕР»РЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Буря грозною волной</plain>
+            <plain>Р‘СѓСЂСЏ РіСЂРѕР·РЅРѕСЋ РІРѕР»РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Воет и бушует.</plain>
+            <plain>Р’РѕРµС‚ Рё Р±СѓС€СѓРµС‚.</plain>
         </string>
         <string>
-            <plain>Смерть над бедною землей</plain>
+            <plain>РЎРјРµСЂС‚СЊ РЅР°Рґ Р±РµРґРЅРѕСЋ Р·РµРјР»РµР№</plain>
         </string>
         <string>
-            <plain>На костях пирует.</plain>
+            <plain>РќР° РєРѕСЃС‚СЏС… РїРёСЂСѓРµС‚.</plain>
         </string>
         <string>
-            <plain>Где найду спасенья щит?</plain>
+            <plain>Р“РґРµ РЅР°Р№РґСѓ СЃРїР°СЃРµРЅСЊСЏ С‰РёС‚?</plain>
         </string>
         <string>
-            <plain>Кто от смерти охранит?</plain>
+            <plain>РљС‚Рѕ РѕС‚ СЃРјРµСЂС‚Рё РѕС…СЂР°РЅРёС‚?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он нас спасет,</plain>
+            <plain>РћРЅ РЅР°СЃ СЃРїР°СЃРµС‚,</plain>
         </string>
         <string>
-            <plain>Спасет один Господь.</plain>
+            <plain>РЎРїР°СЃРµС‚ РѕРґРёРЅ Р“РѕСЃРїРѕРґСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Буря все грозней, грозней,</plain>
+            <plain>Р‘СѓСЂСЏ РІСЃРµ РіСЂРѕР·РЅРµР№, РіСЂРѕР·РЅРµР№,</plain>
         </string>
         <string>
-            <plain>Волны заливают.</plain>
+            <plain>Р’РѕР»РЅС‹ Р·Р°Р»РёРІР°СЋС‚.</plain>
         </string>
         <string>
-            <plain>Божьи руки от скорбей</plain>
+            <plain>Р‘РѕР¶СЊРё СЂСѓРєРё РѕС‚ СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>В мире нас спасают.</plain>
+            <plain>Р’ РјРёСЂРµ РЅР°СЃ СЃРїР°СЃР°СЋС‚.</plain>
         </string>
         <string>
-            <plain>Он Помощник нам везде:</plain>
+            <plain>РћРЅ РџРѕРјРѕС‰РЅРёРє РЅР°Рј РІРµР·РґРµ:</plain>
         </string>
         <string>
-            <plain>На земле и на воде.</plain>
+            <plain>РќР° Р·РµРјР»Рµ Рё РЅР° РІРѕРґРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Буря топит уж ладью,</plain>
+            <plain>Р‘СѓСЂСЏ С‚РѕРїРёС‚ СѓР¶ Р»Р°РґСЊСЋ,</plain>
         </string>
         <string>
-            <plain>Виден мрак могилы;</plain>
+            <plain>Р’РёРґРµРЅ РјСЂР°Рє РјРѕРіРёР»С‹;</plain>
         </string>
         <string>
-            <plain>Возьми за руку мою,</plain>
+            <plain>Р’РѕР·СЊРјРё Р·Р° СЂСѓРєСѓ РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Дай мне новой силы.</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РЅРѕРІРѕР№ СЃРёР»С‹.</plain>
         </string>
         <string>
-            <plain>Дай, чтоб стал я на скалу</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± СЃС‚Р°Р» СЏ РЅР° СЃРєР°Р»Сѓ</plain>
         </string>
         <string>
-            <plain>И воспел Тебе хвалу.</plain>
+            <plain>Р РІРѕСЃРїРµР» РўРµР±Рµ С…РІР°Р»Сѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Буря стихнет навсегда,</plain>
+            <plain>Р‘СѓСЂСЏ СЃС‚РёС…РЅРµС‚ РЅР°РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>Смолкнут воды жизни.</plain>
+            <plain>РЎРјРѕР»РєРЅСѓС‚ РІРѕРґС‹ Р¶РёР·РЅРё.</plain>
         </string>
         <string>
-            <plain>И мы будем плыть туда,</plain>
+            <plain>Р РјС‹ Р±СѓРґРµРј РїР»С‹С‚СЊ С‚СѓРґР°,</plain>
         </string>
         <string>
-            <plain>Где покой отчизны.</plain>
+            <plain>Р“РґРµ РїРѕРєРѕР№ РѕС‚С‡РёР·РЅС‹.</plain>
         </string>
         <string>
-            <plain>Там мы вечно воспоем</plain>
+            <plain>РўР°Рј РјС‹ РІРµС‡РЅРѕ РІРѕСЃРїРѕРµРј</plain>
         </string>
         <string>
-            <plain>Пред Спасителем Христом.</plain>
+            <plain>РџСЂРµРґ РЎРїР°СЃРёС‚РµР»РµРј РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>Христос нас спас;</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РЅР°СЃ СЃРїР°СЃ;</plain>
         </string>
         <string>
-            <plain>Ему хвала вовек!</plain>
+            <plain>Р•РјСѓ С…РІР°Р»Р° РІРѕРІРµРє!</plain>
         </string>
     </chorus>
 </psalm>

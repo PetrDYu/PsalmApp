@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="946" name="Мы у Бога о многом просим" canon="false" text="" textRus="" music="">
+<psalm number="946" name="РњС‹ Сѓ Р‘РѕРіР° Рѕ РјРЅРѕРіРѕРј РїСЂРѕСЃРёРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы у Бога о многом просим,</plain>
+            <plain>РњС‹ Сѓ Р‘РѕРіР° Рѕ РјРЅРѕРіРѕРј РїСЂРѕСЃРёРј,</plain>
         </string>
         <string>
-            <plain>А просить об одном лишь надо -</plain>
+            <plain>Рђ РїСЂРѕСЃРёС‚СЊ РѕР± РѕРґРЅРѕРј Р»РёС€СЊ РЅР°РґРѕ -</plain>
         </string>
         <string>
-            <plain>О любви, что все переносит,</plain>
+            <plain>Рћ Р»СЋР±РІРё, С‡С‚Рѕ РІСЃРµ РїРµСЂРµРЅРѕСЃРёС‚,</plain>
         </string>
         <string>
-            <plain>Что чужому счастью рада.</plain>
+            <plain>Р§С‚Рѕ С‡СѓР¶РѕРјСѓ СЃС‡Р°СЃС‚СЊСЋ СЂР°РґР°.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Когда любишь - легко прощаешь,</plain>
+            <plain>РљРѕРіРґР° Р»СЋР±РёС€СЊ - Р»РµРіРєРѕ РїСЂРѕС‰Р°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Когда любишь - не мыслишь злого,</plain>
+            <plain>РљРѕРіРґР° Р»СЋР±РёС€СЊ - РЅРµ РјС‹СЃР»РёС€СЊ Р·Р»РѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>На обиды не отвечаешь</plain>
+            <plain>РќР° РѕР±РёРґС‹ РЅРµ РѕС‚РІРµС‡Р°РµС€СЊ</plain>
         </string>
         <string>
-            <plain>Злобным взглядом и едким словом.</plain>
+            <plain>Р—Р»РѕР±РЅС‹Рј РІР·РіР»СЏРґРѕРј Рё РµРґРєРёРј СЃР»РѕРІРѕРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В милосердьи границ не знаешь,</plain>
+            <plain>Р’ РјРёР»РѕСЃРµСЂРґСЊРё РіСЂР°РЅРёС† РЅРµ Р·РЅР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Сердце к жертве всегда готово,</plain>
+            <plain>РЎРµСЂРґС†Рµ Рє Р¶РµСЂС‚РІРµ РІСЃРµРіРґР° РіРѕС‚РѕРІРѕ,</plain>
         </string>
         <string>
-            <plain>Недостатков не замечаешь,</plain>
+            <plain>РќРµРґРѕСЃС‚Р°С‚РєРѕРІ РЅРµ Р·Р°РјРµС‡Р°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Не сквернишь себя клеветою.</plain>
+            <plain>РќРµ СЃРєРІРµСЂРЅРёС€СЊ СЃРµР±СЏ РєР»РµРІРµС‚РѕСЋ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если любишь - совсем не важно,</plain>
+            <plain>Р•СЃР»Рё Р»СЋР±РёС€СЊ - СЃРѕРІСЃРµРј РЅРµ РІР°Р¶РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Что не все тебя понимают.</plain>
+            <plain>Р§С‚Рѕ РЅРµ РІСЃРµ С‚РµР±СЏ РїРѕРЅРёРјР°СЋС‚.</plain>
         </string>
         <string>
-            <plain>Та любовь, что зажглась однажды,</plain>
+            <plain>РўР° Р»СЋР±РѕРІСЊ, С‡С‚Рѕ Р·Р°Р¶РіР»Р°СЃСЊ РѕРґРЅР°Р¶РґС‹,</plain>
         </string>
         <string>
-            <plain>Негасимым светом сияет.</plain>
+            <plain>РќРµРіР°СЃРёРјС‹Рј СЃРІРµС‚РѕРј СЃРёСЏРµС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И огонь ее ярко светит,</plain>
+            <plain>Р РѕРіРѕРЅСЊ РµРµ СЏСЂРєРѕ СЃРІРµС‚РёС‚,</plain>
         </string>
         <string>
-            <plain>И о нем говорить не нужно.</plain>
+            <plain>Р Рѕ РЅРµРј РіРѕРІРѕСЂРёС‚СЊ РЅРµ РЅСѓР¶РЅРѕ.</plain>
         </string>
         <string>
-            <plain>Его всякий и так заметит.</plain>
+            <plain>Р•РіРѕ РІСЃСЏРєРёР№ Рё С‚Р°Рє Р·Р°РјРµС‚РёС‚.</plain>
         </string>
         <string>
-            <plain>Там, где он, - там любовь и дружба.</plain>
+            <plain>РўР°Рј, РіРґРµ РѕРЅ, - С‚Р°Рј Р»СЋР±РѕРІСЊ Рё РґСЂСѓР¶Р±Р°.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Если ты ее проявлений</plain>
+            <plain>Р•СЃР»Рё С‚С‹ РµРµ РїСЂРѕСЏРІР»РµРЅРёР№</plain>
         </string>
         <string>
-            <plain>В своей жизни не замечаешь,</plain>
+            <plain>Р’ СЃРІРѕРµР№ Р¶РёР·РЅРё РЅРµ Р·Р°РјРµС‡Р°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Значит, ты любви не имеешь,</plain>
+            <plain>Р—РЅР°С‡РёС‚, С‚С‹ Р»СЋР±РІРё РЅРµ РёРјРµРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Но о ней понаслышке знаешь.</plain>
+            <plain>РќРѕ Рѕ РЅРµР№ РїРѕРЅР°СЃР»С‹С€РєРµ Р·РЅР°РµС€СЊ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>И напрасно просить о многом.</plain>
+            <plain>Р РЅР°РїСЂР°СЃРЅРѕ РїСЂРѕСЃРёС‚СЊ Рѕ РјРЅРѕРіРѕРј.</plain>
         </string>
         <string>
-            <plain>Мне, по сути, одно лишь нужно -</plain>
+            <plain>РњРЅРµ, РїРѕ СЃСѓС‚Рё, РѕРґРЅРѕ Р»РёС€СЊ РЅСѓР¶РЅРѕ -</plain>
         </string>
         <string>
-            <plain>Я любви лишь прошу у Бога,</plain>
+            <plain>РЇ Р»СЋР±РІРё Р»РёС€СЊ РїСЂРѕС€Сѓ Сѓ Р‘РѕРіР°,</plain>
         </string>
         <string>
-            <plain>О других не заботясь нуждах.</plain>
+            <plain>Рћ РґСЂСѓРіРёС… РЅРµ Р·Р°Р±РѕС‚СЏСЃСЊ РЅСѓР¶РґР°С….</plain>
         </string>
     </verse>
 </psalm>

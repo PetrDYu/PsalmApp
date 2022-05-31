@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1103" name="Аллилуйя Аллилуйя Он Господь Он Господь" canon="false" text="" textRus="" music="">
+<psalm number="1103" name="РђР»Р»РёР»СѓР№СЏ РђР»Р»РёР»СѓР№СЏ РћРЅ Р“РѕСЃРїРѕРґСЊ РћРЅ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Он - Господь, Он - Господь!</plain>
+            <plain>РћРЅ - Р“РѕСЃРїРѕРґСЊ, РћРЅ - Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Иисус - Господь!</plain>
+            <plain>РРёСЃСѓСЃ - Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Он есть Царь, Он есть Царь!</plain>
+            <plain>РћРЅ РµСЃС‚СЊ Р¦Р°СЂСЊ, РћРЅ РµСЃС‚СЊ Р¦Р°СЂСЊ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Иисус есть Царь!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РРёСЃСѓСЃ РµСЃС‚СЊ Р¦Р°СЂСЊ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Иисус есть наш Царь!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РРёСЃСѓСЃ РµСЃС‚СЊ РЅР°С€ Р¦Р°СЂСЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, славь, славь Творца,</plain>
+            <plain>Рћ, СЃР»Р°РІСЊ, СЃР»Р°РІСЊ РўРІРѕСЂС†Р°,</plain>
         </string>
         <string>
-            <plain>Всякая душа!</plain>
+            <plain>Р’СЃСЏРєР°СЏ РґСѓС€Р°!</plain>
         </string>
         <string>
-            <plain>Возденьте руки в благоговеньи</plain>
+            <plain>Р’РѕР·РґРµРЅСЊС‚Рµ СЂСѓРєРё РІ Р±Р»Р°РіРѕРіРѕРІРµРЅСЊРё</plain>
         </string>
         <string>
-            <plain>И все славьте Творца.</plain>
+            <plain>Р РІСЃРµ СЃР»Р°РІСЊС‚Рµ РўРІРѕСЂС†Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, славь, славь Творца,</plain>
+            <plain>Рћ, СЃР»Р°РІСЊ, СЃР»Р°РІСЊ РўРІРѕСЂС†Р°,</plain>
         </string>
         <string>
-            <plain>Всякая душа!</plain>
+            <plain>Р’СЃСЏРєР°СЏ РґСѓС€Р°!</plain>
         </string>
         <string>
-            <plain>Падите ниц в благоговеньи</plain>
+            <plain>РџР°РґРёС‚Рµ РЅРёС† РІ Р±Р»Р°РіРѕРіРѕРІРµРЅСЊРё</plain>
         </string>
         <string>
-            <plain>И все славьте Творца!</plain>
+            <plain>Р РІСЃРµ СЃР»Р°РІСЊС‚Рµ РўРІРѕСЂС†Р°!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Аллилуйя! Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>О, славь Творца, Всякая душа.</plain>
+            <plain>Рћ, СЃР»Р°РІСЊ РўРІРѕСЂС†Р°, Р’СЃСЏРєР°СЏ РґСѓС€Р°.</plain>
         </string>
         <string>
-            <plain>Возвысьте голос в благоговеньи</plain>
+            <plain>Р’РѕР·РІС‹СЃСЊС‚Рµ РіРѕР»РѕСЃ РІ Р±Р»Р°РіРѕРіРѕРІРµРЅСЊРё</plain>
         </string>
         <string>
-            <plain>И все славьте Творца!</plain>
+            <plain>Р РІСЃРµ СЃР»Р°РІСЊС‚Рµ РўРІРѕСЂС†Р°!</plain>
         </string>
     </verse>
 </psalm>

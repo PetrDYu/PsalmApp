@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="294" name="Чудный Спаситель зовет нас домой" canon="false" text="" textRus="" music="">
+<psalm number="294" name="Р§СѓРґРЅС‹Р№ РЎРїР°СЃРёС‚РµР»СЊ Р·РѕРІРµС‚ РЅР°СЃ РґРѕРјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Чудный Спаситель зовет нас домой,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РЎРїР°СЃРёС‚РµР»СЊ Р·РѕРІРµС‚ РЅР°СЃ РґРѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>Ныне зовет, ныне зовет.</plain>
+            <plain>РќС‹РЅРµ Р·РѕРІРµС‚, РЅС‹РЅРµ Р·РѕРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Что же тебя от любви неземной</plain>
+            <plain>Р§С‚Рѕ Р¶Рµ С‚РµР±СЏ РѕС‚ Р»СЋР±РІРё РЅРµР·РµРјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Дальше и дальше влечет?</plain>
+            <plain>Р”Р°Р»СЊС€Рµ Рё РґР°Р»СЊС€Рµ РІР»РµС‡РµС‚?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ныне зовет!</plain>
+            <plain>РќС‹РЅРµ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Ныне зовет!</plain>
+            <plain>РќС‹РЅРµ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Чудный Спаситель</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Всех грешников ныне зовет.</plain>
+            <plain>Р’СЃРµС… РіСЂРµС€РЅРёРєРѕРІ РЅС‹РЅРµ Р·РѕРІРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Чудный Спаситель дает нам покой,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РЎРїР°СЃРёС‚РµР»СЊ РґР°РµС‚ РЅР°Рј РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Ныне дает, ныне дает.</plain>
+            <plain>РќС‹РЅРµ РґР°РµС‚, РЅС‹РЅРµ РґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Сердце свое пред Иисусом открой,</plain>
+            <plain>РЎРµСЂРґС†Рµ СЃРІРѕРµ РїСЂРµРґ РРёСЃСѓСЃРѕРј РѕС‚РєСЂРѕР№,</plain>
         </string>
         <string>
-            <plain>Снимет Он бремя забот.</plain>
+            <plain>РЎРЅРёРјРµС‚ РћРЅ Р±СЂРµРјСЏ Р·Р°Р±РѕС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чудный Спаситель к Себе ждет людей,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РЎРїР°СЃРёС‚РµР»СЊ Рє РЎРµР±Рµ Р¶РґРµС‚ Р»СЋРґРµР№,</plain>
         </string>
         <string>
-            <plain>Ныне Он ждет, ныне Он ждет.</plain>
+            <plain>РќС‹РЅРµ РћРЅ Р¶РґРµС‚, РЅС‹РЅРµ РћРЅ Р¶РґРµС‚.</plain>
         </string>
         <string>
-            <plain>Грех свой Ему исповедай скорей,</plain>
+            <plain>Р“СЂРµС… СЃРІРѕР№ Р•РјСѓ РёСЃРїРѕРІРµРґР°Р№ СЃРєРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>В сердце отрада войдет.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РѕС‚СЂР°РґР° РІРѕР№РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Молится чудный Спаситель за нас</plain>
+            <plain>РњРѕР»РёС‚СЃСЏ С‡СѓРґРЅС‹Р№ РЎРїР°СЃРёС‚РµР»СЊ Р·Р° РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Ныне в тиши, ныне в тиши.</plain>
+            <plain>РќС‹РЅРµ РІ С‚РёС€Рё, РЅС‹РЅРµ РІ С‚РёС€Рё.</plain>
         </string>
         <string>
-            <plain>Радость дает Он тому, кого спас.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РґР°РµС‚ РћРЅ С‚РѕРјСѓ, РєРѕРіРѕ СЃРїР°СЃ.</plain>
         </string>
         <string>
-            <plain>Встань и к Нему поспеши!</plain>
+            <plain>Р’СЃС‚Р°РЅСЊ Рё Рє РќРµРјСѓ РїРѕСЃРїРµС€Рё!</plain>
         </string>
     </verse>
 </psalm>

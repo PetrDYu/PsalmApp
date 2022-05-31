@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2932" name="Я узкою тропой иду" canon="false" text="" textRus="" music="">
+<psalm number="2932" name="РЇ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№ РёРґСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я узкою тропой иду,</plain>
+            <plain>РЇ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№ РёРґСѓ,</plain>
         </string>
         <string>
-            <plain>проложенной Христом;</plain>
+            <plain>РїСЂРѕР»РѕР¶РµРЅРЅРѕР№ РҐСЂРёСЃС‚РѕРј;</plain>
         </string>
         <string>
-            <plain>тропой, которая ведёт</plain>
+            <plain>С‚СЂРѕРїРѕР№, РєРѕС‚РѕСЂР°СЏ РІРµРґС‘С‚</plain>
         </string>
         <string>
-            <plain>в небесный, вечный дом.</plain>
+            <plain>РІ РЅРµР±РµСЃРЅС‹Р№, РІРµС‡РЅС‹Р№ РґРѕРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иду, Иду,</plain>
+            <plain>РРґСѓ, РРґСѓ,</plain>
         </string>
         <string>
-            <plain>я узкою тропой.</plain>
+            <plain>СЏ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№.</plain>
         </string>
         <string>
-            <plain>Иду, иду</plain>
+            <plain>РРґСѓ, РёРґСѓ</plain>
         </string>
         <string>
-            <plain>я узкою тропой.</plain>
+            <plain>СЏ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я узкою тропой иду,</plain>
+            <plain>РЇ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№ РёРґСѓ,</plain>
         </string>
         <string>
-            <plain>хоть отойдут друзья.</plain>
+            <plain>С…РѕС‚СЊ РѕС‚РѕР№РґСѓС‚ РґСЂСѓР·СЊСЏ.</plain>
         </string>
         <string>
-            <plain>Неопытных сам Бог ведёт</plain>
+            <plain>РќРµРѕРїС‹С‚РЅС‹С… СЃР°Рј Р‘РѕРі РІРµРґС‘С‚</plain>
         </string>
         <string>
-            <plain>- читаю в Слове я.</plain>
+            <plain>- С‡РёС‚Р°СЋ РІ РЎР»РѕРІРµ СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я узкою тропой иду.</plain>
+            <plain>РЇ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№ РёРґСѓ.</plain>
         </string>
         <string>
-            <plain>И пусть я одинок,</plain>
+            <plain>Р РїСѓСЃС‚СЊ СЏ РѕРґРёРЅРѕРє,</plain>
         </string>
         <string>
-            <plain>иду я всё же не один</plain>
+            <plain>РёРґСѓ СЏ РІСЃС‘ Р¶Рµ РЅРµ РѕРґРёРЅ</plain>
         </string>
         <string>
-            <plain>- со мной идёт мой Бог.</plain>
+            <plain>- СЃРѕ РјРЅРѕР№ РёРґС‘С‚ РјРѕР№ Р‘РѕРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я узкою тропой иду</plain>
+            <plain>РЇ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№ РёРґСѓ</plain>
         </string>
         <string>
-            <plain>чрез горе, скорбь, нужду;</plain>
+            <plain>С‡СЂРµР· РіРѕСЂРµ, СЃРєРѕСЂР±СЊ, РЅСѓР¶РґСѓ;</plain>
         </string>
         <string>
-            <plain>послушным буду до конца</plain>
+            <plain>РїРѕСЃР»СѓС€РЅС‹Рј Р±СѓРґСѓ РґРѕ РєРѕРЅС†Р°</plain>
         </string>
         <string>
-            <plain>Иисусу моему.</plain>
+            <plain>РРёСЃСѓСЃСѓ РјРѕРµРјСѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я узкою тропой иду,</plain>
+            <plain>РЇ СѓР·РєРѕСЋ С‚СЂРѕРїРѕР№ РёРґСѓ,</plain>
         </string>
         <string>
-            <plain>унижен и гоним,</plain>
+            <plain>СѓРЅРёР¶РµРЅ Рё РіРѕРЅРёРј,</plain>
         </string>
         <string>
-            <plain>пока Господь к Себе возьмёт,</plain>
+            <plain>РїРѕРєР° Р“РѕСЃРїРѕРґСЊ Рє РЎРµР±Рµ РІРѕР·СЊРјС‘С‚,</plain>
         </string>
         <string>
-            <plain>где буду вечно с Ним.</plain>
+            <plain>РіРґРµ Р±СѓРґСѓ РІРµС‡РЅРѕ СЃ РќРёРј.</plain>
         </string>
     </verse>
 </psalm>

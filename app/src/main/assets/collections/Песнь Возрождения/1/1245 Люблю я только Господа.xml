@@ -1,54 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1245" name="Люблю я только Господа" canon="false" text="" textRus="" music="">
+<psalm number="1245" name="Р›СЋР±Р»СЋ СЏ С‚РѕР»СЊРєРѕ Р“РѕСЃРїРѕРґР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Люблю я только Господа,</plain>
+            <plain>Р›СЋР±Р»СЋ СЏ С‚РѕР»СЊРєРѕ Р“РѕСЃРїРѕРґР°,</plain>
         </string>
         <string>
-            <plain>люблю я только Господа.</plain>
+            <plain>Р»СЋР±Р»СЋ СЏ С‚РѕР»СЊРєРѕ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
         <string>
-            <plain>Только Иисуса,</plain>
+            <plain>РўРѕР»СЊРєРѕ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>только Иисуса</plain>
+            <plain>С‚РѕР»СЊРєРѕ РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>всегда я буду любить.</plain>
+            <plain>РІСЃРµРіРґР° СЏ Р±СѓРґСѓ Р»СЋР±РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Надеемся на Господа,</plain>
+            <plain>РќР°РґРµРµРјСЃСЏ РЅР° Р“РѕСЃРїРѕРґР°,</plain>
         </string>
         <string>
-            <plain>Надеемся на Господа.</plain>
+            <plain>РќР°РґРµРµРјСЃСЏ РЅР° Р“РѕСЃРїРѕРґР°.</plain>
         </string>
         <string>
-            <plain>Только на Иисуса,</plain>
+            <plain>РўРѕР»СЊРєРѕ РЅР° РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>только на Иисуса</plain>
+            <plain>С‚РѕР»СЊРєРѕ РЅР° РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>- надеемся на Господа.</plain>
+            <plain>- РЅР°РґРµРµРјСЃСЏ РЅР° Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я следую за Господом,</plain>
+            <plain>РЇ СЃР»РµРґСѓСЋ Р·Р° Р“РѕСЃРїРѕРґРѕРј,</plain>
         </string>
         <string>
-            <plain>я следую за Господом.</plain>
+            <plain>СЏ СЃР»РµРґСѓСЋ Р·Р° Р“РѕСЃРїРѕРґРѕРј.</plain>
         </string>
         <string>
-            <plain>Только за Иисусом,</plain>
+            <plain>РўРѕР»СЊРєРѕ Р·Р° РРёСЃСѓСЃРѕРј,</plain>
         </string>
         <string>
-            <plain>только за Иисусом</plain>
+            <plain>С‚РѕР»СЊРєРѕ Р·Р° РРёСЃСѓСЃРѕРј</plain>
         </string>
         <string>
-            <plain>- я следую за Господом.</plain>
+            <plain>- СЏ СЃР»РµРґСѓСЋ Р·Р° Р“РѕСЃРїРѕРґРѕРј.</plain>
         </string>
     </verse>
 </psalm>

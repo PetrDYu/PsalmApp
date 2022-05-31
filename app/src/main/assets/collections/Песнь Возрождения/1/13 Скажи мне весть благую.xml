@@ -1,92 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="13" name="Скажи мне весть благую" canon="false" text="" textRus="" music="">
+<psalm number="13" name="РЎРєР°Р¶Рё РјРЅРµ РІРµСЃС‚СЊ Р±Р»Р°РіСѓСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Скажи мне весть благую,</plain>
+            <plain>РЎРєР°Р¶Рё РјРЅРµ РІРµСЃС‚СЊ Р±Р»Р°РіСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Скажи, Спаситель, вновь</plain>
+            <plain>РЎРєР°Р¶Рё, РЎРїР°СЃРёС‚РµР»СЊ, РІРЅРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>Про смерть и жизнь святую</plain>
+            <plain>РџСЂРѕ СЃРјРµСЂС‚СЊ Рё Р¶РёР·РЅСЊ СЃРІСЏС‚СѓСЋ</plain>
         </string>
         <string>
-            <plain>И про Твою любовь!</plain>
+            <plain>Р РїСЂРѕ РўРІРѕСЋ Р»СЋР±РѕРІСЊ!</plain>
         </string>
         <string>
-            <plain>Скажи мне весть спасенья</plain>
+            <plain>РЎРєР°Р¶Рё РјРЅРµ РІРµСЃС‚СЊ СЃРїР°СЃРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Так просто, как детям;</plain>
+            <plain>РўР°Рє РїСЂРѕСЃС‚Рѕ, РєР°Рє РґРµС‚СЏРј;</plain>
         </string>
         <string>
-            <plain>Устал я от хожденья по суетным путям.</plain>
+            <plain>РЈСЃС‚Р°Р» СЏ РѕС‚ С…РѕР¶РґРµРЅСЊСЏ РїРѕ СЃСѓРµС‚РЅС‹Рј РїСѓС‚СЏРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Скажи мне повесть чудную,</plain>
+            <plain>РЎРєР°Р¶Рё РјРЅРµ РїРѕРІРµСЃС‚СЊ С‡СѓРґРЅСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Скажи ее мне вновь,</plain>
+            <plain>РЎРєР°Р¶Рё РµРµ РјРЅРµ РІРЅРѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>Скажи в минуту трудную</plain>
+            <plain>РЎРєР°Р¶Рё РІ РјРёРЅСѓС‚Сѓ С‚СЂСѓРґРЅСѓСЋ</plain>
         </string>
         <string>
-            <plain>Мне про Твою любовь!</plain>
+            <plain>РњРЅРµ РїСЂРѕ РўРІРѕСЋ Р»СЋР±РѕРІСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Скажи мне весть благую,</plain>
+            <plain>РЎРєР°Р¶Рё РјРЅРµ РІРµСЃС‚СЊ Р±Р»Р°РіСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Чтоб я постиг душой</plain>
+            <plain>Р§С‚РѕР± СЏ РїРѕСЃС‚РёРі РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>Всю тайну дорогую</plain>
+            <plain>Р’СЃСЋ С‚Р°Р№РЅСѓ РґРѕСЂРѕРіСѓСЋ</plain>
         </string>
         <string>
-            <plain>И дар спасенья Твой.</plain>
+            <plain>Р РґР°СЂ СЃРїР°СЃРµРЅСЊСЏ РўРІРѕР№.</plain>
         </string>
         <string>
-            <plain>Вещай мне повесть часто,</plain>
+            <plain>Р’РµС‰Р°Р№ РјРЅРµ РїРѕРІРµСЃС‚СЊ С‡Р°СЃС‚Рѕ,</plain>
         </string>
         <string>
-            <plain>В душе мне начертай,</plain>
+            <plain>Р’ РґСѓС€Рµ РјРЅРµ РЅР°С‡РµСЂС‚Р°Р№,</plain>
         </string>
         <string>
-            <plain>Что людям в тьме несчастной</plain>
+            <plain>Р§С‚Рѕ Р»СЋРґСЏРј РІ С‚СЊРјРµ РЅРµСЃС‡Р°СЃС‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Открыл Ты вечный рай.</plain>
+            <plain>РћС‚РєСЂС‹Р» РўС‹ РІРµС‡РЅС‹Р№ СЂР°Р№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Скажи мне весть благую,</plain>
+            <plain>РЎРєР°Р¶Рё РјРЅРµ РІРµСЃС‚СЊ Р±Р»Р°РіСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Когда заметишь Ты,</plain>
+            <plain>РљРѕРіРґР° Р·Р°РјРµС‚РёС€СЊ РўС‹,</plain>
         </string>
         <string>
-            <plain>Что в душу мне больную</plain>
+            <plain>Р§С‚Рѕ РІ РґСѓС€Сѓ РјРЅРµ Р±РѕР»СЊРЅСѓСЋ</plain>
         </string>
         <string>
-            <plain>Проникли суеты.</plain>
+            <plain>РџСЂРѕРЅРёРєР»Рё СЃСѓРµС‚С‹.</plain>
         </string>
         <string>
-            <plain>Когда же предо мною</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ РїСЂРµРґРѕ РјРЅРѕСЋ</plain>
         </string>
         <string>
-            <plain>Предстанет мир иной,</plain>
+            <plain>РџСЂРµРґСЃС‚Р°РЅРµС‚ РјРёСЂ РёРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты сделай весть живою,</plain>
+            <plain>РўС‹ СЃРґРµР»Р°Р№ РІРµСЃС‚СЊ Р¶РёРІРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Что Ты - Спаситель мой.</plain>
+            <plain>Р§С‚Рѕ РўС‹ - РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
     </verse>
 </psalm>

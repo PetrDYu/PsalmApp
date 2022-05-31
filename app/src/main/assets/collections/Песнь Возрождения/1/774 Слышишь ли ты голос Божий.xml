@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="774" name="Слышишь ли ты голос Божий" canon="false" text="" textRus="" music="">
+<psalm number="774" name="РЎР»С‹С€РёС€СЊ Р»Рё С‚С‹ РіРѕР»РѕСЃ Р‘РѕР¶РёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слышишь ли ты голос Божий –</plain>
+            <plain>РЎР»С‹С€РёС€СЊ Р»Рё С‚С‹ РіРѕР»РѕСЃ Р‘РѕР¶РёР№ вЂ“</plain>
         </string>
         <string>
-            <plain>Нежно для тебя звучит;</plain>
+            <plain>РќРµР¶РЅРѕ РґР»СЏ С‚РµР±СЏ Р·РІСѓС‡РёС‚;</plain>
         </string>
         <string>
-            <plain>У дверей стоит прохожий,</plain>
+            <plain>РЈ РґРІРµСЂРµР№ СЃС‚РѕРёС‚ РїСЂРѕС…РѕР¶РёР№,</plain>
         </string>
         <string>
-            <plain>Слушай, что Он говорит.</plain>
+            <plain>РЎР»СѓС€Р°Р№, С‡С‚Рѕ РћРЅ РіРѕРІРѕСЂРёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Нежно так тебя Христос зовет,</plain>
+            <plain>РќРµР¶РЅРѕ С‚Р°Рє С‚РµР±СЏ РҐСЂРёСЃС‚РѕСЃ Р·РѕРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Поспеши к Нему, тебя Он ждет.</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РќРµРјСѓ, С‚РµР±СЏ РћРЅ Р¶РґРµС‚.</plain>
         </string>
         <string>
-            <plain>О, приди к Нему скорее,</plain>
+            <plain>Рћ, РїСЂРёРґРё Рє РќРµРјСѓ СЃРєРѕСЂРµРµ,</plain>
         </string>
         <string>
-            <plain>Сердца дверь открой сильнее,</plain>
+            <plain>РЎРµСЂРґС†Р° РґРІРµСЂСЊ РѕС‚РєСЂРѕР№ СЃРёР»СЊРЅРµРµ,</plain>
         </string>
         <string>
-            <plain>Мир найдешь ты для души,</plain>
+            <plain>РњРёСЂ РЅР°Р№РґРµС€СЊ С‚С‹ РґР»СЏ РґСѓС€Рё,</plain>
         </string>
         <string>
-            <plain>Лишь к Иисусу поспеши!</plain>
+            <plain>Р›РёС€СЊ Рє РРёСЃСѓСЃСѓ РїРѕСЃРїРµС€Рё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Зов любви Его ты слышишь,</plain>
+            <plain>Р—РѕРІ Р»СЋР±РІРё Р•РіРѕ С‚С‹ СЃР»С‹С€РёС€СЊ,</plain>
         </string>
         <string>
-            <plain>Вновь зовет тебя, мой брат,</plain>
+            <plain>Р’РЅРѕРІСЊ Р·РѕРІРµС‚ С‚РµР±СЏ, РјРѕР№ Р±СЂР°С‚,</plain>
         </string>
         <string>
-            <plain>Только Им одним ты дышишь,</plain>
+            <plain>РўРѕР»СЊРєРѕ РРј РѕРґРЅРёРј С‚С‹ РґС‹С€РёС€СЊ,</plain>
         </string>
         <string>
-            <plain>Только Им одним богат.</plain>
+            <plain>РўРѕР»СЊРєРѕ РРј РѕРґРЅРёРј Р±РѕРіР°С‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ничего, что ты споткнулся, -</plain>
+            <plain>РќРёС‡РµРіРѕ, С‡С‚Рѕ С‚С‹ СЃРїРѕС‚РєРЅСѓР»СЃСЏ, -</plain>
         </string>
         <string>
-            <plain>Поспеши к Нему опять.</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РќРµРјСѓ РѕРїСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Если ты и пошатнулся,</plain>
+            <plain>Р•СЃР»Рё С‚С‹ Рё РїРѕС€Р°С‚РЅСѓР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Может Он тебя поднять.</plain>
+            <plain>РњРѕР¶РµС‚ РћРЅ С‚РµР±СЏ РїРѕРґРЅСЏС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

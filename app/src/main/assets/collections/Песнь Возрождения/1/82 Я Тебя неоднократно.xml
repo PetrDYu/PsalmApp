@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="82" name="Я Тебя неоднократно" canon="false" text="" textRus="" music="">
+<psalm number="82" name="РЇ РўРµР±СЏ РЅРµРѕРґРЅРѕРєСЂР°С‚РЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я Тебя неоднократно,</plain>
+            <plain>РЇ РўРµР±СЏ РЅРµРѕРґРЅРѕРєСЂР°С‚РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Боже правый, умолял,</plain>
+            <plain>Р‘РѕР¶Рµ РїСЂР°РІС‹Р№, СѓРјРѕР»СЏР»,</plain>
         </string>
         <string>
-            <plain>Чтобы силой благодатной</plain>
+            <plain>Р§С‚РѕР±С‹ СЃРёР»РѕР№ Р±Р»Р°РіРѕРґР°С‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Ты мне помощь оказал.</plain>
+            <plain>РўС‹ РјРЅРµ РїРѕРјРѕС‰СЊ РѕРєР°Р·Р°Р».</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Отчего, не постигаю,</plain>
+            <plain>РћС‚С‡РµРіРѕ, РЅРµ РїРѕСЃС‚РёРіР°СЋ,</plain>
         </string>
         <string>
-            <plain>До сих пор ответа нет?</plain>
+            <plain>Р”Рѕ СЃРёС… РїРѕСЂ РѕС‚РІРµС‚Р° РЅРµС‚?</plain>
         </string>
         <string>
-            <plain>Отчего я продолжаю</plain>
+            <plain>РћС‚С‡РµРіРѕ СЏ РїСЂРѕРґРѕР»Р¶Р°СЋ</plain>
         </string>
         <string>
-            <plain>Изнывать от прежних бед?</plain>
+            <plain>РР·РЅС‹РІР°С‚СЊ РѕС‚ РїСЂРµР¶РЅРёС… Р±РµРґ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не желаешь ли к терпенью</plain>
+            <plain>РќРµ Р¶РµР»Р°РµС€СЊ Р»Рё Рє С‚РµСЂРїРµРЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>Юный дух мой приучить,</plain>
+            <plain>Р®РЅС‹Р№ РґСѓС… РјРѕР№ РїСЂРёСѓС‡РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтобы к славному служенью</plain>
+            <plain>Р§С‚РѕР±С‹ Рє СЃР»Р°РІРЅРѕРјСѓ СЃР»СѓР¶РµРЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>Силой свыше наделить?</plain>
+            <plain>РЎРёР»РѕР№ СЃРІС‹С€Рµ РЅР°РґРµР»РёС‚СЊ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Но мой дух горит томленьем,</plain>
+            <plain>РќРѕ РјРѕР№ РґСѓС… РіРѕСЂРёС‚ С‚РѕРјР»РµРЅСЊРµРј,</plain>
         </string>
         <string>
-            <plain>Я в мольбе не замолчу</plain>
+            <plain>РЇ РІ РјРѕР»СЊР±Рµ РЅРµ Р·Р°РјРѕР»С‡Сѓ</plain>
         </string>
         <string>
-            <plain>До тех пор, пока моленьем</plain>
+            <plain>Р”Рѕ С‚РµС… РїРѕСЂ, РїРѕРєР° РјРѕР»РµРЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>Твой ответ не получу.</plain>
+            <plain>РўРІРѕР№ РѕС‚РІРµС‚ РЅРµ РїРѕР»СѓС‡Сѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Буду я Тебе молиться</plain>
+            <plain>Р‘СѓРґСѓ СЏ РўРµР±Рµ РјРѕР»РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Духом, сердцем и умом,</plain>
+            <plain>Р”СѓС…РѕРј, СЃРµСЂРґС†РµРј Рё СѓРјРѕРј,</plain>
         </string>
         <string>
-            <plain>Просьбы веры будут литься</plain>
+            <plain>РџСЂРѕСЃСЊР±С‹ РІРµСЂС‹ Р±СѓРґСѓС‚ Р»РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Утром, вечером и днем.</plain>
+            <plain>РЈС‚СЂРѕРј, РІРµС‡РµСЂРѕРј Рё РґРЅРµРј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Как душе сознанье ценно:</plain>
+            <plain>РљР°Рє РґСѓС€Рµ СЃРѕР·РЅР°РЅСЊРµ С†РµРЅРЅРѕ:</plain>
         </string>
         <string>
-            <plain>Ты - Отец, а не судья,</plain>
+            <plain>РўС‹ - РћС‚РµС†, Р° РЅРµ СЃСѓРґСЊСЏ,</plain>
         </string>
         <string>
-            <plain>И ответишь непременно:</plain>
+            <plain>Р РѕС‚РІРµС‚РёС€СЊ РЅРµРїСЂРµРјРµРЅРЅРѕ:</plain>
         </string>
         <string>
-            <plain>В том уверен твердо я.</plain>
+            <plain>Р’ С‚РѕРј СѓРІРµСЂРµРЅ С‚РІРµСЂРґРѕ СЏ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>И я вновь, Господь, взываю,</plain>
+            <plain>Р СЏ РІРЅРѕРІСЊ, Р“РѕСЃРїРѕРґСЊ, РІР·С‹РІР°СЋ,</plain>
         </string>
         <string>
-            <plain>Я опять у ног Твоих</plain>
+            <plain>РЇ РѕРїСЏС‚СЊ Сѓ РЅРѕРі РўРІРѕРёС…</plain>
         </string>
         <string>
-            <plain>И ответа ожидаю</plain>
+            <plain>Р РѕС‚РІРµС‚Р° РѕР¶РёРґР°СЋ</plain>
         </string>
         <string>
-            <plain>Каждый час и каждый миг.</plain>
+            <plain>РљР°Р¶РґС‹Р№ С‡Р°СЃ Рё РєР°Р¶РґС‹Р№ РјРёРі.</plain>
         </string>
     </verse>
 </psalm>

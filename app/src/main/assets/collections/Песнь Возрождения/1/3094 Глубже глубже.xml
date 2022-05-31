@@ -1,88 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3094" name="Глубже глубже" canon="false" text="" textRus="" music="">
+<psalm number="3094" name="Р“Р»СѓР±Р¶Рµ РіР»СѓР±Р¶Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Глубже, глубже</plain>
+            <plain>Р“Р»СѓР±Р¶Рµ, РіР»СѓР±Р¶Рµ</plain>
         </string>
         <string>
-            <plain>дай мне погружаться,</plain>
+            <plain>РґР°Р№ РјРЅРµ РїРѕРіСЂСѓР¶Р°С‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Бог, в любовь Твою!</plain>
+            <plain>Р‘РѕРі, РІ Р»СЋР±РѕРІСЊ РўРІРѕСЋ!</plain>
         </string>
         <string>
-            <plain>Выше, выше</plain>
+            <plain>Р’С‹С€Рµ, РІС‹С€Рµ</plain>
         </string>
         <string>
-            <plain>дай мне подниматься</plain>
+            <plain>РґР°Р№ РјРЅРµ РїРѕРґРЅРёРјР°С‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>духом в высоту!</plain>
+            <plain>РґСѓС…РѕРј РІ РІС‹СЃРѕС‚Сѓ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог, вглубь веди меня,</plain>
+            <plain>Р‘РѕРі, РІРіР»СѓР±СЊ РІРµРґРё РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>веди меня и выше в небеса!</plain>
+            <plain>РІРµРґРё РјРµРЅСЏ Рё РІС‹С€Рµ РІ РЅРµР±РµСЃР°!</plain>
         </string>
         <string>
-            <plain>Да, глубже, Бог мой</plain>
+            <plain>Р”Р°, РіР»СѓР±Р¶Рµ, Р‘РѕРі РјРѕР№</plain>
         </string>
         <string>
-            <plain>Слово мне Свое открой.</plain>
+            <plain>РЎР»РѕРІРѕ РјРЅРµ РЎРІРѕРµ РѕС‚РєСЂРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Глубже, глубже,</plain>
+            <plain>Р“Р»СѓР±Р¶Рµ, РіР»СѓР±Р¶Рµ,</plain>
         </string>
         <string>
-            <plain>Дух Святой, в смиренье</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, РІ СЃРјРёСЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>погружай меня,</plain>
+            <plain>РїРѕРіСЂСѓР¶Р°Р№ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>чтоб земною жизнью</plain>
+            <plain>С‡С‚РѕР± Р·РµРјРЅРѕСЋ Р¶РёР·РЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>и служеньем славил я Тебя.</plain>
+            <plain>Рё СЃР»СѓР¶РµРЅСЊРµРј СЃР»Р°РІРёР» СЏ РўРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Глубже, глубже</plain>
+            <plain>Р“Р»СѓР±Р¶Рµ, РіР»СѓР±Р¶Рµ</plain>
         </string>
         <string>
-            <plain>- хоть в борьбе я трудной</plain>
+            <plain>- С…РѕС‚СЊ РІ Р±РѕСЂСЊР±Рµ СЏ С‚СЂСѓРґРЅРѕР№</plain>
         </string>
         <string>
-            <plain>в жизни здесь иду.</plain>
+            <plain>РІ Р¶РёР·РЅРё Р·РґРµСЃСЊ РёРґСѓ.</plain>
         </string>
         <string>
-            <plain>За Тобой, Господь мой,</plain>
+            <plain>Р—Р° РўРѕР±РѕР№, Р“РѕСЃРїРѕРґСЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>в вере твердой следовать хочу.</plain>
+            <plain>РІ РІРµСЂРµ С‚РІРµСЂРґРѕР№ СЃР»РµРґРѕРІР°С‚СЊ С…РѕС‡Сѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Глубже, выше!</plain>
+            <plain>Р“Р»СѓР±Р¶Рµ, РІС‹С€Рµ!</plain>
         </string>
         <string>
-            <plain>Каждый день в Иисусе</plain>
+            <plain>РљР°Р¶РґС‹Р№ РґРµРЅСЊ РІ РРёСЃСѓСЃРµ</plain>
         </string>
         <string>
-            <plain>пребывать хочу</plain>
+            <plain>РїСЂРµР±С‹РІР°С‚СЊ С…РѕС‡Сѓ</plain>
         </string>
         <string>
-            <plain>до тех пор, пока не вознесусь</plain>
+            <plain>РґРѕ С‚РµС… РїРѕСЂ, РїРѕРєР° РЅРµ РІРѕР·РЅРµСЃСѓСЃСЊ</plain>
         </string>
         <string>
-            <plain>я в небеса к Нему.</plain>
+            <plain>СЏ РІ РЅРµР±РµСЃР° Рє РќРµРјСѓ.</plain>
         </string>
     </verse>
 </psalm>

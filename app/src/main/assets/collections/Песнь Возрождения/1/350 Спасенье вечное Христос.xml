@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="350" name="Спасенье вечное Христос" canon="false" text="" textRus="" music="">
+<psalm number="350" name="РЎРїР°СЃРµРЅСЊРµ РІРµС‡РЅРѕРµ РҐСЂРёСЃС‚РѕСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Спасенье вечное Христос</plain>
+            <plain>РЎРїР°СЃРµРЅСЊРµ РІРµС‡РЅРѕРµ РҐСЂРёСЃС‚РѕСЃ</plain>
         </string>
         <string>
-            <plain>На землю к нам принес;</plain>
+            <plain>РќР° Р·РµРјР»СЋ Рє РЅР°Рј РїСЂРёРЅРµСЃ;</plain>
         </string>
         <string>
-            <plain>Он отразил греха напасть</plain>
+            <plain>РћРЅ РѕС‚СЂР°Р·РёР» РіСЂРµС…Р° РЅР°РїР°СЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>И дал с Собой нам часть.</plain>
+            <plain>Р РґР°Р» СЃ РЎРѕР±РѕР№ РЅР°Рј С‡Р°СЃС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О сердце, не смущайся, верь!</plain>
+            <plain>Рћ СЃРµСЂРґС†Рµ, РЅРµ СЃРјСѓС‰Р°Р№СЃСЏ, РІРµСЂСЊ!</plain>
         </string>
         <string>
-            <plain>Прими Христа теперь!</plain>
+            <plain>РџСЂРёРјРё РҐСЂРёСЃС‚Р° С‚РµРїРµСЂСЊ!</plain>
         </string>
         <string>
-            <plain>О сердце, не смущайся, верь!</plain>
+            <plain>Рћ СЃРµСЂРґС†Рµ, РЅРµ СЃРјСѓС‰Р°Р№СЃСЏ, РІРµСЂСЊ!</plain>
         </string>
         <string>
-            <plain>Прими Христа теперь!</plain>
+            <plain>РџСЂРёРјРё РҐСЂРёСЃС‚Р° С‚РµРїРµСЂСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь нас грешных возлюбил,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РЅР°СЃ РіСЂРµС€РЅС‹С… РІРѕР·Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>Себя не пощадил!</plain>
+            <plain>РЎРµР±СЏ РЅРµ РїРѕС‰Р°РґРёР»!</plain>
         </string>
         <string>
-            <plain>Он на кресте в предсмертный час</plain>
+            <plain>РћРЅ РЅР° РєСЂРµСЃС‚Рµ РІ РїСЂРµРґСЃРјРµСЂС‚РЅС‹Р№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Отца молил о нас.</plain>
+            <plain>РћС‚С†Р° РјРѕР»РёР» Рѕ РЅР°СЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он жизнь нам, мертвым, подарил,</plain>
+            <plain>РћРЅ Р¶РёР·РЅСЊ РЅР°Рј, РјРµСЂС‚РІС‹Рј, РїРѕРґР°СЂРёР»,</plain>
         </string>
         <string>
-            <plain>Рассеял мрак и тьму</plain>
+            <plain>Р Р°СЃСЃРµСЏР» РјСЂР°Рє Рё С‚СЊРјСѓ</plain>
         </string>
         <string>
-            <plain>И слово нам Свое вручил,</plain>
+            <plain>Р СЃР»РѕРІРѕ РЅР°Рј РЎРІРѕРµ РІСЂСѓС‡РёР»,</plain>
         </string>
         <string>
-            <plain>Чтоб звать других к Нему.</plain>
+            <plain>Р§С‚РѕР± Р·РІР°С‚СЊ РґСЂСѓРіРёС… Рє РќРµРјСѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Господне Слово - меч святой,</plain>
+            <plain>Р“РѕСЃРїРѕРґРЅРµ РЎР»РѕРІРѕ - РјРµС‡ СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Поток воды живой;</plain>
+            <plain>РџРѕС‚РѕРє РІРѕРґС‹ Р¶РёРІРѕР№;</plain>
         </string>
         <string>
-            <plain>Оно порок и грех казнит</plain>
+            <plain>РћРЅРѕ РїРѕСЂРѕРє Рё РіСЂРµС… РєР°Р·РЅРёС‚</plain>
         </string>
         <string>
-            <plain>И сердцу мир дарит.</plain>
+            <plain>Р СЃРµСЂРґС†Сѓ РјРёСЂ РґР°СЂРёС‚.</plain>
         </string>
     </verse>
 </psalm>

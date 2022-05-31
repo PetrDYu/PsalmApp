@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3013" name="О юность как ты хороша" canon="false" text="" textRus="" music="">
+<psalm number="3013" name="Рћ СЋРЅРѕСЃС‚СЊ РєР°Рє С‚С‹ С…РѕСЂРѕС€Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О юность, как ты хороша!</plain>
+            <plain>Рћ СЋРЅРѕСЃС‚СЊ, РєР°Рє С‚С‹ С…РѕСЂРѕС€Р°!</plain>
         </string>
         <string>
-            <plain>Но лучше ты, когда душа</plain>
+            <plain>РќРѕ Р»СѓС‡С€Рµ С‚С‹, РєРѕРіРґР° РґСѓС€Р°</plain>
         </string>
         <string>
-            <plain>себя Иисусу посвятит.</plain>
+            <plain>СЃРµР±СЏ РРёСЃСѓСЃСѓ РїРѕСЃРІСЏС‚РёС‚.</plain>
         </string>
         <string>
-            <plain>Что может радостнее быть?</plain>
+            <plain>Р§С‚Рѕ РјРѕР¶РµС‚ СЂР°РґРѕСЃС‚РЅРµРµ Р±С‹С‚СЊ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дни юности, дни радости!</plain>
+            <plain>Р”РЅРё СЋРЅРѕСЃС‚Рё, РґРЅРё СЂР°РґРѕСЃС‚Рё!</plain>
         </string>
         <string>
-            <plain>Душа, Христу их посвяти!</plain>
+            <plain>Р”СѓС€Р°, РҐСЂРёСЃС‚Сѓ РёС… РїРѕСЃРІСЏС‚Рё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Счастливы юные сердца,</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІС‹ СЋРЅС‹Рµ СЃРµСЂРґС†Р°,</plain>
         </string>
         <string>
-            <plain>что уповают на Христа!</plain>
+            <plain>С‡С‚Рѕ СѓРїРѕРІР°СЋС‚ РЅР° РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Послушным Богу от души</plain>
+            <plain>РџРѕСЃР»СѓС€РЅС‹Рј Р‘РѕРіСѓ РѕС‚ РґСѓС€Рё</plain>
         </string>
         <string>
-            <plain>готов на помощь Он прийти.</plain>
+            <plain>РіРѕС‚РѕРІ РЅР° РїРѕРјРѕС‰СЊ РћРЅ РїСЂРёР№С‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как чудно быть Его дитём</plain>
+            <plain>РљР°Рє С‡СѓРґРЅРѕ Р±С‹С‚СЊ Р•РіРѕ РґРёС‚С‘Рј</plain>
         </string>
         <string>
-            <plain>И пребывать всецело в Нём!</plain>
+            <plain>Р РїСЂРµР±С‹РІР°С‚СЊ РІСЃРµС†РµР»Рѕ РІ РќС‘Рј!</plain>
         </string>
         <string>
-            <plain>Да, это рай уж на земле.</plain>
+            <plain>Р”Р°, СЌС‚Рѕ СЂР°Р№ СѓР¶ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
         <string>
-            <plain>Любовь Христа, сладка ты мне.</plain>
+            <plain>Р›СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°, СЃР»Р°РґРєР° С‚С‹ РјРЅРµ.</plain>
         </string>
     </verse>
 </psalm>

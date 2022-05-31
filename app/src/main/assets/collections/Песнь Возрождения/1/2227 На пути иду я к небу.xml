@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2227" name="На пути иду я к небу" canon="false" text="" textRus="" music="">
+<psalm number="2227" name="РќР° РїСѓС‚Рё РёРґСѓ СЏ Рє РЅРµР±Сѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На пути иду я к небу,</plain>
+            <plain>РќР° РїСѓС‚Рё РёРґСѓ СЏ Рє РЅРµР±Сѓ,</plain>
         </string>
         <string>
-            <plain>Пенье там и блеск путей.</plain>
+            <plain>РџРµРЅСЊРµ С‚Р°Рј Рё Р±Р»РµСЃРє РїСѓС‚РµР№.</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>К той святой стране небесной,</plain>
+            <plain>Рљ С‚РѕР№ СЃРІСЏС‚РѕР№ СЃС‚СЂР°РЅРµ РЅРµР±РµСЃРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Где ни тьмы нет, ни ночей.</plain>
+            <plain>Р“РґРµ РЅРё С‚СЊРјС‹ РЅРµС‚, РЅРё РЅРѕС‡РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя, аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>навсегда, навсегда.</plain>
+            <plain>РЅР°РІСЃРµРіРґР°, РЅР°РІСЃРµРіРґР°.</plain>
         </string>
         <string>
-            <plain>О, слава, аллилуйя,</plain>
+            <plain>Рћ, СЃР»Р°РІР°, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>я иду в страну святую.</plain>
+            <plain>СЏ РёРґСѓ РІ СЃС‚СЂР°РЅСѓ СЃРІСЏС‚СѓСЋ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>О, слава, аллилуйя,</plain>
+            <plain>Рћ, СЃР»Р°РІР°, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Я иду в страну святую,</plain>
+            <plain>РЇ РёРґСѓ РІ СЃС‚СЂР°РЅСѓ СЃРІСЏС‚СѓСЋ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Навсегда, навсегда.</plain>
+            <plain>РќР°РІСЃРµРіРґР°, РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На пути иду я к небу,</plain>
+            <plain>РќР° РїСѓС‚Рё РёРґСѓ СЏ Рє РЅРµР±Сѓ,</plain>
         </string>
         <string>
-            <plain>В город чудный, золотой.</plain>
+            <plain>Р’ РіРѕСЂРѕРґ С‡СѓРґРЅС‹Р№, Р·РѕР»РѕС‚РѕР№.</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Слава Божья там сияет,</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕР¶СЊСЏ С‚Р°Рј СЃРёСЏРµС‚,</plain>
         </string>
         <string>
-            <plain>Там несказанный покой.</plain>
+            <plain>РўР°Рј РЅРµСЃРєР°Р·Р°РЅРЅС‹Р№ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>На пути иду я к небу,</plain>
+            <plain>РќР° РїСѓС‚Рё РёРґСѓ СЏ Рє РЅРµР±Сѓ,</plain>
         </string>
         <string>
-            <plain>Счастья чистого стране,</plain>
+            <plain>РЎС‡Р°СЃС‚СЊСЏ С‡РёСЃС‚РѕРіРѕ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Там народы все согласно</plain>
+            <plain>РўР°Рј РЅР°СЂРѕРґС‹ РІСЃРµ СЃРѕРіР»Р°СЃРЅРѕ</plain>
         </string>
         <string>
-            <plain>В снежной ходят белизне.</plain>
+            <plain>Р’ СЃРЅРµР¶РЅРѕР№ С…РѕРґСЏС‚ Р±РµР»РёР·РЅРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>На пути иду я к небу,</plain>
+            <plain>РќР° РїСѓС‚Рё РёРґСѓ СЏ Рє РЅРµР±Сѓ,</plain>
         </string>
         <string>
-            <plain>Там увижу лик Христа,</plain>
+            <plain>РўР°Рј СѓРІРёР¶Сѓ Р»РёРє РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Зазвучит в небесном доме</plain>
+            <plain>Р—Р°Р·РІСѓС‡РёС‚ РІ РЅРµР±РµСЃРЅРѕРј РґРѕРјРµ</plain>
         </string>
         <string>
-            <plain>Всех искупленных хвала.</plain>
+            <plain>Р’СЃРµС… РёСЃРєСѓРїР»РµРЅРЅС‹С… С…РІР°Р»Р°.</plain>
         </string>
     </verse>
 </psalm>

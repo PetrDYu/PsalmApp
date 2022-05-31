@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3104" name="Кто даст нам избавленье" canon="false" text="" textRus="" music="">
+<psalm number="3104" name="РљС‚Рѕ РґР°СЃС‚ РЅР°Рј РёР·Р±Р°РІР»РµРЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Кто даст нам избавленье</plain>
+            <plain>РљС‚Рѕ РґР°СЃС‚ РЅР°Рј РёР·Р±Р°РІР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>от всякого греха,</plain>
+            <plain>РѕС‚ РІСЃСЏРєРѕРіРѕ РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>кто новое творенье</plain>
+            <plain>РєС‚Рѕ РЅРѕРІРѕРµ С‚РІРѕСЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>свершит из нас тогда?</plain>
+            <plain>СЃРІРµСЂС€РёС‚ РёР· РЅР°СЃ С‚РѕРіРґР°?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Один Спаситель может</plain>
+            <plain>РћРґРёРЅ РЎРїР°СЃРёС‚РµР»СЊ РјРѕР¶РµС‚</plain>
         </string>
         <string>
-            <plain>прийти на помощь нам.</plain>
+            <plain>РїСЂРёР№С‚Рё РЅР° РїРѕРјРѕС‰СЊ РЅР°Рј.</plain>
         </string>
         <string>
-            <plain>Как прежде Он поможет</plain>
+            <plain>РљР°Рє РїСЂРµР¶РґРµ РћРЅ РїРѕРјРѕР¶РµС‚</plain>
         </string>
         <string>
-            <plain>и даст покой сердцам.</plain>
+            <plain>Рё РґР°СЃС‚ РїРѕРєРѕР№ СЃРµСЂРґС†Р°Рј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Кто грех кровавый снимет,</plain>
+            <plain>РљС‚Рѕ РіСЂРµС… РєСЂРѕРІР°РІС‹Р№ СЃРЅРёРјРµС‚,</plain>
         </string>
         <string>
-            <plain>изгладит всю вину;</plain>
+            <plain>РёР·РіР»Р°РґРёС‚ РІСЃСЋ РІРёРЅСѓ;</plain>
         </string>
         <string>
-            <plain>кто их навек утопит</plain>
+            <plain>РєС‚Рѕ РёС… РЅР°РІРµРє СѓС‚РѕРїРёС‚</plain>
         </string>
         <string>
-            <plain>в морскую глубину?</plain>
+            <plain>РІ РјРѕСЂСЃРєСѓСЋ РіР»СѓР±РёРЅСѓ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Кто может в благодати</plain>
+            <plain>РљС‚Рѕ РјРѕР¶РµС‚ РІ Р±Р»Р°РіРѕРґР°С‚Рё</plain>
         </string>
         <string>
-            <plain>нас каждый день хранить,</plain>
+            <plain>РЅР°СЃ РєР°Р¶РґС‹Р№ РґРµРЅСЊ С…СЂР°РЅРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>чтоб чисто нам и свято,</plain>
+            <plain>С‡С‚РѕР± С‡РёСЃС‚Рѕ РЅР°Рј Рё СЃРІСЏС‚Рѕ,</plain>
         </string>
         <string>
-            <plain>по воле Божьей жить?</plain>
+            <plain>РїРѕ РІРѕР»Рµ Р‘РѕР¶СЊРµР№ Р¶РёС‚СЊ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Кто может нас в болезнях</plain>
+            <plain>РљС‚Рѕ РјРѕР¶РµС‚ РЅР°СЃ РІ Р±РѕР»РµР·РЅСЏС…</plain>
         </string>
         <string>
-            <plain>чудесно исцелять?</plain>
+            <plain>С‡СѓРґРµСЃРЅРѕ РёСЃС†РµР»СЏС‚СЊ?</plain>
         </string>
         <string>
-            <plain>И кто помочь мне сможет здесь</plain>
+            <plain>Р РєС‚Рѕ РїРѕРјРѕС‡СЊ РјРЅРµ СЃРјРѕР¶РµС‚ Р·РґРµСЃСЊ</plain>
         </string>
         <string>
-            <plain>в мой предсмертный час?</plain>
+            <plain>РІ РјРѕР№ РїСЂРµРґСЃРјРµСЂС‚РЅС‹Р№ С‡Р°СЃ?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Кто даст живую веру,</plain>
+            <plain>РљС‚Рѕ РґР°СЃС‚ Р¶РёРІСѓСЋ РІРµСЂСѓ,</plain>
         </string>
         <string>
-            <plain>чтоб Слово исполнять</plain>
+            <plain>С‡С‚РѕР± РЎР»РѕРІРѕ РёСЃРїРѕР»РЅСЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>и по Его примеру</plain>
+            <plain>Рё РїРѕ Р•РіРѕ РїСЂРёРјРµСЂСѓ</plain>
         </string>
         <string>
-            <plain>свидетельство давать?</plain>
+            <plain>СЃРІРёРґРµС‚РµР»СЊСЃС‚РІРѕ РґР°РІР°С‚СЊ?</plain>
         </string>
     </verse>
 </psalm>

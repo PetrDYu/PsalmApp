@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2688" name="Мой Христос Учитель" canon="false" text="" textRus="" music="">
+<psalm number="2688" name="РњРѕР№ РҐСЂРёСЃС‚РѕСЃ РЈС‡РёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мой Христос - Учитель</plain>
+            <plain>РњРѕР№ РҐСЂРёСЃС‚РѕСЃ - РЈС‡РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Душу спас мою,</plain>
+            <plain>Р”СѓС€Сѓ СЃРїР°СЃ РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Я Тебе, Спаситель,</plain>
+            <plain>РЇ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Песнь хвалы спою.</plain>
+            <plain>РџРµСЃРЅСЊ С…РІР°Р»С‹ СЃРїРѕСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Боже благой, сердцем я Твой.</plain>
+            <plain>Р‘РѕР¶Рµ Р±Р»Р°РіРѕР№, СЃРµСЂРґС†РµРј СЏ РўРІРѕР№.</plain>
         </string>
         <string>
-            <plain>Счастлив в борьбе, слава Тебе.</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІ РІ Р±РѕСЂСЊР±Рµ, СЃР»Р°РІР° РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>В жизни моей много скорбей,</plain>
+            <plain>Р’ Р¶РёР·РЅРё РјРѕРµР№ РјРЅРѕРіРѕ СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>Будь мне Вождем ночью и днем.</plain>
+            <plain>Р‘СѓРґСЊ РјРЅРµ Р’РѕР¶РґРµРј РЅРѕС‡СЊСЋ Рё РґРЅРµРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Грешников Ты любишь,</plain>
+            <plain>Р“СЂРµС€РЅРёРєРѕРІ РўС‹ Р»СЋР±РёС€СЊ,</plain>
         </string>
         <string>
-            <plain>Жизнь за них отдал.</plain>
+            <plain>Р–РёР·РЅСЊ Р·Р° РЅРёС… РѕС‚РґР°Р».</plain>
         </string>
         <string>
-            <plain>Счастья всем желаешь,</plain>
+            <plain>РЎС‡Р°СЃС‚СЊСЏ РІСЃРµРј Р¶РµР»Р°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Кто Тебя познал.</plain>
+            <plain>РљС‚Рѕ РўРµР±СЏ РїРѕР·РЅР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В Слове Твоем, Боже,</plain>
+            <plain>Р’ РЎР»РѕРІРµ РўРІРѕРµРј, Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Жажду я пребыть,</plain>
+            <plain>Р–Р°Р¶РґСѓ СЏ РїСЂРµР±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>На Тебя похожим</plain>
+            <plain>РќР° РўРµР±СЏ РїРѕС…РѕР¶РёРј</plain>
         </string>
         <string>
-            <plain>Я стараюсь быть.</plain>
+            <plain>РЇ СЃС‚Р°СЂР°СЋСЃСЊ Р±С‹С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2501" name="Воскликни Богу вся земля" canon="false" text="" textRus="" music="">
+<psalm number="2501" name="Р’РѕСЃРєР»РёРєРЅРё Р‘РѕРіСѓ РІСЃСЏ Р·РµРјР»СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Воскликни Богу вся земля!</plain>
+            <plain>Р’РѕСЃРєР»РёРєРЅРё Р‘РѕРіСѓ РІСЃСЏ Р·РµРјР»СЏ!</plain>
         </string>
         <string>
-            <plain>Народы, как одна семья,</plain>
+            <plain>РќР°СЂРѕРґС‹, РєР°Рє РѕРґРЅР° СЃРµРјСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Предстаньте господу с хвалой,</plain>
+            <plain>РџСЂРµРґСЃС‚Р°РЅСЊС‚Рµ РіРѕСЃРїРѕРґСѓ СЃ С…РІР°Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>Ему служите всей душой.</plain>
+            <plain>Р•РјСѓ СЃР»СѓР¶РёС‚Рµ РІСЃРµР№ РґСѓС€РѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Познайте, что Господь есть Бог,</plain>
+            <plain>РџРѕР·РЅР°Р№С‚Рµ, С‡С‚Рѕ Р“РѕСЃРїРѕРґСЊ РµСЃС‚СЊ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>А мы - творенье Божьих рук;</plain>
+            <plain>Рђ РјС‹ - С‚РІРѕСЂРµРЅСЊРµ Р‘РѕР¶СЊРёС… СЂСѓРє;</plain>
         </string>
         <string>
-            <plain>В Свое Он стадо нас привлек,</plain>
+            <plain>Р’ РЎРІРѕРµ РћРЅ СЃС‚Р°РґРѕ РЅР°СЃ РїСЂРёРІР»РµРє,</plain>
         </string>
         <string>
-            <plain>Он - Пастырь и наш лучший Друг.</plain>
+            <plain>РћРЅ - РџР°СЃС‚С‹СЂСЊ Рё РЅР°С€ Р»СѓС‡С€РёР№ Р”СЂСѓРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Спешите все в Его дворы,</plain>
+            <plain>РЎРїРµС€РёС‚Рµ РІСЃРµ РІ Р•РіРѕ РґРІРѕСЂС‹,</plain>
         </string>
         <string>
-            <plain>Идите с пеньем в Божий дом,</plain>
+            <plain>РРґРёС‚Рµ СЃ РїРµРЅСЊРµРј РІ Р‘РѕР¶РёР№ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Несите Дивному дары</plain>
+            <plain>РќРµСЃРёС‚Рµ Р”РёРІРЅРѕРјСѓ РґР°СЂС‹</plain>
         </string>
         <string>
-            <plain>И поклоняйтесь с торжеством.</plain>
+            <plain>Р РїРѕРєР»РѕРЅСЏР№С‚РµСЃСЊ СЃ С‚РѕСЂР¶РµСЃС‚РІРѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Да прославляют все Творца,</plain>
+            <plain>Р”Р° РїСЂРѕСЃР»Р°РІР»СЏСЋС‚ РІСЃРµ РўРІРѕСЂС†Р°,</plain>
         </string>
         <string>
-            <plain>Да любит Бога весь народ!</plain>
+            <plain>Р”Р° Р»СЋР±РёС‚ Р‘РѕРіР° РІРµСЃСЊ РЅР°СЂРѕРґ!</plain>
         </string>
         <string>
-            <plain>Господня милость без конца,</plain>
+            <plain>Р“РѕСЃРїРѕРґРЅСЏ РјРёР»РѕСЃС‚СЊ Р±РµР· РєРѕРЅС†Р°,</plain>
         </string>
         <string>
-            <plain>Господня милость в род и род.</plain>
+            <plain>Р“РѕСЃРїРѕРґРЅСЏ РјРёР»РѕСЃС‚СЊ РІ СЂРѕРґ Рё СЂРѕРґ.</plain>
         </string>
     </verse>
 </psalm>

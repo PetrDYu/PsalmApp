@@ -1,84 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2389" name="Христос в Тебе душа нашла" canon="false" text="" textRus="" music="">
+<psalm number="2389" name="РҐСЂРёСЃС‚РѕСЃ РІ РўРµР±Рµ РґСѓС€Р° РЅР°С€Р»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Христос, в Тебе душа нашла,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ, РІ РўРµР±Рµ РґСѓС€Р° РЅР°С€Р»Р°,</plain>
         </string>
         <string>
-            <plain>Нашла в Тебе Одном</plain>
+            <plain>РќР°С€Р»Р° РІ РўРµР±Рµ РћРґРЅРѕРј</plain>
         </string>
         <string>
-            <plain>Мир, радость, блага без числа</plain>
+            <plain>РњРёСЂ, СЂР°РґРѕСЃС‚СЊ, Р±Р»Р°РіР° Р±РµР· С‡РёСЃР»Р°</plain>
         </string>
         <string>
-            <plain>И вечной жизни дом.</plain>
+            <plain>Р РІРµС‡РЅРѕР№ Р¶РёР·РЅРё РґРѕРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Довольства счастья нет ни в ком,</plain>
+            <plain>Р”РѕРІРѕР»СЊСЃС‚РІР° СЃС‡Р°СЃС‚СЊСЏ РЅРµС‚ РЅРё РІ РєРѕРј,</plain>
         </string>
         <string>
-            <plain>Нет в имени другом (другом)</plain>
+            <plain>РќРµС‚ РІ РёРјРµРЅРё РґСЂСѓРіРѕРј (РґСЂСѓРіРѕРј)</plain>
         </string>
         <string>
-            <plain>- Любовь и жизнь в Христе одном,</plain>
+            <plain>- Р›СЋР±РѕРІСЊ Рё Р¶РёР·РЅСЊ РІ РҐСЂРёСЃС‚Рµ РѕРґРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>Нашел я счастье в Нем.</plain>
+            <plain>РќР°С€РµР» СЏ СЃС‡Р°СЃС‚СЊРµ РІ РќРµРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Нашел все то, что я искал,</plain>
+            <plain>РќР°С€РµР» РІСЃРµ С‚Рѕ, С‡С‚Рѕ СЏ РёСЃРєР°Р»,</plain>
         </string>
         <string>
-            <plain>И больше, чем я ждал.</plain>
+            <plain>Р Р±РѕР»СЊС€Рµ, С‡РµРј СЏ Р¶РґР°Р».</plain>
         </string>
         <string>
-            <plain>Дары спасенья Ты мне дал, Я в мире их не знал.</plain>
+            <plain>Р”Р°СЂС‹ СЃРїР°СЃРµРЅСЊСЏ РўС‹ РјРЅРµ РґР°Р», РЇ РІ РјРёСЂРµ РёС… РЅРµ Р·РЅР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О счастьи сердцем я вздыхал,</plain>
+            <plain>Рћ СЃС‡Р°СЃС‚СЊРё СЃРµСЂРґС†РµРј СЏ РІР·РґС‹С…Р°Р»,</plain>
         </string>
         <string>
-            <plain>Тебя же не искал.</plain>
+            <plain>РўРµР±СЏ Р¶Рµ РЅРµ РёСЃРєР°Р».</plain>
         </string>
         <string>
-            <plain>Я мимо рая проходил,</plain>
+            <plain>РЇ РјРёРјРѕ СЂР°СЏ РїСЂРѕС…РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>Но Ты остановил.</plain>
+            <plain>РќРѕ РўС‹ РѕСЃС‚Р°РЅРѕРІРёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В разбитые сосуды я</plain>
+            <plain>Р’ СЂР°Р·Р±РёС‚С‹Рµ СЃРѕСЃСѓРґС‹ СЏ</plain>
         </string>
         <string>
-            <plain>Потухший взор бросал.</plain>
+            <plain>РџРѕС‚СѓС…С€РёР№ РІР·РѕСЂ Р±СЂРѕСЃР°Р».</plain>
         </string>
         <string>
-            <plain>Но утекла из них струя,</plain>
+            <plain>РќРѕ СѓС‚РµРєР»Р° РёР· РЅРёС… СЃС‚СЂСѓСЏ,</plain>
         </string>
         <string>
-            <plain>И в жажде я стонал.</plain>
+            <plain>Р РІ Р¶Р°Р¶РґРµ СЏ СЃС‚РѕРЅР°Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О счастьи я земном рыдал,</plain>
+            <plain>Рћ СЃС‡Р°СЃС‚СЊРё СЏ Р·РµРјРЅРѕРј СЂС‹РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Ни разу о Тебе,</plain>
+            <plain>РќРё СЂР°Р·Сѓ Рѕ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Пока мой робкий взор в мольбе</plain>
+            <plain>РџРѕРєР° РјРѕР№ СЂРѕР±РєРёР№ РІР·РѕСЂ РІ РјРѕР»СЊР±Рµ</plain>
         </string>
         <string>
-            <plain>Твой лик не увидал.</plain>
+            <plain>РўРІРѕР№ Р»РёРє РЅРµ СѓРІРёРґР°Р».</plain>
         </string>
     </verse>
 </psalm>

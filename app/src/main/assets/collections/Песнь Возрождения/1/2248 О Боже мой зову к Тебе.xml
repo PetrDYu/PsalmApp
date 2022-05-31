@@ -1,47 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2248" name="О Боже мой зову к Тебе" canon="false" text="" textRus="" music="">
+<psalm number="2248" name="Рћ Р‘РѕР¶Рµ РјРѕР№ Р·РѕРІСѓ Рє РўРµР±Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Боже мой, зову к Тебе,</plain>
+            <plain>Рћ Р‘РѕР¶Рµ РјРѕР№, Р·РѕРІСѓ Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Услышь меня, внемли мольбе.</plain>
+            <plain>РЈСЃР»С‹С€СЊ РјРµРЅСЏ, РІРЅРµРјР»Рё РјРѕР»СЊР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я здесь борюсь с грехом и злом,</plain>
+            <plain>РЇ Р·РґРµСЃСЊ Р±РѕСЂСЋСЃСЊ СЃ РіСЂРµС…РѕРј Рё Р·Р»РѕРј,</plain>
         </string>
         <string>
-            <plain>Я изнемог в пути моём,</plain>
+            <plain>РЇ РёР·РЅРµРјРѕРі РІ РїСѓС‚Рё РјРѕС‘Рј,</plain>
         </string>
         <string>
-            <plain>Теснят мне грудь печаль, тоска</plain>
+            <plain>РўРµСЃРЅСЏС‚ РјРЅРµ РіСЂСѓРґСЊ РїРµС‡Р°Р»СЊ, С‚РѕСЃРєР°</plain>
         </string>
         <string>
-            <plain>О той Стране, где нет греха,</plain>
+            <plain>Рћ С‚РѕР№ РЎС‚СЂР°РЅРµ, РіРґРµ РЅРµС‚ РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>Где нет ни мук, ни гроз, ни зла,</plain>
+            <plain>Р“РґРµ РЅРµС‚ РЅРё РјСѓРє, РЅРё РіСЂРѕР·, РЅРё Р·Р»Р°,</plain>
         </string>
         <string>
-            <plain>Никто не льёт там горьких слёз.</plain>
+            <plain>РќРёРєС‚Рѕ РЅРµ Р»СЊС‘С‚ С‚Р°Рј РіРѕСЂСЊРєРёС… СЃР»С‘Р·.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Там радость, мир, покой в сердцах,</plain>
+            <plain>РўР°Рј СЂР°РґРѕСЃС‚СЊ, РјРёСЂ, РїРѕРєРѕР№ РІ СЃРµСЂРґС†Р°С…,</plain>
         </string>
         <string>
-            <plain>Там чудный пирготов всем нам.</plain>
+            <plain>РўР°Рј С‡СѓРґРЅС‹Р№ РїРёСЂРіРѕС‚РѕРІ РІСЃРµРј РЅР°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Господь, услышь Ты вопль мой,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, СѓСЃР»С‹С€СЊ РўС‹ РІРѕРїР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Прими меня, теперь я Твой.</plain>
+            <plain>РџСЂРёРјРё РјРµРЅСЏ, С‚РµРїРµСЂСЊ СЏ РўРІРѕР№.</plain>
         </string>
     </verse>
 </psalm>

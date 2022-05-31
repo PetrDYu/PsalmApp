@@ -1,83 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="22" name="Ближе Господь к Тебе ближе к Тебе" canon="false" text="" textRus="" music="">
+<psalm number="22" name="Р‘Р»РёР¶Рµ Р“РѕСЃРїРѕРґСЊ Рє РўРµР±Рµ Р±Р»РёР¶Рµ Рє РўРµР±Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ближе, Господь, к Тебе, ближе к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ, Р±Р»РёР¶Рµ Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Хотя б крестом пришлось подняться мне;</plain>
+            <plain>РҐРѕС‚СЏ Р± РєСЂРµСЃС‚РѕРј РїСЂРёС€Р»РѕСЃСЊ РїРѕРґРЅСЏС‚СЊСЃСЏ РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>Нужно одно лишь мне:</plain>
+            <plain>РќСѓР¶РЅРѕ РѕРґРЅРѕ Р»РёС€СЊ РјРЅРµ:</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе к Тебе!</plain>
+            <plain>Р‘Р»РёР¶Рµ Рє РўРµР±Рµ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>В пустыне странник я, и ночь темна.</plain>
+            <plain>Р’ РїСѓСЃС‚С‹РЅРµ СЃС‚СЂР°РЅРЅРёРє СЏ, Рё РЅРѕС‡СЊ С‚РµРјРЅР°.</plain>
         </string>
         <string>
-            <plain>Отдых на камне лишь найдет глава.</plain>
+            <plain>РћС‚РґС‹С… РЅР° РєР°РјРЅРµ Р»РёС€СЊ РЅР°Р№РґРµС‚ РіР»Р°РІР°.</plain>
         </string>
         <string>
-            <plain>Но сердце и во сне</plain>
+            <plain>РќРѕ СЃРµСЂРґС†Рµ Рё РІРѕ СЃРЅРµ</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе к Тебе!</plain>
+            <plain>Р‘Р»РёР¶Рµ Рє РўРµР±Рµ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И пробудясь от сна песнь воспою;</plain>
+            <plain>Р РїСЂРѕР±СѓРґСЏСЃСЊ РѕС‚ СЃРЅР° РїРµСЃРЅСЊ РІРѕСЃРїРѕСЋ;</plain>
         </string>
         <string>
-            <plain>Твоей хвалой, Христос, плач заменю.</plain>
+            <plain>РўРІРѕРµР№ С…РІР°Р»РѕР№, РҐСЂРёСЃС‚РѕСЃ, РїР»Р°С‡ Р·Р°РјРµРЅСЋ.</plain>
         </string>
         <string>
-            <plain>В скорби отрада мне:</plain>
+            <plain>Р’ СЃРєРѕСЂР±Рё РѕС‚СЂР°РґР° РјРЅРµ:</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе к Тебе!</plain>
+            <plain>Р‘Р»РёР¶Рµ Рє РўРµР±Рµ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Когда земную жизнь окончу я,</plain>
+            <plain>РљРѕРіРґР° Р·РµРјРЅСѓСЋ Р¶РёР·РЅСЊ РѕРєРѕРЅС‡Сѓ СЏ,</plain>
         </string>
         <string>
-            <plain>Когда во славу Ты введешь меня,</plain>
+            <plain>РљРѕРіРґР° РІРѕ СЃР»Р°РІСѓ РўС‹ РІРІРµРґРµС€СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Вечная радость мне:</plain>
+            <plain>Р’РµС‡РЅР°СЏ СЂР°РґРѕСЃС‚СЊ РјРЅРµ:</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе, Господь, к Тебе,</plain>
+            <plain>Р‘Р»РёР¶Рµ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ближе к Тебе!</plain>
+            <plain>Р‘Р»РёР¶Рµ Рє РўРµР±Рµ!</plain>
         </string>
     </verse>
 </psalm>

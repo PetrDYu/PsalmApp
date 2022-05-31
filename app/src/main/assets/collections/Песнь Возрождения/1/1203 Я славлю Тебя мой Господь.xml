@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1203" name="Я славлю Тебя мой Господь" canon="false" text="" textRus="" music="">
+<psalm number="1203" name="РЇ СЃР»Р°РІР»СЋ РўРµР±СЏ РјРѕР№ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я славлю Тебя, мой Господь,</plain>
+            <plain>РЇ СЃР»Р°РІР»СЋ РўРµР±СЏ, РјРѕР№ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>всем сердцем и душой.</plain>
+            <plain>РІСЃРµРј СЃРµСЂРґС†РµРј Рё РґСѓС€РѕР№.</plain>
         </string>
         <string>
-            <plain>Песнь хвалы из уст пусть льётся</plain>
+            <plain>РџРµСЃРЅСЊ С…РІР°Р»С‹ РёР· СѓСЃС‚ РїСѓСЃС‚СЊ Р»СЊС‘С‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>За милость надо мной.</plain>
+            <plain>Р—Р° РјРёР»РѕСЃС‚СЊ РЅР°РґРѕ РјРЅРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Новое все, новое все</plain>
+            <plain>РќРѕРІРѕРµ РІСЃРµ, РЅРѕРІРѕРµ РІСЃРµ</plain>
         </string>
         <string>
-            <plain>И новое все дала.</plain>
+            <plain>Р РЅРѕРІРѕРµ РІСЃРµ РґР°Р»Р°.</plain>
         </string>
         <string>
-            <plain>Новое все, новое все</plain>
+            <plain>РќРѕРІРѕРµ РІСЃРµ, РЅРѕРІРѕРµ РІСЃРµ</plain>
         </string>
         <string>
-            <plain>О, кровь Христа меня спасла, и новое все дала!</plain>
+            <plain>Рћ, РєСЂРѕРІСЊ РҐСЂРёСЃС‚Р° РјРµРЅСЏ СЃРїР°СЃР»Р°, Рё РЅРѕРІРѕРµ РІСЃРµ РґР°Р»Р°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, как моя душа была всегда омрачена,</plain>
+            <plain>Рћ, РєР°Рє РјРѕСЏ РґСѓС€Р° Р±С‹Р»Р° РІСЃРµРіРґР° РѕРјСЂР°С‡РµРЅР°,</plain>
         </string>
         <string>
-            <plain>- Теперь же пусть звучит хвала</plain>
+            <plain>- РўРµРїРµСЂСЊ Р¶Рµ РїСѓСЃС‚СЊ Р·РІСѓС‡РёС‚ С…РІР°Р»Р°</plain>
         </string>
         <string>
-            <plain>И день и ночь - всегда.</plain>
+            <plain>Р РґРµРЅСЊ Рё РЅРѕС‡СЊ - РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я раньше все мечтал о том,</plain>
+            <plain>РЇ СЂР°РЅСЊС€Рµ РІСЃРµ РјРµС‡С‚Р°Р» Рѕ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>как больше нагрешить.</plain>
+            <plain>РєР°Рє Р±РѕР»СЊС€Рµ РЅР°РіСЂРµС€РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Теперь же для Тебя,</plain>
+            <plain>РўРµРїРµСЂСЊ Р¶Рµ РґР»СЏ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Господь, хочу я послужить.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, С…РѕС‡Сѓ СЏ РїРѕСЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Как страшно было жить в грехах,</plain>
+            <plain>РљР°Рє СЃС‚СЂР°С€РЅРѕ Р±С‹Р»Рѕ Р¶РёС‚СЊ РІ РіСЂРµС…Р°С…,</plain>
         </string>
         <string>
-            <plain>- Теперь же я спасен!</plain>
+            <plain>- РўРµРїРµСЂСЊ Р¶Рµ СЏ СЃРїР°СЃРµРЅ!</plain>
         </string>
         <string>
-            <plain>Через кровь Христа искуплен я.</plain>
+            <plain>Р§РµСЂРµР· РєСЂРѕРІСЊ РҐСЂРёСЃС‚Р° РёСЃРєСѓРїР»РµРЅ СЏ.</plain>
         </string>
         <string>
-            <plain>О, счастлив, счастлив я</plain>
+            <plain>Рћ, СЃС‡Р°СЃС‚Р»РёРІ, СЃС‡Р°СЃС‚Р»РёРІ СЏ</plain>
         </string>
     </verse>
 </psalm>

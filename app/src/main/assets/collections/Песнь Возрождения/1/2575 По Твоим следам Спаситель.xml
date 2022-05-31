@@ -1,84 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2575" name="По Твоим следам Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="2575" name="РџРѕ РўРІРѕРёРј СЃР»РµРґР°Рј РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>По Твоим следам, Спаситель,</plain>
+            <plain>РџРѕ РўРІРѕРёРј СЃР»РµРґР°Рј, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Шествовать всегда, везде</plain>
+            <plain>РЁРµСЃС‚РІРѕРІР°С‚СЊ РІСЃРµРіРґР°, РІРµР·РґРµ</plain>
         </string>
         <string>
-            <plain>Я готов, как Твой служитель,</plain>
+            <plain>РЇ РіРѕС‚РѕРІ, РєР°Рє РўРІРѕР№ СЃР»СѓР¶РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>В чувстве, слове и труде.</plain>
+            <plain>Р’ С‡СѓРІСЃС‚РІРµ, СЃР»РѕРІРµ Рё С‚СЂСѓРґРµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>И я знаю, что с Тобою я к могуществу приду,</plain>
+            <plain>Р СЏ Р·РЅР°СЋ, С‡С‚Рѕ СЃ РўРѕР±РѕСЋ СЏ Рє РјРѕРіСѓС‰РµСЃС‚РІСѓ РїСЂРёРґСѓ,</plain>
         </string>
         <string>
-            <plain>И над хижиной земною</plain>
+            <plain>Р РЅР°Рґ С…РёР¶РёРЅРѕР№ Р·РµРјРЅРѕСЋ</plain>
         </string>
         <string>
-            <plain>Знак победы я найду.</plain>
+            <plain>Р—РЅР°Рє РїРѕР±РµРґС‹ СЏ РЅР°Р№РґСѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дай, чтоб шел я за Тобою</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± С€РµР» СЏ Р·Р° РўРѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Мыслью, бьющейся внутри;</plain>
+            <plain>РњС‹СЃР»СЊСЋ, Р±СЊСЋС‰РµР№СЃСЏ РІРЅСѓС‚СЂРё;</plain>
         </string>
         <string>
-            <plain>Сердцу щедрого рукою</plain>
+            <plain>РЎРµСЂРґС†Сѓ С‰РµРґСЂРѕРіРѕ СЂСѓРєРѕСЋ</plain>
         </string>
         <string>
-            <plain>Чувство свыше подари;</plain>
+            <plain>Р§СѓРІСЃС‚РІРѕ СЃРІС‹С€Рµ РїРѕРґР°СЂРё;</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чтоб, как Ты, неся страданья,</plain>
+            <plain>Р§С‚РѕР±, РєР°Рє РўС‹, РЅРµСЃСЏ СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Мог другим я сострадать,</plain>
+            <plain>РњРѕРі РґСЂСѓРіРёРј СЏ СЃРѕСЃС‚СЂР°РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб, твори благодеянья,</plain>
+            <plain>Р§С‚РѕР±, С‚РІРѕСЂРё Р±Р»Р°РіРѕРґРµСЏРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>О себе мог забывать...</plain>
+            <plain>Рћ СЃРµР±Рµ РјРѕРі Р·Р°Р±С‹РІР°С‚СЊ...</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Дай уста без укоризны;</plain>
+            <plain>Р”Р°Р№ СѓСЃС‚Р° Р±РµР· СѓРєРѕСЂРёР·РЅС‹;</plain>
         </string>
         <string>
-            <plain>Слово кротости, любви</plain>
+            <plain>РЎР»РѕРІРѕ РєСЂРѕС‚РѕСЃС‚Рё, Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Дай мне сеять в этой жизни;</plain>
+            <plain>Р”Р°Р№ РјРЅРµ СЃРµСЏС‚СЊ РІ СЌС‚РѕР№ Р¶РёР·РЅРё;</plain>
         </string>
         <string>
-            <plain>Речь молитвой вдохнови.</plain>
+            <plain>Р РµС‡СЊ РјРѕР»РёС‚РІРѕР№ РІРґРѕС…РЅРѕРІРё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Дай, чтоб в мире мое дело</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РІ РјРёСЂРµ РјРѕРµ РґРµР»Рѕ</plain>
         </string>
         <string>
-            <plain>Было свято пред Тобой;</plain>
+            <plain>Р‘С‹Р»Рѕ СЃРІСЏС‚Рѕ РїСЂРµРґ РўРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>Чтоб, как Ты, душою смелой</plain>
+            <plain>Р§С‚РѕР±, РєР°Рє РўС‹, РґСѓС€РѕСЋ СЃРјРµР»РѕР№</plain>
         </string>
         <string>
-            <plain>Нес я подвиг трудовой...</plain>
+            <plain>РќРµСЃ СЏ РїРѕРґРІРёРі С‚СЂСѓРґРѕРІРѕР№...</plain>
         </string>
     </verse>
 </psalm>

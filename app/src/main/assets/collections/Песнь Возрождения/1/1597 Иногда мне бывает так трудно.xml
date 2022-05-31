@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1597" name="Иногда мне бывает так трудно" canon="false" text="" textRus="" music="">
+<psalm number="1597" name="РРЅРѕРіРґР° РјРЅРµ Р±С‹РІР°РµС‚ С‚Р°Рє С‚СЂСѓРґРЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иногда мне бывает так трудно,</plain>
+            <plain>РРЅРѕРіРґР° РјРЅРµ Р±С‹РІР°РµС‚ С‚Р°Рє С‚СЂСѓРґРЅРѕ,</plain>
         </string>
         <string>
-            <plain>И в волнах жизни я погибаю.</plain>
+            <plain>Р РІ РІРѕР»РЅР°С… Р¶РёР·РЅРё СЏ РїРѕРіРёР±Р°СЋ.</plain>
         </string>
         <string>
-            <plain>Словно в море разбитое судно,</plain>
+            <plain>РЎР»РѕРІРЅРѕ РІ РјРѕСЂРµ СЂР°Р·Р±РёС‚РѕРµ СЃСѓРґРЅРѕ,</plain>
         </string>
         <string>
-            <plain>И о помощи к Богу взываю.</plain>
+            <plain>Р Рѕ РїРѕРјРѕС‰Рё Рє Р‘РѕРіСѓ РІР·С‹РІР°СЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, мой Спаситель,</plain>
+            <plain>Рћ, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Я к Тебе прихожу в мольбе,</plain>
+            <plain>РЇ Рє РўРµР±Рµ РїСЂРёС…РѕР¶Сѓ РІ РјРѕР»СЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>Услышь меня,</plain>
+            <plain>РЈСЃР»С‹С€СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Во мне так мало силы.</plain>
+            <plain>Р’Рѕ РјРЅРµ С‚Р°Рє РјР°Р»Рѕ СЃРёР»С‹.</plain>
         </string>
         <string>
-            <plain>Излей мне в душу святого огня.</plain>
+            <plain>РР·Р»РµР№ РјРЅРµ РІ РґСѓС€Сѓ СЃРІСЏС‚РѕРіРѕ РѕРіРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Чтоб светил мне в пути он до самой могилы.</plain>
+            <plain>Р§С‚РѕР± СЃРІРµС‚РёР» РјРЅРµ РІ РїСѓС‚Рё РѕРЅ РґРѕ СЃР°РјРѕР№ РјРѕРіРёР»С‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Только не к кому мне обратиться,</plain>
+            <plain>РўРѕР»СЊРєРѕ РЅРµ Рє РєРѕРјСѓ РјРЅРµ РѕР±СЂР°С‚РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Ты один лишь помощник, мой Бог.</plain>
+            <plain>РўС‹ РѕРґРёРЅ Р»РёС€СЊ РїРѕРјРѕС‰РЅРёРє, РјРѕР№ Р‘РѕРі.</plain>
         </string>
         <string>
-            <plain>Я хочу лишь Тебе помолиться.</plain>
+            <plain>РЇ С…РѕС‡Сѓ Р»РёС€СЊ РўРµР±Рµ РїРѕРјРѕР»РёС‚СЊСЃСЏ.</plain>
         </string>
         <string>
-            <plain>Ты избавишь меня от тревог.</plain>
+            <plain>РўС‹ РёР·Р±Р°РІРёС€СЊ РјРµРЅСЏ РѕС‚ С‚СЂРµРІРѕРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я хочу тебя. Боже, прославить,</plain>
+            <plain>РЇ С…РѕС‡Сѓ С‚РµР±СЏ. Р‘РѕР¶Рµ, РїСЂРѕСЃР»Р°РІРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Я хочу благодарность воздать,</plain>
+            <plain>РЇ С…РѕС‡Сѓ Р±Р»Р°РіРѕРґР°СЂРЅРѕСЃС‚СЊ РІРѕР·РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Что Ты мог нас от смерти избавить</plain>
+            <plain>Р§С‚Рѕ РўС‹ РјРѕРі РЅР°СЃ РѕС‚ СЃРјРµСЂС‚Рё РёР·Р±Р°РІРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И на небе жизнь вечную дать.</plain>
+            <plain>Р РЅР° РЅРµР±Рµ Р¶РёР·РЅСЊ РІРµС‡РЅСѓСЋ РґР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1827" name="Встав сегодня утром рано" canon="false" text="" textRus="" music="">
+<psalm number="1827" name="Р’СЃС‚Р°РІ СЃРµРіРѕРґРЅСЏ СѓС‚СЂРѕРј СЂР°РЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Встав сегодня утром рано,</plain>
+            <plain>Р’СЃС‚Р°РІ СЃРµРіРѕРґРЅСЏ СѓС‚СЂРѕРј СЂР°РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Помолился ль ты?</plain>
+            <plain>РџРѕРјРѕР»РёР»СЃСЏ Р»СЊ С‚С‹?</plain>
         </string>
         <string>
-            <plain>Попросил ли ты защиты,</plain>
+            <plain>РџРѕРїСЂРѕСЃРёР» Р»Рё С‚С‹ Р·Р°С‰РёС‚С‹,</plain>
         </string>
         <string>
-            <plain>Помолился ль ты?</plain>
+            <plain>РџРѕРјРѕР»РёР»СЃСЏ Р»СЊ С‚С‹?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Как молитва помогает,</plain>
+            <plain>РљР°Рє РјРѕР»РёС‚РІР° РїРѕРјРѕРіР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Ночью зажигает свет,</plain>
+            <plain>РќРѕС‡СЊСЋ Р·Р°Р¶РёРіР°РµС‚ СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>И когда изменят силы,</plain>
+            <plain>Р РєРѕРіРґР° РёР·РјРµРЅСЏС‚ СЃРёР»С‹,</plain>
         </string>
         <string>
-            <plain>Помолился ль ты?</plain>
+            <plain>РџРѕРјРѕР»РёР»СЃСЏ Р»СЊ С‚С‹?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Божью милость людям надо,</plain>
+            <plain>Р‘РѕР¶СЊСЋ РјРёР»РѕСЃС‚СЊ Р»СЋРґСЏРј РЅР°РґРѕ,</plain>
         </string>
         <string>
-            <plain>Помолился ль ты?</plain>
+            <plain>РџРѕРјРѕР»РёР»СЃСЏ Р»СЊ С‚С‹?</plain>
         </string>
         <string>
-            <plain>И когда изменят силы,</plain>
+            <plain>Р РєРѕРіРґР° РёР·РјРµРЅСЏС‚ СЃРёР»С‹,</plain>
         </string>
         <string>
-            <plain>Помолился ль ты?</plain>
+            <plain>РџРѕРјРѕР»РёР»СЃСЏ Р»СЊ С‚С‹?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Мир молитва охраняет,</plain>
+            <plain>РњРёСЂ РјРѕР»РёС‚РІР° РѕС…СЂР°РЅСЏРµС‚,</plain>
         </string>
         <string>
-            <plain>Помолился ль ты?</plain>
+            <plain>РџРѕРјРѕР»РёР»СЃСЏ Р»СЊ С‚С‹?</plain>
         </string>
         <string>
-            <plain>С верою молитесь Богу.</plain>
+            <plain>РЎ РІРµСЂРѕСЋ РјРѕР»РёС‚РµСЃСЊ Р‘РѕРіСѓ.</plain>
         </string>
         <string>
-            <plain>Помолился ль ты?</plain>
+            <plain>РџРѕРјРѕР»РёР»СЃСЏ Р»СЊ С‚С‹?</plain>
         </string>
     </verse>
 </psalm>

@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="202" name="На ристалище Христа" canon="false" text="" textRus="" music="">
+<psalm number="202" name="РќР° СЂРёСЃС‚Р°Р»РёС‰Рµ РҐСЂРёСЃС‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На ристалище Христа</plain>
+            <plain>РќР° СЂРёСЃС‚Р°Р»РёС‰Рµ РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>К цели вечной мы бежим,</plain>
+            <plain>Рљ С†РµР»Рё РІРµС‡РЅРѕР№ РјС‹ Р±РµР¶РёРј,</plain>
         </string>
         <string>
-            <plain>Вот уж видны ворота</plain>
+            <plain>Р’РѕС‚ СѓР¶ РІРёРґРЅС‹ РІРѕСЂРѕС‚Р°</plain>
         </string>
         <string>
-            <plain>Бесконечной жизни с Ним.</plain>
+            <plain>Р‘РµСЃРєРѕРЅРµС‡РЅРѕР№ Р¶РёР·РЅРё СЃ РќРёРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Вот вдали горят венцы,</plain>
+            <plain>Р’РѕС‚ РІРґР°Р»Рё РіРѕСЂСЏС‚ РІРµРЅС†С‹,</plain>
         </string>
         <string>
-            <plain>Припасенные для нас;</plain>
+            <plain>РџСЂРёРїР°СЃРµРЅРЅС‹Рµ РґР»СЏ РЅР°СЃ;</plain>
         </string>
         <string>
-            <plain>Отворяются дворцы;</plain>
+            <plain>РћС‚РІРѕСЂСЏСЋС‚СЃСЏ РґРІРѕСЂС†С‹;</plain>
         </string>
         <string>
-            <plain>Близок, близок славный час!</plain>
+            <plain>Р‘Р»РёР·РѕРє, Р±Р»РёР·РѕРє СЃР»Р°РІРЅС‹Р№ С‡Р°СЃ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Мы бежали от Христа,</plain>
+            <plain>РњС‹ Р±РµР¶Р°Р»Рё РѕС‚ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Он настиг над бездной нас;</plain>
+            <plain>РћРЅ РЅР°СЃС‚РёРі РЅР°Рґ Р±РµР·РґРЅРѕР№ РЅР°СЃ;</plain>
         </string>
         <string>
-            <plain>И рукой любви с креста</plain>
+            <plain>Р СЂСѓРєРѕР№ Р»СЋР±РІРё СЃ РєСЂРµСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>От погибели нас спас.</plain>
+            <plain>РћС‚ РїРѕРіРёР±РµР»Рё РЅР°СЃ СЃРїР°СЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>А теперь пред нами путь:</plain>
+            <plain>Рђ С‚РµРїРµСЂСЊ РїСЂРµРґ РЅР°РјРё РїСѓС‚СЊ:</plain>
         </string>
         <string>
-            <plain>Мы должны за Ним бежать;</plain>
+            <plain>РњС‹ РґРѕР»Р¶РЅС‹ Р·Р° РќРёРј Р±РµР¶Р°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Чтобы вечно отдохнуть,</plain>
+            <plain>Р§С‚РѕР±С‹ РІРµС‡РЅРѕ РѕС‚РґРѕС…РЅСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Мы должны Его догнать.</plain>
+            <plain>РњС‹ РґРѕР»Р¶РЅС‹ Р•РіРѕ РґРѕРіРЅР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Проходя Его путем,</plain>
+            <plain>РџСЂРѕС…РѕРґСЏ Р•РіРѕ РїСѓС‚РµРј,</plain>
         </string>
         <string>
-            <plain>Поднимаемся мы с Ним</plain>
+            <plain>РџРѕРґРЅРёРјР°РµРјСЃСЏ РјС‹ СЃ РќРёРј</plain>
         </string>
         <string>
-            <plain>Ввысь святую над грехом</plain>
+            <plain>Р’РІС‹СЃСЊ СЃРІСЏС‚СѓСЋ РЅР°Рґ РіСЂРµС…РѕРј</plain>
         </string>
         <string>
-            <plain>И над миром суетным.</plain>
+            <plain>Р РЅР°Рґ РјРёСЂРѕРј СЃСѓРµС‚РЅС‹Рј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Братья, взор наш устремим</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, РІР·РѕСЂ РЅР°С€ СѓСЃС‚СЂРµРјРёРј</plain>
         </string>
         <string>
-            <plain>На Его поднятый перст,</plain>
+            <plain>РќР° Р•РіРѕ РїРѕРґРЅСЏС‚С‹Р№ РїРµСЂСЃС‚,</plain>
         </string>
         <string>
-            <plain>И скорее вслед за Ним</plain>
+            <plain>Р СЃРєРѕСЂРµРµ РІСЃР»РµРґ Р·Р° РќРёРј</plain>
         </string>
         <string>
-            <plain>Мимо, мимо грешных мест!</plain>
+            <plain>РњРёРјРѕ, РјРёРјРѕ РіСЂРµС€РЅС‹С… РјРµСЃС‚!</plain>
         </string>
     </verse>
 </psalm>

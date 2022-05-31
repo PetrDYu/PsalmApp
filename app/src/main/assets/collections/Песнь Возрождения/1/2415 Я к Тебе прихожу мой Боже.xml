@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2415" name="Я к Тебе прихожу мой Боже" canon="false" text="" textRus="" music="">
+<psalm number="2415" name="РЇ Рє РўРµР±Рµ РїСЂРёС…РѕР¶Сѓ РјРѕР№ Р‘РѕР¶Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я к Тебе прихожу, мой Боже,</plain>
+            <plain>РЇ Рє РўРµР±Рµ РїСЂРёС…РѕР¶Сѓ, РјРѕР№ Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Колени свои преклоня,</plain>
+            <plain>РљРѕР»РµРЅРё СЃРІРѕРё РїСЂРµРєР»РѕРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Ты стал мне всего дороже</plain>
+            <plain>РўС‹ СЃС‚Р°Р» РјРЅРµ РІСЃРµРіРѕ РґРѕСЂРѕР¶Рµ</plain>
         </string>
         <string>
-            <plain>Во свете земного дня.</plain>
+            <plain>Р’Рѕ СЃРІРµС‚Рµ Р·РµРјРЅРѕРіРѕ РґРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Пусть к небу летит молитва,</plain>
+            <plain>РџСѓСЃС‚СЊ Рє РЅРµР±Сѓ Р»РµС‚РёС‚ РјРѕР»РёС‚РІР°,</plain>
         </string>
         <string>
-            <plain>С ресниц упадёт слеза.</plain>
+            <plain>РЎ СЂРµСЃРЅРёС† СѓРїР°РґС‘С‚ СЃР»РµР·Р°.</plain>
         </string>
         <string>
-            <plain>Моя жизнь - это грозная битва,</plain>
+            <plain>РњРѕСЏ Р¶РёР·РЅСЊ - СЌС‚Рѕ РіСЂРѕР·РЅР°СЏ Р±РёС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Награда моя - небеса.</plain>
+            <plain>РќР°РіСЂР°РґР° РјРѕСЏ - РЅРµР±РµСЃР°.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Пред Тобой я склоняюсь низко,</plain>
+            <plain>РџСЂРµРґ РўРѕР±РѕР№ СЏ СЃРєР»РѕРЅСЏСЋСЃСЊ РЅРёР·РєРѕ,</plain>
         </string>
         <string>
-            <plain>Надежду в себе храня.</plain>
+            <plain>РќР°РґРµР¶РґСѓ РІ СЃРµР±Рµ С…СЂР°РЅСЏ.</plain>
         </string>
         <string>
-            <plain>Я верю, я знаю, Ты близко,</plain>
+            <plain>РЇ РІРµСЂСЋ, СЏ Р·РЅР°СЋ, РўС‹ Р±Р»РёР·РєРѕ,</plain>
         </string>
         <string>
-            <plain>Ты видишь, Ты любишь меня.</plain>
+            <plain>РўС‹ РІРёРґРёС€СЊ, РўС‹ Р»СЋР±РёС€СЊ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>О, много я в жизни падал,</plain>
+            <plain>Рћ, РјРЅРѕРіРѕ СЏ РІ Р¶РёР·РЅРё РїР°РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Не раз Ты меня поднимал.</plain>
+            <plain>РќРµ СЂР°Р· РўС‹ РјРµРЅСЏ РїРѕРґРЅРёРјР°Р».</plain>
         </string>
         <string>
-            <plain>Душой я чего-то жаждал,</plain>
+            <plain>Р”СѓС€РѕР№ СЏ С‡РµРіРѕ-С‚Рѕ Р¶Р°Р¶РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Чего-то в смятенье искал.</plain>
+            <plain>Р§РµРіРѕ-С‚Рѕ РІ СЃРјСЏС‚РµРЅСЊРµ РёСЃРєР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты светом наполнил душу,</plain>
+            <plain>РўС‹ СЃРІРµС‚РѕРј РЅР°РїРѕР»РЅРёР» РґСѓС€Сѓ,</plain>
         </string>
         <string>
-            <plain>Направил на верный путь.</plain>
+            <plain>РќР°РїСЂР°РІРёР» РЅР° РІРµСЂРЅС‹Р№ РїСѓС‚СЊ.</plain>
         </string>
         <string>
-            <plain>По нему я пойду, не струшу,</plain>
+            <plain>РџРѕ РЅРµРјСѓ СЏ РїРѕР№РґСѓ, РЅРµ СЃС‚СЂСѓС€Сѓ,</plain>
         </string>
         <string>
-            <plain>Только рядом со мною будь.</plain>
+            <plain>РўРѕР»СЊРєРѕ СЂСЏРґРѕРј СЃРѕ РјРЅРѕСЋ Р±СѓРґСЊ.</plain>
         </string>
         <string>
-            <plain>Пусть к небу летит молитва,</plain>
+            <plain>РџСѓСЃС‚СЊ Рє РЅРµР±Сѓ Р»РµС‚РёС‚ РјРѕР»РёС‚РІР°,</plain>
         </string>
         <string>
-            <plain>С ресниц упадёт слеза.</plain>
+            <plain>РЎ СЂРµСЃРЅРёС† СѓРїР°РґС‘С‚ СЃР»РµР·Р°.</plain>
         </string>
         <string>
-            <plain>Моя жизнь - это грозная битва,</plain>
+            <plain>РњРѕСЏ Р¶РёР·РЅСЊ - СЌС‚Рѕ РіСЂРѕР·РЅР°СЏ Р±РёС‚РІР°,</plain>
         </string>
         <string>
-            <plain>Награда моя - небеса.</plain>
+            <plain>РќР°РіСЂР°РґР° РјРѕСЏ - РЅРµР±РµСЃР°.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,106 +1,106 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1505" name="В этот час брачный час" canon="false" text="" textRus="" music="">
+<psalm number="1505" name="Р’ СЌС‚РѕС‚ С‡Р°СЃ Р±СЂР°С‡РЅС‹Р№ С‡Р°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В этот час, брачный час.</plain>
+            <plain>Р’ СЌС‚РѕС‚ С‡Р°СЃ, Р±СЂР°С‡РЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
         <string>
-            <plain>Поздравляем вас,</plain>
+            <plain>РџРѕР·РґСЂР°РІР»СЏРµРј РІР°СЃ,</plain>
         </string>
         <string>
-            <plain>И любви, Христовой любви</plain>
+            <plain>Р Р»СЋР±РІРё, РҐСЂРёСЃС‚РѕРІРѕР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Желаем мы для вас.</plain>
+            <plain>Р–РµР»Р°РµРј РјС‹ РґР»СЏ РІР°СЃ.</plain>
         </string>
         <string>
-            <plain>В этот час, брачный час.</plain>
+            <plain>Р’ СЌС‚РѕС‚ С‡Р°СЃ, Р±СЂР°С‡РЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
         <string>
-            <plain>Желаем мы для вас:</plain>
+            <plain>Р–РµР»Р°РµРј РјС‹ РґР»СЏ РІР°СЃ:</plain>
         </string>
         <string>
-            <plain>Дружно жить, Христа любить.</plain>
+            <plain>Р”СЂСѓР¶РЅРѕ Р¶РёС‚СЊ, РҐСЂРёСЃС‚Р° Р»СЋР±РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Мир в сердцах хранить.</plain>
+            <plain>РњРёСЂ РІ СЃРµСЂРґС†Р°С… С…СЂР°РЅРёС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дорогие друзья!</plain>
+            <plain>Р”РѕСЂРѕРіРёРµ РґСЂСѓР·СЊСЏ!</plain>
         </string>
         <string>
-            <plain>В этот торжественный час</plain>
+            <plain>Р’ СЌС‚РѕС‚ С‚РѕСЂР¶РµСЃС‚РІРµРЅРЅС‹Р№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Все поздравляют вас в радости духа.</plain>
+            <plain>Р’СЃРµ РїРѕР·РґСЂР°РІР»СЏСЋС‚ РІР°СЃ РІ СЂР°РґРѕСЃС‚Рё РґСѓС…Р°.</plain>
         </string>
         <string>
-            <plain>Я же хочу вам на память сказать:</plain>
+            <plain>РЇ Р¶Рµ С…РѕС‡Сѓ РІР°Рј РЅР° РїР°РјСЏС‚СЊ СЃРєР°Р·Р°С‚СЊ:</plain>
         </string>
         <string>
-            <plain>Любите, любите, любите друг друга!</plain>
+            <plain>Р›СЋР±РёС‚Рµ, Р»СЋР±РёС‚Рµ, Р»СЋР±РёС‚Рµ РґСЂСѓРі РґСЂСѓРіР°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В этот час, веселый час</plain>
+            <plain>Р’ СЌС‚РѕС‚ С‡Р°СЃ, РІРµСЃРµР»С‹Р№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Смотрим мы на вас,</plain>
+            <plain>РЎРјРѕС‚СЂРёРј РјС‹ РЅР° РІР°СЃ,</plain>
         </string>
         <string>
-            <plain>И вся наша молодежь поздравляет вас.</plain>
+            <plain>Р РІСЃСЏ РЅР°С€Р° РјРѕР»РѕРґРµР¶СЊ РїРѕР·РґСЂР°РІР»СЏРµС‚ РІР°СЃ.</plain>
         </string>
         <string>
-            <plain>Как красива и нежна Брачная чета;</plain>
+            <plain>РљР°Рє РєСЂР°СЃРёРІР° Рё РЅРµР¶РЅР° Р‘СЂР°С‡РЅР°СЏ С‡РµС‚Р°;</plain>
         </string>
         <string>
-            <plain>Вместе с вами радостны</plain>
+            <plain>Р’РјРµСЃС‚Рµ СЃ РІР°РјРё СЂР°РґРѕСЃС‚РЅС‹</plain>
         </string>
         <string>
-            <plain>Все ваши друзья.</plain>
+            <plain>Р’СЃРµ РІР°С€Рё РґСЂСѓР·СЊСЏ.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>В любви все возможно:</plain>
+            <plain>Р’ Р»СЋР±РІРё РІСЃРµ РІРѕР·РјРѕР¶РЅРѕ:</plain>
         </string>
         <string>
-            <plain>И возраст, и расстояние.</plain>
+            <plain>Р РІРѕР·СЂР°СЃС‚, Рё СЂР°СЃСЃС‚РѕСЏРЅРёРµ.</plain>
         </string>
         <string>
-            <plain>Любовь - это счастье.</plain>
+            <plain>Р›СЋР±РѕРІСЊ - СЌС‚Рѕ СЃС‡Р°СЃС‚СЊРµ.</plain>
         </string>
         <string>
-            <plain>Которому нет окончания.</plain>
+            <plain>РљРѕС‚РѕСЂРѕРјСѓ РЅРµС‚ РѕРєРѕРЅС‡Р°РЅРёСЏ.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>В этот час, брачный час.</plain>
+            <plain>Р’ СЌС‚РѕС‚ С‡Р°СЃ, Р±СЂР°С‡РЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
         <string>
-            <plain>Поздравляем вас,</plain>
+            <plain>РџРѕР·РґСЂР°РІР»СЏРµРј РІР°СЃ,</plain>
         </string>
         <string>
-            <plain>И любви, Христовой любви</plain>
+            <plain>Р Р»СЋР±РІРё, РҐСЂРёСЃС‚РѕРІРѕР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Желаем мы для вас.</plain>
+            <plain>Р–РµР»Р°РµРј РјС‹ РґР»СЏ РІР°СЃ.</plain>
         </string>
         <string>
-            <plain>В этот час, брачный час.</plain>
+            <plain>Р’ СЌС‚РѕС‚ С‡Р°СЃ, Р±СЂР°С‡РЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
         <string>
-            <plain>Желаем мы для вас:</plain>
+            <plain>Р–РµР»Р°РµРј РјС‹ РґР»СЏ РІР°СЃ:</plain>
         </string>
         <string>
-            <plain>Дружно жить, Христа любить.</plain>
+            <plain>Р”СЂСѓР¶РЅРѕ Р¶РёС‚СЊ, РҐСЂРёСЃС‚Р° Р»СЋР±РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Мир в сердцах хранить.</plain>
+            <plain>РњРёСЂ РІ СЃРµСЂРґС†Р°С… С…СЂР°РЅРёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2882" name="Не опоздай сын блудный" canon="false" text="" textRus="" music="">
+<psalm number="2882" name="РќРµ РѕРїРѕР·РґР°Р№ СЃС‹РЅ Р±Р»СѓРґРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не опоздай, сын блудный,</plain>
+            <plain>РќРµ РѕРїРѕР·РґР°Р№, СЃС‹РЅ Р±Р»СѓРґРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>в дом свой родной прийти,</plain>
+            <plain>РІ РґРѕРј СЃРІРѕР№ СЂРѕРґРЅРѕР№ РїСЂРёР№С‚Рё,</plain>
         </string>
         <string>
-            <plain>там тебя ожидает</plain>
+            <plain>С‚Р°Рј С‚РµР±СЏ РѕР¶РёРґР°РµС‚</plain>
         </string>
         <string>
-            <plain>сердце Отца в любви;</plain>
+            <plain>СЃРµСЂРґС†Рµ РћС‚С†Р° РІ Р»СЋР±РІРё;</plain>
         </string>
         <string>
-            <plain>там твой Отец тоскует,</plain>
+            <plain>С‚Р°Рј С‚РІРѕР№ РћС‚РµС† С‚РѕСЃРєСѓРµС‚,</plain>
         </string>
         <string>
-            <plain>часто Он слёзы льёт,</plain>
+            <plain>С‡Р°СЃС‚Рѕ РћРЅ СЃР»С‘Р·С‹ Р»СЊС‘С‚,</plain>
         </string>
         <string>
-            <plain>вдаль Он глядит с надеждой:</plain>
+            <plain>РІРґР°Р»СЊ РћРЅ РіР»СЏРґРёС‚ СЃ РЅР°РґРµР¶РґРѕР№:</plain>
         </string>
         <string>
-            <plain>скоро ли сын придёт?</plain>
+            <plain>СЃРєРѕСЂРѕ Р»Рё СЃС‹РЅ РїСЂРёРґС‘С‚?</plain>
         </string>
         <string>
-            <plain>Скоро ли сын придёт?</plain>
+            <plain>РЎРєРѕСЂРѕ Р»Рё СЃС‹РЅ РїСЂРёРґС‘С‚?</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Горе тебя постигло,</plain>
+            <plain>Р“РѕСЂРµ С‚РµР±СЏ РїРѕСЃС‚РёРіР»Рѕ,</plain>
         </string>
         <string>
-            <plain>счастье твоё ушло</plain>
+            <plain>СЃС‡Р°СЃС‚СЊРµ С‚РІРѕС‘ СѓС€Р»Рѕ</plain>
         </string>
         <string>
-            <plain>и все друзья забыли,</plain>
+            <plain>Рё РІСЃРµ РґСЂСѓР·СЊСЏ Р·Р°Р±С‹Р»Рё,</plain>
         </string>
         <string>
-            <plain>в сердце темно - темно.</plain>
+            <plain>РІ СЃРµСЂРґС†Рµ С‚РµРјРЅРѕ - С‚РµРјРЅРѕ.</plain>
         </string>
         <string>
-            <plain>- В доме Отца есть счастье,</plain>
+            <plain>- Р’ РґРѕРјРµ РћС‚С†Р° РµСЃС‚СЊ СЃС‡Р°СЃС‚СЊРµ,</plain>
         </string>
         <string>
-            <plain>в доме Отца покой,</plain>
+            <plain>РІ РґРѕРјРµ РћС‚С†Р° РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>в доме Отца - отрада,</plain>
+            <plain>РІ РґРѕРјРµ РћС‚С†Р° - РѕС‚СЂР°РґР°,</plain>
         </string>
         <string>
-            <plain>это - твой дом родной.</plain>
+            <plain>СЌС‚Рѕ - С‚РІРѕР№ РґРѕРј СЂРѕРґРЅРѕР№.</plain>
         </string>
         <string>
-            <plain>Это твой дом родной.</plain>
+            <plain>Р­С‚Рѕ С‚РІРѕР№ РґРѕРј СЂРѕРґРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если тебе и стыдно,</plain>
+            <plain>Р•СЃР»Рё С‚РµР±Рµ Рё СЃС‚С‹РґРЅРѕ,</plain>
         </string>
         <string>
-            <plain>совесть твоя твердит,</plain>
+            <plain>СЃРѕРІРµСЃС‚СЊ С‚РІРѕСЏ С‚РІРµСЂРґРёС‚,</plain>
         </string>
         <string>
-            <plain>что поступил ты плохо:</plain>
+            <plain>С‡С‚Рѕ РїРѕСЃС‚СѓРїРёР» С‚С‹ РїР»РѕС…Рѕ:</plain>
         </string>
         <string>
-            <plain>можно ли всё простить?</plain>
+            <plain>РјРѕР¶РЅРѕ Р»Рё РІСЃС‘ РїСЂРѕСЃС‚РёС‚СЊ?</plain>
         </string>
         <string>
-            <plain>- Хоть глубоко паденье,</plain>
+            <plain>- РҐРѕС‚СЊ РіР»СѓР±РѕРєРѕ РїР°РґРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>хоть велика вина:</plain>
+            <plain>С…РѕС‚СЊ РІРµР»РёРєР° РІРёРЅР°:</plain>
         </string>
         <string>
-            <plain>любит тебя Отец твой,</plain>
+            <plain>Р»СЋР±РёС‚ С‚РµР±СЏ РћС‚РµС† С‚РІРѕР№,</plain>
         </string>
         <string>
-            <plain>это ведь часть твоя.</plain>
+            <plain>СЌС‚Рѕ РІРµРґСЊ С‡Р°СЃС‚СЊ С‚РІРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Это ведь часть твоя.</plain>
+            <plain>Р­С‚Рѕ РІРµРґСЊ С‡Р°СЃС‚СЊ С‚РІРѕСЏ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="296" name="Кротко и нежно Иисус призывает" canon="false" text="" textRus="" music="">
+<psalm number="296" name="РљСЂРѕС‚РєРѕ Рё РЅРµР¶РЅРѕ РРёСЃСѓСЃ РїСЂРёР·С‹РІР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Кротко и нежно Иисус призывает,</plain>
+            <plain>РљСЂРѕС‚РєРѕ Рё РЅРµР¶РЅРѕ РРёСЃСѓСЃ РїСЂРёР·С‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Всех приглашает любя.</plain>
+            <plain>Р’СЃРµС… РїСЂРёРіР»Р°С€Р°РµС‚ Р»СЋР±СЏ.</plain>
         </string>
         <string>
-            <plain>Стал у порога, стучит, ожидает,</plain>
+            <plain>РЎС‚Р°Р» Сѓ РїРѕСЂРѕРіР°, СЃС‚СѓС‡РёС‚, РѕР¶РёРґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Ждет Он меня и тебя.</plain>
+            <plain>Р–РґРµС‚ РћРЅ РјРµРЅСЏ Рё С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Приди, приди!</plain>
+            <plain>РџСЂРёРґРё, РїСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>Всякий, кто жаждет, приди!</plain>
+            <plain>Р’СЃСЏРєРёР№, РєС‚Рѕ Р¶Р°Р¶РґРµС‚, РїСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>Нежно, с любовью Иисус призывает,</plain>
+            <plain>РќРµР¶РЅРѕ, СЃ Р»СЋР±РѕРІСЊСЋ РРёСЃСѓСЃ РїСЂРёР·С‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Грешник, не медли, приди!</plain>
+            <plain>Р“СЂРµС€РЅРёРє, РЅРµ РјРµРґР»Рё, РїСЂРёРґРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Можно ли медлить, когда Искупитель</plain>
+            <plain>РњРѕР¶РЅРѕ Р»Рё РјРµРґР»РёС‚СЊ, РєРѕРіРґР° РСЃРєСѓРїРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Просит, о каждом скорбя?</plain>
+            <plain>РџСЂРѕСЃРёС‚, Рѕ РєР°Р¶РґРѕРј СЃРєРѕСЂР±СЏ?</plain>
         </string>
         <string>
-            <plain>Дар благодати принять не хотите ль?</plain>
+            <plain>Р”Р°СЂ Р±Р»Р°РіРѕРґР°С‚Рё РїСЂРёРЅСЏС‚СЊ РЅРµ С…РѕС‚РёС‚Рµ Р»СЊ?</plain>
         </string>
         <string>
-            <plain>Дар для меня и тебя.</plain>
+            <plain>Р”Р°СЂ РґР»СЏ РјРµРЅСЏ Рё С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Тени сгущаются, смерть торжествует,</plain>
+            <plain>РўРµРЅРё СЃРіСѓС‰Р°СЋС‚СЃСЏ, СЃРјРµСЂС‚СЊ С‚РѕСЂР¶РµСЃС‚РІСѓРµС‚,</plain>
         </string>
         <string>
-            <plain>Всех беспощадно губя.</plain>
+            <plain>Р’СЃРµС… Р±РµСЃРїРѕС‰Р°РґРЅРѕ РіСѓР±СЏ.</plain>
         </string>
         <string>
-            <plain>Время проходит, в обитель иную</plain>
+            <plain>Р’СЂРµРјСЏ РїСЂРѕС…РѕРґРёС‚, РІ РѕР±РёС‚РµР»СЊ РёРЅСѓСЋ</plain>
         </string>
         <string>
-            <plain>Кличут меня и тебя.</plain>
+            <plain>РљР»РёС‡СѓС‚ РјРµРЅСЏ Рё С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Мир и любовь нам Господь обещает,</plain>
+            <plain>РњРёСЂ Рё Р»СЋР±РѕРІСЊ РЅР°Рј Р“РѕСЃРїРѕРґСЊ РѕР±РµС‰Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>В жертву отдал Он Себя.</plain>
+            <plain>Р’ Р¶РµСЂС‚РІСѓ РѕС‚РґР°Р» РћРЅ РЎРµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Мы согрешили, но Он нам прощает,</plain>
+            <plain>РњС‹ СЃРѕРіСЂРµС€РёР»Рё, РЅРѕ РћРЅ РЅР°Рј РїСЂРѕС‰Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Примет меня и тебя!</plain>
+            <plain>РџСЂРёРјРµС‚ РјРµРЅСЏ Рё С‚РµР±СЏ!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="88" name="Боже жизнь возьми" canon="false" text="" textRus="" music="">
+<psalm number="88" name="Р‘РѕР¶Рµ Р¶РёР·РЅСЊ РІРѕР·СЊРјРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, жизнь возьми: она</plain>
+            <plain>Р‘РѕР¶Рµ, Р¶РёР·РЅСЊ РІРѕР·СЊРјРё: РѕРЅР°</plain>
         </string>
         <string>
-            <plain>Вся Тебе посвящена.</plain>
+            <plain>Р’СЃСЏ РўРµР±Рµ РїРѕСЃРІСЏС‰РµРЅР°.</plain>
         </string>
         <string>
-            <plain>Дни возьми, пусть каждый час</plain>
+            <plain>Р”РЅРё РІРѕР·СЊРјРё, РїСѓСЃС‚СЊ РєР°Р¶РґС‹Р№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Слышишь Ты хваленья глас!</plain>
+            <plain>РЎР»С‹С€РёС€СЊ РўС‹ С…РІР°Р»РµРЅСЊСЏ РіР»Р°СЃ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Чтоб, все силы съединя,</plain>
+            <plain>Р§С‚РѕР±, РІСЃРµ СЃРёР»С‹ СЃСЉРµРґРёРЅСЏ,</plain>
         </string>
         <string>
-            <plain>За Твой дар, за жизнь, за все</plain>
+            <plain>Р—Р° РўРІРѕР№ РґР°СЂ, Р·Р° Р¶РёР·РЅСЊ, Р·Р° РІСЃРµ</plain>
         </string>
         <string>
-            <plain>Сердце, полное огня,</plain>
+            <plain>РЎРµСЂРґС†Рµ, РїРѕР»РЅРѕРµ РѕРіРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Имя славило Твое.</plain>
+            <plain>РРјСЏ СЃР»Р°РІРёР»Рѕ РўРІРѕРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Возьми руки, их к Тебе</plain>
+            <plain>Р’РѕР·СЊРјРё СЂСѓРєРё, РёС… Рє РўРµР±Рµ</plain>
         </string>
         <string>
-            <plain>Простираю я в мольбе;</plain>
+            <plain>РџСЂРѕСЃС‚РёСЂР°СЋ СЏ РІ РјРѕР»СЊР±Рµ;</plain>
         </string>
         <string>
-            <plain>Возьми ноги, должно им</plain>
+            <plain>Р’РѕР·СЊРјРё РЅРѕРіРё, РґРѕР»Р¶РЅРѕ РёРј</plain>
         </string>
         <string>
-            <plain>По стезям ходить Твоим.</plain>
+            <plain>РџРѕ СЃС‚РµР·СЏРј С…РѕРґРёС‚СЊ РўРІРѕРёРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Возьми голос, чтоб он мог</plain>
+            <plain>Р’РѕР·СЊРјРё РіРѕР»РѕСЃ, С‡С‚РѕР± РѕРЅ РјРѕРі</plain>
         </string>
         <string>
-            <plain>Петь Тебе, мой Царь, мой Бог!</plain>
+            <plain>РџРµС‚СЊ РўРµР±Рµ, РјРѕР№ Р¦Р°СЂСЊ, РјРѕР№ Р‘РѕРі!</plain>
         </string>
         <string>
-            <plain>Дай устам достойным быть</plain>
+            <plain>Р”Р°Р№ СѓСЃС‚Р°Рј РґРѕСЃС‚РѕР№РЅС‹Рј Р±С‹С‚СЊ</plain>
         </string>
         <string>
-            <plain>О Тебе благовестить.</plain>
+            <plain>Рћ РўРµР±Рµ Р±Р»Р°РіРѕРІРµСЃС‚РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Возьми волю, должно ей</plain>
+            <plain>Р’РѕР·СЊРјРё РІРѕР»СЋ, РґРѕР»Р¶РЅРѕ РµР№</plain>
         </string>
         <string>
-            <plain>Волей только быть Твоей.</plain>
+            <plain>Р’РѕР»РµР№ С‚РѕР»СЊРєРѕ Р±С‹С‚СЊ РўРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Ум направь, чтоб Твой закон</plain>
+            <plain>РЈРј РЅР°РїСЂР°РІСЊ, С‡С‚РѕР± РўРІРѕР№ Р·Р°РєРѕРЅ</plain>
         </string>
         <string>
-            <plain>В силах был исполнить он.</plain>
+            <plain>Р’ СЃРёР»Р°С… Р±С‹Р» РёСЃРїРѕР»РЅРёС‚СЊ РѕРЅ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Золото и серебро,</plain>
+            <plain>Р—РѕР»РѕС‚Рѕ Рё СЃРµСЂРµР±СЂРѕ,</plain>
         </string>
         <string>
-            <plain>Все возьми мое добро;</plain>
+            <plain>Р’СЃРµ РІРѕР·СЊРјРё РјРѕРµ РґРѕР±СЂРѕ;</plain>
         </string>
         <string>
-            <plain>Возьми сердце, Сам устрой</plain>
+            <plain>Р’РѕР·СЊРјРё СЃРµСЂРґС†Рµ, РЎР°Рј СѓСЃС‚СЂРѕР№</plain>
         </string>
         <string>
-            <plain>В нем престол Ты царский Свой.</plain>
+            <plain>Р’ РЅРµРј РїСЂРµСЃС‚РѕР» РўС‹ С†Р°СЂСЃРєРёР№ РЎРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Всю возьми любовь мою,</plain>
+            <plain>Р’СЃСЋ РІРѕР·СЊРјРё Р»СЋР±РѕРІСЊ РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>С ней у ног Твоих стою,</plain>
+            <plain>РЎ РЅРµР№ Сѓ РЅРѕРі РўРІРѕРёС… СЃС‚РѕСЋ,</plain>
         </string>
         <string>
-            <plain>О, возьми всего меня!</plain>
+            <plain>Рћ, РІРѕР·СЊРјРё РІСЃРµРіРѕ РјРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Навсегда, навек Твой я.</plain>
+            <plain>РќР°РІСЃРµРіРґР°, РЅР°РІРµРє РўРІРѕР№ СЏ.</plain>
         </string>
     </verse>
 </psalm>

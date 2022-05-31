@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1984" name="Вспоминая как Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="1984" name="Р’СЃРїРѕРјРёРЅР°СЏ РєР°Рє РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вспоминая, как Спаситель</plain>
+            <plain>Р’СЃРїРѕРјРёРЅР°СЏ, РєР°Рє РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Был у Лазаря в дому,</plain>
+            <plain>Р‘С‹Р» Сѓ Р›Р°Р·Р°СЂСЏ РІ РґРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Как украсилась обитель</plain>
+            <plain>РљР°Рє СѓРєСЂР°СЃРёР»Р°СЃСЊ РѕР±РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Чудной вечерей Ему,</plain>
+            <plain>Р§СѓРґРЅРѕР№ РІРµС‡РµСЂРµР№ Р•РјСѓ,</plain>
         </string>
         <string>
-            <plain>Как Мария влагу мира</plain>
+            <plain>РљР°Рє РњР°СЂРёСЏ РІР»Р°РіСѓ РјРёСЂР°</plain>
         </string>
         <string>
-            <plain>Возливала на Него,</plain>
+            <plain>Р’РѕР·Р»РёРІР°Р»Р° РЅР° РќРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>- Вечерю любви и мира</plain>
+            <plain>- Р’РµС‡РµСЂСЋ Р»СЋР±РІРё Рё РјРёСЂР°</plain>
         </string>
         <string>
-            <plain>Мы устроим в честь Его.</plain>
+            <plain>РњС‹ СѓСЃС‚СЂРѕРёРј РІ С‡РµСЃС‚СЊ Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Пригласим мольбой сердечной</plain>
+            <plain>РџСЂРёРіР»Р°СЃРёРј РјРѕР»СЊР±РѕР№ СЃРµСЂРґРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>К нам на вечерю Христа;</plain>
+            <plain>Рљ РЅР°Рј РЅР° РІРµС‡РµСЂСЋ РҐСЂРёСЃС‚Р°;</plain>
         </string>
         <string>
-            <plain>Пусть с хвалою безупречной</plain>
+            <plain>РџСѓСЃС‚СЊ СЃ С…РІР°Р»РѕСЋ Р±РµР·СѓРїСЂРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Воспоют Ему уста;</plain>
+            <plain>Р’РѕСЃРїРѕСЋС‚ Р•РјСѓ СѓСЃС‚Р°;</plain>
         </string>
         <string>
-            <plain>Как елей благоуханный,</plain>
+            <plain>РљР°Рє РµР»РµР№ Р±Р»Р°РіРѕСѓС…Р°РЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Принесем к Его стопам</plain>
+            <plain>РџСЂРёРЅРµСЃРµРј Рє Р•РіРѕ СЃС‚РѕРїР°Рј</plain>
         </string>
         <string>
-            <plain>Дар духовный, дар желанный</plain>
+            <plain>Р”Р°СЂ РґСѓС…РѕРІРЅС‹Р№, РґР°СЂ Р¶РµР»Р°РЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>- Рвенье к Божиим трудам.</plain>
+            <plain>- Р РІРµРЅСЊРµ Рє Р‘РѕР¶РёРёРј С‚СЂСѓРґР°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, как сладко и приятно</plain>
+            <plain>Рћ, РєР°Рє СЃР»Р°РґРєРѕ Рё РїСЂРёСЏС‚РЅРѕ</plain>
         </string>
         <string>
-            <plain>Быть в общеньи со Христом</plain>
+            <plain>Р‘С‹С‚СЊ РІ РѕР±С‰РµРЅСЊРё СЃРѕ РҐСЂРёСЃС‚РѕРј</plain>
         </string>
         <string>
-            <plain>И вкушать от благодатной</plain>
+            <plain>Р РІРєСѓС€Р°С‚СЊ РѕС‚ Р±Р»Р°РіРѕРґР°С‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Пищи сердцем и умом.</plain>
+            <plain>РџРёС‰Рё СЃРµСЂРґС†РµРј Рё СѓРјРѕРј.</plain>
         </string>
         <string>
-            <plain>Мы с Христом; Спаситель с нами;</plain>
+            <plain>РњС‹ СЃ РҐСЂРёСЃС‚РѕРј; РЎРїР°СЃРёС‚РµР»СЊ СЃ РЅР°РјРё;</plain>
         </string>
         <string>
-            <plain>К нам течет любовь, как свет;</plain>
+            <plain>Рљ РЅР°Рј С‚РµС‡РµС‚ Р»СЋР±РѕРІСЊ, РєР°Рє СЃРІРµС‚;</plain>
         </string>
         <string>
-            <plain>И Ему любовь сердцами</plain>
+            <plain>Р Р•РјСѓ Р»СЋР±РѕРІСЊ СЃРµСЂРґС†Р°РјРё</plain>
         </string>
         <string>
-            <plain>Принесем, друзья, в ответ.</plain>
+            <plain>РџСЂРёРЅРµСЃРµРј, РґСЂСѓР·СЊСЏ, РІ РѕС‚РІРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, как сладко и приятно.</plain>
+            <plain>Рћ, РєР°Рє СЃР»Р°РґРєРѕ Рё РїСЂРёСЏС‚РЅРѕ.</plain>
         </string>
         <string>
-            <plain>Быть в общеньи со Христом!</plain>
+            <plain>Р‘С‹С‚СЊ РІ РѕР±С‰РµРЅСЊРё СЃРѕ РҐСЂРёСЃС‚РѕРј!</plain>
         </string>
         <string>
-            <plain>С Ним печаль земли превратной</plain>
+            <plain>РЎ РќРёРј РїРµС‡Р°Р»СЊ Р·РµРјР»Рё РїСЂРµРІСЂР°С‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Забывается умом;</plain>
+            <plain>Р—Р°Р±С‹РІР°РµС‚СЃСЏ СѓРјРѕРј;</plain>
         </string>
         <string>
-            <plain>И горит в сердцах желанье</plain>
+            <plain>Р РіРѕСЂРёС‚ РІ СЃРµСЂРґС†Р°С… Р¶РµР»Р°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Радость неба разделять</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РЅРµР±Р° СЂР°Р·РґРµР»СЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>И о жертве, о страданьи</plain>
+            <plain>Р Рѕ Р¶РµСЂС‚РІРµ, Рѕ СЃС‚СЂР°РґР°РЅСЊРё</plain>
         </string>
         <string>
-            <plain>Новой песнью воспевать.</plain>
+            <plain>РќРѕРІРѕР№ РїРµСЃРЅСЊСЋ РІРѕСЃРїРµРІР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

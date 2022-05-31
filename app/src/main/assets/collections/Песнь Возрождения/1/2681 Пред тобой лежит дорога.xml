@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2681" name="Пред тобой лежит дорога" canon="false" text="" textRus="" music="">
+<psalm number="2681" name="РџСЂРµРґ С‚РѕР±РѕР№ Р»РµР¶РёС‚ РґРѕСЂРѕРіР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пред тобой лежит дорога,</plain>
+            <plain>РџСЂРµРґ С‚РѕР±РѕР№ Р»РµР¶РёС‚ РґРѕСЂРѕРіР°,</plain>
         </string>
         <string>
-            <plain>Весь заросший узкий путь.</plain>
+            <plain>Р’РµСЃСЊ Р·Р°СЂРѕСЃС€РёР№ СѓР·РєРёР№ РїСѓС‚СЊ.</plain>
         </string>
         <string>
-            <plain>О тернистую дорогу</plain>
+            <plain>Рћ С‚РµСЂРЅРёСЃС‚СѓСЋ РґРѕСЂРѕРіСѓ</plain>
         </string>
         <string>
-            <plain>Колешь ноги; раны жгут.</plain>
+            <plain>РљРѕР»РµС€СЊ РЅРѕРіРё; СЂР°РЅС‹ Р¶РіСѓС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Не робей, пусть песня льется,</plain>
+            <plain>РќРµ СЂРѕР±РµР№, РїСѓСЃС‚СЊ РїРµСЃРЅСЏ Р»СЊРµС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Видна Родина твоя.</plain>
+            <plain>Р’РёРґРЅР° Р РѕРґРёРЅР° С‚РІРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Все в любви там встрепенется,</plain>
+            <plain>Р’СЃРµ РІ Р»СЋР±РІРё С‚Р°Рј РІСЃС‚СЂРµРїРµРЅРµС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>С пеньем Господа хваля.</plain>
+            <plain>РЎ РїРµРЅСЊРµРј Р“РѕСЃРїРѕРґР° С…РІР°Р»СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О иди, еще немного,</plain>
+            <plain>Рћ РёРґРё, РµС‰Рµ РЅРµРјРЅРѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>Скоро, скоро ты придешь.</plain>
+            <plain>РЎРєРѕСЂРѕ, СЃРєРѕСЂРѕ С‚С‹ РїСЂРёРґРµС€СЊ.</plain>
         </string>
         <string>
-            <plain>В лучезарности чертога</plain>
+            <plain>Р’ Р»СѓС‡РµР·Р°СЂРЅРѕСЃС‚Рё С‡РµСЂС‚РѕРіР°</plain>
         </string>
         <string>
-            <plain>Отдых, радость ,ты найдешь.</plain>
+            <plain>РћС‚РґС‹С…, СЂР°РґРѕСЃС‚СЊ ,С‚С‹ РЅР°Р№РґРµС€СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>А пока, пока мы в теле,</plain>
+            <plain>Рђ РїРѕРєР°, РїРѕРєР° РјС‹ РІ С‚РµР»Рµ,</plain>
         </string>
         <string>
-            <plain>Будем думать лишь о том,</plain>
+            <plain>Р‘СѓРґРµРј РґСѓРјР°С‚СЊ Р»РёС€СЊ Рѕ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Как достичь небесной цели,</plain>
+            <plain>РљР°Рє РґРѕСЃС‚РёС‡СЊ РЅРµР±РµСЃРЅРѕР№ С†РµР»Рё,</plain>
         </string>
         <string>
-            <plain>Как войти ,в небесный дом.</plain>
+            <plain>РљР°Рє РІРѕР№С‚Рё ,РІ РЅРµР±РµСЃРЅС‹Р№ РґРѕРј.</plain>
         </string>
     </verse>
 </psalm>

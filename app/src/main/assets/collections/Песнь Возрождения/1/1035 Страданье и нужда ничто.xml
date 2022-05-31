@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1035" name="Страданье и нужда ничто" canon="false" text="" textRus="" music="">
+<psalm number="1035" name="РЎС‚СЂР°РґР°РЅСЊРµ Рё РЅСѓР¶РґР° РЅРёС‡С‚Рѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Страданье и нужда - ничто,</plain>
+            <plain>РЎС‚СЂР°РґР°РЅСЊРµ Рё РЅСѓР¶РґР° - РЅРёС‡С‚Рѕ,</plain>
         </string>
         <string>
-            <plain>Коль в сердце Божия любовь.</plain>
+            <plain>РљРѕР»СЊ РІ СЃРµСЂРґС†Рµ Р‘РѕР¶РёСЏ Р»СЋР±РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>И если в свете ходит кто,</plain>
+            <plain>Р РµСЃР»Рё РІ СЃРІРµС‚Рµ С…РѕРґРёС‚ РєС‚Рѕ,</plain>
         </string>
         <string>
-            <plain>Того от зла хранит Сам Бог.</plain>
+            <plain>РўРѕРіРѕ РѕС‚ Р·Р»Р° С…СЂР°РЅРёС‚ РЎР°Рј Р‘РѕРі.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Горе и нужда - ничто,</plain>
+            <plain>Р“РѕСЂРµ Рё РЅСѓР¶РґР° - РЅРёС‡С‚Рѕ,</plain>
         </string>
         <string>
-            <plain>Где Божия любовь.</plain>
+            <plain>Р“РґРµ Р‘РѕР¶РёСЏ Р»СЋР±РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Ведь тем, кто любит, верует.</plain>
+            <plain>Р’РµРґСЊ С‚РµРј, РєС‚Рѕ Р»СЋР±РёС‚, РІРµСЂСѓРµС‚.</plain>
         </string>
         <string>
-            <plain>Ко благу все содействует.</plain>
+            <plain>РљРѕ Р±Р»Р°РіСѓ РІСЃРµ СЃРѕРґРµР№СЃС‚РІСѓРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На счастье мира тленное</plain>
+            <plain>РќР° СЃС‡Р°СЃС‚СЊРµ РјРёСЂР° С‚Р»РµРЅРЅРѕРµ</plain>
         </string>
         <string>
-            <plain>О друг, свой взор не обращай.</plain>
+            <plain>Рћ РґСЂСѓРі, СЃРІРѕР№ РІР·РѕСЂ РЅРµ РѕР±СЂР°С‰Р°Р№.</plain>
         </string>
         <string>
-            <plain>Лишь в Боге счастье вечное -</plain>
+            <plain>Р›РёС€СЊ РІ Р‘РѕРіРµ СЃС‡Р°СЃС‚СЊРµ РІРµС‡РЅРѕРµ -</plain>
         </string>
         <string>
-            <plain>Все силы, жизнь Ему отдай.</plain>
+            <plain>Р’СЃРµ СЃРёР»С‹, Р¶РёР·РЅСЊ Р•РјСѓ РѕС‚РґР°Р№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог этот мир так возлюбил,</plain>
+            <plain>Р‘РѕРі СЌС‚РѕС‚ РјРёСЂ С‚Р°Рє РІРѕР·Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>Что отдал Сына Своего.</plain>
+            <plain>Р§С‚Рѕ РѕС‚РґР°Р» РЎС‹РЅР° РЎРІРѕРµРіРѕ.</plain>
         </string>
         <string>
-            <plain>И неужели вместе с Ним</plain>
+            <plain>Р РЅРµСѓР¶РµР»Рё РІРјРµСЃС‚Рµ СЃ РќРёРј</plain>
         </string>
         <string>
-            <plain>Он не дарует и всего?</plain>
+            <plain>РћРЅ РЅРµ РґР°СЂСѓРµС‚ Рё РІСЃРµРіРѕ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Пошлет Бог время лучшее -</plain>
+            <plain>РџРѕС€Р»РµС‚ Р‘РѕРі РІСЂРµРјСЏ Р»СѓС‡С€РµРµ -</plain>
         </string>
         <string>
-            <plain>Рассеет тучи грозные.</plain>
+            <plain>Р Р°СЃСЃРµРµС‚ С‚СѓС‡Рё РіСЂРѕР·РЅС‹Рµ.</plain>
         </string>
         <string>
-            <plain>Он скорби превратит в добро.</plain>
+            <plain>РћРЅ СЃРєРѕСЂР±Рё РїСЂРµРІСЂР°С‚РёС‚ РІ РґРѕР±СЂРѕ.</plain>
         </string>
         <string>
-            <plain>Вслед за дождем даст солнышко.</plain>
+            <plain>Р’СЃР»РµРґ Р·Р° РґРѕР¶РґРµРј РґР°СЃС‚ СЃРѕР»РЅС‹С€РєРѕ.</plain>
         </string>
     </verse>
 </psalm>

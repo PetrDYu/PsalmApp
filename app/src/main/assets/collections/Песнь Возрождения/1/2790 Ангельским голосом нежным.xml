@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2790" name="Ангельским голосом нежным" canon="false" text="" textRus="" music="">
+<psalm number="2790" name="РђРЅРіРµР»СЊСЃРєРёРј РіРѕР»РѕСЃРѕРј РЅРµР¶РЅС‹Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ангельским голосом нежным</plain>
+            <plain>РђРЅРіРµР»СЊСЃРєРёРј РіРѕР»РѕСЃРѕРј РЅРµР¶РЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Шепчет надежда в груди;</plain>
+            <plain>РЁРµРїС‡РµС‚ РЅР°РґРµР¶РґР° РІ РіСЂСѓРґРё;</plain>
         </string>
         <string>
-            <plain>Будит к порывам священным,</plain>
+            <plain>Р‘СѓРґРёС‚ Рє РїРѕСЂС‹РІР°Рј СЃРІСЏС‰РµРЅРЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Радость несет для души.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РЅРµСЃРµС‚ РґР»СЏ РґСѓС€Рё.</plain>
         </string>
         <string>
-            <plain>Жди, тают сумраки ночи,</plain>
+            <plain>Р–РґРё, С‚Р°СЋС‚ СЃСѓРјСЂР°РєРё РЅРѕС‡Рё,</plain>
         </string>
         <string>
-            <plain>Жди, скоро буря пройдет,</plain>
+            <plain>Р–РґРё, СЃРєРѕСЂРѕ Р±СѓСЂСЏ РїСЂРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Жди, скоро высохнут очи,</plain>
+            <plain>Р–РґРё, СЃРєРѕСЂРѕ РІС‹СЃРѕС…РЅСѓС‚ РѕС‡Рё,</plain>
         </string>
         <string>
-            <plain>Бог утешены пошлет.</plain>
+            <plain>Р‘РѕРі СѓС‚РµС€РµРЅС‹ РїРѕС€Р»РµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Шепчет надежда и к Богу зовет.</plain>
+            <plain>РЁРµРїС‡РµС‚ РЅР°РґРµР¶РґР° Рё Рє Р‘РѕРіСѓ Р·РѕРІРµС‚.</plain>
         </string>
         <string>
-            <plain>(Шепчет в груди)</plain>
+            <plain>(РЁРµРїС‡РµС‚ РІ РіСЂСѓРґРё)</plain>
         </string>
         <string>
-            <plain>Радость и мир она сердцу несет.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ Рё РјРёСЂ РѕРЅР° СЃРµСЂРґС†Сѓ РЅРµСЃРµС‚.</plain>
         </string>
         <string>
-            <plain>(Радость и мир,Она сердцу несет, несет).</plain>
+            <plain>(Р Р°РґРѕСЃС‚СЊ Рё РјРёСЂ,РћРЅР° СЃРµСЂРґС†Сѓ РЅРµСЃРµС‚, РЅРµСЃРµС‚).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если не видно рассвета,</plain>
+            <plain>Р•СЃР»Рё РЅРµ РІРёРґРЅРѕ СЂР°СЃСЃРІРµС‚Р°,</plain>
         </string>
         <string>
-            <plain>Душу сомнения томят,</plain>
+            <plain>Р”СѓС€Сѓ СЃРѕРјРЅРµРЅРёСЏ С‚РѕРјСЏС‚,</plain>
         </string>
         <string>
-            <plain>Помни, чем глубже мрак ночи,</plain>
+            <plain>РџРѕРјРЅРё, С‡РµРј РіР»СѓР±Р¶Рµ РјСЂР°Рє РЅРѕС‡Рё,</plain>
         </string>
         <string>
-            <plain>Звезды светлее горят.</plain>
+            <plain>Р—РІРµР·РґС‹ СЃРІРµС‚Р»РµРµ РіРѕСЂСЏС‚.</plain>
         </string>
         <string>
-            <plain>Вот уж тьма ночи проходит,</plain>
+            <plain>Р’РѕС‚ СѓР¶ С‚СЊРјР° РЅРѕС‡Рё РїСЂРѕС…РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>Вслед день отрады грядет,</plain>
+            <plain>Р’СЃР»РµРґ РґРµРЅСЊ РѕС‚СЂР°РґС‹ РіСЂСЏРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Слово и Дух возвещают:</plain>
+            <plain>РЎР»РѕРІРѕ Рё Р”СѓС… РІРѕР·РІРµС‰Р°СЋС‚:</plain>
         </string>
         <string>
-            <plain>Скоро Господь наш придет.</plain>
+            <plain>РЎРєРѕСЂРѕ Р“РѕСЃРїРѕРґСЊ РЅР°С€ РїСЂРёРґРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вера нужна для победы,</plain>
+            <plain>Р’РµСЂР° РЅСѓР¶РЅР° РґР»СЏ РїРѕР±РµРґС‹,</plain>
         </string>
         <string>
-            <plain>Чтобы Христа обрести;</plain>
+            <plain>Р§С‚РѕР±С‹ РҐСЂРёСЃС‚Р° РѕР±СЂРµСЃС‚Рё;</plain>
         </string>
         <string>
-            <plain>Время придет, и надежда</plain>
+            <plain>Р’СЂРµРјСЏ РїСЂРёРґРµС‚, Рё РЅР°РґРµР¶РґР°</plain>
         </string>
         <string>
-            <plain>Место уступит любви.</plain>
+            <plain>РњРµСЃС‚Рѕ СѓСЃС‚СѓРїРёС‚ Р»СЋР±РІРё.</plain>
         </string>
         <string>
-            <plain>В вечных обителях рая</plain>
+            <plain>Р’ РІРµС‡РЅС‹С… РѕР±РёС‚РµР»СЏС… СЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Радость полнит нас вновь.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РїРѕР»РЅРёС‚ РЅР°СЃ РІРЅРѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Кончится вера, надежда,</plain>
+            <plain>РљРѕРЅС‡РёС‚СЃСЏ РІРµСЂР°, РЅР°РґРµР¶РґР°,</plain>
         </string>
         <string>
-            <plain>Вечно прибудет любовь.</plain>
+            <plain>Р’РµС‡РЅРѕ РїСЂРёР±СѓРґРµС‚ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1669" name="Скоро Ты придешь" canon="false" text="" textRus="" music="">
+<psalm number="1669" name="РЎРєРѕСЂРѕ РўС‹ РїСЂРёРґРµС€СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Скоро Ты придешь</plain>
+            <plain>РЎРєРѕСЂРѕ РўС‹ РїСЂРёРґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>И меня возьмешь к Себе.</plain>
+            <plain>Р РјРµРЅСЏ РІРѕР·СЊРјРµС€СЊ Рє РЎРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Только нужно мне</plain>
+            <plain>РўРѕР»СЊРєРѕ РЅСѓР¶РЅРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>Верным быть Тебе.</plain>
+            <plain>Р’РµСЂРЅС‹Рј Р±С‹С‚СЊ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты ведь Сам сказал:</plain>
+            <plain>РўС‹ РІРµРґСЊ РЎР°Рј СЃРєР°Р·Р°Р»:</plain>
         </string>
         <string>
-            <plain>Будь верен Мне.</plain>
+            <plain>Р‘СѓРґСЊ РІРµСЂРµРЅ РњРЅРµ.</plain>
         </string>
         <string>
-            <plain>Но найдешь ли Ты</plain>
+            <plain>РќРѕ РЅР°Р№РґРµС€СЊ Р»Рё РўС‹</plain>
         </string>
         <string>
-            <plain>Веру на земле?</plain>
+            <plain>Р’РµСЂСѓ РЅР° Р·РµРјР»Рµ?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дай мне каждый день</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РєР°Р¶РґС‹Р№ РґРµРЅСЊ</plain>
         </string>
         <string>
-            <plain>Пребывать в Тебе.</plain>
+            <plain>РџСЂРµР±С‹РІР°С‚СЊ РІ РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Я молю Тебя,</plain>
+            <plain>РЇ РјРѕР»СЋ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>О, услышь меня.</plain>
+            <plain>Рћ, СѓСЃР»С‹С€СЊ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай мне побеждать.</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РїРѕР±РµР¶РґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Вражьи силы отражать.</plain>
+            <plain>Р’СЂР°Р¶СЊРё СЃРёР»С‹ РѕС‚СЂР°Р¶Р°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Чтобы приближать</plain>
+            <plain>Р§С‚РѕР±С‹ РїСЂРёР±Р»РёР¶Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Царствие Твое.</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРёРµ РўРІРѕРµ.</plain>
         </string>
     </verse>
 </psalm>

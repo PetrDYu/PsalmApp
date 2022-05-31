@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="208" name="Вы готовы слышен призыв" canon="false" text="" textRus="" music="">
+<psalm number="208" name="Р’С‹ РіРѕС‚РѕРІС‹ СЃР»С‹С€РµРЅ РїСЂРёР·С‹РІ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>"Вы готовы, - слышен призыв, -</plain>
+            <plain>"Р’С‹ РіРѕС‚РѕРІС‹, - СЃР»С‹С€РµРЅ РїСЂРёР·С‹РІ, -</plain>
         </string>
         <string>
-            <plain>И на крест пойти со Мной?"</plain>
+            <plain>Р РЅР° РєСЂРµСЃС‚ РїРѕР№С‚Рё СЃРѕ РњРЅРѕР№?"</plain>
         </string>
         <string>
-            <plain>"Да, Учитель, будь лишь близок,</plain>
+            <plain>"Р”Р°, РЈС‡РёС‚РµР»СЊ, Р±СѓРґСЊ Р»РёС€СЊ Р±Р»РёР·РѕРє,</plain>
         </string>
         <string>
-            <plain>И чрез смерть пойдем с Тобой!"</plain>
+            <plain>Р С‡СЂРµР· СЃРјРµСЂС‚СЊ РїРѕР№РґРµРј СЃ РўРѕР±РѕР№!"</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>На все готовы, мы духом Твои;</plain>
+            <plain>РќР° РІСЃРµ РіРѕС‚РѕРІС‹, РјС‹ РґСѓС…РѕРј РўРІРѕРё;</plain>
         </string>
         <string>
-            <plain>Преобрази нас как хочешь Ты.</plain>
+            <plain>РџСЂРµРѕР±СЂР°Р·Рё РЅР°СЃ РєР°Рє С…РѕС‡РµС€СЊ РўС‹.</plain>
         </string>
         <string>
-            <plain>Светом небесным нас так озари,</plain>
+            <plain>РЎРІРµС‚РѕРј РЅРµР±РµСЃРЅС‹Рј РЅР°СЃ С‚Р°Рє РѕР·Р°СЂРё,</plain>
         </string>
         <string>
-            <plain>Чтоб всюду светить могли средь темноты.</plain>
+            <plain>Р§С‚РѕР± РІСЃСЋРґСѓ СЃРІРµС‚РёС‚СЊ РјРѕРіР»Рё СЃСЂРµРґСЊ С‚РµРјРЅРѕС‚С‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>"Вы готовы, правде внемля,</plain>
+            <plain>"Р’С‹ РіРѕС‚РѕРІС‹, РїСЂР°РІРґРµ РІРЅРµРјР»СЏ,</plain>
         </string>
         <string>
-            <plain>О величье не мечтать?</plain>
+            <plain>Рћ РІРµР»РёС‡СЊРµ РЅРµ РјРµС‡С‚Р°С‚СЊ?</plain>
         </string>
         <string>
-            <plain>В Гефсиманьи пасть на землю,</plain>
+            <plain>Р’ Р“РµС„СЃРёРјР°РЅСЊРё РїР°СЃС‚СЊ РЅР° Р·РµРјР»СЋ,</plain>
         </string>
         <string>
-            <plain>На Голгофе умирать?"</plain>
+            <plain>РќР° Р“РѕР»РіРѕС„Рµ СѓРјРёСЂР°С‚СЊ?"</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>"Вы готовы, все прощая,</plain>
+            <plain>"Р’С‹ РіРѕС‚РѕРІС‹, РІСЃРµ РїСЂРѕС‰Р°СЏ,</plain>
         </string>
         <string>
-            <plain>Другом быть и для того,</plain>
+            <plain>Р”СЂСѓРіРѕРј Р±С‹С‚СЊ Рё РґР»СЏ С‚РѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>Кем разбита жизнь земная,</plain>
+            <plain>РљРµРј СЂР°Р·Р±РёС‚Р° Р¶РёР·РЅСЊ Р·РµРјРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Кто дерзнул лишить всего?"</plain>
+            <plain>РљС‚Рѕ РґРµСЂР·РЅСѓР» Р»РёС€РёС‚СЊ РІСЃРµРіРѕ?"</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>"Вы готовы помнить это,</plain>
+            <plain>"Р’С‹ РіРѕС‚РѕРІС‹ РїРѕРјРЅРёС‚СЊ СЌС‚Рѕ,</plain>
         </string>
         <string>
-            <plain>Что разбойник со креста</plain>
+            <plain>Р§С‚Рѕ СЂР°Р·Р±РѕР№РЅРёРє СЃРѕ РєСЂРµСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Перешел в обитель света</plain>
+            <plain>РџРµСЂРµС€РµР» РІ РѕР±РёС‚РµР»СЊ СЃРІРµС‚Р°</plain>
         </string>
         <string>
-            <plain>Лишь по милости Христа?"</plain>
+            <plain>Р›РёС€СЊ РїРѕ РјРёР»РѕСЃС‚Рё РҐСЂРёСЃС‚Р°?"</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>"Вы готовы тьму густую</plain>
+            <plain>"Р’С‹ РіРѕС‚РѕРІС‹ С‚СЊРјСѓ РіСѓСЃС‚СѓСЋ</plain>
         </string>
         <string>
-            <plain>Светлой верой прогонять,</plain>
+            <plain>РЎРІРµС‚Р»РѕР№ РІРµСЂРѕР№ РїСЂРѕРіРѕРЅСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Побеждать вражду людскую,</plain>
+            <plain>РџРѕР±РµР¶РґР°С‚СЊ РІСЂР°Р¶РґСѓ Р»СЋРґСЃРєСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Дух свой Богу предавать?"</plain>
+            <plain>Р”СѓС… СЃРІРѕР№ Р‘РѕРіСѓ РїСЂРµРґР°РІР°С‚СЊ?"</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>"Вы готовы?" - так Сын Божий</plain>
+            <plain>"Р’С‹ РіРѕС‚РѕРІС‹?" - С‚Р°Рє РЎС‹РЅ Р‘РѕР¶РёР№</plain>
         </string>
         <string>
-            <plain>Говорит к нам и теперь.</plain>
+            <plain>Р“РѕРІРѕСЂРёС‚ Рє РЅР°Рј Рё С‚РµРїРµСЂСЊ.</plain>
         </string>
         <string>
-            <plain>Пусть решительные скажут:</plain>
+            <plain>РџСѓСЃС‚СЊ СЂРµС€РёС‚РµР»СЊРЅС‹Рµ СЃРєР°Р¶СѓС‚:</plain>
         </string>
         <string>
-            <plain>"Да, Господь, Ты нам пример!"</plain>
+            <plain>"Р”Р°, Р“РѕСЃРїРѕРґСЊ, РўС‹ РЅР°Рј РїСЂРёРјРµСЂ!"</plain>
         </string>
     </verse>
 </psalm>

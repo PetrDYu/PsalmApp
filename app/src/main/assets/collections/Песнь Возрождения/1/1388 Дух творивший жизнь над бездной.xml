@@ -1,84 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1388" name="Дух творивший жизнь над бездной" canon="false" text="" textRus="" music="">
+<psalm number="1388" name="Р”СѓС… С‚РІРѕСЂРёРІС€РёР№ Р¶РёР·РЅСЊ РЅР°Рґ Р±РµР·РґРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Дух, творивший жизнь над бездной</plain>
+            <plain>Р”СѓС…, С‚РІРѕСЂРёРІС€РёР№ Р¶РёР·РЅСЊ РЅР°Рґ Р±РµР·РґРЅРѕР№</plain>
         </string>
         <string>
-            <plain>До начала всяких дней;</plain>
+            <plain>Р”Рѕ РЅР°С‡Р°Р»Р° РІСЃСЏРєРёС… РґРЅРµР№;</plain>
         </string>
         <string>
-            <plain>Дух, создавший мир надзвездный,</plain>
+            <plain>Р”СѓС…, СЃРѕР·РґР°РІС€РёР№ РјРёСЂ РЅР°РґР·РІРµР·РґРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Ширь земли и глубь морей!</plain>
+            <plain>РЁРёСЂСЊ Р·РµРјР»Рё Рё РіР»СѓР±СЊ РјРѕСЂРµР№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, внемли мольбе и вере.</plain>
+            <plain>Рћ, РІРЅРµРјР»Рё РјРѕР»СЊР±Рµ Рё РІРµСЂРµ.</plain>
         </string>
         <string>
-            <plain>О, излейся в полной мере</plain>
+            <plain>Рћ, РёР·Р»РµР№СЃСЏ РІ РїРѕР»РЅРѕР№ РјРµСЂРµ</plain>
         </string>
         <string>
-            <plain>На Своих детей!</plain>
+            <plain>РќР° РЎРІРѕРёС… РґРµС‚РµР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дух, воздвигший Моисея</plain>
+            <plain>Р”СѓС…, РІРѕР·РґРІРёРіС€РёР№ РњРѕРёСЃРµСЏ</plain>
         </string>
         <string>
-            <plain>И пророкам давший речь,</plain>
+            <plain>Р РїСЂРѕСЂРѕРєР°Рј РґР°РІС€РёР№ СЂРµС‡СЊ,</plain>
         </string>
         <string>
-            <plain>Помоги нам, правду сея,</plain>
+            <plain>РџРѕРјРѕРіРё РЅР°Рј, РїСЂР°РІРґСѓ СЃРµСЏ,</plain>
         </string>
         <string>
-            <plain>Гордый мир к Тебе привлечь.</plain>
+            <plain>Р“РѕСЂРґС‹Р№ РјРёСЂ Рє РўРµР±Рµ РїСЂРёРІР»РµС‡СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жизни Дух! От уз могильных</plain>
+            <plain>Р–РёР·РЅРё Р”СѓС…! РћС‚ СѓР· РјРѕРіРёР»СЊРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Мертвецов Ты воскрешай;</plain>
+            <plain>РњРµСЂС‚РІРµС†РѕРІ РўС‹ РІРѕСЃРєСЂРµС€Р°Р№;</plain>
         </string>
         <string>
-            <plain>Силы Дух! из слабых в сильных</plain>
+            <plain>РЎРёР»С‹ Р”СѓС…! РёР· СЃР»Р°Р±С‹С… РІ СЃРёР»СЊРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Слуг Своих преображай!</plain>
+            <plain>РЎР»СѓРі РЎРІРѕРёС… РїСЂРµРѕР±СЂР°Р¶Р°Р№!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В ветхой жизни и греховной</plain>
+            <plain>Р’ РІРµС‚С…РѕР№ Р¶РёР·РЅРё Рё РіСЂРµС…РѕРІРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Новую Ты жизнь создай:</plain>
+            <plain>РќРѕРІСѓСЋ РўС‹ Р¶РёР·РЅСЊ СЃРѕР·РґР°Р№:</plain>
         </string>
         <string>
-            <plain>В нас воздвигни трон духовный;</plain>
+            <plain>Р’ РЅР°СЃ РІРѕР·РґРІРёРіРЅРё С‚СЂРѕРЅ РґСѓС…РѕРІРЅС‹Р№;</plain>
         </string>
         <string>
-            <plain>Голос плоти угашай!</plain>
+            <plain>Р“РѕР»РѕСЃ РїР»РѕС‚Рё СѓРіР°С€Р°Р№!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Дух немеркнущей святыни!</plain>
+            <plain>Р”СѓС… РЅРµРјРµСЂРєРЅСѓС‰РµР№ СЃРІСЏС‚С‹РЅРё!</plain>
         </string>
         <string>
-            <plain>Дух Святой, приди с небес!</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, РїСЂРёРґРё СЃ РЅРµР±РµСЃ!</plain>
         </string>
         <string>
-            <plain>Сотвори, чтоб дух гордыни,</plain>
+            <plain>РЎРѕС‚РІРѕСЂРё, С‡С‚РѕР± РґСѓС… РіРѕСЂРґС‹РЅРё,</plain>
         </string>
         <string>
-            <plain>Дух сомненья в нас исчез!</plain>
+            <plain>Р”СѓС… СЃРѕРјРЅРµРЅСЊСЏ РІ РЅР°СЃ РёСЃС‡РµР·!</plain>
         </string>
     </verse>
 </psalm>

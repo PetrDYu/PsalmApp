@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="917" name="Иисуса любовь чудесная чудесная чудесная" canon="false" text="" textRus="" music="">
+<psalm number="917" name="РРёСЃСѓСЃР° Р»СЋР±РѕРІСЊ С‡СѓРґРµСЃРЅР°СЏ С‡СѓРґРµСЃРЅР°СЏ С‡СѓРґРµСЃРЅР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисуса любовь чудесная, чудесная, чудесная,</plain>
+            <plain>РРёСЃСѓСЃР° Р»СЋР±РѕРІСЊ С‡СѓРґРµСЃРЅР°СЏ, С‡СѓРґРµСЃРЅР°СЏ, С‡СѓРґРµСЃРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Иисуса любовь чудесная, любовь чудесная!</plain>
+            <plain>РРёСЃСѓСЃР° Р»СЋР±РѕРІСЊ С‡СѓРґРµСЃРЅР°СЏ, Р»СЋР±РѕРІСЊ С‡СѓРґРµСЃРЅР°СЏ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Высока, выше дальних звезд,</plain>
+            <plain>Р’С‹СЃРѕРєР°, РІС‹С€Рµ РґР°Р»СЊРЅРёС… Р·РІРµР·Рґ,</plain>
         </string>
         <string>
-            <plain>Глубока, глубже всяких вод,</plain>
+            <plain>Р“Р»СѓР±РѕРєР°, РіР»СѓР±Р¶Рµ РІСЃСЏРєРёС… РІРѕРґ,</plain>
         </string>
         <string>
-            <plain>Широка, ее не обоймешь.</plain>
+            <plain>РЁРёСЂРѕРєР°, РµРµ РЅРµ РѕР±РѕР№РјРµС€СЊ.</plain>
         </string>
         <string>
-            <plain>Любовь чудесная!</plain>
+            <plain>Р›СЋР±РѕРІСЊ С‡СѓРґРµСЃРЅР°СЏ!</plain>
         </string>
     </verse>
 </psalm>

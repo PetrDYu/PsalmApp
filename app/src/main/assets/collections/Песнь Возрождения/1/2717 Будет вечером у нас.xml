@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2717" name="Будет вечером у нас" canon="false" text="" textRus="" music="">
+<psalm number="2717" name="Р‘СѓРґРµС‚ РІРµС‡РµСЂРѕРј Сѓ РЅР°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Будет вечером у нас</plain>
+            <plain>Р‘СѓРґРµС‚ РІРµС‡РµСЂРѕРј Сѓ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>И тепло, и уют.</plain>
+            <plain>Р С‚РµРїР»Рѕ, Рё СѓСЋС‚.</plain>
         </string>
         <string>
-            <plain>Это бабушка у нас</plain>
+            <plain>Р­С‚Рѕ Р±Р°Р±СѓС€РєР° Сѓ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Самый лучший друг.</plain>
+            <plain>РЎР°РјС‹Р№ Р»СѓС‡С€РёР№ РґСЂСѓРі.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бабушка милая,</plain>
+            <plain>Р‘Р°Р±СѓС€РєР° РјРёР»Р°СЏ,</plain>
         </string>
         <string>
-            <plain>Бабушка моя,</plain>
+            <plain>Р‘Р°Р±СѓС€РєР° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Самая добрая</plain>
+            <plain>РЎР°РјР°СЏ РґРѕР±СЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Ты у меня.</plain>
+            <plain>РўС‹ Сѓ РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О Христе расскажет нам,</plain>
+            <plain>Рћ РҐСЂРёСЃС‚Рµ СЂР°СЃСЃРєР°Р¶РµС‚ РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Если я попрошу.</plain>
+            <plain>Р•СЃР»Рё СЏ РїРѕРїСЂРѕС€Сѓ.</plain>
         </string>
         <string>
-            <plain>Иногда накажет нас,</plain>
+            <plain>РРЅРѕРіРґР° РЅР°РєР°Р¶РµС‚ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Если заслужу.</plain>
+            <plain>Р•СЃР»Рё Р·Р°СЃР»СѓР¶Сѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вяжет наша бабушка</plain>
+            <plain>Р’СЏР¶РµС‚ РЅР°С€Р° Р±Р°Р±СѓС€РєР°</plain>
         </string>
         <string>
-            <plain>Варежки теплые,</plain>
+            <plain>Р’Р°СЂРµР¶РєРё С‚РµРїР»С‹Рµ,</plain>
         </string>
         <string>
-            <plain>Руки нашей бабушки</plain>
+            <plain>Р СѓРєРё РЅР°С€РµР№ Р±Р°Р±СѓС€РєРё</plain>
         </string>
         <string>
-            <plain>Очень добрые.</plain>
+            <plain>РћС‡РµРЅСЊ РґРѕР±СЂС‹Рµ.</plain>
         </string>
     </verse>
 </psalm>

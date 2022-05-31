@@ -1,129 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="282" name="Мы Христовы рыболовы" canon="false" text="" textRus="" music="">
+<psalm number="282" name="РњС‹ РҐСЂРёСЃС‚РѕРІС‹ СЂС‹Р±РѕР»РѕРІС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы - Христовы рыболовы,</plain>
+            <plain>РњС‹ - РҐСЂРёСЃС‚РѕРІС‹ СЂС‹Р±РѕР»РѕРІС‹,</plain>
         </string>
         <string>
-            <plain>В глубине плывут стада;</plain>
+            <plain>Р’ РіР»СѓР±РёРЅРµ РїР»С‹РІСѓС‚ СЃС‚Р°РґР°;</plain>
         </string>
         <string>
-            <plain>Братья! Все ли вы готовы</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ! Р’СЃРµ Р»Рё РІС‹ РіРѕС‚РѕРІС‹</plain>
         </string>
         <string>
-            <plain>Бросить в море невода?</plain>
+            <plain>Р‘СЂРѕСЃРёС‚СЊ РІ РјРѕСЂРµ РЅРµРІРѕРґР°?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слову Господа внимайте:</plain>
+            <plain>РЎР»РѕРІСѓ Р“РѕСЃРїРѕРґР° РІРЅРёРјР°Р№С‚Рµ:</plain>
         </string>
         <string>
-            <plain>Мель - не место рыбакам.</plain>
+            <plain>РњРµР»СЊ - РЅРµ РјРµСЃС‚Рѕ СЂС‹Р±Р°РєР°Рј.</plain>
         </string>
         <string>
-            <plain>"Невод глубже опускайте", -</plain>
+            <plain>"РќРµРІРѕРґ РіР»СѓР±Р¶Рµ РѕРїСѓСЃРєР°Р№С‚Рµ", -</plain>
         </string>
         <string>
-            <plain>Говорит Спаситель Сам.</plain>
+            <plain>Р“РѕРІРѕСЂРёС‚ РЎРїР°СЃРёС‚РµР»СЊ РЎР°Рј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В море жизни, где тревога, -</plain>
+            <plain>Р’ РјРѕСЂРµ Р¶РёР·РЅРё, РіРґРµ С‚СЂРµРІРѕРіР°, -</plain>
         </string>
         <string>
-            <plain>В человеческой среде, -</plain>
+            <plain>Р’ С‡РµР»РѕРІРµС‡РµСЃРєРѕР№ СЃСЂРµРґРµ, -</plain>
         </string>
         <string>
-            <plain>Сколько ценных душ для Бога</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ С†РµРЅРЅС‹С… РґСѓС€ РґР»СЏ Р‘РѕРіР°</plain>
         </string>
         <string>
-            <plain>Гибнет в горе и нужде!</plain>
+            <plain>Р“РёР±РЅРµС‚ РІ РіРѕСЂРµ Рё РЅСѓР¶РґРµ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Наше в Господе призванье:</plain>
+            <plain>РќР°С€Рµ РІ Р“РѕСЃРїРѕРґРµ РїСЂРёР·РІР°РЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>Души в море уловлять;</plain>
+            <plain>Р”СѓС€Рё РІ РјРѕСЂРµ СѓР»РѕРІР»СЏС‚СЊ;</plain>
         </string>
         <string>
-            <plain>И чрез веру, оправданье</plain>
+            <plain>Р С‡СЂРµР· РІРµСЂСѓ, РѕРїСЂР°РІРґР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>К вечной жизни направлять.</plain>
+            <plain>Рљ РІРµС‡РЅРѕР№ Р¶РёР·РЅРё РЅР°РїСЂР°РІР»СЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В Слове Божием, в Писанье</plain>
+            <plain>Р’ РЎР»РѕРІРµ Р‘РѕР¶РёРµРј, РІ РџРёСЃР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Вечной правды - глубина;</plain>
+            <plain>Р’РµС‡РЅРѕР№ РїСЂР°РІРґС‹ - РіР»СѓР±РёРЅР°;</plain>
         </string>
         <string>
-            <plain>Человеческое знанье</plain>
+            <plain>Р§РµР»РѕРІРµС‡РµСЃРєРѕРµ Р·РЅР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Не доходит в нем до дна.</plain>
+            <plain>РќРµ РґРѕС…РѕРґРёС‚ РІ РЅРµРј РґРѕ РґРЅР°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Сколько чудных откровений</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ С‡СѓРґРЅС‹С… РѕС‚РєСЂРѕРІРµРЅРёР№</plain>
         </string>
         <string>
-            <plain>В океане Божьих слов;</plain>
+            <plain>Р’ РѕРєРµР°РЅРµ Р‘РѕР¶СЊРёС… СЃР»РѕРІ;</plain>
         </string>
         <string>
-            <plain>Сколько истин и учений</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РёСЃС‚РёРЅ Рё СѓС‡РµРЅРёР№</plain>
         </string>
         <string>
-            <plain>Для простых и мудрецов!</plain>
+            <plain>Р”Р»СЏ РїСЂРѕСЃС‚С‹С… Рё РјСѓРґСЂРµС†РѕРІ!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Призывает нас Спаситель</plain>
+            <plain>РџСЂРёР·С‹РІР°РµС‚ РЅР°СЃ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Глубже в Слово бросить сеть,</plain>
+            <plain>Р“Р»СѓР±Р¶Рµ РІ РЎР»РѕРІРѕ Р±СЂРѕСЃРёС‚СЊ СЃРµС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтобы глубже мог служитель</plain>
+            <plain>Р§С‚РѕР±С‹ РіР»СѓР±Р¶Рµ РјРѕРі СЃР»СѓР¶РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Волю Божью разуметь.</plain>
+            <plain>Р’РѕР»СЋ Р‘РѕР¶СЊСЋ СЂР°Р·СѓРјРµС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Слуги Божьи! Перестанем</plain>
+            <plain>РЎР»СѓРіРё Р‘РѕР¶СЊРё! РџРµСЂРµСЃС‚Р°РЅРµРј</plain>
         </string>
         <string>
-            <plain>Путь поверхностный любить,</plain>
+            <plain>РџСѓС‚СЊ РїРѕРІРµСЂС…РЅРѕСЃС‚РЅС‹Р№ Р»СЋР±РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Но в желании воспрянем</plain>
+            <plain>РќРѕ РІ Р¶РµР»Р°РЅРёРё РІРѕСЃРїСЂСЏРЅРµРј</plain>
         </string>
         <string>
-            <plain>Глубиною Слова жить.</plain>
+            <plain>Р“Р»СѓР±РёРЅРѕСЋ РЎР»РѕРІР° Р¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Братья! Невод познаванья</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ! РќРµРІРѕРґ РїРѕР·РЅР°РІР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Будем глубже опускать,</plain>
+            <plain>Р‘СѓРґРµРј РіР»СѓР±Р¶Рµ РѕРїСѓСЃРєР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтобы тайнами Писанья</plain>
+            <plain>Р§С‚РѕР±С‹ С‚Р°Р№РЅР°РјРё РџРёСЃР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Скудный мир обогащать.</plain>
+            <plain>РЎРєСѓРґРЅС‹Р№ РјРёСЂ РѕР±РѕРіР°С‰Р°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

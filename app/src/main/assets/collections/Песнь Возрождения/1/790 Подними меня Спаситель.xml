@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="790" name="Подними меня Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="790" name="РџРѕРґРЅРёРјРё РјРµРЅСЏ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Подними меня, Спаситель,</plain>
+            <plain>РџРѕРґРЅРёРјРё РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>И приблизь к Своей груди,</plain>
+            <plain>Р РїСЂРёР±Р»РёР·СЊ Рє РЎРІРѕРµР№ РіСЂСѓРґРё,</plain>
         </string>
         <string>
-            <plain>И могучею десницей</plain>
+            <plain>Р РјРѕРіСѓС‡РµСЋ РґРµСЃРЅРёС†РµР№</plain>
         </string>
         <string>
-            <plain>В этом мире огради.</plain>
+            <plain>Р’ СЌС‚РѕРј РјРёСЂРµ РѕРіСЂР°РґРё.</plain>
         </string>
         <string>
-            <plain>Я под бременем стенаю,</plain>
+            <plain>РЇ РїРѕРґ Р±СЂРµРјРµРЅРµРј СЃС‚РµРЅР°СЋ,</plain>
         </string>
         <string>
-            <plain>Изнемог в земной борьбе.</plain>
+            <plain>РР·РЅРµРјРѕРі РІ Р·РµРјРЅРѕР№ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
         <string>
-            <plain>На коленях умоляю:</plain>
+            <plain>РќР° РєРѕР»РµРЅСЏС… СѓРјРѕР»СЏСЋ:</plain>
         </string>
         <string>
-            <plain>Подними меня к Себе.</plain>
+            <plain>РџРѕРґРЅРёРјРё РјРµРЅСЏ Рє РЎРµР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Подними меня, Спаситель,</plain>
+            <plain>РџРѕРґРЅРёРјРё РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>В горний мир из тьмы скорбей,</plain>
+            <plain>Р’ РіРѕСЂРЅРёР№ РјРёСЂ РёР· С‚СЊРјС‹ СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>У груди Твоей защита</plain>
+            <plain>РЈ РіСЂСѓРґРё РўРІРѕРµР№ Р·Р°С‰РёС‚Р°</plain>
         </string>
         <string>
-            <plain>И покой душе моей.</plain>
+            <plain>Р РїРѕРєРѕР№ РґСѓС€Рµ РјРѕРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Подними меня, Спаситель,</plain>
+            <plain>РџРѕРґРЅРёРјРё РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>От греховной пустоты,</plain>
+            <plain>РћС‚ РіСЂРµС…РѕРІРЅРѕР№ РїСѓСЃС‚РѕС‚С‹,</plain>
         </string>
         <string>
-            <plain>Сердце страха не увидит,</plain>
+            <plain>РЎРµСЂРґС†Рµ СЃС‚СЂР°С…Р° РЅРµ СѓРІРёРґРёС‚,</plain>
         </string>
         <string>
-            <plain>Если рядом будешь Ты.</plain>
+            <plain>Р•СЃР»Рё СЂСЏРґРѕРј Р±СѓРґРµС€СЊ РўС‹.</plain>
         </string>
         <string>
-            <plain>Нет скорбям границ и края,</plain>
+            <plain>РќРµС‚ СЃРєРѕСЂР±СЏРј РіСЂР°РЅРёС† Рё РєСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Я открыл свой грех Тебе,</plain>
+            <plain>РЇ РѕС‚РєСЂС‹Р» СЃРІРѕР№ РіСЂРµС… РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Обещанье выполняя,</plain>
+            <plain>РћР±РµС‰Р°РЅСЊРµ РІС‹РїРѕР»РЅСЏСЏ,</plain>
         </string>
         <string>
-            <plain>Подними меня к Себе.</plain>
+            <plain>РџРѕРґРЅРёРјРё РјРµРЅСЏ Рє РЎРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Подними меня, Спаситель,</plain>
+            <plain>РџРѕРґРЅРёРјРё РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>И рассей душевный мрак.</plain>
+            <plain>Р СЂР°СЃСЃРµР№ РґСѓС€РµРІРЅС‹Р№ РјСЂР°Рє.</plain>
         </string>
         <string>
-            <plain>Окажи Твою мне милость,</plain>
+            <plain>РћРєР°Р¶Рё РўРІРѕСЋ РјРЅРµ РјРёР»РѕСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб не тешился мой враг.</plain>
+            <plain>Р§С‚РѕР± РЅРµ С‚РµС€РёР»СЃСЏ РјРѕР№ РІСЂР°Рі.</plain>
         </string>
         <string>
-            <plain>Лишь в Тебе успокоенье,</plain>
+            <plain>Р›РёС€СЊ РІ РўРµР±Рµ СѓСЃРїРѕРєРѕРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Внемлешь Ты моей мольбе.</plain>
+            <plain>Р’РЅРµРјР»РµС€СЊ РўС‹ РјРѕРµР№ РјРѕР»СЊР±Рµ.</plain>
         </string>
         <string>
-            <plain>Ты - мой Бог, мое спасенье,</plain>
+            <plain>РўС‹ - РјРѕР№ Р‘РѕРі, РјРѕРµ СЃРїР°СЃРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Подними меня к Себе.</plain>
+            <plain>РџРѕРґРЅРёРјРё РјРµРЅСЏ Рє РЎРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

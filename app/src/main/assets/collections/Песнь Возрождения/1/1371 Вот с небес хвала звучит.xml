@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1371" name="Вот с небес хвала звучит" canon="false" text="" textRus="" music="">
+<psalm number="1371" name="Р’РѕС‚ СЃ РЅРµР±РµСЃ С…РІР°Р»Р° Р·РІСѓС‡РёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот с небес хвала звучит:</plain>
+            <plain>Р’РѕС‚ СЃ РЅРµР±РµСЃ С…РІР°Р»Р° Р·РІСѓС‡РёС‚:</plain>
         </string>
         <string>
-            <plain>Богу слава и хваленье!</plain>
+            <plain>Р‘РѕРіСѓ СЃР»Р°РІР° Рё С…РІР°Р»РµРЅСЊРµ!</plain>
         </string>
         <string>
-            <plain>Мир земле Господь дарит.</plain>
+            <plain>РњРёСЂ Р·РµРјР»Рµ Р“РѕСЃРїРѕРґСЊ РґР°СЂРёС‚.</plain>
         </string>
         <string>
-            <plain>Людям всем благоволенье.</plain>
+            <plain>Р›СЋРґСЏРј РІСЃРµРј Р±Р»Р°РіРѕРІРѕР»РµРЅСЊРµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Вот Спаситель вам рожден</plain>
+            <plain>Р’РѕС‚ РЎРїР°СЃРёС‚РµР»СЊ РІР°Рј СЂРѕР¶РґРµРЅ</plain>
         </string>
         <string>
-            <plain>В Вифлееме, Благодатный,</plain>
+            <plain>Р’ Р’РёС„Р»РµРµРјРµ, Р‘Р»Р°РіРѕРґР°С‚РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Он смиренно положен</plain>
+            <plain>РћРЅ СЃРјРёСЂРµРЅРЅРѕ РїРѕР»РѕР¶РµРЅ</plain>
         </string>
         <string>
-            <plain>В тесных яслях. Необъятный.</plain>
+            <plain>Р’ С‚РµСЃРЅС‹С… СЏСЃР»СЏС…. РќРµРѕР±СЉСЏС‚РЅС‹Р№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Что с небес в страну скорбей</plain>
+            <plain>Р§С‚Рѕ СЃ РЅРµР±РµСЃ РІ СЃС‚СЂР°РЅСѓ СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>Привело Тебя, Спаситель?</plain>
+            <plain>РџСЂРёРІРµР»Рѕ РўРµР±СЏ, РЎРїР°СЃРёС‚РµР»СЊ?</plain>
         </string>
         <string>
-            <plain>В чудной благости Своей</plain>
+            <plain>Р’ С‡СѓРґРЅРѕР№ Р±Р»Р°РіРѕСЃС‚Рё РЎРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Ты пришел как Избавитель.</plain>
+            <plain>РўС‹ РїСЂРёС€РµР» РєР°Рє РР·Р±Р°РІРёС‚РµР»СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Всех людей спасти от зла.</plain>
+            <plain>Р’СЃРµС… Р»СЋРґРµР№ СЃРїР°СЃС‚Рё РѕС‚ Р·Р»Р°.</plain>
         </string>
         <string>
-            <plain>От грехов и сокрушенья;</plain>
+            <plain>РћС‚ РіСЂРµС…РѕРІ Рё СЃРѕРєСЂСѓС€РµРЅСЊСЏ;</plain>
         </string>
         <string>
-            <plain>Наша скорбь Тебя свела</plain>
+            <plain>РќР°С€Р° СЃРєРѕСЂР±СЊ РўРµР±СЏ СЃРІРµР»Р°</plain>
         </string>
         <string>
-            <plain>В мир для нашего спасенья.</plain>
+            <plain>Р’ РјРёСЂ РґР»СЏ РЅР°С€РµРіРѕ СЃРїР°СЃРµРЅСЊСЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты пришел спасти, взыскать</plain>
+            <plain>РўС‹ РїСЂРёС€РµР» СЃРїР°СЃС‚Рё, РІР·С‹СЃРєР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Всех заблудших, угнетенных,</plain>
+            <plain>Р’СЃРµС… Р·Р°Р±Р»СѓРґС€РёС…, СѓРіРЅРµС‚РµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Помощь и отраду дать</plain>
+            <plain>РџРѕРјРѕС‰СЊ Рё РѕС‚СЂР°РґСѓ РґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Для сердец обремененных.</plain>
+            <plain>Р”Р»СЏ СЃРµСЂРґРµС† РѕР±СЂРµРјРµРЅРµРЅРЅС‹С….</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Бедные! Не лейте слез.</plain>
+            <plain>Р‘РµРґРЅС‹Рµ! РќРµ Р»РµР№С‚Рµ СЃР»РµР·.</plain>
         </string>
         <string>
-            <plain>Он принес вам утешенье;</plain>
+            <plain>РћРЅ РїСЂРёРЅРµСЃ РІР°Рј СѓС‚РµС€РµРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Он ваш Брат и Царь небес,</plain>
+            <plain>РћРЅ РІР°С€ Р‘СЂР°С‚ Рё Р¦Р°СЂСЊ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>- Вечное Ему хваленье.</plain>
+            <plain>- Р’РµС‡РЅРѕРµ Р•РјСѓ С…РІР°Р»РµРЅСЊРµ.</plain>
         </string>
     </verse>
 </psalm>

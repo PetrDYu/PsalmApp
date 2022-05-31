@@ -1,77 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="753" name="Книга Богом мне дана" canon="false" text="" textRus="" music="">
+<psalm number="753" name="РљРЅРёРіР° Р‘РѕРіРѕРј РјРЅРµ РґР°РЅР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Книга Богом мне дана,</plain>
+            <plain>РљРЅРёРіР° Р‘РѕРіРѕРј РјРЅРµ РґР°РЅР°,</plain>
         </string>
         <string>
-            <plain>Хоть поношена она,</plain>
+            <plain>РҐРѕС‚СЊ РїРѕРЅРѕС€РµРЅР° РѕРЅР°,</plain>
         </string>
         <string>
-            <plain>Вспоминаю дни минувшие давно:</plain>
+            <plain>Р’СЃРїРѕРјРёРЅР°СЋ РґРЅРё РјРёРЅСѓРІС€РёРµ РґР°РІРЅРѕ:</plain>
         </string>
         <string>
-            <plain>Мать читала мне тогда,</plain>
+            <plain>РњР°С‚СЊ С‡РёС‚Р°Р»Р° РјРЅРµ С‚РѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>Не забуду никогда,</plain>
+            <plain>РќРµ Р·Р°Р±СѓРґСѓ РЅРёРєРѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>Как нам было с нею мирно, хорошо.</plain>
+            <plain>РљР°Рє РЅР°Рј Р±С‹Р»Рѕ СЃ РЅРµСЋ РјРёСЂРЅРѕ, С…РѕСЂРѕС€Рѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О святая и живая книга Божия, люблю, люблю тебя!</plain>
+            <plain>Рћ СЃРІСЏС‚Р°СЏ Рё Р¶РёРІР°СЏ РєРЅРёРіР° Р‘РѕР¶РёСЏ, Р»СЋР±Р»СЋ, Р»СЋР±Р»СЋ С‚РµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Ты дороже с каждым днем</plain>
+            <plain>РўС‹ РґРѕСЂРѕР¶Рµ СЃ РєР°Р¶РґС‹Рј РґРЅРµРј</plain>
         </string>
         <string>
-            <plain>И ведешь прямым путем</plain>
+            <plain>Р РІРµРґРµС€СЊ РїСЂСЏРјС‹Рј РїСѓС‚РµРј</plain>
         </string>
         <string>
-            <plain>К чудной Родине, где ждет Господь меня.</plain>
+            <plain>Рљ С‡СѓРґРЅРѕР№ Р РѕРґРёРЅРµ, РіРґРµ Р¶РґРµС‚ Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Про Спасителя Христа</plain>
+            <plain>РџСЂРѕ РЎРїР°СЃРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Все читала мне она,</plain>
+            <plain>Р’СЃРµ С‡РёС‚Р°Р»Р° РјРЅРµ РѕРЅР°,</plain>
         </string>
         <string>
-            <plain>Как любил, страдал и умер на кресте.</plain>
+            <plain>РљР°Рє Р»СЋР±РёР», СЃС‚СЂР°РґР°Р» Рё СѓРјРµСЂ РЅР° РєСЂРµСЃС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Со слезами слушал я.</plain>
+            <plain>РЎРѕ СЃР»РµР·Р°РјРё СЃР»СѓС€Р°Р» СЏ.</plain>
         </string>
         <string>
-            <plain>"Помни, это за тебя, -</plain>
+            <plain>"РџРѕРјРЅРё, СЌС‚Рѕ Р·Р° С‚РµР±СЏ, -</plain>
         </string>
         <string>
-            <plain>Говорила мать. - Храни Его в душе!"</plain>
+            <plain>Р“РѕРІРѕСЂРёР»Р° РјР°С‚СЊ. - РҐСЂР°РЅРё Р•РіРѕ РІ РґСѓС€Рµ!"</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Это все прошло давно,</plain>
+            <plain>Р­С‚Рѕ РІСЃРµ РїСЂРѕС€Р»Рѕ РґР°РІРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Но как живо мне оно,</plain>
+            <plain>РќРѕ РєР°Рє Р¶РёРІРѕ РјРЅРµ РѕРЅРѕ,</plain>
         </string>
         <string>
-            <plain>И святая книга свет мне на пути.</plain>
+            <plain>Р СЃРІСЏС‚Р°СЏ РєРЅРёРіР° СЃРІРµС‚ РјРЅРµ РЅР° РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Слово Божие храню</plain>
+            <plain>РЎР»РѕРІРѕ Р‘РѕР¶РёРµ С…СЂР°РЅСЋ</plain>
         </string>
         <string>
-            <plain>И Спасителя люблю,</plain>
+            <plain>Р РЎРїР°СЃРёС‚РµР»СЏ Р»СЋР±Р»СЋ,</plain>
         </string>
         <string>
-            <plain>По стопам Его всегда хочу идти.</plain>
+            <plain>РџРѕ СЃС‚РѕРїР°Рј Р•РіРѕ РІСЃРµРіРґР° С…РѕС‡Сѓ РёРґС‚Рё.</plain>
         </string>
     </verse>
 </psalm>

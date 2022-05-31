@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1157" name="На крыльях могучих орлиных" canon="false" text="" textRus="" music="">
+<psalm number="1157" name="РќР° РєСЂС‹Р»СЊСЏС… РјРѕРіСѓС‡РёС… РѕСЂР»РёРЅС‹С…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На крыльях могучих орлиных</plain>
+            <plain>РќР° РєСЂС‹Р»СЊСЏС… РјРѕРіСѓС‡РёС… РѕСЂР»РёРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Над морем житейским несусь,</plain>
+            <plain>РќР°Рґ РјРѕСЂРµРј Р¶РёС‚РµР№СЃРєРёРј РЅРµСЃСѓСЃСЊ,</plain>
         </string>
         <string>
-            <plain>На крыльях могучих орлиных</plain>
+            <plain>РќР° РєСЂС‹Р»СЊСЏС… РјРѕРіСѓС‡РёС… РѕСЂР»РёРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Я к вечности сердцем стремлюсь!</plain>
+            <plain>РЇ Рє РІРµС‡РЅРѕСЃС‚Рё СЃРµСЂРґС†РµРј СЃС‚СЂРµРјР»СЋСЃСЊ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Чрез горы, долины и нивы</plain>
+            <plain>Р§СЂРµР· РіРѕСЂС‹, РґРѕР»РёРЅС‹ Рё РЅРёРІС‹</plain>
         </string>
         <string>
-            <plain>Все выше я к небу лечу.</plain>
+            <plain>Р’СЃРµ РІС‹С€Рµ СЏ Рє РЅРµР±Сѓ Р»РµС‡Сѓ.</plain>
         </string>
         <string>
-            <plain>Несут меня мощные крылья -</plain>
+            <plain>РќРµСЃСѓС‚ РјРµРЅСЏ РјРѕС‰РЅС‹Рµ РєСЂС‹Р»СЊСЏ -</plain>
         </string>
         <string>
-            <plain>На них я спокойно стою.</plain>
+            <plain>РќР° РЅРёС… СЏ СЃРїРѕРєРѕР№РЅРѕ СЃС‚РѕСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Под мощными крыльями тихо</plain>
+            <plain>РџРѕРґ РјРѕС‰РЅС‹РјРё РєСЂС‹Р»СЊСЏРјРё С‚РёС…Рѕ</plain>
         </string>
         <string>
-            <plain>И чудно покоюся я,</plain>
+            <plain>Р С‡СѓРґРЅРѕ РїРѕРєРѕСЋСЃСЏ СЏ,</plain>
         </string>
         <string>
-            <plain>Под ними приют мой надежный.</plain>
+            <plain>РџРѕРґ РЅРёРјРё РїСЂРёСЋС‚ РјРѕР№ РЅР°РґРµР¶РЅС‹Р№.</plain>
         </string>
         <string>
-            <plain>Под ними - защита моя.</plain>
+            <plain>РџРѕРґ РЅРёРјРё - Р·Р°С‰РёС‚Р° РјРѕСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пусть вьются враги надо мною.</plain>
+            <plain>РџСѓСЃС‚СЊ РІСЊСЋС‚СЃСЏ РІСЂР°РіРё РЅР°РґРѕ РјРЅРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Пусть целятся злобно в меня -</plain>
+            <plain>РџСѓСЃС‚СЊ С†РµР»СЏС‚СЃСЏ Р·Р»РѕР±РЅРѕ РІ РјРµРЅСЏ -</plain>
         </string>
         <string>
-            <plain>Могучи орлиные крылья.</plain>
+            <plain>РњРѕРіСѓС‡Рё РѕСЂР»РёРЅС‹Рµ РєСЂС‹Р»СЊСЏ.</plain>
         </string>
         <string>
-            <plain>Под ними царит тишина.</plain>
+            <plain>РџРѕРґ РЅРёРјРё С†Р°СЂРёС‚ С‚РёС€РёРЅР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Укроюсь ли теми крылами.</plain>
+            <plain>РЈРєСЂРѕСЋСЃСЊ Р»Рё С‚РµРјРё РєСЂС‹Р»Р°РјРё.</plain>
         </string>
         <string>
-            <plain>Стою ли надежно на них,</plain>
+            <plain>РЎС‚РѕСЋ Р»Рё РЅР°РґРµР¶РЅРѕ РЅР° РЅРёС…,</plain>
         </string>
         <string>
-            <plain>Спокойно мне так и отрадно</plain>
+            <plain>РЎРїРѕРєРѕР№РЅРѕ РјРЅРµ С‚Р°Рє Рё РѕС‚СЂР°РґРЅРѕ</plain>
         </string>
         <string>
-            <plain>В скитаниях долгих моих.</plain>
+            <plain>Р’ СЃРєРёС‚Р°РЅРёСЏС… РґРѕР»РіРёС… РјРѕРёС….</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И весь мне понятен и ясен</plain>
+            <plain>Р РІРµСЃСЊ РјРЅРµ РїРѕРЅСЏС‚РµРЅ Рё СЏСЃРµРЅ</plain>
         </string>
         <string>
-            <plain>Намеченный путь через мир.</plain>
+            <plain>РќР°РјРµС‡РµРЅРЅС‹Р№ РїСѓС‚СЊ С‡РµСЂРµР· РјРёСЂ.</plain>
         </string>
         <string>
-            <plain>На крыльях я чувствую силу,</plain>
+            <plain>РќР° РєСЂС‹Р»СЊСЏС… СЏ С‡СѓРІСЃС‚РІСѓСЋ СЃРёР»Сѓ,</plain>
         </string>
         <string>
-            <plain>Под крыльями царствует мир!</plain>
+            <plain>РџРѕРґ РєСЂС‹Р»СЊСЏРјРё С†Р°СЂСЃС‚РІСѓРµС‚ РјРёСЂ!</plain>
         </string>
     </verse>
 </psalm>

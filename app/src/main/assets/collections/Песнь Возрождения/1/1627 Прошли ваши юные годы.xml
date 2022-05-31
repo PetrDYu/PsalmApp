@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1627" name="Прошли ваши юные годы" canon="false" text="" textRus="" music="">
+<psalm number="1627" name="РџСЂРѕС€Р»Рё РІР°С€Рё СЋРЅС‹Рµ РіРѕРґС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Прошли ваши юные годы.</plain>
+            <plain>РџСЂРѕС€Р»Рё РІР°С€Рё СЋРЅС‹Рµ РіРѕРґС‹.</plain>
         </string>
         <string>
-            <plain>Прошла золотая пора</plain>
+            <plain>РџСЂРѕС€Р»Р° Р·РѕР»РѕС‚Р°СЏ РїРѕСЂР°</plain>
         </string>
         <string>
-            <plain>Радостных песен, свободы,</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅС‹С… РїРµСЃРµРЅ, СЃРІРѕР±РѕРґС‹,</plain>
         </string>
         <string>
-            <plain>- Как будто все было вчера.</plain>
+            <plain>- РљР°Рє Р±СѓРґС‚Рѕ РІСЃРµ Р±С‹Р»Рѕ РІС‡РµСЂР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Юность, о, юность, о, юность.</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ, Рѕ, СЋРЅРѕСЃС‚СЊ, Рѕ, СЋРЅРѕСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Прекрасная в жизни пора</plain>
+            <plain>РџСЂРµРєСЂР°СЃРЅР°СЏ РІ Р¶РёР·РЅРё РїРѕСЂР°</plain>
         </string>
         <string>
-            <plain>Звездочкой ясной светилась.</plain>
+            <plain>Р—РІРµР·РґРѕС‡РєРѕР№ СЏСЃРЅРѕР№ СЃРІРµС‚РёР»Р°СЃСЊ.</plain>
         </string>
         <string>
-            <plain>Розой Саронской цвела.</plain>
+            <plain>Р РѕР·РѕР№ РЎР°СЂРѕРЅСЃРєРѕР№ С†РІРµР»Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вы в Церкви Христовой родились.</plain>
+            <plain>Р’С‹ РІ Р¦РµСЂРєРІРё РҐСЂРёСЃС‚РѕРІРѕР№ СЂРѕРґРёР»РёСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Счастливые с детства росли.</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІС‹Рµ СЃ РґРµС‚СЃС‚РІР° СЂРѕСЃР»Рё.</plain>
         </string>
         <string>
-            <plain>Здесь юность свою проводили,</plain>
+            <plain>Р—РґРµСЃСЊ СЋРЅРѕСЃС‚СЊ СЃРІРѕСЋ РїСЂРѕРІРѕРґРёР»Рё,</plain>
         </string>
         <string>
-            <plain>На пажитях злачных росли.</plain>
+            <plain>РќР° РїР°Р¶РёС‚СЏС… Р·Р»Р°С‡РЅС‹С… СЂРѕСЃР»Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Спасибо вам, папы и мамы,</plain>
+            <plain>РЎРїР°СЃРёР±Рѕ РІР°Рј, РїР°РїС‹ Рё РјР°РјС‹,</plain>
         </string>
         <string>
-            <plain>Мы не забудем о вас.</plain>
+            <plain>РњС‹ РЅРµ Р·Р°Р±СѓРґРµРј Рѕ РІР°СЃ.</plain>
         </string>
         <string>
-            <plain>Ваши молитвы и слезы,</plain>
+            <plain>Р’Р°С€Рё РјРѕР»РёС‚РІС‹ Рё СЃР»РµР·С‹,</plain>
         </string>
         <string>
-            <plain>Что пролиты были за нас.</plain>
+            <plain>Р§С‚Рѕ РїСЂРѕР»РёС‚С‹ Р±С‹Р»Рё Р·Р° РЅР°СЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сегодня, друзья дорогие.</plain>
+            <plain>РЎРµРіРѕРґРЅСЏ, РґСЂСѓР·СЊСЏ РґРѕСЂРѕРіРёРµ.</plain>
         </string>
         <string>
-            <plain>Вступаете в брачный союз.</plain>
+            <plain>Р’СЃС‚СѓРїР°РµС‚Рµ РІ Р±СЂР°С‡РЅС‹Р№ СЃРѕСЋР·.</plain>
         </string>
         <string>
-            <plain>Желаем, чтоб был неизменным</plain>
+            <plain>Р–РµР»Р°РµРј, С‡С‚РѕР± Р±С‹Р» РЅРµРёР·РјРµРЅРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Спутником в жизни Иисус.</plain>
+            <plain>РЎРїСѓС‚РЅРёРєРѕРј РІ Р¶РёР·РЅРё РРёСЃСѓСЃ.</plain>
         </string>
     </verse>
 </psalm>

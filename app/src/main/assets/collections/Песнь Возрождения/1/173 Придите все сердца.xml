@@ -1,85 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="173" name="Придите все сердца" canon="false" text="" textRus="" music="">
+<psalm number="173" name="РџСЂРёРґРёС‚Рµ РІСЃРµ СЃРµСЂРґС†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Придите все сердца,</plain>
+            <plain>РџСЂРёРґРёС‚Рµ РІСЃРµ СЃРµСЂРґС†Р°,</plain>
         </string>
         <string>
-            <plain>Кто любит труд Отца!</plain>
+            <plain>РљС‚Рѕ Р»СЋР±РёС‚ С‚СЂСѓРґ РћС‚С†Р°!</plain>
         </string>
         <string>
-            <plain>И пойте, окруживши трон,</plain>
+            <plain>Р РїРѕР№С‚Рµ, РѕРєСЂСѓР¶РёРІС€Рё С‚СЂРѕРЅ,</plain>
         </string>
         <string>
-            <plain>Со всеми (вместе) кто спасен.</plain>
+            <plain>РЎРѕ РІСЃРµРјРё (РІРјРµСЃС‚Рµ) РєС‚Рѕ СЃРїР°СЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Со всеми (вместе) кто спасен.</plain>
+            <plain>РЎРѕ РІСЃРµРјРё (РІРјРµСЃС‚Рµ) РєС‚Рѕ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Идем мы к Сиону,</plain>
+            <plain>РРґРµРј РјС‹ Рє РЎРёРѕРЅСѓ,</plain>
         </string>
         <string>
-            <plain>В радостный, чудный Сион,</plain>
+            <plain>Р’ СЂР°РґРѕСЃС‚РЅС‹Р№, С‡СѓРґРЅС‹Р№ РЎРёРѕРЅ,</plain>
         </string>
         <string>
-            <plain>Идем мы прямо к Сиону,</plain>
+            <plain>РРґРµРј РјС‹ РїСЂСЏРјРѕ Рє РЎРёРѕРЅСѓ,</plain>
         </string>
         <string>
-            <plain>В украшенный город Творца.</plain>
+            <plain>Р’ СѓРєСЂР°С€РµРЅРЅС‹Р№ РіРѕСЂРѕРґ РўРІРѕСЂС†Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пусть те лишь не поют,</plain>
+            <plain>РџСѓСЃС‚СЊ С‚Рµ Р»РёС€СЊ РЅРµ РїРѕСЋС‚,</plain>
         </string>
         <string>
-            <plain>Кто Господа не чтут,</plain>
+            <plain>РљС‚Рѕ Р“РѕСЃРїРѕРґР° РЅРµ С‡С‚СѓС‚,</plain>
         </string>
         <string>
-            <plain>Но дети Божьи пусть поют,</plain>
+            <plain>РќРѕ РґРµС‚Рё Р‘РѕР¶СЊРё РїСѓСЃС‚СЊ РїРѕСЋС‚,</plain>
         </string>
         <string>
-            <plain>Забыв (навек) печаль и труд.</plain>
+            <plain>Р—Р°Р±С‹РІ (РЅР°РІРµРє) РїРµС‡Р°Р»СЊ Рё С‚СЂСѓРґ.</plain>
         </string>
         <string>
-            <plain>Забыв (навек) печаль и труд.</plain>
+            <plain>Р—Р°Р±С‹РІ (РЅР°РІРµРє) РїРµС‡Р°Р»СЊ Рё С‚СЂСѓРґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Уж ныне нам Сион</plain>
+            <plain>РЈР¶ РЅС‹РЅРµ РЅР°Рј РЎРёРѕРЅ</plain>
         </string>
         <string>
-            <plain>Сменяет песнью стон,</plain>
+            <plain>РЎРјРµРЅСЏРµС‚ РїРµСЃРЅСЊСЋ СЃС‚РѕРЅ,</plain>
         </string>
         <string>
-            <plain>Пока еще мы не пришли</plain>
+            <plain>РџРѕРєР° РµС‰Рµ РјС‹ РЅРµ РїСЂРёС€Р»Рё</plain>
         </string>
         <string>
-            <plain>К полям (благим) святой земли.</plain>
+            <plain>Рљ РїРѕР»СЏРј (Р±Р»Р°РіРёРј) СЃРІСЏС‚РѕР№ Р·РµРјР»Рё.</plain>
         </string>
         <string>
-            <plain>К полям (благим) святой земли.</plain>
+            <plain>Рљ РїРѕР»СЏРј (Р±Р»Р°РіРёРј) СЃРІСЏС‚РѕР№ Р·РµРјР»Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>А там, где нет обид,</plain>
+            <plain>Рђ С‚Р°Рј, РіРґРµ РЅРµС‚ РѕР±РёРґ,</plain>
         </string>
         <string>
-            <plain>Пусть вечно песнь звучит;</plain>
+            <plain>РџСѓСЃС‚СЊ РІРµС‡РЅРѕ РїРµСЃРЅСЊ Р·РІСѓС‡РёС‚;</plain>
         </string>
         <string>
-            <plain>С Эммануилом мы идем</plain>
+            <plain>РЎ Р­РјРјР°РЅСѓРёР»РѕРј РјС‹ РёРґРµРј</plain>
         </string>
         <string>
-            <plain>В мир лучший, в (дивный) вечный дом.</plain>
+            <plain>Р’ РјРёСЂ Р»СѓС‡С€РёР№, РІ (РґРёРІРЅС‹Р№) РІРµС‡РЅС‹Р№ РґРѕРј.</plain>
         </string>
         <string>
-            <plain>В мир лучший, в (дивный) вечный дом.</plain>
+            <plain>Р’ РјРёСЂ Р»СѓС‡С€РёР№, РІ (РґРёРІРЅС‹Р№) РІРµС‡РЅС‹Р№ РґРѕРј.</plain>
         </string>
     </verse>
 </psalm>

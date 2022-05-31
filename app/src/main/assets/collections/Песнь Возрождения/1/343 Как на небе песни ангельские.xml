@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="343" name="Как на небе песни ангельские" canon="false" text="" textRus="" music="">
+<psalm number="343" name="РљР°Рє РЅР° РЅРµР±Рµ РїРµСЃРЅРё Р°РЅРіРµР»СЊСЃРєРёРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как на небе песни ангельские</plain>
+            <plain>РљР°Рє РЅР° РЅРµР±Рµ РїРµСЃРЅРё Р°РЅРіРµР»СЊСЃРєРёРµ</plain>
         </string>
         <string>
-            <plain>Льются звонкою рекой,</plain>
+            <plain>Р›СЊСЋС‚СЃСЏ Р·РІРѕРЅРєРѕСЋ СЂРµРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Так звучат слова евангельские</plain>
+            <plain>РўР°Рє Р·РІСѓС‡Р°С‚ СЃР»РѕРІР° РµРІР°РЅРіРµР»СЊСЃРєРёРµ</plain>
         </string>
         <string>
-            <plain>Над печальною землей.</plain>
+            <plain>РќР°Рґ РїРµС‡Р°Р»СЊРЅРѕСЋ Р·РµРјР»РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слушай, слушай весть евангельскую,</plain>
+            <plain>РЎР»СѓС€Р°Р№, СЃР»СѓС€Р°Р№ РІРµСЃС‚СЊ РµРІР°РЅРіРµР»СЊСЃРєСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Весть спасенья,</plain>
+            <plain>Р’РµСЃС‚СЊ СЃРїР°СЃРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Весть о Божией любви!</plain>
+            <plain>Р’РµСЃС‚СЊ Рѕ Р‘РѕР¶РёРµР№ Р»СЋР±РІРё!</plain>
         </string>
         <string>
-            <plain>Весть о Божией любви!</plain>
+            <plain>Р’РµСЃС‚СЊ Рѕ Р‘РѕР¶РёРµР№ Р»СЋР±РІРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Всем дана любовь спасающая, -</plain>
+            <plain>Р’СЃРµРј РґР°РЅР° Р»СЋР±РѕРІСЊ СЃРїР°СЃР°СЋС‰Р°СЏ, -</plain>
         </string>
         <string>
-            <plain>Так гласит благая весть, -</plain>
+            <plain>РўР°Рє РіР»Р°СЃРёС‚ Р±Р»Р°РіР°СЏ РІРµСЃС‚СЊ, -</plain>
         </string>
         <string>
-            <plain>Милость Божья всепрощающая</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ Р‘РѕР¶СЊСЏ РІСЃРµРїСЂРѕС‰Р°СЋС‰Р°СЏ</plain>
         </string>
         <string>
-            <plain>Хочет грешных приобресть.</plain>
+            <plain>РҐРѕС‡РµС‚ РіСЂРµС€РЅС‹С… РїСЂРёРѕР±СЂРµСЃС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Душу, в мире погибающую,</plain>
+            <plain>Р”СѓС€Сѓ, РІ РјРёСЂРµ РїРѕРіРёР±Р°СЋС‰СѓСЋ,</plain>
         </string>
         <string>
-            <plain>Бог от века возлюбил</plain>
+            <plain>Р‘РѕРі РѕС‚ РІРµРєР° РІРѕР·Р»СЋР±РёР»</plain>
         </string>
         <string>
-            <plain>И ее, в грехах страдающую,</plain>
+            <plain>Р РµРµ, РІ РіСЂРµС…Р°С… СЃС‚СЂР°РґР°СЋС‰СѓСЋ,</plain>
         </string>
         <string>
-            <plain>Смертью Сына искупил.</plain>
+            <plain>РЎРјРµСЂС‚СЊСЋ РЎС‹РЅР° РёСЃРєСѓРїРёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Всем, под бременем труждающимся,</plain>
+            <plain>Р’СЃРµРј, РїРѕРґ Р±СЂРµРјРµРЅРµРј С‚СЂСѓР¶РґР°СЋС‰РёРјСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Есть у Господа покой;</plain>
+            <plain>Р•СЃС‚СЊ Сѓ Р“РѕСЃРїРѕРґР° РїРѕРєРѕР№;</plain>
         </string>
         <string>
-            <plain>Всем скорбящим, заблуждающимся</plain>
+            <plain>Р’СЃРµРј СЃРєРѕСЂР±СЏС‰РёРј, Р·Р°Р±Р»СѓР¶РґР°СЋС‰РёРјСЃСЏ</plain>
         </string>
         <string>
-            <plain>Есть к блаженству путь живой.</plain>
+            <plain>Р•СЃС‚СЊ Рє Р±Р»Р°Р¶РµРЅСЃС‚РІСѓ РїСѓС‚СЊ Р¶РёРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если примешь весть евангельскую,</plain>
+            <plain>Р•СЃР»Рё РїСЂРёРјРµС€СЊ РІРµСЃС‚СЊ РµРІР°РЅРіРµР»СЊСЃРєСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Будешь вечно ликовать;</plain>
+            <plain>Р‘СѓРґРµС€СЊ РІРµС‡РЅРѕ Р»РёРєРѕРІР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Небо станет песню ангельскую</plain>
+            <plain>РќРµР±Рѕ СЃС‚Р°РЅРµС‚ РїРµСЃРЅСЋ Р°РЅРіРµР»СЊСЃРєСѓСЋ</plain>
         </string>
         <string>
-            <plain>С новой силой воспевать.</plain>
+            <plain>РЎ РЅРѕРІРѕР№ СЃРёР»РѕР№ РІРѕСЃРїРµРІР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,97 +1,97 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="426" name="На далеком холме старый крест виден мне" canon="false" text="" textRus="" music="">
+<psalm number="426" name="РќР° РґР°Р»РµРєРѕРј С…РѕР»РјРµ СЃС‚Р°СЂС‹Р№ РєСЂРµСЃС‚ РІРёРґРµРЅ РјРЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На далеком холме</plain>
+            <plain>РќР° РґР°Р»РµРєРѕРј С…РѕР»РјРµ</plain>
         </string>
         <string>
-            <plain>старый крест виден мне,</plain>
+            <plain>СЃС‚Р°СЂС‹Р№ РєСЂРµСЃС‚ РІРёРґРµРЅ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Знак позора, страданий и мук.</plain>
+            <plain>Р—РЅР°Рє РїРѕР·РѕСЂР°, СЃС‚СЂР°РґР°РЅРёР№ Рё РјСѓРє.</plain>
         </string>
         <string>
-            <plain>О кресте мы поем</plain>
+            <plain>Рћ РєСЂРµСЃС‚Рµ РјС‹ РїРѕРµРј</plain>
         </string>
         <string>
-            <plain>потому, что на нем</plain>
+            <plain>РїРѕС‚РѕРјСѓ, С‡С‚Рѕ РЅР° РЅРµРј</plain>
         </string>
         <string>
-            <plain>Был распят лучший грешников Друг.</plain>
+            <plain>Р‘С‹Р» СЂР°СЃРїСЏС‚ Р»СѓС‡С€РёР№ РіСЂРµС€РЅРёРєРѕРІ Р”СЂСѓРі.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Старый крест осудил суету,</plain>
+            <plain>РЎС‚Р°СЂС‹Р№ РєСЂРµСЃС‚ РѕСЃСѓРґРёР» СЃСѓРµС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Дал покой для усталых сердец.</plain>
+            <plain>Р”Р°Р» РїРѕРєРѕР№ РґР»СЏ СѓСЃС‚Р°Р»С‹С… СЃРµСЂРґРµС†.</plain>
         </string>
         <string>
-            <plain>Я душою прильнул ко кресту,</plain>
+            <plain>РЇ РґСѓС€РѕСЋ РїСЂРёР»СЊРЅСѓР» РєРѕ РєСЂРµСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Чрез него обрету я венец.</plain>
+            <plain>Р§СЂРµР· РЅРµРіРѕ РѕР±СЂРµС‚Сѓ СЏ РІРµРЅРµС†.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Старый крест позабыт.</plain>
+            <plain>РЎС‚Р°СЂС‹Р№ РєСЂРµСЃС‚ РїРѕР·Р°Р±С‹С‚.</plain>
         </string>
         <string>
-            <plain>Мир в погибель спешит.</plain>
+            <plain>РњРёСЂ РІ РїРѕРіРёР±РµР»СЊ СЃРїРµС€РёС‚.</plain>
         </string>
         <string>
-            <plain>Крест Христов - наша сила и честь.</plain>
+            <plain>РљСЂРµСЃС‚ РҐСЂРёСЃС‚РѕРІ - РЅР°С€Р° СЃРёР»Р° Рё С‡РµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Вечный с неба сходил,</plain>
+            <plain>Р’РµС‡РЅС‹Р№ СЃ РЅРµР±Р° СЃС…РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>на земле в теле жил,</plain>
+            <plain>РЅР° Р·РµРјР»Рµ РІ С‚РµР»Рµ Р¶РёР»,</plain>
         </string>
         <string>
-            <plain>Чтоб его на Голгофу отнесть.</plain>
+            <plain>Р§С‚РѕР± РµРіРѕ РЅР° Р“РѕР»РіРѕС„Сѓ РѕС‚РЅРµСЃС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Старый крест обагрен,</plain>
+            <plain>РЎС‚Р°СЂС‹Р№ РєСЂРµСЃС‚ РѕР±Р°РіСЂРµРЅ,</plain>
         </string>
         <string>
-            <plain>но не страшен мне он,</plain>
+            <plain>РЅРѕ РЅРµ СЃС‚СЂР°С€РµРЅ РјРЅРµ РѕРЅ,</plain>
         </string>
         <string>
-            <plain>В нем открылась нам Божья любовь:</plain>
+            <plain>Р’ РЅРµРј РѕС‚РєСЂС‹Р»Р°СЃСЊ РЅР°Рј Р‘РѕР¶СЊСЏ Р»СЋР±РѕРІСЊ:</plain>
         </string>
         <string>
-            <plain>Кровь Иисуса Христа</plain>
+            <plain>РљСЂРѕРІСЊ РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>пролилась со креста,</plain>
+            <plain>РїСЂРѕР»РёР»Р°СЃСЊ СЃРѕ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Чтоб меня искупить от грехов.</plain>
+            <plain>Р§С‚РѕР± РјРµРЅСЏ РёСЃРєСѓРїРёС‚СЊ РѕС‚ РіСЂРµС…РѕРІ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Старый крест возвещать</plain>
+            <plain>РЎС‚Р°СЂС‹Р№ РєСЂРµСЃС‚ РІРѕР·РІРµС‰Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>и к Христу призывать,-</plain>
+            <plain>Рё Рє РҐСЂРёСЃС‚Сѓ РїСЂРёР·С‹РІР°С‚СЊ,-</plain>
         </string>
         <string>
-            <plain>Вот на что я себя отдаю.</plain>
+            <plain>Р’РѕС‚ РЅР° С‡С‚Рѕ СЏ СЃРµР±СЏ РѕС‚РґР°СЋ.</plain>
         </string>
         <string>
-            <plain>По скитаньи земном</plain>
+            <plain>РџРѕ СЃРєРёС‚Р°РЅСЊРё Р·РµРјРЅРѕРј</plain>
         </string>
         <string>
-            <plain>перейду в вечный дом,</plain>
+            <plain>РїРµСЂРµР№РґСѓ РІ РІРµС‡РЅС‹Р№ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Он меня примет в славу свою.</plain>
+            <plain>РћРЅ РјРµРЅСЏ РїСЂРёРјРµС‚ РІ СЃР»Р°РІСѓ СЃРІРѕСЋ.</plain>
         </string>
     </verse>
 </psalm>

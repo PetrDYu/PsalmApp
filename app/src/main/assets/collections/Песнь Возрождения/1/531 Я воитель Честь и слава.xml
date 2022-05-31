@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="531" name="Я воитель Честь и слава" canon="false" text="" textRus="" music="">
+<psalm number="531" name="РЇ РІРѕРёС‚РµР»СЊ Р§РµСЃС‚СЊ Рё СЃР»Р°РІР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я воитель! Честь и слава</plain>
+            <plain>РЇ РІРѕРёС‚РµР»СЊ! Р§РµСЃС‚СЊ Рё СЃР»Р°РІР°</plain>
         </string>
         <string>
-            <plain>Ждет меня на небесах.</plain>
+            <plain>Р–РґРµС‚ РјРµРЅСЏ РЅР° РЅРµР±РµСЃР°С….</plain>
         </string>
         <string>
-            <plain>Приидите и скажу я,</plain>
+            <plain>РџСЂРёРёРґРёС‚Рµ Рё СЃРєР°Р¶Сѓ СЏ,</plain>
         </string>
         <string>
-            <plain>Как ко мне Спаситель благ!</plain>
+            <plain>РљР°Рє РєРѕ РјРЅРµ РЎРїР°СЃРёС‚РµР»СЊ Р±Р»Р°Рі!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Когда окончим жаркий бой,</plain>
+            <plain>РљРѕРіРґР° РѕРєРѕРЅС‡РёРј Р¶Р°СЂРєРёР№ Р±РѕР№,</plain>
         </string>
         <string>
-            <plain>Придем в небесный дом святой.</plain>
+            <plain>РџСЂРёРґРµРј РІ РЅРµР±РµСЃРЅС‹Р№ РґРѕРј СЃРІСЏС‚РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хочешь знать, кем был я призван</plain>
+            <plain>РҐРѕС‡РµС€СЊ Р·РЅР°С‚СЊ, РєРµРј Р±С‹Р» СЏ РїСЂРёР·РІР°РЅ</plain>
         </string>
         <string>
-            <plain>Честь иметь в борьбе святой?</plain>
+            <plain>Р§РµСЃС‚СЊ РёРјРµС‚СЊ РІ Р±РѕСЂСЊР±Рµ СЃРІСЏС‚РѕР№?</plain>
         </string>
         <string>
-            <plain>Иисус Своей любовью</plain>
+            <plain>РРёСЃСѓСЃ РЎРІРѕРµР№ Р»СЋР±РѕРІСЊСЋ</plain>
         </string>
         <string>
-            <plain>Звал меня идти с Собой.</plain>
+            <plain>Р—РІР°Р» РјРµРЅСЏ РёРґС‚Рё СЃ РЎРѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Про меня сказали люди:</plain>
+            <plain>РџСЂРѕ РјРµРЅСЏ СЃРєР°Р·Р°Р»Рё Р»СЋРґРё:</plain>
         </string>
         <string>
-            <plain>В битве он не устоит.</plain>
+            <plain>Р’ Р±РёС‚РІРµ РѕРЅ РЅРµ СѓСЃС‚РѕРёС‚.</plain>
         </string>
         <string>
-            <plain>Все, однако, в том ошиблись:</plain>
+            <plain>Р’СЃРµ, РѕРґРЅР°РєРѕ, РІ С‚РѕРј РѕС€РёР±Р»РёСЃСЊ:</plain>
         </string>
         <string>
-            <plain>Бог - Хранитель мой и щит.</plain>
+            <plain>Р‘РѕРі - РҐСЂР°РЅРёС‚РµР»СЊ РјРѕР№ Рё С‰РёС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я обрадован победой:</plain>
+            <plain>РЇ РѕР±СЂР°РґРѕРІР°РЅ РїРѕР±РµРґРѕР№:</plain>
         </string>
         <string>
-            <plain>Бог один то совершил!</plain>
+            <plain>Р‘РѕРі РѕРґРёРЅ С‚Рѕ СЃРѕРІРµСЂС€РёР»!</plain>
         </string>
         <string>
-            <plain>Я на камне веры твердой</plain>
+            <plain>РЇ РЅР° РєР°РјРЅРµ РІРµСЂС‹ С‚РІРµСЂРґРѕР№</plain>
         </string>
         <string>
-            <plain>Дух свой слабый укрепил.</plain>
+            <plain>Р”СѓС… СЃРІРѕР№ СЃР»Р°Р±С‹Р№ СѓРєСЂРµРїРёР».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Богу слава и Иисусу!</plain>
+            <plain>Р‘РѕРіСѓ СЃР»Р°РІР° Рё РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>О, как крепко любит Он!</plain>
+            <plain>Рћ, РєР°Рє РєСЂРµРїРєРѕ Р»СЋР±РёС‚ РћРЅ!</plain>
         </string>
         <string>
-            <plain>И в любви Ему служу я,</plain>
+            <plain>Р РІ Р»СЋР±РІРё Р•РјСѓ СЃР»СѓР¶Сѓ СЏ,</plain>
         </string>
         <string>
-            <plain>Духом правды освящен.</plain>
+            <plain>Р”СѓС…РѕРј РїСЂР°РІРґС‹ РѕСЃРІСЏС‰РµРЅ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Скоро мой Господь вернется,</plain>
+            <plain>РЎРєРѕСЂРѕ РјРѕР№ Р“РѕСЃРїРѕРґСЊ РІРµСЂРЅРµС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Скоро снова Он придет!</plain>
+            <plain>РЎРєРѕСЂРѕ СЃРЅРѕРІР° РћРЅ РїСЂРёРґРµС‚!</plain>
         </string>
         <string>
-            <plain>Счастлив тот, кто сердцем бодрым</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІ С‚РѕС‚, РєС‚Рѕ СЃРµСЂРґС†РµРј Р±РѕРґСЂС‹Рј</plain>
         </string>
         <string>
-            <plain>Встретить Господа пойдет.</plain>
+            <plain>Р’СЃС‚СЂРµС‚РёС‚СЊ Р“РѕСЃРїРѕРґР° РїРѕР№РґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

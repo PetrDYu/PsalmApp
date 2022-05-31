@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1919" name="Встаньте юные герои" canon="false" text="" textRus="" music="">
+<psalm number="1919" name="Р’СЃС‚Р°РЅСЊС‚Рµ СЋРЅС‹Рµ РіРµСЂРѕРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Встаньте, юные герои,</plain>
+            <plain>Р’СЃС‚Р°РЅСЊС‚Рµ, СЋРЅС‹Рµ РіРµСЂРѕРё,</plain>
         </string>
         <string>
-            <plain>Собирайтесь у креста</plain>
+            <plain>РЎРѕР±РёСЂР°Р№С‚РµСЃСЊ Сѓ РєСЂРµСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>И из рабства души ближних</plain>
+            <plain>Р РёР· СЂР°Р±СЃС‚РІР° РґСѓС€Рё Р±Р»РёР¶РЅРёС…</plain>
         </string>
         <string>
-            <plain>Вы спасайте для Христа!</plain>
+            <plain>Р’С‹ СЃРїР°СЃР°Р№С‚Рµ РґР»СЏ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Все вперед, везде нужда,</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ, РІРµР·РґРµ РЅСѓР¶РґР°,</plain>
         </string>
         <string>
-            <plain>За Вождем без колебанья,</plain>
+            <plain>Р—Р° Р’РѕР¶РґРµРј Р±РµР· РєРѕР»РµР±Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Ценно время для труда;</plain>
+            <plain>Р¦РµРЅРЅРѕ РІСЂРµРјСЏ РґР»СЏ С‚СЂСѓРґР°;</plain>
         </string>
         <string>
-            <plain>О себе долой мечтанья!</plain>
+            <plain>Рћ СЃРµР±Рµ РґРѕР»РѕР№ РјРµС‡С‚Р°РЅСЊСЏ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Встаньте, юные герои,</plain>
+            <plain>Р’СЃС‚Р°РЅСЊС‚Рµ, СЋРЅС‹Рµ РіРµСЂРѕРё,</plain>
         </string>
         <string>
-            <plain>И дружней, сомкните строй!</plain>
+            <plain>Р РґСЂСѓР¶РЅРµР№, СЃРѕРјРєРЅРёС‚Рµ СЃС‚СЂРѕР№!</plain>
         </string>
         <string>
-            <plain>Ведь грехи людей уносят.</plain>
+            <plain>Р’РµРґСЊ РіСЂРµС…Рё Р»СЋРґРµР№ СѓРЅРѕСЃСЏС‚.</plain>
         </string>
         <string>
-            <plain>Со Христом идите в бой.</plain>
+            <plain>РЎРѕ РҐСЂРёСЃС‚РѕРј РёРґРёС‚Рµ РІ Р±РѕР№.</plain>
         </string>
         <string>
-            <plain>Все вперед, нам дорог миг,</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ, РЅР°Рј РґРѕСЂРѕРі РјРёРі,</plain>
         </string>
         <string>
-            <plain>Сразу вы не поддавайтесь.</plain>
+            <plain>РЎСЂР°Р·Сѓ РІС‹ РЅРµ РїРѕРґРґР°РІР°Р№С‚РµСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Смелый в чаяньях своих</plain>
+            <plain>РЎРјРµР»С‹Р№ РІ С‡Р°СЏРЅСЊСЏС… СЃРІРѕРёС…</plain>
         </string>
         <string>
-            <plain>Целей высших достигает.</plain>
+            <plain>Р¦РµР»РµР№ РІС‹СЃС€РёС… РґРѕСЃС‚РёРіР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Встаньте, юные герои,</plain>
+            <plain>Р’СЃС‚Р°РЅСЊС‚Рµ, СЋРЅС‹Рµ РіРµСЂРѕРё,</plain>
         </string>
         <string>
-            <plain>Вот победа к нам грядет;</plain>
+            <plain>Р’РѕС‚ РїРѕР±РµРґР° Рє РЅР°Рј РіСЂСЏРґРµС‚;</plain>
         </string>
         <string>
-            <plain>Привлекайте всех спасенных,</plain>
+            <plain>РџСЂРёРІР»РµРєР°Р№С‚Рµ РІСЃРµС… СЃРїР°СЃРµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Все вы с Господом вперед!</plain>
+            <plain>Р’СЃРµ РІС‹ СЃ Р“РѕСЃРїРѕРґРѕРј РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Все вперед за Божью честь,</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ Р·Р° Р‘РѕР¶СЊСЋ С‡РµСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Если медлишь, люби гибнут,</plain>
+            <plain>Р•СЃР»Рё РјРµРґР»РёС€СЊ, Р»СЋР±Рё РіРёР±РЅСѓС‚,</plain>
         </string>
         <string>
-            <plain>Слушайте Христову весть:</plain>
+            <plain>РЎР»СѓС€Р°Р№С‚Рµ РҐСЂРёСЃС‚РѕРІСѓ РІРµСЃС‚СЊ:</plain>
         </string>
         <string>
-            <plain>Победителями будьте!</plain>
+            <plain>РџРѕР±РµРґРёС‚РµР»СЏРјРё Р±СѓРґСЊС‚Рµ!</plain>
         </string>
     </verse>
 </psalm>

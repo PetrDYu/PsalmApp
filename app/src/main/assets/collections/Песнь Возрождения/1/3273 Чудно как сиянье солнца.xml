@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3273" name="Чудно как сиянье солнца" canon="false" text="" textRus="" music="">
+<psalm number="3273" name="Р§СѓРґРЅРѕ РєР°Рє СЃРёСЏРЅСЊРµ СЃРѕР»РЅС†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Чудно, как сиянье солнца,</plain>
+            <plain>Р§СѓРґРЅРѕ, РєР°Рє СЃРёСЏРЅСЊРµ СЃРѕР»РЅС†Р°,</plain>
         </string>
         <string>
-            <plain>светит нам вечерний свет,</plain>
+            <plain>СЃРІРµС‚РёС‚ РЅР°Рј РІРµС‡РµСЂРЅРёР№ СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>на земле везде и всюду</plain>
+            <plain>РЅР° Р·РµРјР»Рµ РІРµР·РґРµ Рё РІСЃСЋРґСѓ</plain>
         </string>
         <string>
-            <plain>изливается для всех.</plain>
+            <plain>РёР·Р»РёРІР°РµС‚СЃСЏ РґР»СЏ РІСЃРµС….</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ярко светит свет вечерний,</plain>
+            <plain>РЇСЂРєРѕ СЃРІРµС‚РёС‚ СЃРІРµС‚ РІРµС‡РµСЂРЅРёР№,</plain>
         </string>
         <string>
-            <plain>виден он вблизи, вдали,</plain>
+            <plain>РІРёРґРµРЅ РѕРЅ РІР±Р»РёР·Рё, РІРґР°Р»Рё,</plain>
         </string>
         <string>
-            <plain>чтоб народы всей планеты</plain>
+            <plain>С‡С‚РѕР± РЅР°СЂРѕРґС‹ РІСЃРµР№ РїР»Р°РЅРµС‚С‹</plain>
         </string>
         <string>
-            <plain>истину познать могли.</plain>
+            <plain>РёСЃС‚РёРЅСѓ РїРѕР·РЅР°С‚СЊ РјРѕРіР»Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Очень многие столетья мир</plain>
+            <plain>РћС‡РµРЅСЊ РјРЅРѕРіРёРµ СЃС‚РѕР»РµС‚СЊСЏ РјРёСЂ</plain>
         </string>
         <string>
-            <plain>лежал в духовной тьме,</plain>
+            <plain>Р»РµР¶Р°Р» РІ РґСѓС…РѕРІРЅРѕР№ С‚СЊРјРµ,</plain>
         </string>
         <string>
-            <plain>но теперь же Церковь Божью</plain>
+            <plain>РЅРѕ С‚РµРїРµСЂСЊ Р¶Рµ Р¦РµСЂРєРѕРІСЊ Р‘РѕР¶СЊСЋ</plain>
         </string>
         <string>
-            <plain>в мире ясно видят все.</plain>
+            <plain>РІ РјРёСЂРµ СЏСЃРЅРѕ РІРёРґСЏС‚ РІСЃРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Светит свет её прекрасный,</plain>
+            <plain>РЎРІРµС‚РёС‚ СЃРІРµС‚ РµС‘ РїСЂРµРєСЂР°СЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>как в апостольские дни,</plain>
+            <plain>РєР°Рє РІ Р°РїРѕСЃС‚РѕР»СЊСЃРєРёРµ РґРЅРё,</plain>
         </string>
         <string>
-            <plain>в силе Духа и единства</plain>
+            <plain>РІ СЃРёР»Рµ Р”СѓС…Р° Рё РµРґРёРЅСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>и божественной любви.</plain>
+            <plain>Рё Р±РѕР¶РµСЃС‚РІРµРЅРЅРѕР№ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Святость, мир, любовь,</plain>
+            <plain>РЎРІСЏС‚РѕСЃС‚СЊ, РјРёСЂ, Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>смиренье - украшения её.</plain>
+            <plain>СЃРјРёСЂРµРЅСЊРµ - СѓРєСЂР°С€РµРЅРёСЏ РµС‘.</plain>
         </string>
         <string>
-            <plain>Нет греха в ней и порока,</plain>
+            <plain>РќРµС‚ РіСЂРµС…Р° РІ РЅРµР№ Рё РїРѕСЂРѕРєР°,</plain>
         </string>
         <string>
-            <plain>есть лишь праведность Его.</plain>
+            <plain>РµСЃС‚СЊ Р»РёС€СЊ РїСЂР°РІРµРґРЅРѕСЃС‚СЊ Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Бог устроил члены в теле,</plain>
+            <plain>Р‘РѕРі СѓСЃС‚СЂРѕРёР» С‡Р»РµРЅС‹ РІ С‚РµР»Рµ,</plain>
         </string>
         <string>
-            <plain>как того желает Он,</plain>
+            <plain>РєР°Рє С‚РѕРіРѕ Р¶РµР»Р°РµС‚ РћРЅ,</plain>
         </string>
         <string>
-            <plain>и любовию Христовой каждый</plain>
+            <plain>Рё Р»СЋР±РѕРІРёСЋ РҐСЂРёСЃС‚РѕРІРѕР№ РєР°Р¶РґС‹Р№</plain>
         </string>
         <string>
-            <plain>член с другим скреплён</plain>
+            <plain>С‡Р»РµРЅ СЃ РґСЂСѓРіРёРј СЃРєСЂРµРїР»С‘РЅ</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Наш Господь достоин славы,</plain>
+            <plain>РќР°С€ Р“РѕСЃРїРѕРґСЊ РґРѕСЃС‚РѕРёРЅ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Он - опора нам во всём.</plain>
+            <plain>РћРЅ - РѕРїРѕСЂР° РЅР°Рј РІРѕ РІСЃС‘Рј.</plain>
         </string>
         <string>
-            <plain>Вывел нас из заблуждений</plain>
+            <plain>Р’С‹РІРµР» РЅР°СЃ РёР· Р·Р°Р±Р»СѓР¶РґРµРЅРёР№</plain>
         </string>
         <string>
-            <plain>в милосердии Своём.</plain>
+            <plain>РІ РјРёР»РѕСЃРµСЂРґРёРё РЎРІРѕС‘Рј.</plain>
         </string>
     </verse>
 </psalm>

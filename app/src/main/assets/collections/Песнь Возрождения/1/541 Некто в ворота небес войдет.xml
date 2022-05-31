@@ -1,103 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="541" name="Некто в ворота небес войдет" canon="false" text="" textRus="" music="">
+<psalm number="541" name="РќРµРєС‚Рѕ РІ РІРѕСЂРѕС‚Р° РЅРµР±РµСЃ РІРѕР№РґРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Некто в ворота небес войдет;</plain>
+            <plain>РќРµРєС‚Рѕ РІ РІРѕСЂРѕС‚Р° РЅРµР±РµСЃ РІРѕР№РґРµС‚;</plain>
         </string>
         <string>
-            <plain>Близок час! Близок час!</plain>
+            <plain>Р‘Р»РёР·РѕРє С‡Р°СЃ! Р‘Р»РёР·РѕРє С‡Р°СЃ!</plain>
         </string>
         <string>
-            <plain>Некто познает рай, что там ждет.</plain>
+            <plain>РќРµРєС‚Рѕ РїРѕР·РЅР°РµС‚ СЂР°Р№, С‡С‚Рѕ С‚Р°Рј Р¶РґРµС‚.</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Счастье видений святых найдет,</plain>
+            <plain>РЎС‡Р°СЃС‚СЊРµ РІРёРґРµРЅРёР№ СЃРІСЏС‚С‹С… РЅР°Р№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Вкусит от радостей и щедрот.</plain>
+            <plain>Р’РєСѓСЃРёС‚ РѕС‚ СЂР°РґРѕСЃС‚РµР№ Рё С‰РµРґСЂРѕС‚.</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Некто свой крест сложит наконец;</plain>
+            <plain>РќРµРєС‚Рѕ СЃРІРѕР№ РєСЂРµСЃС‚ СЃР»РѕР¶РёС‚ РЅР°РєРѕРЅРµС†;</plain>
         </string>
         <string>
-            <plain>Близок час! Близок час!</plain>
+            <plain>Р‘Р»РёР·РѕРє С‡Р°СЃ! Р‘Р»РёР·РѕРє С‡Р°СЃ!</plain>
         </string>
         <string>
-            <plain>Верный получит святой венец.</plain>
+            <plain>Р’РµСЂРЅС‹Р№ РїРѕР»СѓС‡РёС‚ СЃРІСЏС‚РѕР№ РІРµРЅРµС†.</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Чтобы забыть яд земных скорбей</plain>
+            <plain>Р§С‚РѕР±С‹ Р·Р°Р±С‹С‚СЊ СЏРґ Р·РµРјРЅС‹С… СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>И обрести счастье вечных дней.</plain>
+            <plain>Р РѕР±СЂРµСЃС‚Рё СЃС‡Р°СЃС‚СЊРµ РІРµС‡РЅС‹С… РґРЅРµР№.</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Некто стучать будет в дверь не раз,</plain>
+            <plain>РќРµРєС‚Рѕ СЃС‚СѓС‡Р°С‚СЊ Р±СѓРґРµС‚ РІ РґРІРµСЂСЊ РЅРµ СЂР°Р·,</plain>
         </string>
         <string>
-            <plain>Близок час! Близок час!</plain>
+            <plain>Р‘Р»РёР·РѕРє С‡Р°СЃ! Р‘Р»РёР·РѕРє С‡Р°СЃ!</plain>
         </string>
         <string>
-            <plain>Голос услышит: "Не знаю вас!"</plain>
+            <plain>Р“РѕР»РѕСЃ СѓСЃР»С‹С€РёС‚: "РќРµ Р·РЅР°СЋ РІР°СЃ!"</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Будет на двери в тот день печать,</plain>
+            <plain>Р‘СѓРґРµС‚ РЅР° РґРІРµСЂРё РІ С‚РѕС‚ РґРµРЅСЊ РїРµС‡Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Счастья святых им не увидать.</plain>
+            <plain>РЎС‡Р°СЃС‚СЊСЏ СЃРІСЏС‚С‹С… РёРј РЅРµ СѓРІРёРґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </chorus>
     <verse number="4">
         <string>
-            <plain>Некто там петь будет песнь душой,</plain>
+            <plain>РќРµРєС‚Рѕ С‚Р°Рј РїРµС‚СЊ Р±СѓРґРµС‚ РїРµСЃРЅСЊ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Близок час! Близок час!</plain>
+            <plain>Р‘Р»РёР·РѕРє С‡Р°СЃ! Р‘Р»РёР·РѕРє С‡Р°СЃ!</plain>
         </string>
         <string>
-            <plain>К хору спасенных примкнув с хвалой.</plain>
+            <plain>Рљ С…РѕСЂСѓ СЃРїР°СЃРµРЅРЅС‹С… РїСЂРёРјРєРЅСѓРІ СЃ С…РІР°Р»РѕР№.</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>Раньше пришедших из стран скорбей,</plain>
+            <plain>Р Р°РЅСЊС€Рµ РїСЂРёС€РµРґС€РёС… РёР· СЃС‚СЂР°РЅ СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>Вечно счастливых в душе своей.</plain>
+            <plain>Р’РµС‡РЅРѕ СЃС‡Р°СЃС‚Р»РёРІС‹С… РІ РґСѓС€Рµ СЃРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>А вы? А я? А вы? А я?</plain>
+            <plain>Рђ РІС‹? Рђ СЏ? Рђ РІС‹? Рђ СЏ?</plain>
         </string>
     </chorus>
 </psalm>

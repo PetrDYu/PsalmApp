@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="110" name="Знаешь ли ты сколько ясных" canon="false" text="" textRus="" music="">
+<psalm number="110" name="Р—РЅР°РµС€СЊ Р»Рё С‚С‹ СЃРєРѕР»СЊРєРѕ СЏСЃРЅС‹С…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Знаешь ли ты, сколько ясных</plain>
+            <plain>Р—РЅР°РµС€СЊ Р»Рё С‚С‹, СЃРєРѕР»СЊРєРѕ СЏСЃРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Звезд сияет в небесах?</plain>
+            <plain>Р—РІРµР·Рґ СЃРёСЏРµС‚ РІ РЅРµР±РµСЃР°С…?</plain>
         </string>
         <string>
-            <plain>Сколько облаков прекрасных</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РѕР±Р»Р°РєРѕРІ РїСЂРµРєСЂР°СЃРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Вдаль несется на ветрах?</plain>
+            <plain>Р’РґР°Р»СЊ РЅРµСЃРµС‚СЃСЏ РЅР° РІРµС‚СЂР°С…?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог Господь число их знает,</plain>
+            <plain>Р‘РѕРі Р“РѕСЃРїРѕРґСЊ С‡РёСЃР»Рѕ РёС… Р·РЅР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Ни одной не потеряет:</plain>
+            <plain>РќРё РѕРґРЅРѕР№ РЅРµ РїРѕС‚РµСЂСЏРµС‚:</plain>
         </string>
         <string>
-            <plain>Из громадного числа.</plain>
+            <plain>РР· РіСЂРѕРјР°РґРЅРѕРіРѕ С‡РёСЃР»Р°.</plain>
         </string>
         <string>
-            <plain>Из громадного числа.</plain>
+            <plain>РР· РіСЂРѕРјР°РґРЅРѕРіРѕ С‡РёСЃР»Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Знаешь ли ты, сколько быстрых</plain>
+            <plain>Р—РЅР°РµС€СЊ Р»Рё С‚С‹, СЃРєРѕР»СЊРєРѕ Р±С‹СЃС‚СЂС‹С…</plain>
         </string>
         <string>
-            <plain>Рыбок плещется в волнах?</plain>
+            <plain>Р С‹Р±РѕРє РїР»РµС‰РµС‚СЃСЏ РІ РІРѕР»РЅР°С…?</plain>
         </string>
         <string>
-            <plain>Сколько мотыльков пушистых</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РјРѕС‚С‹Р»СЊРєРѕРІ РїСѓС€РёСЃС‚С‹С…</plain>
         </string>
         <string>
-            <plain>Пролетает на полях?</plain>
+            <plain>РџСЂРѕР»РµС‚Р°РµС‚ РЅР° РїРѕР»СЏС…?</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Бог назвал их именами,</plain>
+            <plain>Р‘РѕРі РЅР°Р·РІР°Р» РёС… РёРјРµРЅР°РјРё,</plain>
         </string>
         <string>
-            <plain>Чтобы жили вместе с нами,</plain>
+            <plain>Р§С‚РѕР±С‹ Р¶РёР»Рё РІРјРµСЃС‚Рµ СЃ РЅР°РјРё,</plain>
         </string>
         <string>
-            <plain>Чтобы радовали нас.</plain>
+            <plain>Р§С‚РѕР±С‹ СЂР°РґРѕРІР°Р»Рё РЅР°СЃ.</plain>
         </string>
         <string>
-            <plain>Чтобы радовали нас.</plain>
+            <plain>Р§С‚РѕР±С‹ СЂР°РґРѕРІР°Р»Рё РЅР°СЃ.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Знаешь ли ты, сколько разных</plain>
+            <plain>Р—РЅР°РµС€СЊ Р»Рё С‚С‹, СЃРєРѕР»СЊРєРѕ СЂР°Р·РЅС‹С…</plain>
         </string>
         <string>
-            <plain>На земле живет людей?</plain>
+            <plain>РќР° Р·РµРјР»Рµ Р¶РёРІРµС‚ Р»СЋРґРµР№?</plain>
         </string>
         <string>
-            <plain>Сколько грешников несчастных</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РіСЂРµС€РЅРёРєРѕРІ РЅРµСЃС‡Р°СЃС‚РЅС‹С…</plain>
         </string>
         <string>
-            <plain>Гибнет в праздности своей?</plain>
+            <plain>Р“РёР±РЅРµС‚ РІ РїСЂР°Р·РґРЅРѕСЃС‚Рё СЃРІРѕРµР№?</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Божий взор на всех взирает,</plain>
+            <plain>Р‘РѕР¶РёР№ РІР·РѕСЂ РЅР° РІСЃРµС… РІР·РёСЂР°РµС‚,</plain>
         </string>
         <string>
-            <plain>И, где грешник погибает,</plain>
+            <plain>Р, РіРґРµ РіСЂРµС€РЅРёРє РїРѕРіРёР±Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Бог к нему в любви спешит.</plain>
+            <plain>Р‘РѕРі Рє РЅРµРјСѓ РІ Р»СЋР±РІРё СЃРїРµС€РёС‚.</plain>
         </string>
         <string>
-            <plain>Бог к нему в любви спешит.</plain>
+            <plain>Р‘РѕРі Рє РЅРµРјСѓ РІ Р»СЋР±РІРё СЃРїРµС€РёС‚.</plain>
         </string>
     </chorus>
 </psalm>

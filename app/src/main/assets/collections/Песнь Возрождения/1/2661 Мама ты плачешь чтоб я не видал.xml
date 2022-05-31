@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2661" name="Мама ты плачешь чтоб я не видал" canon="false" text="" textRus="" music="">
+<psalm number="2661" name="РњР°РјР° С‚С‹ РїР»Р°С‡РµС€СЊ С‡С‚РѕР± СЏ РЅРµ РІРёРґР°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мама, ты плачешь, чтоб я не видал,</plain>
+            <plain>РњР°РјР°, С‚С‹ РїР»Р°С‡РµС€СЊ, С‡С‚РѕР± СЏ РЅРµ РІРёРґР°Р»,</plain>
         </string>
         <string>
-            <plain>Слезы ты можешь сокрыть,</plain>
+            <plain>РЎР»РµР·С‹ С‚С‹ РјРѕР¶РµС€СЊ СЃРѕРєСЂС‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Но ты не можешь сокрыть от меня</plain>
+            <plain>РќРѕ С‚С‹ РЅРµ РјРѕР¶РµС€СЊ СЃРѕРєСЂС‹С‚СЊ РѕС‚ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>То, что ты любишь меня.</plain>
+            <plain>РўРѕ, С‡С‚Рѕ С‚С‹ Р»СЋР±РёС€СЊ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мама, милая мама моя,</plain>
+            <plain>РњР°РјР°, РјРёР»Р°СЏ РјР°РјР° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Лучше тебя в мире нет.</plain>
+            <plain>Р›СѓС‡С€Рµ С‚РµР±СЏ РІ РјРёСЂРµ РЅРµС‚.</plain>
         </string>
         <string>
-            <plain>Мамочка, добрая мама моя,</plain>
+            <plain>РњР°РјРѕС‡РєР°, РґРѕР±СЂР°СЏ РјР°РјР° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Знаю, что любишь меня.</plain>
+            <plain>Р—РЅР°СЋ, С‡С‚Рѕ Р»СЋР±РёС€СЊ РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Может, когда и обижу тебя,</plain>
+            <plain>РњРѕР¶РµС‚, РєРѕРіРґР° Рё РѕР±РёР¶Сѓ С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Может, когда огорчу,</plain>
+            <plain>РњРѕР¶РµС‚, РєРѕРіРґР° РѕРіРѕСЂС‡Сѓ,</plain>
         </string>
         <string>
-            <plain>Ты только взглянешь с улыбкой,</plain>
+            <plain>РўС‹ С‚РѕР»СЊРєРѕ РІР·РіР»СЏРЅРµС€СЊ СЃ СѓР»С‹Р±РєРѕР№,</plain>
         </string>
         <string>
-            <plain>и я Молча глаза опущу.</plain>
+            <plain>Рё СЏ РњРѕР»С‡Р° РіР»Р°Р·Р° РѕРїСѓС‰Сѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О помоги, мой Спаситель,</plain>
+            <plain>Рћ РїРѕРјРѕРіРё, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>ты мне Маму всем сердцем любить,</plain>
+            <plain>С‚С‹ РјРЅРµ РњР°РјСѓ РІСЃРµРј СЃРµСЂРґС†РµРј Р»СЋР±РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Боже, даруй, чтобы быть лишь с Тобой,</plain>
+            <plain>Р‘РѕР¶Рµ, РґР°СЂСѓР№, С‡С‚РѕР±С‹ Р±С‹С‚СЊ Р»РёС€СЊ СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>С мамой на небе чтоб жить!</plain>
+            <plain>РЎ РјР°РјРѕР№ РЅР° РЅРµР±Рµ С‡С‚РѕР± Р¶РёС‚СЊ!</plain>
         </string>
     </verse>
 </psalm>

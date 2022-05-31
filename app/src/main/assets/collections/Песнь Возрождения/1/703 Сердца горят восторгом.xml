@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="703" name="Сердца горят восторгом" canon="false" text="" textRus="" music="">
+<psalm number="703" name="РЎРµСЂРґС†Р° РіРѕСЂСЏС‚ РІРѕСЃС‚РѕСЂРіРѕРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сердца горят восторгом,</plain>
+            <plain>РЎРµСЂРґС†Р° РіРѕСЂСЏС‚ РІРѕСЃС‚РѕСЂРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Дух миром озарен;</plain>
+            <plain>Р”СѓС… РјРёСЂРѕРј РѕР·Р°СЂРµРЅ;</plain>
         </string>
         <string>
-            <plain>Спаситель с нами - Дивный Гость;</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ СЃ РЅР°РјРё - Р”РёРІРЅС‹Р№ Р“РѕСЃС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Да будет с нами Он!</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ СЃ РЅР°РјРё РћРЅ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Останься с нами, в нас</plain>
+            <plain>РћСЃС‚Р°РЅСЊСЃСЏ СЃ РЅР°РјРё, РІ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>И каждый день свети</plain>
+            <plain>Р РєР°Р¶РґС‹Р№ РґРµРЅСЊ СЃРІРµС‚Рё</plain>
         </string>
         <string>
-            <plain>Нам милостью обильной,</plain>
+            <plain>РќР°Рј РјРёР»РѕСЃС‚СЊСЋ РѕР±РёР»СЊРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Чтоб мрак бежал с пути.</plain>
+            <plain>Р§С‚РѕР± РјСЂР°Рє Р±РµР¶Р°Р» СЃ РїСѓС‚Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вот льется свыше радость</plain>
+            <plain>Р’РѕС‚ Р»СЊРµС‚СЃСЏ СЃРІС‹С€Рµ СЂР°РґРѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>И сладкой песни звон:</plain>
+            <plain>Р СЃР»Р°РґРєРѕР№ РїРµСЃРЅРё Р·РІРѕРЅ:</plain>
         </string>
         <string>
-            <plain>Спаситель с нами, Вечный Друг,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ СЃ РЅР°РјРё, Р’РµС‡РЅС‹Р№ Р”СЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Да будет с нами Он!</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ СЃ РЅР°РјРё РћРЅ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Сердца людей, откройтесь!</plain>
+            <plain>РЎРµСЂРґС†Р° Р»СЋРґРµР№, РѕС‚РєСЂРѕР№С‚РµСЃСЊ!</plain>
         </string>
         <string>
-            <plain>Ведь Тот, Чей в небе трон</plain>
+            <plain>Р’РµРґСЊ РўРѕС‚, Р§РµР№ РІ РЅРµР±Рµ С‚СЂРѕРЅ</plain>
         </string>
         <string>
-            <plain>Во славе ожидает нас;</plain>
+            <plain>Р’Рѕ СЃР»Р°РІРµ РѕР¶РёРґР°РµС‚ РЅР°СЃ;</plain>
         </string>
         <string>
-            <plain>Да будет с нами Он!</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ СЃ РЅР°РјРё РћРЅ!</plain>
         </string>
     </verse>
 </psalm>

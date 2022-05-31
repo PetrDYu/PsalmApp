@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1283" name="Уж Иордана берега так" canon="false" text="" textRus="" music="">
+<psalm number="1283" name="РЈР¶ РРѕСЂРґР°РЅР° Р±РµСЂРµРіР° С‚Р°Рє" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Уж Иордана берега так</plain>
+            <plain>РЈР¶ РРѕСЂРґР°РЅР° Р±РµСЂРµРіР° С‚Р°Рє</plain>
         </string>
         <string>
-            <plain>ясно видны мне.</plain>
+            <plain>СЏСЃРЅРѕ РІРёРґРЅС‹ РјРЅРµ.</plain>
         </string>
         <string>
-            <plain>Родная ты моя страна,</plain>
+            <plain>Р РѕРґРЅР°СЏ С‚С‹ РјРѕСЏ СЃС‚СЂР°РЅР°,</plain>
         </string>
         <string>
-            <plain>тебя узрю вполне.</plain>
+            <plain>С‚РµР±СЏ СѓР·СЂСЋ РІРїРѕР»РЅРµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Уж скоро челн - у пристани,</plain>
+            <plain>РЈР¶ СЃРєРѕСЂРѕ С‡РµР»РЅ - Сѓ РїСЂРёСЃС‚Р°РЅРё,</plain>
         </string>
         <string>
-            <plain>бури где нет, ни волн.</plain>
+            <plain>Р±СѓСЂРё РіРґРµ РЅРµС‚, РЅРё РІРѕР»РЅ.</plain>
         </string>
         <string>
-            <plain>Проходит мгла, светлеют дни.</plain>
+            <plain>РџСЂРѕС…РѕРґРёС‚ РјРіР»Р°, СЃРІРµС‚Р»РµСЋС‚ РґРЅРё.</plain>
         </string>
         <string>
-            <plain>Туда придёт мой челн.</plain>
+            <plain>РўСѓРґР° РїСЂРёРґС‘С‚ РјРѕР№ С‡РµР»РЅ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Уж издали твой берег мне</plain>
+            <plain>РЈР¶ РёР·РґР°Р»Рё С‚РІРѕР№ Р±РµСЂРµРі РјРЅРµ</plain>
         </string>
         <string>
-            <plain>Блаженный мир несет.</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅРЅС‹Р№ РјРёСЂ РЅРµСЃРµС‚.</plain>
         </string>
         <string>
-            <plain>Вещает он о той стране,</plain>
+            <plain>Р’РµС‰Р°РµС‚ РѕРЅ Рѕ С‚РѕР№ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>Где солнце не зайдет.</plain>
+            <plain>Р“РґРµ СЃРѕР»РЅС†Рµ РЅРµ Р·Р°Р№РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, берег чудный, берег мой.</plain>
+            <plain>Рћ, Р±РµСЂРµРі С‡СѓРґРЅС‹Р№, Р±РµСЂРµРі РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Как я стремлюсь к тебе.</plain>
+            <plain>РљР°Рє СЏ СЃС‚СЂРµРјР»СЋСЃСЊ Рє С‚РµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Родной достигну город свой</plain>
+            <plain>Р РѕРґРЅРѕР№ РґРѕСЃС‚РёРіРЅСѓ РіРѕСЂРѕРґ СЃРІРѕР№</plain>
         </string>
         <string>
-            <plain>И полный мир душе.</plain>
+            <plain>Р РїРѕР»РЅС‹Р№ РјРёСЂ РґСѓС€Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Еще немного и я - там,</plain>
+            <plain>Р•С‰Рµ РЅРµРјРЅРѕРіРѕ Рё СЏ - С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>Где больше нет скорбей,</plain>
+            <plain>Р“РґРµ Р±РѕР»СЊС€Рµ РЅРµС‚ СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>Где Иисус все слезы</plain>
+            <plain>Р“РґРµ РРёСЃСѓСЃ РІСЃРµ СЃР»РµР·С‹</plain>
         </string>
         <string>
-            <plain>Сам Отрет с моих очей.</plain>
+            <plain>РЎР°Рј РћС‚СЂРµС‚ СЃ РјРѕРёС… РѕС‡РµР№.</plain>
         </string>
     </verse>
 </psalm>

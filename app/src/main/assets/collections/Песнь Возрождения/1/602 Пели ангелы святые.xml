@@ -1,96 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="602" name="Пели ангелы святые" canon="false" text="" textRus="" music="">
+<psalm number="602" name="РџРµР»Рё Р°РЅРіРµР»С‹ СЃРІСЏС‚С‹Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пели ангелы святые.</plain>
+            <plain>РџРµР»Рё Р°РЅРіРµР»С‹ СЃРІСЏС‚С‹Рµ.</plain>
         </string>
         <string>
-            <plain>Их пречистые уста</plain>
+            <plain>РС… РїСЂРµС‡РёСЃС‚С‹Рµ СѓСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Возвещали дни благие;</plain>
+            <plain>Р’РѕР·РІРµС‰Р°Р»Рё РґРЅРё Р±Р»Р°РіРёРµ;</plain>
         </string>
         <string>
-            <plain>И Мария, мать Христа,</plain>
+            <plain>Р РњР°СЂРёСЏ, РјР°С‚СЊ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Пастухов рассказ слыхала,</plain>
+            <plain>РџР°СЃС‚СѓС…РѕРІ СЂР°СЃСЃРєР°Р· СЃР»С‹С…Р°Р»Р°,</plain>
         </string>
         <string>
-            <plain>В сердце все слова слагала,</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РІСЃРµ СЃР»РѕРІР° СЃР»Р°РіР°Р»Р°,</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Неизведанных отрад!</plain>
+            <plain>РќРµРёР·РІРµРґР°РЅРЅС‹С… РѕС‚СЂР°Рґ!</plain>
         </string>
         <string>
-            <plain>Как великий Божий клад</plain>
+            <plain>РљР°Рє РІРµР»РёРєРёР№ Р‘РѕР¶РёР№ РєР»Р°Рґ</plain>
         </string>
         <string>
-            <plain>Неизведанных отрад!</plain>
+            <plain>РќРµРёР·РІРµРґР°РЅРЅС‹С… РѕС‚СЂР°Рґ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Иисус как отрок малый</plain>
+            <plain>РРёСЃСѓСЃ РєР°Рє РѕС‚СЂРѕРє РјР°Р»С‹Р№</plain>
         </string>
         <string>
-            <plain>Приходил смиренно в храм,</plain>
+            <plain>РџСЂРёС…РѕРґРёР» СЃРјРёСЂРµРЅРЅРѕ РІ С…СЂР°Рј,</plain>
         </string>
         <string>
-            <plain>И предвечные начала</plain>
+            <plain>Р РїСЂРµРґРІРµС‡РЅС‹Рµ РЅР°С‡Р°Р»Р°</plain>
         </string>
         <string>
-            <plain>Возвещал Он мудрецам.</plain>
+            <plain>Р’РѕР·РІРµС‰Р°Р» РћРЅ РјСѓРґСЂРµС†Р°Рј.</plain>
         </string>
         <string>
-            <plain>Мать Христа, полна смиренья,</plain>
+            <plain>РњР°С‚СЊ РҐСЂРёСЃС‚Р°, РїРѕР»РЅР° СЃРјРёСЂРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Слыша Сына изреченья,</plain>
+            <plain>РЎР»С‹С€Р° РЎС‹РЅР° РёР·СЂРµС‡РµРЅСЊСЏ,</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Все слова, как дар Творца.</plain>
+            <plain>Р’СЃРµ СЃР»РѕРІР°, РєР°Рє РґР°СЂ РўРІРѕСЂС†Р°.</plain>
         </string>
         <string>
-            <plain>Сохранила до конца</plain>
+            <plain>РЎРѕС…СЂР°РЅРёР»Р° РґРѕ РєРѕРЅС†Р°</plain>
         </string>
         <string>
-            <plain>Все слова, как дар Творца.</plain>
+            <plain>Р’СЃРµ СЃР»РѕРІР°, РєР°Рє РґР°СЂ РўРІРѕСЂС†Р°.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Друг! ты слышишь Божье слово,</plain>
+            <plain>Р”СЂСѓРі! С‚С‹ СЃР»С‹С€РёС€СЊ Р‘РѕР¶СЊРµ СЃР»РѕРІРѕ,</plain>
         </string>
         <string>
-            <plain>Слышишь дивные стихи</plain>
+            <plain>РЎР»С‹С€РёС€СЊ РґРёРІРЅС‹Рµ СЃС‚РёС…Рё</plain>
         </string>
         <string>
-            <plain>О дарах любви Христовой,</plain>
+            <plain>Рћ РґР°СЂР°С… Р»СЋР±РІРё РҐСЂРёСЃС‚РѕРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Омывающей грехи.</plain>
+            <plain>РћРјС‹РІР°СЋС‰РµР№ РіСЂРµС…Рё.</plain>
         </string>
         <string>
-            <plain>В сердце ль ты слова слагаешь</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ Р»СЊ С‚С‹ СЃР»РѕРІР° СЃР»Р°РіР°РµС€СЊ</plain>
         </string>
         <string>
-            <plain>Иль, отвергнув, забываешь?</plain>
+            <plain>РР»СЊ, РѕС‚РІРµСЂРіРЅСѓРІ, Р·Р°Р±С‹РІР°РµС€СЊ?</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Друг! Внимай и сохраняй.</plain>
+            <plain>Р”СЂСѓРі! Р’РЅРёРјР°Р№ Рё СЃРѕС…СЂР°РЅСЏР№.</plain>
         </string>
         <string>
-            <plain>Ты теряешь вечный рай...</plain>
+            <plain>РўС‹ С‚РµСЂСЏРµС€СЊ РІРµС‡РЅС‹Р№ СЂР°Р№...</plain>
         </string>
         <string>
-            <plain>Друг! Внимай и сохраняй.</plain>
+            <plain>Р”СЂСѓРі! Р’РЅРёРјР°Р№ Рё СЃРѕС…СЂР°РЅСЏР№.</plain>
         </string>
     </chorus>
 </psalm>

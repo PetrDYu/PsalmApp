@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2200" name="Много в мире горя и слез" canon="false" text="" textRus="" music="">
+<psalm number="2200" name="РњРЅРѕРіРѕ РІ РјРёСЂРµ РіРѕСЂСЏ Рё СЃР»РµР·" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Много в мире горя и слез,</plain>
+            <plain>РњРЅРѕРіРѕ РІ РјРёСЂРµ РіРѕСЂСЏ Рё СЃР»РµР·,</plain>
         </string>
         <string>
-            <plain>Страх, унынье в сердцах.</plain>
+            <plain>РЎС‚СЂР°С…, СѓРЅС‹РЅСЊРµ РІ СЃРµСЂРґС†Р°С….</plain>
         </string>
         <string>
-            <plain>Мир в тревоге чего-то ждет,</plain>
+            <plain>РњРёСЂ РІ С‚СЂРµРІРѕРіРµ С‡РµРіРѕ-С‚Рѕ Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Видно в словах и делах.</plain>
+            <plain>Р’РёРґРЅРѕ РІ СЃР»РѕРІР°С… Рё РґРµР»Р°С….</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бремя снимается у креста,</plain>
+            <plain>Р‘СЂРµРјСЏ СЃРЅРёРјР°РµС‚СЃСЏ Сѓ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>У креста, у креста,</plain>
+            <plain>РЈ РєСЂРµСЃС‚Р°, Сѓ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Бремя снимается у креста,</plain>
+            <plain>Р‘СЂРµРјСЏ СЃРЅРёРјР°РµС‚СЃСЏ Сѓ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Близок Господь всегда.</plain>
+            <plain>Р‘Р»РёР·РѕРє Р“РѕСЃРїРѕРґСЊ РІСЃРµРіРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Жжет ли совесть иль давит грех,</plain>
+            <plain>Р–Р¶РµС‚ Р»Рё СЃРѕРІРµСЃС‚СЊ РёР»СЊ РґР°РІРёС‚ РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>Нет отрады ни в чем.</plain>
+            <plain>РќРµС‚ РѕС‚СЂР°РґС‹ РЅРё РІ С‡РµРј.</plain>
         </string>
         <string>
-            <plain>Скучно душе даже средь утех,</plain>
+            <plain>РЎРєСѓС‡РЅРѕ РґСѓС€Рµ РґР°Р¶Рµ СЃСЂРµРґСЊ СѓС‚РµС…,</plain>
         </string>
         <string>
-            <plain>Неверьем ум смущен.</plain>
+            <plain>РќРµРІРµСЂСЊРµРј СѓРј СЃРјСѓС‰РµРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Все заботы Он понесет,</plain>
+            <plain>Р’СЃРµ Р·Р°Р±РѕС‚С‹ РћРЅ РїРѕРЅРµСЃРµС‚,</plain>
         </string>
         <string>
-            <plain>Верь всем сердцем в Христа.</plain>
+            <plain>Р’РµСЂСЊ РІСЃРµРј СЃРµСЂРґС†РµРј РІ РҐСЂРёСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Руку дай, и Он поведет,</plain>
+            <plain>Р СѓРєСѓ РґР°Р№, Рё РћРЅ РїРѕРІРµРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Тяжесть всю сняв с тебя.</plain>
+            <plain>РўСЏР¶РµСЃС‚СЊ РІСЃСЋ СЃРЅСЏРІ СЃ С‚РµР±СЏ.</plain>
         </string>
     </verse>
 </psalm>

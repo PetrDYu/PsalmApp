@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="56" name="Господь Ты Избавитель мой" canon="false" text="" textRus="" music="">
+<psalm number="56" name="Р“РѕСЃРїРѕРґСЊ РўС‹ РР·Р±Р°РІРёС‚РµР»СЊ РјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господь! Ты - Избавитель мой;</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ! РўС‹ - РР·Р±Р°РІРёС‚РµР»СЊ РјРѕР№;</plain>
         </string>
         <string>
-            <plain>Я - Твой удел и достоянье;</plain>
+            <plain>РЇ - РўРІРѕР№ СѓРґРµР» Рё РґРѕСЃС‚РѕСЏРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Ты приобрел меня Собой,</plain>
+            <plain>РўС‹ РїСЂРёРѕР±СЂРµР» РјРµРЅСЏ РЎРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Твоею кровью и страданьем.</plain>
+            <plain>РўРІРѕРµСЋ РєСЂРѕРІСЊСЋ Рё СЃС‚СЂР°РґР°РЅСЊРµРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я верю, любящий Иисус, -</plain>
+            <plain>РЇ РІРµСЂСЋ, Р»СЋР±СЏС‰РёР№ РРёСЃСѓСЃ, -</plain>
         </string>
         <string>
-            <plain>С Тобою вечен мой союз,</plain>
+            <plain>РЎ РўРѕР±РѕСЋ РІРµС‡РµРЅ РјРѕР№ СЃРѕСЋР·,</plain>
         </string>
         <string>
-            <plain>С Тобою вечен мой союз</plain>
+            <plain>РЎ РўРѕР±РѕСЋ РІРµС‡РµРЅ РјРѕР№ СЃРѕСЋР·</plain>
         </string>
         <string>
-            <plain>И Ты всегда со мною.</plain>
+            <plain>Р РўС‹ РІСЃРµРіРґР° СЃРѕ РјРЅРѕСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты - мой Учитель всеблагой,</plain>
+            <plain>РўС‹ - РјРѕР№ РЈС‡РёС‚РµР»СЊ РІСЃРµР±Р»Р°РіРѕР№,</plain>
         </string>
         <string>
-            <plain>Я - ученик Твой маловерный;</plain>
+            <plain>РЇ - СѓС‡РµРЅРёРє РўРІРѕР№ РјР°Р»РѕРІРµСЂРЅС‹Р№;</plain>
         </string>
         <string>
-            <plain>Ты наставляешь разум мой</plain>
+            <plain>РўС‹ РЅР°СЃС‚Р°РІР»СЏРµС€СЊ СЂР°Р·СѓРј РјРѕР№</plain>
         </string>
         <string>
-            <plain>В любви Твоей святой, безмерной.</plain>
+            <plain>Р’ Р»СЋР±РІРё РўРІРѕРµР№ СЃРІСЏС‚РѕР№, Р±РµР·РјРµСЂРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты - Пастырь верный, сильный мой,</plain>
+            <plain>РўС‹ - РџР°СЃС‚С‹СЂСЊ РІРµСЂРЅС‹Р№, СЃРёР»СЊРЅС‹Р№ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>А я - овца Господня стада,</plain>
+            <plain>Рђ СЏ - РѕРІС†Р° Р“РѕСЃРїРѕРґРЅСЏ СЃС‚Р°РґР°,</plain>
         </string>
         <string>
-            <plain>Ведя тернистою тропой,</plain>
+            <plain>Р’РµРґСЏ С‚РµСЂРЅРёСЃС‚РѕСЋ С‚СЂРѕРїРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты разрушаешь все преграды.</plain>
+            <plain>РўС‹ СЂР°Р·СЂСѓС€Р°РµС€СЊ РІСЃРµ РїСЂРµРіСЂР°РґС‹.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты - милосердный мой Отец,</plain>
+            <plain>РўС‹ - РјРёР»РѕСЃРµСЂРґРЅС‹Р№ РјРѕР№ РћС‚РµС†,</plain>
         </string>
         <string>
-            <plain>А я - дитя Твое вовеки;</plain>
+            <plain>Рђ СЏ - РґРёС‚СЏ РўРІРѕРµ РІРѕРІРµРєРё;</plain>
         </string>
         <string>
-            <plain>Ты дал мне жизнь, как Твой венец,</plain>
+            <plain>РўС‹ РґР°Р» РјРЅРµ Р¶РёР·РЅСЊ, РєР°Рє РўРІРѕР№ РІРµРЅРµС†,</plain>
         </string>
         <string>
-            <plain>Себя явил Ты в человеке.</plain>
+            <plain>РЎРµР±СЏ СЏРІРёР» РўС‹ РІ С‡РµР»РѕРІРµРєРµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты - все во всем, вся полнота,</plain>
+            <plain>РўС‹ - РІСЃРµ РІРѕ РІСЃРµРј, РІСЃСЏ РїРѕР»РЅРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>А я ничто, я - прах могилы;</plain>
+            <plain>Рђ СЏ РЅРёС‡С‚Рѕ, СЏ - РїСЂР°С… РјРѕРіРёР»С‹;</plain>
         </string>
         <string>
-            <plain>Но Сам Ты жертвою креста</plain>
+            <plain>РќРѕ РЎР°Рј РўС‹ Р¶РµСЂС‚РІРѕСЋ РєСЂРµСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Воздвиг меня и дал мне силы.</plain>
+            <plain>Р’РѕР·РґРІРёРі РјРµРЅСЏ Рё РґР°Р» РјРЅРµ СЃРёР»С‹.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Ты - свет, а я светильник Твой;</plain>
+            <plain>РўС‹ - СЃРІРµС‚, Р° СЏ СЃРІРµС‚РёР»СЊРЅРёРє РўРІРѕР№;</plain>
         </string>
         <string>
-            <plain>Да озарит Твое сиянье,</plain>
+            <plain>Р”Р° РѕР·Р°СЂРёС‚ РўРІРѕРµ СЃРёСЏРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Как тьму Египта, мрак земной;</plain>
+            <plain>РљР°Рє С‚СЊРјСѓ Р•РіРёРїС‚Р°, РјСЂР°Рє Р·РµРјРЅРѕР№;</plain>
         </string>
         <string>
-            <plain>Да примет мир Твои даянья!</plain>
+            <plain>Р”Р° РїСЂРёРјРµС‚ РјРёСЂ РўРІРѕРё РґР°СЏРЅСЊСЏ!</plain>
         </string>
     </verse>
 </psalm>

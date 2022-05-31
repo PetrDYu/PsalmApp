@@ -1,98 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2446" name="Странник стоит у двери тихо стучит" canon="false" text="" textRus="" music="">
+<psalm number="2446" name="РЎС‚СЂР°РЅРЅРёРє СЃС‚РѕРёС‚ Сѓ РґРІРµСЂРё С‚РёС…Рѕ СЃС‚СѓС‡РёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Странник стоит у двери, тихо стучит:</plain>
+            <plain>РЎС‚СЂР°РЅРЅРёРє СЃС‚РѕРёС‚ Сѓ РґРІРµСЂРё, С‚РёС…Рѕ СЃС‚СѓС‡РёС‚:</plain>
         </string>
         <string>
-            <plain>"Отвори", Посох в руке у Него,</plain>
+            <plain>"РћС‚РІРѕСЂРё", РџРѕСЃРѕС… РІ СЂСѓРєРµ Сѓ РќРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>дальняя дорога Его.</plain>
+            <plain>РґР°Р»СЊРЅСЏСЏ РґРѕСЂРѕРіР° Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Что же случилось в дому,</plain>
+            <plain>Р§С‚Рѕ Р¶Рµ СЃР»СѓС‡РёР»РѕСЃСЊ РІ РґРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>дверь не открылась Ему.</plain>
+            <plain>РґРІРµСЂСЊ РЅРµ РѕС‚РєСЂС‹Р»Р°СЃСЊ Р•РјСѓ.</plain>
         </string>
         <string>
-            <plain>Видно, в нем жители спят</plain>
+            <plain>Р’РёРґРЅРѕ, РІ РЅРµРј Р¶РёС‚РµР»Рё СЃРїСЏС‚</plain>
         </string>
         <string>
-            <plain>иль отворить не хотят.</plain>
+            <plain>РёР»СЊ РѕС‚РІРѕСЂРёС‚СЊ РЅРµ С…РѕС‚СЏС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жалко и скорбно Ему,</plain>
+            <plain>Р–Р°Р»РєРѕ Рё СЃРєРѕСЂР±РЅРѕ Р•РјСѓ,</plain>
         </string>
         <string>
-            <plain>дверь не открылась в дому,</plain>
+            <plain>РґРІРµСЂСЊ РЅРµ РѕС‚РєСЂС‹Р»Р°СЃСЊ РІ РґРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>слезы блеснули в очах,</plain>
+            <plain>СЃР»РµР·С‹ Р±Р»РµСЃРЅСѓР»Рё РІ РѕС‡Р°С…,</plain>
         </string>
         <string>
-            <plain>и перестал Он стучать.</plain>
+            <plain>Рё РїРµСЂРµСЃС‚Р°Р» РћРЅ СЃС‚СѓС‡Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Что ж не открыл Ему дверь,</plain>
+            <plain>Р§С‚Рѕ Р¶ РЅРµ РѕС‚РєСЂС‹Р» Р•РјСѓ РґРІРµСЂСЊ,</plain>
         </string>
         <string>
-            <plain>друг мой, подумай теперь.</plain>
+            <plain>РґСЂСѓРі РјРѕР№, РїРѕРґСѓРјР°Р№ С‚РµРїРµСЂСЊ.</plain>
         </string>
         <string>
-            <plain>Может, как странник в пути,</plain>
+            <plain>РњРѕР¶РµС‚, РєР°Рє СЃС‚СЂР°РЅРЅРёРє РІ РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>ведь навсегда Он уйти.</plain>
+            <plain>РІРµРґСЊ РЅР°РІСЃРµРіРґР° РћРЅ СѓР№С‚Рё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Голос возвысил Христос,</plain>
+            <plain>Р“РѕР»РѕСЃ РІРѕР·РІС‹СЃРёР» РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>веру живую принес.</plain>
+            <plain>РІРµСЂСѓ Р¶РёРІСѓСЋ РїСЂРёРЅРµСЃ.</plain>
         </string>
         <string>
-            <plain>Ведь не всегда для тебя</plain>
+            <plain>Р’РµРґСЊ РЅРµ РІСЃРµРіРґР° РґР»СЏ С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>льется живая вода.</plain>
+            <plain>Р»СЊРµС‚СЃСЏ Р¶РёРІР°СЏ РІРѕРґР°.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>"Грех твой тебя усыпил,</plain>
+            <plain>"Р“СЂРµС… С‚РІРѕР№ С‚РµР±СЏ СѓСЃС‹РїРёР»,</plain>
         </string>
         <string>
-            <plain>вечно со Мной разлучил.</plain>
+            <plain>РІРµС‡РЅРѕ СЃРѕ РњРЅРѕР№ СЂР°Р·Р»СѓС‡РёР».</plain>
         </string>
         <string>
-            <plain>Если ты любишь Меня,</plain>
+            <plain>Р•СЃР»Рё С‚С‹ Р»СЋР±РёС€СЊ РњРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>вновь подниму Я тебя.</plain>
+            <plain>РІРЅРѕРІСЊ РїРѕРґРЅРёРјСѓ РЇ С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Я продолжаю стучать,</plain>
+            <plain>РЇ РїСЂРѕРґРѕР»Р¶Р°СЋ СЃС‚СѓС‡Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>ты продолжаешь молчать.</plain>
+            <plain>С‚С‹ РїСЂРѕРґРѕР»Р¶Р°РµС€СЊ РјРѕР»С‡Р°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Как же войду Я в твой дом с</plain>
+            <plain>РљР°Рє Р¶Рµ РІРѕР№РґСѓ РЇ РІ С‚РІРѕР№ РґРѕРј СЃ</plain>
         </string>
         <string>
-            <plain>Духом и вечным огнем?"</plain>
+            <plain>Р”СѓС…РѕРј Рё РІРµС‡РЅС‹Рј РѕРіРЅРµРј?"</plain>
         </string>
     </verse>
 </psalm>

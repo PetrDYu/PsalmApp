@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2741" name="О люди Иисуса славьте" canon="false" text="" textRus="" music="">
+<psalm number="2741" name="Рћ Р»СЋРґРё РРёСЃСѓСЃР° СЃР»Р°РІСЊС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О люди, Иисуса славьте,</plain>
+            <plain>Рћ Р»СЋРґРё, РРёСЃСѓСЃР° СЃР»Р°РІСЊС‚Рµ,</plain>
         </string>
         <string>
-            <plain>За то, что Он нас искупил,</plain>
+            <plain>Р—Р° С‚Рѕ, С‡С‚Рѕ РћРЅ РЅР°СЃ РёСЃРєСѓРїРёР»,</plain>
         </string>
         <string>
-            <plain>И грешников погибших даже</plain>
+            <plain>Р РіСЂРµС€РЅРёРєРѕРІ РїРѕРіРёР±С€РёС… РґР°Р¶Рµ</plain>
         </string>
         <string>
-            <plain>Он Кровию Своей омыл.</plain>
+            <plain>РћРЅ РљСЂРѕРІРёСЋ РЎРІРѕРµР№ РѕРјС‹Р».</plain>
         </string>
         <string>
-            <plain>Напрасно зло и силы ада,</plain>
+            <plain>РќР°РїСЂР°СЃРЅРѕ Р·Р»Рѕ Рё СЃРёР»С‹ Р°РґР°,</plain>
         </string>
         <string>
-            <plain>Все ополчились на Него,</plain>
+            <plain>Р’СЃРµ РѕРїРѕР»С‡РёР»РёСЃСЊ РЅР° РќРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>Но пала смерти злой преграда</plain>
+            <plain>РќРѕ РїР°Р»Р° СЃРјРµСЂС‚Рё Р·Р»РѕР№ РїСЂРµРіСЂР°РґР°</plain>
         </string>
         <string>
-            <plain>От зова властного Его.</plain>
+            <plain>РћС‚ Р·РѕРІР° РІР»Р°СЃС‚РЅРѕРіРѕ Р•РіРѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Славьте, народы все, подвиг Христа,</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ, РЅР°СЂРѕРґС‹ РІСЃРµ, РїРѕРґРІРёРі РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Славь вся вселенная, славь вся земля.</plain>
+            <plain>РЎР»Р°РІСЊ РІСЃСЏ РІСЃРµР»РµРЅРЅР°СЏ, СЃР»Р°РІСЊ РІСЃСЏ Р·РµРјР»СЏ.</plain>
         </string>
         <string>
-            <plain>Пойте, все птицы, вы песню хвалы</plain>
+            <plain>РџРѕР№С‚Рµ, РІСЃРµ РїС‚РёС†С‹, РІС‹ РїРµСЃРЅСЋ С…РІР°Р»С‹</plain>
         </string>
         <string>
-            <plain>С кран до края земли.</plain>
+            <plain>РЎ РєСЂР°РЅ РґРѕ РєСЂР°СЏ Р·РµРјР»Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Да Он воскрес, поправши тленье,</plain>
+            <plain>Р”Р° РћРЅ РІРѕСЃРєСЂРµСЃ, РїРѕРїСЂР°РІС€Рё С‚Р»РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>На третий день после креста,</plain>
+            <plain>РќР° С‚СЂРµС‚РёР№ РґРµРЅСЊ РїРѕСЃР»Рµ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Земля наполнилась хваленым,</plain>
+            <plain>Р—РµРјР»СЏ РЅР°РїРѕР»РЅРёР»Р°СЃСЊ С…РІР°Р»РµРЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Неся вселенной торжества.</plain>
+            <plain>РќРµСЃСЏ РІСЃРµР»РµРЅРЅРѕР№ С‚РѕСЂР¶РµСЃС‚РІР°.</plain>
         </string>
         <string>
-            <plain>И пала стража в изумлены.</plain>
+            <plain>Р РїР°Р»Р° СЃС‚СЂР°Р¶Р° РІ РёР·СѓРјР»РµРЅС‹.</plain>
         </string>
         <string>
-            <plain>И ужас на неё напал,</plain>
+            <plain>Р СѓР¶Р°СЃ РЅР° РЅРµС‘ РЅР°РїР°Р»,</plain>
         </string>
         <string>
-            <plain>Но никакая вражья сила</plain>
+            <plain>РќРѕ РЅРёРєР°РєР°СЏ РІСЂР°Р¶СЊСЏ СЃРёР»Р°</plain>
         </string>
         <string>
-            <plain>Не удержала - Он восстал!</plain>
+            <plain>РќРµ СѓРґРµСЂР¶Р°Р»Р° - РћРЅ РІРѕСЃСЃС‚Р°Р»!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Нет лучше праздника на свете,</plain>
+            <plain>РќРµС‚ Р»СѓС‡С€Рµ РїСЂР°Р·РґРЅРёРєР° РЅР° СЃРІРµС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Как воскресение Христа!</plain>
+            <plain>РљР°Рє РІРѕСЃРєСЂРµСЃРµРЅРёРµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Ликуют взрослые и дети,</plain>
+            <plain>Р›РёРєСѓСЋС‚ РІР·СЂРѕСЃР»С‹Рµ Рё РґРµС‚Рё,</plain>
         </string>
         <string>
-            <plain>Хвалой наполнены уста.</plain>
+            <plain>РҐРІР°Р»РѕР№ РЅР°РїРѕР»РЅРµРЅС‹ СѓСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>О никогда мы не забудем</plain>
+            <plain>Рћ РЅРёРєРѕРіРґР° РјС‹ РЅРµ Р·Р°Р±СѓРґРµРј</plain>
         </string>
         <string>
-            <plain>Той вести Ангелов святых,</plain>
+            <plain>РўРѕР№ РІРµСЃС‚Рё РђРЅРіРµР»РѕРІ СЃРІСЏС‚С‹С…,</plain>
         </string>
         <string>
-            <plain>Но торжество и песнь возбудим</plain>
+            <plain>РќРѕ С‚РѕСЂР¶РµСЃС‚РІРѕ Рё РїРµСЃРЅСЊ РІРѕР·Р±СѓРґРёРј</plain>
         </string>
         <string>
-            <plain>Во всех мы душах молодых.</plain>
+            <plain>Р’Рѕ РІСЃРµС… РјС‹ РґСѓС€Р°С… РјРѕР»РѕРґС‹С….</plain>
         </string>
     </verse>
 </psalm>

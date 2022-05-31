@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1620" name="Юность Иисусу юности пыл" canon="false" text="" textRus="" music="">
+<psalm number="1620" name="Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ СЋРЅРѕСЃС‚Рё РїС‹Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Юность Иисусу, юности пыл,</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, СЋРЅРѕСЃС‚Рё РїС‹Р»,</plain>
         </string>
         <string>
-            <plain>Юность Христу посвяти.</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РҐСЂРёСЃС‚Сѓ РїРѕСЃРІСЏС‚Рё.</plain>
         </string>
         <string>
-            <plain>Юность Иисусу, средь бури зла</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, СЃСЂРµРґСЊ Р±СѓСЂРё Р·Р»Р°</plain>
         </string>
         <string>
-            <plain>Стойким будь в жизни всегда.</plain>
+            <plain>РЎС‚РѕР№РєРёРј Р±СѓРґСЊ РІ Р¶РёР·РЅРё РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Юность Иисусу, смело вперед,</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, СЃРјРµР»Рѕ РІРїРµСЂРµРґ,</plain>
         </string>
         <string>
-            <plain>Сердце, что юно и Богу поет,</plain>
+            <plain>РЎРµСЂРґС†Рµ, С‡С‚Рѕ СЋРЅРѕ Рё Р‘РѕРіСѓ РїРѕРµС‚,</plain>
         </string>
         <string>
-            <plain>Сердце, что ярко светит во тьме,</plain>
+            <plain>РЎРµСЂРґС†Рµ, С‡С‚Рѕ СЏСЂРєРѕ СЃРІРµС‚РёС‚ РІРѕ С‚СЊРјРµ,</plain>
         </string>
         <string>
-            <plain>Юность живая в мольбе.</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ Р¶РёРІР°СЏ РІ РјРѕР»СЊР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Юность Иисусу, нации все</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, РЅР°С†РёРё РІСЃРµ</plain>
         </string>
         <string>
-            <plain>Счастье найдут во Христе.</plain>
+            <plain>РЎС‡Р°СЃС‚СЊРµ РЅР°Р№РґСѓС‚ РІРѕ РҐСЂРёСЃС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Юность Иисусу, готовься и ты</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, РіРѕС‚РѕРІСЊСЃСЏ Рё С‚С‹</plain>
         </string>
         <string>
-            <plain>Бури, невзгоды нести.</plain>
+            <plain>Р‘СѓСЂРё, РЅРµРІР·РіРѕРґС‹ РЅРµСЃС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Юность Иисусу, руки любви</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, СЂСѓРєРё Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Всем всюду ты протяни.</plain>
+            <plain>Р’СЃРµРј РІСЃСЋРґСѓ С‚С‹ РїСЂРѕС‚СЏРЅРё.</plain>
         </string>
         <string>
-            <plain>Юность Иисусу, тверда в беде,</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, С‚РІРµСЂРґР° РІ Р±РµРґРµ,</plain>
         </string>
         <string>
-            <plain>Верная Богу везде.</plain>
+            <plain>Р’РµСЂРЅР°СЏ Р‘РѕРіСѓ РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Юность Иисусу, смело вперед,</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, СЃРјРµР»Рѕ РІРїРµСЂРµРґ,</plain>
         </string>
         <string>
-            <plain>Юность в борьбе не сдает.</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РІ Р±РѕСЂСЊР±Рµ РЅРµ СЃРґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Юность Иисусу, грех побеждать.</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ РРёСЃСѓСЃСѓ, РіСЂРµС… РїРѕР±РµР¶РґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Лишь на Иисуса взирать.</plain>
+            <plain>Р›РёС€СЊ РЅР° РРёСЃСѓСЃР° РІР·РёСЂР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

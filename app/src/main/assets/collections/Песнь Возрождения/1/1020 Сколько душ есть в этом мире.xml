@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1020" name="Сколько душ есть в этом мире" canon="false" text="" textRus="" music="">
+<psalm number="1020" name="РЎРєРѕР»СЊРєРѕ РґСѓС€ РµСЃС‚СЊ РІ СЌС‚РѕРј РјРёСЂРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сколько душ есть в этом мире.</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РґСѓС€ РµСЃС‚СЊ РІ СЌС‚РѕРј РјРёСЂРµ.</plain>
         </string>
         <string>
-            <plain>За которых Бог страдал!</plain>
+            <plain>Р—Р° РєРѕС‚РѕСЂС‹С… Р‘РѕРі СЃС‚СЂР°РґР°Р»!</plain>
         </string>
         <string>
-            <plain>Он святую Кровь завета</plain>
+            <plain>РћРЅ СЃРІСЏС‚СѓСЋ РљСЂРѕРІСЊ Р·Р°РІРµС‚Р°</plain>
         </string>
         <string>
-            <plain>На Голгофе проливал!</plain>
+            <plain>РќР° Р“РѕР»РіРѕС„Рµ РїСЂРѕР»РёРІР°Р»!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Сколько душ есть в этом мире, за которых Бог  страдал!</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РґСѓС€ РµСЃС‚СЊ РІ СЌС‚РѕРј РјРёСЂРµ, Р·Р° РєРѕС‚РѕСЂС‹С… Р‘РѕРі  СЃС‚СЂР°РґР°Р»!</plain>
         </string>
         <string>
-            <plain>Он святую Кровь завета на Голгофе проливал.</plain>
+            <plain>РћРЅ СЃРІСЏС‚СѓСЋ РљСЂРѕРІСЊ Р·Р°РІРµС‚Р° РЅР° Р“РѕР»РіРѕС„Рµ РїСЂРѕР»РёРІР°Р».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Люди грешные, придите.</plain>
+            <plain>Р›СЋРґРё РіСЂРµС€РЅС‹Рµ, РїСЂРёРґРёС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Во Христе вся полнота,</plain>
+            <plain>Р’Рѕ РҐСЂРёСЃС‚Рµ РІСЃСЏ РїРѕР»РЅРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>В Нем - вся радость, сила наша,</plain>
+            <plain>Р’ РќРµРј - РІСЃСЏ СЂР°РґРѕСЃС‚СЊ, СЃРёР»Р° РЅР°С€Р°,</plain>
         </string>
         <string>
-            <plain>Он ведет нас в небеса.</plain>
+            <plain>РћРЅ РІРµРґРµС‚ РЅР°СЃ РІ РЅРµР±РµСЃР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не отвергните тот призыв.</plain>
+            <plain>РќРµ РѕС‚РІРµСЂРіРЅРёС‚Рµ С‚РѕС‚ РїСЂРёР·С‹РІ.</plain>
         </string>
         <string>
-            <plain>Вот зовет Спаситель вас,</plain>
+            <plain>Р’РѕС‚ Р·РѕРІРµС‚ РЎРїР°СЃРёС‚РµР»СЊ РІР°СЃ,</plain>
         </string>
         <string>
-            <plain>А беспечным всем Он скажет:</plain>
+            <plain>Рђ Р±РµСЃРїРµС‡РЅС‹Рј РІСЃРµРј РћРЅ СЃРєР°Р¶РµС‚:</plain>
         </string>
         <string>
-            <plain>Никогда не знал Я вас.</plain>
+            <plain>РќРёРєРѕРіРґР° РЅРµ Р·РЅР°Р» РЇ РІР°СЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Но вернитесь назад люди,</plain>
+            <plain>РќРѕ РІРµСЂРЅРёС‚РµСЃСЊ РЅР°Р·Р°Рґ Р»СЋРґРё,</plain>
         </string>
         <string>
-            <plain>Ко Спасителю Христу, -</plain>
+            <plain>РљРѕ РЎРїР°СЃРёС‚РµР»СЋ РҐСЂРёСЃС‚Сѓ, -</plain>
         </string>
         <string>
-            <plain>Он по милости прощает</plain>
+            <plain>РћРЅ РїРѕ РјРёР»РѕСЃС‚Рё РїСЂРѕС‰Р°РµС‚</plain>
         </string>
         <string>
-            <plain>И дает жизнь вечную!</plain>
+            <plain>Р РґР°РµС‚ Р¶РёР·РЅСЊ РІРµС‡РЅСѓСЋ!</plain>
         </string>
     </verse>
 </psalm>

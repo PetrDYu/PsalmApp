@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="91" name="Любовь Господню описать" canon="false" text="" textRus="" music="">
+<psalm number="91" name="Р›СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЋ РѕРїРёСЃР°С‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Любовь Господню описать</plain>
+            <plain>Р›СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЋ РѕРїРёСЃР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Не могут всей  земли сыны,</plain>
+            <plain>РќРµ РјРѕРіСѓС‚ РІСЃРµР№  Р·РµРјР»Рё СЃС‹РЅС‹,</plain>
         </string>
         <string>
-            <plain>Она превыше дальних звезд</plain>
+            <plain>РћРЅР° РїСЂРµРІС‹С€Рµ РґР°Р»СЊРЅРёС… Р·РІРµР·Рґ</plain>
         </string>
         <string>
-            <plain>И глубже адской глубины.</plain>
+            <plain>Р РіР»СѓР±Р¶Рµ Р°РґСЃРєРѕР№ РіР»СѓР±РёРЅС‹.</plain>
         </string>
         <string>
-            <plain>Чтоб нас опять к Себе принять,</plain>
+            <plain>Р§С‚РѕР± РЅР°СЃ РѕРїСЏС‚СЊ Рє РЎРµР±Рµ РїСЂРёРЅСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Послал Бог Сына в мир,</plain>
+            <plain>РџРѕСЃР»Р°Р» Р‘РѕРі РЎС‹РЅР° РІ РјРёСЂ,</plain>
         </string>
         <string>
-            <plain>Его рукой снять грех людской</plain>
+            <plain>Р•РіРѕ СЂСѓРєРѕР№ СЃРЅСЏС‚СЊ РіСЂРµС… Р»СЋРґСЃРєРѕР№</plain>
         </string>
         <string>
-            <plain>И приготовить пир.</plain>
+            <plain>Р РїСЂРёРіРѕС‚РѕРІРёС‚СЊ РїРёСЂ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Любовь Господня велика,</plain>
+            <plain>Р›СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЏ РІРµР»РёРєР°,</plain>
         </string>
         <string>
-            <plain>Верна, чиста, сильна.</plain>
+            <plain>Р’РµСЂРЅР°, С‡РёСЃС‚Р°, СЃРёР»СЊРЅР°.</plain>
         </string>
         <string>
-            <plain>Исчезнет мир, пройдут века,</plain>
+            <plain>РСЃС‡РµР·РЅРµС‚ РјРёСЂ, РїСЂРѕР№РґСѓС‚ РІРµРєР°,</plain>
         </string>
         <string>
-            <plain>Но не пройдет она.</plain>
+            <plain>РќРѕ РЅРµ РїСЂРѕР№РґРµС‚ РѕРЅР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Всему придет последний день,</plain>
+            <plain>Р’СЃРµРјСѓ РїСЂРёРґРµС‚ РїРѕСЃР»РµРґРЅРёР№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Земные царства упадут,</plain>
+            <plain>Р—РµРјРЅС‹Рµ С†Р°СЂСЃС‚РІР° СѓРїР°РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>А равнодушные теперь</plain>
+            <plain>Рђ СЂР°РІРЅРѕРґСѓС€РЅС‹Рµ С‚РµРїРµСЂСЊ</plain>
         </string>
         <string>
-            <plain>Молиться в ужасе начнут.</plain>
+            <plain>РњРѕР»РёС‚СЊСЃСЏ РІ СѓР¶Р°СЃРµ РЅР°С‡РЅСѓС‚.</plain>
         </string>
         <string>
-            <plain>Но нет конца любви Творца,</plain>
+            <plain>РќРѕ РЅРµС‚ РєРѕРЅС†Р° Р»СЋР±РІРё РўРІРѕСЂС†Р°,</plain>
         </string>
         <string>
-            <plain>Безмерной и святой:</plain>
+            <plain>Р‘РµР·РјРµСЂРЅРѕР№ Рё СЃРІСЏС‚РѕР№:</plain>
         </string>
         <string>
-            <plain>Снимает грех, спасает всех, -</plain>
+            <plain>РЎРЅРёРјР°РµС‚ РіСЂРµС…, СЃРїР°СЃР°РµС‚ РІСЃРµС…, -</plain>
         </string>
         <string>
-            <plain>О ней всечасно пой.</plain>
+            <plain>Рћ РЅРµР№ РІСЃРµС‡Р°СЃРЅРѕ РїРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда б в чернила - океан,</plain>
+            <plain>РљРѕРіРґР° Р± РІ С‡РµСЂРЅРёР»Р° - РѕРєРµР°РЅ,</plain>
         </string>
         <string>
-            <plain>В пергамент - небо превратить,</plain>
+            <plain>Р’ РїРµСЂРіР°РјРµРЅС‚ - РЅРµР±Рѕ РїСЂРµРІСЂР°С‚РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>А в перья - все былинки трав</plain>
+            <plain>Рђ РІ РїРµСЂСЊСЏ - РІСЃРµ Р±С‹Р»РёРЅРєРё С‚СЂР°РІ</plain>
         </string>
         <string>
-            <plain>И всем живущим поручить</plain>
+            <plain>Р РІСЃРµРј Р¶РёРІСѓС‰РёРј РїРѕСЂСѓС‡РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Любовь Господню описать, -</plain>
+            <plain>Р›СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЋ РѕРїРёСЃР°С‚СЊ, -</plain>
         </string>
         <string>
-            <plain>Не стало бы чернил,</plain>
+            <plain>РќРµ СЃС‚Р°Р»Рѕ Р±С‹ С‡РµСЂРЅРёР»,</plain>
         </string>
         <string>
-            <plain>А свиток, равный небесам,</plain>
+            <plain>Рђ СЃРІРёС‚РѕРє, СЂР°РІРЅС‹Р№ РЅРµР±РµСЃР°Рј,</plain>
         </string>
         <string>
-            <plain>Всего бы не вместил.</plain>
+            <plain>Р’СЃРµРіРѕ Р±С‹ РЅРµ РІРјРµСЃС‚РёР».</plain>
         </string>
     </verse>
 </psalm>

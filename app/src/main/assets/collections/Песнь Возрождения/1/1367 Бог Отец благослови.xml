@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1367" name="Бог Отец благослови" canon="false" text="" textRus="" music="">
+<psalm number="1367" name="Р‘РѕРі РћС‚РµС† Р±Р»Р°РіРѕСЃР»РѕРІРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог Отец! благослови</plain>
+            <plain>Р‘РѕРі РћС‚РµС†! Р±Р»Р°РіРѕСЃР»РѕРІРё</plain>
         </string>
         <string>
-            <plain>На столе Твой дар благой:</plain>
+            <plain>РќР° СЃС‚РѕР»Рµ РўРІРѕР№ РґР°СЂ Р±Р»Р°РіРѕР№:</plain>
         </string>
         <string>
-            <plain>Он нам в пищу из любви</plain>
+            <plain>РћРЅ РЅР°Рј РІ РїРёС‰Сѓ РёР· Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Подан милостью святой.</plain>
+            <plain>РџРѕРґР°РЅ РјРёР»РѕСЃС‚СЊСЋ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Удостой его вкусить</plain>
+            <plain>РЈРґРѕСЃС‚РѕР№ РµРіРѕ РІРєСѓСЃРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>В подкрепленье наших сил</plain>
+            <plain>Р’ РїРѕРґРєСЂРµРїР»РµРЅСЊРµ РЅР°С€РёС… СЃРёР»</plain>
         </string>
         <string>
-            <plain>И Тебя благодарить,</plain>
+            <plain>Р РўРµР±СЏ Р±Р»Р°РіРѕРґР°СЂРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Как Твой Дух нас научил.</plain>
+            <plain>РљР°Рє РўРІРѕР№ Р”СѓС… РЅР°СЃ РЅР°СѓС‡РёР».</plain>
         </string>
     </verse>
 </psalm>

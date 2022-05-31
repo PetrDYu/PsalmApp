@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="717" name="В утро юности прекрасной" canon="false" text="" textRus="" music="">
+<psalm number="717" name="Р’ СѓС‚СЂРѕ СЋРЅРѕСЃС‚Рё РїСЂРµРєСЂР°СЃРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В утро юности прекрасной,</plain>
+            <plain>Р’ СѓС‚СЂРѕ СЋРЅРѕСЃС‚Рё РїСЂРµРєСЂР°СЃРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Жизни радостной рассвет,</plain>
+            <plain>Р–РёР·РЅРё СЂР°РґРѕСЃС‚РЅРѕР№ СЂР°СЃСЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Мы спешим на призыв властный</plain>
+            <plain>РњС‹ СЃРїРµС€РёРј РЅР° РїСЂРёР·С‹РІ РІР»Р°СЃС‚РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Исполнять Христа завет.</plain>
+            <plain>РСЃРїРѕР»РЅСЏС‚СЊ РҐСЂРёСЃС‚Р° Р·Р°РІРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Для труда на Божьей ниве</plain>
+            <plain>Р”Р»СЏ С‚СЂСѓРґР° РЅР° Р‘РѕР¶СЊРµР№ РЅРёРІРµ</plain>
         </string>
         <string>
-            <plain>Мы готовы все отдать;</plain>
+            <plain>РњС‹ РіРѕС‚РѕРІС‹ РІСЃРµ РѕС‚РґР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>О, не будем же ленивы,</plain>
+            <plain>Рћ, РЅРµ Р±СѓРґРµРј Р¶Рµ Р»РµРЅРёРІС‹,</plain>
         </string>
         <string>
-            <plain>Пока день, не будем спать!</plain>
+            <plain>РџРѕРєР° РґРµРЅСЊ, РЅРµ Р±СѓРґРµРј СЃРїР°С‚СЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Любим имя Иисуса</plain>
+            <plain>Р›СЋР±РёРј РёРјСЏ РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>И о Нем благовестим;</plain>
+            <plain>Р Рѕ РќРµРј Р±Р»Р°РіРѕРІРµСЃС‚РёРј;</plain>
         </string>
         <string>
-            <plain>Мы о милости Христовой</plain>
+            <plain>РњС‹ Рѕ РјРёР»РѕСЃС‚Рё РҐСЂРёСЃС‚РѕРІРѕР№</plain>
         </string>
         <string>
-            <plain>Людям грешным возвестим.</plain>
+            <plain>Р›СЋРґСЏРј РіСЂРµС€РЅС‹Рј РІРѕР·РІРµСЃС‚РёРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Посвятим же силы, время</plain>
+            <plain>РџРѕСЃРІСЏС‚РёРј Р¶Рµ СЃРёР»С‹, РІСЂРµРјСЏ</plain>
         </string>
         <string>
-            <plain>Для спасенья душ людей,</plain>
+            <plain>Р”Р»СЏ СЃРїР°СЃРµРЅСЊСЏ РґСѓС€ Р»СЋРґРµР№,</plain>
         </string>
         <string>
-            <plain>Облегчая жизни бремя</plain>
+            <plain>РћР±Р»РµРіС‡Р°СЏ Р¶РёР·РЅРё Р±СЂРµРјСЏ</plain>
         </string>
         <string>
-            <plain>Им трудом любви своей.</plain>
+            <plain>РРј С‚СЂСѓРґРѕРј Р»СЋР±РІРё СЃРІРѕРµР№.</plain>
         </string>
     </verse>
 </psalm>

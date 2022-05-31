@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1186" name="Твои небеса и Твоя земля" canon="false" text="" textRus="" music="">
+<psalm number="1186" name="РўРІРѕРё РЅРµР±РµСЃР° Рё РўРІРѕСЏ Р·РµРјР»СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Твои небеса и Твоя земля</plain>
+            <plain>РўРІРѕРё РЅРµР±РµСЃР° Рё РўРІРѕСЏ Р·РµРјР»СЏ</plain>
         </string>
         <string>
-            <plain>и что наполняет ее.</plain>
+            <plain>Рё С‡С‚Рѕ РЅР°РїРѕР»РЅСЏРµС‚ РµРµ.</plain>
         </string>
         <string>
-            <plain>Ты видишь пути и знаешь дела,</plain>
+            <plain>РўС‹ РІРёРґРёС€СЊ РїСѓС‚Рё Рё Р·РЅР°РµС€СЊ РґРµР»Р°,</plain>
         </string>
         <string>
-            <plain>И все помышленья мои.</plain>
+            <plain>Р РІСЃРµ РїРѕРјС‹С€Р»РµРЅСЊСЏ РјРѕРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иду ли я, отдыхаю ли, и Ты окружаешь меня,</plain>
+            <plain>РРґСѓ Р»Рё СЏ, РѕС‚РґС‹С…Р°СЋ Р»Рё, Рё РўС‹ РѕРєСЂСѓР¶Р°РµС€СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>И все пути мои известны лишь Тебе.</plain>
+            <plain>Р РІСЃРµ РїСѓС‚Рё РјРѕРё РёР·РІРµСЃС‚РЅС‹ Р»РёС€СЊ РўРµР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И в тайне сердечной Ты знаешь меня.</plain>
+            <plain>Р РІ С‚Р°Р№РЅРµ СЃРµСЂРґРµС‡РЅРѕР№ РўС‹ Р·РЅР°РµС€СЊ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Желания знаешь мои.</plain>
+            <plain>Р–РµР»Р°РЅРёСЏ Р·РЅР°РµС€СЊ РјРѕРё.</plain>
         </string>
         <string>
-            <plain>Ничто от Тебя не сокрыто,</plain>
+            <plain>РќРёС‡С‚Рѕ РѕС‚ РўРµР±СЏ РЅРµ СЃРѕРєСЂС‹С‚Рѕ,</plain>
         </string>
         <string>
-            <plain>Мой Бог, Ты - сила и слава моя!</plain>
+            <plain>РњРѕР№ Р‘РѕРі, РўС‹ - СЃРёР»Р° Рё СЃР»Р°РІР° РјРѕСЏ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>За все остаюсь благодарен Тебе,</plain>
+            <plain>Р—Р° РІСЃРµ РѕСЃС‚Р°СЋСЃСЊ Р±Р»Р°РіРѕРґР°СЂРµРЅ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>За милость Твою, за любовь!</plain>
+            <plain>Р—Р° РјРёР»РѕСЃС‚СЊ РўРІРѕСЋ, Р·Р° Р»СЋР±РѕРІСЊ!</plain>
         </string>
         <string>
-            <plain>И дальше храни Ты меня, мой Господь</plain>
+            <plain>Р РґР°Р»СЊС€Рµ С…СЂР°РЅРё РўС‹ РјРµРЅСЏ, РјРѕР№ Р“РѕСЃРїРѕРґСЊ</plain>
         </string>
         <string>
-            <plain>- с Тобой лишь хочу я идти.</plain>
+            <plain>- СЃ РўРѕР±РѕР№ Р»РёС€СЊ С…РѕС‡Сѓ СЏ РёРґС‚Рё.</plain>
         </string>
     </verse>
 </psalm>

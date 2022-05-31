@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1457" name="Хочу увидеть жизнь Иисуса я" canon="false" text="" textRus="" music="">
+<psalm number="1457" name="РҐРѕС‡Сѓ СѓРІРёРґРµС‚СЊ Р¶РёР·РЅСЊ РРёСЃСѓСЃР° СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хочу увидеть жизнь Иисуса я,</plain>
+            <plain>РҐРѕС‡Сѓ СѓРІРёРґРµС‚СЊ Р¶РёР·РЅСЊ РРёСЃСѓСЃР° СЏ,</plain>
         </string>
         <string>
-            <plain>Его томленья и дела.</plain>
+            <plain>Р•РіРѕ С‚РѕРјР»РµРЅСЊСЏ Рё РґРµР»Р°.</plain>
         </string>
         <string>
-            <plain>Страна, где светлая и трудная</plain>
+            <plain>РЎС‚СЂР°РЅР°, РіРґРµ СЃРІРµС‚Р»Р°СЏ Рё С‚СЂСѓРґРЅР°СЏ</plain>
         </string>
         <string>
-            <plain>дорога к небу пролегла.</plain>
+            <plain>РґРѕСЂРѕРіР° Рє РЅРµР±Сѓ РїСЂРѕР»РµРіР»Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Прошли века, и далека</plain>
+            <plain>РџСЂРѕС€Р»Рё РІРµРєР°, Рё РґР°Р»РµРєР°</plain>
         </string>
         <string>
-            <plain>Земля, где жил Спаситель мой.</plain>
+            <plain>Р—РµРјР»СЏ, РіРґРµ Р¶РёР» РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Но и теперь Он - цель и жизнь моя,</plain>
+            <plain>РќРѕ Рё С‚РµРїРµСЂСЊ РћРЅ - С†РµР»СЊ Рё Р¶РёР·РЅСЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Пример мой дорогой.</plain>
+            <plain>РџСЂРёРјРµСЂ РјРѕР№ РґРѕСЂРѕРіРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Места, сожженные пустынею,</plain>
+            <plain>РњРµСЃС‚Р°, СЃРѕР¶Р¶РµРЅРЅС‹Рµ РїСѓСЃС‚С‹РЅРµСЋ,</plain>
         </string>
         <string>
-            <plain>В посте, борьбе Иисус один</plain>
+            <plain>Р’ РїРѕСЃС‚Рµ, Р±РѕСЂСЊР±Рµ РРёСЃСѓСЃ РѕРґРёРЅ</plain>
         </string>
         <string>
-            <plain>Победу одержал великую</plain>
+            <plain>РџРѕР±РµРґСѓ РѕРґРµСЂР¶Р°Р» РІРµР»РёРєСѓСЋ</plain>
         </string>
         <string>
-            <plain>Там - человек и Божий Сын.</plain>
+            <plain>РўР°Рј - С‡РµР»РѕРІРµРє Рё Р‘РѕР¶РёР№ РЎС‹РЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Источник свежий, утоляющий</plain>
+            <plain>РСЃС‚РѕС‡РЅРёРє СЃРІРµР¶РёР№, СѓС‚РѕР»СЏСЋС‰РёР№</plain>
         </string>
         <string>
-            <plain>Любую жажду и нужду,</plain>
+            <plain>Р›СЋР±СѓСЋ Р¶Р°Р¶РґСѓ Рё РЅСѓР¶РґСѓ,</plain>
         </string>
         <string>
-            <plain>Иисус, от силы зла страдающий,</plain>
+            <plain>РРёСЃСѓСЃ, РѕС‚ СЃРёР»С‹ Р·Р»Р° СЃС‚СЂР°РґР°СЋС‰РёР№,</plain>
         </string>
         <string>
-            <plain>В тоске несет мольбу Отцу.</plain>
+            <plain>Р’ С‚РѕСЃРєРµ РЅРµСЃРµС‚ РјРѕР»СЊР±Сѓ РћС‚С†Сѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>На древе Агнец умирающий,</plain>
+            <plain>РќР° РґСЂРµРІРµ РђРіРЅРµС† СѓРјРёСЂР°СЋС‰РёР№,</plain>
         </string>
         <string>
-            <plain>В ужасной пытке льется кровь.</plain>
+            <plain>Р’ СѓР¶Р°СЃРЅРѕР№ РїС‹С‚РєРµ Р»СЊРµС‚СЃСЏ РєСЂРѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Я слышу голос всепрощающий,</plain>
+            <plain>РЇ СЃР»С‹С€Сѓ РіРѕР»РѕСЃ РІСЃРµРїСЂРѕС‰Р°СЋС‰РёР№,</plain>
         </string>
         <string>
-            <plain>Он дарит жизнь мне и любовь.</plain>
+            <plain>РћРЅ РґР°СЂРёС‚ Р¶РёР·РЅСЊ РјРЅРµ Рё Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </verse>
 </psalm>

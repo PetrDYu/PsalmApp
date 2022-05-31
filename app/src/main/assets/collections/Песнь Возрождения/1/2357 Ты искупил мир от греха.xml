@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2357" name="Ты искупил мир от греха" canon="false" text="" textRus="" music="">
+<psalm number="2357" name="РўС‹ РёСЃРєСѓРїРёР» РјРёСЂ РѕС‚ РіСЂРµС…Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты искупил мир от греха,</plain>
+            <plain>РўС‹ РёСЃРєСѓРїРёР» РјРёСЂ РѕС‚ РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>Ты дал ему любовь и свет,</plain>
+            <plain>РўС‹ РґР°Р» РµРјСѓ Р»СЋР±РѕРІСЊ Рё СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Зажёг потухшие сердца</plain>
+            <plain>Р—Р°Р¶С‘Рі РїРѕС‚СѓС…С€РёРµ СЃРµСЂРґС†Р°</plain>
         </string>
         <string>
-            <plain>И дал надежду.</plain>
+            <plain>Р РґР°Р» РЅР°РґРµР¶РґСѓ.</plain>
         </string>
         <string>
-            <plain>Мы пред Тобою предстоим,</plain>
+            <plain>РњС‹ РїСЂРµРґ РўРѕР±РѕСЋ РїСЂРµРґСЃС‚РѕРёРј,</plain>
         </string>
         <string>
-            <plain>И каждый дорог для Тебя.</plain>
+            <plain>Р РєР°Р¶РґС‹Р№ РґРѕСЂРѕРі РґР»СЏ РўРµР±СЏ.</plain>
         </string>
         <string>
-            <plain>За всё, Отец, благодарим</plain>
+            <plain>Р—Р° РІСЃС‘, РћС‚РµС†, Р±Р»Р°РіРѕРґР°СЂРёРј</plain>
         </string>
         <string>
-            <plain>И превозносим.</plain>
+            <plain>Р РїСЂРµРІРѕР·РЅРѕСЃРёРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слава Тебе и величье,</plain>
+            <plain>РЎР»Р°РІР° РўРµР±Рµ Рё РІРµР»РёС‡СЊРµ,</plain>
         </string>
         <string>
-            <plain>Слава в веках и народах!</plain>
+            <plain>РЎР»Р°РІР° РІ РІРµРєР°С… Рё РЅР°СЂРѕРґР°С…!</plain>
         </string>
         <string>
-            <plain>Сила Твоя безгранична,</plain>
+            <plain>РЎРёР»Р° РўРІРѕСЏ Р±РµР·РіСЂР°РЅРёС‡РЅР°,</plain>
         </string>
         <string>
-            <plain>Милость Твоя во все роды.</plain>
+            <plain>РњРёР»РѕСЃС‚СЊ РўРІРѕСЏ РІРѕ РІСЃРµ СЂРѕРґС‹.</plain>
         </string>
     </chorus>
 </psalm>

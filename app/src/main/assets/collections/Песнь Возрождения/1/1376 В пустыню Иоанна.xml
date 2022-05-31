@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1376" name="В пустыню Иоанна" canon="false" text="" textRus="" music="">
+<psalm number="1376" name="Р’ РїСѓСЃС‚С‹РЅСЋ РРѕР°РЅРЅР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В пустыню Иоанна</plain>
+            <plain>Р’ РїСѓСЃС‚С‹РЅСЋ РРѕР°РЅРЅР°</plain>
         </string>
         <string>
-            <plain>На берег Иордана,</plain>
+            <plain>РќР° Р±РµСЂРµРі РРѕСЂРґР°РЅР°,</plain>
         </string>
         <string>
-            <plain>Спаситель, Ты явился</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РўС‹ СЏРІРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>И от него крестился.</plain>
+            <plain>Р РѕС‚ РЅРµРіРѕ РєСЂРµСЃС‚РёР»СЃСЏ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Мессии приближенье</plain>
+            <plain>РњРµСЃСЃРёРё РїСЂРёР±Р»РёР¶РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Пролило вдохновенье;</plain>
+            <plain>РџСЂРѕР»РёР»Рѕ РІРґРѕС…РЅРѕРІРµРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Народ услышал речи</plain>
+            <plain>РќР°СЂРѕРґ СѓСЃР»С‹С€Р°Р» СЂРµС‡Рё</plain>
         </string>
         <string>
-            <plain>Великого Предтечи.</plain>
+            <plain>Р’РµР»РёРєРѕРіРѕ РџСЂРµРґС‚РµС‡Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Тебе сказал Креститель:</plain>
+            <plain>РўРµР±Рµ СЃРєР°Р·Р°Р» РљСЂРµСЃС‚РёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>"Ты ль от меня. Властитель?</plain>
+            <plain>"РўС‹ Р»СЊ РѕС‚ РјРµРЅСЏ. Р’Р»Р°СЃС‚РёС‚РµР»СЊ?</plain>
         </string>
         <string>
-            <plain>Нет, должен бы проситься</plain>
+            <plain>РќРµС‚, РґРѕР»Р¶РµРЅ Р±С‹ РїСЂРѕСЃРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Я от Тебя креститься!"</plain>
+            <plain>РЇ РѕС‚ РўРµР±СЏ РєСЂРµСЃС‚РёС‚СЊСЃСЏ!"</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Но Ты ответил словом:</plain>
+            <plain>РќРѕ РўС‹ РѕС‚РІРµС‚РёР» СЃР»РѕРІРѕРј:</plain>
         </string>
         <string>
-            <plain>"Нам надо быть готовым</plain>
+            <plain>"РќР°Рј РЅР°РґРѕ Р±С‹С‚СЊ РіРѕС‚РѕРІС‹Рј</plain>
         </string>
         <string>
-            <plain>Исполнить в правде точной</plain>
+            <plain>РСЃРїРѕР»РЅРёС‚СЊ РІ РїСЂР°РІРґРµ С‚РѕС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Глас воли непорочной".</plain>
+            <plain>Р“Р»Р°СЃ РІРѕР»Рё РЅРµРїРѕСЂРѕС‡РЅРѕР№".</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Тогда Иоанн в смиреньи</plain>
+            <plain>РўРѕРіРґР° РРѕР°РЅРЅ РІ СЃРјРёСЂРµРЅСЊРё</plain>
         </string>
         <string>
-            <plain>Свершил Твое крещенье;</plain>
+            <plain>РЎРІРµСЂС€РёР» РўРІРѕРµ РєСЂРµС‰РµРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Отец в грому явился,</plain>
+            <plain>РћС‚РµС† РІ РіСЂРѕРјСѓ СЏРІРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>И голубь - Дух спустился.</plain>
+            <plain>Р РіРѕР»СѓР±СЊ - Р”СѓС… СЃРїСѓСЃС‚РёР»СЃСЏ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Мессии послушанье -</plain>
+            <plain>РњРµСЃСЃРёРё РїРѕСЃР»СѓС€Р°РЅСЊРµ -</plain>
         </string>
         <string>
-            <plain>Пример для подражанья</plain>
+            <plain>РџСЂРёРјРµСЂ РґР»СЏ РїРѕРґСЂР°Р¶Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Для чад, Отцу покорных</plain>
+            <plain>Р”Р»СЏ С‡Р°Рґ, РћС‚С†Сѓ РїРѕРєРѕСЂРЅС‹С…</plain>
         </string>
         <string>
-            <plain>На стезях жизни торных.</plain>
+            <plain>РќР° СЃС‚РµР·СЏС… Р¶РёР·РЅРё С‚РѕСЂРЅС‹С….</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Души моей желанье:</plain>
+            <plain>Р”СѓС€Рё РјРѕРµР№ Р¶РµР»Р°РЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>В долине испытанья</plain>
+            <plain>Р’ РґРѕР»РёРЅРµ РёСЃРїС‹С‚Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Перед Тобой смириться</plain>
+            <plain>РџРµСЂРµРґ РўРѕР±РѕР№ СЃРјРёСЂРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>И в смерть Твою креститься.</plain>
+            <plain>Р РІ СЃРјРµСЂС‚СЊ РўРІРѕСЋ РєСЂРµСЃС‚РёС‚СЊСЃСЏ.</plain>
         </string>
     </verse>
 </psalm>

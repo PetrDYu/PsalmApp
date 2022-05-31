@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="324" name="Пастырь добрый ищет" canon="false" text="" textRus="" music="">
+<psalm number="324" name="РџР°СЃС‚С‹СЂСЊ РґРѕР±СЂС‹Р№ РёС‰РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пастырь добрый ищет</plain>
+            <plain>РџР°СЃС‚С‹СЂСЊ РґРѕР±СЂС‹Р№ РёС‰РµС‚</plain>
         </string>
         <string>
-            <plain>Бедную овцу!</plain>
+            <plain>Р‘РµРґРЅСѓСЋ РѕРІС†Сѓ!</plain>
         </string>
         <string>
-            <plain>Без Него погибнет:</plain>
+            <plain>Р‘РµР· РќРµРіРѕ РїРѕРіРёР±РЅРµС‚:</plain>
         </string>
         <string>
-            <plain>Жаль ее Ему.</plain>
+            <plain>Р–Р°Р»СЊ РµРµ Р•РјСѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ищет тебя, ищет тебя,</plain>
+            <plain>РС‰РµС‚ С‚РµР±СЏ, РёС‰РµС‚ С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Жаждет Господь спасти тебя.</plain>
+            <plain>Р–Р°Р¶РґРµС‚ Р“РѕСЃРїРѕРґСЊ СЃРїР°СЃС‚Рё С‚РµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Ищет тебя, ищет тебя,</plain>
+            <plain>РС‰РµС‚ С‚РµР±СЏ, РёС‰РµС‚ С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Жаждет Господь спасти тебя.</plain>
+            <plain>Р–Р°Р¶РґРµС‚ Р“РѕСЃРїРѕРґСЊ СЃРїР°СЃС‚Рё С‚РµР±СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Драхма дорогая</plain>
+            <plain>Р”СЂР°С…РјР° РґРѕСЂРѕРіР°СЏ</plain>
         </string>
         <string>
-            <plain>Вновь обретена:</plain>
+            <plain>Р’РЅРѕРІСЊ РѕР±СЂРµС‚РµРЅР°:</plain>
         </string>
         <string>
-            <plain>Из земли и мрака</plain>
+            <plain>РР· Р·РµРјР»Рё Рё РјСЂР°РєР°</plain>
         </string>
         <string>
-            <plain>Поднята она.</plain>
+            <plain>РџРѕРґРЅСЏС‚Р° РѕРЅР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>С Ним делить веселье</plain>
+            <plain>РЎ РќРёРј РґРµР»РёС‚СЊ РІРµСЃРµР»СЊРµ</plain>
         </string>
         <string>
-            <plain>Всех Отец зовет:</plain>
+            <plain>Р’СЃРµС… РћС‚РµС† Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>Сын был мертв, потерян –</plain>
+            <plain>РЎС‹РЅ Р±С‹Р» РјРµСЂС‚РІ, РїРѕС‚РµСЂСЏРЅ вЂ“</plain>
         </string>
         <string>
-            <plain>Найден и живет.</plain>
+            <plain>РќР°Р№РґРµРЅ Рё Р¶РёРІРµС‚.</plain>
         </string>
     </verse>
 </psalm>

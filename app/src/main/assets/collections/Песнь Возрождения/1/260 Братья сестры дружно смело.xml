@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="260" name="Братья сестры дружно смело" canon="false" text="" textRus="" music="">
+<psalm number="260" name="Р‘СЂР°С‚СЊСЏ СЃРµСЃС‚СЂС‹ РґСЂСѓР¶РЅРѕ СЃРјРµР»Рѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Братья, сестры, дружно, смело,</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, СЃРµСЃС‚СЂС‹, РґСЂСѓР¶РЅРѕ, СЃРјРµР»Рѕ,</plain>
         </string>
         <string>
-            <plain>Как один народ,</plain>
+            <plain>РљР°Рє РѕРґРёРЅ РЅР°СЂРѕРґ,</plain>
         </string>
         <string>
-            <plain>Совершать Господне дело</plain>
+            <plain>РЎРѕРІРµСЂС€Р°С‚СЊ Р“РѕСЃРїРѕРґРЅРµ РґРµР»Рѕ</plain>
         </string>
         <string>
-            <plain>Все пойдем вперед!</plain>
+            <plain>Р’СЃРµ РїРѕР№РґРµРј РІРїРµСЂРµРґ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Все вперед идите смело!</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ РёРґРёС‚Рµ СЃРјРµР»Рѕ!</plain>
         </string>
         <string>
-            <plain>В бой за истину вперед!</plain>
+            <plain>Р’ Р±РѕР№ Р·Р° РёСЃС‚РёРЅСѓ РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Все вперед на Божье дело!</plain>
+            <plain>Р’СЃРµ РІРїРµСЂРµРґ РЅР° Р‘РѕР¶СЊРµ РґРµР»Рѕ!</plain>
         </string>
         <string>
-            <plain>Со Христом на труд вперед!</plain>
+            <plain>РЎРѕ РҐСЂРёСЃС‚РѕРј РЅР° С‚СЂСѓРґ РІРїРµСЂРµРґ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Нивы Божьи побелели,</plain>
+            <plain>РќРёРІС‹ Р‘РѕР¶СЊРё РїРѕР±РµР»РµР»Рё,</plain>
         </string>
         <string>
-            <plain>Нас работа ждет.</plain>
+            <plain>РќР°СЃ СЂР°Р±РѕС‚Р° Р¶РґРµС‚.</plain>
         </string>
         <string>
-            <plain>К неземной победной цели</plain>
+            <plain>Рљ РЅРµР·РµРјРЅРѕР№ РїРѕР±РµРґРЅРѕР№ С†РµР»Рё</plain>
         </string>
         <string>
-            <plain>Все пойдем вперед.</plain>
+            <plain>Р’СЃРµ РїРѕР№РґРµРј РІРїРµСЂРµРґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Скоро уж настанет время, -</plain>
+            <plain>РЎРєРѕСЂРѕ СѓР¶ РЅР°СЃС‚Р°РЅРµС‚ РІСЂРµРјСЏ, -</plain>
         </string>
         <string>
-            <plain>Наш Господь придет.</plain>
+            <plain>РќР°С€ Р“РѕСЃРїРѕРґСЊ РїСЂРёРґРµС‚.</plain>
         </string>
         <string>
-            <plain>Сеять Божьей правды семя</plain>
+            <plain>РЎРµСЏС‚СЊ Р‘РѕР¶СЊРµР№ РїСЂР°РІРґС‹ СЃРµРјСЏ</plain>
         </string>
         <string>
-            <plain>Все пойдем вперед.</plain>
+            <plain>Р’СЃРµ РїРѕР№РґРµРј РІРїРµСЂРµРґ.</plain>
         </string>
     </verse>
 </psalm>

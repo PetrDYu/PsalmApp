@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="171" name="Нет больше утешенья" canon="false" text="" textRus="" music="">
+<psalm number="171" name="РќРµС‚ Р±РѕР»СЊС€Рµ СѓС‚РµС€РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Нет больше утешенья,</plain>
+            <plain>РќРµС‚ Р±РѕР»СЊС€Рµ СѓС‚РµС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Нет радости полней,</plain>
+            <plain>РќРµС‚ СЂР°РґРѕСЃС‚Рё РїРѕР»РЅРµР№,</plain>
         </string>
         <string>
-            <plain>Как быть всегда в общенье</plain>
+            <plain>РљР°Рє Р±С‹С‚СЊ РІСЃРµРіРґР° РІ РѕР±С‰РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>С Создателем людей.</plain>
+            <plain>РЎ РЎРѕР·РґР°С‚РµР»РµРј Р»СЋРґРµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Сладко, чудно</plain>
+            <plain>РЎР»Р°РґРєРѕ, С‡СѓРґРЅРѕ</plain>
         </string>
         <string>
-            <plain>Быть в общенье вечном с Ним;</plain>
+            <plain>Р‘С‹С‚СЊ РІ РѕР±С‰РµРЅСЊРµ РІРµС‡РЅРѕРј СЃ РќРёРј;</plain>
         </string>
         <string>
-            <plain>Сладко, чудно</plain>
+            <plain>РЎР»Р°РґРєРѕ, С‡СѓРґРЅРѕ</plain>
         </string>
         <string>
-            <plain>Быть в общенье с Ним.</plain>
+            <plain>Р‘С‹С‚СЊ РІ РѕР±С‰РµРЅСЊРµ СЃ РќРёРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Общенье с Богом Вечным,</plain>
+            <plain>РћР±С‰РµРЅСЊРµ СЃ Р‘РѕРіРѕРј Р’РµС‡РЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Учителем людей,</plain>
+            <plain>РЈС‡РёС‚РµР»РµРј Р»СЋРґРµР№,</plain>
         </string>
         <string>
-            <plain>Ученикам беспечным</plain>
+            <plain>РЈС‡РµРЅРёРєР°Рј Р±РµСЃРїРµС‡РЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Даст знание полней.</plain>
+            <plain>Р”Р°СЃС‚ Р·РЅР°РЅРёРµ РїРѕР»РЅРµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но сладостней общенье</plain>
+            <plain>РќРѕ СЃР»Р°РґРѕСЃС‚РЅРµР№ РѕР±С‰РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>С Всесильным как с Отцом;</plain>
+            <plain>РЎ Р’СЃРµСЃРёР»СЊРЅС‹Рј РєР°Рє СЃ РћС‚С†РѕРј;</plain>
         </string>
         <string>
-            <plain>Отцово попеченье</plain>
+            <plain>РћС‚С†РѕРІРѕ РїРѕРїРµС‡РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Дает мне вечный дом.</plain>
+            <plain>Р”Р°РµС‚ РјРЅРµ РІРµС‡РЅС‹Р№ РґРѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Но выше есть общенье,</plain>
+            <plain>РќРѕ РІС‹С€Рµ РµСЃС‚СЊ РѕР±С‰РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Общенье двух друзей;</plain>
+            <plain>РћР±С‰РµРЅСЊРµ РґРІСѓС… РґСЂСѓР·РµР№;</plain>
         </string>
         <string>
-            <plain>"Он Друг мой", - где ученье,</plain>
+            <plain>"РћРЅ Р”СЂСѓРі РјРѕР№", - РіРґРµ СѓС‡РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Где истина святей?</plain>
+            <plain>Р“РґРµ РёСЃС‚РёРЅР° СЃРІСЏС‚РµР№?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Общение беседы</plain>
+            <plain>РћР±С‰РµРЅРёРµ Р±РµСЃРµРґС‹</plain>
         </string>
         <string>
-            <plain>В восторженной мольбе;</plain>
+            <plain>Р’ РІРѕСЃС‚РѕСЂР¶РµРЅРЅРѕР№ РјРѕР»СЊР±Рµ;</plain>
         </string>
         <string>
-            <plain>Общение победы</plain>
+            <plain>РћР±С‰РµРЅРёРµ РїРѕР±РµРґС‹</plain>
         </string>
         <string>
-            <plain>В Его святой борьбе.</plain>
+            <plain>Р’ Р•РіРѕ СЃРІСЏС‚РѕР№ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

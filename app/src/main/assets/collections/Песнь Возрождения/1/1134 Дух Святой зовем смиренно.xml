@@ -1,86 +1,86 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1134" name="Дух Святой зовем смиренно" canon="false" text="" textRus="" music="">
+<psalm number="1134" name="Р”СѓС… РЎРІСЏС‚РѕР№ Р·РѕРІРµРј СЃРјРёСЂРµРЅРЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Дух Святой, зовем смиренно,</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, Р·РѕРІРµРј СЃРјРёСЂРµРЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Светом души озари!</plain>
+            <plain>РЎРІРµС‚РѕРј РґСѓС€Рё РѕР·Р°СЂРё!</plain>
         </string>
         <string>
-            <plain>Ты сиял среди Вселенной,</plain>
+            <plain>РўС‹ СЃРёСЏР» СЃСЂРµРґРё Р’СЃРµР»РµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>среди солнца и зари.</plain>
+            <plain>СЃСЂРµРґРё СЃРѕР»РЅС†Р° Рё Р·Р°СЂРё.</plain>
         </string>
         <string>
-            <plain>Ты твори и в нашем сердце,</plain>
+            <plain>РўС‹ С‚РІРѕСЂРё Рё РІ РЅР°С€РµРј СЃРµСЂРґС†Рµ,</plain>
         </string>
         <string>
-            <plain>Сам обитель сотвори,</plain>
+            <plain>РЎР°Рј РѕР±РёС‚РµР»СЊ СЃРѕС‚РІРѕСЂРё,</plain>
         </string>
         <string>
-            <plain>И огнем спасительным гори.</plain>
+            <plain>Р РѕРіРЅРµРј СЃРїР°СЃРёС‚РµР»СЊРЅС‹Рј РіРѕСЂРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Огонь небесный, сойди скорей,</plain>
+            <plain>РћРіРѕРЅСЊ РЅРµР±РµСЃРЅС‹Р№, СЃРѕР№РґРё СЃРєРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>И теплотою Своей согрей,</plain>
+            <plain>Р С‚РµРїР»РѕС‚РѕСЋ РЎРІРѕРµР№ СЃРѕРіСЂРµР№,</plain>
         </string>
         <string>
-            <plain>Дорогой трудной к Отчизне чудной</plain>
+            <plain>Р”РѕСЂРѕРіРѕР№ С‚СЂСѓРґРЅРѕР№ Рє РћС‚С‡РёР·РЅРµ С‡СѓРґРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Мы пойдем уверенней, бодрей!</plain>
+            <plain>РњС‹ РїРѕР№РґРµРј СѓРІРµСЂРµРЅРЅРµР№, Р±РѕРґСЂРµР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дух Святой, о, гость небесный,</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, Рѕ, РіРѕСЃС‚СЊ РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Ты доступен, близок стал,</plain>
+            <plain>РўС‹ РґРѕСЃС‚СѓРїРµРЅ, Р±Р»РёР·РѕРє СЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>искупивший смертью крестной</plain>
+            <plain>РёСЃРєСѓРїРёРІС€РёР№ СЃРјРµСЂС‚СЊСЋ РєСЂРµСЃС‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Твой приход пообещал.</plain>
+            <plain>РўРІРѕР№ РїСЂРёС…РѕРґ РїРѕРѕР±РµС‰Р°Р».</plain>
         </string>
         <string>
-            <plain>Сокруши греха твердыню.</plain>
+            <plain>РЎРѕРєСЂСѓС€Рё РіСЂРµС…Р° С‚РІРµСЂРґС‹РЅСЋ.</plain>
         </string>
         <string>
-            <plain>Мощь разбей греховных скал,</plain>
+            <plain>РњРѕС‰СЊ СЂР°Р·Р±РµР№ РіСЂРµС…РѕРІРЅС‹С… СЃРєР°Р»,</plain>
         </string>
         <string>
-            <plain>Чтоб о Боге каждый услыхал.</plain>
+            <plain>Р§С‚РѕР± Рѕ Р‘РѕРіРµ РєР°Р¶РґС‹Р№ СѓСЃР»С‹С…Р°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дух Святой, вовеки сущий,</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, РІРѕРІРµРєРё СЃСѓС‰РёР№,</plain>
         </string>
         <string>
-            <plain>Силой верных наполняй,</plain>
+            <plain>РЎРёР»РѕР№ РІРµСЂРЅС‹С… РЅР°РїРѕР»РЅСЏР№,</plain>
         </string>
         <string>
-            <plain>Красотой, Тебе присущей.</plain>
+            <plain>РљСЂР°СЃРѕС‚РѕР№, РўРµР±Рµ РїСЂРёСЃСѓС‰РµР№.</plain>
         </string>
         <string>
-            <plain>Дело церкви созидай!</plain>
+            <plain>Р”РµР»Рѕ С†РµСЂРєРІРё СЃРѕР·РёРґР°Р№!</plain>
         </string>
         <string>
-            <plain>Властвуй нашим помышленьям,</plain>
+            <plain>Р’Р»Р°СЃС‚РІСѓР№ РЅР°С€РёРј РїРѕРјС‹С€Р»РµРЅСЊСЏРј,</plain>
         </string>
         <string>
-            <plain>Обличай и утешай,</plain>
+            <plain>РћР±Р»РёС‡Р°Р№ Рё СѓС‚РµС€Р°Р№,</plain>
         </string>
         <string>
-            <plain>Пробуди уснувший Белорусский край!</plain>
+            <plain>РџСЂРѕР±СѓРґРё СѓСЃРЅСѓРІС€РёР№ Р‘РµР»РѕСЂСѓСЃСЃРєРёР№ РєСЂР°Р№!</plain>
         </string>
     </verse>
 </psalm>

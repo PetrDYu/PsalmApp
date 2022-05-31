@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="239" name="Слушайте слово благого Отца" canon="false" text="" textRus="" music="">
+<psalm number="239" name="РЎР»СѓС€Р°Р№С‚Рµ СЃР»РѕРІРѕ Р±Р»Р°РіРѕРіРѕ РћС‚С†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слушайте слово благого Отца;</plain>
+            <plain>РЎР»СѓС€Р°Р№С‚Рµ СЃР»РѕРІРѕ Р±Р»Р°РіРѕРіРѕ РћС‚С†Р°;</plain>
         </string>
         <string>
-            <plain>Оно вам очистит сердца.</plain>
+            <plain>РћРЅРѕ РІР°Рј РѕС‡РёСЃС‚РёС‚ СЃРµСЂРґС†Р°.</plain>
         </string>
         <string>
-            <plain>Вторите за мной, уповая вполне:</plain>
+            <plain>Р’С‚РѕСЂРёС‚Рµ Р·Р° РјРЅРѕР№, СѓРїРѕРІР°СЏ РІРїРѕР»РЅРµ:</plain>
         </string>
         <string>
-            <plain>"Ныне спасение мне!"</plain>
+            <plain>"РќС‹РЅРµ СЃРїР°СЃРµРЅРёРµ РјРЅРµ!"</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Если краснее, чем пурпур вина,</plain>
+            <plain>Р•СЃР»Рё РєСЂР°СЃРЅРµРµ, С‡РµРј РїСѓСЂРїСѓСЂ РІРёРЅР°,</plain>
         </string>
         <string>
-            <plain>Грехами душа сражена,</plain>
+            <plain>Р“СЂРµС…Р°РјРё РґСѓС€Р° СЃСЂР°Р¶РµРЅР°,</plain>
         </string>
         <string>
-            <plain>С верою вы говорите себе:</plain>
+            <plain>РЎ РІРµСЂРѕСЋ РІС‹ РіРѕРІРѕСЂРёС‚Рµ СЃРµР±Рµ:</plain>
         </string>
         <string>
-            <plain>"Ныне спасение мне!"</plain>
+            <plain>"РќС‹РЅРµ СЃРїР°СЃРµРЅРёРµ РјРЅРµ!"</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если вам мир искушеньем грозит</plain>
+            <plain>Р•СЃР»Рё РІР°Рј РјРёСЂ РёСЃРєСѓС€РµРЅСЊРµРј РіСЂРѕР·РёС‚</plain>
         </string>
         <string>
-            <plain>И недруг вам сердце мутит,</plain>
+            <plain>Р РЅРµРґСЂСѓРі РІР°Рј СЃРµСЂРґС†Рµ РјСѓС‚РёС‚,</plain>
         </string>
         <string>
-            <plain>То вы взывайте без страха в душе:</plain>
+            <plain>РўРѕ РІС‹ РІР·С‹РІР°Р№С‚Рµ Р±РµР· СЃС‚СЂР°С…Р° РІ РґСѓС€Рµ:</plain>
         </string>
         <string>
-            <plain>"Ныне спасение мне!"</plain>
+            <plain>"РќС‹РЅРµ СЃРїР°СЃРµРЅРёРµ РјРЅРµ!"</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если вам слезы, заботы, нужда</plain>
+            <plain>Р•СЃР»Рё РІР°Рј СЃР»РµР·С‹, Р·Р°Р±РѕС‚С‹, РЅСѓР¶РґР°</plain>
         </string>
         <string>
-            <plain>Печалят ваш дух иногда,</plain>
+            <plain>РџРµС‡Р°Р»СЏС‚ РІР°С€ РґСѓС… РёРЅРѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>Вы говорите, взглянув к вышине:</plain>
+            <plain>Р’С‹ РіРѕРІРѕСЂРёС‚Рµ, РІР·РіР»СЏРЅСѓРІ Рє РІС‹С€РёРЅРµ:</plain>
         </string>
         <string>
-            <plain>"Ныне спасение мне!"</plain>
+            <plain>"РќС‹РЅРµ СЃРїР°СЃРµРЅРёРµ РјРЅРµ!"</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если пойдете вы мрачным путем,</plain>
+            <plain>Р•СЃР»Рё РїРѕР№РґРµС‚Рµ РІС‹ РјСЂР°С‡РЅС‹Рј РїСѓС‚РµРј,</plain>
         </string>
         <string>
-            <plain>Воспойте с святым торжеством:</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ СЃ СЃРІСЏС‚С‹Рј С‚РѕСЂР¶РµСЃС‚РІРѕРј:</plain>
         </string>
         <string>
-            <plain>"К славным идем мы небесным краям,</plain>
+            <plain>"Рљ СЃР»Р°РІРЅС‹Рј РёРґРµРј РјС‹ РЅРµР±РµСЃРЅС‹Рј РєСЂР°СЏРј,</plain>
         </string>
         <string>
-            <plain>Ныне спасение нам!"</plain>
+            <plain>РќС‹РЅРµ СЃРїР°СЃРµРЅРёРµ РЅР°Рј!"</plain>
         </string>
     </verse>
 </psalm>

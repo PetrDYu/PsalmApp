@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2944" name="Грешник поспеши к Иисусу" canon="false" text="" textRus="" music="">
+<psalm number="2944" name="Р“СЂРµС€РЅРёРє РїРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Грешник, поспеши к Иисусу!</plain>
+            <plain>Р“СЂРµС€РЅРёРє, РїРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Он простит твою вину,</plain>
+            <plain>РћРЅ РїСЂРѕСЃС‚РёС‚ С‚РІРѕСЋ РІРёРЅСѓ,</plain>
         </string>
         <string>
-            <plain>примет Он тебя с любовью</plain>
+            <plain>РїСЂРёРјРµС‚ РћРЅ С‚РµР±СЏ СЃ Р»СЋР±РѕРІСЊСЋ</plain>
         </string>
         <string>
-            <plain>и одарит милостью.</plain>
+            <plain>Рё РѕРґР°СЂРёС‚ РјРёР»РѕСЃС‚СЊСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Грешник, о приди к Иисусу!</plain>
+            <plain>Р“СЂРµС€РЅРёРє, Рѕ РїСЂРёРґРё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Дух Святой тебя зовёт.</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№ С‚РµР±СЏ Р·РѕРІС‘С‚.</plain>
         </string>
         <string>
-            <plain>Весь отдайся в Его руки</plain>
+            <plain>Р’РµСЃСЊ РѕС‚РґР°Р№СЃСЏ РІ Р•РіРѕ СЂСѓРєРё</plain>
         </string>
         <string>
-            <plain>- благодати день пройдёт.</plain>
+            <plain>- Р±Р»Р°РіРѕРґР°С‚Рё РґРµРЅСЊ РїСЂРѕР№РґС‘С‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Грешник, видишь Его милость:</plain>
+            <plain>Р“СЂРµС€РЅРёРє, РІРёРґРёС€СЊ Р•РіРѕ РјРёР»РѕСЃС‚СЊ:</plain>
         </string>
         <string>
-            <plain>Он, Сын Божий пострадал,</plain>
+            <plain>РћРЅ, РЎС‹РЅ Р‘РѕР¶РёР№ РїРѕСЃС‚СЂР°РґР°Р»,</plain>
         </string>
         <string>
-            <plain>на кресте невинный умер,</plain>
+            <plain>РЅР° РєСЂРµСЃС‚Рµ РЅРµРІРёРЅРЅС‹Р№ СѓРјРµСЂ,</plain>
         </string>
         <string>
-            <plain>на Себя проклятье взял.</plain>
+            <plain>РЅР° РЎРµР±СЏ РїСЂРѕРєР»СЏС‚СЊРµ РІР·СЏР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Грешник, преклони колени</plain>
+            <plain>Р“СЂРµС€РЅРёРє, РїСЂРµРєР»РѕРЅРё РєРѕР»РµРЅРё</plain>
         </string>
         <string>
-            <plain>пред Ним в искренней мольбе,</plain>
+            <plain>РїСЂРµРґ РќРёРј РІ РёСЃРєСЂРµРЅРЅРµР№ РјРѕР»СЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>и Господь в любви великой</plain>
+            <plain>Рё Р“РѕСЃРїРѕРґСЊ РІ Р»СЋР±РІРё РІРµР»РёРєРѕР№</plain>
         </string>
         <string>
-            <plain>даст Свой свет твоей душе.</plain>
+            <plain>РґР°СЃС‚ РЎРІРѕР№ СЃРІРµС‚ С‚РІРѕРµР№ РґСѓС€Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Грешник, ты с грехом расстанься</plain>
+            <plain>Р“СЂРµС€РЅРёРє, С‚С‹ СЃ РіСЂРµС…РѕРј СЂР°СЃСЃС‚Р°РЅСЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>и покинь широкий путь,</plain>
+            <plain>Рё РїРѕРєРёРЅСЊ С€РёСЂРѕРєРёР№ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>крест возьми Христа Иисуса,</plain>
+            <plain>РєСЂРµСЃС‚ РІРѕР·СЊРјРё РҐСЂРёСЃС‚Р° РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>перейди на узкий путь.</plain>
+            <plain>РїРµСЂРµР№РґРё РЅР° СѓР·РєРёР№ РїСѓС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Грешник, слушай зов Иисуса:</plain>
+            <plain>Р“СЂРµС€РЅРёРє, СЃР»СѓС€Р°Р№ Р·РѕРІ РРёСЃСѓСЃР°:</plain>
         </string>
         <string>
-            <plain>«О, придите все ко Мне, кто</plain>
+            <plain>В«Рћ, РїСЂРёРґРёС‚Рµ РІСЃРµ РєРѕ РњРЅРµ, РєС‚Рѕ</plain>
         </string>
         <string>
-            <plain>обременён и страждет,</plain>
+            <plain>РѕР±СЂРµРјРµРЅС‘РЅ Рё СЃС‚СЂР°Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>и найдёте мир душе!»</plain>
+            <plain>Рё РЅР°Р№РґС‘С‚Рµ РјРёСЂ РґСѓС€Рµ!В»</plain>
         </string>
     </verse>
 </psalm>

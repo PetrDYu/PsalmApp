@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="247" name="Известна мне Церковь живая" canon="false" text="" textRus="" music="">
+<psalm number="247" name="РР·РІРµСЃС‚РЅР° РјРЅРµ Р¦РµСЂРєРѕРІСЊ Р¶РёРІР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Известна мне Церковь живая,</plain>
+            <plain>РР·РІРµСЃС‚РЅР° РјРЅРµ Р¦РµСЂРєРѕРІСЊ Р¶РёРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Где сердцу отрадно так быть.</plain>
+            <plain>Р“РґРµ СЃРµСЂРґС†Сѓ РѕС‚СЂР°РґРЅРѕ С‚Р°Рє Р±С‹С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Христову любовь воспевая,</plain>
+            <plain>РҐСЂРёСЃС‚РѕРІСѓ Р»СЋР±РѕРІСЊ РІРѕСЃРїРµРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>В ней жажду Его я хвалить.</plain>
+            <plain>Р’ РЅРµР№ Р¶Р°Р¶РґСѓ Р•РіРѕ СЏ С…РІР°Р»РёС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О друг, иди в Церковь живую!</plain>
+            <plain>Рћ РґСЂСѓРі, РёРґРё РІ Р¦РµСЂРєРѕРІСЊ Р¶РёРІСѓСЋ!</plain>
         </string>
         <string>
-            <plain>Храм Божий и ты в ней найдешь;</plain>
+            <plain>РҐСЂР°Рј Р‘РѕР¶РёР№ Рё С‚С‹ РІ РЅРµР№ РЅР°Р№РґРµС€СЊ;</plain>
         </string>
         <string>
-            <plain>На грудь Иисуса святую</plain>
+            <plain>РќР° РіСЂСѓРґСЊ РРёСЃСѓСЃР° СЃРІСЏС‚СѓСЋ</plain>
         </string>
         <string>
-            <plain>Повергнись и мир обретешь.</plain>
+            <plain>РџРѕРІРµСЂРіРЅРёСЃСЊ Рё РјРёСЂ РѕР±СЂРµС‚РµС€СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Известна ль вам Церковь живая,</plain>
+            <plain>РР·РІРµСЃС‚РЅР° Р»СЊ РІР°Рј Р¦РµСЂРєРѕРІСЊ Р¶РёРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>К которой так сердце влечет?</plain>
+            <plain>Рљ РєРѕС‚РѕСЂРѕР№ С‚Р°Рє СЃРµСЂРґС†Рµ РІР»РµС‡РµС‚?</plain>
         </string>
         <string>
-            <plain>Там к небу молитва святая</plain>
+            <plain>РўР°Рј Рє РЅРµР±Сѓ РјРѕР»РёС‚РІР° СЃРІСЏС‚Р°СЏ</plain>
         </string>
         <string>
-            <plain>Горячим потоком течет.</plain>
+            <plain>Р“РѕСЂСЏС‡РёРј РїРѕС‚РѕРєРѕРј С‚РµС‡РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О странник! Ты знаешь, что миром</plain>
+            <plain>Рћ СЃС‚СЂР°РЅРЅРёРє! РўС‹ Р·РЅР°РµС€СЊ, С‡С‚Рѕ РјРёСЂРѕРј</plain>
         </string>
         <string>
-            <plain>От Церкви той веет всегда;</plain>
+            <plain>РћС‚ Р¦РµСЂРєРІРё С‚РѕР№ РІРµРµС‚ РІСЃРµРіРґР°;</plain>
         </string>
         <string>
-            <plain>Никто там не чувствует сирым,</plain>
+            <plain>РќРёРєС‚Рѕ С‚Р°Рј РЅРµ С‡СѓРІСЃС‚РІСѓРµС‚ СЃРёСЂС‹Рј,</plain>
         </string>
         <string>
-            <plain>Забытым себя никогда.</plain>
+            <plain>Р—Р°Р±С‹С‚С‹Рј СЃРµР±СЏ РЅРёРєРѕРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ведь Церковь есть неба преддверье,</plain>
+            <plain>Р’РµРґСЊ Р¦РµСЂРєРѕРІСЊ РµСЃС‚СЊ РЅРµР±Р° РїСЂРµРґРґРІРµСЂСЊРµ,</plain>
         </string>
         <string>
-            <plain>В ней милости Божьей престол;</plain>
+            <plain>Р’ РЅРµР№ РјРёР»РѕСЃС‚Рё Р‘РѕР¶СЊРµР№ РїСЂРµСЃС‚РѕР»;</plain>
         </string>
         <string>
-            <plain>Я был исцелен от неверья,</plain>
+            <plain>РЇ Р±С‹Р» РёСЃС†РµР»РµРЅ РѕС‚ РЅРµРІРµСЂСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Как в Церковь Христову вошел.</plain>
+            <plain>РљР°Рє РІ Р¦РµСЂРєРѕРІСЊ РҐСЂРёСЃС‚РѕРІСѓ РІРѕС€РµР».</plain>
         </string>
     </verse>
 </psalm>

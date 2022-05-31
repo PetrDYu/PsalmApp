@@ -1,85 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1693" name="Я иду по земле злобным ветром гоним" canon="false" text="" textRus="" music="">
+<psalm number="1693" name="РЇ РёРґСѓ РїРѕ Р·РµРјР»Рµ Р·Р»РѕР±РЅС‹Рј РІРµС‚СЂРѕРј РіРѕРЅРёРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я иду по земле, злобным ветром гоним,</plain>
+            <plain>РЇ РёРґСѓ РїРѕ Р·РµРјР»Рµ, Р·Р»РѕР±РЅС‹Рј РІРµС‚СЂРѕРј РіРѕРЅРёРј,</plain>
         </string>
         <string>
-            <plain>Мимо люди куда-то спешат.</plain>
+            <plain>РњРёРјРѕ Р»СЋРґРё РєСѓРґР°-С‚Рѕ СЃРїРµС€Р°С‚.</plain>
         </string>
         <string>
-            <plain>Среди них я иду, как в пустыне, один,</plain>
+            <plain>РЎСЂРµРґРё РЅРёС… СЏ РёРґСѓ, РєР°Рє РІ РїСѓСЃС‚С‹РЅРµ, РѕРґРёРЅ,</plain>
         </string>
         <string>
-            <plain>И усталые ноги горят.</plain>
+            <plain>Р СѓСЃС‚Р°Р»С‹Рµ РЅРѕРіРё РіРѕСЂСЏС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Видит мой Господь:</plain>
+            <plain>Р’РёРґРёС‚ РјРѕР№ Р“РѕСЃРїРѕРґСЊ:</plain>
         </string>
         <string>
-            <plain>Сердце так устало</plain>
+            <plain>РЎРµСЂРґС†Рµ С‚Р°Рє СѓСЃС‚Р°Р»Рѕ</plain>
         </string>
         <string>
-            <plain>Верить и любить</plain>
+            <plain>Р’РµСЂРёС‚СЊ Рё Р»СЋР±РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Среди зла, обмана.</plain>
+            <plain>РЎСЂРµРґРё Р·Р»Р°, РѕР±РјР°РЅР°.</plain>
         </string>
         <string>
-            <plain>Так боюсь упасть.</plain>
+            <plain>РўР°Рє Р±РѕСЋСЃСЊ СѓРїР°СЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Ведь хочу дойти</plain>
+            <plain>Р’РµРґСЊ С…РѕС‡Сѓ РґРѕР№С‚Рё</plain>
         </string>
         <string>
-            <plain>К вечным берегам.</plain>
+            <plain>Рљ РІРµС‡РЅС‹Рј Р±РµСЂРµРіР°Рј.</plain>
         </string>
         <string>
-            <plain>Ждущим впереди.</plain>
+            <plain>Р–РґСѓС‰РёРј РІРїРµСЂРµРґРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я иду безмятежно, спокойно везде.</plain>
+            <plain>РЇ РёРґСѓ Р±РµР·РјСЏС‚РµР¶РЅРѕ, СЃРїРѕРєРѕР№РЅРѕ РІРµР·РґРµ.</plain>
         </string>
         <string>
-            <plain>И сквозь слезы не вижу опять.</plain>
+            <plain>Р СЃРєРІРѕР·СЊ СЃР»РµР·С‹ РЅРµ РІРёР¶Сѓ РѕРїСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Если я упаду, то, наверное, мне</plain>
+            <plain>Р•СЃР»Рё СЏ СѓРїР°РґСѓ, С‚Рѕ, РЅР°РІРµСЂРЅРѕРµ, РјРЅРµ</plain>
         </string>
         <string>
-            <plain>Не подняться и больше не встать.</plain>
+            <plain>РќРµ РїРѕРґРЅСЏС‚СЊСЃСЏ Рё Р±РѕР»СЊС€Рµ РЅРµ РІСЃС‚Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И когда Ты проходишь ночною порой.</plain>
+            <plain>Р РєРѕРіРґР° РўС‹ РїСЂРѕС…РѕРґРёС€СЊ РЅРѕС‡РЅРѕСЋ РїРѕСЂРѕР№.</plain>
         </string>
         <string>
-            <plain>Не пройдешь мимо скорби моей.</plain>
+            <plain>РќРµ РїСЂРѕР№РґРµС€СЊ РјРёРјРѕ СЃРєРѕСЂР±Рё РјРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Ты мне руку подашь, поведешь за</plain>
+            <plain>РўС‹ РјРЅРµ СЂСѓРєСѓ РїРѕРґР°С€СЊ, РїРѕРІРµРґРµС€СЊ Р·Р°</plain>
         </string>
         <string>
-            <plain>Собой Мимо бурь и палящих огней.</plain>
+            <plain>РЎРѕР±РѕР№ РњРёРјРѕ Р±СѓСЂСЊ Рё РїР°Р»СЏС‰РёС… РѕРіРЅРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я иду, прикоснись ко мне. Боже, скорей,</plain>
+            <plain>РЇ РёРґСѓ, РїСЂРёРєРѕСЃРЅРёСЃСЊ РєРѕ РјРЅРµ. Р‘РѕР¶Рµ, СЃРєРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>И я стану намного сильней,</plain>
+            <plain>Р СЏ СЃС‚Р°РЅСѓ РЅР°РјРЅРѕРіРѕ СЃРёР»СЊРЅРµР№,</plain>
         </string>
         <string>
-            <plain>И над гибнущим миром свободно взлечу,</plain>
+            <plain>Р РЅР°Рґ РіРёР±РЅСѓС‰РёРј РјРёСЂРѕРј СЃРІРѕР±РѕРґРЅРѕ РІР·Р»РµС‡Сѓ,</plain>
         </string>
         <string>
-            <plain>О, услышь, укрепи, я молю.</plain>
+            <plain>Рћ, СѓСЃР»С‹С€СЊ, СѓРєСЂРµРїРё, СЏ РјРѕР»СЋ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1400" name="Я знаю знает мой Отец" canon="false" text="" textRus="" music="">
+<psalm number="1400" name="РЇ Р·РЅР°СЋ Р·РЅР°РµС‚ РјРѕР№ РћС‚РµС†" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я знаю, знает мой Отец</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р·РЅР°РµС‚ РјРѕР№ РћС‚РµС†</plain>
         </string>
         <string>
-            <plain>Тернистый путь души моей.</plain>
+            <plain>РўРµСЂРЅРёСЃС‚С‹Р№ РїСѓС‚СЊ РґСѓС€Рё РјРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Но Он мне обещал венец.</plain>
+            <plain>РќРѕ РћРЅ РјРЅРµ РѕР±РµС‰Р°Р» РІРµРЅРµС†.</plain>
         </string>
         <string>
-            <plain>Венец по милости своей.</plain>
+            <plain>Р’РµРЅРµС† РїРѕ РјРёР»РѕСЃС‚Рё СЃРІРѕРµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Отец (Отец, Тебе),</plain>
+            <plain>РћС‚РµС† (РћС‚РµС†, РўРµР±Рµ),</plain>
         </string>
         <string>
-            <plain>Тебе (Тебе, Тебе)</plain>
+            <plain>РўРµР±Рµ (РўРµР±Рµ, РўРµР±Рµ)</plain>
         </string>
         <string>
-            <plain>Известен путь души моей.</plain>
+            <plain>РР·РІРµСЃС‚РµРЅ РїСѓС‚СЊ РґСѓС€Рё РјРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Отец (прошу Тебя),</plain>
+            <plain>РћС‚РµС† (РїСЂРѕС€Сѓ РўРµР±СЏ),</plain>
         </string>
         <string>
-            <plain>Отец, (услышь меня)</plain>
+            <plain>РћС‚РµС†, (СѓСЃР»С‹С€СЊ РјРµРЅСЏ)</plain>
         </string>
         <string>
-            <plain>Спаси меня в любви Твоей.</plain>
+            <plain>РЎРїР°СЃРё РјРµРЅСЏ РІ Р»СЋР±РІРё РўРІРѕРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я знаю, знает мой Отец</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р·РЅР°РµС‚ РјРѕР№ РћС‚РµС†</plain>
         </string>
         <string>
-            <plain>Агонию души моей,</plain>
+            <plain>РђРіРѕРЅРёСЋ РґСѓС€Рё РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Но Он, Целитель всех сердец.</plain>
+            <plain>РќРѕ РћРЅ, Р¦РµР»РёС‚РµР»СЊ РІСЃРµС… СЃРµСЂРґРµС†.</plain>
         </string>
         <string>
-            <plain>Даст мне врачующий елей.</plain>
+            <plain>Р”Р°СЃС‚ РјРЅРµ РІСЂР°С‡СѓСЋС‰РёР№ РµР»РµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я знаю, знает мой Отец,</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р·РЅР°РµС‚ РјРѕР№ РћС‚РµС†,</plain>
         </string>
         <string>
-            <plain>Как немощен и робок я.</plain>
+            <plain>РљР°Рє РЅРµРјРѕС‰РµРЅ Рё СЂРѕР±РѕРє СЏ.</plain>
         </string>
         <string>
-            <plain>Но Он, Спаситель и Творец,</plain>
+            <plain>РќРѕ РћРЅ, РЎРїР°СЃРёС‚РµР»СЊ Рё РўРІРѕСЂРµС†,</plain>
         </string>
         <string>
-            <plain>Свершит победу для меня.</plain>
+            <plain>РЎРІРµСЂС€РёС‚ РїРѕР±РµРґСѓ РґР»СЏ РјРµРЅСЏ.</plain>
         </string>
     </verse>
 </psalm>

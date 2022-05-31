@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1982" name="Боже Я в земном хожденьи" canon="false" text="" textRus="" music="">
+<psalm number="1982" name="Р‘РѕР¶Рµ РЇ РІ Р·РµРјРЅРѕРј С…РѕР¶РґРµРЅСЊРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже! Я в земном хожденьи</plain>
+            <plain>Р‘РѕР¶Рµ! РЇ РІ Р·РµРјРЅРѕРј С…РѕР¶РґРµРЅСЊРё</plain>
         </string>
         <string>
-            <plain>Раб внезапных перемен:</plain>
+            <plain>Р Р°Р± РІРЅРµР·Р°РїРЅС‹С… РїРµСЂРµРјРµРЅ:</plain>
         </string>
         <string>
-            <plain>То горю огнем в служеньи,</plain>
+            <plain>РўРѕ РіРѕСЂСЋ РѕРіРЅРµРј РІ СЃР»СѓР¶РµРЅСЊРё,</plain>
         </string>
         <string>
-            <plain>То иду к соблазну в плен.</plain>
+            <plain>РўРѕ РёРґСѓ Рє СЃРѕР±Р»Р°Р·РЅСѓ РІ РїР»РµРЅ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Боже! Дай мне постоянство</plain>
+            <plain>Р‘РѕР¶Рµ! Р”Р°Р№ РјРЅРµ РїРѕСЃС‚РѕСЏРЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>В изученьи слов Твоих,</plain>
+            <plain>Р’ РёР·СѓС‡РµРЅСЊРё СЃР»РѕРІ РўРІРѕРёС…,</plain>
         </string>
         <string>
-            <plain>Чтобы тайны мессианства</plain>
+            <plain>Р§С‚РѕР±С‹ С‚Р°Р№РЅС‹ РјРµСЃСЃРёР°РЅСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>Я познал в строках святых.</plain>
+            <plain>РЇ РїРѕР·РЅР°Р» РІ СЃС‚СЂРѕРєР°С… СЃРІСЏС‚С‹С….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Боже! Дай мне постоянство</plain>
+            <plain>Р‘РѕР¶Рµ! Р”Р°Р№ РјРЅРµ РїРѕСЃС‚РѕСЏРЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>В возношении молитв,</plain>
+            <plain>Р’ РІРѕР·РЅРѕС€РµРЅРёРё РјРѕР»РёС‚РІ,</plain>
         </string>
         <string>
-            <plain>Чтобы свергнул я тиранство</plain>
+            <plain>Р§С‚РѕР±С‹ СЃРІРµСЂРіРЅСѓР» СЏ С‚РёСЂР°РЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>И ярмо греховных битв.</plain>
+            <plain>Р СЏСЂРјРѕ РіСЂРµС…РѕРІРЅС‹С… Р±РёС‚РІ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Боже! Дай мне постоянство</plain>
+            <plain>Р‘РѕР¶Рµ! Р”Р°Р№ РјРЅРµ РїРѕСЃС‚РѕСЏРЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>В том труде, что Ты мне дал,</plain>
+            <plain>Р’ С‚РѕРј С‚СЂСѓРґРµ, С‡С‚Рѕ РўС‹ РјРЅРµ РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Чтоб в саду Твоем убранство</plain>
+            <plain>Р§С‚РѕР± РІ СЃР°РґСѓ РўРІРѕРµРј СѓР±СЂР°РЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>Из плодов я созидал.</plain>
+            <plain>РР· РїР»РѕРґРѕРІ СЏ СЃРѕР·РёРґР°Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Боже! Дай мне постоянство</plain>
+            <plain>Р‘РѕР¶Рµ! Р”Р°Р№ РјРЅРµ РїРѕСЃС‚РѕСЏРЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>В кротких чувствах и делах,</plain>
+            <plain>Р’ РєСЂРѕС‚РєРёС… С‡СѓРІСЃС‚РІР°С… Рё РґРµР»Р°С…,</plain>
         </string>
         <string>
-            <plain>Чтобы жизнью христианства</plain>
+            <plain>Р§С‚РѕР±С‹ Р¶РёР·РЅСЊСЋ С…СЂРёСЃС‚РёР°РЅСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>Зажигать Твой свет в сердцах.</plain>
+            <plain>Р—Р°Р¶РёРіР°С‚СЊ РўРІРѕР№ СЃРІРµС‚ РІ СЃРµСЂРґС†Р°С….</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Боже! Дай мне постоянство</plain>
+            <plain>Р‘РѕР¶Рµ! Р”Р°Р№ РјРЅРµ РїРѕСЃС‚РѕСЏРЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>На пути святых заслуг,</plain>
+            <plain>РќР° РїСѓС‚Рё СЃРІСЏС‚С‹С… Р·Р°СЃР»СѓРі,</plain>
         </string>
         <string>
-            <plain>Чтоб ни время, ни пространство</plain>
+            <plain>Р§С‚РѕР± РЅРё РІСЂРµРјСЏ, РЅРё РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>Не ослабили мой дух.</plain>
+            <plain>РќРµ РѕСЃР»Р°Р±РёР»Рё РјРѕР№ РґСѓС….</plain>
         </string>
     </verse>
 </psalm>

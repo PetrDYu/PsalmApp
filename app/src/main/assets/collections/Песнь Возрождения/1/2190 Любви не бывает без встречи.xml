@@ -1,78 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2190" name="Любви не бывает без встречи" canon="false" text="" textRus="" music="">
+<psalm number="2190" name="Р›СЋР±РІРё РЅРµ Р±С‹РІР°РµС‚ Р±РµР· РІСЃС‚СЂРµС‡Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Любви не бывает без встречи.</plain>
+            <plain>Р›СЋР±РІРё РЅРµ Р±С‹РІР°РµС‚ Р±РµР· РІСЃС‚СЂРµС‡Рё.</plain>
         </string>
         <string>
-            <plain>Это было должно произойти,</plain>
+            <plain>Р­С‚Рѕ Р±С‹Р»Рѕ РґРѕР»Р¶РЅРѕ РїСЂРѕРёР·РѕР№С‚Рё,</plain>
         </string>
         <string>
-            <plain>Чтоб однажды, утром или вечером,</plain>
+            <plain>Р§С‚РѕР± РѕРґРЅР°Р¶РґС‹, СѓС‚СЂРѕРј РёР»Рё РІРµС‡РµСЂРѕРј,</plain>
         </string>
         <string>
-            <plain>Ваши пересеклись пути.</plain>
+            <plain>Р’Р°С€Рё РїРµСЂРµСЃРµРєР»РёСЃСЊ РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Взгляд (2 р.),</plain>
+            <plain>Р’Р·РіР»СЏРґ (2 СЂ.),</plain>
         </string>
         <string>
-            <plain>слово (2 р.)</plain>
+            <plain>СЃР»РѕРІРѕ (2 СЂ.)</plain>
         </string>
         <string>
-            <plain>- Это любви основа.</plain>
+            <plain>- Р­С‚Рѕ Р»СЋР±РІРё РѕСЃРЅРѕРІР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Но это лишь только начало;</plain>
+            <plain>РќРѕ СЌС‚Рѕ Р»РёС€СЊ С‚РѕР»СЊРєРѕ РЅР°С‡Р°Р»Рѕ;</plain>
         </string>
         <string>
-            <plain>Чтоб всю свою жизнь счастливо прожить</plain>
+            <plain>Р§С‚РѕР± РІСЃСЋ СЃРІРѕСЋ Р¶РёР·РЅСЊ СЃС‡Р°СЃС‚Р»РёРІРѕ РїСЂРѕР¶РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И в радостях, и в печалях,</plain>
+            <plain>Р РІ СЂР°РґРѕСЃС‚СЏС…, Рё РІ РїРµС‡Р°Р»СЏС…,</plain>
         </string>
         <string>
-            <plain>Об этом Иисуса надо просить.</plain>
+            <plain>РћР± СЌС‚РѕРј РРёСЃСѓСЃР° РЅР°РґРѕ РїСЂРѕСЃРёС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>С утра на колени,</plain>
+            <plain>РЎ СѓС‚СЂР° РЅР° РєРѕР»РµРЅРё,</plain>
         </string>
         <string>
-            <plain>И слово за словом;</plain>
+            <plain>Р СЃР»РѕРІРѕ Р·Р° СЃР»РѕРІРѕРј;</plain>
         </string>
         <string>
-            <plain>Молитва - всему основа (2 р.).</plain>
+            <plain>РњРѕР»РёС‚РІР° - РІСЃРµРјСѓ РѕСЃРЅРѕРІР° (2 СЂ.).</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>И если доверитесь Богу,</plain>
+            <plain>Р РµСЃР»Рё РґРѕРІРµСЂРёС‚РµСЃСЊ Р‘РѕРіСѓ,</plain>
         </string>
         <string>
-            <plain>Не сомневаясь ни в чём, ни в чём,</plain>
+            <plain>РќРµ СЃРѕРјРЅРµРІР°СЏСЃСЊ РЅРё РІ С‡С‘Рј, РЅРё РІ С‡С‘Рј,</plain>
         </string>
         <string>
-            <plain>Ошибок будет совсем немного,</plain>
+            <plain>РћС€РёР±РѕРє Р±СѓРґРµС‚ СЃРѕРІСЃРµРј РЅРµРјРЅРѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>А благословенья наполнят ваш дом.</plain>
+            <plain>Рђ Р±Р»Р°РіРѕСЃР»РѕРІРµРЅСЊСЏ РЅР°РїРѕР»РЅСЏС‚ РІР°С€ РґРѕРј.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Так Бог обещал,</plain>
+            <plain>РўР°Рє Р‘РѕРі РѕР±РµС‰Р°Р»,</plain>
         </string>
         <string>
-            <plain>А Божье Слово</plain>
+            <plain>Рђ Р‘РѕР¶СЊРµ РЎР»РѕРІРѕ</plain>
         </string>
         <string>
-            <plain>- Всему на земле основа (2 р.).</plain>
+            <plain>- Р’СЃРµРјСѓ РЅР° Р·РµРјР»Рµ РѕСЃРЅРѕРІР° (2 СЂ.).</plain>
         </string>
     </chorus>
 </psalm>

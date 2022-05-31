@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3110" name="Я с Христом иду к небесной стране" canon="false" text="" textRus="" music="">
+<psalm number="3110" name="РЇ СЃ РҐСЂРёСЃС‚РѕРј РёРґСѓ Рє РЅРµР±РµСЃРЅРѕР№ СЃС‚СЂР°РЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я с Христом иду к небесной стране,</plain>
+            <plain>РЇ СЃ РҐСЂРёСЃС‚РѕРј РёРґСѓ Рє РЅРµР±РµСЃРЅРѕР№ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>глазом веры зрю ее красу;</plain>
+            <plain>РіР»Р°Р·РѕРј РІРµСЂС‹ Р·СЂСЋ РµРµ РєСЂР°СЃСѓ;</plain>
         </string>
         <string>
-            <plain>будет место со спасенными мне,</plain>
+            <plain>Р±СѓРґРµС‚ РјРµСЃС‚Рѕ СЃРѕ СЃРїР°СЃРµРЅРЅС‹РјРё РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>когда в небо навек я войду.</plain>
+            <plain>РєРѕРіРґР° РІ РЅРµР±Рѕ РЅР°РІРµРє СЏ РІРѕР№РґСѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я войду с радостью через</plain>
+            <plain>РЇ РІРѕР№РґСѓ СЃ СЂР°РґРѕСЃС‚СЊСЋ С‡РµСЂРµР·</plain>
         </string>
         <string>
-            <plain>узкие врата в тот град;</plain>
+            <plain>СѓР·РєРёРµ РІСЂР°С‚Р° РІ С‚РѕС‚ РіСЂР°Рґ;</plain>
         </string>
         <string>
-            <plain>небесный град и венец,</plain>
+            <plain>РЅРµР±РµСЃРЅС‹Р№ РіСЂР°Рґ Рё РІРµРЅРµС†,</plain>
         </string>
         <string>
-            <plain>что Отец приготовил мне,</plain>
+            <plain>С‡С‚Рѕ РћС‚РµС† РїСЂРёРіРѕС‚РѕРІРёР» РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>принять я рад.</plain>
+            <plain>РїСЂРёРЅСЏС‚СЊ СЏ СЂР°Рґ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Там обитель приготовлена мне;</plain>
+            <plain>РўР°Рј РѕР±РёС‚РµР»СЊ РїСЂРёРіРѕС‚РѕРІР»РµРЅР° РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>и уж скоро я ее займу,</plain>
+            <plain>Рё СѓР¶ СЃРєРѕСЂРѕ СЏ РµРµ Р·Р°Р№РјСѓ,</plain>
         </string>
         <string>
-            <plain>чтобы жить там со Христом в вышине,</plain>
+            <plain>С‡С‚РѕР±С‹ Р¶РёС‚СЊ С‚Р°Рј СЃРѕ РҐСЂРёСЃС‚РѕРј РІ РІС‹С€РёРЅРµ,</plain>
         </string>
         <string>
-            <plain>когда в небо я навек войду.</plain>
+            <plain>РєРѕРіРґР° РІ РЅРµР±Рѕ СЏ РЅР°РІРµРє РІРѕР№РґСѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Больше здесь ничто не держит меня,</plain>
+            <plain>Р‘РѕР»СЊС€Рµ Р·РґРµСЃСЊ РЅРёС‡С‚Рѕ РЅРµ РґРµСЂР¶РёС‚ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>я спешу в небесную страну.</plain>
+            <plain>СЏ СЃРїРµС€Сѓ РІ РЅРµР±РµСЃРЅСѓСЋ СЃС‚СЂР°РЅСѓ.</plain>
         </string>
         <string>
-            <plain>О, как чудно после трудного дня,</plain>
+            <plain>Рћ, РєР°Рє С‡СѓРґРЅРѕ РїРѕСЃР»Рµ С‚СЂСѓРґРЅРѕРіРѕ РґРЅСЏ,</plain>
         </string>
         <string>
-            <plain>когда в небо я навек войду.</plain>
+            <plain>РєРѕРіРґР° РІ РЅРµР±Рѕ СЏ РЅР°РІРµРє РІРѕР№РґСѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Да, войду я в небеса через кровь,</plain>
+            <plain>Р”Р°, РІРѕР№РґСѓ СЏ РІ РЅРµР±РµСЃР° С‡РµСЂРµР· РєСЂРѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>что очистила мою вину;</plain>
+            <plain>С‡С‚Рѕ РѕС‡РёСЃС‚РёР»Р° РјРѕСЋ РІРёРЅСѓ;</plain>
         </string>
         <string>
-            <plain>оценю сполна я Божью любовь,</plain>
+            <plain>РѕС†РµРЅСЋ СЃРїРѕР»РЅР° СЏ Р‘РѕР¶СЊСЋ Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>когда в небо я навек войду.</plain>
+            <plain>РєРѕРіРґР° РІ РЅРµР±Рѕ СЏ РЅР°РІРµРє РІРѕР№РґСѓ.</plain>
         </string>
     </verse>
 </psalm>

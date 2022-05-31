@@ -1,103 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3009" name="О мой Иисус Ты лучший друг" canon="false" text="" textRus="" music="">
+<psalm number="3009" name="Рћ РјРѕР№ РРёСЃСѓСЃ РўС‹ Р»СѓС‡С€РёР№ РґСЂСѓРі" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О мой Иисус, Ты - лучший друг!</plain>
+            <plain>Рћ РјРѕР№ РРёСЃСѓСЃ, РўС‹ - Р»СѓС‡С€РёР№ РґСЂСѓРі!</plain>
         </string>
         <string>
-            <plain>Как Ты, другого нет вокруг.</plain>
+            <plain>РљР°Рє РўС‹, РґСЂСѓРіРѕРіРѕ РЅРµС‚ РІРѕРєСЂСѓРі.</plain>
         </string>
         <string>
-            <plain>Ты хранишь меня всегда</plain>
+            <plain>РўС‹ С…СЂР°РЅРёС€СЊ РјРµРЅСЏ РІСЃРµРіРґР°</plain>
         </string>
         <string>
-            <plain>здесь от суеты и зла.</plain>
+            <plain>Р·РґРµСЃСЊ РѕС‚ СЃСѓРµС‚С‹ Рё Р·Р»Р°.</plain>
         </string>
         <string>
-            <plain>Вечная Тебе хвала,</plain>
+            <plain>Р’РµС‡РЅР°СЏ РўРµР±Рµ С…РІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>благ Ты, мой Иисус!</plain>
+            <plain>Р±Р»Р°Рі РўС‹, РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Благ Ты ко мне Иисус! (Иисус!)</plain>
+            <plain>Р‘Р»Р°Рі РўС‹ РєРѕ РјРЅРµ РРёСЃСѓСЃ! (РРёСЃСѓСЃ!)</plain>
         </string>
         <string>
-            <plain>Благ Ты ко мне Иисус! (Иисус!)</plain>
+            <plain>Р‘Р»Р°Рі РўС‹ РєРѕ РјРЅРµ РРёСЃСѓСЃ! (РРёСЃСѓСЃ!)</plain>
         </string>
         <string>
-            <plain>Бережёт Твоя рука</plain>
+            <plain>Р‘РµСЂРµР¶С‘С‚ РўРІРѕСЏ СЂСѓРєР°</plain>
         </string>
         <string>
-            <plain>от опасности и зла.</plain>
+            <plain>РѕС‚ РѕРїР°СЃРЅРѕСЃС‚Рё Рё Р·Р»Р°.</plain>
         </string>
         <string>
-            <plain>Ты благословишь меня.</plain>
+            <plain>РўС‹ Р±Р»Р°РіРѕСЃР»РѕРІРёС€СЊ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Благ Ты, мой Иисус!</plain>
+            <plain>Р‘Р»Р°Рі РўС‹, РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О мой Иисус, Ты благ и мил,</plain>
+            <plain>Рћ РјРѕР№ РРёСЃСѓСЃ, РўС‹ Р±Р»Р°Рі Рё РјРёР»,</plain>
         </string>
         <string>
-            <plain>от зла меня освободил.</plain>
+            <plain>РѕС‚ Р·Р»Р° РјРµРЅСЏ РѕСЃРІРѕР±РѕРґРёР».</plain>
         </string>
         <string>
-            <plain>Ныне благодать Твоя</plain>
+            <plain>РќС‹РЅРµ Р±Р»Р°РіРѕРґР°С‚СЊ РўРІРѕСЏ</plain>
         </string>
         <string>
-            <plain>переполнила меня,</plain>
+            <plain>РїРµСЂРµРїРѕР»РЅРёР»Р° РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>и в любви покоюсь я.</plain>
+            <plain>Рё РІ Р»СЋР±РІРё РїРѕРєРѕСЋСЃСЊ СЏ.</plain>
         </string>
         <string>
-            <plain>Благ Ты, мой Иисус!</plain>
+            <plain>Р‘Р»Р°Рі РўС‹, РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О мой Иисус, Ты дорог мне,</plain>
+            <plain>Рћ РјРѕР№ РРёСЃСѓСЃ, РўС‹ РґРѕСЂРѕРі РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>сердце тянется к Тебе.</plain>
+            <plain>СЃРµСЂРґС†Рµ С‚СЏРЅРµС‚СЃСЏ Рє РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Хоть я огорчал Тебя,</plain>
+            <plain>РҐРѕС‚СЊ СЏ РѕРіРѕСЂС‡Р°Р» РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>всё ж Ты возлюбил меня</plain>
+            <plain>РІСЃС‘ Р¶ РўС‹ РІРѕР·Р»СЋР±РёР» РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>и открыл мне небеса.</plain>
+            <plain>Рё РѕС‚РєСЂС‹Р» РјРЅРµ РЅРµР±РµСЃР°.</plain>
         </string>
         <string>
-            <plain>Благ Ты, мой Иисус!</plain>
+            <plain>Р‘Р»Р°Рі РўС‹, РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О мой Иисус, Ты добр и благ,</plain>
+            <plain>Рћ РјРѕР№ РРёСЃСѓСЃ, РўС‹ РґРѕР±СЂ Рё Р±Р»Р°Рі,</plain>
         </string>
         <string>
-            <plain>Ты со мной - не страшен враг.</plain>
+            <plain>РўС‹ СЃРѕ РјРЅРѕР№ - РЅРµ СЃС‚СЂР°С€РµРЅ РІСЂР°Рі.</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Для меня</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! Р”Р»СЏ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Ты дороже золота.</plain>
+            <plain>РўС‹ РґРѕСЂРѕР¶Рµ Р·РѕР»РѕС‚Р°.</plain>
         </string>
         <string>
-            <plain>Нет здесь жизни без Тебя.</plain>
+            <plain>РќРµС‚ Р·РґРµСЃСЊ Р¶РёР·РЅРё Р±РµР· РўРµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Благ Ты, мой Иисус!</plain>
+            <plain>Р‘Р»Р°Рі РўС‹, РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
     </verse>
 </psalm>

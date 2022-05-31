@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2516" name="Отче люблю превозношу и хвалю Тебя" canon="false" text="" textRus="" music="">
+<psalm number="2516" name="РћС‚С‡Рµ Р»СЋР±Р»СЋ РїСЂРµРІРѕР·РЅРѕС€Сѓ Рё С…РІР°Р»СЋ РўРµР±СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Отче, люблю, превозношу и хвалю Тебя!</plain>
+            <plain>РћС‚С‡Рµ, Р»СЋР±Р»СЋ, РїСЂРµРІРѕР·РЅРѕС€Сѓ Рё С…РІР°Р»СЋ РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Прославляю имя Твое!</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏСЋ РёРјСЏ РўРІРѕРµ!</plain>
         </string>
         <string>
-            <plain>Имя Твое, имя Твое по всей земле.</plain>
+            <plain>РРјСЏ РўРІРѕРµ, РёРјСЏ РўРІРѕРµ РїРѕ РІСЃРµР№ Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
 </psalm>

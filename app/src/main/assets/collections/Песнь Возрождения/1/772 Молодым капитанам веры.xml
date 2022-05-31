@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="772" name="Молодым капитанам веры" canon="false" text="" textRus="" music="">
+<psalm number="772" name="РњРѕР»РѕРґС‹Рј РєР°РїРёС‚Р°РЅР°Рј РІРµСЂС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Молодым капитанам веры,</plain>
+            <plain>РњРѕР»РѕРґС‹Рј РєР°РїРёС‚Р°РЅР°Рј РІРµСЂС‹,</plain>
         </string>
         <string>
-            <plain>Направляющим в небо путь,</plain>
+            <plain>РќР°РїСЂР°РІР»СЏСЋС‰РёРј РІ РЅРµР±Рѕ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Я желаю веры без меры</plain>
+            <plain>РЇ Р¶РµР»Р°СЋ РІРµСЂС‹ Р±РµР· РјРµСЂС‹</plain>
         </string>
         <string>
-            <plain>И чтоб мужеством крепла грудь!</plain>
+            <plain>Р С‡С‚РѕР± РјСѓР¶РµСЃС‚РІРѕРј РєСЂРµРїР»Р° РіСЂСѓРґСЊ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>На пути будут ветры гонений,</plain>
+            <plain>РќР° РїСѓС‚Рё Р±СѓРґСѓС‚ РІРµС‚СЂС‹ РіРѕРЅРµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>И затишье, как мели обман,</plain>
+            <plain>Р Р·Р°С‚РёС€СЊРµ, РєР°Рє РјРµР»Рё РѕР±РјР°РЅ,</plain>
         </string>
         <string>
-            <plain>И подводные камни сомнений,</plain>
+            <plain>Р РїРѕРґРІРѕРґРЅС‹Рµ РєР°РјРЅРё СЃРѕРјРЅРµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>И неверья гнетущий туман.</plain>
+            <plain>Р РЅРµРІРµСЂСЊСЏ РіРЅРµС‚СѓС‰РёР№ С‚СѓРјР°РЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но для тех, кто Христом научен</plain>
+            <plain>РќРѕ РґР»СЏ С‚РµС…, РєС‚Рѕ РҐСЂРёСЃС‚РѕРј РЅР°СѓС‡РµРЅ</plain>
         </string>
         <string>
-            <plain>Силой веры стихию смирять,</plain>
+            <plain>РЎРёР»РѕР№ РІРµСЂС‹ СЃС‚РёС…РёСЋ СЃРјРёСЂСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Через самые мрачные тучи</plain>
+            <plain>Р§РµСЂРµР· СЃР°РјС‹Рµ РјСЂР°С‡РЅС‹Рµ С‚СѓС‡Рё</plain>
         </string>
         <string>
-            <plain>Будет солнце победы сиять.</plain>
+            <plain>Р‘СѓРґРµС‚ СЃРѕР»РЅС†Рµ РїРѕР±РµРґС‹ СЃРёСЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И при виде широкого моря</plain>
+            <plain>Р РїСЂРё РІРёРґРµ С€РёСЂРѕРєРѕРіРѕ РјРѕСЂСЏ</plain>
         </string>
         <string>
-            <plain>Человеческих слез и скорбей,</plain>
+            <plain>Р§РµР»РѕРІРµС‡РµСЃРєРёС… СЃР»РµР· Рё СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>Не покиньте томящихся в горе</plain>
+            <plain>РќРµ РїРѕРєРёРЅСЊС‚Рµ С‚РѕРјСЏС‰РёС…СЃСЏ РІ РіРѕСЂРµ</plain>
         </string>
         <string>
-            <plain>Позабывших о Боге людей.</plain>
+            <plain>РџРѕР·Р°Р±С‹РІС€РёС… Рѕ Р‘РѕРіРµ Р»СЋРґРµР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Капитаны! Повыше знамя</plain>
+            <plain>РљР°РїРёС‚Р°РЅС‹! РџРѕРІС‹С€Рµ Р·РЅР°РјСЏ</plain>
         </string>
         <string>
-            <plain>Лучезарной Божьей любви!</plain>
+            <plain>Р›СѓС‡РµР·Р°СЂРЅРѕР№ Р‘РѕР¶СЊРµР№ Р»СЋР±РІРё!</plain>
         </string>
         <string>
-            <plain>Благовестия яркое пламя,</plain>
+            <plain>Р‘Р»Р°РіРѕРІРµСЃС‚РёСЏ СЏСЂРєРѕРµ РїР»Р°РјСЏ,</plain>
         </string>
         <string>
-            <plain>На просторах людских живи!</plain>
+            <plain>РќР° РїСЂРѕСЃС‚РѕСЂР°С… Р»СЋРґСЃРєРёС… Р¶РёРІРё!</plain>
         </string>
     </verse>
 </psalm>

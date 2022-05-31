@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1960" name="Вдоль по улицам пойдите" canon="false" text="" textRus="" music="">
+<psalm number="1960" name="Р’РґРѕР»СЊ РїРѕ СѓР»РёС†Р°Рј РїРѕР№РґРёС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вдоль по улицам пойдите,</plain>
+            <plain>Р’РґРѕР»СЊ РїРѕ СѓР»РёС†Р°Рј РїРѕР№РґРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>По дорогам и путям, Нищих,</plain>
+            <plain>РџРѕ РґРѕСЂРѕРіР°Рј Рё РїСѓС‚СЏРј, РќРёС‰РёС…,</plain>
         </string>
         <string>
-            <plain>Страждущих зовите</plain>
+            <plain>РЎС‚СЂР°Р¶РґСѓС‰РёС… Р·РѕРІРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>К светлым Божьим воротам.</plain>
+            <plain>Рљ СЃРІРµС‚Р»С‹Рј Р‘РѕР¶СЊРёРј РІРѕСЂРѕС‚Р°Рј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Много мест на Божьем пире</plain>
+            <plain>РњРЅРѕРіРѕ РјРµСЃС‚ РЅР° Р‘РѕР¶СЊРµРј РїРёСЂРµ</plain>
         </string>
         <string>
-            <plain>Для желающих гостей,</plain>
+            <plain>Р”Р»СЏ Р¶РµР»Р°СЋС‰РёС… РіРѕСЃС‚РµР№,</plain>
         </string>
         <string>
-            <plain>Там, в Его небесном мире,</plain>
+            <plain>РўР°Рј, РІ Р•РіРѕ РЅРµР±РµСЃРЅРѕРј РјРёСЂРµ,</plain>
         </string>
         <string>
-            <plain>Исчезает тень скорбей.</plain>
+            <plain>РСЃС‡РµР·Р°РµС‚ С‚РµРЅСЊ СЃРєРѕСЂР±РµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Там Спаситель обитает</plain>
+            <plain>РўР°Рј РЎРїР°СЃРёС‚РµР»СЊ РѕР±РёС‚Р°РµС‚</plain>
         </string>
         <string>
-            <plain>И дает сердцам покой.</plain>
+            <plain>Р РґР°РµС‚ СЃРµСЂРґС†Р°Рј РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Там любовью утешает</plain>
+            <plain>РўР°Рј Р»СЋР±РѕРІСЊСЋ СѓС‚РµС€Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Он гостей страны земной.</plain>
+            <plain>РћРЅ РіРѕСЃС‚РµР№ СЃС‚СЂР°РЅС‹ Р·РµРјРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, зовите всех несчастных,</plain>
+            <plain>Рћ, Р·РѕРІРёС‚Рµ РІСЃРµС… РЅРµСЃС‡Р°СЃС‚РЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Всех хромых и всех слепых</plain>
+            <plain>Р’СЃРµС… С…СЂРѕРјС‹С… Рё РІСЃРµС… СЃР»РµРїС‹С…</plain>
         </string>
         <string>
-            <plain>Из обителей ужасных</plain>
+            <plain>РР· РѕР±РёС‚РµР»РµР№ СѓР¶Р°СЃРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Тьмы и похотей плотских.</plain>
+            <plain>РўСЊРјС‹ Рё РїРѕС…РѕС‚РµР№ РїР»РѕС‚СЃРєРёС….</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Клич любви провозглашайте</plain>
+            <plain>РљР»РёС‡ Р»СЋР±РІРё РїСЂРѕРІРѕР·РіР»Р°С€Р°Р№С‚Рµ</plain>
         </string>
         <string>
-            <plain>По полям и городам,</plain>
+            <plain>РџРѕ РїРѕР»СЏРј Рё РіРѕСЂРѕРґР°Рј,</plain>
         </string>
         <string>
-            <plain>Пир гостями наполняйте</plain>
+            <plain>РџРёСЂ РіРѕСЃС‚СЏРјРё РЅР°РїРѕР»РЅСЏР№С‚Рµ</plain>
         </string>
         <string>
-            <plain>И сажайте по местам.</plain>
+            <plain>Р СЃР°Р¶Р°Р№С‚Рµ РїРѕ РјРµСЃС‚Р°Рј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Пусть горит небесным светом</plain>
+            <plain>РџСѓСЃС‚СЊ РіРѕСЂРёС‚ РЅРµР±РµСЃРЅС‹Рј СЃРІРµС‚РѕРј</plain>
         </string>
         <string>
-            <plain>Пир блаженства и любви.</plain>
+            <plain>РџРёСЂ Р±Р»Р°Р¶РµРЅСЃС‚РІР° Рё Р»СЋР±РІРё.</plain>
         </string>
         <string>
-            <plain>О, Господь, Своим приветом,</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґСЊ, РЎРІРѕРёРј РїСЂРёРІРµС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Призыв слуг благослови.</plain>
+            <plain>РџСЂРёР·С‹РІ СЃР»СѓРі Р±Р»Р°РіРѕСЃР»РѕРІРё.</plain>
         </string>
     </verse>
 </psalm>

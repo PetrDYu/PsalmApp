@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3145" name="Как поток воды стремится" canon="false" text="" textRus="" music="">
+<psalm number="3145" name="РљР°Рє РїРѕС‚РѕРє РІРѕРґС‹ СЃС‚СЂРµРјРёС‚СЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как поток воды стремится</plain>
+            <plain>РљР°Рє РїРѕС‚РѕРє РІРѕРґС‹ СЃС‚СЂРµРјРёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>к бездне моря вдалеке,</plain>
+            <plain>Рє Р±РµР·РґРЅРµ РјРѕСЂСЏ РІРґР°Р»РµРєРµ,</plain>
         </string>
         <string>
-            <plain>так проходит быстротечно</plain>
+            <plain>С‚Р°Рє РїСЂРѕС…РѕРґРёС‚ Р±С‹СЃС‚СЂРѕС‚РµС‡РЅРѕ</plain>
         </string>
         <string>
-            <plain>наше время на земле.</plain>
+            <plain>РЅР°С€Рµ РІСЂРµРјСЏ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Жизнь для всех нас оборвётся,</plain>
+            <plain>Р–РёР·РЅСЊ РґР»СЏ РІСЃРµС… РЅР°СЃ РѕР±РѕСЂРІС‘С‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>- Ты готов уже уйти?</plain>
+            <plain>- РўС‹ РіРѕС‚РѕРІ СѓР¶Рµ СѓР№С‚Рё?</plain>
         </string>
         <string>
-            <plain>Можешь ли тогда спокойно</plain>
+            <plain>РњРѕР¶РµС€СЊ Р»Рё С‚РѕРіРґР° СЃРїРѕРєРѕР№РЅРѕ</plain>
         </string>
         <string>
-            <plain>в вечность с радостью войти?</plain>
+            <plain>РІ РІРµС‡РЅРѕСЃС‚СЊ СЃ СЂР°РґРѕСЃС‚СЊСЋ РІРѕР№С‚Рё?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Наши годы исчезают</plain>
+            <plain>РќР°С€Рё РіРѕРґС‹ РёСЃС‡РµР·Р°СЋС‚</plain>
         </string>
         <string>
-            <plain>словно пар, что ввысь идёт.</plain>
+            <plain>СЃР»РѕРІРЅРѕ РїР°СЂ, С‡С‚Рѕ РІРІС‹СЃСЊ РёРґС‘С‚.</plain>
         </string>
         <string>
-            <plain>Как цветы, что отцветают,</plain>
+            <plain>РљР°Рє С†РІРµС‚С‹, С‡С‚Рѕ РѕС‚С†РІРµС‚Р°СЋС‚,</plain>
         </string>
         <string>
-            <plain>быстро наша жизнь пройдёт!</plain>
+            <plain>Р±С‹СЃС‚СЂРѕ РЅР°С€Р° Р¶РёР·РЅСЊ РїСЂРѕР№РґС‘С‚!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Время так неудержимо</plain>
+            <plain>Р’СЂРµРјСЏ С‚Р°Рє РЅРµСѓРґРµСЂР¶РёРјРѕ</plain>
         </string>
         <string>
-            <plain>всё быстрей к концу идёт.</plain>
+            <plain>РІСЃС‘ Р±С‹СЃС‚СЂРµР№ Рє РєРѕРЅС†Сѓ РёРґС‘С‚.</plain>
         </string>
         <string>
-            <plain>Что же будет, друг, с тобою</plain>
+            <plain>Р§С‚Рѕ Р¶Рµ Р±СѓРґРµС‚, РґСЂСѓРі, СЃ С‚РѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>в час, когда Судья придёт?</plain>
+            <plain>РІ С‡Р°СЃ, РєРѕРіРґР° РЎСѓРґСЊСЏ РїСЂРёРґС‘С‚?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Грешник, на пути ты к бездне!</plain>
+            <plain>Р“СЂРµС€РЅРёРє, РЅР° РїСѓС‚Рё С‚С‹ Рє Р±РµР·РґРЅРµ!</plain>
         </string>
         <string>
-            <plain>Пробудись, остановись</plain>
+            <plain>РџСЂРѕР±СѓРґРёСЃСЊ, РѕСЃС‚Р°РЅРѕРІРёСЃСЊ</plain>
         </string>
         <string>
-            <plain>и внемли словам Господним:</plain>
+            <plain>Рё РІРЅРµРјР»Рё СЃР»РѕРІР°Рј Р“РѕСЃРїРѕРґРЅРёРј:</plain>
         </string>
         <string>
-            <plain>«Сын заблудший, возвратись!»</plain>
+            <plain>В«РЎС‹РЅ Р·Р°Р±Р»СѓРґС€РёР№, РІРѕР·РІСЂР°С‚РёСЃСЊ!В»</plain>
         </string>
     </verse>
 </psalm>

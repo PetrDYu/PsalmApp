@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2017" name="Боже будь к нам милостив" canon="false" text="" textRus="" music="">
+<psalm number="2017" name="Р‘РѕР¶Рµ Р±СѓРґСЊ Рє РЅР°Рј РјРёР»РѕСЃС‚РёРІ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, будь к нам милостив</plain>
+            <plain>Р‘РѕР¶Рµ, Р±СѓРґСЊ Рє РЅР°Рј РјРёР»РѕСЃС‚РёРІ</plain>
         </string>
         <string>
-            <plain>И нас благослави,</plain>
+            <plain>Р РЅР°СЃ Р±Р»Р°РіРѕСЃР»Р°РІРё,</plain>
         </string>
         <string>
-            <plain>Освяти лицом Твоим,</plain>
+            <plain>РћСЃРІСЏС‚Рё Р»РёС†РѕРј РўРІРѕРёРј,</plain>
         </string>
         <string>
-            <plain>Чтоб знать Твои пути.</plain>
+            <plain>Р§С‚РѕР± Р·РЅР°С‚СЊ РўРІРѕРё РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Да восхвалят Тебя народы,</plain>
+            <plain>Р”Р° РІРѕСЃС…РІР°Р»СЏС‚ РўРµР±СЏ РЅР°СЂРѕРґС‹,</plain>
         </string>
         <string>
-            <plain>Да восхвалят Тебя, народы все,</plain>
+            <plain>Р”Р° РІРѕСЃС…РІР°Р»СЏС‚ РўРµР±СЏ, РЅР°СЂРѕРґС‹ РІСЃРµ,</plain>
         </string>
         <string>
-            <plain>Ибо праведен суд Господень,</plain>
+            <plain>РР±Рѕ РїСЂР°РІРµРґРµРЅ СЃСѓРґ Р“РѕСЃРїРѕРґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Ибо правишь Ты на земле.</plain>
+            <plain>РР±Рѕ РїСЂР°РІРёС€СЊ РўС‹ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дал Ты нам спасены</plain>
+            <plain>Р”Р°Р» РўС‹ РЅР°Рј СЃРїР°СЃРµРЅС‹</plain>
         </string>
         <string>
-            <plain>- Веселятся племена,</plain>
+            <plain>- Р’РµСЃРµР»СЏС‚СЃСЏ РїР»РµРјРµРЅР°,</plain>
         </string>
         <string>
-            <plain>Так благословил нас Бог,</plain>
+            <plain>РўР°Рє Р±Р»Р°РіРѕСЃР»РѕРІРёР» РЅР°СЃ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Свой плод дала земля.</plain>
+            <plain>РЎРІРѕР№ РїР»РѕРґ РґР°Р»Р° Р·РµРјР»СЏ.</plain>
         </string>
     </verse>
 </psalm>

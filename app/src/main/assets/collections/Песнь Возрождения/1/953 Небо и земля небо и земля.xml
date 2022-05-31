@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="953" name="Небо и земля небо и земля" canon="false" text="" textRus="" music="">
+<psalm number="953" name="РќРµР±Рѕ Рё Р·РµРјР»СЏ РЅРµР±Рѕ Рё Р·РµРјР»СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Небо и земля, небо и земля</plain>
+            <plain>РќРµР±Рѕ Рё Р·РµРјР»СЏ, РЅРµР±Рѕ Рё Р·РµРјР»СЏ</plain>
         </string>
         <string>
-            <plain>Ныне торжествуют.</plain>
+            <plain>РќС‹РЅРµ С‚РѕСЂР¶РµСЃС‚РІСѓСЋС‚.</plain>
         </string>
         <string>
-            <plain>Ангелы людям, ангелы людям</plain>
+            <plain>РђРЅРіРµР»С‹ Р»СЋРґСЏРј, Р°РЅРіРµР»С‹ Р»СЋРґСЏРј</plain>
         </string>
         <string>
-            <plain>Несут весть благую.</plain>
+            <plain>РќРµСЃСѓС‚ РІРµСЃС‚СЊ Р±Р»Р°РіСѓСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Христос родился, Бог воплотился,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ СЂРѕРґРёР»СЃСЏ, Р‘РѕРі РІРѕРїР»РѕС‚РёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Ангелы ликуют, в небе торжествуют,</plain>
+            <plain>РђРЅРіРµР»С‹ Р»РёРєСѓСЋС‚, РІ РЅРµР±Рµ С‚РѕСЂР¶РµСЃС‚РІСѓСЋС‚,</plain>
         </string>
         <string>
-            <plain>Пастухи внимают, стадо оставляют,</plain>
+            <plain>РџР°СЃС‚СѓС…Рё РІРЅРёРјР°СЋС‚, СЃС‚Р°РґРѕ РѕСЃС‚Р°РІР»СЏСЋС‚,</plain>
         </string>
         <string>
-            <plain>Чудо, чудо, возвещают.</plain>
+            <plain>Р§СѓРґРѕ, С‡СѓРґРѕ, РІРѕР·РІРµС‰Р°СЋС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Там в Вифлееме, там в Вифлееме</plain>
+            <plain>РўР°Рј РІ Р’РёС„Р»РµРµРјРµ, С‚Р°Рј РІ Р’РёС„Р»РµРµРјРµ</plain>
         </string>
         <string>
-            <plain>Радости причина:</plain>
+            <plain>Р Р°РґРѕСЃС‚Рё РїСЂРёС‡РёРЅР°:</plain>
         </string>
         <string>
-            <plain>Чистая Дева, Чистая Дева</plain>
+            <plain>Р§РёСЃС‚Р°СЏ Р”РµРІР°, Р§РёСЃС‚Р°СЏ Р”РµРІР°</plain>
         </string>
         <string>
-            <plain>Нам родила Сына.</plain>
+            <plain>РќР°Рј СЂРѕРґРёР»Р° РЎС‹РЅР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вечное Слово, Вечное Слово</plain>
+            <plain>Р’РµС‡РЅРѕРµ РЎР»РѕРІРѕ, Р’РµС‡РЅРѕРµ РЎР»РѕРІРѕ</plain>
         </string>
         <string>
-            <plain>Восприняло тело.</plain>
+            <plain>Р’РѕСЃРїСЂРёРЅСЏР»Рѕ С‚РµР»Рѕ.</plain>
         </string>
         <string>
-            <plain>Во тьме греховной, во тьме греховной</plain>
+            <plain>Р’Рѕ С‚СЊРјРµ РіСЂРµС…РѕРІРЅРѕР№, РІРѕ С‚СЊРјРµ РіСЂРµС…РѕРІРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Солнце засветило.</plain>
+            <plain>РЎРѕР»РЅС†Рµ Р·Р°СЃРІРµС‚РёР»Рѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Волхвы с востока, волхвы с востока</plain>
+            <plain>Р’РѕР»С…РІС‹ СЃ РІРѕСЃС‚РѕРєР°, РІРѕР»С…РІС‹ СЃ РІРѕСЃС‚РѕРєР°</plain>
         </string>
         <string>
-            <plain>В Вифлеем приходят,</plain>
+            <plain>Р’ Р’РёС„Р»РµРµРј РїСЂРёС…РѕРґСЏС‚,</plain>
         </string>
         <string>
-            <plain>Ладан и смирну, ладан и смирну</plain>
+            <plain>Р›Р°РґР°РЅ Рё СЃРјРёСЂРЅСѓ, Р»Р°РґР°РЅ Рё СЃРјРёСЂРЅСѓ</plain>
         </string>
         <string>
-            <plain>И злато приносят.</plain>
+            <plain>Р Р·Р»Р°С‚Рѕ РїСЂРёРЅРѕСЃСЏС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Христу и Богу, Христу и Богу</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ Рё Р‘РѕРіСѓ, РҐСЂРёСЃС‚Сѓ Рё Р‘РѕРіСѓ</plain>
         </string>
         <string>
-            <plain>И мы поклонимся.</plain>
+            <plain>Р РјС‹ РїРѕРєР»РѕРЅРёРјСЃСЏ.</plain>
         </string>
         <string>
-            <plain>Слава в вышних Богу, слава в вышних</plain>
+            <plain>РЎР»Р°РІР° РІ РІС‹С€РЅРёС… Р‘РѕРіСѓ, СЃР»Р°РІР° РІ РІС‹С€РЅРёС…</plain>
         </string>
         <string>
-            <plain>Богу Ему возгласим все.</plain>
+            <plain>Р‘РѕРіСѓ Р•РјСѓ РІРѕР·РіР»Р°СЃРёРј РІСЃРµ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="98" name="О неужели Царь вселенной" canon="false" text="" textRus="" music="">
+<psalm number="98" name="Рћ РЅРµСѓР¶РµР»Рё Р¦Р°СЂСЊ РІСЃРµР»РµРЅРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, неужели, Царь вселенной,</plain>
+            <plain>Рћ, РЅРµСѓР¶РµР»Рё, Р¦Р°СЂСЊ РІСЃРµР»РµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Не славен в небе Твой престол,</plain>
+            <plain>РќРµ СЃР»Р°РІРµРЅ РІ РЅРµР±Рµ РўРІРѕР№ РїСЂРµСЃС‚РѕР»,</plain>
         </string>
         <string>
-            <plain>Что в глубине души смиренной</plain>
+            <plain>Р§С‚Рѕ РІ РіР»СѓР±РёРЅРµ РґСѓС€Рё СЃРјРёСЂРµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Ты царство для Себя обрел?</plain>
+            <plain>РўС‹ С†Р°СЂСЃС‚РІРѕ РґР»СЏ РЎРµР±СЏ РѕР±СЂРµР»?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мой ум смолкает,</plain>
+            <plain>РњРѕР№ СѓРј СЃРјРѕР»РєР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Но сердце мне твердит:</plain>
+            <plain>РќРѕ СЃРµСЂРґС†Рµ РјРЅРµ С‚РІРµСЂРґРёС‚:</plain>
         </string>
         <string>
-            <plain>Любовь великое свершает</plain>
+            <plain>Р›СЋР±РѕРІСЊ РІРµР»РёРєРѕРµ СЃРІРµСЂС€Р°РµС‚</plain>
         </string>
         <string>
-            <plain>И в малом дивное творит.</plain>
+            <plain>Р РІ РјР°Р»РѕРј РґРёРІРЅРѕРµ С‚РІРѕСЂРёС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, неужели, Царь небесный,</plain>
+            <plain>Рћ, РЅРµСѓР¶РµР»Рё, Р¦Р°СЂСЊ РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Простор небес Твоих так мал,</plain>
+            <plain>РџСЂРѕСЃС‚РѕСЂ РЅРµР±РµСЃ РўРІРѕРёС… С‚Р°Рє РјР°Р»,</plain>
         </string>
         <string>
-            <plain>Что в хижине моей телесной</plain>
+            <plain>Р§С‚Рѕ РІ С…РёР¶РёРЅРµ РјРѕРµР№ С‚РµР»РµСЃРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Ты храм воздвигнуть пожелал?</plain>
+            <plain>РўС‹ С…СЂР°Рј РІРѕР·РґРІРёРіРЅСѓС‚СЊ РїРѕР¶РµР»Р°Р»?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, неужели, Царь небесный,</plain>
+            <plain>Рћ, РЅРµСѓР¶РµР»Рё, Р¦Р°СЂСЊ РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Так скудна ангелов хвала,</plain>
+            <plain>РўР°Рє СЃРєСѓРґРЅР° Р°РЅРіРµР»РѕРІ С…РІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Что восхотел Ты слышать песни</plain>
+            <plain>Р§С‚Рѕ РІРѕСЃС…РѕС‚РµР» РўС‹ СЃР»С‹С€Р°С‚СЊ РїРµСЃРЅРё</plain>
         </string>
         <string>
-            <plain>Из уст нечистых, полных зла?</plain>
+            <plain>РР· СѓСЃС‚ РЅРµС‡РёСЃС‚С‹С…, РїРѕР»РЅС‹С… Р·Р»Р°?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, неужели, Царь вселенной,</plain>
+            <plain>Рћ, РЅРµСѓР¶РµР»Рё, Р¦Р°СЂСЊ РІСЃРµР»РµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Не светел мир духов Твоих,</plain>
+            <plain>РќРµ СЃРІРµС‚РµР» РјРёСЂ РґСѓС…РѕРІ РўРІРѕРёС…,</plain>
         </string>
         <string>
-            <plain>Что труд простой, несовершенный</plain>
+            <plain>Р§С‚Рѕ С‚СЂСѓРґ РїСЂРѕСЃС‚РѕР№, РЅРµСЃРѕРІРµСЂС€РµРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Ты ждешь от слабых сил моих?</plain>
+            <plain>РўС‹ Р¶РґРµС€СЊ РѕС‚ СЃР»Р°Р±С‹С… СЃРёР» РјРѕРёС…?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, неужели, Царь державный,</plain>
+            <plain>Рћ, РЅРµСѓР¶РµР»Рё, Р¦Р°СЂСЊ РґРµСЂР¶Р°РІРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Я для Тебя дороже был,</plain>
+            <plain>РЇ РґР»СЏ РўРµР±СЏ РґРѕСЂРѕР¶Рµ Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>Чем Сын Твой вечный, Сын Твой славный,</plain>
+            <plain>Р§РµРј РЎС‹РЅ РўРІРѕР№ РІРµС‡РЅС‹Р№, РЎС‹РЅ РўРІРѕР№ СЃР»Р°РІРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>- Ты для меня Его забыл.</plain>
+            <plain>- РўС‹ РґР»СЏ РјРµРЅСЏ Р•РіРѕ Р·Р°Р±С‹Р».</plain>
         </string>
     </verse>
 </psalm>

@@ -1,112 +1,112 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="113" name="Видел небо в день воскресный" canon="false" text="" textRus="" music="">
+<psalm number="113" name="Р’РёРґРµР» РЅРµР±Рѕ РІ РґРµРЅСЊ РІРѕСЃРєСЂРµСЃРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Видел небо в день воскресный</plain>
+            <plain>Р’РёРґРµР» РЅРµР±Рѕ РІ РґРµРЅСЊ РІРѕСЃРєСЂРµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Иоанн,</plain>
+            <plain>РРѕР°РЅРЅ,</plain>
         </string>
         <string>
-            <plain>Лился глас к нему небесный,</plain>
+            <plain>Р›РёР»СЃСЏ РіР»Р°СЃ Рє РЅРµРјСѓ РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Как орган.</plain>
+            <plain>РљР°Рє РѕСЂРіР°РЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>То был Альфа и Омега,</plain>
+            <plain>РўРѕ Р±С‹Р» РђР»СЊС„Р° Рё РћРјРµРіР°,</plain>
         </string>
         <string>
-            <plain>Царь в виссоне ярче снега,</plain>
+            <plain>Р¦Р°СЂСЊ РІ РІРёСЃСЃРѕРЅРµ СЏСЂС‡Рµ СЃРЅРµРіР°,</plain>
         </string>
         <string>
-            <plain>Царь царей.</plain>
+            <plain>Р¦Р°СЂСЊ С†Р°СЂРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>То был в царском одеянье</plain>
+            <plain>РўРѕ Р±С‹Р» РІ С†Р°СЂСЃРєРѕРј РѕРґРµСЏРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Сам Христос,</plain>
+            <plain>РЎР°Рј РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Кто томился в Гефсиманьи,</plain>
+            <plain>РљС‚Рѕ С‚РѕРјРёР»СЃСЏ РІ Р“РµС„СЃРёРјР°РЅСЊРё,</plain>
         </string>
         <string>
-            <plain>Полный слез.</plain>
+            <plain>РџРѕР»РЅС‹Р№ СЃР»РµР·.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как прекрасное светило,</plain>
+            <plain>РљР°Рє РїСЂРµРєСЂР°СЃРЅРѕРµ СЃРІРµС‚РёР»Рѕ,</plain>
         </string>
         <string>
-            <plain>Лик сиял;</plain>
+            <plain>Р›РёРє СЃРёСЏР»;</plain>
         </string>
         <string>
-            <plain>Иоанн пред вышней силой</plain>
+            <plain>РРѕР°РЅРЅ РїСЂРµРґ РІС‹С€РЅРµР№ СЃРёР»РѕР№</plain>
         </string>
         <string>
-            <plain>В страхе пал.</plain>
+            <plain>Р’ СЃС‚СЂР°С…Рµ РїР°Р».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>"О, небойся!" - так, жалея,</plain>
+            <plain>"Рћ, РЅРµР±РѕР№СЃСЏ!" - С‚Р°Рє, Р¶Р°Р»РµСЏ,</plain>
         </string>
         <string>
-            <plain>Зазвучал</plain>
+            <plain>Р—Р°Р·РІСѓС‡Р°Р»</plain>
         </string>
         <string>
-            <plain>Голос тот, что в Галилее</plain>
+            <plain>Р“РѕР»РѕСЃ С‚РѕС‚, С‡С‚Рѕ РІ Р“Р°Р»РёР»РµРµ</plain>
         </string>
         <string>
-            <plain>Он слыхал.</plain>
+            <plain>РћРЅ СЃР»С‹С…Р°Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>"Я был мертв, но труд победный</plain>
+            <plain>"РЇ Р±С‹Р» РјРµСЂС‚РІ, РЅРѕ С‚СЂСѓРґ РїРѕР±РµРґРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Совершив,</plain>
+            <plain>РЎРѕРІРµСЂС€РёРІ,</plain>
         </string>
         <string>
-            <plain>Я и первый и последний;</plain>
+            <plain>РЇ Рё РїРµСЂРІС‹Р№ Рё РїРѕСЃР»РµРґРЅРёР№;</plain>
         </string>
         <string>
-            <plain>Вот Я жив!</plain>
+            <plain>Р’РѕС‚ РЇ Р¶РёРІ!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Ключ от ада и гробницы</plain>
+            <plain>РљР»СЋС‡ РѕС‚ Р°РґР° Рё РіСЂРѕР±РЅРёС†С‹</plain>
         </string>
         <string>
-            <plain>У Меня</plain>
+            <plain>РЈ РњРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>И семь звезд в Моей деснице,</plain>
+            <plain>Р СЃРµРјСЊ Р·РІРµР·Рґ РІ РњРѕРµР№ РґРµСЃРЅРёС†Рµ,</plain>
         </string>
         <string>
-            <plain>Силен Я!"</plain>
+            <plain>РЎРёР»РµРЅ РЇ!"</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Да, Он в царственной одежде,</plain>
+            <plain>Р”Р°, РћРЅ РІ С†Р°СЂСЃС‚РІРµРЅРЅРѕР№ РѕРґРµР¶РґРµ,</plain>
         </string>
         <string>
-            <plain>В красоте,</plain>
+            <plain>Р’ РєСЂР°СЃРѕС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Любит смертных, как и прежде,</plain>
+            <plain>Р›СЋР±РёС‚ СЃРјРµСЂС‚РЅС‹С…, РєР°Рє Рё РїСЂРµР¶РґРµ,</plain>
         </string>
         <string>
-            <plain>В нищете.</plain>
+            <plain>Р’ РЅРёС‰РµС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

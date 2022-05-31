@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2926" name="Иисус мой господь и Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="2926" name="РРёСЃСѓСЃ РјРѕР№ РіРѕСЃРїРѕРґСЊ Рё РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисус, мой господь и Спаситель,</plain>
+            <plain>РРёСЃСѓСЃ, РјРѕР№ РіРѕСЃРїРѕРґСЊ Рё РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>в смиреньи склоняю главу;</plain>
+            <plain>РІ СЃРјРёСЂРµРЅСЊРё СЃРєР»РѕРЅСЏСЋ РіР»Р°РІСѓ;</plain>
         </string>
         <string>
-            <plain>я умер для грешного мира,</plain>
+            <plain>СЏ СѓРјРµСЂ РґР»СЏ РіСЂРµС€РЅРѕРіРѕ РјРёСЂР°,</plain>
         </string>
         <string>
-            <plain>отверг всю его суету.</plain>
+            <plain>РѕС‚РІРµСЂРі РІСЃСЋ РµРіРѕ СЃСѓРµС‚Сѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь, Ты - гончар, а я - глина</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РўС‹ - РіРѕРЅС‡Р°СЂ, Р° СЏ - РіР»РёРЅР°</plain>
         </string>
         <string>
-            <plain>твори со мной, что угодно Тебе,</plain>
+            <plain>С‚РІРѕСЂРё СЃРѕ РјРЅРѕР№, С‡С‚Рѕ СѓРіРѕРґРЅРѕ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>чтоб лик совершенный Иисуса</plain>
+            <plain>С‡С‚РѕР± Р»РёРє СЃРѕРІРµСЂС€РµРЅРЅС‹Р№ РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>вполне отразился во мне.</plain>
+            <plain>РІРїРѕР»РЅРµ РѕС‚СЂР°Р·РёР»СЃСЏ РІРѕ РјРЅРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Иисус, помоги мне в служеньи,</plain>
+            <plain>РРёСЃСѓСЃ, РїРѕРјРѕРіРё РјРЅРµ РІ СЃР»СѓР¶РµРЅСЊРё,</plain>
         </string>
         <string>
-            <plain>чтоб души спасать для Тебя,</plain>
+            <plain>С‡С‚РѕР± РґСѓС€Рё СЃРїР°СЃР°С‚СЊ РґР»СЏ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>чтоб многим к небесному свету</plain>
+            <plain>С‡С‚РѕР± РјРЅРѕРіРёРј Рє РЅРµР±РµСЃРЅРѕРјСѓ СЃРІРµС‚Сѓ</plain>
         </string>
         <string>
-            <plain>путь жизнь указала моя.</plain>
+            <plain>РїСѓС‚СЊ Р¶РёР·РЅСЊ СѓРєР°Р·Р°Р»Р° РјРѕСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай сил быть всегда терпеливым,</plain>
+            <plain>Р”Р°Р№ СЃРёР» Р±С‹С‚СЊ РІСЃРµРіРґР° С‚РµСЂРїРµР»РёРІС‹Рј,</plain>
         </string>
         <string>
-            <plain>дай в вере мне полный покой;</plain>
+            <plain>РґР°Р№ РІ РІРµСЂРµ РјРЅРµ РїРѕР»РЅС‹Р№ РїРѕРєРѕР№;</plain>
         </string>
         <string>
-            <plain>дай мне поступать с моим братом,</plain>
+            <plain>РґР°Р№ РјРЅРµ РїРѕСЃС‚СѓРїР°С‚СЊ СЃ РјРѕРёРј Р±СЂР°С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>как я поступал бы с Тобой.</plain>
+            <plain>РєР°Рє СЏ РїРѕСЃС‚СѓРїР°Р» Р±С‹ СЃ РўРѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Иисус, помоги мне быть верным,</plain>
+            <plain>РРёСЃСѓСЃ, РїРѕРјРѕРіРё РјРЅРµ Р±С‹С‚СЊ РІРµСЂРЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>разить неустанно врага,</plain>
+            <plain>СЂР°Р·РёС‚СЊ РЅРµСѓСЃС‚Р°РЅРЅРѕ РІСЂР°РіР°,</plain>
         </string>
         <string>
-            <plain>чтоб в час окончания жизни</plain>
+            <plain>С‡С‚РѕР± РІ С‡Р°СЃ РѕРєРѕРЅС‡Р°РЅРёСЏ Р¶РёР·РЅРё</plain>
         </string>
         <string>
-            <plain>готов был я встретить Тебя.</plain>
+            <plain>РіРѕС‚РѕРІ Р±С‹Р» СЏ РІСЃС‚СЂРµС‚РёС‚СЊ РўРµР±СЏ.</plain>
         </string>
     </verse>
 </psalm>

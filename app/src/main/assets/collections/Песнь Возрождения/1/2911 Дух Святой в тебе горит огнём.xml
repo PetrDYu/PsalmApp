@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2911" name="Дух Святой в тебе горит огнём" canon="false" text="" textRus="" music="">
+<psalm number="2911" name="Р”СѓС… РЎРІСЏС‚РѕР№ РІ С‚РµР±Рµ РіРѕСЂРёС‚ РѕРіРЅС‘Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Дух Святой в тебе горит огнём?</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№ РІ С‚РµР±Рµ РіРѕСЂРёС‚ РѕРіРЅС‘Рј?</plain>
         </string>
         <string>
-            <plain>Брат, свидетельствуешь ты,</plain>
+            <plain>Р‘СЂР°С‚, СЃРІРёРґРµС‚РµР»СЊСЃС‚РІСѓРµС€СЊ С‚С‹,</plain>
         </string>
         <string>
-            <plain>что любовь Господня день за днём</plain>
+            <plain>С‡С‚Рѕ Р»СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЏ РґРµРЅСЊ Р·Р° РґРЅС‘Рј</plain>
         </string>
         <string>
-            <plain>добрые творит плоды?</plain>
+            <plain>РґРѕР±СЂС‹Рµ С‚РІРѕСЂРёС‚ РїР»РѕРґС‹?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, любовь Господня, сотвори</plain>
+            <plain>Рћ, Р»СЋР±РѕРІСЊ Р“РѕСЃРїРѕРґРЅСЏ, СЃРѕС‚РІРѕСЂРё</plain>
         </string>
         <string>
-            <plain>сердце чистое во мне!</plain>
+            <plain>СЃРµСЂРґС†Рµ С‡РёСЃС‚РѕРµ РІРѕ РјРЅРµ!</plain>
         </string>
         <string>
-            <plain>Все стремления моей души</plain>
+            <plain>Р’СЃРµ СЃС‚СЂРµРјР»РµРЅРёСЏ РјРѕРµР№ РґСѓС€Рё</plain>
         </string>
         <string>
-            <plain>испытай в святом огне!</plain>
+            <plain>РёСЃРїС‹С‚Р°Р№ РІ СЃРІСЏС‚РѕРј РѕРіРЅРµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Агнца кровь омыла ли тебя</plain>
+            <plain>РђРіРЅС†Р° РєСЂРѕРІСЊ РѕРјС‹Р»Р° Р»Рё С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>здесь от всякого греха?</plain>
+            <plain>Р·РґРµСЃСЊ РѕС‚ РІСЃСЏРєРѕРіРѕ РіСЂРµС…Р°?</plain>
         </string>
         <string>
-            <plain>Дух тебе свидетельство даёт,</plain>
+            <plain>Р”СѓС… С‚РµР±Рµ СЃРІРёРґРµС‚РµР»СЊСЃС‚РІРѕ РґР°С‘С‚,</plain>
         </string>
         <string>
-            <plain>что ты Божие дитя?</plain>
+            <plain>С‡С‚Рѕ С‚С‹ Р‘РѕР¶РёРµ РґРёС‚СЏ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты надежду свыше получил?</plain>
+            <plain>РўС‹ РЅР°РґРµР¶РґСѓ СЃРІС‹С€Рµ РїРѕР»СѓС‡РёР»?</plain>
         </string>
         <string>
-            <plain>Аллилуйя! Знаешь ли,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! Р—РЅР°РµС€СЊ Р»Рё,</plain>
         </string>
         <string>
-            <plain>как тебя Всевышний возлюбил</plain>
+            <plain>РєР°Рє С‚РµР±СЏ Р’СЃРµРІС‹С€РЅРёР№ РІРѕР·Р»СЋР±РёР»</plain>
         </string>
         <string>
-            <plain>и омыл твои грехи?</plain>
+            <plain>Рё РѕРјС‹Р» С‚РІРѕРё РіСЂРµС…Рё?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Разве ты не чувствуешь в себе,</plain>
+            <plain>Р Р°Р·РІРµ С‚С‹ РЅРµ С‡СѓРІСЃС‚РІСѓРµС€СЊ РІ СЃРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>что воскрес ты со Христом,</plain>
+            <plain>С‡С‚Рѕ РІРѕСЃРєСЂРµСЃ С‚С‹ СЃРѕ РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>что привит теперь к святой Лозе</plain>
+            <plain>С‡С‚Рѕ РїСЂРёРІРёС‚ С‚РµРїРµСЂСЊ Рє СЃРІСЏС‚РѕР№ Р›РѕР·Рµ</plain>
         </string>
         <string>
-            <plain>и нашёл спасенье в нём?</plain>
+            <plain>Рё РЅР°С€С‘Р» СЃРїР°СЃРµРЅСЊРµ РІ РЅС‘Рј?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если всё Ему ты посвятил</plain>
+            <plain>Р•СЃР»Рё РІСЃС‘ Р•РјСѓ С‚С‹ РїРѕСЃРІСЏС‚РёР»</plain>
         </string>
         <string>
-            <plain>и хранишь себя от зла, знай:</plain>
+            <plain>Рё С…СЂР°РЅРёС€СЊ СЃРµР±СЏ РѕС‚ Р·Р»Р°, Р·РЅР°Р№:</plain>
         </string>
         <string>
-            <plain>Кто крестит Духом и огнём,</plain>
+            <plain>РљС‚Рѕ РєСЂРµСЃС‚РёС‚ Р”СѓС…РѕРј Рё РѕРіРЅС‘Рј,</plain>
         </string>
         <string>
-            <plain>Им наполнит и тебя!</plain>
+            <plain>РРј РЅР°РїРѕР»РЅРёС‚ Рё С‚РµР±СЏ!</plain>
         </string>
     </verse>
 </psalm>

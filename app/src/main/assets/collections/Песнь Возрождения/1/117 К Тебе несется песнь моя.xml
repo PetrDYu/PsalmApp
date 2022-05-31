@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="117" name="К Тебе несется песнь моя" canon="false" text="" textRus="" music="">
+<psalm number="117" name="Рљ РўРµР±Рµ РЅРµСЃРµС‚СЃСЏ РїРµСЃРЅСЊ РјРѕСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>К Тебе несется песнь моя,</plain>
+            <plain>Рљ РўРµР±Рµ РЅРµСЃРµС‚СЃСЏ РїРµСЃРЅСЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>О Боже, ей внемли!</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, РµР№ РІРЅРµРјР»Рё!</plain>
         </string>
         <string>
-            <plain>Твою любовь прославлю я</plain>
+            <plain>РўРІРѕСЋ Р»СЋР±РѕРІСЊ РїСЂРѕСЃР»Р°РІР»СЋ СЏ</plain>
         </string>
         <string>
-            <plain>Во все концы земли.</plain>
+            <plain>Р’Рѕ РІСЃРµ РєРѕРЅС†С‹ Р·РµРјР»Рё.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Я знаю, что источник Ты</plain>
+            <plain>РЇ Р·РЅР°СЋ, С‡С‚Рѕ РёСЃС‚РѕС‡РЅРёРє РўС‹</plain>
         </string>
         <string>
-            <plain>Бесчисленных даров,</plain>
+            <plain>Р‘РµСЃС‡РёСЃР»РµРЅРЅС‹С… РґР°СЂРѕРІ,</plain>
         </string>
         <string>
-            <plain>И полны дивной красоты</plain>
+            <plain>Р РїРѕР»РЅС‹ РґРёРІРЅРѕР№ РєСЂР°СЃРѕС‚С‹</plain>
         </string>
         <string>
-            <plain>Дела Твоих перстов.</plain>
+            <plain>Р”РµР»Р° РўРІРѕРёС… РїРµСЂСЃС‚РѕРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не Ты ли, Боже, надо мной</plain>
+            <plain>РќРµ РўС‹ Р»Рё, Р‘РѕР¶Рµ, РЅР°РґРѕ РјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Раскинул свод небес?</plain>
+            <plain>Р Р°СЃРєРёРЅСѓР» СЃРІРѕРґ РЅРµР±РµСЃ?</plain>
         </string>
         <string>
-            <plain>Не Ты ли Сам живой росой</plain>
+            <plain>РќРµ РўС‹ Р»Рё РЎР°Рј Р¶РёРІРѕР№ СЂРѕСЃРѕР№</plain>
         </string>
         <string>
-            <plain>Полил поля и лес?</plain>
+            <plain>РџРѕР»РёР» РїРѕР»СЏ Рё Р»РµСЃ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Не Ты ли влагу дал лугам</plain>
+            <plain>РќРµ РўС‹ Р»Рё РІР»Р°РіСѓ РґР°Р» Р»СѓРіР°Рј</plain>
         </string>
         <string>
-            <plain>И силу жизни нам?</plain>
+            <plain>Р СЃРёР»Сѓ Р¶РёР·РЅРё РЅР°Рј?</plain>
         </string>
         <string>
-            <plain>Кто руку помощи дает</plain>
+            <plain>РљС‚Рѕ СЂСѓРєСѓ РїРѕРјРѕС‰Рё РґР°РµС‚</plain>
         </string>
         <string>
-            <plain>В часы земных невзгод?</plain>
+            <plain>Р’ С‡Р°СЃС‹ Р·РµРјРЅС‹С… РЅРµРІР·РіРѕРґ?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Под гнетом жизненных скорбей</plain>
+            <plain>РџРѕРґ РіРЅРµС‚РѕРј Р¶РёР·РЅРµРЅРЅС‹С… СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>Ты нам даешь покров;</plain>
+            <plain>РўС‹ РЅР°Рј РґР°РµС€СЊ РїРѕРєСЂРѕРІ;</plain>
         </string>
         <string>
-            <plain>Под сенью милости Твоей</plain>
+            <plain>РџРѕРґ СЃРµРЅСЊСЋ РјРёР»РѕСЃС‚Рё РўРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Мы скрыты от врагов.</plain>
+            <plain>РњС‹ СЃРєСЂС‹С‚С‹ РѕС‚ РІСЂР°РіРѕРІ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Ты наш благословляешь труд,</plain>
+            <plain>РўС‹ РЅР°С€ Р±Р»Р°РіРѕСЃР»РѕРІР»СЏРµС€СЊ С‚СЂСѓРґ,</plain>
         </string>
         <string>
-            <plain>Даешь ему успех;</plain>
+            <plain>Р”Р°РµС€СЊ РµРјСѓ СѓСЃРїРµС…;</plain>
         </string>
         <string>
-            <plain>Не входишь с нами в строгий суд,</plain>
+            <plain>РќРµ РІС…РѕРґРёС€СЊ СЃ РЅР°РјРё РІ СЃС‚СЂРѕРіРёР№ СЃСѓРґ,</plain>
         </string>
         <string>
-            <plain>Когда впадаем в грех.</plain>
+            <plain>РљРѕРіРґР° РІРїР°РґР°РµРј РІ РіСЂРµС….</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Ты знаешь час, когда тоской</plain>
+            <plain>РўС‹ Р·РЅР°РµС€СЊ С‡Р°СЃ, РєРѕРіРґР° С‚РѕСЃРєРѕР№</plain>
         </string>
         <string>
-            <plain>Душа удручена,</plain>
+            <plain>Р”СѓС€Р° СѓРґСЂСѓС‡РµРЅР°,</plain>
         </string>
         <string>
-            <plain>И каждая слеза Тобой,</plain>
+            <plain>Р РєР°Р¶РґР°СЏ СЃР»РµР·Р° РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>О Боже, сочтена.</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, СЃРѕС‡С‚РµРЅР°.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Ты все дары духовных благ</plain>
+            <plain>РўС‹ РІСЃРµ РґР°СЂС‹ РґСѓС…РѕРІРЅС‹С… Р±Р»Р°Рі</plain>
         </string>
         <string>
-            <plain>Даешь в отраду нам</plain>
+            <plain>Р”Р°РµС€СЊ РІ РѕС‚СЂР°РґСѓ РЅР°Рј</plain>
         </string>
         <string>
-            <plain>И обещаешь в небесах</plain>
+            <plain>Р РѕР±РµС‰Р°РµС€СЊ РІ РЅРµР±РµСЃР°С…</plain>
         </string>
         <string>
-            <plain>Покой Своим детям.</plain>
+            <plain>РџРѕРєРѕР№ РЎРІРѕРёРј РґРµС‚СЏРј.</plain>
         </string>
     </verse>
 </psalm>

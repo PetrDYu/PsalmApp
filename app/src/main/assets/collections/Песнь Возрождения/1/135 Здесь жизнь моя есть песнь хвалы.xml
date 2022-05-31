@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="135" name="Здесь жизнь моя есть песнь хвалы" canon="false" text="" textRus="" music="">
+<psalm number="135" name="Р—РґРµСЃСЊ Р¶РёР·РЅСЊ РјРѕСЏ РµСЃС‚СЊ РїРµСЃРЅСЊ С…РІР°Р»С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Здесь жизнь моя есть песнь хвалы,</plain>
+            <plain>Р—РґРµСЃСЊ Р¶РёР·РЅСЊ РјРѕСЏ РµСЃС‚СЊ РїРµСЃРЅСЊ С…РІР°Р»С‹,</plain>
         </string>
         <string>
-            <plain>Что громко средь сомненья,</plain>
+            <plain>Р§С‚Рѕ РіСЂРѕРјРєРѕ СЃСЂРµРґСЊ СЃРѕРјРЅРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Среди неправды, грешной мглы</plain>
+            <plain>РЎСЂРµРґРё РЅРµРїСЂР°РІРґС‹, РіСЂРµС€РЅРѕР№ РјРіР»С‹</plain>
         </string>
         <string>
-            <plain>Гласит о дне спасенья.</plain>
+            <plain>Р“Р»Р°СЃРёС‚ Рѕ РґРЅРµ СЃРїР°СЃРµРЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>Сквозь жизни шум и суету</plain>
+            <plain>РЎРєРІРѕР·СЊ Р¶РёР·РЅРё С€СѓРј Рё СЃСѓРµС‚Сѓ</plain>
         </string>
         <string>
-            <plain>Я слышу, как, ликуя,</plain>
+            <plain>РЇ СЃР»С‹С€Сѓ, РєР°Рє, Р»РёРєСѓСЏ,</plain>
         </string>
         <string>
-            <plain>Поют спасенные Христу,</plain>
+            <plain>РџРѕСЋС‚ СЃРїР°СЃРµРЅРЅС‹Рµ РҐСЂРёСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>И как молчать могу я?!</plain>
+            <plain>Р РєР°Рє РјРѕР»С‡Р°С‚СЊ РјРѕРіСѓ СЏ?!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Пусть мира прелести умрут,</plain>
+            <plain>РџСѓСЃС‚СЊ РјРёСЂР° РїСЂРµР»РµСЃС‚Рё СѓРјСЂСѓС‚,</plain>
         </string>
         <string>
-            <plain>Все ж будет Бог со мною;</plain>
+            <plain>Р’СЃРµ Р¶ Р±СѓРґРµС‚ Р‘РѕРі СЃРѕ РјРЅРѕСЋ;</plain>
         </string>
         <string>
-            <plain>Пусть тучи полночи пройдут,</plain>
+            <plain>РџСѓСЃС‚СЊ С‚СѓС‡Рё РїРѕР»РЅРѕС‡Рё РїСЂРѕР№РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Он будет мне зарею.</plain>
+            <plain>РћРЅ Р±СѓРґРµС‚ РјРЅРµ Р·Р°СЂРµСЋ.</plain>
         </string>
         <string>
-            <plain>Ничто мой мир не потрясет,</plain>
+            <plain>РќРёС‡С‚Рѕ РјРѕР№ РјРёСЂ РЅРµ РїРѕС‚СЂСЏСЃРµС‚,</plain>
         </string>
         <string>
-            <plain>Пока к Иисусу льну я,</plain>
+            <plain>РџРѕРєР° Рє РРёСЃСѓСЃСѓ Р»СЊРЅСѓ СЏ,</plain>
         </string>
         <string>
-            <plain>Пока меня Он бережет.</plain>
+            <plain>РџРѕРєР° РјРµРЅСЏ РћРЅ Р±РµСЂРµР¶РµС‚.</plain>
         </string>
         <string>
-            <plain>О, как молчать могу я?!</plain>
+            <plain>Рћ, РєР°Рє РјРѕР»С‡Р°С‚СЊ РјРѕРіСѓ СЏ?!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Гляжу я ввысь: там меньше туч</plain>
+            <plain>Р“Р»СЏР¶Сѓ СЏ РІРІС‹СЃСЊ: С‚Р°Рј РјРµРЅСЊС€Рµ С‚СѓС‡</plain>
         </string>
         <string>
-            <plain>И небо мне синеет,</plain>
+            <plain>Р РЅРµР±Рѕ РјРЅРµ СЃРёРЅРµРµС‚,</plain>
         </string>
         <string>
-            <plain>И день за днем спасенья луч</plain>
+            <plain>Р РґРµРЅСЊ Р·Р° РґРЅРµРј СЃРїР°СЃРµРЅСЊСЏ Р»СѓС‡</plain>
         </string>
         <string>
-            <plain>Все больше сердце греет.</plain>
+            <plain>Р’СЃРµ Р±РѕР»СЊС€Рµ СЃРµСЂРґС†Рµ РіСЂРµРµС‚.</plain>
         </string>
         <string>
-            <plain>Ключ счастья все сильнее бьет,</plain>
+            <plain>РљР»СЋС‡ СЃС‡Р°СЃС‚СЊСЏ РІСЃРµ СЃРёР»СЊРЅРµРµ Р±СЊРµС‚,</plain>
         </string>
         <string>
-            <plain>И в нем отраду пью я,</plain>
+            <plain>Р РІ РЅРµРј РѕС‚СЂР°РґСѓ РїСЊСЋ СЏ,</plain>
         </string>
         <string>
-            <plain>И слышу, как Господь грядет:</plain>
+            <plain>Р СЃР»С‹С€Сѓ, РєР°Рє Р“РѕСЃРїРѕРґСЊ РіСЂСЏРґРµС‚:</plain>
         </string>
         <string>
-            <plain>О, как молчать могу я?!</plain>
+            <plain>Рћ, РєР°Рє РјРѕР»С‡Р°С‚СЊ РјРѕРіСѓ СЏ?!</plain>
         </string>
     </verse>
 </psalm>

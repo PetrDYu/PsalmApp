@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="610" name="С неба льется песнопенье" canon="false" text="" textRus="" music="">
+<psalm number="610" name="РЎ РЅРµР±Р° Р»СЊРµС‚СЃСЏ РїРµСЃРЅРѕРїРµРЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С неба льется песнопенье:</plain>
+            <plain>РЎ РЅРµР±Р° Р»СЊРµС‚СЃСЏ РїРµСЃРЅРѕРїРµРЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>"Мир на страждущей земле</plain>
+            <plain>"РњРёСЂ РЅР° СЃС‚СЂР°Р¶РґСѓС‰РµР№ Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>И Творца благоволенье</plain>
+            <plain>Р РўРІРѕСЂС†Р° Р±Р»Р°РіРѕРІРѕР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>К людям, гибнущим во зле!"</plain>
+            <plain>Рљ Р»СЋРґСЏРј, РіРёР±РЅСѓС‰РёРј РІРѕ Р·Р»Рµ!"</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Правдой чистый небожитель</plain>
+            <plain>РџСЂР°РІРґРѕР№ С‡РёСЃС‚С‹Р№ РЅРµР±РѕР¶РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Весть отрады нам принес:</plain>
+            <plain>Р’РµСЃС‚СЊ РѕС‚СЂР°РґС‹ РЅР°Рј РїСЂРёРЅРµСЃ:</plain>
         </string>
         <string>
-            <plain>"Вот родился вам Спаситель,</plain>
+            <plain>"Р’РѕС‚ СЂРѕРґРёР»СЃСЏ РІР°Рј РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Ваш Господь и ваш Христос."</plain>
+            <plain>Р’Р°С€ Р“РѕСЃРїРѕРґСЊ Рё РІР°С€ РҐСЂРёСЃС‚РѕСЃ."</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он забыл небес порфиру</plain>
+            <plain>РћРЅ Р·Р°Р±С‹Р» РЅРµР±РµСЃ РїРѕСЂС„РёСЂСѓ</plain>
         </string>
         <string>
-            <plain>И пришел в юдоль скорбей,</plain>
+            <plain>Р РїСЂРёС€РµР» РІ СЋРґРѕР»СЊ СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>И Себя явил Он миру</plain>
+            <plain>Р РЎРµР±СЏ СЏРІРёР» РћРЅ РјРёСЂСѓ</plain>
         </string>
         <string>
-            <plain>Другом страждущих людей.</plain>
+            <plain>Р”СЂСѓРіРѕРј СЃС‚СЂР°Р¶РґСѓС‰РёС… Р»СЋРґРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сколько Он душою пленных</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РћРЅ РґСѓС€РѕСЋ РїР»РµРЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>От оков освободил,</plain>
+            <plain>РћС‚ РѕРєРѕРІ РѕСЃРІРѕР±РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>Сколько Он даров нетленных</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РћРЅ РґР°СЂРѕРІ РЅРµС‚Р»РµРЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Нищим духом подарил.</plain>
+            <plain>РќРёС‰РёРј РґСѓС…РѕРј РїРѕРґР°СЂРёР».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Он родился, чтобы грешных</plain>
+            <plain>РћРЅ СЂРѕРґРёР»СЃСЏ, С‡С‚РѕР±С‹ РіСЂРµС€РЅС‹С…</plain>
         </string>
         <string>
-            <plain>К жизни новой возродить,</plain>
+            <plain>Рљ Р¶РёР·РЅРё РЅРѕРІРѕР№ РІРѕР·СЂРѕРґРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтобы души безутешных</plain>
+            <plain>Р§С‚РѕР±С‹ РґСѓС€Рё Р±РµР·СѓС‚РµС€РЅС‹С…</plain>
         </string>
         <string>
-            <plain>Навсегда возвеселить.</plain>
+            <plain>РќР°РІСЃРµРіРґР° РІРѕР·РІРµСЃРµР»РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Как для грешных драгоценно,</plain>
+            <plain>РљР°Рє РґР»СЏ РіСЂРµС€РЅС‹С… РґСЂР°РіРѕС†РµРЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Как прекрасно Рождество!</plain>
+            <plain>РљР°Рє РїСЂРµРєСЂР°СЃРЅРѕ Р РѕР¶РґРµСЃС‚РІРѕ!</plain>
         </string>
         <string>
-            <plain>В нем отрада для вселенной</plain>
+            <plain>Р’ РЅРµРј РѕС‚СЂР°РґР° РґР»СЏ РІСЃРµР»РµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>И для смертных торжество.</plain>
+            <plain>Р РґР»СЏ СЃРјРµСЂС‚РЅС‹С… С‚РѕСЂР¶РµСЃС‚РІРѕ.</plain>
         </string>
     </verse>
 </psalm>

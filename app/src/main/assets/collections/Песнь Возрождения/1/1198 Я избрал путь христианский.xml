@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1198" name="Я избрал путь христианский" canon="false" text="" textRus="" music="">
+<psalm number="1198" name="РЇ РёР·Р±СЂР°Р» РїСѓС‚СЊ С…СЂРёСЃС‚РёР°РЅСЃРєРёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я избрал путь христианский,</plain>
+            <plain>РЇ РёР·Р±СЂР°Р» РїСѓС‚СЊ С…СЂРёСЃС‚РёР°РЅСЃРєРёР№,</plain>
         </string>
         <string>
-            <plain>Путь тернистый и святой,</plain>
+            <plain>РџСѓС‚СЊ С‚РµСЂРЅРёСЃС‚С‹Р№ Рё СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>И иду тропою узкой в вечность,</plain>
+            <plain>Р РёРґСѓ С‚СЂРѕРїРѕСЋ СѓР·РєРѕР№ РІ РІРµС‡РЅРѕСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Где найду покой.</plain>
+            <plain>Р“РґРµ РЅР°Р№РґСѓ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Христианская надежда.</plain>
+            <plain>РҐСЂРёСЃС‚РёР°РЅСЃРєР°СЏ РЅР°РґРµР¶РґР°.</plain>
         </string>
         <string>
-            <plain>Ты влечешь меня вперед...</plain>
+            <plain>РўС‹ РІР»РµС‡РµС€СЊ РјРµРЅСЏ РІРїРµСЂРµРґ...</plain>
         </string>
         <string>
-            <plain>Христианская надежда</plain>
+            <plain>РҐСЂРёСЃС‚РёР°РЅСЃРєР°СЏ РЅР°РґРµР¶РґР°</plain>
         </string>
         <string>
-            <plain>- Самый светлый огонек.</plain>
+            <plain>- РЎР°РјС‹Р№ СЃРІРµС‚Р»С‹Р№ РѕРіРѕРЅРµРє.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Радость сердце окрыляет.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ СЃРµСЂРґС†Рµ РѕРєСЂС‹Р»СЏРµС‚.</plain>
         </string>
         <string>
-            <plain>Хоть дорога тяжела.</plain>
+            <plain>РҐРѕС‚СЊ РґРѕСЂРѕРіР° С‚СЏР¶РµР»Р°.</plain>
         </string>
         <string>
-            <plain>С неба помощь обещает</plain>
+            <plain>РЎ РЅРµР±Р° РїРѕРјРѕС‰СЊ РѕР±РµС‰Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Веры твердая рука.</plain>
+            <plain>Р’РµСЂС‹ С‚РІРµСЂРґР°СЏ СЂСѓРєР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Царство Божье наполняет</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРѕ Р‘РѕР¶СЊРµ РЅР°РїРѕР»РЅСЏРµС‚</plain>
         </string>
         <string>
-            <plain>Сердца хижину мою.</plain>
+            <plain>РЎРµСЂРґС†Р° С…РёР¶РёРЅСѓ РјРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Хоть и слаб - Бог помогает.</plain>
+            <plain>РҐРѕС‚СЊ Рё СЃР»Р°Р± - Р‘РѕРі РїРѕРјРѕРіР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Верю: к цели я дойду.</plain>
+            <plain>Р’РµСЂСЋ: Рє С†РµР»Рё СЏ РґРѕР№РґСѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Буду вечно с Иисусом</plain>
+            <plain>Р‘СѓРґСѓ РІРµС‡РЅРѕ СЃ РРёСЃСѓСЃРѕРј</plain>
         </string>
         <string>
-            <plain>У груди Его лежать.</plain>
+            <plain>РЈ РіСЂСѓРґРё Р•РіРѕ Р»РµР¶Р°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Своим духом с Ним сольюся,</plain>
+            <plain>РЎРІРѕРёРј РґСѓС…РѕРј СЃ РќРёРј СЃРѕР»СЊСЋСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Чтобы с Богом обитать.</plain>
+            <plain>Р§С‚РѕР±С‹ СЃ Р‘РѕРіРѕРј РѕР±РёС‚Р°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

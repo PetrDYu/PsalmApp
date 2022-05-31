@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3077" name="Грешник у двери стою" canon="false" text="" textRus="" music="">
+<psalm number="3077" name="Р“СЂРµС€РЅРёРє Сѓ РґРІРµСЂРё СЃС‚РѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Грешник, у двери стою,</plain>
+            <plain>Р“СЂРµС€РЅРёРє, Сѓ РґРІРµСЂРё СЃС‚РѕСЋ,</plain>
         </string>
         <string>
-            <plain>неустанно Я стучу:</plain>
+            <plain>РЅРµСѓСЃС‚Р°РЅРЅРѕ РЇ СЃС‚СѓС‡Сѓ:</plain>
         </string>
         <string>
-            <plain>О, впусти Меня, молю</plain>
+            <plain>Рћ, РІРїСѓСЃС‚Рё РњРµРЅСЏ, РјРѕР»СЋ</plain>
         </string>
         <string>
-            <plain>- все грехи тебе прощу.</plain>
+            <plain>- РІСЃРµ РіСЂРµС…Рё С‚РµР±Рµ РїСЂРѕС‰Сѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, впусти, о, впусти!</plain>
+            <plain>Рћ, РІРїСѓСЃС‚Рё, Рѕ, РІРїСѓСЃС‚Рё!</plain>
         </string>
         <string>
-            <plain>Грешник, о, впусти Меня!</plain>
+            <plain>Р“СЂРµС€РЅРёРє, Рѕ, РІРїСѓСЃС‚Рё РњРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>О, впусти, о, впусти!</plain>
+            <plain>Рћ, РІРїСѓСЃС‚Рё, Рѕ, РІРїСѓСЃС‚Рё!</plain>
         </string>
         <string>
-            <plain>Грешник, о, впусти Меня!</plain>
+            <plain>Р“СЂРµС€РЅРёРє, Рѕ, РІРїСѓСЃС‚Рё РњРµРЅСЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сердце мертво во грехах?</plain>
+            <plain>РЎРµСЂРґС†Рµ РјРµСЂС‚РІРѕ РІРѕ РіСЂРµС…Р°С…?</plain>
         </string>
         <string>
-            <plain>В нем царят тоска и страх?</plain>
+            <plain>Р’ РЅРµРј С†Р°СЂСЏС‚ С‚РѕСЃРєР° Рё СЃС‚СЂР°С…?</plain>
         </string>
         <string>
-            <plain>Если впустишь ты Меня,</plain>
+            <plain>Р•СЃР»Рё РІРїСѓСЃС‚РёС€СЊ С‚С‹ РњРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>будешь счастлив ты всегда.</plain>
+            <plain>Р±СѓРґРµС€СЊ СЃС‡Р°СЃС‚Р»РёРІ С‚С‹ РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если свет померк в глазах,</plain>
+            <plain>Р•СЃР»Рё СЃРІРµС‚ РїРѕРјРµСЂРє РІ РіР»Р°Р·Р°С…,</plain>
         </string>
         <string>
-            <plain>скорбь застыла на устах</plain>
+            <plain>СЃРєРѕСЂР±СЊ Р·Р°СЃС‚С‹Р»Р° РЅР° СѓСЃС‚Р°С…</plain>
         </string>
         <string>
-            <plain>- дам свободу обрести,</plain>
+            <plain>- РґР°Рј СЃРІРѕР±РѕРґСѓ РѕР±СЂРµСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>лишь Меня к себе впусти.</plain>
+            <plain>Р»РёС€СЊ РњРµРЅСЏ Рє СЃРµР±Рµ РІРїСѓСЃС‚Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Иль душа полна забот?</plain>
+            <plain>РР»СЊ РґСѓС€Р° РїРѕР»РЅР° Р·Р°Р±РѕС‚?</plain>
         </string>
         <string>
-            <plain>Сделай выбор! - Я, Господь,</plain>
+            <plain>РЎРґРµР»Р°Р№ РІС‹Р±РѕСЂ! - РЇ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>помогу тебе в беде,</plain>
+            <plain>РїРѕРјРѕРіСѓ С‚РµР±Рµ РІ Р±РµРґРµ,</plain>
         </string>
         <string>
-            <plain>если дашь войти Ты Мне.</plain>
+            <plain>РµСЃР»Рё РґР°С€СЊ РІРѕР№С‚Рё РўС‹ РњРЅРµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если сердца дверь замкнешь,</plain>
+            <plain>Р•СЃР»Рё СЃРµСЂРґС†Р° РґРІРµСЂСЊ Р·Р°РјРєРЅРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>жизнь свою ты не спасешь,</plain>
+            <plain>Р¶РёР·РЅСЊ СЃРІРѕСЋ С‚С‹ РЅРµ СЃРїР°СЃРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>не найдешь покой душе</plain>
+            <plain>РЅРµ РЅР°Р№РґРµС€СЊ РїРѕРєРѕР№ РґСѓС€Рµ</plain>
         </string>
         <string>
-            <plain>- Я не мог войти к тебе.</plain>
+            <plain>- РЇ РЅРµ РјРѕРі РІРѕР№С‚Рё Рє С‚РµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Если опоздаешь ты,</plain>
+            <plain>Р•СЃР»Рё РѕРїРѕР·РґР°РµС€СЊ С‚С‹,</plain>
         </string>
         <string>
-            <plain>двери будут заперты,</plain>
+            <plain>РґРІРµСЂРё Р±СѓРґСѓС‚ Р·Р°РїРµСЂС‚С‹,</plain>
         </string>
         <string>
-            <plain>в Божье царство не войдешь</plain>
+            <plain>РІ Р‘РѕР¶СЊРµ С†Р°СЂСЃС‚РІРѕ РЅРµ РІРѕР№РґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>- что посеял, то пожнешь.</plain>
+            <plain>- С‡С‚Рѕ РїРѕСЃРµСЏР», С‚Рѕ РїРѕР¶РЅРµС€СЊ.</plain>
         </string>
     </verse>
 </psalm>

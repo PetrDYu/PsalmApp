@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2572" name="Я молюсь Тебе Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="2572" name="РЇ РјРѕР»СЋСЃСЊ РўРµР±Рµ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я молюсь Тебе, Спаситель:</plain>
+            <plain>РЇ РјРѕР»СЋСЃСЊ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>Все грехи мои прости</plain>
+            <plain>Р’СЃРµ РіСЂРµС…Рё РјРѕРё РїСЂРѕСЃС‚Рё</plain>
         </string>
         <string>
-            <plain>И прошу, мой Искупитель,</plain>
+            <plain>Р РїСЂРѕС€Сѓ, РјРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Помоги свой крест нести.</plain>
+            <plain>РџРѕРјРѕРіРё СЃРІРѕР№ РєСЂРµСЃС‚ РЅРµСЃС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О Иисус, услышь молены,</plain>
+            <plain>Рћ РРёСЃСѓСЃ, СѓСЃР»С‹С€СЊ РјРѕР»РµРЅС‹,</plain>
         </string>
         <string>
-            <plain>(О Господь, услышь молены),</plain>
+            <plain>(Рћ Р“РѕСЃРїРѕРґСЊ, СѓСЃР»С‹С€СЊ РјРѕР»РµРЅС‹),</plain>
         </string>
         <string>
-            <plain>Ближе дай прильнуть к Тебе!</plain>
+            <plain>Р‘Р»РёР¶Рµ РґР°Р№ РїСЂРёР»СЊРЅСѓС‚СЊ Рє РўРµР±Рµ!</plain>
         </string>
         <string>
-            <plain>(Ближе дай прильнуть к Тебе)!</plain>
+            <plain>(Р‘Р»РёР¶Рµ РґР°Р№ РїСЂРёР»СЊРЅСѓС‚СЊ Рє РўРµР±Рµ)!</plain>
         </string>
         <string>
-            <plain>Я пою Тебе хвалены</plain>
+            <plain>РЇ РїРѕСЋ РўРµР±Рµ С…РІР°Р»РµРЅС‹</plain>
         </string>
         <string>
-            <plain>за страданье на кресте!</plain>
+            <plain>Р·Р° СЃС‚СЂР°РґР°РЅСЊРµ РЅР° РєСЂРµСЃС‚Рµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я молюсь Тебе, Спаситель:</plain>
+            <plain>РЇ РјРѕР»СЋСЃСЊ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>О, благослови меня</plain>
+            <plain>Рћ, Р±Р»Р°РіРѕСЃР»РѕРІРё РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>И пошли на труд, Учитель,</plain>
+            <plain>Р РїРѕС€Р»Рё РЅР° С‚СЂСѓРґ, РЈС‡РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Прославляющий Тебя.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏСЋС‰РёР№ РўРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я молюсь Тебе, Спаситель:</plain>
+            <plain>РЇ РјРѕР»СЋСЃСЊ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>Дай мне мудрости святой;</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РјСѓРґСЂРѕСЃС‚Рё СЃРІСЏС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Будь со мною, мой Хранитель,</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕСЋ, РјРѕР№ РҐСЂР°РЅРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>И веди Своей рукой.</plain>
+            <plain>Р РІРµРґРё РЎРІРѕРµР№ СЂСѓРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я молюсь Тебе, Спаситель:</plain>
+            <plain>РЇ РјРѕР»СЋСЃСЊ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>Освяти меня вполне,</plain>
+            <plain>РћСЃРІСЏС‚Рё РјРµРЅСЏ РІРїРѕР»РЅРµ,</plain>
         </string>
         <string>
-            <plain>Чтоб во всем я, Твой служитель,</plain>
+            <plain>Р§С‚РѕР± РІРѕ РІСЃРµРј СЏ, РўРІРѕР№ СЃР»СѓР¶РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Уподобился Тебе.</plain>
+            <plain>РЈРїРѕРґРѕР±РёР»СЃСЏ РўРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

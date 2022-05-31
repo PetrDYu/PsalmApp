@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="146" name="Полны уста мои хвалой" canon="false" text="" textRus="" music="">
+<psalm number="146" name="РџРѕР»РЅС‹ СѓСЃС‚Р° РјРѕРё С…РІР°Р»РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Полны уста мои хвалой:</plain>
+            <plain>РџРѕР»РЅС‹ СѓСЃС‚Р° РјРѕРё С…РІР°Р»РѕР№:</plain>
         </string>
         <string>
-            <plain>Печаль моя прошла;</plain>
+            <plain>РџРµС‡Р°Р»СЊ РјРѕСЏ РїСЂРѕС€Р»Р°;</plain>
         </string>
         <string>
-            <plain>Христу пою теперь душой,</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ РїРѕСЋ С‚РµРїРµСЂСЊ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Христу звучит хвала.</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ Р·РІСѓС‡РёС‚ С…РІР°Р»Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Хвала Христу, Хвала Христу,</plain>
+            <plain>РҐРІР°Р»Р° РҐСЂРёСЃС‚Сѓ, РҐРІР°Р»Р° РҐСЂРёСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Хвала Христу вовек!</plain>
+            <plain>РҐРІР°Р»Р° РҐСЂРёСЃС‚Сѓ РІРѕРІРµРє!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Когда Господь мой на кресте</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРѕР№ РЅР° РєСЂРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>За грех мой умирал,</plain>
+            <plain>Р—Р° РіСЂРµС… РјРѕР№ СѓРјРёСЂР°Р»,</plain>
         </string>
         <string>
-            <plain>Скорбело сердце во Христе</plain>
+            <plain>РЎРєРѕСЂР±РµР»Рѕ СЃРµСЂРґС†Рµ РІРѕ РҐСЂРёСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>И Он за нас взывал.</plain>
+            <plain>Р РћРЅ Р·Р° РЅР°СЃ РІР·С‹РІР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хоть искушения порой</plain>
+            <plain>РҐРѕС‚СЊ РёСЃРєСѓС€РµРЅРёСЏ РїРѕСЂРѕР№</plain>
         </string>
         <string>
-            <plain>Заставят дух страдать,</plain>
+            <plain>Р—Р°СЃС‚Р°РІСЏС‚ РґСѓС… СЃС‚СЂР°РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>"Христос! Ты Бог, Спаситель мой! " –</plain>
+            <plain>"РҐСЂРёСЃС‚РѕСЃ! РўС‹ Р‘РѕРі, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№! " вЂ“</plain>
         </string>
         <string>
-            <plain>Я буду повторять.</plain>
+            <plain>РЇ Р±СѓРґСѓ РїРѕРІС‚РѕСЂСЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Спасенья радостную весть</plain>
+            <plain>РЎРїР°СЃРµРЅСЊСЏ СЂР°РґРѕСЃС‚РЅСѓСЋ РІРµСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>Спеши другим сказать,</plain>
+            <plain>РЎРїРµС€Рё РґСЂСѓРіРёРј СЃРєР°Р·Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб их для Бога приобресть</plain>
+            <plain>Р§С‚РѕР± РёС… РґР»СЏ Р‘РѕРіР° РїСЂРёРѕР±СЂРµСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>И с ними воспевать.</plain>
+            <plain>Р СЃ РЅРёРјРё РІРѕСЃРїРµРІР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

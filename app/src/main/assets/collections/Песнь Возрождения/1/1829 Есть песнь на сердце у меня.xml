@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1829" name="Есть песнь на сердце у меня" canon="false" text="" textRus="" music="">
+<psalm number="1829" name="Р•СЃС‚СЊ РїРµСЃРЅСЊ РЅР° СЃРµСЂРґС†Рµ Сѓ РјРµРЅСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Есть песнь на сердце у меня,</plain>
+            <plain>Р•СЃС‚СЊ РїРµСЃРЅСЊ РЅР° СЃРµСЂРґС†Рµ Сѓ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Во мне звучит всегда она,</plain>
+            <plain>Р’Рѕ РјРЅРµ Р·РІСѓС‡РёС‚ РІСЃРµРіРґР° РѕРЅР°,</plain>
         </string>
         <string>
-            <plain>Я о любви Христа пою,</plain>
+            <plain>РЇ Рѕ Р»СЋР±РІРё РҐСЂРёСЃС‚Р° РїРѕСЋ,</plain>
         </string>
         <string>
-            <plain>О вечной радости в раю.</plain>
+            <plain>Рћ РІРµС‡РЅРѕР№ СЂР°РґРѕСЃС‚Рё РІ СЂР°СЋ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Я буду петь ее до дня,</plain>
+            <plain>РЇ Р±СѓРґСѓ РїРµС‚СЊ РµРµ РґРѕ РґРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Когда Господь возьмет меня,</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РІРѕР·СЊРјРµС‚ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Я буду петь и в небесах</plain>
+            <plain>РЇ Р±СѓРґСѓ РїРµС‚СЊ Рё РІ РЅРµР±РµСЃР°С…</plain>
         </string>
         <string>
-            <plain>О дивных Божиих делах.</plain>
+            <plain>Рћ РґРёРІРЅС‹С… Р‘РѕР¶РёРёС… РґРµР»Р°С….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но чья душа еще молчит,</plain>
+            <plain>РќРѕ С‡СЊСЏ РґСѓС€Р° РµС‰Рµ РјРѕР»С‡РёС‚,</plain>
         </string>
         <string>
-            <plain>В ком песнь спасенья не звучит.</plain>
+            <plain>Р’ РєРѕРј РїРµСЃРЅСЊ СЃРїР°СЃРµРЅСЊСЏ РЅРµ Р·РІСѓС‡РёС‚.</plain>
         </string>
         <string>
-            <plain>Спешите все к Христу теперь</plain>
+            <plain>РЎРїРµС€РёС‚Рµ РІСЃРµ Рє РҐСЂРёСЃС‚Сѓ С‚РµРїРµСЂСЊ</plain>
         </string>
         <string>
-            <plain>Пока еще открыта дверь.</plain>
+            <plain>РџРѕРєР° РµС‰Рµ РѕС‚РєСЂС‹С‚Р° РґРІРµСЂСЊ.</plain>
         </string>
     </verse>
 </psalm>

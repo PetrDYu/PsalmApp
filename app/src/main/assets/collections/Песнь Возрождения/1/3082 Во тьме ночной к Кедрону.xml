@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3082" name="Во тьме ночной к Кедрону" canon="false" text="" textRus="" music="">
+<psalm number="3082" name="Р’Рѕ С‚СЊРјРµ РЅРѕС‡РЅРѕР№ Рє РљРµРґСЂРѕРЅСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Во тьме ночной к Кедрону</plain>
+            <plain>Р’Рѕ С‚СЊРјРµ РЅРѕС‡РЅРѕР№ Рє РљРµРґСЂРѕРЅСѓ</plain>
         </string>
         <string>
-            <plain>шёл Иисус в страдании,</plain>
+            <plain>С€С‘Р» РРёСЃСѓСЃ РІ СЃС‚СЂР°РґР°РЅРёРё,</plain>
         </string>
         <string>
-            <plain>где часто Он к Отцу взывал,</plain>
+            <plain>РіРґРµ С‡Р°СЃС‚Рѕ РћРЅ Рє РћС‚С†Сѓ РІР·С‹РІР°Р»,</plain>
         </string>
         <string>
-            <plain>там, в Гефсимании.</plain>
+            <plain>С‚Р°Рј, РІ Р“РµС„СЃРёРјР°РЅРёРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, Гефсимания!</plain>
+            <plain>Рћ, Р“РµС„СЃРёРјР°РЅРёСЏ!</plain>
         </string>
         <string>
-            <plain>Там в предсмертный час</plain>
+            <plain>РўР°Рј РІ РїСЂРµРґСЃРјРµСЂС‚РЅС‹Р№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>плачет наш Спаситель,</plain>
+            <plain>РїР»Р°С‡РµС‚ РЅР°С€ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>плачет Божий Сын о нас.</plain>
+            <plain>РїР»Р°С‡РµС‚ Р‘РѕР¶РёР№ РЎС‹РЅ Рѕ РЅР°СЃ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В божественное взглянь лицо:</plain>
+            <plain>Р’ Р±РѕР¶РµСЃС‚РІРµРЅРЅРѕРµ РІР·РіР»СЏРЅСЊ Р»РёС†Рѕ:</plain>
         </string>
         <string>
-            <plain>вот, Он в борении,</plain>
+            <plain>РІРѕС‚, РћРЅ РІ Р±РѕСЂРµРЅРёРё,</plain>
         </string>
         <string>
-            <plain>как кровь стекает пот Его</plain>
+            <plain>РєР°Рє РєСЂРѕРІСЊ СЃС‚РµРєР°РµС‚ РїРѕС‚ Р•РіРѕ</plain>
         </string>
         <string>
-            <plain>там, в Гефсимании.</plain>
+            <plain>С‚Р°Рј, РІ Р“РµС„СЃРёРјР°РЅРёРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Грехи взял мира на Себя</plain>
+            <plain>Р“СЂРµС…Рё РІР·СЏР» РјРёСЂР° РЅР° РЎРµР±СЏ</plain>
         </string>
         <string>
-            <plain>Он в сострадании</plain>
+            <plain>РћРЅ РІ СЃРѕСЃС‚СЂР°РґР°РЅРёРё</plain>
         </string>
         <string>
-            <plain>и на колени Он упал</plain>
+            <plain>Рё РЅР° РєРѕР»РµРЅРё РћРЅ СѓРїР°Р»</plain>
         </string>
         <string>
-            <plain>там, в Гефсимании.</plain>
+            <plain>С‚Р°Рј, РІ Р“РµС„СЃРёРјР°РЅРёРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Скорбя душой, молил Отца,</plain>
+            <plain>РЎРєРѕСЂР±СЏ РґСѓС€РѕР№, РјРѕР»РёР» РћС‚С†Р°,</plain>
         </string>
         <string>
-            <plain>борясь в страдании.</plain>
+            <plain>Р±РѕСЂСЏСЃСЊ РІ СЃС‚СЂР°РґР°РЅРёРё.</plain>
         </string>
         <string>
-            <plain>Как чашу эту Мне испить?</plain>
+            <plain>РљР°Рє С‡Р°С€Сѓ СЌС‚Сѓ РњРЅРµ РёСЃРїРёС‚СЊ?</plain>
         </string>
         <string>
-            <plain>- там, в Гефсимании.</plain>
+            <plain>- С‚Р°Рј, РІ Р“РµС„СЃРёРјР°РЅРёРё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>«Да будет воля, Бог, Твоя!»</plain>
+            <plain>В«Р”Р° Р±СѓРґРµС‚ РІРѕР»СЏ, Р‘РѕРі, РўРІРѕСЏ!В»</plain>
         </string>
         <string>
-            <plain>- Он звал в смирении.</plain>
+            <plain>- РћРЅ Р·РІР°Р» РІ СЃРјРёСЂРµРЅРёРё.</plain>
         </string>
         <string>
-            <plain>Страдал Он, грешник, за тебя</plain>
+            <plain>РЎС‚СЂР°РґР°Р» РћРЅ, РіСЂРµС€РЅРёРє, Р·Р° С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>там, в Гефсимании.</plain>
+            <plain>С‚Р°Рј, РІ Р“РµС„СЃРёРјР°РЅРёРё.</plain>
         </string>
     </verse>
 </psalm>

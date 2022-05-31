@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="220" name="Я не стыжуся возвещать" canon="false" text="" textRus="" music="">
+<psalm number="220" name="РЇ РЅРµ СЃС‚С‹Р¶СѓСЃСЏ РІРѕР·РІРµС‰Р°С‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я не стыжуся возвещать</plain>
+            <plain>РЇ РЅРµ СЃС‚С‹Р¶СѓСЃСЏ РІРѕР·РІРµС‰Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Умершего Христа,</plain>
+            <plain>РЈРјРµСЂС€РµРіРѕ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Его веленья защищать</plain>
+            <plain>Р•РіРѕ РІРµР»РµРЅСЊСЏ Р·Р°С‰РёС‰Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И мощь Его креста.</plain>
+            <plain>Р РјРѕС‰СЊ Р•РіРѕ РєСЂРµСЃС‚Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Близ Христа, близ Христа я душой оживел,</plain>
+            <plain>Р‘Р»РёР· РҐСЂРёСЃС‚Р°, Р±Р»РёР· РҐСЂРёСЃС‚Р° СЏ РґСѓС€РѕР№ РѕР¶РёРІРµР»,</plain>
         </string>
         <string>
-            <plain>Близ Христа навек от тьмы прозрел,</plain>
+            <plain>Р‘Р»РёР· РҐСЂРёСЃС‚Р° РЅР°РІРµРє РѕС‚ С‚СЊРјС‹ РїСЂРѕР·СЂРµР»,</plain>
         </string>
         <string>
-            <plain>Близ Него спасенья свет увидал</plain>
+            <plain>Р‘Р»РёР· РќРµРіРѕ СЃРїР°СЃРµРЅСЊСЏ СЃРІРµС‚ СѓРІРёРґР°Р»</plain>
         </string>
         <string>
-            <plain>И ныне навек я счастлив стал.</plain>
+            <plain>Р РЅС‹РЅРµ РЅР°РІРµРє СЏ СЃС‡Р°СЃС‚Р»РёРІ СЃС‚Р°Р».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я не стыжусь провозглашать</plain>
+            <plain>РЇ РЅРµ СЃС‚С‹Р¶СѓСЃСЊ РїСЂРѕРІРѕР·РіР»Р°С€Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>В Нем Бога Самого,</plain>
+            <plain>Р’ РќРµРј Р‘РѕРіР° РЎР°РјРѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>Кто спас меня, дал благодать</plain>
+            <plain>РљС‚Рѕ СЃРїР°СЃ РјРµРЅСЏ, РґР°Р» Р±Р»Р°РіРѕРґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И Духа Своего.</plain>
+            <plain>Р Р”СѓС…Р° РЎРІРѕРµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я в мире не стыжусь носить</plain>
+            <plain>РЇ РІ РјРёСЂРµ РЅРµ СЃС‚С‹Р¶СѓСЃСЊ РЅРѕСЃРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Бесчестье за Него;</plain>
+            <plain>Р‘РµСЃС‡РµСЃС‚СЊРµ Р·Р° РќРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>Моля незнающих простить,</plain>
+            <plain>РњРѕР»СЏ РЅРµР·РЅР°СЋС‰РёС… РїСЂРѕСЃС‚РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Я рад кресту Его.</plain>
+            <plain>РЇ СЂР°Рґ РєСЂРµСЃС‚Сѓ Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Не даст Он постыдиться мне</plain>
+            <plain>РќРµ РґР°СЃС‚ РћРЅ РїРѕСЃС‚С‹РґРёС‚СЊСЃСЏ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>В надежде на Него,</plain>
+            <plain>Р’ РЅР°РґРµР¶РґРµ РЅР° РќРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>И не оставит на земле</plain>
+            <plain>Р РЅРµ РѕСЃС‚Р°РІРёС‚ РЅР° Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>Меня Он одного.</plain>
+            <plain>РњРµРЅСЏ РћРЅ РѕРґРЅРѕРіРѕ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Во всем, что мне Он обещал.</plain>
+            <plain>Р’Рѕ РІСЃРµРј, С‡С‚Рѕ РјРЅРµ РћРЅ РѕР±РµС‰Р°Р».</plain>
         </string>
         <string>
-            <plain>Он тверже, чем кремень,</plain>
+            <plain>РћРЅ С‚РІРµСЂР¶Рµ, С‡РµРј РєСЂРµРјРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Он сбережет по славный день.</plain>
+            <plain>РћРЅ СЃР±РµСЂРµР¶РµС‚ РїРѕ СЃР»Р°РІРЅС‹Р№ РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Что я Ему отдал.</plain>
+            <plain>Р§С‚Рѕ СЏ Р•РјСѓ РѕС‚РґР°Р».</plain>
         </string>
     </verse>
 </psalm>

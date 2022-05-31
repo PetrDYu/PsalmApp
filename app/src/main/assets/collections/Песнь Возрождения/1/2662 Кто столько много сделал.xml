@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2662" name="Кто столько много сделал" canon="false" text="" textRus="" music="">
+<psalm number="2662" name="РљС‚Рѕ СЃС‚РѕР»СЊРєРѕ РјРЅРѕРіРѕ СЃРґРµР»Р°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Кто столько много сделал,</plain>
+            <plain>РљС‚Рѕ СЃС‚РѕР»СЊРєРѕ РјРЅРѕРіРѕ СЃРґРµР»Р°Р»,</plain>
         </string>
         <string>
-            <plain>Кто тихо-тихо пел,</plain>
+            <plain>РљС‚Рѕ С‚РёС…Рѕ-С‚РёС…Рѕ РїРµР»,</plain>
         </string>
         <string>
-            <plain>Страданье, горе, беды</plain>
+            <plain>РЎС‚СЂР°РґР°РЅСЊРµ, РіРѕСЂРµ, Р±РµРґС‹</plain>
         </string>
         <string>
-            <plain>С любовью кто терпел?</plain>
+            <plain>РЎ Р»СЋР±РѕРІСЊСЋ РєС‚Рѕ С‚РµСЂРїРµР»?</plain>
         </string>
         <string>
-            <plain>Лишь ты, родная мама,</plain>
+            <plain>Р›РёС€СЊ С‚С‹, СЂРѕРґРЅР°СЏ РјР°РјР°,</plain>
         </string>
         <string>
-            <plain>Одна могла так жить,</plain>
+            <plain>РћРґРЅР° РјРѕРіР»Р° С‚Р°Рє Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Для Божьей вечной славы</plain>
+            <plain>Р”Р»СЏ Р‘РѕР¶СЊРµР№ РІРµС‡РЅРѕР№ СЃР»Р°РІС‹</plain>
         </string>
         <string>
-            <plain>Всех деток возрастать.</plain>
+            <plain>Р’СЃРµС… РґРµС‚РѕРє РІРѕР·СЂР°СЃС‚Р°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, мамочка, о, мамочка,</plain>
+            <plain>Рћ, РјР°РјРѕС‡РєР°, Рѕ, РјР°РјРѕС‡РєР°,</plain>
         </string>
         <string>
-            <plain>Пусть Бог тебе за все воздаст,</plain>
+            <plain>РџСѓСЃС‚СЊ Р‘РѕРі С‚РµР±Рµ Р·Р° РІСЃРµ РІРѕР·РґР°СЃС‚,</plain>
         </string>
         <string>
-            <plain>Пусть там, в краю небесном,</plain>
+            <plain>РџСѓСЃС‚СЊ С‚Р°Рј, РІ РєСЂР°СЋ РЅРµР±РµСЃРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>Венец тебе даст золотой.</plain>
+            <plain>Р’РµРЅРµС† С‚РµР±Рµ РґР°СЃС‚ Р·РѕР»РѕС‚РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В скорбях, лишеньях тяжких</plain>
+            <plain>Р’ СЃРєРѕСЂР±СЏС…, Р»РёС€РµРЅСЊСЏС… С‚СЏР¶РєРёС…</plain>
         </string>
         <string>
-            <plain>Могла ты устоять.</plain>
+            <plain>РњРѕРіР»Р° С‚С‹ СѓСЃС‚РѕСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>И показала нам ты,</plain>
+            <plain>Р РїРѕРєР°Р·Р°Р»Р° РЅР°Рј С‚С‹,</plain>
         </string>
         <string>
-            <plain>Как нужно путь свершать.</plain>
+            <plain>РљР°Рє РЅСѓР¶РЅРѕ РїСѓС‚СЊ СЃРІРµСЂС€Р°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>В болезнях кто помог нам</plain>
+            <plain>Р’ Р±РѕР»РµР·РЅСЏС… РєС‚Рѕ РїРѕРјРѕРі РЅР°Рј</plain>
         </string>
         <string>
-            <plain>С слезами на глазах</plain>
+            <plain>РЎ СЃР»РµР·Р°РјРё РЅР° РіР»Р°Р·Р°С…</plain>
         </string>
         <string>
-            <plain>В молитве к Богу славы,</plain>
+            <plain>Р’ РјРѕР»РёС‚РІРµ Рє Р‘РѕРіСѓ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Чтоб Он внимал словам?</plain>
+            <plain>Р§С‚РѕР± РћРЅ РІРЅРёРјР°Р» СЃР»РѕРІР°Рј?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И чем же заслужили</plain>
+            <plain>Р С‡РµРј Р¶Рµ Р·Р°СЃР»СѓР¶РёР»Рё</plain>
         </string>
         <string>
-            <plain>Любви твоей такой,</plain>
+            <plain>Р›СЋР±РІРё С‚РІРѕРµР№ С‚Р°РєРѕР№,</plain>
         </string>
         <string>
-            <plain>И как нам жить придется</plain>
+            <plain>Р РєР°Рє РЅР°Рј Р¶РёС‚СЊ РїСЂРёРґРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Без мамочки родной?</plain>
+            <plain>Р‘РµР· РјР°РјРѕС‡РєРё СЂРѕРґРЅРѕР№?</plain>
         </string>
         <string>
-            <plain>Прости нам, дорогая,</plain>
+            <plain>РџСЂРѕСЃС‚Рё РЅР°Рј, РґРѕСЂРѕРіР°СЏ,</plain>
         </string>
         <string>
-            <plain>Что огорчали мы,</plain>
+            <plain>Р§С‚Рѕ РѕРіРѕСЂС‡Р°Р»Рё РјС‹,</plain>
         </string>
         <string>
-            <plain>И верь, мы не забудем</plain>
+            <plain>Р РІРµСЂСЊ, РјС‹ РЅРµ Р·Р°Р±СѓРґРµРј</plain>
         </string>
         <string>
-            <plain>Тебя все жизни дни.</plain>
+            <plain>РўРµР±СЏ РІСЃРµ Р¶РёР·РЅРё РґРЅРё.</plain>
         </string>
     </verse>
 </psalm>

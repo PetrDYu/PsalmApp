@@ -1,104 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3144" name="Слышу я призыв Иисуса" canon="false" text="" textRus="" music="">
+<psalm number="3144" name="РЎР»С‹С€Сѓ СЏ РїСЂРёР·С‹РІ РРёСЃСѓСЃР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слышу я призыв Иисуса,</plain>
+            <plain>РЎР»С‹С€Сѓ СЏ РїСЂРёР·С‹РІ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>слышу я призыв Иисуса</plain>
+            <plain>СЃР»С‹С€Сѓ СЏ РїСЂРёР·С‹РІ РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>от престола благодати:</plain>
+            <plain>РѕС‚ РїСЂРµСЃС‚РѕР»Р° Р±Р»Р°РіРѕРґР°С‚Рё:</plain>
         </string>
         <string>
-            <plain>«Крест возьми свой,</plain>
+            <plain>В«РљСЂРµСЃС‚ РІРѕР·СЊРјРё СЃРІРѕР№,</plain>
         </string>
         <string>
-            <plain>следуй ты за Мной»</plain>
+            <plain>СЃР»РµРґСѓР№ С‚С‹ Р·Р° РњРЅРѕР№В»</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я иду, куда ведёт Он,</plain>
+            <plain>РЇ РёРґСѓ, РєСѓРґР° РІРµРґС‘С‚ РћРЅ,</plain>
         </string>
         <string>
-            <plain>Я иду, куда ведёт Он,</plain>
+            <plain>РЇ РёРґСѓ, РєСѓРґР° РІРµРґС‘С‚ РћРЅ,</plain>
         </string>
         <string>
-            <plain>Я иду, куда ведёт Он,</plain>
+            <plain>РЇ РёРґСѓ, РєСѓРґР° РІРµРґС‘С‚ РћРЅ,</plain>
         </string>
         <string>
-            <plain>- с Ним иду я всюду и везде.</plain>
+            <plain>- СЃ РќРёРј РёРґСѓ СЏ РІСЃСЋРґСѓ Рё РІРµР·РґРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я иду с Ним чрез долину,</plain>
+            <plain>РЇ РёРґСѓ СЃ РќРёРј С‡СЂРµР· РґРѕР»РёРЅСѓ,</plain>
         </string>
         <string>
-            <plain>я иду с Ним чрез долину,</plain>
+            <plain>СЏ РёРґСѓ СЃ РќРёРј С‡СЂРµР· РґРѕР»РёРЅСѓ,</plain>
         </string>
         <string>
-            <plain>через смертную долину,</plain>
+            <plain>С‡РµСЂРµР· СЃРјРµСЂС‚РЅСѓСЋ РґРѕР»РёРЅСѓ,</plain>
         </string>
         <string>
-            <plain>- с Ним иду я всюду и везде.</plain>
+            <plain>- СЃ РќРёРј РёРґСѓ СЏ РІСЃСЋРґСѓ Рё РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>С Ним чрез сад скорбей иду я,</plain>
+            <plain>РЎ РќРёРј С‡СЂРµР· СЃР°Рґ СЃРєРѕСЂР±РµР№ РёРґСѓ СЏ,</plain>
         </string>
         <string>
-            <plain>с Ним чрез сад скорбей иду я,</plain>
+            <plain>СЃ РќРёРј С‡СЂРµР· СЃР°Рґ СЃРєРѕСЂР±РµР№ РёРґСѓ СЏ,</plain>
         </string>
         <string>
-            <plain>в Гефсиманский сад иду я</plain>
+            <plain>РІ Р“РµС„СЃРёРјР°РЅСЃРєРёР№ СЃР°Рґ РёРґСѓ СЏ</plain>
         </string>
         <string>
-            <plain>- с Ним иду я всюду и везде.</plain>
+            <plain>- СЃ РќРёРј РёРґСѓ СЏ РІСЃСЋРґСѓ Рё РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>С Ним иду я чрез страданья,</plain>
+            <plain>РЎ РќРёРј РёРґСѓ СЏ С‡СЂРµР· СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>с Ним иду я чрез страданья,</plain>
+            <plain>СЃ РќРёРј РёРґСѓ СЏ С‡СЂРµР· СЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>чрез разлуки и рыданья</plain>
+            <plain>С‡СЂРµР· СЂР°Р·Р»СѓРєРё Рё СЂС‹РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>- с Ним иду я всюду и везде.</plain>
+            <plain>- СЃ РќРёРј РёРґСѓ СЏ РІСЃСЋРґСѓ Рё РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>С Ним иду на суд без страха,</plain>
+            <plain>РЎ РќРёРј РёРґСѓ РЅР° СЃСѓРґ Р±РµР· СЃС‚СЂР°С…Р°,</plain>
         </string>
         <string>
-            <plain>с Ним иду на суд без страха,</plain>
+            <plain>СЃ РќРёРј РёРґСѓ РЅР° СЃСѓРґ Р±РµР· СЃС‚СЂР°С…Р°,</plain>
         </string>
         <string>
-            <plain>на великий суд без страха</plain>
+            <plain>РЅР° РІРµР»РёРєРёР№ СЃСѓРґ Р±РµР· СЃС‚СЂР°С…Р°</plain>
         </string>
         <string>
-            <plain>- с Ним иду я всюду и везде.</plain>
+            <plain>- СЃ РќРёРј РёРґСѓ СЏ РІСЃСЋРґСѓ Рё РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>С Ним иду я к Богу в небо,</plain>
+            <plain>РЎ РќРёРј РёРґСѓ СЏ Рє Р‘РѕРіСѓ РІ РЅРµР±Рѕ,</plain>
         </string>
         <string>
-            <plain>с Ним иду я к Богу в небо,</plain>
+            <plain>СЃ РќРёРј РёРґСѓ СЏ Рє Р‘РѕРіСѓ РІ РЅРµР±Рѕ,</plain>
         </string>
         <string>
-            <plain>в чудное, святое небо</plain>
+            <plain>РІ С‡СѓРґРЅРѕРµ, СЃРІСЏС‚РѕРµ РЅРµР±Рѕ</plain>
         </string>
         <string>
-            <plain>- с Ним иду я всюду и везде.</plain>
+            <plain>- СЃ РќРёРј РёРґСѓ СЏ РІСЃСЋРґСѓ Рё РІРµР·РґРµ.</plain>
         </string>
     </verse>
 </psalm>

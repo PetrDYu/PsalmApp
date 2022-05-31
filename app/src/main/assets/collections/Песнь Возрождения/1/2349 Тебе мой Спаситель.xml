@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2349" name="Тебе мой Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="2349" name="РўРµР±Рµ РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тебе, мой Спаситель,</plain>
+            <plain>РўРµР±Рµ, РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>мой Царь и мой Бог,</plain>
+            <plain>РјРѕР№ Р¦Р°СЂСЊ Рё РјРѕР№ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Хвалу приношу свою,</plain>
+            <plain>РҐРІР°Р»Сѓ РїСЂРёРЅРѕС€Сѓ СЃРІРѕСЋ,</plain>
         </string>
         <string>
-            <plain>за то, что Ты кровь</plain>
+            <plain>Р·Р° С‚Рѕ, С‡С‚Рѕ РўС‹ РєСЂРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>Проливал на Кресте,</plain>
+            <plain>РџСЂРѕР»РёРІР°Р» РЅР° РљСЂРµСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Тебя я благодарю.</plain>
+            <plain>РўРµР±СЏ СЏ Р±Р»Р°РіРѕРґР°СЂСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Боже, услышь молитву мою,</plain>
+            <plain>Р‘РѕР¶Рµ, СѓСЃР»С‹С€СЊ РјРѕР»РёС‚РІСѓ РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>В горе и счастье к Тебе прихожу.</plain>
+            <plain>Р’ РіРѕСЂРµ Рё СЃС‡Р°СЃС‚СЊРµ Рє РўРµР±Рµ РїСЂРёС…РѕР¶Сѓ.</plain>
         </string>
         <string>
-            <plain>Знаю, поможешь Ты в трудный час</plain>
+            <plain>Р—РЅР°СЋ, РїРѕРјРѕР¶РµС€СЊ РўС‹ РІ С‚СЂСѓРґРЅС‹Р№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>И дашь покой в родных небесах.</plain>
+            <plain>Р РґР°С€СЊ РїРѕРєРѕР№ РІ СЂРѕРґРЅС‹С… РЅРµР±РµСЃР°С….</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пусть вся земля и все люди на ней</plain>
+            <plain>РџСѓСЃС‚СЊ РІСЃСЏ Р·РµРјР»СЏ Рё РІСЃРµ Р»СЋРґРё РЅР° РЅРµР№</plain>
         </string>
         <string>
-            <plain>Славят Тебя везде пеньем,</plain>
+            <plain>РЎР»Р°РІСЏС‚ РўРµР±СЏ РІРµР·РґРµ РїРµРЅСЊРµРј,</plain>
         </string>
         <string>
-            <plain>радостью, счастьем в душе,</plain>
+            <plain>СЂР°РґРѕСЃС‚СЊСЋ, СЃС‡Р°СЃС‚СЊРµРј РІ РґСѓС€Рµ,</plain>
         </string>
         <string>
-            <plain>Путь направляя к Тебе.</plain>
+            <plain>РџСѓС‚СЊ РЅР°РїСЂР°РІР»СЏСЏ Рє РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Честь и хвала, аллилуйя вовек,</plain>
+            <plain>Р§РµСЃС‚СЊ Рё С…РІР°Р»Р°, Р°Р»Р»РёР»СѓР№СЏ РІРѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>Будем Тебе мы петь,</plain>
+            <plain>Р‘СѓРґРµРј РўРµР±Рµ РјС‹ РїРµС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Ты любишь кротко и нежно всех,</plain>
+            <plain>РўС‹ Р»СЋР±РёС€СЊ РєСЂРѕС‚РєРѕ Рё РЅРµР¶РЅРѕ РІСЃРµС…,</plain>
         </string>
         <string>
-            <plain>Слава Тебе вовек.</plain>
+            <plain>РЎР»Р°РІР° РўРµР±Рµ РІРѕРІРµРє.</plain>
         </string>
     </verse>
 </psalm>

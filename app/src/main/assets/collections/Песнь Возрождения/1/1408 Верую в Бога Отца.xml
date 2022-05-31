@@ -1,96 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1408" name="Верую в Бога Отца" canon="false" text="" textRus="" music="">
+<psalm number="1408" name="Р’РµСЂСѓСЋ РІ Р‘РѕРіР° РћС‚С†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Верую в Бога Отца,</plain>
+            <plain>Р’РµСЂСѓСЋ РІ Р‘РѕРіР° РћС‚С†Р°,</plain>
         </string>
         <string>
-            <plain>Всемогущего Творца неба и земли;</plain>
+            <plain>Р’СЃРµРјРѕРіСѓС‰РµРіРѕ РўРІРѕСЂС†Р° РЅРµР±Р° Рё Р·РµРјР»Рё;</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Верую в Иисуса Христа,</plain>
+            <plain>Р’РµСЂСѓСЋ РІ РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Единородного Сына Божия,</plain>
+            <plain>Р•РґРёРЅРѕСЂРѕРґРЅРѕРіРѕ РЎС‹РЅР° Р‘РѕР¶РёСЏ,</plain>
         </string>
         <string>
-            <plain>Господа нашего;</plain>
+            <plain>Р“РѕСЃРїРѕРґР° РЅР°С€РµРіРѕ;</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Который зачат от</plain>
+            <plain>РљРѕС‚РѕСЂС‹Р№ Р·Р°С‡Р°С‚ РѕС‚</plain>
         </string>
         <string>
-            <plain>Святого Духа, который</plain>
+            <plain>РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р°, РєРѕС‚РѕСЂС‹Р№</plain>
         </string>
         <string>
-            <plain>рождён от Девы Марии;</plain>
+            <plain>СЂРѕР¶РґС‘РЅ РѕС‚ Р”РµРІС‹ РњР°СЂРёРё;</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Который пострадал</plain>
+            <plain>РљРѕС‚РѕСЂС‹Р№ РїРѕСЃС‚СЂР°РґР°Р»</plain>
         </string>
         <string>
-            <plain>при Понтии Пилате,</plain>
+            <plain>РїСЂРё РџРѕРЅС‚РёРё РџРёР»Р°С‚Рµ,</plain>
         </string>
         <string>
-            <plain>был распят, умер и погребён;</plain>
+            <plain>Р±С‹Р» СЂР°СЃРїСЏС‚, СѓРјРµСЂ Рё РїРѕРіСЂРµР±С‘РЅ;</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Сошел в ад, в третий день воскрес из мёртвых;</plain>
+            <plain>РЎРѕС€РµР» РІ Р°Рґ, РІ С‚СЂРµС‚РёР№ РґРµРЅСЊ РІРѕСЃРєСЂРµСЃ РёР· РјС‘СЂС‚РІС‹С…;</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Вознесся на небеса, где</plain>
+            <plain>Р’РѕР·РЅРµСЃСЃСЏ РЅР° РЅРµР±РµСЃР°, РіРґРµ</plain>
         </string>
         <string>
-            <plain>Он сидит одесную Бога,</plain>
+            <plain>РћРЅ СЃРёРґРёС‚ РѕРґРµСЃРЅСѓСЋ Р‘РѕРіР°,</plain>
         </string>
         <string>
-            <plain>Своего Всемогущего Отца;</plain>
+            <plain>РЎРІРѕРµРіРѕ Р’СЃРµРјРѕРіСѓС‰РµРіРѕ РћС‚С†Р°;</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Откуда придёт судить живых и мёртвых;</plain>
+            <plain>РћС‚РєСѓРґР° РїСЂРёРґС‘С‚ СЃСѓРґРёС‚СЊ Р¶РёРІС‹С… Рё РјС‘СЂС‚РІС‹С…;</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Верую в Святого Духа;</plain>
+            <plain>Р’РµСЂСѓСЋ РІ РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р°;</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>В единую, святую, христианскую</plain>
+            <plain>Р’ РµРґРёРЅСѓСЋ, СЃРІСЏС‚СѓСЋ, С…СЂРёСЃС‚РёР°РЅСЃРєСѓСЋ</plain>
         </string>
         <string>
-            <plain>Церковь и в общение святых;</plain>
+            <plain>Р¦РµСЂРєРѕРІСЊ Рё РІ РѕР±С‰РµРЅРёРµ СЃРІСЏС‚С‹С…;</plain>
         </string>
     </verse>
     <verse number="10">
         <string>
-            <plain>В прощение грехов;</plain>
+            <plain>Р’ РїСЂРѕС‰РµРЅРёРµ РіСЂРµС…РѕРІ;</plain>
         </string>
     </verse>
     <verse number="11">
         <string>
-            <plain>В воскресение тела;</plain>
+            <plain>Р’ РІРѕСЃРєСЂРµСЃРµРЅРёРµ С‚РµР»Р°;</plain>
         </string>
     </verse>
     <verse number="12">
         <string>
-            <plain>И в жизнь вечную.</plain>
+            <plain>Р РІ Р¶РёР·РЅСЊ РІРµС‡РЅСѓСЋ.</plain>
         </string>
         <string>
-            <plain>Аминь.</plain>
+            <plain>РђРјРёРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1298" name="Господи Тебя хочу я славить" canon="false" text="" textRus="" music="">
+<psalm number="1298" name="Р“РѕСЃРїРѕРґРё РўРµР±СЏ С…РѕС‡Сѓ СЏ СЃР»Р°РІРёС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господи, Тебя хочу я славить</plain>
+            <plain>Р“РѕСЃРїРѕРґРё, РўРµР±СЏ С…РѕС‡Сѓ СЏ СЃР»Р°РІРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И Тебя благодарить.</plain>
+            <plain>Р РўРµР±СЏ Р±Р»Р°РіРѕРґР°СЂРёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Только Ты один - моя надежда.</plain>
+            <plain>РўРѕР»СЊРєРѕ РўС‹ РѕРґРёРЅ - РјРѕСЏ РЅР°РґРµР¶РґР°.</plain>
         </string>
         <string>
-            <plain>Буду я Тебе служить.</plain>
+            <plain>Р‘СѓРґСѓ СЏ РўРµР±Рµ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пою Тебе я "Аллилуйя",</plain>
+            <plain>РџРѕСЋ РўРµР±Рµ СЏ "РђР»Р»РёР»СѓР№СЏ",</plain>
         </string>
         <string>
-            <plain>Пою Тебе я одному,</plain>
+            <plain>РџРѕСЋ РўРµР±Рµ СЏ РѕРґРЅРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>За то, что Ты страдал невинно,</plain>
+            <plain>Р—Р° С‚Рѕ, С‡С‚Рѕ РўС‹ СЃС‚СЂР°РґР°Р» РЅРµРІРёРЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Создатель, я Тебя люблю.</plain>
+            <plain>РЎРѕР·РґР°С‚РµР»СЊ, СЏ РўРµР±СЏ Р»СЋР±Р»СЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Но когда в дороге спотыкаюсь.</plain>
+            <plain>РќРѕ РєРѕРіРґР° РІ РґРѕСЂРѕРіРµ СЃРїРѕС‚С‹РєР°СЋСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Вижу руку помощи Твою,</plain>
+            <plain>Р’РёР¶Сѓ СЂСѓРєСѓ РїРѕРјРѕС‰Рё РўРІРѕСЋ,</plain>
         </string>
         <string>
-            <plain>И тогда с мольбой я обращаюсь</plain>
+            <plain>Р С‚РѕРіРґР° СЃ РјРѕР»СЊР±РѕР№ СЏ РѕР±СЂР°С‰Р°СЋСЃСЊ</plain>
         </string>
         <string>
-            <plain>И за все благодарю.</plain>
+            <plain>Р Р·Р° РІСЃРµ Р±Р»Р°РіРѕРґР°СЂСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Господи, откройся, кто не знает,</plain>
+            <plain>Р“РѕСЃРїРѕРґРё, РѕС‚РєСЂРѕР№СЃСЏ, РєС‚Рѕ РЅРµ Р·РЅР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Как Ты благ и милостив ко всем,</plain>
+            <plain>РљР°Рє РўС‹ Р±Р»Р°Рі Рё РјРёР»РѕСЃС‚РёРІ РєРѕ РІСЃРµРј,</plain>
         </string>
         <string>
-            <plain>Ты в одно мгновение прощаешь</plain>
+            <plain>РўС‹ РІ РѕРґРЅРѕ РјРіРЅРѕРІРµРЅРёРµ РїСЂРѕС‰Р°РµС€СЊ</plain>
         </string>
         <string>
-            <plain>И даруешь в сердце свет.</plain>
+            <plain>Р РґР°СЂСѓРµС€СЊ РІ СЃРµСЂРґС†Рµ СЃРІРµС‚.</plain>
         </string>
     </verse>
 </psalm>

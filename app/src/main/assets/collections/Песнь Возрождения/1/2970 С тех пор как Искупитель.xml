@@ -1,94 +1,94 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2970" name="С тех пор как Искупитель" canon="false" text="" textRus="" music="">
+<psalm number="2970" name="РЎ С‚РµС… РїРѕСЂ РєР°Рє РСЃРєСѓРїРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С тех пор, как Искупитель</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє РСЃРєСѓРїРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>в жизнь вошел мою,</plain>
+            <plain>РІ Р¶РёР·РЅСЊ РІРѕС€РµР» РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>радостно песнь хвалы</plain>
+            <plain>СЂР°РґРѕСЃС‚РЅРѕ РїРµСЃРЅСЊ С…РІР°Р»С‹</plain>
         </string>
         <string>
-            <plain>я каждый день пою.</plain>
+            <plain>СЏ РєР°Р¶РґС‹Р№ РґРµРЅСЊ РїРѕСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пойте радостные песни,</plain>
+            <plain>РџРѕР№С‚Рµ СЂР°РґРѕСЃС‚РЅС‹Рµ РїРµСЃРЅРё,</plain>
         </string>
         <string>
-            <plain>что Он так нес возлюбил!</plain>
+            <plain>С‡С‚Рѕ РћРЅ С‚Р°Рє РЅРµСЃ РІРѕР·Р»СЋР±РёР»!</plain>
         </string>
         <string>
-            <plain>Вдаль и ввысь пускай несется</plain>
+            <plain>Р’РґР°Р»СЊ Рё РІРІС‹СЃСЊ РїСѓСЃРєР°Р№ РЅРµСЃРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>эта песнь, что я пою:</plain>
+            <plain>СЌС‚Р° РїРµСЃРЅСЊ, С‡С‚Рѕ СЏ РїРѕСЋ:</plain>
         </string>
         <string>
-            <plain>пусть звучит,</plain>
+            <plain>РїСѓСЃС‚СЊ Р·РІСѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>пусть звучит,</plain>
+            <plain>РїСѓСЃС‚СЊ Р·РІСѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>до трона долетит!</plain>
+            <plain>РґРѕ С‚СЂРѕРЅР° РґРѕР»РµС‚РёС‚!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Петь о Христе</plain>
+            <plain>РџРµС‚СЊ Рѕ РҐСЂРёСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>хочу я и Его любви,</plain>
+            <plain>С…РѕС‡Сѓ СЏ Рё Р•РіРѕ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>что Он являет</plain>
+            <plain>С‡С‚Рѕ РћРЅ СЏРІР»СЏРµС‚</plain>
         </string>
         <string>
-            <plain>щедро на моем пути.</plain>
+            <plain>С‰РµРґСЂРѕ РЅР° РјРѕРµРј РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>3Петь о Христе люблю я,</plain>
+            <plain>3РџРµС‚СЊ Рѕ РҐСЂРёСЃС‚Рµ Р»СЋР±Р»СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>ведь меня Он спас,</plain>
+            <plain>РІРµРґСЊ РјРµРЅСЏ РћРЅ СЃРїР°СЃ,</plain>
         </string>
         <string>
-            <plain>сладостный мир дарует</plain>
+            <plain>СЃР»Р°РґРѕСЃС‚РЅС‹Р№ РјРёСЂ РґР°СЂСѓРµС‚</plain>
         </string>
         <string>
-            <plain>мне во всякий час.</plain>
+            <plain>РјРЅРµ РІРѕ РІСЃСЏРєРёР№ С‡Р°СЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>С тех пор, как Он</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє РћРЅ</plain>
         </string>
         <string>
-            <plain>очистил, освятил меня,</plain>
+            <plain>РѕС‡РёСЃС‚РёР», РѕСЃРІСЏС‚РёР» РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>радостными устами</plain>
+            <plain>СЂР°РґРѕСЃС‚РЅС‹РјРё СѓСЃС‚Р°РјРё</plain>
         </string>
         <string>
-            <plain>Бога славлю я.</plain>
+            <plain>Р‘РѕРіР° СЃР»Р°РІР»СЋ СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Все, кто спасен,</plain>
+            <plain>Р’СЃРµ, РєС‚Рѕ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>воспойте Господу хвалу,</plain>
+            <plain>РІРѕСЃРїРѕР№С‚Рµ Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Сѓ,</plain>
         </string>
         <string>
-            <plain>с ангельским хором</plain>
+            <plain>СЃ Р°РЅРіРµР»СЊСЃРєРёРј С…РѕСЂРѕРј</plain>
         </string>
         <string>
-            <plain>вместе пойте все Ему!</plain>
+            <plain>РІРјРµСЃС‚Рµ РїРѕР№С‚Рµ РІСЃРµ Р•РјСѓ!</plain>
         </string>
     </verse>
 </psalm>

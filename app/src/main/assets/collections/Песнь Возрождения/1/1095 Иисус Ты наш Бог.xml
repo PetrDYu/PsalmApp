@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1095" name="Иисус Ты наш Бог" canon="false" text="" textRus="" music="">
+<psalm number="1095" name="РРёСЃСѓСЃ РўС‹ РЅР°С€ Р‘РѕРі" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисус, Ты наш Бог!</plain>
+            <plain>РРёСЃСѓСЃ, РўС‹ РЅР°С€ Р‘РѕРі!</plain>
         </string>
         <string>
-            <plain>Иисус, Ты наш Царь!</plain>
+            <plain>РРёСЃСѓСЃ, РўС‹ РЅР°С€ Р¦Р°СЂСЊ!</plain>
         </string>
         <string>
-            <plain>Будь превознесен</plain>
+            <plain>Р‘СѓРґСЊ РїСЂРµРІРѕР·РЅРµСЃРµРЅ</plain>
         </string>
         <string>
-            <plain>И прославлен.</plain>
+            <plain>Р РїСЂРѕСЃР»Р°РІР»РµРЅ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Вместе мы Тебе сердце отдаём,</plain>
+            <plain>Р’РјРµСЃС‚Рµ РјС‹ РўРµР±Рµ СЃРµСЂРґС†Рµ РѕС‚РґР°С‘Рј,</plain>
         </string>
         <string>
-            <plain>Господу, сидящему на троне.</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ, СЃРёРґСЏС‰РµРјСѓ РЅР° С‚СЂРѕРЅРµ.</plain>
         </string>
         <string>
-            <plain>Хвала, величье и власть</plain>
+            <plain>РҐРІР°Р»Р°, РІРµР»РёС‡СЊРµ Рё РІР»Р°СЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>На небе и на земле!</plain>
+            <plain>РќР° РЅРµР±Рµ Рё РЅР° Р·РµРјР»Рµ!</plain>
         </string>
     </verse>
 </psalm>

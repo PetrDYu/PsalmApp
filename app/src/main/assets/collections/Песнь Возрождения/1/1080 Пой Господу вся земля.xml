@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1080" name="Пой Господу вся земля" canon="false" text="" textRus="" music="">
+<psalm number="1080" name="РџРѕР№ Р“РѕСЃРїРѕРґСѓ РІСЃСЏ Р·РµРјР»СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пой Господу, вся земля!</plain>
+            <plain>РџРѕР№ Р“РѕСЃРїРѕРґСѓ, РІСЃСЏ Р·РµРјР»СЏ!</plain>
         </string>
         <string>
-            <plain>О спасеньи Его говори!</plain>
+            <plain>Рћ СЃРїР°СЃРµРЅСЊРё Р•РіРѕ РіРѕРІРѕСЂРё!</plain>
         </string>
         <string>
-            <plain>Его чудеса и слава</plain>
+            <plain>Р•РіРѕ С‡СѓРґРµСЃР° Рё СЃР»Р°РІР°</plain>
         </string>
         <string>
-            <plain>Возвещаются по всей земле.</plain>
+            <plain>Р’РѕР·РІРµС‰Р°СЋС‚СЃСЏ РїРѕ РІСЃРµР№ Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Господь велик</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РІРµР»РёРє</plain>
         </string>
         <string>
-            <plain>Силой и могуществом.</plain>
+            <plain>РЎРёР»РѕР№ Рё РјРѕРіСѓС‰РµСЃС‚РІРѕРј.</plain>
         </string>
         <string>
-            <plain>Ликуй, ликуй!</plain>
+            <plain>Р›РёРєСѓР№, Р»РёРєСѓР№!</plain>
         </string>
         <string>
-            <plain>Ибо Господь царствует!</plain>
+            <plain>РР±Рѕ Р“РѕСЃРїРѕРґСЊ С†Р°СЂСЃС‚РІСѓРµС‚!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Будем праздновать день спасения</plain>
+            <plain>Р‘СѓРґРµРј РїСЂР°Р·РґРЅРѕРІР°С‚СЊ РґРµРЅСЊ СЃРїР°СЃРµРЅРёСЏ</plain>
         </string>
         <string>
-            <plain>С новой песней на устах!</plain>
+            <plain>РЎ РЅРѕРІРѕР№ РїРµСЃРЅРµР№ РЅР° СѓСЃС‚Р°С…!</plain>
         </string>
         <string>
-            <plain>Бог нас воскресил,</plain>
+            <plain>Р‘РѕРі РЅР°СЃ РІРѕСЃРєСЂРµСЃРёР»,</plain>
         </string>
         <string>
-            <plain>Бог нас посадил</plain>
+            <plain>Р‘РѕРі РЅР°СЃ РїРѕСЃР°РґРёР»</plain>
         </string>
         <string>
-            <plain>Во Христе на небесах.</plain>
+            <plain>Р’Рѕ РҐСЂРёСЃС‚Рµ РЅР° РЅРµР±РµСЃР°С….</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Будем славить</plain>
+            <plain>Р‘СѓРґРµРј СЃР»Р°РІРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Господа в наших сердцах!</plain>
+            <plain>Р“РѕСЃРїРѕРґР° РІ РЅР°С€РёС… СЃРµСЂРґС†Р°С…!</plain>
         </string>
         <string>
-            <plain>Будем славить</plain>
+            <plain>Р‘СѓРґРµРј СЃР»Р°РІРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>С новой песней на устах!</plain>
+            <plain>РЎ РЅРѕРІРѕР№ РїРµСЃРЅРµР№ РЅР° СѓСЃС‚Р°С…!</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
     </verse>
 </psalm>

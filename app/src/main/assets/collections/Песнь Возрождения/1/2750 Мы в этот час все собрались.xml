@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2750" name="Мы в этот час все собрались" canon="false" text="" textRus="" music="">
+<psalm number="2750" name="РњС‹ РІ СЌС‚РѕС‚ С‡Р°СЃ РІСЃРµ СЃРѕР±СЂР°Р»РёСЃСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы в этот час все собрались,</plain>
+            <plain>РњС‹ РІ СЌС‚РѕС‚ С‡Р°СЃ РІСЃРµ СЃРѕР±СЂР°Р»РёСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб воздать Богу славу, хвалу,</plain>
+            <plain>Р§С‚РѕР± РІРѕР·РґР°С‚СЊ Р‘РѕРіСѓ СЃР»Р°РІСѓ, С…РІР°Р»Сѓ,</plain>
         </string>
         <string>
-            <plain>Что хранил Он нас всех в этом мире,</plain>
+            <plain>Р§С‚Рѕ С…СЂР°РЅРёР» РћРЅ РЅР°СЃ РІСЃРµС… РІ СЌС‚РѕРј РјРёСЂРµ,</plain>
         </string>
         <string>
-            <plain>Даровал всем нам жизнь вечную.</plain>
+            <plain>Р”Р°СЂРѕРІР°Р» РІСЃРµРј РЅР°Рј Р¶РёР·РЅСЊ РІРµС‡РЅСѓСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пой, гитара, пой</plain>
+            <plain>РџРѕР№, РіРёС‚Р°СЂР°, РїРѕР№</plain>
         </string>
         <string>
-            <plain>О чудном творении Бога,</plain>
+            <plain>Рћ С‡СѓРґРЅРѕРј С‚РІРѕСЂРµРЅРёРё Р‘РѕРіР°,</plain>
         </string>
         <string>
-            <plain>Пой, гитара, пой</plain>
+            <plain>РџРѕР№, РіРёС‚Р°СЂР°, РїРѕР№</plain>
         </string>
         <string>
-            <plain>О дивном ученье Христа.</plain>
+            <plain>Рћ РґРёРІРЅРѕРј СѓС‡РµРЅСЊРµ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На струнных инструментах</plain>
+            <plain>РќР° СЃС‚СЂСѓРЅРЅС‹С… РёРЅСЃС‚СЂСѓРјРµРЅС‚Р°С…</plain>
         </string>
         <string>
-            <plain>Воздадим мы славу Тому,</plain>
+            <plain>Р’РѕР·РґР°РґРёРј РјС‹ СЃР»Р°РІСѓ РўРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Кто спасает нас в бедах, несчастьях,</plain>
+            <plain>РљС‚Рѕ СЃРїР°СЃР°РµС‚ РЅР°СЃ РІ Р±РµРґР°С…, РЅРµСЃС‡Р°СЃС‚СЊСЏС…,</plain>
         </string>
         <string>
-            <plain>Кто дает жизнь и радость всему.</plain>
+            <plain>РљС‚Рѕ РґР°РµС‚ Р¶РёР·РЅСЊ Рё СЂР°РґРѕСЃС‚СЊ РІСЃРµРјСѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О звучите, инструменты,</plain>
+            <plain>Рћ Р·РІСѓС‡РёС‚Рµ, РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹,</plain>
         </string>
         <string>
-            <plain>Прославляйте любовь Отца.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏР№С‚Рµ Р»СЋР±РѕРІСЊ РћС‚С†Р°.</plain>
         </string>
         <string>
-            <plain>Пойте громче, все братья и сестры,</plain>
+            <plain>РџРѕР№С‚Рµ РіСЂРѕРјС‡Рµ, РІСЃРµ Р±СЂР°С‚СЊСЏ Рё СЃРµСЃС‚СЂС‹,</plain>
         </string>
         <string>
-            <plain>Славьте имя Иисуса Христа!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ РёРјСЏ РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
 </psalm>

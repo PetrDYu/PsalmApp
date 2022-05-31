@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3084" name="Я знаю Тот кто за нас страдал" canon="false" text="" textRus="" music="">
+<psalm number="3084" name="РЇ Р·РЅР°СЋ РўРѕС‚ РєС‚Рѕ Р·Р° РЅР°СЃ СЃС‚СЂР°РґР°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я знаю: Тот, кто за нас страдал,</plain>
+            <plain>РЇ Р·РЅР°СЋ: РўРѕС‚, РєС‚Рѕ Р·Р° РЅР°СЃ СЃС‚СЂР°РґР°Р»,</plain>
         </string>
         <string>
-            <plain>нас может спасти навек.</plain>
+            <plain>РЅР°СЃ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
         <string>
-            <plain>Он смертью крестной спасенье дал,</plain>
+            <plain>РћРЅ СЃРјРµСЂС‚СЊСЋ РєСЂРµСЃС‚РЅРѕР№ СЃРїР°СЃРµРЅСЊРµ РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Он может спасти навек.</plain>
+            <plain>РћРЅ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Спасён, я спасён в Христе;</plain>
+            <plain>РЎРїР°СЃС‘РЅ, СЏ СЃРїР°СЃС‘РЅ РІ РҐСЂРёСЃС‚Рµ;</plain>
         </string>
         <string>
-            <plain>спасён, я спасён в Христе!</plain>
+            <plain>СЃРїР°СЃС‘РЅ, СЏ СЃРїР°СЃС‘РЅ РІ РҐСЂРёСЃС‚Рµ!</plain>
         </string>
         <string>
-            <plain>Моя слава, жизнь и честь во Христе</plain>
+            <plain>РњРѕСЏ СЃР»Р°РІР°, Р¶РёР·РЅСЊ Рё С‡РµСЃС‚СЊ РІРѕ РҐСЂРёСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>спаснье Он дал душе.</plain>
+            <plain>СЃРїР°СЃРЅСЊРµ РћРЅ РґР°Р» РґСѓС€Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Искал спасенье я от греха</plain>
+            <plain>РСЃРєР°Р» СЃРїР°СЃРµРЅСЊРµ СЏ РѕС‚ РіСЂРµС…Р°</plain>
         </string>
         <string>
-            <plain>- Он может спасти навек.</plain>
+            <plain>- РћРЅ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
         <string>
-            <plain>Я рад, теперь я - Его дитя.</plain>
+            <plain>РЇ СЂР°Рґ, С‚РµРїРµСЂСЊ СЏ - Р•РіРѕ РґРёС‚СЏ.</plain>
         </string>
         <string>
-            <plain>Он может спасти навек.</plain>
+            <plain>РћРЅ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Омыл Иисус всю вину мою</plain>
+            <plain>РћРјС‹Р» РРёСЃСѓСЃ РІСЃСЋ РІРёРЅСѓ РјРѕСЋ</plain>
         </string>
         <string>
-            <plain>- Он может спасти навек.</plain>
+            <plain>- РћРЅ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
         <string>
-            <plain>Теперь Ему я принадлежу</plain>
+            <plain>РўРµРїРµСЂСЊ Р•РјСѓ СЏ РїСЂРёРЅР°РґР»РµР¶Сѓ</plain>
         </string>
         <string>
-            <plain>- Он может спасти навек.</plain>
+            <plain>- РћРЅ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты гибнешь в море мирских забот!</plain>
+            <plain>РўС‹ РіРёР±РЅРµС€СЊ РІ РјРѕСЂРµ РјРёСЂСЃРєРёС… Р·Р°Р±РѕС‚!</plain>
         </string>
         <string>
-            <plain>- Он может спасти навек.</plain>
+            <plain>- РћРЅ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
         <string>
-            <plain>Ищи Его, Он тебя спасёт,</plain>
+            <plain>РС‰Рё Р•РіРѕ, РћРЅ С‚РµР±СЏ СЃРїР°СЃС‘С‚,</plain>
         </string>
         <string>
-            <plain>Он может спасти навек.</plain>
+            <plain>РћРЅ РјРѕР¶РµС‚ СЃРїР°СЃС‚Рё РЅР°РІРµРє.</plain>
         </string>
     </verse>
 </psalm>

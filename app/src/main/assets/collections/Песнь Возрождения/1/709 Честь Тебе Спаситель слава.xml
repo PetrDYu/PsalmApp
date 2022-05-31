@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="709" name="Честь Тебе Спаситель слава" canon="false" text="" textRus="" music="">
+<psalm number="709" name="Р§РµСЃС‚СЊ РўРµР±Рµ РЎРїР°СЃРёС‚РµР»СЊ СЃР»Р°РІР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Честь Тебе, Спаситель, слава,</plain>
+            <plain>Р§РµСЃС‚СЊ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ, СЃР»Р°РІР°,</plain>
         </string>
         <string>
-            <plain>Что Ты смертию Своей</plain>
+            <plain>Р§С‚Рѕ РўС‹ СЃРјРµСЂС‚РёСЋ РЎРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Дал мне радостное право</plain>
+            <plain>Р”Р°Р» РјРЅРµ СЂР°РґРѕСЃС‚РЅРѕРµ РїСЂР°РІРѕ</plain>
         </string>
         <string>
-            <plain>Быть средь Божиих детей.</plain>
+            <plain>Р‘С‹С‚СЊ СЃСЂРµРґСЊ Р‘РѕР¶РёРёС… РґРµС‚РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Честь Тебе, Спаситель, слава,</plain>
+            <plain>Р§РµСЃС‚СЊ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ, СЃР»Р°РІР°,</plain>
         </string>
         <string>
-            <plain>Что Ты смертию Своей</plain>
+            <plain>Р§С‚Рѕ РўС‹ СЃРјРµСЂС‚РёСЋ РЎРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Дал мне радостное право</plain>
+            <plain>Р”Р°Р» РјРЅРµ СЂР°РґРѕСЃС‚РЅРѕРµ РїСЂР°РІРѕ</plain>
         </string>
         <string>
-            <plain>Быть средь Божиих детей.</plain>
+            <plain>Р‘С‹С‚СЊ СЃСЂРµРґСЊ Р‘РѕР¶РёРёС… РґРµС‚РµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Долго я искал упорно</plain>
+            <plain>Р”РѕР»РіРѕ СЏ РёСЃРєР°Р» СѓРїРѕСЂРЅРѕ</plain>
         </string>
         <string>
-            <plain>Мир, о Боге позабыв;</plain>
+            <plain>РњРёСЂ, Рѕ Р‘РѕРіРµ РїРѕР·Р°Р±С‹РІ;</plain>
         </string>
         <string>
-            <plain>Лишь со дня, когда покорно</plain>
+            <plain>Р›РёС€СЊ СЃРѕ РґРЅСЏ, РєРѕРіРґР° РїРѕРєРѕСЂРЅРѕ</plain>
         </string>
         <string>
-            <plain>Я поверил, я счастлив.</plain>
+            <plain>РЇ РїРѕРІРµСЂРёР», СЏ СЃС‡Р°СЃС‚Р»РёРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И с тех пор я полагаю</plain>
+            <plain>Р СЃ С‚РµС… РїРѕСЂ СЏ РїРѕР»Р°РіР°СЋ</plain>
         </string>
         <string>
-            <plain>Всю надежду на Христа,</plain>
+            <plain>Р’СЃСЋ РЅР°РґРµР¶РґСѓ РЅР° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Вести радостной внимаю</plain>
+            <plain>Р’РµСЃС‚Рё СЂР°РґРѕСЃС‚РЅРѕР№ РІРЅРёРјР°СЋ</plain>
         </string>
         <string>
-            <plain>И несу во все места.</plain>
+            <plain>Р РЅРµСЃСѓ РІРѕ РІСЃРµ РјРµСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Твой, Спаситель, навсегда я,</plain>
+            <plain>РўРІРѕР№, РЎРїР°СЃРёС‚РµР»СЊ, РЅР°РІСЃРµРіРґР° СЏ,</plain>
         </string>
         <string>
-            <plain>Твой слуга, Твоя овца;</plain>
+            <plain>РўРІРѕР№ СЃР»СѓРіР°, РўРІРѕСЏ РѕРІС†Р°;</plain>
         </string>
         <string>
-            <plain>Твой, живя иль умирая,</plain>
+            <plain>РўРІРѕР№, Р¶РёРІСЏ РёР»СЊ СѓРјРёСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Твой я вечно, без конца.</plain>
+            <plain>РўРІРѕР№ СЏ РІРµС‡РЅРѕ, Р±РµР· РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты как Пастырь ежечасно</plain>
+            <plain>РўС‹ РєР°Рє РџР°СЃС‚С‹СЂСЊ РµР¶РµС‡Р°СЃРЅРѕ</plain>
         </string>
         <string>
-            <plain>Все ведешь меня вперед</plain>
+            <plain>Р’СЃРµ РІРµРґРµС€СЊ РјРµРЅСЏ РІРїРµСЂРµРґ</plain>
         </string>
         <string>
-            <plain>В царство милости всевластной,</plain>
+            <plain>Р’ С†Р°СЂСЃС‚РІРѕ РјРёР»РѕСЃС‚Рё РІСЃРµРІР»Р°СЃС‚РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>К жизни вечной, в мир красот.</plain>
+            <plain>Рљ Р¶РёР·РЅРё РІРµС‡РЅРѕР№, РІ РјРёСЂ РєСЂР°СЃРѕС‚.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Честь Тебе, Спаситель дивный,</plain>
+            <plain>Р§РµСЃС‚СЊ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ РґРёРІРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>За Твой подвиг на кресте</plain>
+            <plain>Р—Р° РўРІРѕР№ РїРѕРґРІРёРі РЅР° РєСЂРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>И за зов Твой непрерывный</plain>
+            <plain>Р Р·Р° Р·РѕРІ РўРІРѕР№ РЅРµРїСЂРµСЂС‹РІРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>К светлой, славной высоте.</plain>
+            <plain>Рљ СЃРІРµС‚Р»РѕР№, СЃР»Р°РІРЅРѕР№ РІС‹СЃРѕС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

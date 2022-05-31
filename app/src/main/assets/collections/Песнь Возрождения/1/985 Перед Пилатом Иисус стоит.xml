@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="985" name="Перед Пилатом Иисус стоит" canon="false" text="" textRus="" music="">
+<psalm number="985" name="РџРµСЂРµРґ РџРёР»Р°С‚РѕРј РРёСЃСѓСЃ СЃС‚РѕРёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Перед Пилатом Иисус стоит,</plain>
+            <plain>РџРµСЂРµРґ РџРёР»Р°С‚РѕРј РРёСЃСѓСЃ СЃС‚РѕРёС‚,</plain>
         </string>
         <string>
-            <plain>Всеми оставлен, презрен, избит.</plain>
+            <plain>Р’СЃРµРјРё РѕСЃС‚Р°РІР»РµРЅ, РїСЂРµР·СЂРµРЅ, РёР·Р±РёС‚.</plain>
         </string>
         <string>
-            <plain>Вдруг средь молчанья вопрос звучит:</plain>
+            <plain>Р’РґСЂСѓРі СЃСЂРµРґСЊ РјРѕР»С‡Р°РЅСЊСЏ РІРѕРїСЂРѕСЃ Р·РІСѓС‡РёС‚:</plain>
         </string>
         <string>
-            <plain>"Что сделаешь с Иисусом?"</plain>
+            <plain>"Р§С‚Рѕ СЃРґРµР»Р°РµС€СЊ СЃ РРёСЃСѓСЃРѕРј?"</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Припев</plain>
+            <plain>РџСЂРёРїРµРІ</plain>
         </string>
         <string>
-            <plain>Ныне решай, душа!</plain>
+            <plain>РќС‹РЅРµ СЂРµС€Р°Р№, РґСѓС€Р°!</plain>
         </string>
         <string>
-            <plain>Если Его ты отвергнешь</plain>
+            <plain>Р•СЃР»Рё Р•РіРѕ С‚С‹ РѕС‚РІРµСЂРіРЅРµС€СЊ</plain>
         </string>
         <string>
-            <plain>- Отвергнет Он тебя.</plain>
+            <plain>- РћС‚РІРµСЂРіРЅРµС‚ РћРЅ С‚РµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Если Его ты примешь</plain>
+            <plain>Р•СЃР»Рё Р•РіРѕ С‚С‹ РїСЂРёРјРµС€СЊ</plain>
         </string>
         <string>
-            <plain>- Примет и Он тебя.</plain>
+            <plain>- РџСЂРёРјРµС‚ Рё РћРЅ С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Судят Иисуса теперь еще.</plain>
+            <plain>РЎСѓРґСЏС‚ РРёСЃСѓСЃР° С‚РµРїРµСЂСЊ РµС‰Рµ.</plain>
         </string>
         <string>
-            <plain>Правду ли скажешь ты про Него?</plain>
+            <plain>РџСЂР°РІРґСѓ Р»Рё СЃРєР°Р¶РµС€СЊ С‚С‹ РїСЂРѕ РќРµРіРѕ?</plain>
         </string>
         <string>
-            <plain>Будешь ли ты защищать Его?</plain>
+            <plain>Р‘СѓРґРµС€СЊ Р»Рё С‚С‹ Р·Р°С‰РёС‰Р°С‚СЊ Р•РіРѕ?</plain>
         </string>
         <string>
-            <plain>Что сделаешь с Иисусом?</plain>
+            <plain>Р§С‚Рѕ СЃРґРµР»Р°РµС€СЊ СЃ РРёСЃСѓСЃРѕРј?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Или, как Петр, отречешься ты.</plain>
+            <plain>РР»Рё, РєР°Рє РџРµС‚СЂ, РѕС‚СЂРµС‡РµС€СЊСЃСЏ С‚С‹.</plain>
         </string>
         <string>
-            <plain>Бросив Его, лишь придут враги?</plain>
+            <plain>Р‘СЂРѕСЃРёРІ Р•РіРѕ, Р»РёС€СЊ РїСЂРёРґСѓС‚ РІСЂР°РіРё?</plain>
         </string>
         <string>
-            <plain>Иль ты готов с Ним на смерть идти?</plain>
+            <plain>РР»СЊ С‚С‹ РіРѕС‚РѕРІ СЃ РќРёРј РЅР° СЃРјРµСЂС‚СЊ РёРґС‚Рё?</plain>
         </string>
         <string>
-            <plain>Что сделаешь с Иисусом?</plain>
+            <plain>Р§С‚Рѕ СЃРґРµР»Р°РµС€СЊ СЃ РРёСЃСѓСЃРѕРј?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Господи, сердце мое возьми!</plain>
+            <plain>Р“РѕСЃРїРѕРґРё, СЃРµСЂРґС†Рµ РјРѕРµ РІРѕР·СЊРјРё!</plain>
         </string>
         <string>
-            <plain>Всюду хочу за Тобой идти!</plain>
+            <plain>Р’СЃСЋРґСѓ С…РѕС‡Сѓ Р·Р° РўРѕР±РѕР№ РёРґС‚Рё!</plain>
         </string>
         <string>
-            <plain>Так ли сегодня ответишь ты?</plain>
+            <plain>РўР°Рє Р»Рё СЃРµРіРѕРґРЅСЏ РѕС‚РІРµС‚РёС€СЊ С‚С‹?</plain>
         </string>
         <string>
-            <plain>Что сделаешь с Иисусом?</plain>
+            <plain>Р§С‚Рѕ СЃРґРµР»Р°РµС€СЊ СЃ РРёСЃСѓСЃРѕРј?</plain>
         </string>
     </verse>
 </psalm>

@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="805" name="Юность живая горячая" canon="false" text="" textRus="" music="">
+<psalm number="805" name="Р®РЅРѕСЃС‚СЊ Р¶РёРІР°СЏ РіРѕСЂСЏС‡Р°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Юность живая, горячая,</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ Р¶РёРІР°СЏ, РіРѕСЂСЏС‡Р°СЏ,</plain>
         </string>
         <string>
-            <plain>Счастлив твой век золотой!</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІ С‚РІРѕР№ РІРµРє Р·РѕР»РѕС‚РѕР№!</plain>
         </string>
         <string>
-            <plain>Юность чудесно могучая –</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ С‡СѓРґРµСЃРЅРѕ РјРѕРіСѓС‡Р°СЏ вЂ“</plain>
         </string>
         <string>
-            <plain>Жизни есть дар дорогой.</plain>
+            <plain>Р–РёР·РЅРё РµСЃС‚СЊ РґР°СЂ РґРѕСЂРѕРіРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Юность свою посвяти же Творцу,</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ СЃРІРѕСЋ РїРѕСЃРІСЏС‚Рё Р¶Рµ РўРІРѕСЂС†Сѓ,</plain>
         </string>
         <string>
-            <plain>Молодость жизни Иисусу Христу;</plain>
+            <plain>РњРѕР»РѕРґРѕСЃС‚СЊ Р¶РёР·РЅРё РРёСЃСѓСЃСѓ РҐСЂРёСЃС‚Сѓ;</plain>
         </string>
         <string>
-            <plain>Время и силы Ему посвяти,</plain>
+            <plain>Р’СЂРµРјСЏ Рё СЃРёР»С‹ Р•РјСѓ РїРѕСЃРІСЏС‚Рё,</plain>
         </string>
         <string>
-            <plain>В дело Христа свою жизнь преврати.</plain>
+            <plain>Р’ РґРµР»Рѕ РҐСЂРёСЃС‚Р° СЃРІРѕСЋ Р¶РёР·РЅСЊ РїСЂРµРІСЂР°С‚Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В целях стремленья фальшивого</plain>
+            <plain>Р’ С†РµР»СЏС… СЃС‚СЂРµРјР»РµРЅСЊСЏ С„Р°Р»СЊС€РёРІРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>Бойся растратить ее,</plain>
+            <plain>Р‘РѕР№СЃСЏ СЂР°СЃС‚СЂР°С‚РёС‚СЊ РµРµ,</plain>
         </string>
         <string>
-            <plain>Волю Творца милостивого</plain>
+            <plain>Р’РѕР»СЋ РўРІРѕСЂС†Р° РјРёР»РѕСЃС‚РёРІРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>Сердце да любит твое.</plain>
+            <plain>РЎРµСЂРґС†Рµ РґР° Р»СЋР±РёС‚ С‚РІРѕРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Духом Святого, Высокого</plain>
+            <plain>Р”СѓС…РѕРј РЎРІСЏС‚РѕРіРѕ, Р’С‹СЃРѕРєРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>Юность свою освящай,</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ СЃРІРѕСЋ РѕСЃРІСЏС‰Р°Р№,</plain>
         </string>
         <string>
-            <plain>Божьего мира глубоко</plain>
+            <plain>Р‘РѕР¶СЊРµРіРѕ РјРёСЂР° РіР»СѓР±РѕРєРѕ</plain>
         </string>
         <string>
-            <plain>В сердце своем не теряй.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ СЃРІРѕРµРј РЅРµ С‚РµСЂСЏР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Образ Иисуса воскресшего</plain>
+            <plain>РћР±СЂР°Р· РРёСЃСѓСЃР° РІРѕСЃРєСЂРµСЃС€РµРіРѕ</plain>
         </string>
         <string>
-            <plain>Вечно носи ты в себе,</plain>
+            <plain>Р’РµС‡РЅРѕ РЅРѕСЃРё С‚С‹ РІ СЃРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Славь, на Голгофе Умершего</plain>
+            <plain>РЎР»Р°РІСЊ, РЅР° Р“РѕР»РіРѕС„Рµ РЈРјРµСЂС€РµРіРѕ</plain>
         </string>
         <string>
-            <plain>В слове, работе, борьбе.</plain>
+            <plain>Р’ СЃР»РѕРІРµ, СЂР°Р±РѕС‚Рµ, Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Друга души величавого,</plain>
+            <plain>Р”СЂСѓРіР° РґСѓС€Рё РІРµР»РёС‡Р°РІРѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>Брат, непрестанно имей.</plain>
+            <plain>Р‘СЂР°С‚, РЅРµРїСЂРµСЃС‚Р°РЅРЅРѕ РёРјРµР№.</plain>
         </string>
         <string>
-            <plain>Божья учения здравого</plain>
+            <plain>Р‘РѕР¶СЊСЏ СѓС‡РµРЅРёСЏ Р·РґСЂР°РІРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>Крепко держись средь скорбей.</plain>
+            <plain>РљСЂРµРїРєРѕ РґРµСЂР¶РёСЃСЊ СЃСЂРµРґСЊ СЃРєРѕСЂР±РµР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>И результаты блаженные</plain>
+            <plain>Р СЂРµР·СѓР»СЊС‚Р°С‚С‹ Р±Р»Р°Р¶РµРЅРЅС‹Рµ</plain>
         </string>
         <string>
-            <plain>Ты непременно узришь,</plain>
+            <plain>РўС‹ РЅРµРїСЂРµРјРµРЅРЅРѕ СѓР·СЂРёС€СЊ,</plain>
         </string>
         <string>
-            <plain>Юности силы мгновенные</plain>
+            <plain>Р®РЅРѕСЃС‚Рё СЃРёР»С‹ РјРіРЅРѕРІРµРЅРЅС‹Рµ</plain>
         </string>
         <string>
-            <plain>В дело Христа превратишь.</plain>
+            <plain>Р’ РґРµР»Рѕ РҐСЂРёСЃС‚Р° РїСЂРµРІСЂР°С‚РёС€СЊ.</plain>
         </string>
     </verse>
 </psalm>

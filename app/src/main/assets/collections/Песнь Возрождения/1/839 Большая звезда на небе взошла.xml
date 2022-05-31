@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="839" name="Большая звезда на небе взошла" canon="false" text="" textRus="" music="">
+<psalm number="839" name="Р‘РѕР»СЊС€Р°СЏ Р·РІРµР·РґР° РЅР° РЅРµР±Рµ РІР·РѕС€Р»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Большая звезда на небе взошла</plain>
+            <plain>Р‘РѕР»СЊС€Р°СЏ Р·РІРµР·РґР° РЅР° РЅРµР±Рµ РІР·РѕС€Р»Р°</plain>
         </string>
         <string>
-            <plain>И радостный свет вокруг пролила.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚РЅС‹Р№ СЃРІРµС‚ РІРѕРєСЂСѓРі РїСЂРѕР»РёР»Р°.</plain>
         </string>
         <string>
-            <plain>Она мудрецов с востока вела</plain>
+            <plain>РћРЅР° РјСѓРґСЂРµС†РѕРІ СЃ РІРѕСЃС‚РѕРєР° РІРµР»Р°</plain>
         </string>
         <string>
-            <plain>И к яслям в Вифлеем привела.</plain>
+            <plain>Р Рє СЏСЃР»СЏРј РІ Р’РёС„Р»РµРµРј РїСЂРёРІРµР»Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>На небесах горит звезда!</plain>
+            <plain>РќР° РЅРµР±РµСЃР°С… РіРѕСЂРёС‚ Р·РІРµР·РґР°!</plain>
         </string>
         <string>
-            <plain>Она для всех там зажжена.</plain>
+            <plain>РћРЅР° РґР»СЏ РІСЃРµС… С‚Р°Рј Р·Р°Р¶Р¶РµРЅР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Поверили мудрецы в ту звезду</plain>
+            <plain>РџРѕРІРµСЂРёР»Рё РјСѓРґСЂРµС†С‹ РІ С‚Сѓ Р·РІРµР·РґСѓ</plain>
         </string>
         <string>
-            <plain>- Она приведет их ко Христу.</plain>
+            <plain>- РћРЅР° РїСЂРёРІРµРґРµС‚ РёС… РєРѕ РҐСЂРёСЃС‚Сѓ.</plain>
         </string>
         <string>
-            <plain>Она им видна издалека</plain>
+            <plain>РћРЅР° РёРј РІРёРґРЅР° РёР·РґР°Р»РµРєР°</plain>
         </string>
         <string>
-            <plain>- Христос их вечная звезда!</plain>
+            <plain>- РҐСЂРёСЃС‚РѕСЃ РёС… РІРµС‡РЅР°СЏ Р·РІРµР·РґР°!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пойдем за Христом, как шли мудрецы,</plain>
+            <plain>РџРѕР№РґРµРј Р·Р° РҐСЂРёСЃС‚РѕРј, РєР°Рє С€Р»Рё РјСѓРґСЂРµС†С‹,</plain>
         </string>
         <string>
-            <plain>В Небесный тот Свет, Господь, нас веди.</plain>
+            <plain>Р’ РќРµР±РµСЃРЅС‹Р№ С‚РѕС‚ РЎРІРµС‚, Р“РѕСЃРїРѕРґСЊ, РЅР°СЃ РІРµРґРё.</plain>
         </string>
         <string>
-            <plain>Веди нас из тьмы прямым путем</plain>
+            <plain>Р’РµРґРё РЅР°СЃ РёР· С‚СЊРјС‹ РїСЂСЏРјС‹Рј РїСѓС‚РµРј</plain>
         </string>
         <string>
-            <plain>В тот чудный край, в Отцовский дом.</plain>
+            <plain>Р’ С‚РѕС‚ С‡СѓРґРЅС‹Р№ РєСЂР°Р№, РІ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј.</plain>
         </string>
     </verse>
 </psalm>

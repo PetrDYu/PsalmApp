@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1325" name="О мой Бог и упованье" canon="false" text="" textRus="" music="">
+<psalm number="1325" name="Рћ РјРѕР№ Р‘РѕРі Рё СѓРїРѕРІР°РЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, мой Бог и упованье!</plain>
+            <plain>Рћ, РјРѕР№ Р‘РѕРі Рё СѓРїРѕРІР°РЅСЊРµ!</plain>
         </string>
         <string>
-            <plain>Не оставь меня, молю,</plain>
+            <plain>РќРµ РѕСЃС‚Р°РІСЊ РјРµРЅСЏ, РјРѕР»СЋ,</plain>
         </string>
         <string>
-            <plain>Озари Своим сиянием</plain>
+            <plain>РћР·Р°СЂРё РЎРІРѕРёРј СЃРёСЏРЅРёРµРј</plain>
         </string>
         <string>
-            <plain>Душу грешную мою.</plain>
+            <plain>Р”СѓС€Сѓ РіСЂРµС€РЅСѓСЋ РјРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Дай мне сердце безмятежное,</plain>
+            <plain>Р”Р°Р№ РјРЅРµ СЃРµСЂРґС†Рµ Р±РµР·РјСЏС‚РµР¶РЅРѕРµ,</plain>
         </string>
         <string>
-            <plain>Чтоб Тобой было полно.</plain>
+            <plain>Р§С‚РѕР± РўРѕР±РѕР№ Р±С‹Р»Рѕ РїРѕР»РЅРѕ.</plain>
         </string>
         <string>
-            <plain>Как Твоя снежинка нежная.</plain>
+            <plain>РљР°Рє РўРІРѕСЏ СЃРЅРµР¶РёРЅРєР° РЅРµР¶РЅР°СЏ.</plain>
         </string>
         <string>
-            <plain>Чисто было бы оно.</plain>
+            <plain>Р§РёСЃС‚Рѕ Р±С‹Р»Рѕ Р±С‹ РѕРЅРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чтоб Твои законы вечные</plain>
+            <plain>Р§С‚РѕР± РўРІРѕРё Р·Р°РєРѕРЅС‹ РІРµС‡РЅС‹Рµ</plain>
         </string>
         <string>
-            <plain>Мог на нем Ты начертать,</plain>
+            <plain>РњРѕРі РЅР° РЅРµРј РўС‹ РЅР°С‡РµСЂС‚Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб святая, бесконечная</plain>
+            <plain>Р§С‚РѕР± СЃРІСЏС‚Р°СЏ, Р±РµСЃРєРѕРЅРµС‡РЅР°СЏ</plain>
         </string>
         <string>
-            <plain>В нем сияла благодать.</plain>
+            <plain>Р’ РЅРµРј СЃРёСЏР»Р° Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

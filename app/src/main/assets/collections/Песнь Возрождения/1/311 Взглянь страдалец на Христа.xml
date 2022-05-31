@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="311" name="Взглянь страдалец на Христа" canon="false" text="" textRus="" music="">
+<psalm number="311" name="Р’Р·РіР»СЏРЅСЊ СЃС‚СЂР°РґР°Р»РµС† РЅР° РҐСЂРёСЃС‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Взглянь, страдалец, на Христа,</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, СЃС‚СЂР°РґР°Р»РµС†, РЅР° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>Кто спасает мир с креста,</plain>
+            <plain>РљС‚Рѕ СЃРїР°СЃР°РµС‚ РјРёСЂ СЃ РєСЂРµСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>Он на древо вознесен.</plain>
+            <plain>РћРЅ РЅР° РґСЂРµРІРѕ РІРѕР·РЅРµСЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>"На Меня взглянь!" - Молвит Он.</plain>
+            <plain>"РќР° РњРµРЅСЏ РІР·РіР»СЏРЅСЊ!" - РњРѕР»РІРёС‚ РћРЅ.</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Взглянь! Господь твой вознесен.</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ! Р“РѕСЃРїРѕРґСЊ С‚РІРѕР№ РІРѕР·РЅРµСЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Посмотри! Все ж близок Он.</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё! Р’СЃРµ Р¶ Р±Р»РёР·РѕРє РћРЅ.</plain>
         </string>
         <string>
-            <plain>Взглянь, живи, не умирай,</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё, РЅРµ СѓРјРёСЂР°Р№,</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хоть ты нищ, грехом покрыт,</plain>
+            <plain>РҐРѕС‚СЊ С‚С‹ РЅРёС‰, РіСЂРµС…РѕРј РїРѕРєСЂС‹С‚,</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>Взглянь, отбросив страх и стыд;</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, РѕС‚Р±СЂРѕСЃРёРІ СЃС‚СЂР°С… Рё СЃС‚С‹Рґ;</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>Всяк, кто был грехом пленен,</plain>
+            <plain>Р’СЃСЏРє, РєС‚Рѕ Р±С‹Р» РіСЂРµС…РѕРј РїР»РµРЅРµРЅ,</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>На Меня взглянь, будь спасен!</plain>
+            <plain>РќР° РњРµРЅСЏ РІР·РіР»СЏРЅСЊ, Р±СѓРґСЊ СЃРїР°СЃРµРЅ!</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хоть блуждал ты долго, друг,</plain>
+            <plain>РҐРѕС‚СЊ Р±Р»СѓР¶РґР°Р» С‚С‹ РґРѕР»РіРѕ, РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>Не мертви свой слабый дух,</plain>
+            <plain>РќРµ РјРµСЂС‚РІРё СЃРІРѕР№ СЃР»Р°Р±С‹Р№ РґСѓС…,</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>Всех Отец домой зовет;</plain>
+            <plain>Р’СЃРµС… РћС‚РµС† РґРѕРјРѕР№ Р·РѕРІРµС‚;</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
         <string>
-            <plain>Кто бы ни был, пусть придет!</plain>
+            <plain>РљС‚Рѕ Р±С‹ РЅРё Р±С‹Р», РїСѓСЃС‚СЊ РїСЂРёРґРµС‚!</plain>
         </string>
         <string>
-            <plain>Взглянь, живи!</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ, Р¶РёРІРё!</plain>
         </string>
     </verse>
 </psalm>

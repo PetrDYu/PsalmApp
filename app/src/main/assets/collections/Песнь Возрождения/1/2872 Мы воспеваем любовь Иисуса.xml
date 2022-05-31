@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2872" name="Мы воспеваем любовь Иисуса" canon="false" text="" textRus="" music="">
+<psalm number="2872" name="РњС‹ РІРѕСЃРїРµРІР°РµРј Р»СЋР±РѕРІСЊ РРёСЃСѓСЃР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы воспеваем любовь Иисуса,</plain>
+            <plain>РњС‹ РІРѕСЃРїРµРІР°РµРј Р»СЋР±РѕРІСЊ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>поём сегодня про благодать.</plain>
+            <plain>РїРѕС‘Рј СЃРµРіРѕРґРЅСЏ РїСЂРѕ Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Господь нас спас всех чрез Свою милость</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РЅР°СЃ СЃРїР°СЃ РІСЃРµС… С‡СЂРµР· РЎРІРѕСЋ РјРёР»РѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>и хочет радость Свою нам дать.</plain>
+            <plain>Рё С…РѕС‡РµС‚ СЂР°РґРѕСЃС‚СЊ РЎРІРѕСЋ РЅР°Рј РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Себя найти дал,</plain>
+            <plain>РЎРµР±СЏ РЅР°Р№С‚Рё РґР°Р»,</plain>
         </string>
         <string>
-            <plain>простил грехи нам,</plain>
+            <plain>РїСЂРѕСЃС‚РёР» РіСЂРµС…Рё РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Он освятил нас,</plain>
+            <plain>РћРЅ РѕСЃРІСЏС‚РёР» РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>покой нам дал.</plain>
+            <plain>РїРѕРєРѕР№ РЅР°Рј РґР°Р».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Живём сегодня мы в полном мире,</plain>
+            <plain>Р–РёРІС‘Рј СЃРµРіРѕРґРЅСЏ РјС‹ РІ РїРѕР»РЅРѕРј РјРёСЂРµ,</plain>
         </string>
         <string>
-            <plain>что миру этому незнаком.</plain>
+            <plain>С‡С‚Рѕ РјРёСЂСѓ СЌС‚РѕРјСѓ РЅРµР·РЅР°РєРѕРј.</plain>
         </string>
         <string>
-            <plain>Ничто не может нас огорчить здесь,</plain>
+            <plain>РќРёС‡С‚Рѕ РЅРµ РјРѕР¶РµС‚ РЅР°СЃ РѕРіРѕСЂС‡РёС‚СЊ Р·РґРµСЃСЊ,</plain>
         </string>
         <string>
-            <plain>всё совершенно и чудно в Нём.</plain>
+            <plain>РІСЃС‘ СЃРѕРІРµСЂС€РµРЅРЅРѕ Рё С‡СѓРґРЅРѕ РІ РќС‘Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Уж много лет, как Ему мы служим,</plain>
+            <plain>РЈР¶ РјРЅРѕРіРѕ Р»РµС‚, РєР°Рє Р•РјСѓ РјС‹ СЃР»СѓР¶РёРј,</plain>
         </string>
         <string>
-            <plain>в Нём наше сердце нашло покой.</plain>
+            <plain>РІ РќС‘Рј РЅР°С€Рµ СЃРµСЂРґС†Рµ РЅР°С€Р»Рѕ РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>И впредь мы верим: Он не покинет</plain>
+            <plain>Р РІРїСЂРµРґСЊ РјС‹ РІРµСЂРёРј: РћРЅ РЅРµ РїРѕРєРёРЅРµС‚</plain>
         </string>
         <string>
-            <plain>и сохранит нас Своей рукой.</plain>
+            <plain>Рё СЃРѕС…СЂР°РЅРёС‚ РЅР°СЃ РЎРІРѕРµР№ СЂСѓРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Любовь Иисуса мы прославляем</plain>
+            <plain>Р›СЋР±РѕРІСЊ РРёСЃСѓСЃР° РјС‹ РїСЂРѕСЃР»Р°РІР»СЏРµРј</plain>
         </string>
         <string>
-            <plain>и хвалим Бога в словах, делах.</plain>
+            <plain>Рё С…РІР°Р»РёРј Р‘РѕРіР° РІ СЃР»РѕРІР°С…, РґРµР»Р°С….</plain>
         </string>
         <string>
-            <plain>Ему здесь жизнь всю мы посвящаем,</plain>
+            <plain>Р•РјСѓ Р·РґРµСЃСЊ Р¶РёР·РЅСЊ РІСЃСЋ РјС‹ РїРѕСЃРІСЏС‰Р°РµРј,</plain>
         </string>
         <string>
-            <plain>хотим верным быть во всех путях.</plain>
+            <plain>С…РѕС‚РёРј РІРµСЂРЅС‹Рј Р±С‹С‚СЊ РІРѕ РІСЃРµС… РїСѓС‚СЏС….</plain>
         </string>
     </verse>
 </psalm>

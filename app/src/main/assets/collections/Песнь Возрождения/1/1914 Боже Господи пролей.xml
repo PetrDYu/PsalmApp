@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1914" name="Боже Господи пролей" canon="false" text="" textRus="" music="">
+<psalm number="1914" name="Р‘РѕР¶Рµ Р“РѕСЃРїРѕРґРё РїСЂРѕР»РµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, Господи, пролей</plain>
+            <plain>Р‘РѕР¶Рµ, Р“РѕСЃРїРѕРґРё, РїСЂРѕР»РµР№</plain>
         </string>
         <string>
-            <plain>В сердце мир любви Твоей.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РјРёСЂ Р»СЋР±РІРё РўРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Путнику пошли покой,</plain>
+            <plain>РџСѓС‚РЅРёРєСѓ РїРѕС€Р»Рё РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Дай бальзам душе больной.</plain>
+            <plain>Р”Р°Р№ Р±Р°Р»СЊР·Р°Рј РґСѓС€Рµ Р±РѕР»СЊРЅРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Звезды с небес сияют,</plain>
+            <plain>Р—РІРµР·РґС‹ СЃ РЅРµР±РµСЃ СЃРёСЏСЋС‚,</plain>
         </string>
         <string>
-            <plain>К выси нас призывают;</plain>
+            <plain>Рљ РІС‹СЃРё РЅР°СЃ РїСЂРёР·С‹РІР°СЋС‚;</plain>
         </string>
         <string>
-            <plain>Счастье сердцам, принятым</plain>
+            <plain>РЎС‡Р°СЃС‚СЊРµ СЃРµСЂРґС†Р°Рј, РїСЂРёРЅСЏС‚С‹Рј</plain>
         </string>
         <string>
-            <plain>в вечность Христом.</plain>
+            <plain>РІ РІРµС‡РЅРѕСЃС‚СЊ РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Звуки арфы там звучат,</plain>
+            <plain>Р—РІСѓРєРё Р°СЂС„С‹ С‚Р°Рј Р·РІСѓС‡Р°С‚,</plain>
         </string>
         <string>
-            <plain>Льется в них струя отрад;</plain>
+            <plain>Р›СЊРµС‚СЃСЏ РІ РЅРёС… СЃС‚СЂСѓСЏ РѕС‚СЂР°Рґ;</plain>
         </string>
         <string>
-            <plain>Льется радость с высоты,</plain>
+            <plain>Р›СЊРµС‚СЃСЏ СЂР°РґРѕСЃС‚СЊ СЃ РІС‹СЃРѕС‚С‹,</plain>
         </string>
         <string>
-            <plain>Как из моря полноты.</plain>
+            <plain>РљР°Рє РёР· РјРѕСЂСЏ РїРѕР»РЅРѕС‚С‹.</plain>
         </string>
     </verse>
 </psalm>

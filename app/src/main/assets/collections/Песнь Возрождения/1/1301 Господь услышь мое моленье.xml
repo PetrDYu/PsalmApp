@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1301" name="Господь услышь мое моленье" canon="false" text="" textRus="" music="">
+<psalm number="1301" name="Р“РѕСЃРїРѕРґСЊ СѓСЃР»С‹С€СЊ РјРѕРµ РјРѕР»РµРЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господь, услышь мое моленье!</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, СѓСЃР»С‹С€СЊ РјРѕРµ РјРѕР»РµРЅСЊРµ!</plain>
         </string>
         <string>
-            <plain>К Тебе, к Тебе мой дух зовет,</plain>
+            <plain>Рљ РўРµР±Рµ, Рє РўРµР±Рµ РјРѕР№ РґСѓС… Р·РѕРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Прими мой плач и сокрушенье,</plain>
+            <plain>РџСЂРёРјРё РјРѕР№ РїР»Р°С‡ Рё СЃРѕРєСЂСѓС€РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Склонись на скорбь мою с высот.</plain>
+            <plain>РЎРєР»РѕРЅРёСЃСЊ РЅР° СЃРєРѕСЂР±СЊ РјРѕСЋ СЃ РІС‹СЃРѕС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Моя молитва да стремится.</plain>
+            <plain>РњРѕСЏ РјРѕР»РёС‚РІР° РґР° СЃС‚СЂРµРјРёС‚СЃСЏ.</plain>
         </string>
         <string>
-            <plain>Как фимиам от алтаря,</plain>
+            <plain>РљР°Рє С„РёРјРёР°Рј РѕС‚ Р°Р»С‚Р°СЂСЏ,</plain>
         </string>
         <string>
-            <plain>И жертва сердца воскурится.</plain>
+            <plain>Р Р¶РµСЂС‚РІР° СЃРµСЂРґС†Р° РІРѕСЃРєСѓСЂРёС‚СЃСЏ.</plain>
         </string>
         <string>
-            <plain>Огнем любви к Тебе горя.</plain>
+            <plain>РћРіРЅРµРј Р»СЋР±РІРё Рє РўРµР±Рµ РіРѕСЂСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Тебя я. Боже, умоляю:</plain>
+            <plain>РўРµР±СЏ СЏ. Р‘РѕР¶Рµ, СѓРјРѕР»СЏСЋ:</plain>
         </string>
         <string>
-            <plain>Прости, что согрешил Твой раб,</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С‡С‚Рѕ СЃРѕРіСЂРµС€РёР» РўРІРѕР№ СЂР°Р±,</plain>
         </string>
         <string>
-            <plain>Я на Тебя лишь уповаю,</plain>
+            <plain>РЇ РЅР° РўРµР±СЏ Р»РёС€СЊ СѓРїРѕРІР°СЋ,</plain>
         </string>
         <string>
-            <plain>Дай силу мне, ведь я так слаб.</plain>
+            <plain>Р”Р°Р№ СЃРёР»Сѓ РјРЅРµ, РІРµРґСЊ СЏ С‚Р°Рє СЃР»Р°Р±.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Пусть стрелы зла душе скорбящей</plain>
+            <plain>РџСѓСЃС‚СЊ СЃС‚СЂРµР»С‹ Р·Р»Р° РґСѓС€Рµ СЃРєРѕСЂР±СЏС‰РµР№</plain>
         </string>
         <string>
-            <plain>Смертельных ран не нанесут.</plain>
+            <plain>РЎРјРµСЂС‚РµР»СЊРЅС‹С… СЂР°РЅ РЅРµ РЅР°РЅРµСЃСѓС‚.</plain>
         </string>
         <string>
-            <plain>Пусть сети тьмы, кругом царящей.</plain>
+            <plain>РџСѓСЃС‚СЊ СЃРµС‚Рё С‚СЊРјС‹, РєСЂСѓРіРѕРј С†Р°СЂСЏС‰РµР№.</plain>
         </string>
         <string>
-            <plain>Меня с пути не отвлекут.</plain>
+            <plain>РњРµРЅСЏ СЃ РїСѓС‚Рё РЅРµ РѕС‚РІР»РµРєСѓС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты, Боже, дал Твои законы,</plain>
+            <plain>РўС‹, Р‘РѕР¶Рµ, РґР°Р» РўРІРѕРё Р·Р°РєРѕРЅС‹,</plain>
         </string>
         <string>
-            <plain>Чтоб ими жил я и дышал,</plain>
+            <plain>Р§С‚РѕР± РёРјРё Р¶РёР» СЏ Рё РґС‹С€Р°Р»,</plain>
         </string>
         <string>
-            <plain>Чтоб ими в правде утвержденный,</plain>
+            <plain>Р§С‚РѕР± РёРјРё РІ РїСЂР°РІРґРµ СѓС‚РІРµСЂР¶РґРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Я все нападки отражал.</plain>
+            <plain>РЇ РІСЃРµ РЅР°РїР°РґРєРё РѕС‚СЂР°Р¶Р°Р».</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>О, укрепи меня. Спаситель,</plain>
+            <plain>Рћ, СѓРєСЂРµРїРё РјРµРЅСЏ. РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>В законе истины сильней.</plain>
+            <plain>Р’ Р·Р°РєРѕРЅРµ РёСЃС‚РёРЅС‹ СЃРёР»СЊРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Мой Бог, моих путей Правитель,</plain>
+            <plain>РњРѕР№ Р‘РѕРі, РјРѕРёС… РїСѓС‚РµР№ РџСЂР°РІРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Внемли словам души моей!</plain>
+            <plain>Р’РЅРµРјР»Рё СЃР»РѕРІР°Рј РґСѓС€Рё РјРѕРµР№!</plain>
         </string>
     </verse>
 </psalm>

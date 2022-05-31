@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="336" name="О если б ты узнал" canon="false" text="" textRus="" music="">
+<psalm number="336" name="Рћ РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, если б ты узнал,</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»,</plain>
         </string>
         <string>
-            <plain>Хотя бы в этот день,</plain>
+            <plain>РҐРѕС‚СЏ Р±С‹ РІ СЌС‚РѕС‚ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Что в слепоте избрал</plain>
+            <plain>Р§С‚Рѕ РІ СЃР»РµРїРѕС‚Рµ РёР·Р±СЂР°Р»</plain>
         </string>
         <string>
-            <plain>Ты вместо света - тень!</plain>
+            <plain>РўС‹ РІРјРµСЃС‚Рѕ СЃРІРµС‚Р° - С‚РµРЅСЊ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, если б ты узнал,</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»,</plain>
         </string>
         <string>
-            <plain>Хотя бы в этот день,</plain>
+            <plain>РҐРѕС‚СЏ Р±С‹ РІ СЌС‚РѕС‚ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Что служит к миру твоему!</plain>
+            <plain>Р§С‚Рѕ СЃР»СѓР¶РёС‚ Рє РјРёСЂСѓ С‚РІРѕРµРјСѓ!</plain>
         </string>
         <string>
-            <plain>Что служит к миру твоему!</plain>
+            <plain>Р§С‚Рѕ СЃР»СѓР¶РёС‚ Рє РјРёСЂСѓ С‚РІРѕРµРјСѓ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, если б ты узнал,</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»,</plain>
         </string>
         <string>
-            <plain>Что ты идешь тропой,</plain>
+            <plain>Р§С‚Рѕ С‚С‹ РёРґРµС€СЊ С‚СЂРѕРїРѕР№,</plain>
         </string>
         <string>
-            <plain>Ведущей к бездне скал</plain>
+            <plain>Р’РµРґСѓС‰РµР№ Рє Р±РµР·РґРЅРµ СЃРєР°Р»</plain>
         </string>
         <string>
-            <plain>И к смерти роковой!</plain>
+            <plain>Р Рє СЃРјРµСЂС‚Рё СЂРѕРєРѕРІРѕР№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, если б ты узнал,</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»,</plain>
         </string>
         <string>
-            <plain>Кто, полный дивных слов,</plain>
+            <plain>РљС‚Рѕ, РїРѕР»РЅС‹Р№ РґРёРІРЅС‹С… СЃР»РѕРІ,</plain>
         </string>
         <string>
-            <plain>Тебя к спасенью звал</plain>
+            <plain>РўРµР±СЏ Рє СЃРїР°СЃРµРЅСЊСЋ Р·РІР°Р»</plain>
         </string>
         <string>
-            <plain>И чей отверг ты зов!</plain>
+            <plain>Р С‡РµР№ РѕС‚РІРµСЂРі С‚С‹ Р·РѕРІ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, если б ты узнал</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»</plain>
         </string>
         <string>
-            <plain>Кто плакал над тобой,</plain>
+            <plain>РљС‚Рѕ РїР»Р°РєР°Р» РЅР°Рґ С‚РѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Когда ты грех свершал</plain>
+            <plain>РљРѕРіРґР° С‚С‹ РіСЂРµС… СЃРІРµСЂС€Р°Р»</plain>
         </string>
         <string>
-            <plain>Прельщенною душой!</plain>
+            <plain>РџСЂРµР»СЊС‰РµРЅРЅРѕСЋ РґСѓС€РѕР№!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, если б ты узнал,</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»,</plain>
         </string>
         <string>
-            <plain>Кто возлюбил тебя,</plain>
+            <plain>РљС‚Рѕ РІРѕР·Р»СЋР±РёР» С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Кто за тебя отдал</plain>
+            <plain>РљС‚Рѕ Р·Р° С‚РµР±СЏ РѕС‚РґР°Р»</plain>
         </string>
         <string>
-            <plain>На смертный крест Себя!</plain>
+            <plain>РќР° СЃРјРµСЂС‚РЅС‹Р№ РєСЂРµСЃС‚ РЎРµР±СЏ!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>О, если б ты узнал:</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»:</plain>
         </string>
         <string>
-            <plain>Он Царь души твоей;</plain>
+            <plain>РћРЅ Р¦Р°СЂСЊ РґСѓС€Рё С‚РІРѕРµР№;</plain>
         </string>
         <string>
-            <plain>В Нем Бог любви сиял</plain>
+            <plain>Р’ РќРµРј Р‘РѕРі Р»СЋР±РІРё СЃРёСЏР»</plain>
         </string>
         <string>
-            <plain>Для мира, для людей.</plain>
+            <plain>Р”Р»СЏ РјРёСЂР°, РґР»СЏ Р»СЋРґРµР№.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>О, если б ты узнал:</plain>
+            <plain>Рћ, РµСЃР»Рё Р± С‚С‹ СѓР·РЅР°Р»:</plain>
         </string>
         <string>
-            <plain>Он ныне пред тобой;</plain>
+            <plain>РћРЅ РЅС‹РЅРµ РїСЂРµРґ С‚РѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>О, разве б ты не пал</plain>
+            <plain>Рћ, СЂР°Р·РІРµ Р± С‚С‹ РЅРµ РїР°Р»</plain>
         </string>
         <string>
-            <plain>К Его стопам с мольбой?!</plain>
+            <plain>Рљ Р•РіРѕ СЃС‚РѕРїР°Рј СЃ РјРѕР»СЊР±РѕР№?!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="169" name="Люблю я петь псалмы побед" canon="false" text="" textRus="" music="">
+<psalm number="169" name="Р›СЋР±Р»СЋ СЏ РїРµС‚СЊ РїСЃР°Р»РјС‹ РїРѕР±РµРґ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Люблю я петь псалмы побед</plain>
+            <plain>Р›СЋР±Р»СЋ СЏ РїРµС‚СЊ РїСЃР°Р»РјС‹ РїРѕР±РµРґ</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Христос Господь мне все дает</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ Р“РѕСЃРїРѕРґСЊ РјРЅРµ РІСЃРµ РґР°РµС‚</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>С тех пор, как я спасен,</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен,</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>Радостно пою всегда.</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ РїРѕСЋ РІСЃРµРіРґР°.</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен,</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>Славлю имя Господа Христа.</plain>
+            <plain>РЎР»Р°РІР»СЋ РёРјСЏ Р“РѕСЃРїРѕРґР° РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Спаситель мой живет со мной</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№ Р¶РёРІРµС‚ СЃРѕ РјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Я счастлив быть Его слугой</plain>
+            <plain>РЇ СЃС‡Р°СЃС‚Р»РёРІ Р±С‹С‚СЊ Р•РіРѕ СЃР»СѓРіРѕР№</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я вижу свет и в царстве бед</plain>
+            <plain>РЇ РІРёР¶Сѓ СЃРІРµС‚ Рё РІ С†Р°СЂСЃС‚РІРµ Р±РµРґ</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Сомнений ночь уходит прочь</plain>
+            <plain>РЎРѕРјРЅРµРЅРёР№ РЅРѕС‡СЊ СѓС…РѕРґРёС‚ РїСЂРѕС‡СЊ</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В небесный дом иду с Христом</plain>
+            <plain>Р’ РЅРµР±РµСЃРЅС‹Р№ РґРѕРј РёРґСѓ СЃ РҐСЂРёСЃС‚РѕРј</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
         <string>
-            <plain>Он мой покров от всех врагов</plain>
+            <plain>РћРЅ РјРѕР№ РїРѕРєСЂРѕРІ РѕС‚ РІСЃРµС… РІСЂР°РіРѕРІ</plain>
         </string>
         <string>
-            <plain>С тех пор, как я спасен.</plain>
+            <plain>РЎ С‚РµС… РїРѕСЂ, РєР°Рє СЏ СЃРїР°СЃРµРЅ.</plain>
         </string>
     </verse>
 </psalm>

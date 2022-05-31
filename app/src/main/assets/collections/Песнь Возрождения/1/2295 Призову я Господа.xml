@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2295" name="Призову я Господа" canon="false" text="" textRus="" music="">
+<psalm number="2295" name="РџСЂРёР·РѕРІСѓ СЏ Р“РѕСЃРїРѕРґР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Призову я Господа,</plain>
+            <plain>РџСЂРёР·РѕРІСѓ СЏ Р“РѕСЃРїРѕРґР°,</plain>
         </string>
         <string>
-            <plain>Он достоин похвалы (2 р.).</plain>
+            <plain>РћРЅ РґРѕСЃС‚РѕРёРЅ РїРѕС…РІР°Р»С‹ (2 СЂ.).</plain>
         </string>
         <string>
-            <plain>От долгов моих избавил Он меня (2 р.).</plain>
+            <plain>РћС‚ РґРѕР»РіРѕРІ РјРѕРёС… РёР·Р±Р°РІРёР» РћРЅ РјРµРЅСЏ (2 СЂ.).</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Живет Иисус - благословенный камень</plain>
+            <plain>Р–РёРІРµС‚ РРёСЃСѓСЃ - Р±Р»Р°РіРѕСЃР»РѕРІРµРЅРЅС‹Р№ РєР°РјРµРЅСЊ</plain>
         </string>
         <string>
-            <plain>И слава Богу моего спасения (2 р.).</plain>
+            <plain>Р СЃР»Р°РІР° Р‘РѕРіСѓ РјРѕРµРіРѕ СЃРїР°СЃРµРЅРёСЏ (2 СЂ.).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Призову я Господа,</plain>
+            <plain>РџСЂРёР·РѕРІСѓ СЏ Р“РѕСЃРїРѕРґР°,</plain>
         </string>
         <string>
-            <plain>Он достоин похвалы (2 р.),</plain>
+            <plain>РћРЅ РґРѕСЃС‚РѕРёРЅ РїРѕС…РІР°Р»С‹ (2 СЂ.),</plain>
         </string>
         <string>
-            <plain>Все грехи мои простил и оправдал меня (2 р.).</plain>
+            <plain>Р’СЃРµ РіСЂРµС…Рё РјРѕРё РїСЂРѕСЃС‚РёР» Рё РѕРїСЂР°РІРґР°Р» РјРµРЅСЏ (2 СЂ.).</plain>
         </string>
     </verse>
 </psalm>

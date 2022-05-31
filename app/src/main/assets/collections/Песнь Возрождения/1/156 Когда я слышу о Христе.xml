@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="156" name="Когда я слышу о Христе" canon="false" text="" textRus="" music="">
+<psalm number="156" name="РљРѕРіРґР° СЏ СЃР»С‹С€Сѓ Рѕ РҐСЂРёСЃС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Когда я слышу о Христе,</plain>
+            <plain>РљРѕРіРґР° СЏ СЃР»С‹С€Сѓ Рѕ РҐСЂРёСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Я сердцем веселюсь</plain>
+            <plain>РЇ СЃРµСЂРґС†РµРј РІРµСЃРµР»СЋСЃСЊ</plain>
         </string>
         <string>
-            <plain>И воспеваю в простоте:</plain>
+            <plain>Р РІРѕСЃРїРµРІР°СЋ РІ РїСЂРѕСЃС‚РѕС‚Рµ:</plain>
         </string>
         <string>
-            <plain>"Спаситель мой, Иисус!"</plain>
+            <plain>"РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ!"</plain>
         </string>
         <string>
-            <plain>Когда на ров земного зла,</plain>
+            <plain>РљРѕРіРґР° РЅР° СЂРѕРІ Р·РµРјРЅРѕРіРѕ Р·Р»Р°,</plain>
         </string>
         <string>
-            <plain>Где гибнул, оглянусь,</plain>
+            <plain>Р“РґРµ РіРёР±РЅСѓР», РѕРіР»СЏРЅСѓСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Тогда звучит моя хвала:</plain>
+            <plain>РўРѕРіРґР° Р·РІСѓС‡РёС‚ РјРѕСЏ С…РІР°Р»Р°:</plain>
         </string>
         <string>
-            <plain>"Спаситель мой, Иисус!"</plain>
+            <plain>"РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ!"</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты радость дал душе в удел,</plain>
+            <plain>РўС‹ СЂР°РґРѕСЃС‚СЊ РґР°Р» РґСѓС€Рµ РІ СѓРґРµР»,</plain>
         </string>
         <string>
-            <plain>И я о том молюсь,</plain>
+            <plain>Р СЏ Рѕ С‚РѕРј РјРѕР»СЋСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб целый мир Тебе воспел:</plain>
+            <plain>Р§С‚РѕР± С†РµР»С‹Р№ РјРёСЂ РўРµР±Рµ РІРѕСЃРїРµР»:</plain>
         </string>
         <string>
-            <plain>"Спаситель мой, Иисус!"</plain>
+            <plain>"РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ!"</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В какой я бездне утопал,</plain>
+            <plain>Р’ РєР°РєРѕР№ СЏ Р±РµР·РґРЅРµ СѓС‚РѕРїР°Р»,</plain>
         </string>
         <string>
-            <plain>При мысли я страшусь,</plain>
+            <plain>РџСЂРё РјС‹СЃР»Рё СЏ СЃС‚СЂР°С€СѓСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Но Ты меня и там взыскал,</plain>
+            <plain>РќРѕ РўС‹ РјРµРЅСЏ Рё С‚Р°Рј РІР·С‹СЃРєР°Р»,</plain>
         </string>
         <string>
-            <plain>Спаситель мой, Иисус!</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ!</plain>
         </string>
         <string>
-            <plain>Я одиноким был, но Ты</plain>
+            <plain>РЇ РѕРґРёРЅРѕРєРёРј Р±С‹Р», РЅРѕ РўС‹</plain>
         </string>
         <string>
-            <plain>Вступил со мной в союз</plain>
+            <plain>Р’СЃС‚СѓРїРёР» СЃРѕ РјРЅРѕР№ РІ СЃРѕСЋР·</plain>
         </string>
         <string>
-            <plain>И Сам ведешь средь темноты,</plain>
+            <plain>Р РЎР°Рј РІРµРґРµС€СЊ СЃСЂРµРґСЊ С‚РµРјРЅРѕС‚С‹,</plain>
         </string>
         <string>
-            <plain>Спаситель мой, Иисус!</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я пред Тобою мертвым был,</plain>
+            <plain>РЇ РїСЂРµРґ РўРѕР±РѕСЋ РјРµСЂС‚РІС‹Рј Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>Но чуду я дивлюсь:</plain>
+            <plain>РќРѕ С‡СѓРґСѓ СЏ РґРёРІР»СЋСЃСЊ:</plain>
         </string>
         <string>
-            <plain>Ты дух мой к жизни воскресил,</plain>
+            <plain>РўС‹ РґСѓС… РјРѕР№ Рє Р¶РёР·РЅРё РІРѕСЃРєСЂРµСЃРёР»,</plain>
         </string>
         <string>
-            <plain>Спаситель мой, Иисус!</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ!</plain>
         </string>
         <string>
-            <plain>Я пленник был, Ты не забыл</plain>
+            <plain>РЇ РїР»РµРЅРЅРёРє Р±С‹Р», РўС‹ РЅРµ Р·Р°Р±С‹Р»</plain>
         </string>
         <string>
-            <plain>Меня средь тяжких уз</plain>
+            <plain>РњРµРЅСЏ СЃСЂРµРґСЊ С‚СЏР¶РєРёС… СѓР·</plain>
         </string>
         <string>
-            <plain>И от греха освободил,</plain>
+            <plain>Р РѕС‚ РіСЂРµС…Р° РѕСЃРІРѕР±РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>Спаситель мой, Иисус!</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РРёСЃСѓСЃ!</plain>
         </string>
     </verse>
 </psalm>

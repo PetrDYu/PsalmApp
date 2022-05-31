@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="352" name="Сбрось душа свой страх греховный" canon="false" text="" textRus="" music="">
+<psalm number="352" name="РЎР±СЂРѕСЃСЊ РґСѓС€Р° СЃРІРѕР№ СЃС‚СЂР°С… РіСЂРµС…РѕРІРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сбрось, душа, свой страх греховный</plain>
+            <plain>РЎР±СЂРѕСЃСЊ, РґСѓС€Р°, СЃРІРѕР№ СЃС‚СЂР°С… РіСЂРµС…РѕРІРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>И приди ты ко Христу,</plain>
+            <plain>Р РїСЂРёРґРё С‚С‹ РєРѕ РҐСЂРёСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>И с тебя Он Своей кровью</plain>
+            <plain>Р СЃ С‚РµР±СЏ РћРЅ РЎРІРѕРµР№ РєСЂРѕРІСЊСЋ</plain>
         </string>
         <string>
-            <plain>Смоет всю нечистоту!</plain>
+            <plain>РЎРјРѕРµС‚ РІСЃСЋ РЅРµС‡РёСЃС‚РѕС‚Сѓ!</plain>
         </string>
         <string>
-            <plain>Не страшись, лишь веруй только</plain>
+            <plain>РќРµ СЃС‚СЂР°С€РёСЃСЊ, Р»РёС€СЊ РІРµСЂСѓР№ С‚РѕР»СЊРєРѕ</plain>
         </string>
         <string>
-            <plain>И мужайся во Христе,</plain>
+            <plain>Р РјСѓР¶Р°Р№СЃСЏ РІРѕ РҐСЂРёСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Ибо Он был тяжко мучим</plain>
+            <plain>РР±Рѕ РћРЅ Р±С‹Р» С‚СЏР¶РєРѕ РјСѓС‡РёРј</plain>
         </string>
         <string>
-            <plain>За всех грешных на земле.</plain>
+            <plain>Р—Р° РІСЃРµС… РіСЂРµС€РЅС‹С… РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Он с тебя снял согрешенья,</plain>
+            <plain>РћРЅ СЃ С‚РµР±СЏ СЃРЅСЏР» СЃРѕРіСЂРµС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>На Себя Он их принял,</plain>
+            <plain>РќР° РЎРµР±СЏ РћРЅ РёС… РїСЂРёРЅСЏР»,</plain>
         </string>
         <string>
-            <plain>И, чтоб дать тебе прощенье,</plain>
+            <plain>Р, С‡С‚РѕР± РґР°С‚СЊ С‚РµР±Рµ РїСЂРѕС‰РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Он Себя на смерть отдал.</plain>
+            <plain>РћРЅ РЎРµР±СЏ РЅР° СЃРјРµСЂС‚СЊ РѕС‚РґР°Р».</plain>
         </string>
         <string>
-            <plain>На Голгофу возведенный,</plain>
+            <plain>РќР° Р“РѕР»РіРѕС„Сѓ РІРѕР·РІРµРґРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Чашу скорби Он испил</plain>
+            <plain>Р§Р°С€Сѓ СЃРєРѕСЂР±Рё РћРЅ РёСЃРїРёР»</plain>
         </string>
         <string>
-            <plain>И, с грехами вознесенный,</plain>
+            <plain>Р, СЃ РіСЂРµС…Р°РјРё РІРѕР·РЅРµСЃРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Ко кресту их пригвоздил.</plain>
+            <plain>РљРѕ РєСЂРµСЃС‚Сѓ РёС… РїСЂРёРіРІРѕР·РґРёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Был Он жертвой искупленья</plain>
+            <plain>Р‘С‹Р» РћРЅ Р¶РµСЂС‚РІРѕР№ РёСЃРєСѓРїР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>За людей, творивших грех,</plain>
+            <plain>Р—Р° Р»СЋРґРµР№, С‚РІРѕСЂРёРІС€РёС… РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>И, свершив Свой труд спасенья,</plain>
+            <plain>Р, СЃРІРµСЂС€РёРІ РЎРІРѕР№ С‚СЂСѓРґ СЃРїР°СЃРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Умолял Отца о всех.</plain>
+            <plain>РЈРјРѕР»СЏР» РћС‚С†Р° Рѕ РІСЃРµС….</plain>
         </string>
         <string>
-            <plain>Из груди, копьем пронзенной,</plain>
+            <plain>РР· РіСЂСѓРґРё, РєРѕРїСЊРµРј РїСЂРѕРЅР·РµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>И вода, и кровь текла;</plain>
+            <plain>Р РІРѕРґР°, Рё РєСЂРѕРІСЊ С‚РµРєР»Р°;</plain>
         </string>
         <string>
-            <plain>Жертвой, Богу принесенной,</plain>
+            <plain>Р–РµСЂС‚РІРѕР№, Р‘РѕРіСѓ РїСЂРёРЅРµСЃРµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Смерть Христа всем жизнь дала.</plain>
+            <plain>РЎРјРµСЂС‚СЊ РҐСЂРёСЃС‚Р° РІСЃРµРј Р¶РёР·РЅСЊ РґР°Р»Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Он, проливши кровь завета,</plain>
+            <plain>РћРЅ, РїСЂРѕР»РёРІС€Рё РєСЂРѕРІСЊ Р·Р°РІРµС‚Р°,</plain>
         </string>
         <string>
-            <plain>Примирил с людьми Отца</plain>
+            <plain>РџСЂРёРјРёСЂРёР» СЃ Р»СЋРґСЊРјРё РћС‚С†Р°</plain>
         </string>
         <string>
-            <plain>Он открыл путь правды, света,</plain>
+            <plain>РћРЅ РѕС‚РєСЂС‹Р» РїСѓС‚СЊ РїСЂР°РІРґС‹, СЃРІРµС‚Р°,</plain>
         </string>
         <string>
-            <plain>Путь к объятиям Творца.</plain>
+            <plain>РџСѓС‚СЊ Рє РѕР±СЉСЏС‚РёСЏРј РўРІРѕСЂС†Р°.</plain>
         </string>
         <string>
-            <plain>Кто б так мог, как твой Спаситель,</plain>
+            <plain>РљС‚Рѕ Р± С‚Р°Рє РјРѕРі, РєР°Рє С‚РІРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Грешных с Богом примирить</plain>
+            <plain>Р“СЂРµС€РЅС‹С… СЃ Р‘РѕРіРѕРј РїСЂРёРјРёСЂРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И дать путь в Его обитель,</plain>
+            <plain>Р РґР°С‚СЊ РїСѓС‚СЊ РІ Р•РіРѕ РѕР±РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб Творца могли хвалить?!</plain>
+            <plain>Р§С‚РѕР± РўРІРѕСЂС†Р° РјРѕРіР»Рё С…РІР°Р»РёС‚СЊ?!</plain>
         </string>
     </verse>
 </psalm>

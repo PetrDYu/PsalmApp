@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1930" name="Боже Создатель" canon="false" text="" textRus="" music="">
+<psalm number="1930" name="Р‘РѕР¶Рµ РЎРѕР·РґР°С‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, Создатель!</plain>
+            <plain>Р‘РѕР¶Рµ, РЎРѕР·РґР°С‚РµР»СЊ!</plain>
         </string>
         <string>
-            <plain>Ты создал от века нас</plain>
+            <plain>РўС‹ СЃРѕР·РґР°Р» РѕС‚ РІРµРєР° РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Делать благое</plain>
+            <plain>Р”РµР»Р°С‚СЊ Р±Р»Р°РіРѕРµ</plain>
         </string>
         <string>
-            <plain>В этой земной жизни.</plain>
+            <plain>Р’ СЌС‚РѕР№ Р·РµРјРЅРѕР№ Р¶РёР·РЅРё.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Боже, Ты знаешь.</plain>
+            <plain>Р‘РѕР¶Рµ, РўС‹ Р·РЅР°РµС€СЊ.</plain>
         </string>
         <string>
-            <plain>Мы лишь злое делали,</plain>
+            <plain>РњС‹ Р»РёС€СЊ Р·Р»РѕРµ РґРµР»Р°Р»Рё,</plain>
         </string>
         <string>
-            <plain>Лишь согрешенья:</plain>
+            <plain>Р›РёС€СЊ СЃРѕРіСЂРµС€РµРЅСЊСЏ:</plain>
         </string>
         <string>
-            <plain>Смерть нам воздаянье.</plain>
+            <plain>РЎРјРµСЂС‚СЊ РЅР°Рј РІРѕР·РґР°СЏРЅСЊРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Мы погибали.</plain>
+            <plain>РњС‹ РїРѕРіРёР±Р°Р»Рё.</plain>
         </string>
         <string>
-            <plain>Но Ты Сына послал к нам;</plain>
+            <plain>РќРѕ РўС‹ РЎС‹РЅР° РїРѕСЃР»Р°Р» Рє РЅР°Рј;</plain>
         </string>
         <string>
-            <plain>Умер Он в муке,</plain>
+            <plain>РЈРјРµСЂ РћРЅ РІ РјСѓРєРµ,</plain>
         </string>
         <string>
-            <plain>Жизнь вечную дал нам.</plain>
+            <plain>Р–РёР·РЅСЊ РІРµС‡РЅСѓСЋ РґР°Р» РЅР°Рј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Радость какая!</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РєР°РєР°СЏ!</plain>
         </string>
         <string>
-            <plain>От греха свободны мы:</plain>
+            <plain>РћС‚ РіСЂРµС…Р° СЃРІРѕР±РѕРґРЅС‹ РјС‹:</plain>
         </string>
         <string>
-            <plain>Вечно мы с святыми</plain>
+            <plain>Р’РµС‡РЅРѕ РјС‹ СЃ СЃРІСЏС‚С‹РјРё</plain>
         </string>
         <string>
-            <plain>Будем там на небе.</plain>
+            <plain>Р‘СѓРґРµРј С‚Р°Рј РЅР° РЅРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

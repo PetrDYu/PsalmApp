@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="321" name="Приди Приди" canon="false" text="" textRus="" music="">
+<psalm number="321" name="РџСЂРёРґРё РџСЂРёРґРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Приди! Приди!</plain>
+            <plain>РџСЂРёРґРё! РџСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>Сын заблудший к Отцу!</plain>
+            <plain>РЎС‹РЅ Р·Р°Р±Р»СѓРґС€РёР№ Рє РћС‚С†Сѓ!</plain>
         </string>
         <string>
-            <plain>Ведь вдали от Отца</plain>
+            <plain>Р’РµРґСЊ РІРґР°Р»Рё РѕС‚ РћС‚С†Р°</plain>
         </string>
         <string>
-            <plain>Тьма греха без конца.</plain>
+            <plain>РўСЊРјР° РіСЂРµС…Р° Р±РµР· РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, заблудший друг, приди!</plain>
+            <plain>Рћ, Р·Р°Р±Р»СѓРґС€РёР№ РґСЂСѓРі, РїСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>О, приди! Приди!</plain>
+            <plain>Рћ, РїСЂРёРґРё! РџСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>Друг, о, приди!</plain>
+            <plain>Р”СЂСѓРі, Рѕ, РїСЂРёРґРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Приди! Приди!</plain>
+            <plain>РџСЂРёРґРё! РџСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>О, спеши в дом Отца!</plain>
+            <plain>Рћ, СЃРїРµС€Рё РІ РґРѕРј РћС‚С†Р°!</plain>
         </string>
         <string>
-            <plain>Души верных, скорбя,</plain>
+            <plain>Р”СѓС€Рё РІРµСЂРЅС‹С…, СЃРєРѕСЂР±СЏ,</plain>
         </string>
         <string>
-            <plain>Ожидают тебя.</plain>
+            <plain>РћР¶РёРґР°СЋС‚ С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Приди! Приди!</plain>
+            <plain>РџСЂРёРґРё! РџСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>Дивно в доме Отца!</plain>
+            <plain>Р”РёРІРЅРѕ РІ РґРѕРјРµ РћС‚С†Р°!</plain>
         </string>
         <string>
-            <plain>Пир всерадостный в нем</plain>
+            <plain>РџРёСЂ РІСЃРµСЂР°РґРѕСЃС‚РЅС‹Р№ РІ РЅРµРј</plain>
         </string>
         <string>
-            <plain>Пред Иисусом Христом.</plain>
+            <plain>РџСЂРµРґ РРёСЃСѓСЃРѕРј РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Приди! Приди!</plain>
+            <plain>РџСЂРёРґРё! РџСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>О, как благ твой Отец!</plain>
+            <plain>Рћ, РєР°Рє Р±Р»Р°Рі С‚РІРѕР№ РћС‚РµС†!</plain>
         </string>
         <string>
-            <plain>Голос нежный, святой</plain>
+            <plain>Р“РѕР»РѕСЃ РЅРµР¶РЅС‹Р№, СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Обещает покой.</plain>
+            <plain>РћР±РµС‰Р°РµС‚ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

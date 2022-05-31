@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3037" name="Если скорбь тебя теснит" canon="false" text="" textRus="" music="">
+<psalm number="3037" name="Р•СЃР»Рё СЃРєРѕСЂР±СЊ С‚РµР±СЏ С‚РµСЃРЅРёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если скорбь тебя теснит</plain>
+            <plain>Р•СЃР»Рё СЃРєРѕСЂР±СЊ С‚РµР±СЏ С‚РµСЃРЅРёС‚</plain>
         </string>
         <string>
-            <plain>- всё скажи Иисусу,</plain>
+            <plain>- РІСЃС‘ СЃРєР°Р¶Рё РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>если враг тебе грозит</plain>
+            <plain>РµСЃР»Рё РІСЂР°Рі С‚РµР±Рµ РіСЂРѕР·РёС‚</plain>
         </string>
         <string>
-            <plain>- всё скажи Иисусу.</plain>
+            <plain>- РІСЃС‘ СЃРєР°Р¶Рё РРёСЃСѓСЃСѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>С верой на Него взирай,</plain>
+            <plain>РЎ РІРµСЂРѕР№ РЅР° РќРµРіРѕ РІР·РёСЂР°Р№,</plain>
         </string>
         <string>
-            <plain>на Него лишь уповай,</plain>
+            <plain>РЅР° РќРµРіРѕ Р»РёС€СЊ СѓРїРѕРІР°Р№,</plain>
         </string>
         <string>
-            <plain>лишь Его словам внимай</plain>
+            <plain>Р»РёС€СЊ Р•РіРѕ СЃР»РѕРІР°Рј РІРЅРёРјР°Р№</plain>
         </string>
         <string>
-            <plain>- всё скажи Иисусу.</plain>
+            <plain>- РІСЃС‘ СЃРєР°Р¶Рё РРёСЃСѓСЃСѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если станет тяжко жить</plain>
+            <plain>Р•СЃР»Рё СЃС‚Р°РЅРµС‚ С‚СЏР¶РєРѕ Р¶РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>- доверяй Иисусу,</plain>
+            <plain>- РґРѕРІРµСЂСЏР№ РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>знай: всему должно так быть,</plain>
+            <plain>Р·РЅР°Р№: РІСЃРµРјСѓ РґРѕР»Р¶РЅРѕ С‚Р°Рє Р±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>доверяй Иисусу</plain>
+            <plain>РґРѕРІРµСЂСЏР№ РРёСЃСѓСЃСѓ</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И в заботе и в нужде</plain>
+            <plain>Р РІ Р·Р°Р±РѕС‚Рµ Рё РІ РЅСѓР¶РґРµ</plain>
         </string>
         <string>
-            <plain>обратись к Иисусу,</plain>
+            <plain>РѕР±СЂР°С‚РёСЃСЊ Рє РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>обещал помочь тебе</plain>
+            <plain>РѕР±РµС‰Р°Р» РїРѕРјРѕС‡СЊ С‚РµР±Рµ</plain>
         </string>
         <string>
-            <plain>- обратись к Иисусу</plain>
+            <plain>- РѕР±СЂР°С‚РёСЃСЊ Рє РРёСЃСѓСЃСѓ</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>А гонения придут</plain>
+            <plain>Рђ РіРѕРЅРµРЅРёСЏ РїСЂРёРґСѓС‚</plain>
         </string>
         <string>
-            <plain>- помолись Иисусу,</plain>
+            <plain>- РїРѕРјРѕР»РёСЃСЊ РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>иль в темницу поведут</plain>
+            <plain>РёР»СЊ РІ С‚РµРјРЅРёС†Сѓ РїРѕРІРµРґСѓС‚</plain>
         </string>
         <string>
-            <plain>- помолись Иисусу.</plain>
+            <plain>- РїРѕРјРѕР»РёСЃСЊ РРёСЃСѓСЃСѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И в последний жизни час</plain>
+            <plain>Р РІ РїРѕСЃР»РµРґРЅРёР№ Р¶РёР·РЅРё С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>всё скажи Иисусу,</plain>
+            <plain>РІСЃС‘ СЃРєР°Р¶Рё РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>Он тебя навеки спас</plain>
+            <plain>РћРЅ С‚РµР±СЏ РЅР°РІРµРєРё СЃРїР°СЃ</plain>
         </string>
         <string>
-            <plain>- всё скажи Иисусу.</plain>
+            <plain>- РІСЃС‘ СЃРєР°Р¶Рё РРёСЃСѓСЃСѓ.</plain>
         </string>
     </verse>
 </psalm>

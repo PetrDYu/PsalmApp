@@ -1,74 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2420" name="Я нашёл святую новь" canon="false" text="" textRus="" music="">
+<psalm number="2420" name="РЇ РЅР°С€С‘Р» СЃРІСЏС‚СѓСЋ РЅРѕРІСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я нашёл святую новь</plain>
+            <plain>РЇ РЅР°С€С‘Р» СЃРІСЏС‚СѓСЋ РЅРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>- Настоящую любовь.</plain>
+            <plain>- РќР°СЃС‚РѕСЏС‰СѓСЋ Р»СЋР±РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Жаль, что я не встретил её раньше,</plain>
+            <plain>Р–Р°Р»СЊ, С‡С‚Рѕ СЏ РЅРµ РІСЃС‚СЂРµС‚РёР» РµС‘ СЂР°РЅСЊС€Рµ,</plain>
         </string>
         <string>
-            <plain>Но сегодня торжествую я.</plain>
+            <plain>РќРѕ СЃРµРіРѕРґРЅСЏ С‚РѕСЂР¶РµСЃС‚РІСѓСЋ СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я принадлежу только лишь Ему,</plain>
+            <plain>РЇ РїСЂРёРЅР°РґР»РµР¶Сѓ С‚РѕР»СЊРєРѕ Р»РёС€СЊ Р•РјСѓ,</plain>
         </string>
         <string>
-            <plain>Господу служу лишь только жениху</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ СЃР»СѓР¶Сѓ Р»РёС€СЊ С‚РѕР»СЊРєРѕ Р¶РµРЅРёС…Сѓ</plain>
         </string>
         <string>
-            <plain>Ведь я не боюсь, Лишь к Нему стремлюсь</plain>
+            <plain>Р’РµРґСЊ СЏ РЅРµ Р±РѕСЋСЃСЊ, Р›РёС€СЊ Рє РќРµРјСѓ СЃС‚СЂРµРјР»СЋСЃСЊ</plain>
         </string>
         <string>
-            <plain>И к Нему иду с любовью в небеса.</plain>
+            <plain>Р Рє РќРµРјСѓ РёРґСѓ СЃ Р»СЋР±РѕРІСЊСЋ РІ РЅРµР±РµСЃР°.</plain>
         </string>
         <string>
-            <plain>Сердце глубже верь!</plain>
+            <plain>РЎРµСЂРґС†Рµ РіР»СѓР±Р¶Рµ РІРµСЂСЊ!</plain>
         </string>
         <string>
-            <plain>Он открыл мне дверь!</plain>
+            <plain>РћРЅ РѕС‚РєСЂС‹Р» РјРЅРµ РґРІРµСЂСЊ!</plain>
         </string>
         <string>
-            <plain>Я Его теперь и Он навеки мой!</plain>
+            <plain>РЇ Р•РіРѕ С‚РµРїРµСЂСЊ Рё РћРЅ РЅР°РІРµРєРё РјРѕР№!</plain>
         </string>
         <string>
-            <plain>Жду Его приход у кристальных вод,</plain>
+            <plain>Р–РґСѓ Р•РіРѕ РїСЂРёС…РѕРґ Сѓ РєСЂРёСЃС‚Р°Р»СЊРЅС‹С… РІРѕРґ,</plain>
         </string>
         <string>
-            <plain>Слышу, Он зовёт так нежно в край родной.</plain>
+            <plain>РЎР»С‹С€Сѓ, РћРЅ Р·РѕРІС‘С‚ С‚Р°Рє РЅРµР¶РЅРѕ РІ РєСЂР°Р№ СЂРѕРґРЅРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И, как свет, сильна она</plain>
+            <plain>Р, РєР°Рє СЃРІРµС‚, СЃРёР»СЊРЅР° РѕРЅР°</plain>
         </string>
         <string>
-            <plain>Та любовь взаимная,</plain>
+            <plain>РўР° Р»СЋР±РѕРІСЊ РІР·Р°РёРјРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Я к Нему с молитвой прибегаю,</plain>
+            <plain>РЇ Рє РќРµРјСѓ СЃ РјРѕР»РёС‚РІРѕР№ РїСЂРёР±РµРіР°СЋ,</plain>
         </string>
         <string>
-            <plain>Жизнь свою Он отдал за меня.</plain>
+            <plain>Р–РёР·РЅСЊ СЃРІРѕСЋ РћРЅ РѕС‚РґР°Р» Р·Р° РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, гряди, желанный мой,</plain>
+            <plain>Рћ, РіСЂСЏРґРё, Р¶РµР»Р°РЅРЅС‹Р№ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>И прими в чертог златой</plain>
+            <plain>Р РїСЂРёРјРё РІ С‡РµСЂС‚РѕРі Р·Р»Р°С‚РѕР№</plain>
         </string>
         <string>
-            <plain>Верность я Тебе здесь сохраняю,</plain>
+            <plain>Р’РµСЂРЅРѕСЃС‚СЊ СЏ РўРµР±Рµ Р·РґРµСЃСЊ СЃРѕС…СЂР°РЅСЏСЋ,</plain>
         </string>
         <string>
-            <plain>Сочетает нас Отец Благой.</plain>
+            <plain>РЎРѕС‡РµС‚Р°РµС‚ РЅР°СЃ РћС‚РµС† Р‘Р»Р°РіРѕР№.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="705" name="Не ради почести и славы" canon="false" text="" textRus="" music="">
+<psalm number="705" name="РќРµ СЂР°РґРё РїРѕС‡РµСЃС‚Рё Рё СЃР»Р°РІС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не ради почести и славы</plain>
+            <plain>РќРµ СЂР°РґРё РїРѕС‡РµСЃС‚Рё Рё СЃР»Р°РІС‹</plain>
         </string>
         <string>
-            <plain>Стремлюсь я, Боже, к небесам;</plain>
+            <plain>РЎС‚СЂРµРјР»СЋСЃСЊ СЏ, Р‘РѕР¶Рµ, Рє РЅРµР±РµСЃР°Рј;</plain>
         </string>
         <string>
-            <plain>Хоть труден путь борьбы кровавой,</plain>
+            <plain>РҐРѕС‚СЊ С‚СЂСѓРґРµРЅ РїСѓС‚СЊ Р±РѕСЂСЊР±С‹ РєСЂРѕРІР°РІРѕР№,</plain>
         </string>
         <string>
-            <plain>Но верю я Твоим словам,</plain>
+            <plain>РќРѕ РІРµСЂСЋ СЏ РўРІРѕРёРј СЃР»РѕРІР°Рј,</plain>
         </string>
         <string>
-            <plain>Что Твой я воин, Боже правый,</plain>
+            <plain>Р§С‚Рѕ РўРІРѕР№ СЏ РІРѕРёРЅ, Р‘РѕР¶Рµ РїСЂР°РІС‹Р№,</plain>
         </string>
         <string>
-            <plain>И за Тебя иду я в бой;</plain>
+            <plain>Р Р·Р° РўРµР±СЏ РёРґСѓ СЏ РІ Р±РѕР№;</plain>
         </string>
         <string>
-            <plain>Я за Тебя - нет больше славы,</plain>
+            <plain>РЇ Р·Р° РўРµР±СЏ - РЅРµС‚ Р±РѕР»СЊС€Рµ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Не надо почести иной!</plain>
+            <plain>РќРµ РЅР°РґРѕ РїРѕС‡РµСЃС‚Рё РёРЅРѕР№!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Не ради вечного покоя</plain>
+            <plain>РќРµ СЂР°РґРё РІРµС‡РЅРѕРіРѕ РїРѕРєРѕСЏ</plain>
         </string>
         <string>
-            <plain>Стремлюсь я, Боже, к небесам,</plain>
+            <plain>РЎС‚СЂРµРјР»СЋСЃСЊ СЏ, Р‘РѕР¶Рµ, Рє РЅРµР±РµСЃР°Рј,</plain>
         </string>
         <string>
-            <plain>Хотя среди земного зноя</plain>
+            <plain>РҐРѕС‚СЏ СЃСЂРµРґРё Р·РµРјРЅРѕРіРѕ Р·РЅРѕСЏ</plain>
         </string>
         <string>
-            <plain>И тяжело моим рукам;</plain>
+            <plain>Р С‚СЏР¶РµР»Рѕ РјРѕРёРј СЂСѓРєР°Рј;</plain>
         </string>
         <string>
-            <plain>Но труд Твой - духу наслажденье,</plain>
+            <plain>РќРѕ С‚СЂСѓРґ РўРІРѕР№ - РґСѓС…Сѓ РЅР°СЃР»Р°Р¶РґРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>И он приносит мне с собой</plain>
+            <plain>Р РѕРЅ РїСЂРёРЅРѕСЃРёС‚ РјРЅРµ СЃ СЃРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>Святое сердцу утешенье,</plain>
+            <plain>РЎРІСЏС‚РѕРµ СЃРµСЂРґС†Сѓ СѓС‚РµС€РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>И в нем Твой раб нашел покой.</plain>
+            <plain>Р РІ РЅРµРј РўРІРѕР№ СЂР°Р± РЅР°С€РµР» РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не ради благ обетованья</plain>
+            <plain>РќРµ СЂР°РґРё Р±Р»Р°Рі РѕР±РµС‚РѕРІР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Стремлюсь я, Боже, к небесам;</plain>
+            <plain>РЎС‚СЂРµРјР»СЋСЃСЊ СЏ, Р‘РѕР¶Рµ, Рє РЅРµР±РµСЃР°Рј;</plain>
         </string>
         <string>
-            <plain>Ты дал мне радость раскаянья,</plain>
+            <plain>РўС‹ РґР°Р» РјРЅРµ СЂР°РґРѕСЃС‚СЊ СЂР°СЃРєР°СЏРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Ты дал забвение грехам.</plain>
+            <plain>РўС‹ РґР°Р» Р·Р°Р±РІРµРЅРёРµ РіСЂРµС…Р°Рј.</plain>
         </string>
         <string>
-            <plain>Ты вызвал к жизни обновленной</plain>
+            <plain>РўС‹ РІС‹Р·РІР°Р» Рє Р¶РёР·РЅРё РѕР±РЅРѕРІР»РµРЅРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Мой дух, любовью осеня;</plain>
+            <plain>РњРѕР№ РґСѓС…, Р»СЋР±РѕРІСЊСЋ РѕСЃРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>Могу ли думать дерзновенно</plain>
+            <plain>РњРѕРіСѓ Р»Рё РґСѓРјР°С‚СЊ РґРµСЂР·РЅРѕРІРµРЅРЅРѕ</plain>
         </string>
         <string>
-            <plain>О новых благах для меня?!</plain>
+            <plain>Рћ РЅРѕРІС‹С… Р±Р»Р°РіР°С… РґР»СЏ РјРµРЅСЏ?!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Не ради вечного блаженства</plain>
+            <plain>РќРµ СЂР°РґРё РІРµС‡РЅРѕРіРѕ Р±Р»Р°Р¶РµРЅСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>Стремлюсь я, Боже, к небесам,</plain>
+            <plain>РЎС‚СЂРµРјР»СЋСЃСЊ СЏ, Р‘РѕР¶Рµ, Рє РЅРµР±РµСЃР°Рј,</plain>
         </string>
         <string>
-            <plain>Но чтобы песней совершенства</plain>
+            <plain>РќРѕ С‡С‚РѕР±С‹ РїРµСЃРЅРµР№ СЃРѕРІРµСЂС€РµРЅСЃС‚РІР°</plain>
         </string>
         <string>
-            <plain>Воспеть любовь к Твоим рабам;</plain>
+            <plain>Р’РѕСЃРїРµС‚СЊ Р»СЋР±РѕРІСЊ Рє РўРІРѕРёРј СЂР°Р±Р°Рј;</plain>
         </string>
         <string>
-            <plain>Нечиста песнь моя земная</plain>
+            <plain>РќРµС‡РёСЃС‚Р° РїРµСЃРЅСЊ РјРѕСЏ Р·РµРјРЅР°СЏ</plain>
         </string>
         <string>
-            <plain>И обрывается порой;</plain>
+            <plain>Р РѕР±СЂС‹РІР°РµС‚СЃСЏ РїРѕСЂРѕР№;</plain>
         </string>
         <string>
-            <plain>Лишь там польется в сени рая</plain>
+            <plain>Р›РёС€СЊ С‚Р°Рј РїРѕР»СЊРµС‚СЃСЏ РІ СЃРµРЅРё СЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Она достойною хвалой.</plain>
+            <plain>РћРЅР° РґРѕСЃС‚РѕР№РЅРѕСЋ С…РІР°Р»РѕР№.</plain>
         </string>
     </verse>
 </psalm>

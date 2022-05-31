@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2994" name="Грехами был запятнан я" canon="false" text="" textRus="" music="">
+<psalm number="2994" name="Р“СЂРµС…Р°РјРё Р±С‹Р» Р·Р°РїСЏС‚РЅР°РЅ СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Грехами был запятнан я,</plain>
+            <plain>Р“СЂРµС…Р°РјРё Р±С‹Р» Р·Р°РїСЏС‚РЅР°РЅ СЏ,</plain>
         </string>
         <string>
-            <plain>- Господь освободил меня;</plain>
+            <plain>- Р“РѕСЃРїРѕРґСЊ РѕСЃРІРѕР±РѕРґРёР» РјРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>и в сердце радость лишь царит,</plain>
+            <plain>Рё РІ СЃРµСЂРґС†Рµ СЂР°РґРѕСЃС‚СЊ Р»РёС€СЊ С†Р°СЂРёС‚,</plain>
         </string>
         <string>
-            <plain>белее снега я омыт.</plain>
+            <plain>Р±РµР»РµРµ СЃРЅРµРіР° СЏ РѕРјС‹С‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Снега я белее омыт от греха,</plain>
+            <plain>РЎРЅРµРіР° СЏ Р±РµР»РµРµ РѕРјС‹С‚ РѕС‚ РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>Снега Он белей сделал меня! (2 раза)</plain>
+            <plain>РЎРЅРµРіР° РћРЅ Р±РµР»РµР№ СЃРґРµР»Р°Р» РјРµРЅСЏ! (2 СЂР°Р·Р°)</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Не сомневаясь говорю,</plain>
+            <plain>РќРµ СЃРѕРјРЅРµРІР°СЏСЃСЊ РіРѕРІРѕСЂСЋ,</plain>
         </string>
         <string>
-            <plain>что в свете Божьем я хожу;</plain>
+            <plain>С‡С‚Рѕ РІ СЃРІРµС‚Рµ Р‘РѕР¶СЊРµРј СЏ С…РѕР¶Сѓ;</plain>
         </string>
         <string>
-            <plain>мне Слово с каждым днем ясней:</plain>
+            <plain>РјРЅРµ РЎР»РѕРІРѕ СЃ РєР°Р¶РґС‹Рј РґРЅРµРј СЏСЃРЅРµР№:</plain>
         </string>
         <string>
-            <plain>«Омоет кровь белей, чем снег».</plain>
+            <plain>В«РћРјРѕРµС‚ РєСЂРѕРІСЊ Р±РµР»РµР№, С‡РµРј СЃРЅРµРіВ».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>От многих в мире слышу я:</plain>
+            <plain>РћС‚ РјРЅРѕРіРёС… РІ РјРёСЂРµ СЃР»С‹С€Сѓ СЏ:</plain>
         </string>
         <string>
-            <plain>«Жить невозможно без греха».</plain>
+            <plain>В«Р–РёС‚СЊ РЅРµРІРѕР·РјРѕР¶РЅРѕ Р±РµР· РіСЂРµС…Р°В».</plain>
         </string>
         <string>
-            <plain>Они оправдывают грех,</plain>
+            <plain>РћРЅРё РѕРїСЂР°РІРґС‹РІР°СЋС‚ РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>но чистит кровь белей, чем снег.</plain>
+            <plain>РЅРѕ С‡РёСЃС‚РёС‚ РєСЂРѕРІСЊ Р±РµР»РµР№, С‡РµРј СЃРЅРµРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Войди в поток, и он тебя</plain>
+            <plain>Р’РѕР№РґРё РІ РїРѕС‚РѕРє, Рё РѕРЅ С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>очистит от вины греха;</plain>
+            <plain>РѕС‡РёСЃС‚РёС‚ РѕС‚ РІРёРЅС‹ РіСЂРµС…Р°;</plain>
         </string>
         <string>
-            <plain>прошу тебя, иди скорей,</plain>
+            <plain>РїСЂРѕС€Сѓ С‚РµР±СЏ, РёРґРё СЃРєРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>и снега станешь ты белей!</plain>
+            <plain>Рё СЃРЅРµРіР° СЃС‚Р°РЅРµС€СЊ С‚С‹ Р±РµР»РµР№!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Кто хочет, пусть придет,</plain>
+            <plain>РљС‚Рѕ С…РѕС‡РµС‚, РїСѓСЃС‚СЊ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Он снимет весь греховный гнет.</plain>
+            <plain>РћРЅ СЃРЅРёРјРµС‚ РІРµСЃСЊ РіСЂРµС…РѕРІРЅС‹Р№ РіРЅРµС‚.</plain>
         </string>
         <string>
-            <plain>Приди к Нему, о, человек,</plain>
+            <plain>РџСЂРёРґРё Рє РќРµРјСѓ, Рѕ, С‡РµР»РѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>омоет Он белей, чем снег!</plain>
+            <plain>РѕРјРѕРµС‚ РћРЅ Р±РµР»РµР№, С‡РµРј СЃРЅРµРі!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,100 +1,100 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1940" name="Воскресит да воскресит" canon="false" text="" textRus="" music="">
+<psalm number="1940" name="Р’РѕСЃРєСЂРµСЃРёС‚ РґР° РІРѕСЃРєСЂРµСЃРёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Воскресит, да воскресит</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃРёС‚, РґР° РІРѕСЃРєСЂРµСЃРёС‚</plain>
         </string>
         <string>
-            <plain>Господь тебя, твой прах и плоть.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ С‚РµР±СЏ, С‚РІРѕР№ РїСЂР°С… Рё РїР»РѕС‚СЊ.</plain>
         </string>
         <string>
-            <plain>И жизнь иная Начнется в свете рая.</plain>
+            <plain>Р Р¶РёР·РЅСЊ РёРЅР°СЏ РќР°С‡РЅРµС‚СЃСЏ РІ СЃРІРµС‚Рµ СЂР°СЏ.</plain>
         </string>
         <string>
-            <plain>Хвала Христу!</plain>
+            <plain>РҐРІР°Р»Р° РҐСЂРёСЃС‚Сѓ!</plain>
         </string>
         <string>
-            <plain>Хвала Христу!</plain>
+            <plain>РҐРІР°Р»Р° РҐСЂРёСЃС‚Сѓ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Я воскресну, чтоб не умирать,</plain>
+            <plain>РЇ РІРѕСЃРєСЂРµСЃРЅСѓ, С‡С‚РѕР± РЅРµ СѓРјРёСЂР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Господь грядет опять,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РіСЂСЏРґРµС‚ РѕРїСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Несет одежды</plain>
+            <plain>РќРµСЃРµС‚ РѕРґРµР¶РґС‹</plain>
         </string>
         <string>
-            <plain>Всем тем, кто полн надежды</plain>
+            <plain>Р’СЃРµРј С‚РµРј, РєС‚Рѕ РїРѕР»РЅ РЅР°РґРµР¶РґС‹</plain>
         </string>
         <string>
-            <plain>3десь умирал.</plain>
+            <plain>3РґРµСЃСЊ СѓРјРёСЂР°Р».</plain>
         </string>
         <string>
-            <plain>3десь умирал.</plain>
+            <plain>3РґРµСЃСЊ СѓРјРёСЂР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Торжествуй, кто во Христе живет:</plain>
+            <plain>РўРѕСЂР¶РµСЃС‚РІСѓР№, РєС‚Рѕ РІРѕ РҐСЂРёСЃС‚Рµ Р¶РёРІРµС‚:</plain>
         </string>
         <string>
-            <plain>Блаженный день грядет.</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅРЅС‹Р№ РґРµРЅСЊ РіСЂСЏРґРµС‚.</plain>
         </string>
         <string>
-            <plain>И из молитвы</plain>
+            <plain>Р РёР· РјРѕР»РёС‚РІС‹</plain>
         </string>
         <string>
-            <plain>Господь в сияньи силы</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РІ СЃРёСЏРЅСЊРё СЃРёР»С‹</plain>
         </string>
         <string>
-            <plain>Нас позовет.</plain>
+            <plain>РќР°СЃ РїРѕР·РѕРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Нас позовет.</plain>
+            <plain>РќР°СЃ РїРѕР·РѕРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Как отрадно мертвым будет там:</plain>
+            <plain>РљР°Рє РѕС‚СЂР°РґРЅРѕ РјРµСЂС‚РІС‹Рј Р±СѓРґРµС‚ С‚Р°Рј:</plain>
         </string>
         <string>
-            <plain>С Христом войду я в храм,</plain>
+            <plain>РЎ РҐСЂРёСЃС‚РѕРј РІРѕР№РґСѓ СЏ РІ С…СЂР°Рј,</plain>
         </string>
         <string>
-            <plain>Где получу отраду;</plain>
+            <plain>Р“РґРµ РїРѕР»СѓС‡Сѓ РѕС‚СЂР°РґСѓ;</plain>
         </string>
         <string>
-            <plain>За скорбный путь в награду</plain>
+            <plain>Р—Р° СЃРєРѕСЂР±РЅС‹Р№ РїСѓС‚СЊ РІ РЅР°РіСЂР°РґСѓ</plain>
         </string>
         <string>
-            <plain>Он даст покой.</plain>
+            <plain>РћРЅ РґР°СЃС‚ РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Он даст покой.</plain>
+            <plain>РћРЅ РґР°СЃС‚ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Он в святилище меня возьмет;</plain>
+            <plain>РћРЅ РІ СЃРІСЏС‚РёР»РёС‰Рµ РјРµРЅСЏ РІРѕР·СЊРјРµС‚;</plain>
         </string>
         <string>
-            <plain>Далекий от забот,</plain>
+            <plain>Р”Р°Р»РµРєРёР№ РѕС‚ Р·Р°Р±РѕС‚,</plain>
         </string>
         <string>
-            <plain>В Его святыне</plain>
+            <plain>Р’ Р•РіРѕ СЃРІСЏС‚С‹РЅРµ</plain>
         </string>
         <string>
-            <plain>Вовеки, как и ныне,</plain>
+            <plain>Р’РѕРІРµРєРё, РєР°Рє Рё РЅС‹РЅРµ,</plain>
         </string>
         <string>
-            <plain>Я буду жить.</plain>
+            <plain>РЇ Р±СѓРґСѓ Р¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Я буду жить.</plain>
+            <plain>РЇ Р±СѓРґСѓ Р¶РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

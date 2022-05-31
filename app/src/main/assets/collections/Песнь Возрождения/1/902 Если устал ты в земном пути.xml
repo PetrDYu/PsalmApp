@@ -1,74 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="902" name="Если устал ты в земном пути" canon="false" text="" textRus="" music="">
+<psalm number="902" name="Р•СЃР»Рё СѓСЃС‚Р°Р» С‚С‹ РІ Р·РµРјРЅРѕРј РїСѓС‚Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если устал ты в земном пути,</plain>
+            <plain>Р•СЃР»Рё СѓСЃС‚Р°Р» С‚С‹ РІ Р·РµРјРЅРѕРј РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>В сердце обиду носишь,</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РѕР±РёРґСѓ РЅРѕСЃРёС€СЊ,</plain>
         </string>
         <string>
-            <plain>Подумай, что ждет тебя впереди,</plain>
+            <plain>РџРѕРґСѓРјР°Р№, С‡С‚Рѕ Р¶РґРµС‚ С‚РµР±СЏ РІРїРµСЂРµРґРё,</plain>
         </string>
         <string>
-            <plain>Чем оправдаться хочешь?</plain>
+            <plain>Р§РµРј РѕРїСЂР°РІРґР°С‚СЊСЃСЏ С…РѕС‡РµС€СЊ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Остановись, оглянись назад,</plain>
+            <plain>РћСЃС‚Р°РЅРѕРІРёСЃСЊ, РѕРіР»СЏРЅРёСЃСЊ РЅР°Р·Р°Рґ,</plain>
         </string>
         <string>
-            <plain>Мы - словно листья.</plain>
+            <plain>РњС‹ - СЃР»РѕРІРЅРѕ Р»РёСЃС‚СЊСЏ.</plain>
         </string>
         <string>
-            <plain>Нас кружит, кружит,</plain>
+            <plain>РќР°СЃ РєСЂСѓР¶РёС‚, РєСЂСѓР¶РёС‚,</plain>
         </string>
         <string>
-            <plain>кружит земной суетой,</plain>
+            <plain>РєСЂСѓР¶РёС‚ Р·РµРјРЅРѕР№ СЃСѓРµС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Вдаль нас уносит с собой.</plain>
+            <plain>Р’РґР°Р»СЊ РЅР°СЃ СѓРЅРѕСЃРёС‚ СЃ СЃРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Думай, думай, что делал ты</plain>
+            <plain>Р”СѓРјР°Р№, РґСѓРјР°Р№, С‡С‚Рѕ РґРµР»Р°Р» С‚С‹</plain>
         </string>
         <string>
-            <plain>И куда направлял шаги.</plain>
+            <plain>Р РєСѓРґР° РЅР°РїСЂР°РІР»СЏР» С€Р°РіРё.</plain>
         </string>
         <string>
-            <plain>Знай, что за каждый поступок</plain>
+            <plain>Р—РЅР°Р№, С‡С‚Рѕ Р·Р° РєР°Р¶РґС‹Р№ РїРѕСЃС‚СѓРїРѕРє</plain>
         </string>
         <string>
-            <plain>твой Бог на суд приведет!</plain>
+            <plain>С‚РІРѕР№ Р‘РѕРі РЅР° СЃСѓРґ РїСЂРёРІРµРґРµС‚!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вспомни, как ты ходил по земле...</plain>
+            <plain>Р’СЃРїРѕРјРЅРё, РєР°Рє С‚С‹ С…РѕРґРёР» РїРѕ Р·РµРјР»Рµ...</plain>
         </string>
         <string>
-            <plain>О, как мы все блуждали!</plain>
+            <plain>Рћ, РєР°Рє РјС‹ РІСЃРµ Р±Р»СѓР¶РґР°Р»Рё!</plain>
         </string>
         <string>
-            <plain>Только Христос дарует тебе</plain>
+            <plain>РўРѕР»СЊРєРѕ РҐСЂРёСЃС‚РѕСЃ РґР°СЂСѓРµС‚ С‚РµР±Рµ</plain>
         </string>
         <string>
-            <plain>Вечность блаженного рая.</plain>
+            <plain>Р’РµС‡РЅРѕСЃС‚СЊ Р±Р»Р°Р¶РµРЅРЅРѕРіРѕ СЂР°СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Разная людям дана судьба</plain>
+            <plain>Р Р°Р·РЅР°СЏ Р»СЋРґСЏРј РґР°РЅР° СЃСѓРґСЊР±Р°</plain>
         </string>
         <string>
-            <plain>И, сверкнув на мгновенье,</plain>
+            <plain>Р, СЃРІРµСЂРєРЅСѓРІ РЅР° РјРіРЅРѕРІРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Словно сгоревшая звезда,</plain>
+            <plain>РЎР»РѕРІРЅРѕ СЃРіРѕСЂРµРІС€Р°СЏ Р·РІРµР·РґР°,</plain>
         </string>
         <string>
-            <plain>Вспыхнул и впал ты в забвенье.</plain>
+            <plain>Р’СЃРїС‹С…РЅСѓР» Рё РІРїР°Р» С‚С‹ РІ Р·Р°Р±РІРµРЅСЊРµ.</plain>
         </string>
     </verse>
 </psalm>

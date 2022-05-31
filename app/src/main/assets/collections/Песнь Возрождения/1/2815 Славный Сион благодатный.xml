@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2815" name="Славный Сион благодатный" canon="false" text="" textRus="" music="">
+<psalm number="2815" name="РЎР»Р°РІРЅС‹Р№ РЎРёРѕРЅ Р±Р»Р°РіРѕРґР°С‚РЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Славный Сион, благодатный,</plain>
+            <plain>РЎР»Р°РІРЅС‹Р№ РЎРёРѕРЅ, Р±Р»Р°РіРѕРґР°С‚РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>святая ты Божья гора!</plain>
+            <plain>СЃРІСЏС‚Р°СЏ С‚С‹ Р‘РѕР¶СЊСЏ РіРѕСЂР°!</plain>
         </string>
         <string>
-            <plain>Нашли мы в тебе мир небесный,</plain>
+            <plain>РќР°С€Р»Рё РјС‹ РІ С‚РµР±Рµ РјРёСЂ РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>прошла заблуждения тьма.</plain>
+            <plain>РїСЂРѕС€Р»Р° Р·Р°Р±Р»СѓР¶РґРµРЅРёСЏ С‚СЊРјР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Радостно мы, радостно мы,</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ РјС‹, СЂР°РґРѕСЃС‚РЅРѕ РјС‹,</plain>
         </string>
         <string>
-            <plain>славим Сион, тебя!</plain>
+            <plain>СЃР»Р°РІРёРј РЎРёРѕРЅ, С‚РµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Радостно мы, радостно мы,</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ РјС‹, СЂР°РґРѕСЃС‚РЅРѕ РјС‹,</plain>
         </string>
         <string>
-            <plain>славим Сион, тебя!</plain>
+            <plain>СЃР»Р°РІРёРј РЎРёРѕРЅ, С‚РµР±СЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Радостно вести вниманием,</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ РІРµСЃС‚Рё РІРЅРёРјР°РЅРёРµРј,</plain>
         </string>
         <string>
-            <plain>что всем есть свобода в тебе;</plain>
+            <plain>С‡С‚Рѕ РІСЃРµРј РµСЃС‚СЊ СЃРІРѕР±РѕРґР° РІ С‚РµР±Рµ;</plain>
         </string>
         <string>
-            <plain>Мы в стенах твоих пребываем,</plain>
+            <plain>РњС‹ РІ СЃС‚РµРЅР°С… С‚РІРѕРёС… РїСЂРµР±С‹РІР°РµРј,</plain>
         </string>
         <string>
-            <plain>Всевышнего град на земле.</plain>
+            <plain>Р’СЃРµРІС‹С€РЅРµРіРѕ РіСЂР°Рґ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Страшная тьма наполняла</plain>
+            <plain>РЎС‚СЂР°С€РЅР°СЏ С‚СЊРјР° РЅР°РїРѕР»РЅСЏР»Р°</plain>
         </string>
         <string>
-            <plain>греховные наши сердца,</plain>
+            <plain>РіСЂРµС…РѕРІРЅС‹Рµ РЅР°С€Рё СЃРµСЂРґС†Р°,</plain>
         </string>
         <string>
-            <plain>но святость твоя засияла,</plain>
+            <plain>РЅРѕ СЃРІСЏС‚РѕСЃС‚СЊ С‚РІРѕСЏ Р·Р°СЃРёСЏР»Р°,</plain>
         </string>
         <string>
-            <plain>- нашла утешенье душа.</plain>
+            <plain>- РЅР°С€Р»Р° СѓС‚РµС€РµРЅСЊРµ РґСѓС€Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Чудный Сион, полный счастья,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РЎРёРѕРЅ, РїРѕР»РЅС‹Р№ СЃС‡Р°СЃС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>к тебе мы пришли наконец,</plain>
+            <plain>Рє С‚РµР±Рµ РјС‹ РїСЂРёС€Р»Рё РЅР°РєРѕРЅРµС†,</plain>
         </string>
         <string>
-            <plain>и тысячи шествуют с нами</plain>
+            <plain>Рё С‚С‹СЃСЏС‡Рё С€РµСЃС‚РІСѓСЋС‚ СЃ РЅР°РјРё</plain>
         </string>
         <string>
-            <plain>в святом ликованье сердец.</plain>
+            <plain>РІ СЃРІСЏС‚РѕРј Р»РёРєРѕРІР°РЅСЊРµ СЃРµСЂРґРµС†.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Чудный Сион, вестник мира,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РЎРёРѕРЅ, РІРµСЃС‚РЅРёРє РјРёСЂР°,</plain>
         </string>
         <string>
-            <plain>давно о тебе я слыхал,</plain>
+            <plain>РґР°РІРЅРѕ Рѕ С‚РµР±Рµ СЏ СЃР»С‹С…Р°Р»,</plain>
         </string>
         <string>
-            <plain>когда ж для меня ты открылся,</plain>
+            <plain>РєРѕРіРґР° Р¶ РґР»СЏ РјРµРЅСЏ С‚С‹ РѕС‚РєСЂС‹Р»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>всю пр ел есть твою увидал.</plain>
+            <plain>РІСЃСЋ РїСЂ РµР» РµСЃС‚СЊ С‚РІРѕСЋ СѓРІРёРґР°Р».</plain>
         </string>
     </verse>
 </psalm>

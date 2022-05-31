@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2053" name="Восстань Израиль из сна войной" canon="false" text="" textRus="" music="">
+<psalm number="2053" name="Р’РѕСЃСЃС‚Р°РЅСЊ РР·СЂР°РёР»СЊ РёР· СЃРЅР° РІРѕР№РЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Восстань, Израиль, из сна войной,</plain>
+            <plain>Р’РѕСЃСЃС‚Р°РЅСЊ, РР·СЂР°РёР»СЊ, РёР· СЃРЅР° РІРѕР№РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Ибо истина спасёт;</plain>
+            <plain>РР±Рѕ РёСЃС‚РёРЅР° СЃРїР°СЃС‘С‚;</plain>
         </string>
         <string>
-            <plain>Ведь из Сиона Освободитель твой</plain>
+            <plain>Р’РµРґСЊ РёР· РЎРёРѕРЅР° РћСЃРІРѕР±РѕРґРёС‚РµР»СЊ С‚РІРѕР№</plain>
         </string>
         <string>
-            <plain>В годы торжества идёт.</plain>
+            <plain>Р’ РіРѕРґС‹ С‚РѕСЂР¶РµСЃС‚РІР° РёРґС‘С‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, аллилуйя! О, аллилуйя!</plain>
+            <plain>Рћ, Р°Р»Р»РёР»СѓР№СЏ! Рћ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Слава Господу, хвала! (2 р.).</plain>
+            <plain>РЎР»Р°РІР° Р“РѕСЃРїРѕРґСѓ, С…РІР°Р»Р°! (2 СЂ.).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ибо в горниле великой скорби</plain>
+            <plain>РР±Рѕ РІ РіРѕСЂРЅРёР»Рµ РІРµР»РёРєРѕР№ СЃРєРѕСЂР±Рё</plain>
         </string>
         <string>
-            <plain>Я лишь твой народ избрал,</plain>
+            <plain>РЇ Р»РёС€СЊ С‚РІРѕР№ РЅР°СЂРѕРґ РёР·Р±СЂР°Р»,</plain>
         </string>
         <string>
-            <plain>И в драгоценные злата копи</plain>
+            <plain>Р РІ РґСЂР°РіРѕС†РµРЅРЅС‹Рµ Р·Р»Р°С‚Р° РєРѕРїРё</plain>
         </string>
         <string>
-            <plain>Я превращу металл.</plain>
+            <plain>РЇ РїСЂРµРІСЂР°С‰Сѓ РјРµС‚Р°Р»Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты Мой избранник, кого искал Я,</plain>
+            <plain>РўС‹ РњРѕР№ РёР·Р±СЂР°РЅРЅРёРє, РєРѕРіРѕ РёСЃРєР°Р» РЇ,</plain>
         </string>
         <string>
-            <plain>Дух того превознесёт,</plain>
+            <plain>Р”СѓС… С‚РѕРіРѕ РїСЂРµРІРѕР·РЅРµСЃС‘С‚,</plain>
         </string>
         <string>
-            <plain>И, собран Мною, народ изгнанья</plain>
+            <plain>Р, СЃРѕР±СЂР°РЅ РњРЅРѕСЋ, РЅР°СЂРѕРґ РёР·РіРЅР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Снова землю обретёт.</plain>
+            <plain>РЎРЅРѕРІР° Р·РµРјР»СЋ РѕР±СЂРµС‚С‘С‚.</plain>
         </string>
     </verse>
 </psalm>

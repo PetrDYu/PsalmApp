@@ -1,82 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2221" name="На земле я имею дом" canon="false" text="" textRus="" music="">
+<psalm number="2221" name="РќР° Р·РµРјР»Рµ СЏ РёРјРµСЋ РґРѕРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На земле я имею дом,</plain>
+            <plain>РќР° Р·РµРјР»Рµ СЏ РёРјРµСЋ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Каждый день и питьё, и пищу,</plain>
+            <plain>РљР°Р¶РґС‹Р№ РґРµРЅСЊ Рё РїРёС‚СЊС‘, Рё РїРёС‰Сѓ,</plain>
         </string>
         <string>
-            <plain>Но я помню всегда о том,</plain>
+            <plain>РќРѕ СЏ РїРѕРјРЅСЋ РІСЃРµРіРґР° Рѕ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Что на небе моё жилище.</plain>
+            <plain>Р§С‚Рѕ РЅР° РЅРµР±Рµ РјРѕС‘ Р¶РёР»РёС‰Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, я хочу к Тебе,</plain>
+            <plain>РРёСЃСѓСЃ, СЏ С…РѕС‡Сѓ Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ты за мной приходи скорее.</plain>
+            <plain>РўС‹ Р·Р° РјРЅРѕР№ РїСЂРёС…РѕРґРё СЃРєРѕСЂРµРµ.</plain>
         </string>
         <string>
-            <plain>В край, где больше не будет слёз,</plain>
+            <plain>Р’ РєСЂР°Р№, РіРґРµ Р±РѕР»СЊС€Рµ РЅРµ Р±СѓРґРµС‚ СЃР»С‘Р·,</plain>
         </string>
         <string>
-            <plain>Ты открой предо мною двери.</plain>
+            <plain>РўС‹ РѕС‚РєСЂРѕР№ РїСЂРµРґРѕ РјРЅРѕСЋ РґРІРµСЂРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В край, где больше не будет бед,</plain>
+            <plain>Р’ РєСЂР°Р№, РіРґРµ Р±РѕР»СЊС€Рµ РЅРµ Р±СѓРґРµС‚ Р±РµРґ,</plain>
         </string>
         <string>
-            <plain>Где не будет греха навеки.</plain>
+            <plain>Р“РґРµ РЅРµ Р±СѓРґРµС‚ РіСЂРµС…Р° РЅР°РІРµРєРё.</plain>
         </string>
         <string>
-            <plain>Сердце рвётся туда, Христос,</plain>
+            <plain>РЎРµСЂРґС†Рµ СЂРІС‘С‚СЃСЏ С‚СѓРґР°, РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Как росток - пробиваясь к свету.</plain>
+            <plain>РљР°Рє СЂРѕСЃС‚РѕРє - РїСЂРѕР±РёРІР°СЏСЃСЊ Рє СЃРІРµС‚Сѓ.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Иисус, я хочу к Тебе,</plain>
+            <plain>РРёСЃСѓСЃ, СЏ С…РѕС‡Сѓ Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ты за мной приходи скорее.</plain>
+            <plain>РўС‹ Р·Р° РјРЅРѕР№ РїСЂРёС…РѕРґРё СЃРєРѕСЂРµРµ.</plain>
         </string>
         <string>
-            <plain>В край, где больше не будет слёз,</plain>
+            <plain>Р’ РєСЂР°Р№, РіРґРµ Р±РѕР»СЊС€Рµ РЅРµ Р±СѓРґРµС‚ СЃР»С‘Р·,</plain>
         </string>
         <string>
-            <plain>Ты Открой предо мною двери.</plain>
+            <plain>РўС‹ РћС‚РєСЂРѕР№ РїСЂРµРґРѕ РјРЅРѕСЋ РґРІРµСЂРё.</plain>
         </string>
         <string>
-            <plain>Господи правый!</plain>
+            <plain>Р“РѕСЃРїРѕРґРё РїСЂР°РІС‹Р№!</plain>
         </string>
         <string>
-            <plain>Дай мне прозренье,</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РїСЂРѕР·СЂРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Наполни благодатно Дни мои!</plain>
+            <plain>РќР°РїРѕР»РЅРё Р±Р»Р°РіРѕРґР°С‚РЅРѕ Р”РЅРё РјРѕРё!</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Хоть и здесь на земле с Тобой</plain>
+            <plain>РҐРѕС‚СЊ Рё Р·РґРµСЃСЊ РЅР° Р·РµРјР»Рµ СЃ РўРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>Предвкушаю блаженство рая;</plain>
+            <plain>РџСЂРµРґРІРєСѓС€Р°СЋ Р±Р»Р°Р¶РµРЅСЃС‚РІРѕ СЂР°СЏ;</plain>
         </string>
         <string>
-            <plain>Но стремится мой дух домой,</plain>
+            <plain>РќРѕ СЃС‚СЂРµРјРёС‚СЃСЏ РјРѕР№ РґСѓС… РґРѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>Словно птица к родному краю.</plain>
+            <plain>РЎР»РѕРІРЅРѕ РїС‚РёС†Р° Рє СЂРѕРґРЅРѕРјСѓ РєСЂР°СЋ.</plain>
         </string>
     </verse>
 </psalm>

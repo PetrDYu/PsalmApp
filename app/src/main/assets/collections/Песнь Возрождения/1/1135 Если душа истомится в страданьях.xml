@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1135" name="Если душа истомится в страданьях" canon="false" text="" textRus="" music="">
+<psalm number="1135" name="Р•СЃР»Рё РґСѓС€Р° РёСЃС‚РѕРјРёС‚СЃСЏ РІ СЃС‚СЂР°РґР°РЅСЊСЏС…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если душа истомится в страданьях,</plain>
+            <plain>Р•СЃР»Рё РґСѓС€Р° РёСЃС‚РѕРјРёС‚СЃСЏ РІ СЃС‚СЂР°РґР°РЅСЊСЏС…,</plain>
         </string>
         <string>
-            <plain>И изнеможет мой дух,</plain>
+            <plain>Р РёР·РЅРµРјРѕР¶РµС‚ РјРѕР№ РґСѓС…,</plain>
         </string>
         <string>
-            <plain>Верю, что в жизненном море скитаний</plain>
+            <plain>Р’РµСЂСЋ, С‡С‚Рѕ РІ Р¶РёР·РЅРµРЅРЅРѕРј РјРѕСЂРµ СЃРєРёС‚Р°РЅРёР№</plain>
         </string>
         <string>
-            <plain>Ты - самый лучший мой Друг.</plain>
+            <plain>РўС‹ - СЃР°РјС‹Р№ Р»СѓС‡С€РёР№ РјРѕР№ Р”СЂСѓРі.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Знаешь Ты все, о мой дивный Учитель,</plain>
+            <plain>Р—РЅР°РµС€СЊ РўС‹ РІСЃРµ, Рѕ РјРѕР№ РґРёРІРЅС‹Р№ РЈС‡РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Видишь невзгоды души.</plain>
+            <plain>Р’РёРґРёС€СЊ РЅРµРІР·РіРѕРґС‹ РґСѓС€Рё.</plain>
         </string>
         <string>
-            <plain>"Все вам ко благу",</plain>
+            <plain>"Р’СЃРµ РІР°Рј РєРѕ Р±Р»Р°РіСѓ",</plain>
         </string>
         <string>
-            <plain>- сказал мой Спаситель.</plain>
+            <plain>- СЃРєР°Р·Р°Р» РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
         <string>
-            <plain>Верю, послал это Ты.</plain>
+            <plain>Р’РµСЂСЋ, РїРѕСЃР»Р°Р» СЌС‚Рѕ РўС‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>"Если в болезни душа истомится, вспомни:</plain>
+            <plain>"Р•СЃР»Рё РІ Р±РѕР»РµР·РЅРё РґСѓС€Р° РёСЃС‚РѕРјРёС‚СЃСЏ, РІСЃРїРѕРјРЅРё:</plain>
         </string>
         <string>
-            <plain>Ведь Я - муж скорбей.</plain>
+            <plain>Р’РµРґСЊ РЇ - РјСѓР¶ СЃРєРѕСЂР±РµР№.</plain>
         </string>
         <string>
-            <plain>Без Моей воли ничто Не случится...</plain>
+            <plain>Р‘РµР· РњРѕРµР№ РІРѕР»Рё РЅРёС‡С‚Рѕ РќРµ СЃР»СѓС‡РёС‚СЃСЏ...</plain>
         </string>
         <string>
-            <plain>И не страшись, будь добрей!"</plain>
+            <plain>Р РЅРµ СЃС‚СЂР°С€РёСЃСЊ, Р±СѓРґСЊ РґРѕР±СЂРµР№!"</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если друзья изменяют порой,</plain>
+            <plain>Р•СЃР»Рё РґСЂСѓР·СЊСЏ РёР·РјРµРЅСЏСЋС‚ РїРѕСЂРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты говоришь: "Не грусти.</plain>
+            <plain>РўС‹ РіРѕРІРѕСЂРёС€СЊ: "РќРµ РіСЂСѓСЃС‚Рё.</plain>
         </string>
         <string>
-            <plain>Я - лучший Друг твой,</plain>
+            <plain>РЇ - Р»СѓС‡С€РёР№ Р”СЂСѓРі С‚РІРѕР№,</plain>
         </string>
         <string>
-            <plain>Я буду с тобой и сохраню на пути".</plain>
+            <plain>РЇ Р±СѓРґСѓ СЃ С‚РѕР±РѕР№ Рё СЃРѕС…СЂР°РЅСЋ РЅР° РїСѓС‚Рё".</plain>
         </string>
     </verse>
 </psalm>

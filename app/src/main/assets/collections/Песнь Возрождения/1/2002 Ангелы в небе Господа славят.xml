@@ -1,112 +1,112 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2002" name="Ангелы в небе Господа славят" canon="false" text="" textRus="" music="">
+<psalm number="2002" name="РђРЅРіРµР»С‹ РІ РЅРµР±Рµ Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЏС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ангелы в небе</plain>
+            <plain>РђРЅРіРµР»С‹ РІ РЅРµР±Рµ</plain>
         </string>
         <string>
-            <plain>Господа славят,</plain>
+            <plain>Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЏС‚,</plain>
         </string>
         <string>
-            <plain>Славу достойную</plain>
+            <plain>РЎР»Р°РІСѓ РґРѕСЃС‚РѕР№РЅСѓСЋ</plain>
         </string>
         <string>
-            <plain>Богу поют, Богу поют:</plain>
+            <plain>Р‘РѕРіСѓ РїРѕСЋС‚, Р‘РѕРіСѓ РїРѕСЋС‚:</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вечная слава!</plain>
+            <plain>Р’РµС‡РЅР°СЏ СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Вечная слава!</plain>
+            <plain>Р’РµС‡РЅР°СЏ СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Вечная слава!</plain>
+            <plain>Р’РµС‡РЅР°СЏ СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Слава Христу!</plain>
+            <plain>РЎР»Р°РІР° РҐСЂРёСЃС‚Сѓ!</plain>
         </string>
         <string>
-            <plain>Слава Христу!</plain>
+            <plain>РЎР»Р°РІР° РҐСЂРёСЃС‚Сѓ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хочется с ангельским</plain>
+            <plain>РҐРѕС‡РµС‚СЃСЏ СЃ Р°РЅРіРµР»СЊСЃРєРёРј</plain>
         </string>
         <string>
-            <plain>пением слиться</plain>
+            <plain>РїРµРЅРёРµРј СЃР»РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>В хоре искупленных,</plain>
+            <plain>Р’ С…РѕСЂРµ РёСЃРєСѓРїР»РµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>спасённых Господом.</plain>
+            <plain>СЃРїР°СЃС‘РЅРЅС‹С… Р“РѕСЃРїРѕРґРѕРј.</plain>
         </string>
         <string>
-            <plain>И сердце Господу,</plain>
+            <plain>Р СЃРµСЂРґС†Рµ Р“РѕСЃРїРѕРґСѓ,</plain>
         </string>
         <string>
-            <plain>Богу Единому,</plain>
+            <plain>Р‘РѕРіСѓ Р•РґРёРЅРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Христу Спасителю</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ РЎРїР°СЃРёС‚РµР»СЋ</plain>
         </string>
         <string>
-            <plain>славу поёт, славу поёт:</plain>
+            <plain>СЃР»Р°РІСѓ РїРѕС‘С‚, СЃР»Р°РІСѓ РїРѕС‘С‚:</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Здесь на земле людей,</plain>
+            <plain>Р—РґРµСЃСЊ РЅР° Р·РµРјР»Рµ Р»СЋРґРµР№,</plain>
         </string>
         <string>
-            <plain>Церковь томится,</plain>
+            <plain>Р¦РµСЂРєРѕРІСЊ С‚РѕРјРёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>К небу стремится,</plain>
+            <plain>Рљ РЅРµР±Сѓ СЃС‚СЂРµРјРёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>дух к Жениху влечёт.</plain>
+            <plain>РґСѓС… Рє Р–РµРЅРёС…Сѓ РІР»РµС‡С‘С‚.</plain>
         </string>
         <string>
-            <plain>О, гряди, Господи,</plain>
+            <plain>Рћ, РіСЂСЏРґРё, Р“РѕСЃРїРѕРґРё,</plain>
         </string>
         <string>
-            <plain>видишь, Невеста ждёт,</plain>
+            <plain>РІРёРґРёС€СЊ, РќРµРІРµСЃС‚Р° Р¶РґС‘С‚,</plain>
         </string>
         <string>
-            <plain>Тебе Единому</plain>
+            <plain>РўРµР±Рµ Р•РґРёРЅРѕРјСѓ</plain>
         </string>
         <string>
-            <plain>славу поёт, славу поёт:</plain>
+            <plain>СЃР»Р°РІСѓ РїРѕС‘С‚, СЃР»Р°РІСѓ РїРѕС‘С‚:</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Чудный, Прославленный,</plain>
+            <plain>Р§СѓРґРЅС‹Р№, РџСЂРѕСЃР»Р°РІР»РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Царственный Божий Сын,</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРµРЅРЅС‹Р№ Р‘РѕР¶РёР№ РЎС‹РЅ,</plain>
         </string>
         <string>
-            <plain>Дивный Христос Господь</plain>
+            <plain>Р”РёРІРЅС‹Р№ РҐСЂРёСЃС‚РѕСЃ Р“РѕСЃРїРѕРґСЊ</plain>
         </string>
         <string>
-            <plain>в небе нас ждёт</plain>
+            <plain>РІ РЅРµР±Рµ РЅР°СЃ Р¶РґС‘С‚</plain>
         </string>
         <string>
-            <plain>И сердце Господу,</plain>
+            <plain>Р СЃРµСЂРґС†Рµ Р“РѕСЃРїРѕРґСѓ,</plain>
         </string>
         <string>
-            <plain>Богу Единому,</plain>
+            <plain>Р‘РѕРіСѓ Р•РґРёРЅРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Христу Спасителю</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ РЎРїР°СЃРёС‚РµР»СЋ</plain>
         </string>
         <string>
-            <plain>славу поёт, славу поёт:</plain>
+            <plain>СЃР»Р°РІСѓ РїРѕС‘С‚, СЃР»Р°РІСѓ РїРѕС‘С‚:</plain>
         </string>
     </verse>
 </psalm>

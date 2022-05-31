@@ -1,96 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2988" name="Указал мне Бог высоты" canon="false" text="" textRus="" music="">
+<psalm number="2988" name="РЈРєР°Р·Р°Р» РјРЅРµ Р‘РѕРі РІС‹СЃРѕС‚С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Указал мне Бог высоты,</plain>
+            <plain>РЈРєР°Р·Р°Р» РјРЅРµ Р‘РѕРі РІС‹СЃРѕС‚С‹,</plain>
         </string>
         <string>
-            <plain>где спасенья весть звучит,</plain>
+            <plain>РіРґРµ СЃРїР°СЃРµРЅСЊСЏ РІРµСЃС‚СЊ Р·РІСѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>где текут живые воды;</plain>
+            <plain>РіРґРµ С‚РµРєСѓС‚ Р¶РёРІС‹Рµ РІРѕРґС‹;</plain>
         </string>
         <string>
-            <plain>в них дух жажду утолит.</plain>
+            <plain>РІ РЅРёС… РґСѓС… Р¶Р°Р¶РґСѓ СѓС‚РѕР»РёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пусть звучат спасенья песни</plain>
+            <plain>РџСѓСЃС‚СЊ Р·РІСѓС‡Р°С‚ СЃРїР°СЃРµРЅСЊСЏ РїРµСЃРЅРё</plain>
         </string>
         <string>
-            <plain>пусть их эхо вдаль летит!</plain>
+            <plain>РїСѓСЃС‚СЊ РёС… СЌС…Рѕ РІРґР°Р»СЊ Р»РµС‚РёС‚!</plain>
         </string>
         <string>
-            <plain>Славен наш Отец Небесный,</plain>
+            <plain>РЎР»Р°РІРµРЅ РЅР°С€ РћС‚РµС† РќРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Он нам душу исцелил.</plain>
+            <plain>РћРЅ РЅР°Рј РґСѓС€Сѓ РёСЃС†РµР»РёР».</plain>
         </string>
         <string>
-            <plain>Слушай песен звон:</plain>
+            <plain>РЎР»СѓС€Р°Р№ РїРµСЃРµРЅ Р·РІРѕРЅ:</plain>
         </string>
         <string>
-            <plain>от греха чрез кровь</plain>
+            <plain>РѕС‚ РіСЂРµС…Р° С‡СЂРµР· РєСЂРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>Иисуса я освобожден!</plain>
+            <plain>РРёСЃСѓСЃР° СЏ РѕСЃРІРѕР±РѕР¶РґРµРЅ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ныне я - в саду Эдемском</plain>
+            <plain>РќС‹РЅРµ СЏ - РІ СЃР°РґСѓ Р­РґРµРјСЃРєРѕРј</plain>
         </string>
         <string>
-            <plain>через Божью благодать,</plain>
+            <plain>С‡РµСЂРµР· Р‘РѕР¶СЊСЋ Р±Р»Р°РіРѕРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>и могу в блаженстве вечном</plain>
+            <plain>Рё РјРѕРіСѓ РІ Р±Р»Р°Р¶РµРЅСЃС‚РІРµ РІРµС‡РЅРѕРј</plain>
         </string>
         <string>
-            <plain>«Авва, Отче!» восклицать.</plain>
+            <plain>В«РђРІРІР°, РћС‚С‡Рµ!В» РІРѕСЃРєР»РёС†Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Светом, радостью спасенья</plain>
+            <plain>РЎРІРµС‚РѕРј, СЂР°РґРѕСЃС‚СЊСЋ СЃРїР°СЃРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>наполняется душа;</plain>
+            <plain>РЅР°РїРѕР»РЅСЏРµС‚СЃСЏ РґСѓС€Р°;</plain>
         </string>
         <string>
-            <plain>в хоре ангельского пенья</plain>
+            <plain>РІ С…РѕСЂРµ Р°РЅРіРµР»СЊСЃРєРѕРіРѕ РїРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>и моя звучит хвала.</plain>
+            <plain>Рё РјРѕСЏ Р·РІСѓС‡РёС‚ С…РІР°Р»Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если битва завершится</plain>
+            <plain>Р•СЃР»Рё Р±РёС‚РІР° Р·Р°РІРµСЂС€РёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>против всякого греха,</plain>
+            <plain>РїСЂРѕС‚РёРІ РІСЃСЏРєРѕРіРѕ РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>победителю Иисусу</plain>
+            <plain>РїРѕР±РµРґРёС‚РµР»СЋ РРёСЃСѓСЃСѓ</plain>
         </string>
         <string>
-            <plain>будет вечная хвала!</plain>
+            <plain>Р±СѓРґРµС‚ РІРµС‡РЅР°СЏ С…РІР°Р»Р°!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>В радость горе обратиться,</plain>
+            <plain>Р’ СЂР°РґРѕСЃС‚СЊ РіРѕСЂРµ РѕР±СЂР°С‚РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>если с Агнцем будем мы,</plain>
+            <plain>РµСЃР»Рё СЃ РђРіРЅС†РµРј Р±СѓРґРµРј РјС‹,</plain>
         </string>
         <string>
-            <plain>и вся вечность озарится</plain>
+            <plain>Рё РІСЃСЏ РІРµС‡РЅРѕСЃС‚СЊ РѕР·Р°СЂРёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>светом утренней звезды.</plain>
+            <plain>СЃРІРµС‚РѕРј СѓС‚СЂРµРЅРЅРµР№ Р·РІРµР·РґС‹.</plain>
         </string>
     </verse>
 </psalm>

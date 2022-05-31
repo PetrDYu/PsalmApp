@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1927" name="Верный Вождь Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="1927" name="Р’РµСЂРЅС‹Р№ Р’РѕР¶РґСЊ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Верный Вождь - Спаситель:</plain>
+            <plain>Р’РµСЂРЅС‹Р№ Р’РѕР¶РґСЊ - РЎРїР°СЃРёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>Наш Он дивный Друг;</plain>
+            <plain>РќР°С€ РћРЅ РґРёРІРЅС‹Р№ Р”СЂСѓРі;</plain>
         </string>
         <string>
-            <plain>Даст Он нам охрану</plain>
+            <plain>Р”Р°СЃС‚ РћРЅ РЅР°Рј РѕС…СЂР°РЅСѓ</plain>
         </string>
         <string>
-            <plain>Среди бурь и вьюг.</plain>
+            <plain>РЎСЂРµРґРё Р±СѓСЂСЊ Рё РІСЊСЋРі.</plain>
         </string>
         <string>
-            <plain>Его мощью войско</plain>
+            <plain>Р•РіРѕ РјРѕС‰СЊСЋ РІРѕР№СЃРєРѕ</plain>
         </string>
         <string>
-            <plain>Вражье разобьем:</plain>
+            <plain>Р’СЂР°Р¶СЊРµ СЂР°Р·РѕР±СЊРµРј:</plain>
         </string>
         <string>
-            <plain>В Божий край с победой,</plain>
+            <plain>Р’ Р‘РѕР¶РёР№ РєСЂР°Р№ СЃ РїРѕР±РµРґРѕР№,</plain>
         </string>
         <string>
-            <plain>С торжеством войдем.</plain>
+            <plain>РЎ С‚РѕСЂР¶РµСЃС‚РІРѕРј РІРѕР№РґРµРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Ужасы снаружи,</plain>
+            <plain>РЈР¶Р°СЃС‹ СЃРЅР°СЂСѓР¶Рё,</plain>
         </string>
         <string>
-            <plain>Козней ада плод,</plain>
+            <plain>РљРѕР·РЅРµР№ Р°РґР° РїР»РѕРґ,</plain>
         </string>
         <string>
-            <plain>И врагов, что внутрь нас,</plain>
+            <plain>Р РІСЂР°РіРѕРІ, С‡С‚Рѕ РІРЅСѓС‚СЂСЊ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Знает Он вперед.</plain>
+            <plain>Р—РЅР°РµС‚ РћРЅ РІРїРµСЂРµРґ.</plain>
         </string>
         <string>
-            <plain>Верный в обещаньи,</plain>
+            <plain>Р’РµСЂРЅС‹Р№ РІ РѕР±РµС‰Р°РЅСЊРё,</plain>
         </string>
         <string>
-            <plain>Мощный, как всегда,</plain>
+            <plain>РњРѕС‰РЅС‹Р№, РєР°Рє РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>По любви спасает</plain>
+            <plain>РџРѕ Р»СЋР±РІРё СЃРїР°СЃР°РµС‚</plain>
         </string>
         <string>
-            <plain>Он Души от вреда.</plain>
+            <plain>РћРЅ Р”СѓС€Рё РѕС‚ РІСЂРµРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дух Святой, Заступник,</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, Р—Р°СЃС‚СѓРїРЅРёРє,</plain>
         </string>
         <string>
-            <plain>Приготовит нас</plain>
+            <plain>РџСЂРёРіРѕС‚РѕРІРёС‚ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Для небесной славы,</plain>
+            <plain>Р”Р»СЏ РЅРµР±РµСЃРЅРѕР№ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Что нам Бог припас.</plain>
+            <plain>Р§С‚Рѕ РЅР°Рј Р‘РѕРі РїСЂРёРїР°СЃ.</plain>
         </string>
         <string>
-            <plain>И тогда "осанну"</plain>
+            <plain>Р С‚РѕРіРґР° "РѕСЃР°РЅРЅСѓ"</plain>
         </string>
         <string>
-            <plain>Богу воспоем;</plain>
+            <plain>Р‘РѕРіСѓ РІРѕСЃРїРѕРµРј;</plain>
         </string>
         <string>
-            <plain>И "аминь" в ответ нам</plain>
+            <plain>Р "Р°РјРёРЅСЊ" РІ РѕС‚РІРµС‚ РЅР°Рј</plain>
         </string>
         <string>
-            <plain>Прозвучит кругом.</plain>
+            <plain>РџСЂРѕР·РІСѓС‡РёС‚ РєСЂСѓРіРѕРј.</plain>
         </string>
     </verse>
 </psalm>

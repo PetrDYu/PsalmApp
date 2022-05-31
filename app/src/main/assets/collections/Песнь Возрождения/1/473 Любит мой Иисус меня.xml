@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="473" name="Любит мой Иисус меня" canon="false" text="" textRus="" music="">
+<psalm number="473" name="Р›СЋР±РёС‚ РјРѕР№ РРёСЃСѓСЃ РјРµРЅСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Любит мой Иисус меня! –</plain>
+            <plain>Р›СЋР±РёС‚ РјРѕР№ РРёСЃСѓСЃ РјРµРЅСЏ! вЂ“</plain>
         </string>
         <string>
-            <plain>Это твердо знаю я;</plain>
+            <plain>Р­С‚Рѕ С‚РІРµСЂРґРѕ Р·РЅР°СЋ СЏ;</plain>
         </string>
         <string>
-            <plain>Он детей к Себе зовет</plain>
+            <plain>РћРЅ РґРµС‚РµР№ Рє РЎРµР±Рµ Р·РѕРІРµС‚</plain>
         </string>
         <string>
-            <plain>И на руки их берет.</plain>
+            <plain>Р РЅР° СЂСѓРєРё РёС… Р±РµСЂРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Любит Иисус,</plain>
+            <plain>Р›СЋР±РёС‚ РРёСЃСѓСЃ,</plain>
         </string>
         <string>
-            <plain>Любит Он меня,</plain>
+            <plain>Р›СЋР±РёС‚ РћРЅ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Любит Иисус!</plain>
+            <plain>Р›СЋР±РёС‚ РРёСЃСѓСЃ!</plain>
         </string>
         <string>
-            <plain>Это твердо знаю я.</plain>
+            <plain>Р­С‚Рѕ С‚РІРµСЂРґРѕ Р·РЅР°СЋ СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>По любви и доброте</plain>
+            <plain>РџРѕ Р»СЋР±РІРё Рё РґРѕР±СЂРѕС‚Рµ</plain>
         </string>
         <string>
-            <plain>Пострадал Он на кресте;</plain>
+            <plain>РџРѕСЃС‚СЂР°РґР°Р» РћРЅ РЅР° РєСЂРµСЃС‚Рµ;</plain>
         </string>
         <string>
-            <plain>За меня Он кровь пролил,</plain>
+            <plain>Р—Р° РјРµРЅСЏ РћРЅ РєСЂРѕРІСЊ РїСЂРѕР»РёР»,</plain>
         </string>
         <string>
-            <plain>Ею Он меня омыл.</plain>
+            <plain>Р•СЋ РћРЅ РјРµРЅСЏ РѕРјС‹Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Очень любит Он меня!</plain>
+            <plain>РћС‡РµРЅСЊ Р»СЋР±РёС‚ РћРЅ РјРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Если с жаждою вреда</plain>
+            <plain>Р•СЃР»Рё СЃ Р¶Р°Р¶РґРѕСЋ РІСЂРµРґР°</plain>
         </string>
         <string>
-            <plain>Ранят сердце иногда,</plain>
+            <plain>Р Р°РЅСЏС‚ СЃРµСЂРґС†Рµ РёРЅРѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>В Нем найду отраду я!</plain>
+            <plain>Р’ РќРµРј РЅР°Р№РґСѓ РѕС‚СЂР°РґСѓ СЏ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Любит Он! Он вечно мой!</plain>
+            <plain>Р›СЋР±РёС‚ РћРЅ! РћРЅ РІРµС‡РЅРѕ РјРѕР№!</plain>
         </string>
         <string>
-            <plain>Я Его навек душой!</plain>
+            <plain>РЇ Р•РіРѕ РЅР°РІРµРє РґСѓС€РѕР№!</plain>
         </string>
         <string>
-            <plain>Мне никто не повредит,</plain>
+            <plain>РњРЅРµ РЅРёРєС‚Рѕ РЅРµ РїРѕРІСЂРµРґРёС‚,</plain>
         </string>
         <string>
-            <plain>От всех зол Он сохранит.</plain>
+            <plain>РћС‚ РІСЃРµС… Р·РѕР» РћРЅ СЃРѕС…СЂР°РЅРёС‚.</plain>
         </string>
     </verse>
 </psalm>

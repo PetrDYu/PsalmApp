@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="41" name="Будь милосерд ко мне Христос" canon="false" text="" textRus="" music="">
+<psalm number="41" name="Р‘СѓРґСЊ РјРёР»РѕСЃРµСЂРґ РєРѕ РјРЅРµ РҐСЂРёСЃС‚РѕСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Будь милосерд ко мне, Христос!</plain>
+            <plain>Р‘СѓРґСЊ РјРёР»РѕСЃРµСЂРґ РєРѕ РјРЅРµ, РҐСЂРёСЃС‚РѕСЃ!</plain>
         </string>
         <string>
-            <plain>Прости виновного во всем.</plain>
+            <plain>РџСЂРѕСЃС‚Рё РІРёРЅРѕРІРЅРѕРіРѕ РІРѕ РІСЃРµРј.</plain>
         </string>
         <string>
-            <plain>Я скорбь к Тебе свою принес,</plain>
+            <plain>РЇ СЃРєРѕСЂР±СЊ Рє РўРµР±Рµ СЃРІРѕСЋ РїСЂРёРЅРµСЃ,</plain>
         </string>
         <string>
-            <plain>Я прихожу к Тебе с грехом.</plain>
+            <plain>РЇ РїСЂРёС…РѕР¶Сѓ Рє РўРµР±Рµ СЃ РіСЂРµС…РѕРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>В грехах запятнан без числа,</plain>
+            <plain>Р’ РіСЂРµС…Р°С… Р·Р°РїСЏС‚РЅР°РЅ Р±РµР· С‡РёСЃР»Р°,</plain>
         </string>
         <string>
-            <plain>Обременен делами зла;</plain>
+            <plain>РћР±СЂРµРјРµРЅРµРЅ РґРµР»Р°РјРё Р·Р»Р°;</plain>
         </string>
         <string>
-            <plain>Но велика Твоя любовь!</plain>
+            <plain>РќРѕ РІРµР»РёРєР° РўРІРѕСЏ Р»СЋР±РѕРІСЊ!</plain>
         </string>
         <string>
-            <plain>Их может смыть святая кровь.</plain>
+            <plain>РС… РјРѕР¶РµС‚ СЃРјС‹С‚СЊ СЃРІСЏС‚Р°СЏ РєСЂРѕРІСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>От всех грехов меня омой</plain>
+            <plain>РћС‚ РІСЃРµС… РіСЂРµС…РѕРІ РјРµРЅСЏ РѕРјРѕР№</plain>
         </string>
         <string>
-            <plain>И дух смущенный успокой.</plain>
+            <plain>Р РґСѓС… СЃРјСѓС‰РµРЅРЅС‹Р№ СѓСЃРїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Прости меня, Спаситель мой,</plain>
+            <plain>РџСЂРѕСЃС‚Рё РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Да буду я теперь уж Твой.</plain>
+            <plain>Р”Р° Р±СѓРґСѓ СЏ С‚РµРїРµСЂСЊ СѓР¶ РўРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Со мной на суд Ты не входи,</plain>
+            <plain>РЎРѕ РјРЅРѕР№ РЅР° СЃСѓРґ РўС‹ РЅРµ РІС…РѕРґРё,</plain>
         </string>
         <string>
-            <plain>Кто будет чист перед Тобой?</plain>
+            <plain>РљС‚Рѕ Р±СѓРґРµС‚ С‡РёСЃС‚ РїРµСЂРµРґ РўРѕР±РѕР№?</plain>
         </string>
         <string>
-            <plain>Меня по милости прости,</plain>
+            <plain>РњРµРЅСЏ РїРѕ РјРёР»РѕСЃС‚Рё РїСЂРѕСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Своею кровию омой.</plain>
+            <plain>РЎРІРѕРµСЋ РєСЂРѕРІРёСЋ РѕРјРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ведь грешников Ты Сам зовешь,</plain>
+            <plain>Р’РµРґСЊ РіСЂРµС€РЅРёРєРѕРІ РўС‹ РЎР°Рј Р·РѕРІРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Прощенье им Твое даешь;</plain>
+            <plain>РџСЂРѕС‰РµРЅСЊРµ РёРј РўРІРѕРµ РґР°РµС€СЊ;</plain>
         </string>
         <string>
-            <plain>И я на призыв Твой спешу,</plain>
+            <plain>Р СЏ РЅР° РїСЂРёР·С‹РІ РўРІРѕР№ СЃРїРµС€Сѓ,</plain>
         </string>
         <string>
-            <plain>Прощенья, Господи, прошу!</plain>
+            <plain>РџСЂРѕС‰РµРЅСЊСЏ, Р“РѕСЃРїРѕРґРё, РїСЂРѕС€Сѓ!</plain>
         </string>
     </verse>
 </psalm>

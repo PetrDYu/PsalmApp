@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1019" name="Сколько в мире чудес" canon="false" text="" textRus="" music="">
+<psalm number="1019" name="РЎРєРѕР»СЊРєРѕ РІ РјРёСЂРµ С‡СѓРґРµСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сколько в мире чудес!</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РІ РјРёСЂРµ С‡СѓРґРµСЃ!</plain>
         </string>
         <string>
-            <plain>Сколько в нем красоты!</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РІ РЅРµРј РєСЂР°СЃРѕС‚С‹!</plain>
         </string>
         <string>
-            <plain>Возрождается лес</plain>
+            <plain>Р’РѕР·СЂРѕР¶РґР°РµС‚СЃСЏ Р»РµСЃ</plain>
         </string>
         <string>
-            <plain>Буйным цветом весны.</plain>
+            <plain>Р‘СѓР№РЅС‹Рј С†РІРµС‚РѕРј РІРµСЃРЅС‹.</plain>
         </string>
         <string>
-            <plain>Солнце, блеск, и цветы,</plain>
+            <plain>РЎРѕР»РЅС†Рµ, Р±Р»РµСЃРє, Рё С†РІРµС‚С‹,</plain>
         </string>
         <string>
-            <plain>И небес бирюза.</plain>
+            <plain>Р РЅРµР±РµСЃ Р±РёСЂСЋР·Р°.</plain>
         </string>
         <string>
-            <plain>Но зачем это мне,</plain>
+            <plain>РќРѕ Р·Р°С‡РµРј СЌС‚Рѕ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Если слепы глаза.</plain>
+            <plain>Р•СЃР»Рё СЃР»РµРїС‹ РіР»Р°Р·Р°.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Если я не могу</plain>
+            <plain>Р•СЃР»Рё СЏ РЅРµ РјРѕРіСѓ</plain>
         </string>
         <string>
-            <plain>Твои чувства являть.</plain>
+            <plain>РўРІРѕРё С‡СѓРІСЃС‚РІР° СЏРІР»СЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Если я не могу</plain>
+            <plain>Р•СЃР»Рё СЏ РЅРµ РјРѕРіСѓ</plain>
         </string>
         <string>
-            <plain>Твою боль разделять,</plain>
+            <plain>РўРІРѕСЋ Р±РѕР»СЊ СЂР°Р·РґРµР»СЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>То зачем тогда смерть</plain>
+            <plain>РўРѕ Р·Р°С‡РµРј С‚РѕРіРґР° СЃРјРµСЂС‚СЊ</plain>
         </string>
         <string>
-            <plain>И все муки креста?</plain>
+            <plain>Р РІСЃРµ РјСѓРєРё РєСЂРµСЃС‚Р°?</plain>
         </string>
         <string>
-            <plain>Твоя кровь и любовь</plain>
+            <plain>РўРІРѕСЏ РєСЂРѕРІСЊ Рё Р»СЋР±РѕРІСЊ</plain>
         </string>
         <string>
-            <plain>Без границ и конца.</plain>
+            <plain>Р‘РµР· РіСЂР°РЅРёС† Рё РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Помоги, мой Господь,</plain>
+            <plain>РџРѕРјРѕРіРё, РјРѕР№ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Быть сосудом Твоим.</plain>
+            <plain>Р‘С‹С‚СЊ СЃРѕСЃСѓРґРѕРј РўРІРѕРёРј.</plain>
         </string>
         <string>
-            <plain>Ты наполни меня</plain>
+            <plain>РўС‹ РЅР°РїРѕР»РЅРё РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Духом Мудрым,</plain>
+            <plain>Р”СѓС…РѕРј РњСѓРґСЂС‹Рј,</plain>
         </string>
         <string>
-            <plain>Святым, Чтобы воля</plain>
+            <plain>РЎРІСЏС‚С‹Рј, Р§С‚РѕР±С‹ РІРѕР»СЏ</plain>
         </string>
         <string>
-            <plain>Твоя стала волей моей.</plain>
+            <plain>РўРІРѕСЏ СЃС‚Р°Р»Р° РІРѕР»РµР№ РјРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Чтоб трудиться я мог</plain>
+            <plain>Р§С‚РѕР± С‚СЂСѓРґРёС‚СЊСЃСЏ СЏ РјРѕРі</plain>
         </string>
         <string>
-            <plain>И любить горячей.</plain>
+            <plain>Р Р»СЋР±РёС‚СЊ РіРѕСЂСЏС‡РµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Очи зрячие дай.</plain>
+            <plain>РћС‡Рё Р·СЂСЏС‡РёРµ РґР°Р№.</plain>
         </string>
         <string>
-            <plain>Чуткий слух мне пошли,</plain>
+            <plain>Р§СѓС‚РєРёР№ СЃР»СѓС… РјРЅРµ РїРѕС€Р»Рё,</plain>
         </string>
         <string>
-            <plain>Чтоб все слышать и видеть</plain>
+            <plain>Р§С‚РѕР± РІСЃРµ СЃР»С‹С€Р°С‚СЊ Рё РІРёРґРµС‚СЊ</plain>
         </string>
         <string>
-            <plain>Вблизи и вдали,</plain>
+            <plain>Р’Р±Р»РёР·Рё Рё РІРґР°Р»Рё,</plain>
         </string>
         <string>
-            <plain>Чтоб стук сердца людей</plain>
+            <plain>Р§С‚РѕР± СЃС‚СѓРє СЃРµСЂРґС†Р° Р»СЋРґРµР№</plain>
         </string>
         <string>
-            <plain>Отзывался во мне.</plain>
+            <plain>РћС‚Р·С‹РІР°Р»СЃСЏ РІРѕ РјРЅРµ.</plain>
         </string>
         <string>
-            <plain>Не напрасно прошла</plain>
+            <plain>РќРµ РЅР°РїСЂР°СЃРЅРѕ РїСЂРѕС€Р»Р°</plain>
         </string>
         <string>
-            <plain>Чтобы жизнь на земле.</plain>
+            <plain>Р§С‚РѕР±С‹ Р¶РёР·РЅСЊ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
 </psalm>

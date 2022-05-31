@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2005" name="Благо есть славить Господа" canon="false" text="" textRus="" music="">
+<psalm number="2005" name="Р‘Р»Р°РіРѕ РµСЃС‚СЊ СЃР»Р°РІРёС‚СЊ Р“РѕСЃРїРѕРґР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благо есть славить Господа</plain>
+            <plain>Р‘Р»Р°РіРѕ РµСЃС‚СЊ СЃР»Р°РІРёС‚СЊ Р“РѕСЃРїРѕРґР°</plain>
         </string>
         <string>
-            <plain>И петь имени Твоему Всевышний.</plain>
+            <plain>Р РїРµС‚СЊ РёРјРµРЅРё РўРІРѕРµРјСѓ Р’СЃРµРІС‹С€РЅРёР№.</plain>
         </string>
         <string>
-            <plain>Возвещать утром милость Твою</plain>
+            <plain>Р’РѕР·РІРµС‰Р°С‚СЊ СѓС‚СЂРѕРј РјРёР»РѕСЃС‚СЊ РўРІРѕСЋ</plain>
         </string>
         <string>
-            <plain>И истину Твою весь день.</plain>
+            <plain>Р РёСЃС‚РёРЅСѓ РўРІРѕСЋ РІРµСЃСЊ РґРµРЅСЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты возвеселил душу мою.</plain>
+            <plain>РўС‹ РІРѕР·РІРµСЃРµР»РёР» РґСѓС€Сѓ РјРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Я Тебе, Господь, пою Хвалу,</plain>
+            <plain>РЇ РўРµР±Рµ, Р“РѕСЃРїРѕРґСЊ, РїРѕСЋ РҐРІР°Р»Сѓ,</plain>
         </string>
         <string>
-            <plain>Дела Твой велики, мой Отец</plain>
+            <plain>Р”РµР»Р° РўРІРѕР№ РІРµР»РёРєРё, РјРѕР№ РћС‚РµС†</plain>
         </string>
         <string>
-            <plain>Ты мой Господь.</plain>
+            <plain>РўС‹ РјРѕР№ Р“РѕСЃРїРѕРґСЊ.</plain>
         </string>
         <string>
-            <plain>Ты мой Творец</plain>
+            <plain>РўС‹ РјРѕР№ РўРІРѕСЂРµС†</plain>
         </string>
         <string>
-            <plain>Ты мой Творец</plain>
+            <plain>РўС‹ РјРѕР№ РўРІРѕСЂРµС†</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господи - Ты защита моя,</plain>
+            <plain>Р“РѕСЃРїРѕРґРё - РўС‹ Р·Р°С‰РёС‚Р° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Ты мой Бог, Ты Твердыня жизни.</plain>
+            <plain>РўС‹ РјРѕР№ Р‘РѕРі, РўС‹ РўРІРµСЂРґС‹РЅСЏ Р¶РёР·РЅРё.</plain>
         </string>
         <string>
-            <plain>Над землёй, небеса высоко,</plain>
+            <plain>РќР°Рґ Р·РµРјР»С‘Р№, РЅРµР±РµСЃР° РІС‹СЃРѕРєРѕ,</plain>
         </string>
         <string>
-            <plain>Слава Твоя во веки веков.</plain>
+            <plain>РЎР»Р°РІР° РўРІРѕСЏ РІРѕ РІРµРєРё РІРµРєРѕРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Возвожу мои очи к горам,</plain>
+            <plain>Р’РѕР·РІРѕР¶Сѓ РјРѕРё РѕС‡Рё Рє РіРѕСЂР°Рј,</plain>
         </string>
         <string>
-            <plain>Взношу мои руки к небу.</plain>
+            <plain>Р’Р·РЅРѕС€Сѓ РјРѕРё СЂСѓРєРё Рє РЅРµР±Сѓ.</plain>
         </string>
         <string>
-            <plain>Я познал, что Господь велик мой,</plain>
+            <plain>РЇ РїРѕР·РЅР°Р», С‡С‚Рѕ Р“РѕСЃРїРѕРґСЊ РІРµР»РёРє РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Что милость Его над всей землёй.</plain>
+            <plain>Р§С‚Рѕ РјРёР»РѕСЃС‚СЊ Р•РіРѕ РЅР°Рґ РІСЃРµР№ Р·РµРјР»С‘Р№.</plain>
         </string>
     </verse>
 </psalm>

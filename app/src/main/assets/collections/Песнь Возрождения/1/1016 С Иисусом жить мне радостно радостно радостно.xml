@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1016" name="С Иисусом жить мне радостно радостно радостно" canon="false" text="" textRus="" music="">
+<psalm number="1016" name="РЎ РРёСЃСѓСЃРѕРј Р¶РёС‚СЊ РјРЅРµ СЂР°РґРѕСЃС‚РЅРѕ СЂР°РґРѕСЃС‚РЅРѕ СЂР°РґРѕСЃС‚РЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С Иисусом жить мне радостно,</plain>
+            <plain>РЎ РРёСЃСѓСЃРѕРј Р¶РёС‚СЊ РјРЅРµ СЂР°РґРѕСЃС‚РЅРѕ,</plain>
         </string>
         <string>
-            <plain>радостно, радостно,</plain>
+            <plain>СЂР°РґРѕСЃС‚РЅРѕ, СЂР°РґРѕСЃС‚РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Он нас ведет по пастбищам,</plain>
+            <plain>РћРЅ РЅР°СЃ РІРµРґРµС‚ РїРѕ РїР°СЃС‚Р±РёС‰Р°Рј,</plain>
         </string>
         <string>
-            <plain>по злачным пастбищам!</plain>
+            <plain>РїРѕ Р·Р»Р°С‡РЅС‹Рј РїР°СЃС‚Р±РёС‰Р°Рј!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О Иисус, Спаситель!</plain>
+            <plain>Рћ РРёСЃСѓСЃ, РЎРїР°СЃРёС‚РµР»СЊ!</plain>
         </string>
         <string>
-            <plain>Ты вечно мой,</plain>
+            <plain>РўС‹ РІРµС‡РЅРѕ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты вечно будешь мой</plain>
+            <plain>РўС‹ РІРµС‡РЅРѕ Р±СѓРґРµС€СЊ РјРѕР№</plain>
         </string>
         <string>
-            <plain>наилучший Друг!</plain>
+            <plain>РЅР°РёР»СѓС‡С€РёР№ Р”СЂСѓРі!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Меня Он смертью искупил,</plain>
+            <plain>РњРµРЅСЏ РћРЅ СЃРјРµСЂС‚СЊСЋ РёСЃРєСѓРїРёР»,</plain>
         </string>
         <string>
-            <plain>искупил, искупил</plain>
+            <plain>РёСЃРєСѓРїРёР», РёСЃРєСѓРїРёР»</plain>
         </string>
         <string>
-            <plain>И от оков освободил,</plain>
+            <plain>Р РѕС‚ РѕРєРѕРІ РѕСЃРІРѕР±РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>меня освободил.</plain>
+            <plain>РјРµРЅСЏ РѕСЃРІРѕР±РѕРґРёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он Дух Святой мне ниспослал,</plain>
+            <plain>РћРЅ Р”СѓС… РЎРІСЏС‚РѕР№ РјРЅРµ РЅРёСЃРїРѕСЃР»Р°Р»,</plain>
         </string>
         <string>
-            <plain>ниспослал, ниспослал,</plain>
+            <plain>РЅРёСЃРїРѕСЃР»Р°Р», РЅРёСЃРїРѕСЃР»Р°Р»,</plain>
         </string>
         <string>
-            <plain>Тем Духом Он меня крестил</plain>
+            <plain>РўРµРј Р”СѓС…РѕРј РћРЅ РјРµРЅСЏ РєСЂРµСЃС‚РёР»</plain>
         </string>
         <string>
-            <plain>и сердце оживил.</plain>
+            <plain>Рё СЃРµСЂРґС†Рµ РѕР¶РёРІРёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Его всем сердцем я люблю,</plain>
+            <plain>Р•РіРѕ РІСЃРµРј СЃРµСЂРґС†РµРј СЏ Р»СЋР±Р»СЋ,</plain>
         </string>
         <string>
-            <plain>я люблю, я люблю</plain>
+            <plain>СЏ Р»СЋР±Р»СЋ, СЏ Р»СЋР±Р»СЋ</plain>
         </string>
         <string>
-            <plain>И жизнь свою я отдаю</plain>
+            <plain>Р Р¶РёР·РЅСЊ СЃРІРѕСЋ СЏ РѕС‚РґР°СЋ</plain>
         </string>
         <string>
-            <plain>Иисусу моему.</plain>
+            <plain>РРёСЃСѓСЃСѓ РјРѕРµРјСѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я Бога буду прославлять,</plain>
+            <plain>РЇ Р‘РѕРіР° Р±СѓРґСѓ РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>прославлять, прославлять</plain>
+            <plain>РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ, РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>За милость ту великую</plain>
+            <plain>Р—Р° РјРёР»РѕСЃС‚СЊ С‚Сѓ РІРµР»РёРєСѓСЋ</plain>
         </string>
         <string>
-            <plain>и радость вечную.</plain>
+            <plain>Рё СЂР°РґРѕСЃС‚СЊ РІРµС‡РЅСѓСЋ.</plain>
         </string>
     </verse>
 </psalm>

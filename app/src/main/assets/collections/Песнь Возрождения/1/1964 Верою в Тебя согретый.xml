@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1964" name="Верою в Тебя согретый" canon="false" text="" textRus="" music="">
+<psalm number="1964" name="Р’РµСЂРѕСЋ РІ РўРµР±СЏ СЃРѕРіСЂРµС‚С‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Верою в Тебя согретый,</plain>
+            <plain>Р’РµСЂРѕСЋ РІ РўРµР±СЏ СЃРѕРіСЂРµС‚С‹Р№,</plain>
         </string>
         <string>
-            <plain>Поли я чувств, Господь, к Тебе,</plain>
+            <plain>РџРѕР»Рё СЏ С‡СѓРІСЃС‚РІ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>С ними я несу обеты</plain>
+            <plain>РЎ РЅРёРјРё СЏ РЅРµСЃСѓ РѕР±РµС‚С‹</plain>
         </string>
         <string>
-            <plain>В тихом лепете, в мольбе.</plain>
+            <plain>Р’ С‚РёС…РѕРј Р»РµРїРµС‚Рµ, РІ РјРѕР»СЊР±Рµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Я люблю Твой путь.</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ РўРІРѕР№ РїСѓС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Всесильный, И хочу на нем пребыть,</plain>
+            <plain>Р’СЃРµСЃРёР»СЊРЅС‹Р№, Р С…РѕС‡Сѓ РЅР° РЅРµРј РїСЂРµР±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>И в любви Твоей обильной</plain>
+            <plain>Р РІ Р»СЋР±РІРё РўРІРѕРµР№ РѕР±РёР»СЊРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Жизнь свою укоренить.</plain>
+            <plain>Р–РёР·РЅСЊ СЃРІРѕСЋ СѓРєРѕСЂРµРЅРёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я люблю в тиши, в молчаньи</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ РІ С‚РёС€Рё, РІ РјРѕР»С‡Р°РЅСЊРё</plain>
         </string>
         <string>
-            <plain>Ум в закон Твой углублять,</plain>
+            <plain>РЈРј РІ Р·Р°РєРѕРЅ РўРІРѕР№ СѓРіР»СѓР±Р»СЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Твой завет, Твое Писанье,</plain>
+            <plain>РўРІРѕР№ Р·Р°РІРµС‚, РўРІРѕРµ РџРёСЃР°РЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Больше сердцем познавать.</plain>
+            <plain>Р‘РѕР»СЊС€Рµ СЃРµСЂРґС†РµРј РїРѕР·РЅР°РІР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я люблю Твой голос слышать,</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ РўРІРѕР№ РіРѕР»РѕСЃ СЃР»С‹С€Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>К сердцу близко принимать,</plain>
+            <plain>Рљ СЃРµСЂРґС†Сѓ Р±Р»РёР·РєРѕ РїСЂРёРЅРёРјР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Милосердьем неба дышать</plain>
+            <plain>РњРёР»РѕСЃРµСЂРґСЊРµРј РЅРµР±Р° РґС‹С€Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И о вечном размышлять.</plain>
+            <plain>Р Рѕ РІРµС‡РЅРѕРј СЂР°Р·РјС‹С€Р»СЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я люблю о правде вечной</plain>
+            <plain>РЇ Р»СЋР±Р»СЋ Рѕ РїСЂР°РІРґРµ РІРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Душам грешным возвещать</plain>
+            <plain>Р”СѓС€Р°Рј РіСЂРµС€РЅС‹Рј РІРѕР·РІРµС‰Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И из праздности беспечной</plain>
+            <plain>Р РёР· РїСЂР°Р·РґРЅРѕСЃС‚Рё Р±РµСЃРїРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Их на труд Твой призывать.</plain>
+            <plain>РС… РЅР° С‚СЂСѓРґ РўРІРѕР№ РїСЂРёР·С‹РІР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

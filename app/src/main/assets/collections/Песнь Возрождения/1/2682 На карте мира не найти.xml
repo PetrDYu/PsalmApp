@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2682" name="На карте мира не найти" canon="false" text="" textRus="" music="">
+<psalm number="2682" name="РќР° РєР°СЂС‚Рµ РјРёСЂР° РЅРµ РЅР°Р№С‚Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На карте мира не найти</plain>
+            <plain>РќР° РєР°СЂС‚Рµ РјРёСЂР° РЅРµ РЅР°Р№С‚Рё</plain>
         </string>
         <string>
-            <plain>Страны, где Царь Христос.</plain>
+            <plain>РЎС‚СЂР°РЅС‹, РіРґРµ Р¦Р°СЂСЊ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
         <string>
-            <plain>Но как же нам туда войти?</plain>
+            <plain>РќРѕ РєР°Рє Р¶Рµ РЅР°Рј С‚СѓРґР° РІРѕР№С‚Рё?</plain>
         </string>
         <string>
-            <plain>- Является вопрос.</plain>
+            <plain>- РЇРІР»СЏРµС‚СЃСЏ РІРѕРїСЂРѕСЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Туда нельзя на корабле</plain>
+            <plain>РўСѓРґР° РЅРµР»СЊР·СЏ РЅР° РєРѕСЂР°Р±Р»Рµ</plain>
         </string>
         <string>
-            <plain>По океану плыть;</plain>
+            <plain>РџРѕ РѕРєРµР°РЅСѓ РїР»С‹С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Ни пешеходом по земле</plain>
+            <plain>РќРё РїРµС€РµС…РѕРґРѕРј РїРѕ Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>Путь дальний совершить.</plain>
+            <plain>РџСѓС‚СЊ РґР°Р»СЊРЅРёР№ СЃРѕРІРµСЂС€РёС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ни в стратосфере, ни в воде</plain>
+            <plain>РќРё РІ СЃС‚СЂР°С‚РѕСЃС„РµСЂРµ, РЅРё РІ РІРѕРґРµ</plain>
         </string>
         <string>
-            <plain>Страны той чудной нет.</plain>
+            <plain>РЎС‚СЂР°РЅС‹ С‚РѕР№ С‡СѓРґРЅРѕР№ РЅРµС‚.</plain>
         </string>
         <string>
-            <plain>Но где же, в самом деле, где?</plain>
+            <plain>РќРѕ РіРґРµ Р¶Рµ, РІ СЃР°РјРѕРј РґРµР»Рµ, РіРґРµ?</plain>
         </string>
         <string>
-            <plain>Кто может дать ответ?</plain>
+            <plain>РљС‚Рѕ РјРѕР¶РµС‚ РґР°С‚СЊ РѕС‚РІРµС‚?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Здесь география проста.</plain>
+            <plain>Р—РґРµСЃСЊ РіРµРѕРіСЂР°С„РёСЏ РїСЂРѕСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Кто хочет знать сейчас,</plain>
+            <plain>РљС‚Рѕ С…РѕС‡РµС‚ Р·РЅР°С‚СЊ СЃРµР№С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Примите верою Христа,</plain>
+            <plain>РџСЂРёРјРёС‚Рµ РІРµСЂРѕСЋ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>И Царство будет в нас.</plain>
+            <plain>Р Р¦Р°СЂСЃС‚РІРѕ Р±СѓРґРµС‚ РІ РЅР°СЃ.</plain>
         </string>
     </verse>
 </psalm>

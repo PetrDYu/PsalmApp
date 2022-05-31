@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="182" name="Я знаю жив Христос Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="182" name="РЇ Р·РЅР°СЋ Р¶РёРІ РҐСЂРёСЃС‚РѕСЃ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я знаю, жив Христос Спаситель,</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р¶РёРІ РҐСЂРёСЃС‚РѕСЃ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Он место дать мне обещал;</plain>
+            <plain>РћРЅ РјРµСЃС‚Рѕ РґР°С‚СЊ РјРЅРµ РѕР±РµС‰Р°Р»;</plain>
         </string>
         <string>
-            <plain>Он дверь открыл мне жизни вечной</plain>
+            <plain>РћРЅ РґРІРµСЂСЊ РѕС‚РєСЂС‹Р» РјРЅРµ Р¶РёР·РЅРё РІРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>И чадом Божиим назвал.</plain>
+            <plain>Р С‡Р°РґРѕРј Р‘РѕР¶РёРёРј РЅР°Р·РІР°Р».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Никто не может взять меня</plain>
+            <plain>РќРёРєС‚Рѕ РЅРµ РјРѕР¶РµС‚ РІР·СЏС‚СЊ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Из рук Спасителя Христа.</plain>
+            <plain>РР· СЂСѓРє РЎРїР°СЃРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ведь здесь я только жду призыва,</plain>
+            <plain>Р’РµРґСЊ Р·РґРµСЃСЊ СЏ С‚РѕР»СЊРєРѕ Р¶РґСѓ РїСЂРёР·С‹РІР°,</plain>
         </string>
         <string>
-            <plain>Когда Господь придет за мной,</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РїСЂРёРґРµС‚ Р·Р° РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Когда возьмет меня от мира</plain>
+            <plain>РљРѕРіРґР° РІРѕР·СЊРјРµС‚ РјРµРЅСЏ РѕС‚ РјРёСЂР°</plain>
         </string>
         <string>
-            <plain>И приведет меня домой.</plain>
+            <plain>Р РїСЂРёРІРµРґРµС‚ РјРµРЅСЏ РґРѕРјРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Всецело сердцем доверяю</plain>
+            <plain>Р’СЃРµС†РµР»Рѕ СЃРµСЂРґС†РµРј РґРѕРІРµСЂСЏСЋ</plain>
         </string>
         <string>
-            <plain>Тому, Кто распят за меня;</plain>
+            <plain>РўРѕРјСѓ, РљС‚Рѕ СЂР°СЃРїСЏС‚ Р·Р° РјРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>Я голосу Его внимаю:</plain>
+            <plain>РЇ РіРѕР»РѕСЃСѓ Р•РіРѕ РІРЅРёРјР°СЋ:</plain>
         </string>
         <string>
-            <plain>"О, приходи! Я жду тебя".</plain>
+            <plain>"Рћ, РїСЂРёС…РѕРґРё! РЇ Р¶РґСѓ С‚РµР±СЏ".</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я побежден Его любовью,</plain>
+            <plain>РЇ РїРѕР±РµР¶РґРµРЅ Р•РіРѕ Р»СЋР±РѕРІСЊСЋ,</plain>
         </string>
         <string>
-            <plain>Он за меня Страдальцем стал,</plain>
+            <plain>РћРЅ Р·Р° РјРµРЅСЏ РЎС‚СЂР°РґР°Р»СЊС†РµРј СЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>Он истекал пречистой кровью</plain>
+            <plain>РћРЅ РёСЃС‚РµРєР°Р» РїСЂРµС‡РёСЃС‚РѕР№ РєСЂРѕРІСЊСЋ</plain>
         </string>
         <string>
-            <plain>И жизнь мне смертью крестной дал.</plain>
+            <plain>Р Р¶РёР·РЅСЊ РјРЅРµ СЃРјРµСЂС‚СЊСЋ РєСЂРµСЃС‚РЅРѕР№ РґР°Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Спаситель мой придет уж скоро</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№ РїСЂРёРґРµС‚ СѓР¶ СЃРєРѕСЂРѕ</plain>
         </string>
         <string>
-            <plain>И Сам меня туда возьмет,</plain>
+            <plain>Р РЎР°Рј РјРµРЅСЏ С‚СѓРґР° РІРѕР·СЊРјРµС‚,</plain>
         </string>
         <string>
-            <plain>Где под лучом Христова взора</plain>
+            <plain>Р“РґРµ РїРѕРґ Р»СѓС‡РѕРј РҐСЂРёСЃС‚РѕРІР° РІР·РѕСЂР°</plain>
         </string>
         <string>
-            <plain>Мой дух навеки воспоет.</plain>
+            <plain>РњРѕР№ РґСѓС… РЅР°РІРµРєРё РІРѕСЃРїРѕРµС‚.</plain>
         </string>
     </verse>
 </psalm>

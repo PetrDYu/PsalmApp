@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1684" name="О благодать спасён Тобой" canon="false" text="" textRus="" music="">
+<psalm number="1684" name="Рћ Р±Р»Р°РіРѕРґР°С‚СЊ СЃРїР°СЃС‘РЅ РўРѕР±РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, благодать! спасён Тобой</plain>
+            <plain>Рћ, Р±Р»Р°РіРѕРґР°С‚СЊ! СЃРїР°СЃС‘РЅ РўРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>Я из пучины бед.</plain>
+            <plain>РЇ РёР· РїСѓС‡РёРЅС‹ Р±РµРґ.</plain>
         </string>
         <string>
-            <plain>Был мёртв - и чудом стал живой.</plain>
+            <plain>Р‘С‹Р» РјС‘СЂС‚РІ - Рё С‡СѓРґРѕРј СЃС‚Р°Р» Р¶РёРІРѕР№.</plain>
         </string>
         <string>
-            <plain>Был слеп - и вижу свет.</plain>
+            <plain>Р‘С‹Р» СЃР»РµРї - Рё РІРёР¶Сѓ СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Сперва внушила сердцу страх.</plain>
+            <plain>РЎРїРµСЂРІР° РІРЅСѓС€РёР»Р° СЃРµСЂРґС†Сѓ СЃС‚СЂР°С….</plain>
         </string>
         <string>
-            <plain>Затем дала покой.</plain>
+            <plain>Р—Р°С‚РµРј РґР°Р»Р° РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Я скорбь души излил в слезах.</plain>
+            <plain>РЇ СЃРєРѕСЂР±СЊ РґСѓС€Рё РёР·Р»РёР» РІ СЃР»РµР·Р°С….</plain>
         </string>
         <string>
-            <plain>Твой мир течёт рекой.</plain>
+            <plain>РўРІРѕР№ РјРёСЂ С‚РµС‡С‘С‚ СЂРµРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Прошёл немало я скорбей.</plain>
+            <plain>РџСЂРѕС€С‘Р» РЅРµРјР°Р»Рѕ СЏ СЃРєРѕСЂР±РµР№.</plain>
         </string>
         <string>
-            <plain>Невзгод и чёрных дней.</plain>
+            <plain>РќРµРІР·РіРѕРґ Рё С‡С‘СЂРЅС‹С… РґРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Но ты всегда была со мной,</plain>
+            <plain>РќРѕ С‚С‹ РІСЃРµРіРґР° Р±С‹Р»Р° СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Ведёшь меня домой.</plain>
+            <plain>Р’РµРґС‘С€СЊ РјРµРЅСЏ РґРѕРјРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Словам Господним верю я.</plain>
+            <plain>РЎР»РѕРІР°Рј Р“РѕСЃРїРѕРґРЅРёРј РІРµСЂСЋ СЏ.</plain>
         </string>
         <string>
-            <plain>Моя вся крепость в них:</plain>
+            <plain>РњРѕСЏ РІСЃСЏ РєСЂРµРїРѕСЃС‚СЊ РІ РЅРёС…:</plain>
         </string>
         <string>
-            <plain>Он - верный щит. Он - часть моя</plain>
+            <plain>РћРЅ - РІРµСЂРЅС‹Р№ С‰РёС‚. РћРЅ - С‡Р°СЃС‚СЊ РјРѕСЏ</plain>
         </string>
         <string>
-            <plain>Во всех путях моих.</plain>
+            <plain>Р’Рѕ РІСЃРµС… РїСѓС‚СЏС… РјРѕРёС….</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Когда же плоть моя умрёт,</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ РїР»РѕС‚СЊ РјРѕСЏ СѓРјСЂС‘С‚,</plain>
         </string>
         <string>
-            <plain>Придёт борьбе конец.</plain>
+            <plain>РџСЂРёРґС‘С‚ Р±РѕСЂСЊР±Рµ РєРѕРЅРµС†.</plain>
         </string>
         <string>
-            <plain>Меня в небесном доме ждёт</plain>
+            <plain>РњРµРЅСЏ РІ РЅРµР±РµСЃРЅРѕРј РґРѕРјРµ Р¶РґС‘С‚</plain>
         </string>
         <string>
-            <plain>И радость, и венец.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊ, Рё РІРµРЅРµС†.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Пройдут десятки тысяч лет.</plain>
+            <plain>РџСЂРѕР№РґСѓС‚ РґРµСЃСЏС‚РєРё С‚С‹СЃСЏС‡ Р»РµС‚.</plain>
         </string>
         <string>
-            <plain>Забудем смерти тень,</plain>
+            <plain>Р—Р°Р±СѓРґРµРј СЃРјРµСЂС‚Рё С‚РµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>А Богу так же будем петь.</plain>
+            <plain>Рђ Р‘РѕРіСѓ С‚Р°Рє Р¶Рµ Р±СѓРґРµРј РїРµС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Как в самый первый день.</plain>
+            <plain>РљР°Рє РІ СЃР°РјС‹Р№ РїРµСЂРІС‹Р№ РґРµРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

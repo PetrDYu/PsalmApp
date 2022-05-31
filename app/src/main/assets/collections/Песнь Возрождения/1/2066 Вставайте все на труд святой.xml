@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2066" name="Вставайте все на труд святой" canon="false" text="" textRus="" music="">
+<psalm number="2066" name="Р’СЃС‚Р°РІР°Р№С‚Рµ РІСЃРµ РЅР° С‚СЂСѓРґ СЃРІСЏС‚РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вставайте все на труд святой,</plain>
+            <plain>Р’СЃС‚Р°РІР°Р№С‚Рµ РІСЃРµ РЅР° С‚СЂСѓРґ СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Христовы друзья,</plain>
+            <plain>РҐСЂРёСЃС‚РѕРІС‹ РґСЂСѓР·СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Пока ещё не сильный зной,</plain>
+            <plain>РџРѕРєР° РµС‰С‘ РЅРµ СЃРёР»СЊРЅС‹Р№ Р·РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Чудесная пора.</plain>
+            <plain>Р§СѓРґРµСЃРЅР°СЏ РїРѕСЂР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вот жнецы вдали поют,</plain>
+            <plain>Р’РѕС‚ Р¶РЅРµС†С‹ РІРґР°Р»Рё РїРѕСЋС‚,</plain>
         </string>
         <string>
-            <plain>Манят нас к себе рукой,</plain>
+            <plain>РњР°РЅСЏС‚ РЅР°СЃ Рє СЃРµР±Рµ СЂСѓРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Снопы вяжут и несут в радости святой.</plain>
+            <plain>РЎРЅРѕРїС‹ РІСЏР¶СѓС‚ Рё РЅРµСЃСѓС‚ РІ СЂР°РґРѕСЃС‚Рё СЃРІСЏС‚РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, слава Агнцу, что нас спас,</plain>
+            <plain>Рћ, СЃР»Р°РІР° РђРіРЅС†Сѓ, С‡С‚Рѕ РЅР°СЃ СЃРїР°СЃ,</plain>
         </string>
         <string>
-            <plain>Ему хвалены всякий час</plain>
+            <plain>Р•РјСѓ С…РІР°Р»РµРЅС‹ РІСЃСЏРєРёР№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>Несётся с нивы золотой</plain>
+            <plain>РќРµСЃС‘С‚СЃСЏ СЃ РЅРёРІС‹ Р·РѕР»РѕС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Искупленной семьёй.</plain>
+            <plain>РСЃРєСѓРїР»РµРЅРЅРѕР№ СЃРµРјСЊС‘Р№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Сменить уж надобно жнецов,</plain>
+            <plain>РЎРјРµРЅРёС‚СЊ СѓР¶ РЅР°РґРѕР±РЅРѕ Р¶РЅРµС†РѕРІ,</plain>
         </string>
         <string>
-            <plain>Отдавших силы все,</plain>
+            <plain>РћС‚РґР°РІС€РёС… СЃРёР»С‹ РІСЃРµ,</plain>
         </string>
         <string>
-            <plain>Чтоб не было пустых рядов,</plain>
+            <plain>Р§С‚РѕР± РЅРµ Р±С‹Р»Рѕ РїСѓСЃС‚С‹С… СЂСЏРґРѕРІ,</plain>
         </string>
         <string>
-            <plain>Убытка на жнивье.</plain>
+            <plain>РЈР±С‹С‚РєР° РЅР° Р¶РЅРёРІСЊРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Господь поможет нам в труде,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РїРѕРјРѕР¶РµС‚ РЅР°Рј РІ С‚СЂСѓРґРµ,</plain>
         </string>
         <string>
-            <plain>Наставит, укрепит,</plain>
+            <plain>РќР°СЃС‚Р°РІРёС‚, СѓРєСЂРµРїРёС‚,</plain>
         </string>
         <string>
-            <plain>С улыбкой ясной на лице</plain>
+            <plain>РЎ СѓР»С‹Р±РєРѕР№ СЏСЃРЅРѕР№ РЅР° Р»РёС†Рµ</plain>
         </string>
         <string>
-            <plain>Успехом наделит.</plain>
+            <plain>РЈСЃРїРµС…РѕРј РЅР°РґРµР»РёС‚.</plain>
         </string>
     </verse>
 </psalm>

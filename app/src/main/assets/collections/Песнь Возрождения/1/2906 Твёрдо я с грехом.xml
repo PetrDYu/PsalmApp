@@ -1,110 +1,110 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2906" name="Твёрдо я с грехом" canon="false" text="" textRus="" music="">
+<psalm number="2906" name="РўРІС‘СЂРґРѕ СЏ СЃ РіСЂРµС…РѕРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Твёрдо я с грехом</plain>
+            <plain>РўРІС‘СЂРґРѕ СЏ СЃ РіСЂРµС…РѕРј</plain>
         </string>
         <string>
-            <plain>навеки решил порвать,</plain>
+            <plain>РЅР°РІРµРєРё СЂРµС€РёР» РїРѕСЂРІР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>у меня одно желанье:</plain>
+            <plain>Сѓ РјРµРЅСЏ РѕРґРЅРѕ Р¶РµР»Р°РЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>лишь Богу угождать.</plain>
+            <plain>Р»РёС€СЊ Р‘РѕРіСѓ СѓРіРѕР¶РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Возмездье за грех есть смерть!</plain>
+            <plain>Р’РѕР·РјРµР·РґСЊРµ Р·Р° РіСЂРµС… РµСЃС‚СЊ СЃРјРµСЂС‚СЊ!</plain>
         </string>
         <string>
-            <plain>Возмездье за грех есть смерть!</plain>
+            <plain>Р’РѕР·РјРµР·РґСЊРµ Р·Р° РіСЂРµС… РµСЃС‚СЊ СЃРјРµСЂС‚СЊ!</plain>
         </string>
         <string>
-            <plain>Возмездье за грех есть смерть навек!</plain>
+            <plain>Р’РѕР·РјРµР·РґСЊРµ Р·Р° РіСЂРµС… РµСЃС‚СЊ СЃРјРµСЂС‚СЊ РЅР°РІРµРє!</plain>
         </string>
         <string>
-            <plain>Как жаль тебе будет, человек!</plain>
+            <plain>РљР°Рє Р¶Р°Р»СЊ С‚РµР±Рµ Р±СѓРґРµС‚, С‡РµР»РѕРІРµРє!</plain>
         </string>
         <string>
-            <plain>- Горечь и плач,</plain>
+            <plain>- Р“РѕСЂРµС‡СЊ Рё РїР»Р°С‡,</plain>
         </string>
         <string>
-            <plain>горечь и плач</plain>
+            <plain>РіРѕСЂРµС‡СЊ Рё РїР»Р°С‡</plain>
         </string>
         <string>
-            <plain>будет тогда навек.</plain>
+            <plain>Р±СѓРґРµС‚ С‚РѕРіРґР° РЅР°РІРµРє.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, как долго я томился</plain>
+            <plain>Рћ, РєР°Рє РґРѕР»РіРѕ СЏ С‚РѕРјРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>под бременем греха,</plain>
+            <plain>РїРѕРґ Р±СЂРµРјРµРЅРµРј РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>проводил я жизнь в позоре,</plain>
+            <plain>РїСЂРѕРІРѕРґРёР» СЏ Р¶РёР·РЅСЊ РІ РїРѕР·РѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>был нищ и жалок я!</plain>
+            <plain>Р±С‹Р» РЅРёС‰ Рё Р¶Р°Р»РѕРє СЏ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я бесцельно тратил время,</plain>
+            <plain>РЇ Р±РµСЃС†РµР»СЊРЅРѕ С‚СЂР°С‚РёР» РІСЂРµРјСЏ,</plain>
         </string>
         <string>
-            <plain>здоровья не щадил,</plain>
+            <plain>Р·РґРѕСЂРѕРІСЊСЏ РЅРµ С‰Р°РґРёР»,</plain>
         </string>
         <string>
-            <plain>на погибель был я предан</plain>
+            <plain>РЅР° РїРѕРіРёР±РµР»СЊ Р±С‹Р» СЏ РїСЂРµРґР°РЅ</plain>
         </string>
         <string>
-            <plain>- так грех мне отплатил.</plain>
+            <plain>- С‚Р°Рє РіСЂРµС… РјРЅРµ РѕС‚РїР»Р°С‚РёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Обещал мне мир веселье</plain>
+            <plain>РћР±РµС‰Р°Р» РјРЅРµ РјРёСЂ РІРµСЃРµР»СЊРµ</plain>
         </string>
         <string>
-            <plain>и радость предлагал;</plain>
+            <plain>Рё СЂР°РґРѕСЃС‚СЊ РїСЂРµРґР»Р°РіР°Р»;</plain>
         </string>
         <string>
-            <plain>пожинал я то, что сеял</plain>
+            <plain>РїРѕР¶РёРЅР°Р» СЏ С‚Рѕ, С‡С‚Рѕ СЃРµСЏР»</plain>
         </string>
         <string>
-            <plain>- как много я терял!</plain>
+            <plain>- РєР°Рє РјРЅРѕРіРѕ СЏ С‚РµСЂСЏР»!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Лжи отец, души убийца</plain>
+            <plain>Р›Р¶Рё РѕС‚РµС†, РґСѓС€Рё СѓР±РёР№С†Р°</plain>
         </string>
         <string>
-            <plain>заманивал меня, преграждал</plain>
+            <plain>Р·Р°РјР°РЅРёРІР°Р» РјРµРЅСЏ, РїСЂРµРіСЂР°Р¶РґР°Р»</plain>
         </string>
         <string>
-            <plain>мне путь  к спасенью</plain>
+            <plain>РјРЅРµ РїСѓС‚СЊ  Рє СЃРїР°СЃРµРЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>- как был обманут я!</plain>
+            <plain>- РєР°Рє Р±С‹Р» РѕР±РјР°РЅСѓС‚ СЏ!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Пастырь добрый тихо, нежно:</plain>
+            <plain>РџР°СЃС‚С‹СЂСЊ РґРѕР±СЂС‹Р№ С‚РёС…Рѕ, РЅРµР¶РЅРѕ:</plain>
         </string>
         <string>
-            <plain>« Приди ко Мне» сказал;</plain>
+            <plain>В« РџСЂРёРґРё РєРѕ РњРЅРµВ» СЃРєР°Р·Р°Р»;</plain>
         </string>
         <string>
-            <plain>дал мне пить Он воду жизни</plain>
+            <plain>РґР°Р» РјРЅРµ РїРёС‚СЊ РћРЅ РІРѕРґСѓ Р¶РёР·РЅРё</plain>
         </string>
         <string>
-            <plain>- белей чем снег я стал.</plain>
+            <plain>- Р±РµР»РµР№ С‡РµРј СЃРЅРµРі СЏ СЃС‚Р°Р».</plain>
         </string>
     </verse>
 </psalm>

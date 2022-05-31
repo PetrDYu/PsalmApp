@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2525" name="Сильна Всевышнего рука" canon="false" text="" textRus="" music="">
+<psalm number="2525" name="РЎРёР»СЊРЅР° Р’СЃРµРІС‹С€РЅРµРіРѕ СЂСѓРєР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сильна Всевышнего рука,</plain>
+            <plain>РЎРёР»СЊРЅР° Р’СЃРµРІС‹С€РЅРµРіРѕ СЂСѓРєР°,</plain>
         </string>
         <string>
-            <plain>Как воздух всюду к нам близка;</plain>
+            <plain>РљР°Рє РІРѕР·РґСѓС… РІСЃСЋРґСѓ Рє РЅР°Рј Р±Р»РёР·РєР°;</plain>
         </string>
         <string>
-            <plain>От зла греха и стрел врага</plain>
+            <plain>РћС‚ Р·Р»Р° РіСЂРµС…Р° Рё СЃС‚СЂРµР» РІСЂР°РіР°</plain>
         </string>
         <string>
-            <plain>Хранит меня.</plain>
+            <plain>РҐСЂР°РЅРёС‚ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Блажен, кто герою живет,</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅ, РєС‚Рѕ РіРµСЂРѕСЋ Р¶РёРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Не стонет под ярмом забот!</plain>
+            <plain>РќРµ СЃС‚РѕРЅРµС‚ РїРѕРґ СЏСЂРјРѕРј Р·Р°Р±РѕС‚!</plain>
         </string>
         <string>
-            <plain>Я льну к Тому,</plain>
+            <plain>РЇ Р»СЊРЅСѓ Рє РўРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Кто средь невзгод Хранит меня.</plain>
+            <plain>РљС‚Рѕ СЃСЂРµРґСЊ РЅРµРІР·РіРѕРґ РҐСЂР°РЅРёС‚ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Господь, в любви Твоей святой</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РІ Р»СЋР±РІРё РўРІРѕРµР№ СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Веди меня добра стезей</plain>
+            <plain>Р’РµРґРё РјРµРЅСЏ РґРѕР±СЂР° СЃС‚РµР·РµР№</plain>
         </string>
         <string>
-            <plain>И в жизни суетной, земной</plain>
+            <plain>Р РІ Р¶РёР·РЅРё СЃСѓРµС‚РЅРѕР№, Р·РµРјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Храни меня. Аминь.</plain>
+            <plain>РҐСЂР°РЅРё РјРµРЅСЏ. РђРјРёРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

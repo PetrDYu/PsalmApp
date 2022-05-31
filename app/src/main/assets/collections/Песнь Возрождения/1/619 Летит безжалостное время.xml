@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="619" name="Летит безжалостное время" canon="false" text="" textRus="" music="">
+<psalm number="619" name="Р›РµС‚РёС‚ Р±РµР·Р¶Р°Р»РѕСЃС‚РЅРѕРµ РІСЂРµРјСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Летит безжалостное время,</plain>
+            <plain>Р›РµС‚РёС‚ Р±РµР·Р¶Р°Р»РѕСЃС‚РЅРѕРµ РІСЂРµРјСЏ,</plain>
         </string>
         <string>
-            <plain>Промчались тысячи годов.</plain>
+            <plain>РџСЂРѕРјС‡Р°Р»РёСЃСЊ С‚С‹СЃСЏС‡Рё РіРѕРґРѕРІ.</plain>
         </string>
         <string>
-            <plain>Пройдет и нынешнее племя</plain>
+            <plain>РџСЂРѕР№РґРµС‚ Рё РЅС‹РЅРµС€РЅРµРµ РїР»РµРјСЏ</plain>
         </string>
         <string>
-            <plain>Вослед исчезнувших родов.</plain>
+            <plain>Р’РѕСЃР»РµРґ РёСЃС‡РµР·РЅСѓРІС€РёС… СЂРѕРґРѕРІ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Так в вечность день за днем стремится,</plain>
+            <plain>РўР°Рє РІ РІРµС‡РЅРѕСЃС‚СЊ РґРµРЅСЊ Р·Р° РґРЅРµРј СЃС‚СЂРµРјРёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Не оставляя нам следа;</plain>
+            <plain>РќРµ РѕСЃС‚Р°РІР»СЏСЏ РЅР°Рј СЃР»РµРґР°;</plain>
         </string>
         <string>
-            <plain>И жизнь на крыльях ветра мчится,</plain>
+            <plain>Р Р¶РёР·РЅСЊ РЅР° РєСЂС‹Р»СЊСЏС… РІРµС‚СЂР° РјС‡РёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Придет и наша череда.</plain>
+            <plain>РџСЂРёРґРµС‚ Рё РЅР°С€Р° С‡РµСЂРµРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И наши громкие деянья,</plain>
+            <plain>Р РЅР°С€Рё РіСЂРѕРјРєРёРµ РґРµСЏРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Труды, заботы, суета</plain>
+            <plain>РўСЂСѓРґС‹, Р·Р°Р±РѕС‚С‹, СЃСѓРµС‚Р°</plain>
         </string>
         <string>
-            <plain>Скользнут в пучину мирозданья,</plain>
+            <plain>РЎРєРѕР»СЊР·РЅСѓС‚ РІ РїСѓС‡РёРЅСѓ РјРёСЂРѕР·РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Как неприметная мечта...</plain>
+            <plain>РљР°Рє РЅРµРїСЂРёРјРµС‚РЅР°СЏ РјРµС‡С‚Р°...</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Так вот зачем ты в свет родился</plain>
+            <plain>РўР°Рє РІРѕС‚ Р·Р°С‡РµРј С‚С‹ РІ СЃРІРµС‚ СЂРѕРґРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>И столько выдержал скорбей?</plain>
+            <plain>Р СЃС‚РѕР»СЊРєРѕ РІС‹РґРµСЂР¶Р°Р» СЃРєРѕСЂР±РµР№?</plain>
         </string>
         <string>
-            <plain>К тому ль твой жадный ум стремился,</plain>
+            <plain>Рљ С‚РѕРјСѓ Р»СЊ С‚РІРѕР№ Р¶Р°РґРЅС‹Р№ СѓРј СЃС‚СЂРµРјРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб стать добычею червей?</plain>
+            <plain>Р§С‚РѕР± СЃС‚Р°С‚СЊ РґРѕР±С‹С‡РµСЋ С‡РµСЂРІРµР№?</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>То жизни счастья призрак ложный</plain>
+            <plain>РўРѕ Р¶РёР·РЅРё СЃС‡Р°СЃС‚СЊСЏ РїСЂРёР·СЂР°Рє Р»РѕР¶РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Всегда кружил тебя во мгле;</plain>
+            <plain>Р’СЃРµРіРґР° РєСЂСѓР¶РёР» С‚РµР±СЏ РІРѕ РјРіР»Рµ;</plain>
         </string>
         <string>
-            <plain>И забываешь, прах ничтожный,</plain>
+            <plain>Р Р·Р°Р±С‹РІР°РµС€СЊ, РїСЂР°С… РЅРёС‡С‚РѕР¶РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Что ты - прохожий на земле.</plain>
+            <plain>Р§С‚Рѕ С‚С‹ - РїСЂРѕС…РѕР¶РёР№ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Но есть за гробом жизнь иная,</plain>
+            <plain>РќРѕ РµСЃС‚СЊ Р·Р° РіСЂРѕР±РѕРј Р¶РёР·РЅСЊ РёРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Жизнь вечная без счета лет.</plain>
+            <plain>Р–РёР·РЅСЊ РІРµС‡РЅР°СЏ Р±РµР· СЃС‡РµС‚Р° Р»РµС‚.</plain>
         </string>
         <string>
-            <plain>Тебя там участь ждет какая,</plain>
+            <plain>РўРµР±СЏ С‚Р°Рј СѓС‡Р°СЃС‚СЊ Р¶РґРµС‚ РєР°РєР°СЏ,</plain>
         </string>
         <string>
-            <plain>Об этом думал ты иль нет?</plain>
+            <plain>РћР± СЌС‚РѕРј РґСѓРјР°Р» С‚С‹ РёР»СЊ РЅРµС‚?</plain>
         </string>
     </chorus>
 </psalm>

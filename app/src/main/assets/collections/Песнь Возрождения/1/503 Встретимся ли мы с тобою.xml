@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="503" name="Встретимся ли мы с тобою" canon="false" text="" textRus="" music="">
+<psalm number="503" name="Р’СЃС‚СЂРµС‚РёРјСЃСЏ Р»Рё РјС‹ СЃ С‚РѕР±РѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Встретимся ли мы с тобою,</plain>
+            <plain>Р’СЃС‚СЂРµС‚РёРјСЃСЏ Р»Рё РјС‹ СЃ С‚РѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Где святые все поют,</plain>
+            <plain>Р“РґРµ СЃРІСЏС‚С‹Рµ РІСЃРµ РїРѕСЋС‚,</plain>
         </string>
         <string>
-            <plain>Где спокойною рекою</plain>
+            <plain>Р“РґРµ СЃРїРѕРєРѕР№РЅРѕСЋ СЂРµРєРѕСЋ</plain>
         </string>
         <string>
-            <plain>Воды чистые текут?</plain>
+            <plain>Р’РѕРґС‹ С‡РёСЃС‚С‹Рµ С‚РµРєСѓС‚?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Да, мы встретимся с тобою</plain>
+            <plain>Р”Р°, РјС‹ РІСЃС‚СЂРµС‚РёРјСЃСЏ СЃ С‚РѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Над чудною, над чудною рекою;</plain>
+            <plain>РќР°Рґ С‡СѓРґРЅРѕСЋ, РЅР°Рґ С‡СѓРґРЅРѕСЋ СЂРµРєРѕСЋ;</plain>
         </string>
         <string>
-            <plain>Там с неумолкаемой хвалою</plain>
+            <plain>РўР°Рј СЃ РЅРµСѓРјРѕР»РєР°РµРјРѕР№ С…РІР°Р»РѕСЋ</plain>
         </string>
         <string>
-            <plain>Иисусу мы будем служить.</plain>
+            <plain>РРёСЃСѓСЃСѓ РјС‹ Р±СѓРґРµРј СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Над прозрачною рекою,</plain>
+            <plain>РќР°Рґ РїСЂРѕР·СЂР°С‡РЅРѕСЋ СЂРµРєРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Чистой, светлой, как кристалл,</plain>
+            <plain>Р§РёСЃС‚РѕР№, СЃРІРµС‚Р»РѕР№, РєР°Рє РєСЂРёСЃС‚Р°Р»Р»,</plain>
         </string>
         <string>
-            <plain>Там воскликнем мы с тобою:</plain>
+            <plain>РўР°Рј РІРѕСЃРєР»РёРєРЅРµРј РјС‹ СЃ С‚РѕР±РѕСЋ:</plain>
         </string>
         <string>
-            <plain>Вечный день теперь настал!</plain>
+            <plain>Р’РµС‡РЅС‹Р№ РґРµРЅСЊ С‚РµРїРµСЂСЊ РЅР°СЃС‚Р°Р»!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Между нами и рекою</plain>
+            <plain>РњРµР¶РґСѓ РЅР°РјРё Рё СЂРµРєРѕСЋ</plain>
         </string>
         <string>
-            <plain>Путь непроходимый был,</plain>
+            <plain>РџСѓС‚СЊ РЅРµРїСЂРѕС…РѕРґРёРјС‹Р№ Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>Но сколь тяжкою ценою</plain>
+            <plain>РќРѕ СЃРєРѕР»СЊ С‚СЏР¶РєРѕСЋ С†РµРЅРѕСЋ</plain>
         </string>
         <string>
-            <plain>Агнец нам его открыл!</plain>
+            <plain>РђРіРЅРµС† РЅР°Рј РµРіРѕ РѕС‚РєСЂС‹Р»!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Там, в сиянье над рекою,</plain>
+            <plain>РўР°Рј, РІ СЃРёСЏРЅСЊРµ РЅР°Рґ СЂРµРєРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Лик Христа мы будем зреть,</plain>
+            <plain>Р›РёРє РҐСЂРёСЃС‚Р° РјС‹ Р±СѓРґРµРј Р·СЂРµС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Кто на землю за тобою</plain>
+            <plain>РљС‚Рѕ РЅР° Р·РµРјР»СЋ Р·Р° С‚РѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Нисходил, чтоб умереть.</plain>
+            <plain>РќРёСЃС…РѕРґРёР», С‡С‚РѕР± СѓРјРµСЂРµС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Скоро будем над рекою,</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СѓРґРµРј РЅР°Рґ СЂРµРєРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Скоро путь придет к концу,</plain>
+            <plain>РЎРєРѕСЂРѕ РїСѓС‚СЊ РїСЂРёРґРµС‚ Рє РєРѕРЅС†Сѓ,</plain>
         </string>
         <string>
-            <plain>Скоро встретимся с тобою,</plain>
+            <plain>РЎРєРѕСЂРѕ РІСЃС‚СЂРµС‚РёРјСЃСЏ СЃ С‚РѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Вознося хвалу Отцу.</plain>
+            <plain>Р’РѕР·РЅРѕСЃСЏ С…РІР°Р»Сѓ РћС‚С†Сѓ.</plain>
         </string>
     </verse>
 </psalm>

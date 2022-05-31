@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="165" name="Как счастлив я ныне в Иисусе" canon="false" text="" textRus="" music="">
+<psalm number="165" name="РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ РЅС‹РЅРµ РІ РРёСЃСѓСЃРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как счастлив я ныне в Иисусе,</plain>
+            <plain>РљР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ РЅС‹РЅРµ РІ РРёСЃСѓСЃРµ,</plain>
         </string>
         <string>
-            <plain>Словами не выразить мне, -</plain>
+            <plain>РЎР»РѕРІР°РјРё РЅРµ РІС‹СЂР°Р·РёС‚СЊ РјРЅРµ, -</plain>
         </string>
         <string>
-            <plain>Мои согрешенья простил Он,</plain>
+            <plain>РњРѕРё СЃРѕРіСЂРµС€РµРЅСЊСЏ РїСЂРѕСЃС‚РёР» РћРЅ,</plain>
         </string>
         <string>
-            <plain>Привлек мое сердце к Себе.</plain>
+            <plain>РџСЂРёРІР»РµРє РјРѕРµ СЃРµСЂРґС†Рµ Рє РЎРµР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В Нем я счастлив вовек,</plain>
+            <plain>Р’ РќРµРј СЏ СЃС‡Р°СЃС‚Р»РёРІ РІРѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>В Нем я счастлив вовек,</plain>
+            <plain>Р’ РќРµРј СЏ СЃС‡Р°СЃС‚Р»РёРІ РІРѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>Голгофская кровь очистила вновь;</plain>
+            <plain>Р“РѕР»РіРѕС„СЃРєР°СЏ РєСЂРѕРІСЊ РѕС‡РёСЃС‚РёР»Р° РІРЅРѕРІСЊ;</plain>
         </string>
         <string>
-            <plain>Да, в Нем я счастлив вовек.</plain>
+            <plain>Р”Р°, РІ РќРµРј СЏ СЃС‡Р°СЃС‚Р»РёРІ РІРѕРІРµРє.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хвалу приношу Иисусу,-</plain>
+            <plain>РҐРІР°Р»Сѓ РїСЂРёРЅРѕС€Сѓ РРёСЃСѓСЃСѓ,-</plain>
         </string>
         <string>
-            <plain>Он сделался Другом моим;</plain>
+            <plain>РћРЅ СЃРґРµР»Р°Р»СЃСЏ Р”СЂСѓРіРѕРј РјРѕРёРј;</plain>
         </string>
         <string>
-            <plain>Я раньше блуждал в беззаконье,</plain>
+            <plain>РЇ СЂР°РЅСЊС€Рµ Р±Р»СѓР¶РґР°Р» РІ Р±РµР·Р·Р°РєРѕРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>А ныне Им в правде водим.</plain>
+            <plain>Рђ РЅС‹РЅРµ РРј РІ РїСЂР°РІРґРµ РІРѕРґРёРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я счастлив: Иисус - мой Спаситель,</plain>
+            <plain>РЇ СЃС‡Р°СЃС‚Р»РёРІ: РРёСЃСѓСЃ - РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Одна из Его я овец,</plain>
+            <plain>РћРґРЅР° РёР· Р•РіРѕ СЏ РѕРІРµС†,</plain>
         </string>
         <string>
-            <plain>Мне дан Дух Святой, Утешитель,</plain>
+            <plain>РњРЅРµ РґР°РЅ Р”СѓС… РЎРІСЏС‚РѕР№, РЈС‚РµС€РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Сам Бог - мой небесный Отец.</plain>
+            <plain>РЎР°Рј Р‘РѕРі - РјРѕР№ РЅРµР±РµСЃРЅС‹Р№ РћС‚РµС†.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И ты, брат мой, грешный, несчастный,</plain>
+            <plain>Р С‚С‹, Р±СЂР°С‚ РјРѕР№, РіСЂРµС€РЅС‹Р№, РЅРµСЃС‡Р°СЃС‚РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Внемли Его гласу любви:</plain>
+            <plain>Р’РЅРµРјР»Рё Р•РіРѕ РіР»Р°СЃСѓ Р»СЋР±РІРё:</plain>
         </string>
         <string>
-            <plain>Готов и тебе Он дать счастье –</plain>
+            <plain>Р“РѕС‚РѕРІ Рё С‚РµР±Рµ РћРЅ РґР°С‚СЊ СЃС‡Р°СЃС‚СЊРµ вЂ“</plain>
         </string>
         <string>
-            <plain>К Нему с верой взор обрати.</plain>
+            <plain>Рљ РќРµРјСѓ СЃ РІРµСЂРѕР№ РІР·РѕСЂ РѕР±СЂР°С‚Рё.</plain>
         </string>
     </verse>
 </psalm>

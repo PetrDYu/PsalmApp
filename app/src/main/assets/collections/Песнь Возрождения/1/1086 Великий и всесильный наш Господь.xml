@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1086" name="Великий и всесильный наш Господь" canon="false" text="" textRus="" music="">
+<psalm number="1086" name="Р’РµР»РёРєРёР№ Рё РІСЃРµСЃРёР»СЊРЅС‹Р№ РЅР°С€ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Великий и всесильный наш Господь,</plain>
+            <plain>Р’РµР»РёРєРёР№ Рё РІСЃРµСЃРёР»СЊРЅС‹Р№ РЅР°С€ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Любимый наш Господь,</plain>
+            <plain>Р›СЋР±РёРјС‹Р№ РЅР°С€ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Любимый наш Господь.</plain>
+            <plain>Р›СЋР±РёРјС‹Р№ РЅР°С€ Р“РѕСЃРїРѕРґСЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>И знамя веры высоко подняв.</plain>
+            <plain>Р Р·РЅР°РјСЏ РІРµСЂС‹ РІС‹СЃРѕРєРѕ РїРѕРґРЅСЏРІ.</plain>
         </string>
         <string>
-            <plain>Прославим Творца.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІРёРј РўРІРѕСЂС†Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Великий и всесильный наш Господь.</plain>
+            <plain>Р’РµР»РёРєРёР№ Рё РІСЃРµСЃРёР»СЊРЅС‹Р№ РЅР°С€ Р“РѕСЃРїРѕРґСЊ.</plain>
         </string>
         <string>
-            <plain>Любимый наш Господь,</plain>
+            <plain>Р›СЋР±РёРјС‹Р№ РЅР°С€ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Любимый наш Господь.</plain>
+            <plain>Р›СЋР±РёРјС‹Р№ РЅР°С€ Р“РѕСЃРїРѕРґСЊ.</plain>
         </string>
     </verse>
 </psalm>

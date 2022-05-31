@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2341" name="Сын Божий в мире был прекрасней" canon="false" text="" textRus="" music="">
+<psalm number="2341" name="РЎС‹РЅ Р‘РѕР¶РёР№ РІ РјРёСЂРµ Р±С‹Р» РїСЂРµРєСЂР°СЃРЅРµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Сын Божий в мире был прекрасней</plain>
+            <plain>РЎС‹РЅ Р‘РѕР¶РёР№ РІ РјРёСЂРµ Р±С‹Р» РїСЂРµРєСЂР°СЃРЅРµР№</plain>
         </string>
         <string>
-            <plain>Всех человеческих сынов.</plain>
+            <plain>Р’СЃРµС… С‡РµР»РѕРІРµС‡РµСЃРєРёС… СЃС‹РЅРѕРІ.</plain>
         </string>
         <string>
-            <plain>Моя вина, палач ужасный,</plain>
+            <plain>РњРѕСЏ РІРёРЅР°, РїР°Р»Р°С‡ СѓР¶Р°СЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Обезобразила чело.</plain>
+            <plain>РћР±РµР·РѕР±СЂР°Р·РёР»Р° С‡РµР»Рѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он за грехи мои изъязвлен был,</plain>
+            <plain>РћРЅ Р·Р° РіСЂРµС…Рё РјРѕРё РёР·СЉСЏР·РІР»РµРЅ Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>И ранами Его я исцелён.</plain>
+            <plain>Р СЂР°РЅР°РјРё Р•РіРѕ СЏ РёСЃС†РµР»С‘РЅ.</plain>
         </string>
         <string>
-            <plain>Я буду петь хвалу, доколе жив.</plain>
+            <plain>РЇ Р±СѓРґСѓ РїРµС‚СЊ С…РІР°Р»Сѓ, РґРѕРєРѕР»Рµ Р¶РёРІ.</plain>
         </string>
         <string>
-            <plain>Христос воскрес! Навеки я спасён!</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ! РќР°РІРµРєРё СЏ СЃРїР°СЃС‘РЅ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Глава терновником увита,</plain>
+            <plain>Р“Р»Р°РІР° С‚РµСЂРЅРѕРІРЅРёРєРѕРј СѓРІРёС‚Р°,</plain>
         </string>
         <string>
-            <plain>И по лицу струится кровь.</plain>
+            <plain>Р РїРѕ Р»РёС†Сѓ СЃС‚СЂСѓРёС‚СЃСЏ РєСЂРѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>О, грешники, остановитесь,</plain>
+            <plain>Рћ, РіСЂРµС€РЅРёРєРё, РѕСЃС‚Р°РЅРѕРІРёС‚РµСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Вы распинаете Любовь!</plain>
+            <plain>Р’С‹ СЂР°СЃРїРёРЅР°РµС‚Рµ Р›СЋР±РѕРІСЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Свершился план-предначертанье</plain>
+            <plain>РЎРІРµСЂС€РёР»СЃСЏ РїР»Р°РЅ-РїСЂРµРґРЅР°С‡РµСЂС‚Р°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Предвечной мудрости Творца:</plain>
+            <plain>РџСЂРµРґРІРµС‡РЅРѕР№ РјСѓРґСЂРѕСЃС‚Рё РўРІРѕСЂС†Р°:</plain>
         </string>
         <string>
-            <plain>Спасение ценой страданий,</plain>
+            <plain>РЎРїР°СЃРµРЅРёРµ С†РµРЅРѕР№ СЃС‚СЂР°РґР°РЅРёР№,</plain>
         </string>
         <string>
-            <plain>Прощены кровию Христа.</plain>
+            <plain>РџСЂРѕС‰РµРЅС‹ РєСЂРѕРІРёСЋ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
 </psalm>

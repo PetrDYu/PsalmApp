@@ -1,82 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2267" name="Отец и Сын и Дух Святой" canon="false" text="" textRus="" music="">
+<psalm number="2267" name="РћС‚РµС† Рё РЎС‹РЅ Рё Р”СѓС… РЎРІСЏС‚РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Отец и Сын, и Дух Святой</plain>
+            <plain>РћС‚РµС† Рё РЎС‹РЅ, Рё Р”СѓС… РЎРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>- Святая Троица,</plain>
+            <plain>- РЎРІСЏС‚Р°СЏ РўСЂРѕРёС†Р°,</plain>
         </string>
         <string>
-            <plain>Призри с небес к стране земной,</plain>
+            <plain>РџСЂРёР·СЂРё СЃ РЅРµР±РµСЃ Рє СЃС‚СЂР°РЅРµ Р·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Народ Твой молится.</plain>
+            <plain>РќР°СЂРѕРґ РўРІРѕР№ РјРѕР»РёС‚СЃСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Тебе мы молимся,</plain>
+            <plain>РўРµР±Рµ РјС‹ РјРѕР»РёРјСЃСЏ,</plain>
         </string>
         <string>
-            <plain>О Дух Святой,</plain>
+            <plain>Рћ Р”СѓС… РЎРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Тебя мы славим в этот час,</plain>
+            <plain>РўРµР±СЏ РјС‹ СЃР»Р°РІРёРј РІ СЌС‚РѕС‚ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Святая Троица.</plain>
+            <plain>РЎРІСЏС‚Р°СЏ РўСЂРѕРёС†Р°.</plain>
         </string>
         <string>
-            <plain>Дай силы верным быть до конца,</plain>
+            <plain>Р”Р°Р№ СЃРёР»С‹ РІРµСЂРЅС‹Рј Р±С‹С‚СЊ РґРѕ РєРѕРЅС†Р°,</plain>
         </string>
         <string>
-            <plain>Хоть мало сильных среди нас,</plain>
+            <plain>РҐРѕС‚СЊ РјР°Р»Рѕ СЃРёР»СЊРЅС‹С… СЃСЂРµРґРё РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Но Церковь строится.</plain>
+            <plain>РќРѕ Р¦РµСЂРєРѕРІСЊ СЃС‚СЂРѕРёС‚СЃСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты силу в Церкви прояви,</plain>
+            <plain>РўС‹ СЃРёР»Сѓ РІ Р¦РµСЂРєРІРё РїСЂРѕСЏРІРё,</plain>
         </string>
         <string>
-            <plain>Как в дни начальные.</plain>
+            <plain>РљР°Рє РІ РґРЅРё РЅР°С‡Р°Р»СЊРЅС‹Рµ.</plain>
         </string>
         <string>
-            <plain>И радостью благослови</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊСЋ Р±Р»Р°РіРѕСЃР»РѕРІРё</plain>
         </string>
         <string>
-            <plain>Сердца печальные.</plain>
+            <plain>РЎРµСЂРґС†Р° РїРµС‡Р°Р»СЊРЅС‹Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Из года в год, то тут, то там</plain>
+            <plain>РР· РіРѕРґР° РІ РіРѕРґ, С‚Рѕ С‚СѓС‚, С‚Рѕ С‚Р°Рј</plain>
         </string>
         <string>
-            <plain>Нам ямы роются,</plain>
+            <plain>РќР°Рј СЏРјС‹ СЂРѕСЋС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Но к цели даже среди ям</plain>
+            <plain>РќРѕ Рє С†РµР»Рё РґР°Р¶Рµ СЃСЂРµРґРё СЏРј</plain>
         </string>
         <string>
-            <plain>Веди нас, Троица.</plain>
+            <plain>Р’РµРґРё РЅР°СЃ, РўСЂРѕРёС†Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Пусть истина чрез Твой народ</plain>
+            <plain>РџСѓСЃС‚СЊ РёСЃС‚РёРЅР° С‡СЂРµР· РўРІРѕР№ РЅР°СЂРѕРґ</plain>
         </string>
         <string>
-            <plain>Провозглашается.</plain>
+            <plain>РџСЂРѕРІРѕР·РіР»Р°С€Р°РµС‚СЃСЏ.</plain>
         </string>
         <string>
-            <plain>И с верою Твоя любовь</plain>
+            <plain>Р СЃ РІРµСЂРѕСЋ РўРІРѕСЏ Р»СЋР±РѕРІСЊ</plain>
         </string>
         <string>
-            <plain>В нас открывается.</plain>
+            <plain>Р’ РЅР°СЃ РѕС‚РєСЂС‹РІР°РµС‚СЃСЏ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="364" name="Если камень согрешений" canon="false" text="" textRus="" music="">
+<psalm number="364" name="Р•СЃР»Рё РєР°РјРµРЅСЊ СЃРѕРіСЂРµС€РµРЅРёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если камень согрешений</plain>
+            <plain>Р•СЃР»Рё РєР°РјРµРЅСЊ СЃРѕРіСЂРµС€РµРЅРёР№</plain>
         </string>
         <string>
-            <plain>Душу робкую гнетет, -</plain>
+            <plain>Р”СѓС€Сѓ СЂРѕР±РєСѓСЋ РіРЅРµС‚РµС‚, -</plain>
         </string>
         <string>
-            <plain>Встань в смиренье на колени</plain>
+            <plain>Р’СЃС‚Р°РЅСЊ РІ СЃРјРёСЂРµРЅСЊРµ РЅР° РєРѕР»РµРЅРё</plain>
         </string>
         <string>
-            <plain>И молись Отцу щедрот.</plain>
+            <plain>Р РјРѕР»РёСЃСЊ РћС‚С†Сѓ С‰РµРґСЂРѕС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты взывай к Иисусу рано</plain>
+            <plain>РўС‹ РІР·С‹РІР°Р№ Рє РРёСЃСѓСЃСѓ СЂР°РЅРѕ</plain>
         </string>
         <string>
-            <plain>С верой пылкою в груди</plain>
+            <plain>РЎ РІРµСЂРѕР№ РїС‹Р»РєРѕСЋ РІ РіСЂСѓРґРё</plain>
         </string>
         <string>
-            <plain>Неотступно, непрестанно;</plain>
+            <plain>РќРµРѕС‚СЃС‚СѓРїРЅРѕ, РЅРµРїСЂРµСЃС‚Р°РЅРЅРѕ;</plain>
         </string>
         <string>
-            <plain>От Него не отходи.</plain>
+            <plain>РћС‚ РќРµРіРѕ РЅРµ РѕС‚С…РѕРґРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Не словами, не устами –</plain>
+            <plain>РќРµ СЃР»РѕРІР°РјРё, РЅРµ СѓСЃС‚Р°РјРё вЂ“</plain>
         </string>
         <string>
-            <plain>Сердцем всем и всей душой,</plain>
+            <plain>РЎРµСЂРґС†РµРј РІСЃРµРј Рё РІСЃРµР№ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Всею жизнью и делами</plain>
+            <plain>Р’СЃРµСЋ Р¶РёР·РЅСЊСЋ Рё РґРµР»Р°РјРё</plain>
         </string>
         <string>
-            <plain>Ты взывай к Любви Святой.</plain>
+            <plain>РўС‹ РІР·С‹РІР°Р№ Рє Р›СЋР±РІРё РЎРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ороси слезами очи,</plain>
+            <plain>РћСЂРѕСЃРё СЃР»РµР·Р°РјРё РѕС‡Рё,</plain>
         </string>
         <string>
-            <plain>Сокрушайся и грусти;</plain>
+            <plain>РЎРѕРєСЂСѓС€Р°Р№СЃСЏ Рё РіСЂСѓСЃС‚Рё;</plain>
         </string>
         <string>
-            <plain>В свете дня, во мраке ночи</plain>
+            <plain>Р’ СЃРІРµС‚Рµ РґРЅСЏ, РІРѕ РјСЂР°РєРµ РЅРѕС‡Рё</plain>
         </string>
         <string>
-            <plain>Ты взывай: "Прости, прости!"</plain>
+            <plain>РўС‹ РІР·С‹РІР°Р№: "РџСЂРѕСЃС‚Рё, РїСЂРѕСЃС‚Рё!"</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сквозь рыданье покаянья</plain>
+            <plain>РЎРєРІРѕР·СЊ СЂС‹РґР°РЅСЊРµ РїРѕРєР°СЏРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Ты услышишь: "Ты прощен!"</plain>
+            <plain>РўС‹ СѓСЃР»С‹С€РёС€СЊ: "РўС‹ РїСЂРѕС‰РµРЅ!"</plain>
         </string>
         <string>
-            <plain>Светлой радостью сознанья</plain>
+            <plain>РЎРІРµС‚Р»РѕР№ СЂР°РґРѕСЃС‚СЊСЋ СЃРѕР·РЅР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Сменится душевный стон.</plain>
+            <plain>РЎРјРµРЅРёС‚СЃСЏ РґСѓС€РµРІРЅС‹Р№ СЃС‚РѕРЅ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>То, что было наслажденьем</plain>
+            <plain>РўРѕ, С‡С‚Рѕ Р±С‹Р»Рѕ РЅР°СЃР»Р°Р¶РґРµРЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>Для тебя в мире страстей,</plain>
+            <plain>Р”Р»СЏ С‚РµР±СЏ РІ РјРёСЂРµ СЃС‚СЂР°СЃС‚РµР№,</plain>
         </string>
         <string>
-            <plain>Ты отвергнешь с отвращеньем</plain>
+            <plain>РўС‹ РѕС‚РІРµСЂРіРЅРµС€СЊ СЃ РѕС‚РІСЂР°С‰РµРЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>Пред зарею новых дней.</plain>
+            <plain>РџСЂРµРґ Р·Р°СЂРµСЋ РЅРѕРІС‹С… РґРЅРµР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Ум забьется мыслью новой,</plain>
+            <plain>РЈРј Р·Р°Р±СЊРµС‚СЃСЏ РјС‹СЃР»СЊСЋ РЅРѕРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Помышлением святым</plain>
+            <plain>РџРѕРјС‹С€Р»РµРЅРёРµРј СЃРІСЏС‚С‹Рј</plain>
         </string>
         <string>
-            <plain>И с душой, на смерть готовой,</plain>
+            <plain>Р СЃ РґСѓС€РѕР№, РЅР° СЃРјРµСЂС‚СЊ РіРѕС‚РѕРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты пойдешь служить другим.</plain>
+            <plain>РўС‹ РїРѕР№РґРµС€СЊ СЃР»СѓР¶РёС‚СЊ РґСЂСѓРіРёРј.</plain>
         </string>
     </verse>
 </psalm>

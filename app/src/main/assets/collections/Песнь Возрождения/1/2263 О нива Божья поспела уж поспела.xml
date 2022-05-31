@@ -1,84 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2263" name="О нива Божья поспела уж поспела" canon="false" text="" textRus="" music="">
+<psalm number="2263" name="Рћ РЅРёРІР° Р‘РѕР¶СЊСЏ РїРѕСЃРїРµР»Р° СѓР¶ РїРѕСЃРїРµР»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, нива Божья поспела, уж поспела,</plain>
+            <plain>Рћ, РЅРёРІР° Р‘РѕР¶СЊСЏ РїРѕСЃРїРµР»Р°, СѓР¶ РїРѕСЃРїРµР»Р°,</plain>
         </string>
         <string>
-            <plain>И плод в колосьях уж созрел.</plain>
+            <plain>Р РїР»РѕРґ РІ РєРѕР»РѕСЃСЊСЏС… СѓР¶ СЃРѕР·СЂРµР».</plain>
         </string>
         <string>
-            <plain>Пора приняться нам за дело.</plain>
+            <plain>РџРѕСЂР° РїСЂРёРЅСЏС‚СЊСЃСЏ РЅР°Рј Р·Р° РґРµР»Рѕ.</plain>
         </string>
         <string>
-            <plain>Но кто готов и кто есть смел?</plain>
+            <plain>РќРѕ РєС‚Рѕ РіРѕС‚РѕРІ Рё РєС‚Рѕ РµСЃС‚СЊ СЃРјРµР»?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Но кто готов?</plain>
+            <plain>РќРѕ РєС‚Рѕ РіРѕС‚РѕРІ?</plain>
         </string>
         <string>
-            <plain>(И смело скажет)</plain>
+            <plain>(Р СЃРјРµР»Рѕ СЃРєР°Р¶РµС‚)</plain>
         </string>
         <string>
-            <plain>Вот я готов, меня пошли.</plain>
+            <plain>Р’РѕС‚ СЏ РіРѕС‚РѕРІ, РјРµРЅСЏ РїРѕС€Р»Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И кто готов идти трудиться,</plain>
+            <plain>Р РєС‚Рѕ РіРѕС‚РѕРІ РёРґС‚Рё С‚СЂСѓРґРёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Снопы по полю собирать?</plain>
+            <plain>РЎРЅРѕРїС‹ РїРѕ РїРѕР»СЋ СЃРѕР±РёСЂР°С‚СЊ?</plain>
         </string>
         <string>
-            <plain>Лишь тот, в чьем сердце загорится</plain>
+            <plain>Р›РёС€СЊ С‚РѕС‚, РІ С‡СЊРµРј СЃРµСЂРґС†Рµ Р·Р°РіРѕСЂРёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Любовь, чтоб ближних всех спасать.</plain>
+            <plain>Р›СЋР±РѕРІСЊ, С‡С‚РѕР± Р±Р»РёР¶РЅРёС… РІСЃРµС… СЃРїР°СЃР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Лишь тот, кто выйдет бодро, смело,</plain>
+            <plain>Р›РёС€СЊ С‚РѕС‚, РєС‚Рѕ РІС‹Р№РґРµС‚ Р±РѕРґСЂРѕ, СЃРјРµР»Рѕ,</plain>
         </string>
         <string>
-            <plain>Пойдет в борьбу с грехом и злом,</plain>
+            <plain>РџРѕР№РґРµС‚ РІ Р±РѕСЂСЊР±Сѓ СЃ РіСЂРµС…РѕРј Рё Р·Р»РѕРј,</plain>
         </string>
         <string>
-            <plain>Успешно будет делать дело,</plain>
+            <plain>РЈСЃРїРµС€РЅРѕ Р±СѓРґРµС‚ РґРµР»Р°С‚СЊ РґРµР»Рѕ,</plain>
         </string>
         <string>
-            <plain>Труд увенчается плодом.</plain>
+            <plain>РўСЂСѓРґ СѓРІРµРЅС‡Р°РµС‚СЃСЏ РїР»РѕРґРѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Так что же, братья дорогие,</plain>
+            <plain>РўР°Рє С‡С‚Рѕ Р¶Рµ, Р±СЂР°С‚СЊСЏ РґРѕСЂРѕРіРёРµ,</plain>
         </string>
         <string>
-            <plain>Давайте будем до конца</plain>
+            <plain>Р”Р°РІР°Р№С‚Рµ Р±СѓРґРµРј РґРѕ РєРѕРЅС†Р°</plain>
         </string>
         <string>
-            <plain>Растить плоды в сердцах святые,</plain>
+            <plain>Р Р°СЃС‚РёС‚СЊ РїР»РѕРґС‹ РІ СЃРµСЂРґС†Р°С… СЃРІСЏС‚С‹Рµ,</plain>
         </string>
         <string>
-            <plain>Чтоб жизнь была у нас свята.</plain>
+            <plain>Р§С‚РѕР± Р¶РёР·РЅСЊ Р±С‹Р»Р° Сѓ РЅР°СЃ СЃРІСЏС‚Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Давайте будем, дети Бога,</plain>
+            <plain>Р”Р°РІР°Р№С‚Рµ Р±СѓРґРµРј, РґРµС‚Рё Р‘РѕРіР°,</plain>
         </string>
         <string>
-            <plain>По духу жить в земной стране.</plain>
+            <plain>РџРѕ РґСѓС…Сѓ Р¶РёС‚СЊ РІ Р·РµРјРЅРѕР№ СЃС‚СЂР°РЅРµ.</plain>
         </string>
         <string>
-            <plain>Такая в небо есть дорога,</plain>
+            <plain>РўР°РєР°СЏ РІ РЅРµР±Рѕ РµСЃС‚СЊ РґРѕСЂРѕРіР°,</plain>
         </string>
         <string>
-            <plain>Чтоб здесь пребыть в святом труде.</plain>
+            <plain>Р§С‚РѕР± Р·РґРµСЃСЊ РїСЂРµР±С‹С‚СЊ РІ СЃРІСЏС‚РѕРј С‚СЂСѓРґРµ.</plain>
         </string>
     </verse>
 </psalm>

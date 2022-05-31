@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2925" name="Господь В любви великой" canon="false" text="" textRus="" music="">
+<psalm number="2925" name="Р“РѕСЃРїРѕРґСЊ Р’ Р»СЋР±РІРё РІРµР»РёРєРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господь, В любви великой</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, Р’ Р»СЋР±РІРё РІРµР»РёРєРѕР№</plain>
         </string>
         <string>
-            <plain>взгляни Ты на меня,</plain>
+            <plain>РІР·РіР»СЏРЅРё РўС‹ РЅР° РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>дай разум мне и силу,</plain>
+            <plain>РґР°Р№ СЂР°Р·СѓРј РјРЅРµ Рё СЃРёР»Сѓ,</plain>
         </string>
         <string>
-            <plain>чтоб жить здесь без греха!</plain>
+            <plain>С‡С‚РѕР± Р¶РёС‚СЊ Р·РґРµСЃСЊ Р±РµР· РіСЂРµС…Р°!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь, о помоги мне</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, Рѕ РїРѕРјРѕРіРё РјРЅРµ</plain>
         </string>
         <string>
-            <plain>жить только для Тебя,</plain>
+            <plain>Р¶РёС‚СЊ С‚РѕР»СЊРєРѕ РґР»СЏ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>чтоб я в небесном мире</plain>
+            <plain>С‡С‚РѕР± СЏ РІ РЅРµР±РµСЃРЅРѕРј РјРёСЂРµ</plain>
         </string>
         <string>
-            <plain>мог лицезреть Тебя.</plain>
+            <plain>РјРѕРі Р»РёС†РµР·СЂРµС‚СЊ РўРµР±СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты помоги жить в вере,</plain>
+            <plain>РўС‹ РїРѕРјРѕРіРё Р¶РёС‚СЊ РІ РІРµСЂРµ,</plain>
         </string>
         <string>
-            <plain>победу дай в борьбе,</plain>
+            <plain>РїРѕР±РµРґСѓ РґР°Р№ РІ Р±РѕСЂСЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>дай больше благодати,</plain>
+            <plain>РґР°Р№ Р±РѕР»СЊС€Рµ Р±Р»Р°РіРѕРґР°С‚Рё,</plain>
         </string>
         <string>
-            <plain>чтоб был успех везде.</plain>
+            <plain>С‡С‚РѕР± Р±С‹Р» СѓСЃРїРµС… РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай, чтоб я жизнью</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± СЏ Р¶РёР·РЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>славу Твою преумножил,</plain>
+            <plain>СЃР»Р°РІСѓ РўРІРѕСЋ РїСЂРµСѓРјРЅРѕР¶РёР»,</plain>
         </string>
         <string>
-            <plain>чтоб я делами веры</plain>
+            <plain>С‡С‚РѕР± СЏ РґРµР»Р°РјРё РІРµСЂС‹</plain>
         </string>
         <string>
-            <plain>ученье украшал.</plain>
+            <plain>СѓС‡РµРЅСЊРµ СѓРєСЂР°С€Р°Р».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Христовы помышленья</plain>
+            <plain>РҐСЂРёСЃС‚РѕРІС‹ РїРѕРјС‹С€Р»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>пусть будут и мои;</plain>
+            <plain>РїСѓСЃС‚СЊ Р±СѓРґСѓС‚ Рё РјРѕРё;</plain>
         </string>
         <string>
-            <plain>слова, дела и мысли</plain>
+            <plain>СЃР»РѕРІР°, РґРµР»Р° Рё РјС‹СЃР»Рё</plain>
         </string>
         <string>
-            <plain>Ты в чистоте храни.</plain>
+            <plain>РўС‹ РІ С‡РёСЃС‚РѕС‚Рµ С…СЂР°РЅРё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Пусть будут мои силы</plain>
+            <plain>РџСѓСЃС‚СЊ Р±СѓРґСѓС‚ РјРѕРё СЃРёР»С‹</plain>
         </string>
         <string>
-            <plain>все отданы Тебе,</plain>
+            <plain>РІСЃРµ РѕС‚РґР°РЅС‹ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>чтоб после дел свершённых</plain>
+            <plain>С‡С‚РѕР± РїРѕСЃР»Рµ РґРµР» СЃРІРµСЂС€С‘РЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>венец дал в дар Ты мне.</plain>
+            <plain>РІРµРЅРµС† РґР°Р» РІ РґР°СЂ РўС‹ РјРЅРµ.</plain>
         </string>
     </verse>
 </psalm>

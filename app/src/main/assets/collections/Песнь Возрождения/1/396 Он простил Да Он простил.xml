@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="396" name="Он простил Да Он простил" canon="false" text="" textRus="" music="">
+<psalm number="396" name="РћРЅ РїСЂРѕСЃС‚РёР» Р”Р° РћРЅ РїСЂРѕСЃС‚РёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Он простил! Да, Он простил</plain>
+            <plain>РћРЅ РїСЂРѕСЃС‚РёР»! Р”Р°, РћРЅ РїСЂРѕСЃС‚РёР»</plain>
         </string>
         <string>
-            <plain>Согрешение Петра,</plain>
+            <plain>РЎРѕРіСЂРµС€РµРЅРёРµ РџРµС‚СЂР°,</plain>
         </string>
         <string>
-            <plain>В смертный грех Он не вменил</plain>
+            <plain>Р’ СЃРјРµСЂС‚РЅС‹Р№ РіСЂРµС… РћРЅ РЅРµ РІРјРµРЅРёР»</plain>
         </string>
         <string>
-            <plain>Отреченье у костра.</plain>
+            <plain>РћС‚СЂРµС‡РµРЅСЊРµ Сѓ РєРѕСЃС‚СЂР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пойте, ангелы с небес!</plain>
+            <plain>РџРѕР№С‚Рµ, Р°РЅРіРµР»С‹ СЃ РЅРµР±РµСЃ!</plain>
         </string>
         <string>
-            <plain>Пойте, хоры Божьих сил!</plain>
+            <plain>РџРѕР№С‚Рµ, С…РѕСЂС‹ Р‘РѕР¶СЊРёС… СЃРёР»!</plain>
         </string>
         <string>
-            <plain>Грешника Господь простил!</plain>
+            <plain>Р“СЂРµС€РЅРёРєР° Р“РѕСЃРїРѕРґСЊ РїСЂРѕСЃС‚РёР»!</plain>
         </string>
         <string>
-            <plain>Грешника Господь простил!</plain>
+            <plain>Р“СЂРµС€РЅРёРєР° Р“РѕСЃРїРѕРґСЊ РїСЂРѕСЃС‚РёР»!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я, прельщенный суетой,</plain>
+            <plain>РЇ, РїСЂРµР»СЊС‰РµРЅРЅС‹Р№ СЃСѓРµС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Против Господа грешил,</plain>
+            <plain>РџСЂРѕС‚РёРІ Р“РѕСЃРїРѕРґР° РіСЂРµС€РёР»,</plain>
         </string>
         <string>
-            <plain>Но пришел к Нему с мольбой,</plain>
+            <plain>РќРѕ РїСЂРёС€РµР» Рє РќРµРјСѓ СЃ РјРѕР»СЊР±РѕР№,</plain>
         </string>
         <string>
-            <plain>И Господь меня простил.</plain>
+            <plain>Р Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Нету грозного меча,</plain>
+            <plain>РќРµС‚Сѓ РіСЂРѕР·РЅРѕРіРѕ РјРµС‡Р°,</plain>
         </string>
         <string>
-            <plain>Нету призрака суда;</plain>
+            <plain>РќРµС‚Сѓ РїСЂРёР·СЂР°РєР° СЃСѓРґР°;</plain>
         </string>
         <string>
-            <plain>Искупления свеча</plain>
+            <plain>РСЃРєСѓРїР»РµРЅРёСЏ СЃРІРµС‡Р°</plain>
         </string>
         <string>
-            <plain>Зажжена Им навсегда.</plain>
+            <plain>Р—Р°Р¶Р¶РµРЅР° РРј РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Он простил! Да, Он простил!</plain>
+            <plain>РћРЅ РїСЂРѕСЃС‚РёР»! Р”Р°, РћРЅ РїСЂРѕСЃС‚РёР»!</plain>
         </string>
         <string>
-            <plain>Как от запада восток</plain>
+            <plain>РљР°Рє РѕС‚ Р·Р°РїР°РґР° РІРѕСЃС‚РѕРє</plain>
         </string>
         <string>
-            <plain>Грех души Он удалил</plain>
+            <plain>Р“СЂРµС… РґСѓС€Рё РћРЅ СѓРґР°Р»РёР»</plain>
         </string>
         <string>
-            <plain>И в покров небес облек.</plain>
+            <plain>Р РІ РїРѕРєСЂРѕРІ РЅРµР±РµСЃ РѕР±Р»РµРє.</plain>
         </string>
     </verse>
 </psalm>

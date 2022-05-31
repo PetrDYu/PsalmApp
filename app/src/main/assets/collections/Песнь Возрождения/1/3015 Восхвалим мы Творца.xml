@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3015" name="Восхвалим мы Творца" canon="false" text="" textRus="" music="">
+<psalm number="3015" name="Р’РѕСЃС…РІР°Р»РёРј РјС‹ РўРІРѕСЂС†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Восхвалим мы Творца</plain>
+            <plain>Р’РѕСЃС…РІР°Р»РёРј РјС‹ РўРІРѕСЂС†Р°</plain>
         </string>
         <string>
-            <plain>и сердцем, и устами!</plain>
+            <plain>Рё СЃРµСЂРґС†РµРј, Рё СѓСЃС‚Р°РјРё!</plain>
         </string>
         <string>
-            <plain>Творит Он чудеса</plain>
+            <plain>РўРІРѕСЂРёС‚ РћРЅ С‡СѓРґРµСЃР°</plain>
         </string>
         <string>
-            <plain>и в нас, и перед нами.</plain>
+            <plain>Рё РІ РЅР°СЃ, Рё РїРµСЂРµРґ РЅР°РјРё.</plain>
         </string>
         <string>
-            <plain>С начала наших дней</plain>
+            <plain>РЎ РЅР°С‡Р°Р»Р° РЅР°С€РёС… РґРЅРµР№</plain>
         </string>
         <string>
-            <plain>и в наступивший час</plain>
+            <plain>Рё РІ РЅР°СЃС‚СѓРїРёРІС€РёР№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>щедротой Он Своей</plain>
+            <plain>С‰РµРґСЂРѕС‚РѕР№ РћРЅ РЎРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>обогащает нас.</plain>
+            <plain>РѕР±РѕРіР°С‰Р°РµС‚ РЅР°СЃ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Да будет Он для нас</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ РћРЅ РґР»СЏ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>живительной отрадой!</plain>
+            <plain>Р¶РёРІРёС‚РµР»СЊРЅРѕР№ РѕС‚СЂР°РґРѕР№!</plain>
         </string>
         <string>
-            <plain>Да правит нами Он,</plain>
+            <plain>Р”Р° РїСЂР°РІРёС‚ РЅР°РјРё РћРЅ,</plain>
         </string>
         <string>
-            <plain>как Пастырь Своим стадом.</plain>
+            <plain>РєР°Рє РџР°СЃС‚С‹СЂСЊ РЎРІРѕРёРј СЃС‚Р°РґРѕРј.</plain>
         </string>
         <string>
-            <plain>Да не оставит нас</plain>
+            <plain>Р”Р° РЅРµ РѕСЃС‚Р°РІРёС‚ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Он милостью и впредь</plain>
+            <plain>РћРЅ РјРёР»РѕСЃС‚СЊСЋ Рё РІРїСЂРµРґСЊ</plain>
         </string>
         <string>
-            <plain>и да утешит нас,</plain>
+            <plain>Рё РґР° СѓС‚РµС€РёС‚ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>когда начнём скорбеть.</plain>
+            <plain>РєРѕРіРґР° РЅР°С‡РЅС‘Рј СЃРєРѕСЂР±РµС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хвала и честь Тебе</plain>
+            <plain>РҐРІР°Р»Р° Рё С‡РµСЃС‚СЊ РўРµР±Рµ</plain>
         </string>
         <string>
-            <plain>и слава благостыне Твоей,</plain>
+            <plain>Рё СЃР»Р°РІР° Р±Р»Р°РіРѕСЃС‚С‹РЅРµ РўРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Отец и Сын и Дух,</plain>
+            <plain>РћС‚РµС† Рё РЎС‹РЅ Рё Р”СѓС…,</plain>
         </string>
         <string>
-            <plain>всегда и ныне!</plain>
+            <plain>РІСЃРµРіРґР° Рё РЅС‹РЅРµ!</plain>
         </string>
         <string>
-            <plain>О вечный Бог, Тобой</plain>
+            <plain>Рћ РІРµС‡РЅС‹Р№ Р‘РѕРі, РўРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>живут сердца святых:</plain>
+            <plain>Р¶РёРІСѓС‚ СЃРµСЂРґС†Р° СЃРІСЏС‚С‹С…:</plain>
         </string>
         <string>
-            <plain>для них в Тебе по кой,</plain>
+            <plain>РґР»СЏ РЅРёС… РІ РўРµР±Рµ РїРѕ РєРѕР№,</plain>
         </string>
         <string>
-            <plain>в Тебе отрада их.</plain>
+            <plain>РІ РўРµР±Рµ РѕС‚СЂР°РґР° РёС….</plain>
         </string>
     </verse>
 </psalm>

@@ -1,129 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="195" name="К неземной стране" canon="false" text="" textRus="" music="">
+<psalm number="195" name="Рљ РЅРµР·РµРјРЅРѕР№ СЃС‚СЂР°РЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>К неземной стране</plain>
+            <plain>Рљ РЅРµР·РµРјРЅРѕР№ СЃС‚СЂР°РЅРµ</plain>
         </string>
         <string>
-            <plain>Путь указан мне;</plain>
+            <plain>РџСѓС‚СЊ СѓРєР°Р·Р°РЅ РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>И меня влечет</plain>
+            <plain>Р РјРµРЅСЏ РІР»РµС‡РµС‚</plain>
         </string>
         <string>
-            <plain>Что-то все вперед.</plain>
+            <plain>Р§С‚Рѕ-С‚Рѕ РІСЃРµ РІРїРµСЂРµРґ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Не растут цветы</plain>
+            <plain>РќРµ СЂР°СЃС‚СѓС‚ С†РІРµС‚С‹</plain>
         </string>
         <string>
-            <plain>На пути моем,</plain>
+            <plain>РќР° РїСѓС‚Рё РјРѕРµРј,</plain>
         </string>
         <string>
-            <plain>Лишь шипов кусты</plain>
+            <plain>Р›РёС€СЊ С€РёРїРѕРІ РєСѓСЃС‚С‹</plain>
         </string>
         <string>
-            <plain>Вижу я кругом.</plain>
+            <plain>Р’РёР¶Сѓ СЏ РєСЂСѓРіРѕРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Соловьи зарей</plain>
+            <plain>РЎРѕР»РѕРІСЊРё Р·Р°СЂРµР№</plain>
         </string>
         <string>
-            <plain>Не ласкают слух,</plain>
+            <plain>РќРµ Р»Р°СЃРєР°СЋС‚ СЃР»СѓС…,</plain>
         </string>
         <string>
-            <plain>Лишь шакалов вой</plain>
+            <plain>Р›РёС€СЊ С€Р°РєР°Р»РѕРІ РІРѕР№</plain>
         </string>
         <string>
-            <plain>Слышу я вокруг.</plain>
+            <plain>РЎР»С‹С€Сѓ СЏ РІРѕРєСЂСѓРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Не сулит покой</plain>
+            <plain>РќРµ СЃСѓР»РёС‚ РїРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>Мне прохлады тень,</plain>
+            <plain>РњРЅРµ РїСЂРѕС…Р»Р°РґС‹ С‚РµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Но палящий зной</plain>
+            <plain>РќРѕ РїР°Р»СЏС‰РёР№ Р·РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Жжет и ночь и день.</plain>
+            <plain>Р–Р¶РµС‚ Рё РЅРѕС‡СЊ Рё РґРµРЅСЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Не в тиши идет</plain>
+            <plain>РќРµ РІ С‚РёС€Рё РёРґРµС‚</plain>
         </string>
         <string>
-            <plain>Путь тернистый мой,</plain>
+            <plain>РџСѓС‚СЊ С‚РµСЂРЅРёСЃС‚С‹Р№ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Ураган ревет,</plain>
+            <plain>РЈСЂР°РіР°РЅ СЂРµРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Проносясь над мной.</plain>
+            <plain>РџСЂРѕРЅРѕСЃСЏСЃСЊ РЅР°Рґ РјРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Не среди лугов,</plain>
+            <plain>РќРµ СЃСЂРµРґРё Р»СѓРіРѕРІ,</plain>
         </string>
         <string>
-            <plain>Под шумок ручья –</plain>
+            <plain>РџРѕРґ С€СѓРјРѕРє СЂСѓС‡СЊСЏ вЂ“</plain>
         </string>
         <string>
-            <plain>По камням холмов</plain>
+            <plain>РџРѕ РєР°РјРЅСЏРј С…РѕР»РјРѕРІ</plain>
         </string>
         <string>
-            <plain>Пробираюсь я.</plain>
+            <plain>РџСЂРѕР±РёСЂР°СЋСЃСЊ СЏ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>И встречаю я</plain>
+            <plain>Р РІСЃС‚СЂРµС‡Р°СЋ СЏ</plain>
         </string>
         <string>
-            <plain>Всюду крови след:</plain>
+            <plain>Р’СЃСЋРґСѓ РєСЂРѕРІРё СЃР»РµРґ:</plain>
         </string>
         <string>
-            <plain>Кто-то шел, скорбя,</plain>
+            <plain>РљС‚Рѕ-С‚Рѕ С€РµР», СЃРєРѕСЂР±СЏ,</plain>
         </string>
         <string>
-            <plain>Средь борьбы и бед.</plain>
+            <plain>РЎСЂРµРґСЊ Р±РѕСЂСЊР±С‹ Рё Р±РµРґ.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>В черной мгле сокрыт</plain>
+            <plain>Р’ С‡РµСЂРЅРѕР№ РјРіР»Рµ СЃРѕРєСЂС‹С‚</plain>
         </string>
         <string>
-            <plain>Путь суровый мой,</plain>
+            <plain>РџСѓС‚СЊ СЃСѓСЂРѕРІС‹Р№ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Но вдали блестит</plain>
+            <plain>РќРѕ РІРґР°Р»Рё Р±Р»РµСЃС‚РёС‚</plain>
         </string>
         <string>
-            <plain>Огонек живой.</plain>
+            <plain>РћРіРѕРЅРµРє Р¶РёРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>Огонек горит,</plain>
+            <plain>РћРіРѕРЅРµРє РіРѕСЂРёС‚,</plain>
         </string>
         <string>
-            <plain>И хоть вихрь шумит,</plain>
+            <plain>Р С…РѕС‚СЊ РІРёС…СЂСЊ С€СѓРјРёС‚,</plain>
         </string>
         <string>
-            <plain>Но меня влечет</plain>
+            <plain>РќРѕ РјРµРЅСЏ РІР»РµС‡РµС‚</plain>
         </string>
         <string>
-            <plain>Что-то все вперед.</plain>
+            <plain>Р§С‚Рѕ-С‚Рѕ РІСЃРµ РІРїРµСЂРµРґ.</plain>
         </string>
     </verse>
 </psalm>

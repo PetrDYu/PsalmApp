@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="103" name="Посмотри вблизи потока" canon="false" text="" textRus="" music="">
+<psalm number="103" name="РџРѕСЃРјРѕС‚СЂРё РІР±Р»РёР·Рё РїРѕС‚РѕРєР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Посмотри, вблизи потока,</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё, РІР±Р»РёР·Рё РїРѕС‚РѕРєР°,</plain>
         </string>
         <string>
-            <plain>У прозрачных чистых вод,</plain>
+            <plain>РЈ РїСЂРѕР·СЂР°С‡РЅС‹С… С‡РёСЃС‚С‹С… РІРѕРґ,</plain>
         </string>
         <string>
-            <plain>Посреди травы высокой</plain>
+            <plain>РџРѕСЃСЂРµРґРё С‚СЂР°РІС‹ РІС‹СЃРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>Пышно лилия цветет.</plain>
+            <plain>РџС‹С€РЅРѕ Р»РёР»РёСЏ С†РІРµС‚РµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Если лилию Бог любит</plain>
+            <plain>Р•СЃР»Рё Р»РёР»РёСЋ Р‘РѕРі Р»СЋР±РёС‚</plain>
         </string>
         <string>
-            <plain>И заботится о ней, -</plain>
+            <plain>Р Р·Р°Р±РѕС‚РёС‚СЃСЏ Рѕ РЅРµР№, -</plain>
         </string>
         <string>
-            <plain>Разве Он тебя погубит,</plain>
+            <plain>Р Р°Р·РІРµ РћРЅ С‚РµР±СЏ РїРѕРіСѓР±РёС‚,</plain>
         </string>
         <string>
-            <plain>Позабыв в нужде твоей?</plain>
+            <plain>РџРѕР·Р°Р±С‹РІ РІ РЅСѓР¶РґРµ С‚РІРѕРµР№?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Корни крепкие питает</plain>
+            <plain>РљРѕСЂРЅРё РєСЂРµРїРєРёРµ РїРёС‚Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Влага чистая ручья,</plain>
+            <plain>Р’Р»Р°РіР° С‡РёСЃС‚Р°СЏ СЂСѓС‡СЊСЏ,</plain>
         </string>
         <string>
-            <plain>И росою наполняет</plain>
+            <plain>Р СЂРѕСЃРѕСЋ РЅР°РїРѕР»РЅСЏРµС‚</plain>
         </string>
         <string>
-            <plain>Чашу ранняя заря.</plain>
+            <plain>Р§Р°С€Сѓ СЂР°РЅРЅСЏСЏ Р·Р°СЂСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жаждет лилия простора,</plain>
+            <plain>Р–Р°Р¶РґРµС‚ Р»РёР»РёСЏ РїСЂРѕСЃС‚РѕСЂР°,</plain>
         </string>
         <string>
-            <plain>Смотрит прямо к небесам.</plain>
+            <plain>РЎРјРѕС‚СЂРёС‚ РїСЂСЏРјРѕ Рє РЅРµР±РµСЃР°Рј.</plain>
         </string>
         <string>
-            <plain>И влекут ее узоры</plain>
+            <plain>Р РІР»РµРєСѓС‚ РµРµ СѓР·РѕСЂС‹</plain>
         </string>
         <string>
-            <plain>Скромных пчелок к лепесткам.</plain>
+            <plain>РЎРєСЂРѕРјРЅС‹С… РїС‡РµР»РѕРє Рє Р»РµРїРµСЃС‚РєР°Рј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сок приятный и пахучий</plain>
+            <plain>РЎРѕРє РїСЂРёСЏС‚РЅС‹Р№ Рё РїР°С…СѓС‡РёР№</plain>
         </string>
         <string>
-            <plain>Изливается из ней;</plain>
+            <plain>РР·Р»РёРІР°РµС‚СЃСЏ РёР· РЅРµР№;</plain>
         </string>
         <string>
-            <plain>Кто богаче и кто лучше</plain>
+            <plain>РљС‚Рѕ Р±РѕРіР°С‡Рµ Рё РєС‚Рѕ Р»СѓС‡С€Рµ</plain>
         </string>
         <string>
-            <plain>Одевался из царей?</plain>
+            <plain>РћРґРµРІР°Р»СЃСЏ РёР· С†Р°СЂРµР№?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Так живет Творца творенье</plain>
+            <plain>РўР°Рє Р¶РёРІРµС‚ РўРІРѕСЂС†Р° С‚РІРѕСЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>В блеске дивной красоты</plain>
+            <plain>Р’ Р±Р»РµСЃРєРµ РґРёРІРЅРѕР№ РєСЂР°СЃРѕС‚С‹</plain>
         </string>
         <string>
-            <plain>Без заботы и мученья.</plain>
+            <plain>Р‘РµР· Р·Р°Р±РѕС‚С‹ Рё РјСѓС‡РµРЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>Отчего ж печален ты?</plain>
+            <plain>РћС‚С‡РµРіРѕ Р¶ РїРµС‡Р°Р»РµРЅ С‚С‹?</plain>
         </string>
     </verse>
 </psalm>

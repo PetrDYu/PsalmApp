@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2189" name="Лодка по волнам во тьме плывет" canon="false" text="" textRus="" music="">
+<psalm number="2189" name="Р›РѕРґРєР° РїРѕ РІРѕР»РЅР°Рј РІРѕ С‚СЊРјРµ РїР»С‹РІРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Лодка по волнам во тьме плывет,</plain>
+            <plain>Р›РѕРґРєР° РїРѕ РІРѕР»РЅР°Рј РІРѕ С‚СЊРјРµ РїР»С‹РІРµС‚,</plain>
         </string>
         <string>
-            <plain>Море пенится, шумит,</plain>
+            <plain>РњРѕСЂРµ РїРµРЅРёС‚СЃСЏ, С€СѓРјРёС‚,</plain>
         </string>
         <string>
-            <plain>Страх за сердце каждого берет,</plain>
+            <plain>РЎС‚СЂР°С… Р·Р° СЃРµСЂРґС†Рµ РєР°Р¶РґРѕРіРѕ Р±РµСЂРµС‚,</plain>
         </string>
         <string>
-            <plain>А Учитель мирно спит.</plain>
+            <plain>Рђ РЈС‡РёС‚РµР»СЊ РјРёСЂРЅРѕ СЃРїРёС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>"Встань, защити, гибель нас ждет,</plain>
+            <plain>"Р’СЃС‚Р°РЅСЊ, Р·Р°С‰РёС‚Рё, РіРёР±РµР»СЊ РЅР°СЃ Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Челн захлестнет волной!"</plain>
+            <plain>Р§РµР»РЅ Р·Р°С…Р»РµСЃС‚РЅРµС‚ РІРѕР»РЅРѕР№!"</plain>
         </string>
         <string>
-            <plain>Ветру буйному Он запретил,</plain>
+            <plain>Р’РµС‚СЂСѓ Р±СѓР№РЅРѕРјСѓ РћРЅ Р·Р°РїСЂРµС‚РёР»,</plain>
         </string>
         <string>
-            <plain>И тогда настал поКой.</plain>
+            <plain>Р С‚РѕРіРґР° РЅР°СЃС‚Р°Р» РїРѕРљРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>"Маловеры", - упрекнул Он их,</plain>
+            <plain>"РњР°Р»РѕРІРµСЂС‹", - СѓРїСЂРµРєРЅСѓР» РћРЅ РёС…,</plain>
         </string>
         <string>
-            <plain>Не хватало ль им чего?</plain>
+            <plain>РќРµ С…РІР°С‚Р°Р»Рѕ Р»СЊ РёРј С‡РµРіРѕ?</plain>
         </string>
         <string>
-            <plain>Столько видели чудес больших,</plain>
+            <plain>РЎС‚РѕР»СЊРєРѕ РІРёРґРµР»Рё С‡СѓРґРµСЃ Р±РѕР»СЊС€РёС…,</plain>
         </string>
         <string>
-            <plain>И не верили в Него.</plain>
+            <plain>Р РЅРµ РІРµСЂРёР»Рё РІ РќРµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>"Во всякой скорби верьте в Меня,</plain>
+            <plain>"Р’Рѕ РІСЃСЏРєРѕР№ СЃРєРѕСЂР±Рё РІРµСЂСЊС‚Рµ РІ РњРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Я не покину вас:</plain>
+            <plain>РЇ РЅРµ РїРѕРєРёРЅСѓ РІР°СЃ:</plain>
         </string>
         <string>
-            <plain>Если силы вражьи вас теснят,</plain>
+            <plain>Р•СЃР»Рё СЃРёР»С‹ РІСЂР°Р¶СЊРё РІР°СЃ С‚РµСЃРЅСЏС‚,</plain>
         </string>
         <string>
-            <plain>Я смирю их в тот же час".</plain>
+            <plain>РЇ СЃРјРёСЂСЋ РёС… РІ С‚РѕС‚ Р¶Рµ С‡Р°СЃ".</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Морем бурным ты во тьме плывешь,</plain>
+            <plain>РњРѕСЂРµРј Р±СѓСЂРЅС‹Рј С‚С‹ РІРѕ С‚СЊРјРµ РїР»С‹РІРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Одиноким в челноке,</plain>
+            <plain>РћРґРёРЅРѕРєРёРј РІ С‡РµР»РЅРѕРєРµ,</plain>
         </string>
         <string>
-            <plain>Всюду видишь только гнев и ложь,</plain>
+            <plain>Р’СЃСЋРґСѓ РІРёРґРёС€СЊ С‚РѕР»СЊРєРѕ РіРЅРµРІ Рё Р»РѕР¶СЊ,</plain>
         </string>
         <string>
-            <plain>Знай, Господь невдалеке.</plain>
+            <plain>Р—РЅР°Р№, Р“РѕСЃРїРѕРґСЊ РЅРµРІРґР°Р»РµРєРµ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Верь и надейся, буря пройдет,</plain>
+            <plain>Р’РµСЂСЊ Рё РЅР°РґРµР№СЃСЏ, Р±СѓСЂСЏ РїСЂРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Помощь придет с небес.</plain>
+            <plain>РџРѕРјРѕС‰СЊ РїСЂРёРґРµС‚ СЃ РЅРµР±РµСЃ.</plain>
         </string>
         <string>
-            <plain>В пристань тихую Он приведет,</plain>
+            <plain>Р’ РїСЂРёСЃС‚Р°РЅСЊ С‚РёС…СѓСЋ РћРЅ РїСЂРёРІРµРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Наш Господь Тво-рец чудес.</plain>
+            <plain>РќР°С€ Р“РѕСЃРїРѕРґСЊ РўРІРѕ-СЂРµС† С‡СѓРґРµСЃ.</plain>
         </string>
     </verse>
 </psalm>

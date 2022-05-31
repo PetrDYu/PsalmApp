@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2407" name="Я вижу Христа грядущим" canon="false" text="" textRus="" music="">
+<psalm number="2407" name="РЇ РІРёР¶Сѓ РҐСЂРёСЃС‚Р° РіСЂСЏРґСѓС‰РёРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я вижу Христа грядущим</plain>
+            <plain>РЇ РІРёР¶Сѓ РҐСЂРёСЃС‚Р° РіСЂСЏРґСѓС‰РёРј</plain>
         </string>
         <string>
-            <plain>В видении будущих дней,</plain>
+            <plain>Р’ РІРёРґРµРЅРёРё Р±СѓРґСѓС‰РёС… РґРЅРµР№,</plain>
         </string>
         <string>
-            <plain>На облаке светлом идущим</plain>
+            <plain>РќР° РѕР±Р»Р°РєРµ СЃРІРµС‚Р»РѕРј РёРґСѓС‰РёРј</plain>
         </string>
         <string>
-            <plain>С простертой рукою ко мне.</plain>
+            <plain>РЎ РїСЂРѕСЃС‚РµСЂС‚РѕР№ СЂСѓРєРѕСЋ РєРѕ РјРЅРµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, облако, место той встречи</plain>
+            <plain>Рћ, РѕР±Р»Р°РєРѕ, РјРµСЃС‚Рѕ С‚РѕР№ РІСЃС‚СЂРµС‡Рё</plain>
         </string>
         <string>
-            <plain>С моим Иисусом Христом,</plain>
+            <plain>РЎ РјРѕРёРј РРёСЃСѓСЃРѕРј РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Который любовию вечной</plain>
+            <plain>РљРѕС‚РѕСЂС‹Р№ Р»СЋР±РѕРІРёСЋ РІРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Назвался моим Женихом,</plain>
+            <plain>РќР°Р·РІР°Р»СЃСЏ РјРѕРёРј Р–РµРЅРёС…РѕРј,</plain>
         </string>
         <string>
-            <plain>Сокрой ты в блистающем свете,</plain>
+            <plain>РЎРѕРєСЂРѕР№ С‚С‹ РІ Р±Р»РёСЃС‚Р°СЋС‰РµРј СЃРІРµС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Сверкая от славы Христа,</plain>
+            <plain>РЎРІРµСЂРєР°СЏ РѕС‚ СЃР»Р°РІС‹ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Меня с моим Другом-Главою</plain>
+            <plain>РњРµРЅСЏ СЃ РјРѕРёРј Р”СЂСѓРіРѕРј-Р“Р»Р°РІРѕСЋ</plain>
         </string>
         <string>
-            <plain>В небесных чертогах Царя.</plain>
+            <plain>Р’ РЅРµР±РµСЃРЅС‹С… С‡РµСЂС‚РѕРіР°С… Р¦Р°СЂСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я вижу там братьев любимых</plain>
+            <plain>РЇ РІРёР¶Сѓ С‚Р°Рј Р±СЂР°С‚СЊРµРІ Р»СЋР±РёРјС‹С…</plain>
         </string>
         <string>
-            <plain>И милые лица сестёр,</plain>
+            <plain>Р РјРёР»С‹Рµ Р»РёС†Р° СЃРµСЃС‚С‘СЂ,</plain>
         </string>
         <string>
-            <plain>На тех белоснежных равнинах,</plain>
+            <plain>РќР° С‚РµС… Р±РµР»РѕСЃРЅРµР¶РЅС‹С… СЂР°РІРЅРёРЅР°С…,</plain>
         </string>
         <string>
-            <plain>Что Бог над землёю простер.</plain>
+            <plain>Р§С‚Рѕ Р‘РѕРі РЅР°Рґ Р·РµРјР»С‘СЋ РїСЂРѕСЃС‚РµСЂ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я вижу себя вознесённым</plain>
+            <plain>РЇ РІРёР¶Сѓ СЃРµР±СЏ РІРѕР·РЅРµСЃС‘РЅРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>На облаке Божьей рукой,</plain>
+            <plain>РќР° РѕР±Р»Р°РєРµ Р‘РѕР¶СЊРµР№ СЂСѓРєРѕР№,</plain>
         </string>
         <string>
-            <plain>В обьятиях Христа заключенным,</plain>
+            <plain>Р’ РѕР±СЊСЏС‚РёСЏС… РҐСЂРёСЃС‚Р° Р·Р°РєР»СЋС‡РµРЅРЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Чтоб жить с Ним во веки веков.</plain>
+            <plain>Р§С‚РѕР± Р¶РёС‚СЊ СЃ РќРёРј РІРѕ РІРµРєРё РІРµРєРѕРІ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1039" name="Тихо и мирно в Божьем собраньи" canon="false" text="" textRus="" music="">
+<psalm number="1039" name="РўРёС…Рѕ Рё РјРёСЂРЅРѕ РІ Р‘РѕР¶СЊРµРј СЃРѕР±СЂР°РЅСЊРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тихо и мирно в Божьем собраньи -</plain>
+            <plain>РўРёС…Рѕ Рё РјРёСЂРЅРѕ РІ Р‘РѕР¶СЊРµРј СЃРѕР±СЂР°РЅСЊРё -</plain>
         </string>
         <string>
-            <plain>Льется благая весть.</plain>
+            <plain>Р›СЊРµС‚СЃСЏ Р±Р»Р°РіР°СЏ РІРµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Слышишь? За грешных Христос страдает,</plain>
+            <plain>РЎР»С‹С€РёС€СЊ? Р—Р° РіСЂРµС€РЅС‹С… РҐСЂРёСЃС‚РѕСЃ СЃС‚СЂР°РґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>В Нем всем спасенье есть.</plain>
+            <plain>Р’ РќРµРј РІСЃРµРј СЃРїР°СЃРµРЅСЊРµ РµСЃС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Кто тебя любит так, как Спаситель?</plain>
+            <plain>РљС‚Рѕ С‚РµР±СЏ Р»СЋР±РёС‚ С‚Р°Рє, РєР°Рє РЎРїР°СЃРёС‚РµР»СЊ?</plain>
         </string>
         <string>
-            <plain>Он умер за тебя!</plain>
+            <plain>РћРЅ СѓРјРµСЂ Р·Р° С‚РµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Христос - Сын Божий, твой Искупитель,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ - РЎС‹РЅ Р‘РѕР¶РёР№, С‚РІРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Твой грех взял на Себя.</plain>
+            <plain>РўРІРѕР№ РіСЂРµС… РІР·СЏР» РЅР° РЎРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог примиряет грешных с Собою,</plain>
+            <plain>Р‘РѕРі РїСЂРёРјРёСЂСЏРµС‚ РіСЂРµС€РЅС‹С… СЃ РЎРѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Мир чрез Христа дает.</plain>
+            <plain>РњРёСЂ С‡СЂРµР· РҐСЂРёСЃС‚Р° РґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Ты стоишь, грешник, к Богу спиною.</plain>
+            <plain>РўС‹ СЃС‚РѕРёС€СЊ, РіСЂРµС€РЅРёРє, Рє Р‘РѕРіСѓ СЃРїРёРЅРѕСЋ.</plain>
         </string>
         <string>
-            <plain>О, повернись лицом!</plain>
+            <plain>Рћ, РїРѕРІРµСЂРЅРёСЃСЊ Р»РёС†РѕРј!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Что же ты ныне Ему ответишь,</plain>
+            <plain>Р§С‚Рѕ Р¶Рµ С‚С‹ РЅС‹РЅРµ Р•РјСѓ РѕС‚РІРµС‚РёС€СЊ,</plain>
         </string>
         <string>
-            <plain>Наполнишь чем уста?</plain>
+            <plain>РќР°РїРѕР»РЅРёС€СЊ С‡РµРј СѓСЃС‚Р°?</plain>
         </string>
         <string>
-            <plain>Горе, ненастье в жизни ты встретил,</plain>
+            <plain>Р“РѕСЂРµ, РЅРµРЅР°СЃС‚СЊРµ РІ Р¶РёР·РЅРё С‚С‹ РІСЃС‚СЂРµС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Не принявши Христа.</plain>
+            <plain>РќРµ РїСЂРёРЅСЏРІС€Рё РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Несчастный грешник с бедной душою,</plain>
+            <plain>РќРµСЃС‡Р°СЃС‚РЅС‹Р№ РіСЂРµС€РЅРёРє СЃ Р±РµРґРЅРѕР№ РґСѓС€РѕСЋ,</plain>
         </string>
         <string>
-            <plain>С ношей греха в груди,</plain>
+            <plain>РЎ РЅРѕС€РµР№ РіСЂРµС…Р° РІ РіСЂСѓРґРё,</plain>
         </string>
         <string>
-            <plain>Встань на колени ныне с мольбою</plain>
+            <plain>Р’СЃС‚Р°РЅСЊ РЅР° РєРѕР»РµРЅРё РЅС‹РЅРµ СЃ РјРѕР»СЊР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>И ко Христу приди!</plain>
+            <plain>Р РєРѕ РҐСЂРёСЃС‚Сѓ РїСЂРёРґРё!</plain>
         </string>
     </verse>
 </psalm>

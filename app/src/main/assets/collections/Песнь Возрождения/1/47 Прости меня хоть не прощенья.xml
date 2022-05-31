@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="47" name="Прости меня хоть не прощенья" canon="false" text="" textRus="" music="">
+<psalm number="47" name="РџСЂРѕСЃС‚Рё РјРµРЅСЏ С…РѕС‚СЊ РЅРµ РїСЂРѕС‰РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Прости меня, хоть не прощенья,</plain>
+            <plain>РџСЂРѕСЃС‚Рё РјРµРЅСЏ, С…РѕС‚СЊ РЅРµ РїСЂРѕС‰РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>А смерти лишь достоин я.</plain>
+            <plain>Рђ СЃРјРµСЂС‚Рё Р»РёС€СЊ РґРѕСЃС‚РѕРёРЅ СЏ.</plain>
         </string>
         <string>
-            <plain>Прости, хоть робок стон моленья,</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С…РѕС‚СЊ СЂРѕР±РѕРє СЃС‚РѕРЅ РјРѕР»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Хоть нечиста мольба моя.</plain>
+            <plain>РҐРѕС‚СЊ РЅРµС‡РёСЃС‚Р° РјРѕР»СЊР±Р° РјРѕСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мой грех великий отпусти!</plain>
+            <plain>РњРѕР№ РіСЂРµС… РІРµР»РёРєРёР№ РѕС‚РїСѓСЃС‚Рё!</plain>
         </string>
         <string>
-            <plain>О, Господи, прости, прости!</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґРё, РїСЂРѕСЃС‚Рё, РїСЂРѕСЃС‚Рё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Прости, хоть лучших дней потерю</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С…РѕС‚СЊ Р»СѓС‡С€РёС… РґРЅРµР№ РїРѕС‚РµСЂСЋ</plain>
         </string>
         <string>
-            <plain>Не возвратят мои шаги.</plain>
+            <plain>РќРµ РІРѕР·РІСЂР°С‚СЏС‚ РјРѕРё С€Р°РіРё.</plain>
         </string>
         <string>
-            <plain>Прости, хоть я не твердо верю;</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С…РѕС‚СЊ СЏ РЅРµ С‚РІРµСЂРґРѕ РІРµСЂСЋ;</plain>
         </string>
         <string>
-            <plain>Прости! В неверье помоги!</plain>
+            <plain>РџСЂРѕСЃС‚Рё! Р’ РЅРµРІРµСЂСЊРµ РїРѕРјРѕРіРё!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Прости меня и сердца клети</plain>
+            <plain>РџСЂРѕСЃС‚Рё РјРµРЅСЏ Рё СЃРµСЂРґС†Р° РєР»РµС‚Рё</plain>
         </string>
         <string>
-            <plain>Лучами веры освети!</plain>
+            <plain>Р›СѓС‡Р°РјРё РІРµСЂС‹ РѕСЃРІРµС‚Рё!</plain>
         </string>
         <string>
-            <plain>Как обещал в Твоем завете,</plain>
+            <plain>РљР°Рє РѕР±РµС‰Р°Р» РІ РўРІРѕРµРј Р·Р°РІРµС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Во имя слов Твоих прости!</plain>
+            <plain>Р’Рѕ РёРјСЏ СЃР»РѕРІ РўРІРѕРёС… РїСЂРѕСЃС‚Рё!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Прости во имя мук Голгофских,</plain>
+            <plain>РџСЂРѕСЃС‚Рё РІРѕ РёРјСЏ РјСѓРє Р“РѕР»РіРѕС„СЃРєРёС…,</plain>
         </string>
         <string>
-            <plain>Во имя крови пролитой;</plain>
+            <plain>Р’Рѕ РёРјСЏ РєСЂРѕРІРё РїСЂРѕР»РёС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Во имя милостей Отцовских</plain>
+            <plain>Р’Рѕ РёРјСЏ РјРёР»РѕСЃС‚РµР№ РћС‚С†РѕРІСЃРєРёС…</plain>
         </string>
         <string>
-            <plain>Прости, любовию покрой!</plain>
+            <plain>РџСЂРѕСЃС‚Рё, Р»СЋР±РѕРІРёСЋ РїРѕРєСЂРѕР№!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Как Твой борец, Твой раб Иаков,</plain>
+            <plain>РљР°Рє РўРІРѕР№ Р±РѕСЂРµС†, РўРІРѕР№ СЂР°Р± РР°РєРѕРІ,</plain>
         </string>
         <string>
-            <plain>Не отойду, пока душой</plain>
+            <plain>РќРµ РѕС‚РѕР№РґСѓ, РїРѕРєР° РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>Я не приму спасенья знаков,</plain>
+            <plain>РЇ РЅРµ РїСЂРёРјСѓ СЃРїР°СЃРµРЅСЊСЏ Р·РЅР°РєРѕРІ,</plain>
         </string>
         <string>
-            <plain>Пока не принят я Тобой!</plain>
+            <plain>РџРѕРєР° РЅРµ РїСЂРёРЅСЏС‚ СЏ РўРѕР±РѕР№!</plain>
         </string>
     </verse>
 </psalm>

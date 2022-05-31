@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="755" name="Ты был юношей Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="755" name="РўС‹ Р±С‹Р» СЋРЅРѕС€РµР№ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты был юношей, Спаситель,</plain>
+            <plain>РўС‹ Р±С‹Р» СЋРЅРѕС€РµР№, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Радовал сердца,</plain>
+            <plain>Р Р°РґРѕРІР°Р» СЃРµСЂРґС†Р°,</plain>
         </string>
         <string>
-            <plain>Ты ходил всегда в завете</plain>
+            <plain>РўС‹ С…РѕРґРёР» РІСЃРµРіРґР° РІ Р·Р°РІРµС‚Рµ</plain>
         </string>
         <string>
-            <plain>Твоего Отца.</plain>
+            <plain>РўРІРѕРµРіРѕ РћС‚С†Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Научи и нас смиренно</plain>
+            <plain>РќР°СѓС‡Рё Рё РЅР°СЃ СЃРјРёСЂРµРЅРЅРѕ</plain>
         </string>
         <string>
-            <plain>Дни земные проводить,</plain>
+            <plain>Р”РЅРё Р·РµРјРЅС‹Рµ РїСЂРѕРІРѕРґРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Неуклонно, неизменно</plain>
+            <plain>РќРµСѓРєР»РѕРЅРЅРѕ, РЅРµРёР·РјРµРЅРЅРѕ</plain>
         </string>
         <string>
-            <plain>По путям Отца ходить.</plain>
+            <plain>РџРѕ РїСѓС‚СЏРј РћС‚С†Р° С…РѕРґРёС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Мать Свою любил Ты нежно</plain>
+            <plain>РњР°С‚СЊ РЎРІРѕСЋ Р»СЋР±РёР» РўС‹ РЅРµР¶РЅРѕ</plain>
         </string>
         <string>
-            <plain>И не огорчал,</plain>
+            <plain>Р РЅРµ РѕРіРѕСЂС‡Р°Р»,</plain>
         </string>
         <string>
-            <plain>И Иосифу прилежно</plain>
+            <plain>Р РРѕСЃРёС„Сѓ РїСЂРёР»РµР¶РЅРѕ</plain>
         </string>
         <string>
-            <plain>Делом помогал.</plain>
+            <plain>Р”РµР»РѕРј РїРѕРјРѕРіР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты любил душой, готовой</plain>
+            <plain>РўС‹ Р»СЋР±РёР» РґСѓС€РѕР№, РіРѕС‚РѕРІРѕР№</plain>
         </string>
         <string>
-            <plain>К подвигам святым,</plain>
+            <plain>Рљ РїРѕРґРІРёРіР°Рј СЃРІСЏС‚С‹Рј,</plain>
         </string>
         <string>
-            <plain>Возвещать благое слово</plain>
+            <plain>Р’РѕР·РІРµС‰Р°С‚СЊ Р±Р»Р°РіРѕРµ СЃР»РѕРІРѕ</plain>
         </string>
         <string>
-            <plain>Мудрым и простым.</plain>
+            <plain>РњСѓРґСЂС‹Рј Рё РїСЂРѕСЃС‚С‹Рј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Научи и нас трудиться,</plain>
+            <plain>РќР°СѓС‡Рё Рё РЅР°СЃ С‚СЂСѓРґРёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Близким, дальним помогать,</plain>
+            <plain>Р‘Р»РёР·РєРёРј, РґР°Р»СЊРЅРёРј РїРѕРјРѕРіР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Всех любить, к добру стремиться,</plain>
+            <plain>Р’СЃРµС… Р»СЋР±РёС‚СЊ, Рє РґРѕР±СЂСѓ СЃС‚СЂРµРјРёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Правду в мире насаждать.</plain>
+            <plain>РџСЂР°РІРґСѓ РІ РјРёСЂРµ РЅР°СЃР°Р¶РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Научи и нас, Учитель,</plain>
+            <plain>РќР°СѓС‡Рё Рё РЅР°СЃ, РЈС‡РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Слово жизни возвещать;</plain>
+            <plain>РЎР»РѕРІРѕ Р¶РёР·РЅРё РІРѕР·РІРµС‰Р°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Дай, чтоб каждый мира житель</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РєР°Р¶РґС‹Р№ РјРёСЂР° Р¶РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Мог Твой голос услыхать.</plain>
+            <plain>РњРѕРі РўРІРѕР№ РіРѕР»РѕСЃ СѓСЃР»С‹С…Р°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

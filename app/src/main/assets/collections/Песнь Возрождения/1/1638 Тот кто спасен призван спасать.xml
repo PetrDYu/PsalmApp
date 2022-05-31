@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1638" name="Тот кто спасен призван спасать" canon="false" text="" textRus="" music="">
+<psalm number="1638" name="РўРѕС‚ РєС‚Рѕ СЃРїР°СЃРµРЅ РїСЂРёР·РІР°РЅ СЃРїР°СЃР°С‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тот, кто спасен, призван спасать.</plain>
+            <plain>РўРѕС‚, РєС‚Рѕ СЃРїР°СЃРµРЅ, РїСЂРёР·РІР°РЅ СЃРїР°СЃР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Этот закон нам дала благодать.</plain>
+            <plain>Р­С‚РѕС‚ Р·Р°РєРѕРЅ РЅР°Рј РґР°Р»Р° Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Остановись, самарянин.</plain>
+            <plain>РћСЃС‚Р°РЅРѕРІРёСЃСЊ, СЃР°РјР°СЂСЏРЅРёРЅ.</plain>
         </string>
         <string>
-            <plain>Снова беда с ближним твоим.</plain>
+            <plain>РЎРЅРѕРІР° Р±РµРґР° СЃ Р±Р»РёР¶РЅРёРј С‚РІРѕРёРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Вот он лежит, миром забыт.</plain>
+            <plain>Р’РѕС‚ РѕРЅ Р»РµР¶РёС‚, РјРёСЂРѕРј Р·Р°Р±С‹С‚.</plain>
         </string>
         <string>
-            <plain>Силой греха страшно избит.</plain>
+            <plain>РЎРёР»РѕР№ РіСЂРµС…Р° СЃС‚СЂР°С€РЅРѕ РёР·Р±РёС‚.</plain>
         </string>
         <string>
-            <plain>О, не пройди, о, подними.</plain>
+            <plain>Рћ, РЅРµ РїСЂРѕР№РґРё, Рѕ, РїРѕРґРЅРёРјРё.</plain>
         </string>
         <string>
-            <plain>Силой любви к Богу веди.</plain>
+            <plain>РЎРёР»РѕР№ Р»СЋР±РІРё Рє Р‘РѕРіСѓ РІРµРґРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Сердце и дом ближним открой.</plain>
+            <plain>РЎРµСЂРґС†Рµ Рё РґРѕРј Р±Р»РёР¶РЅРёРј РѕС‚РєСЂРѕР№.</plain>
         </string>
         <string>
-            <plain>Божий талант в прах не зарой.</plain>
+            <plain>Р‘РѕР¶РёР№ С‚Р°Р»Р°РЅС‚ РІ РїСЂР°С… РЅРµ Р·Р°СЂРѕР№.</plain>
         </string>
         <string>
-            <plain>Слез и молитв чудный елей</plain>
+            <plain>РЎР»РµР· Рё РјРѕР»РёС‚РІ С‡СѓРґРЅС‹Р№ РµР»РµР№</plain>
         </string>
         <string>
-            <plain>Для этих ран, друг, не жалей.</plain>
+            <plain>Р”Р»СЏ СЌС‚РёС… СЂР°РЅ, РґСЂСѓРі, РЅРµ Р¶Р°Р»РµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Слышишь, мой друг, призыв Христа?</plain>
+            <plain>РЎР»С‹С€РёС€СЊ, РјРѕР№ РґСЂСѓРі, РїСЂРёР·С‹РІ РҐСЂРёСЃС‚Р°?</plain>
         </string>
         <string>
-            <plain>Где вы, жнецы? - Нива бела.</plain>
+            <plain>Р“РґРµ РІС‹, Р¶РЅРµС†С‹? - РќРёРІР° Р±РµР»Р°.</plain>
         </string>
         <string>
-            <plain>Грешникам путь в небо открой;</plain>
+            <plain>Р“СЂРµС€РЅРёРєР°Рј РїСѓС‚СЊ РІ РЅРµР±Рѕ РѕС‚РєСЂРѕР№;</plain>
         </string>
         <string>
-            <plain>Я их ищу, следуй за Мной.</plain>
+            <plain>РЇ РёС… РёС‰Сѓ, СЃР»РµРґСѓР№ Р·Р° РњРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Дай мне. Господь, чувства Твои</plain>
+            <plain>Р”Р°Р№ РјРЅРµ. Р“РѕСЃРїРѕРґСЊ, С‡СѓРІСЃС‚РІР° РўРІРѕРё</plain>
         </string>
         <string>
-            <plain>И для других жить научи.</plain>
+            <plain>Р РґР»СЏ РґСЂСѓРіРёС… Р¶РёС‚СЊ РЅР°СѓС‡Рё.</plain>
         </string>
         <string>
-            <plain>Радость небес, слезы земли,</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РЅРµР±РµСЃ, СЃР»РµР·С‹ Р·РµРјР»Рё,</plain>
         </string>
         <string>
-            <plain>- Боже, открой очи</plain>
+            <plain>- Р‘РѕР¶Рµ, РѕС‚РєСЂРѕР№ РѕС‡Рё</plain>
         </string>
     </verse>
 </psalm>

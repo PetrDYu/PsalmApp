@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="915" name="Издавна женская доля" canon="false" text="" textRus="" music="">
+<psalm number="915" name="РР·РґР°РІРЅР° Р¶РµРЅСЃРєР°СЏ РґРѕР»СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Издавна женская доля</plain>
+            <plain>РР·РґР°РІРЅР° Р¶РµРЅСЃРєР°СЏ РґРѕР»СЏ</plain>
         </string>
         <string>
-            <plain>Вздохов и скорби полна.</plain>
+            <plain>Р’Р·РґРѕС…РѕРІ Рё СЃРєРѕСЂР±Рё РїРѕР»РЅР°.</plain>
         </string>
         <string>
-            <plain>Горькая жизнь и неволя</plain>
+            <plain>Р“РѕСЂСЊРєР°СЏ Р¶РёР·РЅСЊ Рё РЅРµРІРѕР»СЏ</plain>
         </string>
         <string>
-            <plain>Еве за грех суждена.</plain>
+            <plain>Р•РІРµ Р·Р° РіСЂРµС… СЃСѓР¶РґРµРЅР°.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Стоны и немощи плоти,</plain>
+            <plain>РЎС‚РѕРЅС‹ Рё РЅРµРјРѕС‰Рё РїР»РѕС‚Рё,</plain>
         </string>
         <string>
-            <plain>Слезы бессилья порой,</plain>
+            <plain>РЎР»РµР·С‹ Р±РµСЃСЃРёР»СЊСЏ РїРѕСЂРѕР№,</plain>
         </string>
         <string>
-            <plain>Ум, поглощенный в заботе,</plain>
+            <plain>РЈРј, РїРѕРіР»РѕС‰РµРЅРЅС‹Р№ РІ Р·Р°Р±РѕС‚Рµ,</plain>
         </string>
         <string>
-            <plain>- Женский уклад бытовой.</plain>
+            <plain>- Р–РµРЅСЃРєРёР№ СѓРєР»Р°Рґ Р±С‹С‚РѕРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Женщина, трудно без Бога</plain>
+            <plain>Р–РµРЅС‰РёРЅР°, С‚СЂСѓРґРЅРѕ Р±РµР· Р‘РѕРіР°</plain>
         </string>
         <string>
-            <plain>Узкой стезею идти.</plain>
+            <plain>РЈР·РєРѕР№ СЃС‚РµР·РµСЋ РёРґС‚Рё.</plain>
         </string>
         <string>
-            <plain>Вечная скорбь и тревога</plain>
+            <plain>Р’РµС‡РЅР°СЏ СЃРєРѕСЂР±СЊ Рё С‚СЂРµРІРѕРіР°</plain>
         </string>
         <string>
-            <plain>Губят тебя на пути.</plain>
+            <plain>Р“СѓР±СЏС‚ С‚РµР±СЏ РЅР° РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сколько обид, огорчений,</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ РѕР±РёРґ, РѕРіРѕСЂС‡РµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Сколько тревог, мелочей,</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ С‚СЂРµРІРѕРі, РјРµР»РѕС‡РµР№,</plain>
         </string>
         <string>
-            <plain>Сколько разбитых стремлений,</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ СЂР°Р·Р±РёС‚С‹С… СЃС‚СЂРµРјР»РµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Женщина, в жизни твоей.</plain>
+            <plain>Р–РµРЅС‰РёРЅР°, РІ Р¶РёР·РЅРё С‚РІРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если же сердцем покорным</plain>
+            <plain>Р•СЃР»Рё Р¶Рµ СЃРµСЂРґС†РµРј РїРѕРєРѕСЂРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Смело отдашься Христу,</plain>
+            <plain>РЎРјРµР»Рѕ РѕС‚РґР°С€СЊСЃСЏ РҐСЂРёСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Вскоре усильем упорным</plain>
+            <plain>Р’СЃРєРѕСЂРµ СѓСЃРёР»СЊРµРј СѓРїРѕСЂРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Ты победишь суету.</plain>
+            <plain>РўС‹ РїРѕР±РµРґРёС€СЊ СЃСѓРµС‚Сѓ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>В бурях житейских волнений</plain>
+            <plain>Р’ Р±СѓСЂСЏС… Р¶РёС‚РµР№СЃРєРёС… РІРѕР»РЅРµРЅРёР№</plain>
         </string>
         <string>
-            <plain>Будешь спокойна, тиха.</plain>
+            <plain>Р‘СѓРґРµС€СЊ СЃРїРѕРєРѕР№РЅР°, С‚РёС…Р°.</plain>
         </string>
         <string>
-            <plain>В жизни исчезнут, как тени,</plain>
+            <plain>Р’ Р¶РёР·РЅРё РёСЃС‡РµР·РЅСѓС‚, РєР°Рє С‚РµРЅРё,</plain>
         </string>
         <string>
-            <plain>Приступы зла и греха.</plain>
+            <plain>РџСЂРёСЃС‚СѓРїС‹ Р·Р»Р° Рё РіСЂРµС…Р°.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Дом суеты превратится</plain>
+            <plain>Р”РѕРј СЃСѓРµС‚С‹ РїСЂРµРІСЂР°С‚РёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>В тихий семейный очаг.</plain>
+            <plain>Р’ С‚РёС…РёР№ СЃРµРјРµР№РЅС‹Р№ РѕС‡Р°Рі.</plain>
         </string>
         <string>
-            <plain>Мир и любовь воцарится</plain>
+            <plain>РњРёСЂ Рё Р»СЋР±РѕРІСЊ РІРѕС†Р°СЂРёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>В ранее мрачных стенах.</plain>
+            <plain>Р’ СЂР°РЅРµРµ РјСЂР°С‡РЅС‹С… СЃС‚РµРЅР°С….</plain>
         </string>
     </verse>
 </psalm>

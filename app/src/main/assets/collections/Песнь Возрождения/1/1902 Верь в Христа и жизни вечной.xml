@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1902" name="Верь в Христа и жизни вечной" canon="false" text="" textRus="" music="">
+<psalm number="1902" name="Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р° Рё Р¶РёР·РЅРё РІРµС‡РЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Верь в Христа и жизни вечной</plain>
+            <plain>Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р° Рё Р¶РёР·РЅРё РІРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Пламень Он в тебе зажжет;</plain>
+            <plain>РџР»Р°РјРµРЅСЊ РћРЅ РІ С‚РµР±Рµ Р·Р°Р¶Р¶РµС‚;</plain>
         </string>
         <string>
-            <plain>После жизни быстротечной</plain>
+            <plain>РџРѕСЃР»Рµ Р¶РёР·РЅРё Р±С‹СЃС‚СЂРѕС‚РµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Верный Богу не умрет...</plain>
+            <plain>Р’РµСЂРЅС‹Р№ Р‘РѕРіСѓ РЅРµ СѓРјСЂРµС‚...</plain>
         </string>
         <string>
-            <plain>Верь в Христа, не постыдится</plain>
+            <plain>Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р°, РЅРµ РїРѕСЃС‚С‹РґРёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Тот, кто верит, никогда;</plain>
+            <plain>РўРѕС‚, РєС‚Рѕ РІРµСЂРёС‚, РЅРёРєРѕРіРґР°;</plain>
         </string>
         <string>
-            <plain>Ты не будешь Им судиться</plain>
+            <plain>РўС‹ РЅРµ Р±СѓРґРµС€СЊ РРј СЃСѓРґРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>В день Великого Суда.</plain>
+            <plain>Р’ РґРµРЅСЊ Р’РµР»РёРєРѕРіРѕ РЎСѓРґР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Верь в Христа, и жизнь иная</plain>
+            <plain>Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р°, Рё Р¶РёР·РЅСЊ РёРЅР°СЏ</plain>
         </string>
         <string>
-            <plain>Загорит в душе твоей.</plain>
+            <plain>Р—Р°РіРѕСЂРёС‚ РІ РґСѓС€Рµ С‚РІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Жизнь блаженная, святая.</plain>
+            <plain>Р–РёР·РЅСЊ Р±Р»Р°Р¶РµРЅРЅР°СЏ, СЃРІСЏС‚Р°СЏ.</plain>
         </string>
         <string>
-            <plain>Жизнь прекрасных новых дней.</plain>
+            <plain>Р–РёР·РЅСЊ РїСЂРµРєСЂР°СЃРЅС‹С… РЅРѕРІС‹С… РґРЅРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Верь в Христа, и голос новый</plain>
+            <plain>Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р°, Рё РіРѕР»РѕСЃ РЅРѕРІС‹Р№</plain>
         </string>
         <string>
-            <plain>Возвестит душе твоей,</plain>
+            <plain>Р’РѕР·РІРµСЃС‚РёС‚ РґСѓС€Рµ С‚РІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Что ты - сын Отца Иеговы</plain>
+            <plain>Р§С‚Рѕ С‚С‹ - СЃС‹РЅ РћС‚С†Р° РРµРіРѕРІС‹</plain>
         </string>
         <string>
-            <plain>И дитя Царя царей.</plain>
+            <plain>Р РґРёС‚СЏ Р¦Р°СЂСЏ С†Р°СЂРµР№.</plain>
         </string>
         <string>
-            <plain>Верь в Христа и дух мятежный</plain>
+            <plain>Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р° Рё РґСѓС… РјСЏС‚РµР¶РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Будет с Богом примирен,</plain>
+            <plain>Р‘СѓРґРµС‚ СЃ Р‘РѕРіРѕРј РїСЂРёРјРёСЂРµРЅ,</plain>
         </string>
         <string>
-            <plain>И Его любовью нежной</plain>
+            <plain>Р Р•РіРѕ Р»СЋР±РѕРІСЊСЋ РЅРµР¶РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Будешь ты преображен.</plain>
+            <plain>Р‘СѓРґРµС€СЊ С‚С‹ РїСЂРµРѕР±СЂР°Р¶РµРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Верь в Христа и ты забудешь</plain>
+            <plain>Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р° Рё С‚С‹ Р·Р°Р±СѓРґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Жажду на путях земных;</plain>
+            <plain>Р–Р°Р¶РґСѓ РЅР° РїСѓС‚СЏС… Р·РµРјРЅС‹С…;</plain>
         </string>
         <string>
-            <plain>Жаждать больше ты не будешь</plain>
+            <plain>Р–Р°Р¶РґР°С‚СЊ Р±РѕР»СЊС€Рµ С‚С‹ РЅРµ Р±СѓРґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>У источников живых.</plain>
+            <plain>РЈ РёСЃС‚РѕС‡РЅРёРєРѕРІ Р¶РёРІС‹С….</plain>
         </string>
         <string>
-            <plain>Верь в Христа и жизни реки</plain>
+            <plain>Р’РµСЂСЊ РІ РҐСЂРёСЃС‚Р° Рё Р¶РёР·РЅРё СЂРµРєРё</plain>
         </string>
         <string>
-            <plain>От тебя польют вокруг;</plain>
+            <plain>РћС‚ С‚РµР±СЏ РїРѕР»СЊСЋС‚ РІРѕРєСЂСѓРі;</plain>
         </string>
         <string>
-            <plain>Будут течь они вовеки,</plain>
+            <plain>Р‘СѓРґСѓС‚ С‚РµС‡СЊ РѕРЅРё РІРѕРІРµРєРё,</plain>
         </string>
         <string>
-            <plain>Орошая Божий луг.</plain>
+            <plain>РћСЂРѕС€Р°СЏ Р‘РѕР¶РёР№ Р»СѓРі.</plain>
         </string>
     </verse>
 </psalm>

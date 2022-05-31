@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="234" name="Бушует житейское море" canon="false" text="" textRus="" music="">
+<psalm number="234" name="Р‘СѓС€СѓРµС‚ Р¶РёС‚РµР№СЃРєРѕРµ РјРѕСЂРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бушует житейское море,</plain>
+            <plain>Р‘СѓС€СѓРµС‚ Р¶РёС‚РµР№СЃРєРѕРµ РјРѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>Греховною страстью кипит!</plain>
+            <plain>Р“СЂРµС…РѕРІРЅРѕСЋ СЃС‚СЂР°СЃС‚СЊСЋ РєРёРїРёС‚!</plain>
         </string>
         <string>
-            <plain>Вокруг слезы, вопли и горе,</plain>
+            <plain>Р’РѕРєСЂСѓРі СЃР»РµР·С‹, РІРѕРїР»Рё Рё РіРѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>Душа изнывает, болит.</plain>
+            <plain>Р”СѓС€Р° РёР·РЅС‹РІР°РµС‚, Р±РѕР»РёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мы боремся, силы теряем,</plain>
+            <plain>РњС‹ Р±РѕСЂРµРјСЃСЏ, СЃРёР»С‹ С‚РµСЂСЏРµРј,</plain>
         </string>
         <string>
-            <plain>Но верим: поможет нам Бог;</plain>
+            <plain>РќРѕ РІРµСЂРёРј: РїРѕРјРѕР¶РµС‚ РЅР°Рј Р‘РѕРі;</plain>
         </string>
         <string>
-            <plain>Мы тихую пристань узнаем,</plain>
+            <plain>РњС‹ С‚РёС…СѓСЋ РїСЂРёСЃС‚Р°РЅСЊ СѓР·РЅР°РµРј,</plain>
         </string>
         <string>
-            <plain>Та пристань - небесный чертог.</plain>
+            <plain>РўР° РїСЂРёСЃС‚Р°РЅСЊ - РЅРµР±РµСЃРЅС‹Р№ С‡РµСЂС‚РѕРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бушует житейское море.</plain>
+            <plain>Р‘СѓС€СѓРµС‚ Р¶РёС‚РµР№СЃРєРѕРµ РјРѕСЂРµ.</plain>
         </string>
         <string>
-            <plain>Темно, непроглядно вокруг.</plain>
+            <plain>РўРµРјРЅРѕ, РЅРµРїСЂРѕРіР»СЏРґРЅРѕ РІРѕРєСЂСѓРі.</plain>
         </string>
         <string>
-            <plain>Смотрю я со скорбью во взоре,</plain>
+            <plain>РЎРјРѕС‚СЂСЋ СЏ СЃРѕ СЃРєРѕСЂР±СЊСЋ РІРѕ РІР·РѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>Не знаю: кто враг мой, кто друг.</plain>
+            <plain>РќРµ Р·РЅР°СЋ: РєС‚Рѕ РІСЂР°Рі РјРѕР№, РєС‚Рѕ РґСЂСѓРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бушует житейское море.</plain>
+            <plain>Р‘СѓС€СѓРµС‚ Р¶РёС‚РµР№СЃРєРѕРµ РјРѕСЂРµ.</plain>
         </string>
         <string>
-            <plain>Маяк, а на нем огонек.</plain>
+            <plain>РњР°СЏРє, Р° РЅР° РЅРµРј РѕРіРѕРЅРµРє.</plain>
         </string>
         <string>
-            <plain>Ладья наша с бурею спорит</plain>
+            <plain>Р›Р°РґСЊСЏ РЅР°С€Р° СЃ Р±СѓСЂРµСЋ СЃРїРѕСЂРёС‚</plain>
         </string>
         <string>
-            <plain>Огонь маяка нас привлек.</plain>
+            <plain>РћРіРѕРЅСЊ РјР°СЏРєР° РЅР°СЃ РїСЂРёРІР»РµРє.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бушует житейское море,</plain>
+            <plain>Р‘СѓС€СѓРµС‚ Р¶РёС‚РµР№СЃРєРѕРµ РјРѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>Свирепо и грозно шумит,</plain>
+            <plain>РЎРІРёСЂРµРїРѕ Рё РіСЂРѕР·РЅРѕ С€СѓРјРёС‚,</plain>
         </string>
         <string>
-            <plain>За мраком не видно простора,</plain>
+            <plain>Р—Р° РјСЂР°РєРѕРј РЅРµ РІРёРґРЅРѕ РїСЂРѕСЃС‚РѕСЂР°,</plain>
         </string>
         <string>
-            <plain>Опасностью море грозит.</plain>
+            <plain>РћРїР°СЃРЅРѕСЃС‚СЊСЋ РјРѕСЂРµ РіСЂРѕР·РёС‚.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2963" name="О далекой блаженной стране" canon="false" text="" textRus="" music="">
+<psalm number="2963" name="Рћ РґР°Р»РµРєРѕР№ Р±Р»Р°Р¶РµРЅРЅРѕР№ СЃС‚СЂР°РЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О далекой, блаженной стране,</plain>
+            <plain>Рћ РґР°Р»РµРєРѕР№, Р±Р»Р°Р¶РµРЅРЅРѕР№ СЃС‚СЂР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>что лежит в необъятной дали,</plain>
+            <plain>С‡С‚Рѕ Р»РµР¶РёС‚ РІ РЅРµРѕР±СЉСЏС‚РЅРѕР№ РґР°Р»Рё,</plain>
         </string>
         <string>
-            <plain>весть небесная слышится мне</plain>
+            <plain>РІРµСЃС‚СЊ РЅРµР±РµСЃРЅР°СЏ СЃР»С‹С€РёС‚СЃСЏ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>и в печали, и в светлые дни.</plain>
+            <plain>Рё РІ РїРµС‡Р°Р»Рё, Рё РІ СЃРІРµС‚Р»С‹Рµ РґРЅРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>К вечной стране за морем</plain>
+            <plain>Рљ РІРµС‡РЅРѕР№ СЃС‚СЂР°РЅРµ Р·Р° РјРѕСЂРµРј</plain>
         </string>
         <string>
-            <plain>там всей я стремлюсь душой.</plain>
+            <plain>С‚Р°Рј РІСЃРµР№ СЏ СЃС‚СЂРµРјР»СЋСЃСЊ РґСѓС€РѕР№.</plain>
         </string>
         <string>
-            <plain>Обитель Он сам построил мне</plain>
+            <plain>РћР±РёС‚РµР»СЊ РћРЅ СЃР°Рј РїРѕСЃС‚СЂРѕРёР» РјРЅРµ</plain>
         </string>
         <string>
-            <plain>там на небе, где вечный покой.</plain>
+            <plain>С‚Р°Рј РЅР° РЅРµР±Рµ, РіРґРµ РІРµС‡РЅС‹Р№ РїРѕРєРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В той блаженной небесной стране</plain>
+            <plain>Р’ С‚РѕР№ Р±Р»Р°Р¶РµРЅРЅРѕР№ РЅРµР±РµСЃРЅРѕР№ СЃС‚СЂР°РЅРµ</plain>
         </string>
         <string>
-            <plain>даст Спаситель сокровища нам,</plain>
+            <plain>РґР°СЃС‚ РЎРїР°СЃРёС‚РµР»СЊ СЃРѕРєСЂРѕРІРёС‰Р° РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>и жилища прекрасные</plain>
+            <plain>Рё Р¶РёР»РёС‰Р° РїСЂРµРєСЂР°СЃРЅС‹Рµ</plain>
         </string>
         <string>
-            <plain>Он приготовил для праведных там.</plain>
+            <plain>РћРЅ РїСЂРёРіРѕС‚РѕРІРёР» РґР»СЏ РїСЂР°РІРµРґРЅС‹С… С‚Р°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я теперь уже с тех берегов</plain>
+            <plain>РЇ С‚РµРїРµСЂСЊ СѓР¶Рµ СЃ С‚РµС… Р±РµСЂРµРіРѕРІ</plain>
         </string>
         <string>
-            <plain>слышу песни омытых в крови,</plain>
+            <plain>СЃР»С‹С€Сѓ РїРµСЃРЅРё РѕРјС‹С‚С‹С… РІ РєСЂРѕРІРё,</plain>
         </string>
         <string>
-            <plain>у престола поющих хвалу</plain>
+            <plain>Сѓ РїСЂРµСЃС‚РѕР»Р° РїРѕСЋС‰РёС… С…РІР°Р»Сѓ</plain>
         </string>
         <string>
-            <plain>с хором ангелов Богу любви.</plain>
+            <plain>СЃ С…РѕСЂРѕРј Р°РЅРіРµР»РѕРІ Р‘РѕРіСѓ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Через путь, что открыт на кресте,</plain>
+            <plain>Р§РµСЂРµР· РїСѓС‚СЊ, С‡С‚Рѕ РѕС‚РєСЂС‹С‚ РЅР° РєСЂРµСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>наконец с ними встречусь там я;</plain>
+            <plain>РЅР°РєРѕРЅРµС† СЃ РЅРёРјРё РІСЃС‚СЂРµС‡СѓСЃСЊ С‚Р°Рј СЏ;</plain>
         </string>
         <string>
-            <plain>воспоем мы святую любовь,</plain>
+            <plain>РІРѕСЃРїРѕРµРј РјС‹ СЃРІСЏС‚СѓСЋ Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>что откроет нам до конца.</plain>
+            <plain>С‡С‚Рѕ РѕС‚РєСЂРѕРµС‚ РЅР°Рј РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
 </psalm>

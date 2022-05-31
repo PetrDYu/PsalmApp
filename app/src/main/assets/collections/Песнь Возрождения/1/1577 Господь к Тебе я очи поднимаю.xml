@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1577" name="Господь к Тебе я очи поднимаю" canon="false" text="" textRus="" music="">
+<psalm number="1577" name="Р“РѕСЃРїРѕРґСЊ Рє РўРµР±Рµ СЏ РѕС‡Рё РїРѕРґРЅРёРјР°СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господь, к Тебе я очи поднимаю,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ СЏ РѕС‡Рё РїРѕРґРЅРёРјР°СЋ,</plain>
         </string>
         <string>
-            <plain>Тебя в слезах о помощи молю,</plain>
+            <plain>РўРµР±СЏ РІ СЃР»РµР·Р°С… Рѕ РїРѕРјРѕС‰Рё РјРѕР»СЋ,</plain>
         </string>
         <string>
-            <plain>Прости меня, о. Боже, умоляю.</plain>
+            <plain>РџСЂРѕСЃС‚Рё РјРµРЅСЏ, Рѕ. Р‘РѕР¶Рµ, СѓРјРѕР»СЏСЋ.</plain>
         </string>
         <string>
-            <plain>Что очень мало я Тебя люблю.</plain>
+            <plain>Р§С‚Рѕ РѕС‡РµРЅСЊ РјР°Р»Рѕ СЏ РўРµР±СЏ Р»СЋР±Р»СЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Так мало я,</plain>
+            <plain>РўР°Рє РјР°Р»Рѕ СЏ,</plain>
         </string>
         <string>
-            <plain>Так мало я,</plain>
+            <plain>РўР°Рє РјР°Р»Рѕ СЏ,</plain>
         </string>
         <string>
-            <plain>Так мало я,</plain>
+            <plain>РўР°Рє РјР°Р»Рѕ СЏ,</plain>
         </string>
         <string>
-            <plain>Господь, Тебя люблю.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РўРµР±СЏ Р»СЋР±Р»СЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как нежно мать дитя свое ласкает,</plain>
+            <plain>РљР°Рє РЅРµР¶РЅРѕ РјР°С‚СЊ РґРёС‚СЏ СЃРІРѕРµ Р»Р°СЃРєР°РµС‚,</plain>
         </string>
         <string>
-            <plain>И как невеста любит жениха,</plain>
+            <plain>Р РєР°Рє РЅРµРІРµСЃС‚Р° Р»СЋР±РёС‚ Р¶РµРЅРёС…Р°,</plain>
         </string>
         <string>
-            <plain>Так сердце мне всегда напоминает.</plain>
+            <plain>РўР°Рє СЃРµСЂРґС†Рµ РјРЅРµ РІСЃРµРіРґР° РЅР°РїРѕРјРёРЅР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Что очень мало я люблю Тебя.</plain>
+            <plain>Р§С‚Рѕ РѕС‡РµРЅСЊ РјР°Р»Рѕ СЏ Р»СЋР±Р»СЋ РўРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но кто из всех любви такой достоин.</plain>
+            <plain>РќРѕ РєС‚Рѕ РёР· РІСЃРµС… Р»СЋР±РІРё С‚Р°РєРѕР№ РґРѕСЃС‚РѕРёРЅ.</plain>
         </string>
         <string>
-            <plain>Как Ты, мой Царь, Господь и мой Творец?</plain>
+            <plain>РљР°Рє РўС‹, РјРѕР№ Р¦Р°СЂСЊ, Р“РѕСЃРїРѕРґСЊ Рё РјРѕР№ РўРІРѕСЂРµС†?</plain>
         </string>
         <string>
-            <plain>И с кем могу быть в вечности спокоен,</plain>
+            <plain>Р СЃ РєРµРј РјРѕРіСѓ Р±С‹С‚СЊ РІ РІРµС‡РЅРѕСЃС‚Рё СЃРїРѕРєРѕРµРЅ,</plain>
         </string>
         <string>
-            <plain>И где же счастье милых мне сердец?</plain>
+            <plain>Р РіРґРµ Р¶Рµ СЃС‡Р°СЃС‚СЊРµ РјРёР»С‹С… РјРЅРµ СЃРµСЂРґРµС†?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Тобой мою любовь соизмеряю,</plain>
+            <plain>РўРѕР±РѕР№ РјРѕСЋ Р»СЋР±РѕРІСЊ СЃРѕРёР·РјРµСЂСЏСЋ,</plain>
         </string>
         <string>
-            <plain>И только лишь со вздохом сознаю.</plain>
+            <plain>Р С‚РѕР»СЊРєРѕ Р»РёС€СЊ СЃРѕ РІР·РґРѕС…РѕРј СЃРѕР·РЅР°СЋ.</plain>
         </string>
         <string>
-            <plain>Прости меня, о. Боже, умоляю.</plain>
+            <plain>РџСЂРѕСЃС‚Рё РјРµРЅСЏ, Рѕ. Р‘РѕР¶Рµ, СѓРјРѕР»СЏСЋ.</plain>
         </string>
         <string>
-            <plain>Что очень мало я Тебя люблю.</plain>
+            <plain>Р§С‚Рѕ РѕС‡РµРЅСЊ РјР°Р»Рѕ СЏ РўРµР±СЏ Р»СЋР±Р»СЋ.</plain>
         </string>
     </verse>
 </psalm>

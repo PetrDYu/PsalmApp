@@ -1,82 +1,82 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2694" name="Льется синий вечер над землею" canon="false" text="" textRus="" music="">
+<psalm number="2694" name="Р›СЊРµС‚СЃСЏ СЃРёРЅРёР№ РІРµС‡РµСЂ РЅР°Рґ Р·РµРјР»РµСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Льется синий вечер над землею,</plain>
+            <plain>Р›СЊРµС‚СЃСЏ СЃРёРЅРёР№ РІРµС‡РµСЂ РЅР°Рґ Р·РµРјР»РµСЋ,</plain>
         </string>
         <string>
-            <plain>Тихо шелестит листва в саду.</plain>
+            <plain>РўРёС…Рѕ С€РµР»РµСЃС‚РёС‚ Р»РёСЃС‚РІР° РІ СЃР°РґСѓ.</plain>
         </string>
         <string>
-            <plain>Потрескивают свечи,</plain>
+            <plain>РџРѕС‚СЂРµСЃРєРёРІР°СЋС‚ СЃРІРµС‡Рё,</plain>
         </string>
         <string>
-            <plain>А мы сидим все вместе</plain>
+            <plain>Рђ РјС‹ СЃРёРґРёРј РІСЃРµ РІРјРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>И думы об одном, лишь об одном:</plain>
+            <plain>Р РґСѓРјС‹ РѕР± РѕРґРЅРѕРј, Р»РёС€СЊ РѕР± РѕРґРЅРѕРј:</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, дай нам сердце чистое,</plain>
+            <plain>Рћ, РґР°Р№ РЅР°Рј СЃРµСЂРґС†Рµ С‡РёСЃС‚РѕРµ,</plain>
         </string>
         <string>
-            <plain>как снега сибирские,</plain>
+            <plain>РєР°Рє СЃРЅРµРіР° СЃРёР±РёСЂСЃРєРёРµ,</plain>
         </string>
         <string>
-            <plain>Горячее, как солнце над землей.</plain>
+            <plain>Р“РѕСЂСЏС‡РµРµ, РєР°Рє СЃРѕР»РЅС†Рµ РЅР°Рґ Р·РµРјР»РµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бледный лунный свет проник в окошко,</plain>
+            <plain>Р‘Р»РµРґРЅС‹Р№ Р»СѓРЅРЅС‹Р№ СЃРІРµС‚ РїСЂРѕРЅРёРє РІ РѕРєРѕС€РєРѕ,</plain>
         </string>
         <string>
-            <plain>Желтая завидует луна,</plain>
+            <plain>Р–РµР»С‚Р°СЏ Р·Р°РІРёРґСѓРµС‚ Р»СѓРЅР°,</plain>
         </string>
         <string>
-            <plain>Как мы сидим все вместе,</plain>
+            <plain>РљР°Рє РјС‹ СЃРёРґРёРј РІСЃРµ РІРјРµСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Плечом к плечу, и песни</plain>
+            <plain>РџР»РµС‡РѕРј Рє РїР»РµС‡Сѓ, Рё РїРµСЃРЅРё</plain>
         </string>
         <string>
-            <plain>Поем лишь об одном, лишь об одном:</plain>
+            <plain>РџРѕРµРј Р»РёС€СЊ РѕР± РѕРґРЅРѕРј, Р»РёС€СЊ РѕР± РѕРґРЅРѕРј:</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пролетают мысли расстоянья,</plain>
+            <plain>РџСЂРѕР»РµС‚Р°СЋС‚ РјС‹СЃР»Рё СЂР°СЃСЃС‚РѕСЏРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Пролетают горы и моря</plain>
+            <plain>РџСЂРѕР»РµС‚Р°СЋС‚ РіРѕСЂС‹ Рё РјРѕСЂСЏ</plain>
         </string>
         <string>
-            <plain>И видят, что все вместе</plain>
+            <plain>Р РІРёРґСЏС‚, С‡С‚Рѕ РІСЃРµ РІРјРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>Сидят ,друзья и песню</plain>
+            <plain>РЎРёРґСЏС‚ ,РґСЂСѓР·СЊСЏ Рё РїРµСЃРЅСЋ</plain>
         </string>
         <string>
-            <plain>Поют лишь об одном, лишь об одном:</plain>
+            <plain>РџРѕСЋС‚ Р»РёС€СЊ РѕР± РѕРґРЅРѕРј, Р»РёС€СЊ РѕР± РѕРґРЅРѕРј:</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Но пройдут те дни все безвозвратно,</plain>
+            <plain>РќРѕ РїСЂРѕР№РґСѓС‚ С‚Рµ РґРЅРё РІСЃРµ Р±РµР·РІРѕР·РІСЂР°С‚РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Инеем покроет седина,</plain>
+            <plain>РРЅРµРµРј РїРѕРєСЂРѕРµС‚ СЃРµРґРёРЅР°,</plain>
         </string>
         <string>
-            <plain>Но мы споем все вместе</plain>
+            <plain>РќРѕ РјС‹ СЃРїРѕРµРј РІСЃРµ РІРјРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>Опять все ту же песню,</plain>
+            <plain>РћРїСЏС‚СЊ РІСЃРµ С‚Сѓ Р¶Рµ РїРµСЃРЅСЋ,</plain>
         </string>
         <string>
-            <plain>все ту же песню юности своей:</plain>
+            <plain>РІСЃРµ С‚Сѓ Р¶Рµ РїРµСЃРЅСЋ СЋРЅРѕСЃС‚Рё СЃРІРѕРµР№:</plain>
         </string>
     </verse>
 </psalm>

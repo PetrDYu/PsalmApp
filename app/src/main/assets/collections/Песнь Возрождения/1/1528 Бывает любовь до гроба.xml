@@ -1,89 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1528" name="Бывает любовь до гроба" canon="false" text="" textRus="" music="">
+<psalm number="1528" name="Р‘С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ РґРѕ РіСЂРѕР±Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бывает любовь до гроба,</plain>
+            <plain>Р‘С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ РґРѕ РіСЂРѕР±Р°,</plain>
         </string>
         <string>
-            <plain>если влюблены оба.</plain>
+            <plain>РµСЃР»Рё РІР»СЋР±Р»РµРЅС‹ РѕР±Р°.</plain>
         </string>
         <string>
-            <plain>Как это поётся в песне:</plain>
+            <plain>РљР°Рє СЌС‚Рѕ РїРѕС‘С‚СЃСЏ РІ РїРµСЃРЅРµ:</plain>
         </string>
         <string>
-            <plain>готовы и на смерть вместе.</plain>
+            <plain>РіРѕС‚РѕРІС‹ Рё РЅР° СЃРјРµСЂС‚СЊ РІРјРµСЃС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Бывает любовь лучистая,</plain>
+            <plain>Р‘С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ Р»СѓС‡РёСЃС‚Р°СЏ,</plain>
         </string>
         <string>
-            <plain>умеет божиться истово,</plain>
+            <plain>СѓРјРµРµС‚ Р±РѕР¶РёС‚СЊСЃСЏ РёСЃС‚РѕРІРѕ,</plain>
         </string>
         <string>
-            <plain>Бывает, в любви изменяют,</plain>
+            <plain>Р‘С‹РІР°РµС‚, РІ Р»СЋР±РІРё РёР·РјРµРЅСЏСЋС‚,</plain>
         </string>
         <string>
-            <plain>бывает любовь, бывает...</plain>
+            <plain>Р±С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ, Р±С‹РІР°РµС‚...</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Но я знаю любовь бесконечных границ.</plain>
+            <plain>РќРѕ СЏ Р·РЅР°СЋ Р»СЋР±РѕРІСЊ Р±РµСЃРєРѕРЅРµС‡РЅС‹С… РіСЂР°РЅРёС†.</plain>
         </string>
         <string>
-            <plain>Перед ней все легенды померкли.</plain>
+            <plain>РџРµСЂРµРґ РЅРµР№ РІСЃРµ Р»РµРіРµРЅРґС‹ РїРѕРјРµСЂРєР»Рё.</plain>
         </string>
         <string>
-            <plain>Что сильнее смертей и тверда, как гранит?</plain>
+            <plain>Р§С‚Рѕ СЃРёР»СЊРЅРµРµ СЃРјРµСЂС‚РµР№ Рё С‚РІРµСЂРґР°, РєР°Рє РіСЂР°РЅРёС‚?</plain>
         </string>
         <string>
-            <plain>Это дружба Христа и Церкви.</plain>
+            <plain>Р­С‚Рѕ РґСЂСѓР¶Р±Р° РҐСЂРёСЃС‚Р° Рё Р¦РµСЂРєРІРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бывает любовь как подвиг,</plain>
+            <plain>Р‘С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ РєР°Рє РїРѕРґРІРёРі,</plain>
         </string>
         <string>
-            <plain>забывшая сон и отдых.</plain>
+            <plain>Р·Р°Р±С‹РІС€Р°СЏ СЃРѕРЅ Рё РѕС‚РґС‹С….</plain>
         </string>
         <string>
-            <plain>Бывает любовь и верная,</plain>
+            <plain>Р‘С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ Рё РІРµСЂРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>бывает, что в жизни первая.</plain>
+            <plain>Р±С‹РІР°РµС‚, С‡С‚Рѕ РІ Р¶РёР·РЅРё РїРµСЂРІР°СЏ.</plain>
         </string>
         <string>
-            <plain>Бывает, в любовь играют,</plain>
+            <plain>Р‘С‹РІР°РµС‚, РІ Р»СЋР±РѕРІСЊ РёРіСЂР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>бывает любовь... бывает.</plain>
+            <plain>Р±С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ... Р±С‹РІР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бывает любовь как пламя,</plain>
+            <plain>Р‘С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ РєР°Рє РїР»Р°РјСЏ,</plain>
         </string>
         <string>
-            <plain>Любовь - это жизни знамя,</plain>
+            <plain>Р›СЋР±РѕРІСЊ - СЌС‚Рѕ Р¶РёР·РЅРё Р·РЅР°РјСЏ,</plain>
         </string>
         <string>
-            <plain>И пусть не смущает возраст:</plain>
+            <plain>Р РїСѓСЃС‚СЊ РЅРµ СЃРјСѓС‰Р°РµС‚ РІРѕР·СЂР°СЃС‚:</plain>
         </string>
         <string>
-            <plain>любить никогда не поздно.</plain>
+            <plain>Р»СЋР±РёС‚СЊ РЅРёРєРѕРіРґР° РЅРµ РїРѕР·РґРЅРѕ.</plain>
         </string>
         <string>
-            <plain>Бывает любовь и нежная,</plain>
+            <plain>Р‘С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ Рё РЅРµР¶РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>покорная и мятежная,</plain>
+            <plain>РїРѕРєРѕСЂРЅР°СЏ Рё РјСЏС‚РµР¶РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Бывает, её и не знают,</plain>
+            <plain>Р‘С‹РІР°РµС‚, РµС‘ Рё РЅРµ Р·РЅР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>бывает любовь... бывает.</plain>
+            <plain>Р±С‹РІР°РµС‚ Р»СЋР±РѕРІСЊ... Р±С‹РІР°РµС‚.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2986" name="Бог премудрый и святой" canon="false" text="" textRus="" music="">
+<psalm number="2986" name="Р‘РѕРі РїСЂРµРјСѓРґСЂС‹Р№ Рё СЃРІСЏС‚РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог премудрый и святой,</plain>
+            <plain>Р‘РѕРі РїСЂРµРјСѓРґСЂС‹Р№ Рё СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>я склоняюсь пред Тобой,</plain>
+            <plain>СЏ СЃРєР»РѕРЅСЏСЋСЃСЊ РїСЂРµРґ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>вглубь моей души взгляни,</plain>
+            <plain>РІРіР»СѓР±СЊ РјРѕРµР№ РґСѓС€Рё РІР·РіР»СЏРЅРё,</plain>
         </string>
         <string>
-            <plain>в святости меня храни.</plain>
+            <plain>РІ СЃРІСЏС‚РѕСЃС‚Рё РјРµРЅСЏ С…СЂР°РЅРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог любви, Бог добра,</plain>
+            <plain>Р‘РѕРі Р»СЋР±РІРё, Р‘РѕРі РґРѕР±СЂР°,</plain>
         </string>
         <string>
-            <plain>верно Ты веди меня;</plain>
+            <plain>РІРµСЂРЅРѕ РўС‹ РІРµРґРё РјРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>Бог любви и мудрости,</plain>
+            <plain>Р‘РѕРі Р»СЋР±РІРё Рё РјСѓРґСЂРѕСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>душу Ты мою храни!</plain>
+            <plain>РґСѓС€Сѓ РўС‹ РјРѕСЋ С…СЂР°РЅРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бог всесильный и благой,</plain>
+            <plain>Р‘РѕРі РІСЃРµСЃРёР»СЊРЅС‹Р№ Рё Р±Р»Р°РіРѕР№,</plain>
         </string>
         <string>
-            <plain>будь Ты каждый час со мной,</plain>
+            <plain>Р±СѓРґСЊ РўС‹ РєР°Р¶РґС‹Р№ С‡Р°СЃ СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>силу дай и благодать,</plain>
+            <plain>СЃРёР»Сѓ РґР°Р№ Рё Р±Р»Р°РіРѕРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>верно Слово исполнять.</plain>
+            <plain>РІРµСЂРЅРѕ РЎР»РѕРІРѕ РёСЃРїРѕР»РЅСЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Неизменный Бог любви,</plain>
+            <plain>РќРµРёР·РјРµРЅРЅС‹Р№ Р‘РѕРі Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Ты вдали и Ты вблизи;</plain>
+            <plain>РўС‹ РІРґР°Р»Рё Рё РўС‹ РІР±Р»РёР·Рё;</plain>
         </string>
         <string>
-            <plain>благодатью без числа</plain>
+            <plain>Р±Р»Р°РіРѕРґР°С‚СЊСЋ Р±РµР· С‡РёСЃР»Р°</plain>
         </string>
         <string>
-            <plain>окружаешь Ты меня.</plain>
+            <plain>РѕРєСЂСѓР¶Р°РµС€СЊ РўС‹ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бог небесной святости,</plain>
+            <plain>Р‘РѕРі РЅРµР±РµСЃРЅРѕР№ СЃРІСЏС‚РѕСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Ты всегда во мне живи,</plain>
+            <plain>РўС‹ РІСЃРµРіРґР° РІРѕ РјРЅРµ Р¶РёРІРё,</plain>
         </string>
         <string>
-            <plain>чтобы образ Твой во мне</plain>
+            <plain>С‡С‚РѕР±С‹ РѕР±СЂР°Р· РўРІРѕР№ РІРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>увидали люди все.</plain>
+            <plain>СѓРІРёРґР°Р»Рё Р»СЋРґРё РІСЃРµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Вечный Бог, Твоя рука</plain>
+            <plain>Р’РµС‡РЅС‹Р№ Р‘РѕРі, РўРІРѕСЏ СЂСѓРєР°</plain>
         </string>
         <string>
-            <plain>будет пусть со мной всегда;</plain>
+            <plain>Р±СѓРґРµС‚ РїСѓСЃС‚СЊ СЃРѕ РјРЅРѕР№ РІСЃРµРіРґР°;</plain>
         </string>
         <string>
-            <plain>Бог, неведающий лжи,</plain>
+            <plain>Р‘РѕРі, РЅРµРІРµРґР°СЋС‰РёР№ Р»Р¶Рё,</plain>
         </string>
         <string>
-            <plain>верно Ты меня веди.</plain>
+            <plain>РІРµСЂРЅРѕ РўС‹ РјРµРЅСЏ РІРµРґРё.</plain>
         </string>
     </verse>
 </psalm>

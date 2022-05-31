@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="27" name="О наш Отец на небесах" canon="false" text="" textRus="" music="">
+<psalm number="27" name="Рћ РЅР°С€ РћС‚РµС† РЅР° РЅРµР±РµСЃР°С…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О наш Отец на небесах!</plain>
+            <plain>Рћ РЅР°С€ РћС‚РµС† РЅР° РЅРµР±РµСЃР°С…!</plain>
         </string>
         <string>
-            <plain>Прими моление мое:</plain>
+            <plain>РџСЂРёРјРё РјРѕР»РµРЅРёРµ РјРѕРµ:</plain>
         </string>
         <string>
-            <plain>Да, славно в славных чудесах,</plain>
+            <plain>Р”Р°, СЃР»Р°РІРЅРѕ РІ СЃР»Р°РІРЅС‹С… С‡СѓРґРµСЃР°С…,</plain>
         </string>
         <string>
-            <plain>Святится имя ввек Твое!</plain>
+            <plain>РЎРІСЏС‚РёС‚СЃСЏ РёРјСЏ РІРІРµРє РўРІРѕРµ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Всеведущ Ты и всемогущ,</plain>
+            <plain>Р’СЃРµРІРµРґСѓС‰ РўС‹ Рё РІСЃРµРјРѕРіСѓС‰,</plain>
         </string>
         <string>
-            <plain>Трепещет пред Тобою все;</plain>
+            <plain>РўСЂРµРїРµС‰РµС‚ РїСЂРµРґ РўРѕР±РѕСЋ РІСЃРµ;</plain>
         </string>
         <string>
-            <plain>Всевидящ Ты и вездесущ,</plain>
+            <plain>Р’СЃРµРІРёРґСЏС‰ РўС‹ Рё РІРµР·РґРµСЃСѓС‰,</plain>
         </string>
         <string>
-            <plain>Да придет царствие Твое.</plain>
+            <plain>Р”Р° РїСЂРёРґРµС‚ С†Р°СЂСЃС‚РІРёРµ РўРІРѕРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Премудрости Ты, Боже, полн,</plain>
+            <plain>РџСЂРµРјСѓРґСЂРѕСЃС‚Рё РўС‹, Р‘РѕР¶Рµ, РїРѕР»РЅ,</plain>
         </string>
         <string>
-            <plain>И в счастье мысль одна моя:</plain>
+            <plain>Р РІ СЃС‡Р°СЃС‚СЊРµ РјС‹СЃР»СЊ РѕРґРЅР° РјРѕСЏ:</plain>
         </string>
         <string>
-            <plain>Пусть средь житейских бурь и волн</plain>
+            <plain>РџСѓСЃС‚СЊ СЃСЂРµРґСЊ Р¶РёС‚РµР№СЃРєРёС… Р±СѓСЂСЊ Рё РІРѕР»РЅ</plain>
         </string>
         <string>
-            <plain>Да будет воля ввек Твоя!</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ РІРѕР»СЏ РІРІРµРє РўРІРѕСЏ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты - всеблагой наш Бог и Царь,</plain>
+            <plain>РўС‹ - РІСЃРµР±Р»Р°РіРѕР№ РЅР°С€ Р‘РѕРі Рё Р¦Р°СЂСЊ,</plain>
         </string>
         <string>
-            <plain>Ты жизнь даешь всем существам,</plain>
+            <plain>РўС‹ Р¶РёР·РЅСЊ РґР°РµС€СЊ РІСЃРµРј СЃСѓС‰РµСЃС‚РІР°Рј,</plain>
         </string>
         <string>
-            <plain>И вся к Тебе взывает Тварь:</plain>
+            <plain>Р РІСЃСЏ Рє РўРµР±Рµ РІР·С‹РІР°РµС‚ РўРІР°СЂСЊ:</plain>
         </string>
         <string>
-            <plain>Дай хлеб насущный ныне нам!</plain>
+            <plain>Р”Р°Р№ С…Р»РµР± РЅР°СЃСѓС‰РЅС‹Р№ РЅС‹РЅРµ РЅР°Рј!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты милосерд, Ты справедлив;</plain>
+            <plain>РўС‹ РјРёР»РѕСЃРµСЂРґ, РўС‹ СЃРїСЂР°РІРµРґР»РёРІ;</plain>
         </string>
         <string>
-            <plain>Оставь долги Ты наши нам,</plain>
+            <plain>РћСЃС‚Р°РІСЊ РґРѕР»РіРё РўС‹ РЅР°С€Рё РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Как, гнев и злобу позабыв,</plain>
+            <plain>РљР°Рє, РіРЅРµРІ Рё Р·Р»РѕР±Сѓ РїРѕР·Р°Р±С‹РІ,</plain>
         </string>
         <string>
-            <plain>Прощаем мы своим врагам.</plain>
+            <plain>РџСЂРѕС‰Р°РµРј РјС‹ СЃРІРѕРёРј РІСЂР°РіР°Рј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Кто без Тебя безгрешен был?</plain>
+            <plain>РљС‚Рѕ Р±РµР· РўРµР±СЏ Р±РµР·РіСЂРµС€РµРЅ Р±С‹Р»?</plain>
         </string>
         <string>
-            <plain>Во искушенье не введи!</plain>
+            <plain>Р’Рѕ РёСЃРєСѓС€РµРЅСЊРµ РЅРµ РІРІРµРґРё!</plain>
         </string>
         <string>
-            <plain>Нас немощных, о Боже сил,</plain>
+            <plain>РќР°СЃ РЅРµРјРѕС‰РЅС‹С…, Рѕ Р‘РѕР¶Рµ СЃРёР»,</plain>
         </string>
         <string>
-            <plain>От злого духа огради.</plain>
+            <plain>РћС‚ Р·Р»РѕРіРѕ РґСѓС…Р° РѕРіСЂР°РґРё.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Твои все дивные дела,</plain>
+            <plain>РўРІРѕРё РІСЃРµ РґРёРІРЅС‹Рµ РґРµР»Р°,</plain>
         </string>
         <string>
-            <plain>Твое и царство, Властелин,</plain>
+            <plain>РўРІРѕРµ Рё С†Р°СЂСЃС‚РІРѕ, Р’Р»Р°СЃС‚РµР»РёРЅ,</plain>
         </string>
         <string>
-            <plain>Тебе и слава, и хвала</plain>
+            <plain>РўРµР±Рµ Рё СЃР»Р°РІР°, Рё С…РІР°Р»Р°</plain>
         </string>
         <string>
-            <plain>Во веки вечные! Аминь.</plain>
+            <plain>Р’Рѕ РІРµРєРё РІРµС‡РЅС‹Рµ! РђРјРёРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

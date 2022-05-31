@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1431" name="А весна пришла такая нежная" canon="false" text="" textRus="" music="">
+<psalm number="1431" name="Рђ РІРµСЃРЅР° РїСЂРёС€Р»Р° С‚Р°РєР°СЏ РЅРµР¶РЅР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>А весна пришла такая нежная,</plain>
+            <plain>Рђ РІРµСЃРЅР° РїСЂРёС€Р»Р° С‚Р°РєР°СЏ РЅРµР¶РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Были слышны так ее шаги.</plain>
+            <plain>Р‘С‹Р»Рё СЃР»С‹С€РЅС‹ С‚Р°Рє РµРµ С€Р°РіРё.</plain>
         </string>
         <string>
-            <plain>"Здравствуй!" - ей сказал подснежник вежливо,</plain>
+            <plain>"Р—РґСЂР°РІСЃС‚РІСѓР№!" - РµР№ СЃРєР°Р·Р°Р» РїРѕРґСЃРЅРµР¶РЅРёРє РІРµР¶Р»РёРІРѕ,</plain>
         </string>
         <string>
-            <plain>Поднимая к небу лепестки.</plain>
+            <plain>РџРѕРґРЅРёРјР°СЏ Рє РЅРµР±Сѓ Р»РµРїРµСЃС‚РєРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Весна вновь пришла,</plain>
+            <plain>Р’РµСЃРЅР° РІРЅРѕРІСЊ РїСЂРёС€Р»Р°,</plain>
         </string>
         <string>
-            <plain>посмотри вокруг.</plain>
+            <plain>РїРѕСЃРјРѕС‚СЂРё РІРѕРєСЂСѓРі.</plain>
         </string>
         <string>
-            <plain>А ты от Христа далеко, мой друг.</plain>
+            <plain>Рђ С‚С‹ РѕС‚ РҐСЂРёСЃС‚Р° РґР°Р»РµРєРѕ, РјРѕР№ РґСЂСѓРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ожили и птицы, и растения.</plain>
+            <plain>РћР¶РёР»Рё Рё РїС‚РёС†С‹, Рё СЂР°СЃС‚РµРЅРёСЏ.</plain>
         </string>
         <string>
-            <plain>Реки пробуждаются от сна.</plain>
+            <plain>Р РµРєРё РїСЂРѕР±СѓР¶РґР°СЋС‚СЃСЏ РѕС‚ СЃРЅР°.</plain>
         </string>
         <string>
-            <plain>Почему же ты стоишь растерянно?</plain>
+            <plain>РџРѕС‡РµРјСѓ Р¶Рµ С‚С‹ СЃС‚РѕРёС€СЊ СЂР°СЃС‚РµСЂСЏРЅРЅРѕ?</plain>
         </string>
         <string>
-            <plain>Посмотри, уже пришла весна.</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё, СѓР¶Рµ РїСЂРёС€Р»Р° РІРµСЃРЅР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Посмотри, какое небо синее.</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё, РєР°РєРѕРµ РЅРµР±Рѕ СЃРёРЅРµРµ.</plain>
         </string>
         <string>
-            <plain>Солнца луч тебе желает: "Встань,</plain>
+            <plain>РЎРѕР»РЅС†Р° Р»СѓС‡ С‚РµР±Рµ Р¶РµР»Р°РµС‚: "Р’СЃС‚Р°РЅСЊ,</plain>
         </string>
         <string>
-            <plain>И, стряхнув с себя сонливость зимнюю.</plain>
+            <plain>Р, СЃС‚СЂСЏС…РЅСѓРІ СЃ СЃРµР±СЏ СЃРѕРЅР»РёРІРѕСЃС‚СЊ Р·РёРјРЅСЋСЋ.</plain>
         </string>
         <string>
-            <plain>Прославляй Спасителя Христа!"</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏР№ РЎРїР°СЃРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°!"</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Весна вновь пришла.</plain>
+            <plain>Р’РµСЃРЅР° РІРЅРѕРІСЊ РїСЂРёС€Р»Р°.</plain>
         </string>
         <string>
-            <plain>Посмотри вокруг.</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё РІРѕРєСЂСѓРі.</plain>
         </string>
         <string>
-            <plain>Иди ко Христу поскорее, друг.</plain>
+            <plain>РРґРё РєРѕ РҐСЂРёСЃС‚Сѓ РїРѕСЃРєРѕСЂРµРµ, РґСЂСѓРі.</plain>
         </string>
     </chorus>
 </psalm>

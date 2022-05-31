@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1049" name="Ты что о друг мой тосклив и мрачен" canon="false" text="" textRus="" music="">
+<psalm number="1049" name="РўС‹ С‡С‚Рѕ Рѕ РґСЂСѓРі РјРѕР№ С‚РѕСЃРєР»РёРІ Рё РјСЂР°С‡РµРЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты что, о друг мой, тосклив и мрачен?</plain>
+            <plain>РўС‹ С‡С‚Рѕ, Рѕ РґСЂСѓРі РјРѕР№, С‚РѕСЃРєР»РёРІ Рё РјСЂР°С‡РµРЅ?</plain>
         </string>
         <string>
-            <plain>Удел счастливый тебе назначен.</plain>
+            <plain>РЈРґРµР» СЃС‡Р°СЃС‚Р»РёРІС‹Р№ С‚РµР±Рµ РЅР°Р·РЅР°С‡РµРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, не печалься над суетою -</plain>
+            <plain>Рћ, РЅРµ РїРµС‡Р°Р»СЊСЃСЏ РЅР°Рґ СЃСѓРµС‚РѕСЋ -</plain>
         </string>
         <string>
-            <plain>Она проходит мечтой пустою.</plain>
+            <plain>РћРЅР° РїСЂРѕС…РѕРґРёС‚ РјРµС‡С‚РѕР№ РїСѓСЃС‚РѕСЋ.</plain>
         </string>
         <string>
-            <plain>А там, на небе, все будет вечно,</plain>
+            <plain>Рђ С‚Р°Рј, РЅР° РЅРµР±Рµ, РІСЃРµ Р±СѓРґРµС‚ РІРµС‡РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Умчится горе, друг, быстротечно.</plain>
+            <plain>РЈРјС‡РёС‚СЃСЏ РіРѕСЂРµ, РґСЂСѓРі, Р±С‹СЃС‚СЂРѕС‚РµС‡РЅРѕ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Или ты хочешь богатства, славы?</plain>
+            <plain>РР»Рё С‚С‹ С…РѕС‡РµС€СЊ Р±РѕРіР°С‚СЃС‚РІР°, СЃР»Р°РІС‹?</plain>
         </string>
         <string>
-            <plain>Они для сердца больней отравы!</plain>
+            <plain>РћРЅРё РґР»СЏ СЃРµСЂРґС†Р° Р±РѕР»СЊРЅРµР№ РѕС‚СЂР°РІС‹!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Прийди к Иисусу, Он любит душу.</plain>
+            <plain>РџСЂРёР№РґРё Рє РРёСЃСѓСЃСѓ, РћРЅ Р»СЋР±РёС‚ РґСѓС€Сѓ.</plain>
         </string>
         <string>
-            <plain>Твои оковы Он все разрушит.</plain>
+            <plain>РўРІРѕРё РѕРєРѕРІС‹ РћРЅ РІСЃРµ СЂР°Р·СЂСѓС€РёС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Настало время - познай ты Бога.</plain>
+            <plain>РќР°СЃС‚Р°Р»Рѕ РІСЂРµРјСЏ - РїРѕР·РЅР°Р№ С‚С‹ Р‘РѕРіР°.</plain>
         </string>
         <string>
-            <plain>Уйди от мира, где горя много.</plain>
+            <plain>РЈР№РґРё РѕС‚ РјРёСЂР°, РіРґРµ РіРѕСЂСЏ РјРЅРѕРіРѕ.</plain>
         </string>
     </verse>
 </psalm>

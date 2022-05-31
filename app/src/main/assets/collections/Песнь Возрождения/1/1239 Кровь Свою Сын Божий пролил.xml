@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1239" name="Кровь Свою Сын Божий пролил" canon="false" text="" textRus="" music="">
+<psalm number="1239" name="РљСЂРѕРІСЊ РЎРІРѕСЋ РЎС‹РЅ Р‘РѕР¶РёР№ РїСЂРѕР»РёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Кровь Свою Сын Божий пролил</plain>
+            <plain>РљСЂРѕРІСЊ РЎРІРѕСЋ РЎС‹РЅ Р‘РѕР¶РёР№ РїСЂРѕР»РёР»</plain>
         </string>
         <string>
-            <plain>И источник жизни открыл.</plain>
+            <plain>Р РёСЃС‚РѕС‡РЅРёРє Р¶РёР·РЅРё РѕС‚РєСЂС‹Р».</plain>
         </string>
         <string>
-            <plain>Ранами Своими Он нас</plain>
+            <plain>Р Р°РЅР°РјРё РЎРІРѕРёРјРё РћРЅ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>От греховных язв исцелил.</plain>
+            <plain>РћС‚ РіСЂРµС…РѕРІРЅС‹С… СЏР·РІ РёСЃС†РµР»РёР».</plain>
         </string>
         <string>
-            <plain>Как овца, блуждал я вдали.</plain>
+            <plain>РљР°Рє РѕРІС†Р°, Р±Р»СѓР¶РґР°Р» СЏ РІРґР°Р»Рё.</plain>
         </string>
         <string>
-            <plain>Ночь вокруг меня все темней.</plain>
+            <plain>РќРѕС‡СЊ РІРѕРєСЂСѓРі РјРµРЅСЏ РІСЃРµ С‚РµРјРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Кровью Иисуса омой,</plain>
+            <plain>РљСЂРѕРІСЊСЋ РРёСЃСѓСЃР° РѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>И буду я снега белей.</plain>
+            <plain>Р Р±СѓРґСѓ СЏ СЃРЅРµРіР° Р±РµР»РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Снега белей!</plain>
+            <plain>РЎРЅРµРіР° Р±РµР»РµР№!</plain>
         </string>
         <string>
-            <plain>Снега белей!</plain>
+            <plain>РЎРЅРµРіР° Р±РµР»РµР№!</plain>
         </string>
         <string>
-            <plain>Снега белей!</plain>
+            <plain>РЎРЅРµРіР° Р±РµР»РµР№!</plain>
         </string>
         <string>
-            <plain>Снега белей!</plain>
+            <plain>РЎРЅРµРіР° Р±РµР»РµР№!</plain>
         </string>
         <string>
-            <plain>Кровью Иисуса омой, омой,</plain>
+            <plain>РљСЂРѕРІСЊСЋ РРёСЃСѓСЃР° РѕРјРѕР№, РѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>И буду я снега белей!</plain>
+            <plain>Р Р±СѓРґСѓ СЏ СЃРЅРµРіР° Р±РµР»РµР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он венец терновый понес.</plain>
+            <plain>РћРЅ РІРµРЅРµС† С‚РµСЂРЅРѕРІС‹Р№ РїРѕРЅРµСЃ.</plain>
         </string>
         <string>
-            <plain>На кресте за нас Он висел.</plain>
+            <plain>РќР° РєСЂРµСЃС‚Рµ Р·Р° РЅР°СЃ РћРЅ РІРёСЃРµР».</plain>
         </string>
         <string>
-            <plain>Для спасения грешных людей</plain>
+            <plain>Р”Р»СЏ СЃРїР°СЃРµРЅРёСЏ РіСЂРµС€РЅС‹С… Р»СЋРґРµР№</plain>
         </string>
         <string>
-            <plain>Из любви Он все претерпел.</plain>
+            <plain>РР· Р»СЋР±РІРё РћРЅ РІСЃРµ РїСЂРµС‚РµСЂРїРµР».</plain>
         </string>
         <string>
-            <plain>Пусть влечет поток тот живой</plain>
+            <plain>РџСѓСЃС‚СЊ РІР»РµС‡РµС‚ РїРѕС‚РѕРє С‚РѕС‚ Р¶РёРІРѕР№</plain>
         </string>
         <string>
-            <plain>Душу ко Христу все сильней,</plain>
+            <plain>Р”СѓС€Сѓ РєРѕ РҐСЂРёСЃС‚Сѓ РІСЃРµ СЃРёР»СЊРЅРµР№,</plain>
         </string>
         <string>
-            <plain>Кровию святой омой,</plain>
+            <plain>РљСЂРѕРІРёСЋ СЃРІСЏС‚РѕР№ РѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>И буду я снега белей!</plain>
+            <plain>Р Р±СѓРґСѓ СЏ СЃРЅРµРіР° Р±РµР»РµР№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Отче, согрешил пред Тобой,</plain>
+            <plain>РћС‚С‡Рµ, СЃРѕРіСЂРµС€РёР» РїСЂРµРґ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Все Тебе хочу я открыть.</plain>
+            <plain>Р’СЃРµ РўРµР±Рµ С…РѕС‡Сѓ СЏ РѕС‚РєСЂС‹С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Знаю, я виновен во всем</plain>
+            <plain>Р—РЅР°СЋ, СЏ РІРёРЅРѕРІРµРЅ РІРѕ РІСЃРµРј</plain>
         </string>
         <string>
-            <plain>И ничем греха мне не смыть.</plain>
+            <plain>Р РЅРёС‡РµРј РіСЂРµС…Р° РјРЅРµ РЅРµ СЃРјС‹С‚СЊ.</plain>
         </string>
         <string>
-            <plain>О, Господь, к Тебе я иду.</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґСЊ, Рє РўРµР±Рµ СЏ РёРґСѓ.</plain>
         </string>
         <string>
-            <plain>На меня поток тот излей.</plain>
+            <plain>РќР° РјРµРЅСЏ РїРѕС‚РѕРє С‚РѕС‚ РёР·Р»РµР№.</plain>
         </string>
         <string>
-            <plain>Кровью благодатной омой,</plain>
+            <plain>РљСЂРѕРІСЊСЋ Р±Р»Р°РіРѕРґР°С‚РЅРѕР№ РѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>И буду я снега белей!</plain>
+            <plain>Р Р±СѓРґСѓ СЏ СЃРЅРµРіР° Р±РµР»РµР№!</plain>
         </string>
     </verse>
 </psalm>

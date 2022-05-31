@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="300" name="Помни Господа всегда ты" canon="false" text="" textRus="" music="">
+<psalm number="300" name="РџРѕРјРЅРё Р“РѕСЃРїРѕРґР° РІСЃРµРіРґР° С‚С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Помни Господа всегда ты.</plain>
+            <plain>РџРѕРјРЅРё Р“РѕСЃРїРѕРґР° РІСЃРµРіРґР° С‚С‹.</plain>
         </string>
         <string>
-            <plain>Он – источник всех даров;</plain>
+            <plain>РћРЅ вЂ“ РёСЃС‚РѕС‡РЅРёРє РІСЃРµС… РґР°СЂРѕРІ;</plain>
         </string>
         <string>
-            <plain>При удачах и утратах</plain>
+            <plain>РџСЂРё СѓРґР°С‡Р°С… Рё СѓС‚СЂР°С‚Р°С…</plain>
         </string>
         <string>
-            <plain>Прославляй Его любовь.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏР№ Р•РіРѕ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Может быть ты рассуждаешь:</plain>
+            <plain>РњРѕР¶РµС‚ Р±С‹С‚СЊ С‚С‹ СЂР°СЃСЃСѓР¶РґР°РµС€СЊ:</plain>
         </string>
         <string>
-            <plain>"Пока молод - веселись,</plain>
+            <plain>"РџРѕРєР° РјРѕР»РѕРґ - РІРµСЃРµР»РёСЃСЊ,</plain>
         </string>
         <string>
-            <plain>А когда уж постареешь,</plain>
+            <plain>Рђ РєРѕРіРґР° СѓР¶ РїРѕСЃС‚Р°СЂРµРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Тогда кайся и молись"?</plain>
+            <plain>РўРѕРіРґР° РєР°Р№СЃСЏ Рё РјРѕР»РёСЃСЊ"?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О несчастный, ты не знаешь,</plain>
+            <plain>Рћ РЅРµСЃС‡Р°СЃС‚РЅС‹Р№, С‚С‹ РЅРµ Р·РЅР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Что несет ближайший миг!</plain>
+            <plain>Р§С‚Рѕ РЅРµСЃРµС‚ Р±Р»РёР¶Р°Р№С€РёР№ РјРёРі!</plain>
         </string>
         <string>
-            <plain>Может, завтра ты не встанешь,</plain>
+            <plain>РњРѕР¶РµС‚, Р·Р°РІС‚СЂР° С‚С‹ РЅРµ РІСЃС‚Р°РЅРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Не увидишь дорогих.</plain>
+            <plain>РќРµ СѓРІРёРґРёС€СЊ РґРѕСЂРѕРіРёС….</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Может, завтра в гроб положат,</plain>
+            <plain>РњРѕР¶РµС‚, Р·Р°РІС‚СЂР° РІ РіСЂРѕР± РїРѕР»РѕР¶Р°С‚,</plain>
         </string>
         <string>
-            <plain>Распрощаются с тобой.</plain>
+            <plain>Р Р°СЃРїСЂРѕС‰Р°СЋС‚СЃСЏ СЃ С‚РѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>И великим и ничтожным</plain>
+            <plain>Р РІРµР»РёРєРёРј Рё РЅРёС‡С‚РѕР¶РЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Почивать в земле сырой.</plain>
+            <plain>РџРѕС‡РёРІР°С‚СЊ РІ Р·РµРјР»Рµ СЃС‹СЂРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>А душа? В жилище плача</plain>
+            <plain>Рђ РґСѓС€Р°? Р’ Р¶РёР»РёС‰Рµ РїР»Р°С‡Р°</plain>
         </string>
         <string>
-            <plain>Неспасенные сойдут.</plain>
+            <plain>РќРµСЃРїР°СЃРµРЅРЅС‹Рµ СЃРѕР№РґСѓС‚.</plain>
         </string>
         <string>
-            <plain>Умереть Бог всем назначил,</plain>
+            <plain>РЈРјРµСЂРµС‚СЊ Р‘РѕРі РІСЃРµРј РЅР°Р·РЅР°С‡РёР»,</plain>
         </string>
         <string>
-            <plain>А потом - прийти на суд.</plain>
+            <plain>Рђ РїРѕС‚РѕРј - РїСЂРёР№С‚Рё РЅР° СЃСѓРґ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Помни Господа все время</plain>
+            <plain>РџРѕРјРЅРё Р“РѕСЃРїРѕРґР° РІСЃРµ РІСЂРµРјСЏ</plain>
         </string>
         <string>
-            <plain>На земле среди живых,</plain>
+            <plain>РќР° Р·РµРјР»Рµ СЃСЂРµРґРё Р¶РёРІС‹С…,</plain>
         </string>
         <string>
-            <plain>И Его святое имя</plain>
+            <plain>Р Р•РіРѕ СЃРІСЏС‚РѕРµ РёРјСЏ</plain>
         </string>
         <string>
-            <plain>Прославляй в делах твоих.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏР№ РІ РґРµР»Р°С… С‚РІРѕРёС….</plain>
         </string>
     </verse>
 </psalm>

@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="40" name="О Господь мой С жаждой жгучей" canon="false" text="" textRus="" music="">
+<psalm number="40" name="Рћ Р“РѕСЃРїРѕРґСЊ РјРѕР№ РЎ Р¶Р°Р¶РґРѕР№ Р¶РіСѓС‡РµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Господь мой! С жаждой жгучей</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґСЊ РјРѕР№! РЎ Р¶Р°Р¶РґРѕР№ Р¶РіСѓС‡РµР№</plain>
         </string>
         <string>
-            <plain>Я ищу Твой лик святой;</plain>
+            <plain>РЇ РёС‰Сѓ РўРІРѕР№ Р»РёРє СЃРІСЏС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Призыв радостный, могучий</plain>
+            <plain>РџСЂРёР·С‹РІ СЂР°РґРѕСЃС‚РЅС‹Р№, РјРѕРіСѓС‡РёР№</plain>
         </string>
         <string>
-            <plain>Раздается надо мной:</plain>
+            <plain>Р Р°Р·РґР°РµС‚СЃСЏ РЅР°РґРѕ РјРЅРѕР№:</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>"О приди! О приди! О приди!"</plain>
+            <plain>"Рћ РїСЂРёРґРё! Рћ РїСЂРёРґРё! Рћ РїСЂРёРґРё!"</plain>
         </string>
         <string>
-            <plain>Призыв радостный, могучий</plain>
+            <plain>РџСЂРёР·С‹РІ СЂР°РґРѕСЃС‚РЅС‹Р№, РјРѕРіСѓС‡РёР№</plain>
         </string>
         <string>
-            <plain>Раздается надо мной.</plain>
+            <plain>Р Р°Р·РґР°РµС‚СЃСЏ РЅР°РґРѕ РјРЅРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>"О приди! Тебя приму Я;</plain>
+            <plain>"Рћ РїСЂРёРґРё! РўРµР±СЏ РїСЂРёРјСѓ РЇ;</plain>
         </string>
         <string>
-            <plain>Лучший друг Я буду твой.</plain>
+            <plain>Р›СѓС‡С€РёР№ РґСЂСѓРі РЇ Р±СѓРґСѓ С‚РІРѕР№.</plain>
         </string>
         <string>
-            <plain>В цвете лет твоих зову Я:</plain>
+            <plain>Р’ С†РІРµС‚Рµ Р»РµС‚ С‚РІРѕРёС… Р·РѕРІСѓ РЇ:</plain>
         </string>
         <string>
-            <plain>О приди и будь ты Мой".</plain>
+            <plain>Рћ РїСЂРёРґРё Рё Р±СѓРґСЊ С‚С‹ РњРѕР№".</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>"О приди! К тебе взываю,</plain>
+            <plain>"Рћ РїСЂРёРґРё! Рљ С‚РµР±Рµ РІР·С‹РІР°СЋ,</plain>
         </string>
         <string>
-            <plain>За тебя Я кровь пролил,</plain>
+            <plain>Р—Р° С‚РµР±СЏ РЇ РєСЂРѕРІСЊ РїСЂРѕР»РёР»,</plain>
         </string>
         <string>
-            <plain>И теперь Я ожидаю,</plain>
+            <plain>Р С‚РµРїРµСЂСЊ РЇ РѕР¶РёРґР°СЋ,</plain>
         </string>
         <string>
-            <plain>Чтобы Мне лишь ты служил".</plain>
+            <plain>Р§С‚РѕР±С‹ РњРЅРµ Р»РёС€СЊ С‚С‹ СЃР»СѓР¶РёР»".</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Прихожу к Тебе я ныне,</plain>
+            <plain>РџСЂРёС…РѕР¶Сѓ Рє РўРµР±Рµ СЏ РЅС‹РЅРµ,</plain>
         </string>
         <string>
-            <plain>Поспешив на призыв Твой;</plain>
+            <plain>РџРѕСЃРїРµС€РёРІ РЅР° РїСЂРёР·С‹РІ РўРІРѕР№;</plain>
         </string>
         <string>
-            <plain>И, принятый в Божьем Сыне,</plain>
+            <plain>Р, РїСЂРёРЅСЏС‚С‹Р№ РІ Р‘РѕР¶СЊРµРј РЎС‹РЅРµ,</plain>
         </string>
         <string>
-            <plain>Я отныне уж не свой.</plain>
+            <plain>РЇ РѕС‚РЅС‹РЅРµ СѓР¶ РЅРµ СЃРІРѕР№.</plain>
         </string>
     </verse>
 </psalm>

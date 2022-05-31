@@ -1,129 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="106" name="Бог есть любовь к нам" canon="false" text="" textRus="" music="">
+<psalm number="106" name="Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ Рє РЅР°Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог есть любовь к нам!</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ Рє РЅР°Рј!</plain>
         </string>
         <string>
-            <plain>Я славить буду</plain>
+            <plain>РЇ СЃР»Р°РІРёС‚СЊ Р±СѓРґСѓ</plain>
         </string>
         <string>
-            <plain>И не  забуду -</plain>
+            <plain>Р РЅРµ  Р·Р°Р±СѓРґСѓ -</plain>
         </string>
         <string>
-            <plain>Он любит нас!</plain>
+            <plain>РћРЅ Р»СЋР±РёС‚ РЅР°СЃ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я буду петь всегда:</plain>
+            <plain>РЇ Р±СѓРґСѓ РїРµС‚СЊ РІСЃРµРіРґР°:</plain>
         </string>
         <string>
-            <plain>Бог всех нас любит,</plain>
+            <plain>Р‘РѕРі РІСЃРµС… РЅР°СЃ Р»СЋР±РёС‚,</plain>
         </string>
         <string>
-            <plain>Бог всех нас любит,</plain>
+            <plain>Р‘РѕРі РІСЃРµС… РЅР°СЃ Р»СЋР±РёС‚,</plain>
         </string>
         <string>
-            <plain>Бог есть любовь.</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Послал Он Сына,</plain>
+            <plain>РџРѕСЃР»Р°Р» РћРЅ РЎС‹РЅР°,</plain>
         </string>
         <string>
-            <plain>Кто призывает,</plain>
+            <plain>РљС‚Рѕ РїСЂРёР·С‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Грехи прощает</plain>
+            <plain>Р“СЂРµС…Рё РїСЂРѕС‰Р°РµС‚</plain>
         </string>
         <string>
-            <plain>И жизнь дает.</plain>
+            <plain>Р Р¶РёР·РЅСЊ РґР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В грехе лежал я,</plain>
+            <plain>Р’ РіСЂРµС…Рµ Р»РµР¶Р°Р» СЏ,</plain>
         </string>
         <string>
-            <plain>Грехом плененный;</plain>
+            <plain>Р“СЂРµС…РѕРј РїР»РµРЅРµРЅРЅС‹Р№;</plain>
         </string>
         <string>
-            <plain>Христом спасенный -</plain>
+            <plain>РҐСЂРёСЃС‚РѕРј СЃРїР°СЃРµРЅРЅС‹Р№ -</plain>
         </string>
         <string>
-            <plain>Свободен я.</plain>
+            <plain>РЎРІРѕР±РѕРґРµРЅ СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>К трапезе славной</plain>
+            <plain>Рљ С‚СЂР°РїРµР·Рµ СЃР»Р°РІРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Он приглашает;</plain>
+            <plain>РћРЅ РїСЂРёРіР»Р°С€Р°РµС‚;</plain>
         </string>
         <string>
-            <plain>Мой дух питает,</plain>
+            <plain>РњРѕР№ РґСѓС… РїРёС‚Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Все вновь творит.</plain>
+            <plain>Р’СЃРµ РІРЅРѕРІСЊ С‚РІРѕСЂРёС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Он - добрый Пастырь;</plain>
+            <plain>РћРЅ - РґРѕР±СЂС‹Р№ РџР°СЃС‚С‹СЂСЊ;</plain>
         </string>
         <string>
-            <plain>Где луг прекрасный,</plain>
+            <plain>Р“РґРµ Р»СѓРі РїСЂРµРєСЂР°СЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Там голос ясный:</plain>
+            <plain>РўР°Рј РіРѕР»РѕСЃ СЏСЃРЅС‹Р№:</plain>
         </string>
         <string>
-            <plain>Как любит он!</plain>
+            <plain>РљР°Рє Р»СЋР±РёС‚ РѕРЅ!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Чрез тьму ведет</plain>
+            <plain>Р§СЂРµР· С‚СЊРјСѓ РІРµРґРµС‚</plain>
         </string>
         <string>
-            <plain>Он По стезе тесной</plain>
+            <plain>РћРЅ РџРѕ СЃС‚РµР·Рµ С‚РµСЃРЅРѕР№</plain>
         </string>
         <string>
-            <plain>К стране небесной,</plain>
+            <plain>Рљ СЃС‚СЂР°РЅРµ РЅРµР±РµСЃРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>В блаженный край.</plain>
+            <plain>Р’ Р±Р»Р°Р¶РµРЅРЅС‹Р№ РєСЂР°Р№.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Его мы будем</plain>
+            <plain>Р•РіРѕ РјС‹ Р±СѓРґРµРј</plain>
         </string>
         <string>
-            <plain>Любить и славить,</plain>
+            <plain>Р›СЋР±РёС‚СЊ Рё СЃР»Р°РІРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб нами править</plain>
+            <plain>Р§С‚РѕР± РЅР°РјРё РїСЂР°РІРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Он всегда мог.</plain>
+            <plain>РћРЅ РІСЃРµРіРґР° РјРѕРі.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Бог есть любовь к нам!</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ Рє РЅР°Рј!</plain>
         </string>
         <string>
-            <plain>Он полн даяний,</plain>
+            <plain>РћРЅ РїРѕР»РЅ РґР°СЏРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Благодеяний;</plain>
+            <plain>Р‘Р»Р°РіРѕРґРµСЏРЅРёР№;</plain>
         </string>
         <string>
-            <plain>Бог есть любовь!</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ!</plain>
         </string>
     </verse>
 </psalm>

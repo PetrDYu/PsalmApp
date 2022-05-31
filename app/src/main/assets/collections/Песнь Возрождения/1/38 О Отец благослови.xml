@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="38" name="О Отец благослови" canon="false" text="" textRus="" music="">
+<psalm number="38" name="Рћ РћС‚РµС† Р±Р»Р°РіРѕСЃР»РѕРІРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Отец, благослови</plain>
+            <plain>Рћ РћС‚РµС†, Р±Р»Р°РіРѕСЃР»РѕРІРё</plain>
         </string>
         <string>
-            <plain>Ты меня; вот я стою</plain>
+            <plain>РўС‹ РјРµРЅСЏ; РІРѕС‚ СЏ СЃС‚РѕСЋ</plain>
         </string>
         <string>
-            <plain>У креста; печаль мою</plain>
+            <plain>РЈ РєСЂРµСЃС‚Р°; РїРµС‡Р°Р»СЊ РјРѕСЋ</plain>
         </string>
         <string>
-            <plain>Сняв, мне душу оживи.</plain>
+            <plain>РЎРЅСЏРІ, РјРЅРµ РґСѓС€Сѓ РѕР¶РёРІРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Будь со мной,</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>О Господь,</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>И меня благослови!</plain>
+            <plain>Р РјРµРЅСЏ Р±Р»Р°РіРѕСЃР»РѕРІРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вот теперь и в этот час,</plain>
+            <plain>Р’РѕС‚ С‚РµРїРµСЂСЊ Рё РІ СЌС‚РѕС‚ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Когда слышу Твой рассказ,</plain>
+            <plain>РљРѕРіРґР° СЃР»С‹С€Сѓ РўРІРѕР№ СЂР°СЃСЃРєР°Р·,</plain>
         </string>
         <string>
-            <plain>Дай мне дар Твоей любви</plain>
+            <plain>Р”Р°Р№ РјРЅРµ РґР°СЂ РўРІРѕРµР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>И меня благослови.</plain>
+            <plain>Р РјРµРЅСЏ Р±Р»Р°РіРѕСЃР»РѕРІРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ныне именем Христа</plain>
+            <plain>РќС‹РЅРµ РёРјРµРЅРµРј РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Мрак рассей и цепь разбей;</plain>
+            <plain>РњСЂР°Рє СЂР°СЃСЃРµР№ Рё С†РµРїСЊ СЂР°Р·Р±РµР№;</plain>
         </string>
         <string>
-            <plain>В этот час мольбы моей</plain>
+            <plain>Р’ СЌС‚РѕС‚ С‡Р°СЃ РјРѕР»СЊР±С‹ РјРѕРµР№</plain>
         </string>
         <string>
-            <plain>Дух омой в крови креста.</plain>
+            <plain>Р”СѓС… РѕРјРѕР№ РІ РєСЂРѕРІРё РєСЂРµСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Никогда я так не чтил</plain>
+            <plain>РќРёРєРѕРіРґР° СЏ С‚Р°Рє РЅРµ С‡С‚РёР»</plain>
         </string>
         <string>
-            <plain>Иисуса, кто мир спас,</plain>
+            <plain>РРёСЃСѓСЃР°, РєС‚Рѕ РјРёСЂ СЃРїР°СЃ,</plain>
         </string>
         <string>
-            <plain>Как вот здесь и в этот час,</plain>
+            <plain>РљР°Рє РІРѕС‚ Р·РґРµСЃСЊ Рё РІ СЌС‚РѕС‚ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Дай мне благодатных сил!</plain>
+            <plain>Р”Р°Р№ РјРЅРµ Р±Р»Р°РіРѕРґР°С‚РЅС‹С… СЃРёР»!</plain>
         </string>
     </verse>
 </psalm>

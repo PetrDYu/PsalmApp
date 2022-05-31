@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="5" name="О Спаситель Благодать" canon="false" text="" textRus="" music="">
+<psalm number="5" name="Рћ РЎРїР°СЃРёС‚РµР»СЊ Р‘Р»Р°РіРѕРґР°С‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Спаситель! Благодать</plain>
+            <plain>Рћ РЎРїР°СЃРёС‚РµР»СЊ! Р‘Р»Р°РіРѕРґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>На благую весть излей;</plain>
+            <plain>РќР° Р±Р»Р°РіСѓСЋ РІРµСЃС‚СЊ РёР·Р»РµР№;</plain>
         </string>
         <string>
-            <plain>Дай нам все слова понять,</plain>
+            <plain>Р”Р°Р№ РЅР°Рј РІСЃРµ СЃР»РѕРІР° РїРѕРЅСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Все слова любви Твоей.</plain>
+            <plain>Р’СЃРµ СЃР»РѕРІР° Р»СЋР±РІРё РўРІРѕРµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дай общение сердцам,</plain>
+            <plain>Р”Р°Р№ РѕР±С‰РµРЅРёРµ СЃРµСЂРґС†Р°Рј,</plain>
         </string>
         <string>
-            <plain>Всех в одно соедини,</plain>
+            <plain>Р’СЃРµС… РІ РѕРґРЅРѕ СЃРѕРµРґРёРЅРё,</plain>
         </string>
         <string>
-            <plain>Обрати лицо Ты к нам</plain>
+            <plain>РћР±СЂР°С‚Рё Р»РёС†Рѕ РўС‹ Рє РЅР°Рј</plain>
         </string>
         <string>
-            <plain>И беседу в нас начни.</plain>
+            <plain>Р Р±РµСЃРµРґСѓ РІ РЅР°СЃ РЅР°С‡РЅРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты открой всем нам сердца</plain>
+            <plain>РўС‹ РѕС‚РєСЂРѕР№ РІСЃРµРј РЅР°Рј СЃРµСЂРґС†Р°</plain>
         </string>
         <string>
-            <plain>И Твои слова посей,</plain>
+            <plain>Р РўРІРѕРё СЃР»РѕРІР° РїРѕСЃРµР№,</plain>
         </string>
         <string>
-            <plain>Пусть на них падет роса</plain>
+            <plain>РџСѓСЃС‚СЊ РЅР° РЅРёС… РїР°РґРµС‚ СЂРѕСЃР°</plain>
         </string>
         <string>
-            <plain>Милости, любви Твоей!</plain>
+            <plain>РњРёР»РѕСЃС‚Рё, Р»СЋР±РІРё РўРІРѕРµР№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Да удобрит Божий Дух</plain>
+            <plain>Р”Р° СѓРґРѕР±СЂРёС‚ Р‘РѕР¶РёР№ Р”СѓС…</plain>
         </string>
         <string>
-            <plain>Наше сердце и наш слух;</plain>
+            <plain>РќР°С€Рµ СЃРµСЂРґС†Рµ Рё РЅР°С€ СЃР»СѓС…;</plain>
         </string>
         <string>
-            <plain>Да скорей произрастет</plain>
+            <plain>Р”Р° СЃРєРѕСЂРµР№ РїСЂРѕРёР·СЂР°СЃС‚РµС‚</plain>
         </string>
         <string>
-            <plain>В нашей жизни вечный плод!</plain>
+            <plain>Р’ РЅР°С€РµР№ Р¶РёР·РЅРё РІРµС‡РЅС‹Р№ РїР»РѕРґ!</plain>
         </string>
     </verse>
 </psalm>

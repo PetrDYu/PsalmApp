@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2276" name="Отчизна моя дорогая" canon="false" text="" textRus="" music="">
+<psalm number="2276" name="РћС‚С‡РёР·РЅР° РјРѕСЏ РґРѕСЂРѕРіР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Отчизна моя дорогая,</plain>
+            <plain>РћС‚С‡РёР·РЅР° РјРѕСЏ РґРѕСЂРѕРіР°СЏ,</plain>
         </string>
         <string>
-            <plain>Приют беспризорных сердец!</plain>
+            <plain>РџСЂРёСЋС‚ Р±РµСЃРїСЂРёР·РѕСЂРЅС‹С… СЃРµСЂРґРµС†!</plain>
         </string>
         <string>
-            <plain>Как часто к тебе я взываю</plain>
+            <plain>РљР°Рє С‡Р°СЃС‚Рѕ Рє С‚РµР±Рµ СЏ РІР·С‹РІР°СЋ</plain>
         </string>
         <string>
-            <plain>Душою усталой своей.</plain>
+            <plain>Р”СѓС€РѕСЋ СѓСЃС‚Р°Р»РѕР№ СЃРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Ты манишь меня словно птицу</plain>
+            <plain>РўС‹ РјР°РЅРёС€СЊ РјРµРЅСЏ СЃР»РѕРІРЅРѕ РїС‚РёС†Сѓ</plain>
         </string>
         <string>
-            <plain>В далёкий чертог золотой,</plain>
+            <plain>Р’ РґР°Р»С‘РєРёР№ С‡РµСЂС‚РѕРі Р·РѕР»РѕС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>А сердце сильнее стучится</plain>
+            <plain>Рђ СЃРµСЂРґС†Рµ СЃРёР»СЊРЅРµРµ СЃС‚СѓС‡РёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>При мысли о встрече с тобой.</plain>
+            <plain>РџСЂРё РјС‹СЃР»Рё Рѕ РІСЃС‚СЂРµС‡Рµ СЃ С‚РѕР±РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Отчизна моя дорогая,</plain>
+            <plain>РћС‚С‡РёР·РЅР° РјРѕСЏ РґРѕСЂРѕРіР°СЏ,</plain>
         </string>
         <string>
-            <plain>Ты ждёшь меня, верю, ты ждёшь.</plain>
+            <plain>РўС‹ Р¶РґС‘С€СЊ РјРµРЅСЏ, РІРµСЂСЋ, С‚С‹ Р¶РґС‘С€СЊ.</plain>
         </string>
         <string>
-            <plain>Ты всем, кто в борьбе побеждает,</plain>
+            <plain>РўС‹ РІСЃРµРј, РєС‚Рѕ РІ Р±РѕСЂСЊР±Рµ РїРѕР±РµР¶РґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Победную песню даёшь.</plain>
+            <plain>РџРѕР±РµРґРЅСѓСЋ РїРµСЃРЅСЋ РґР°С‘С€СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Несут меня юные грёзы</plain>
+            <plain>РќРµСЃСѓС‚ РјРµРЅСЏ СЋРЅС‹Рµ РіСЂС‘Р·С‹</plain>
         </string>
         <string>
-            <plain>На призрачный отблеск огней.</plain>
+            <plain>РќР° РїСЂРёР·СЂР°С‡РЅС‹Р№ РѕС‚Р±Р»РµСЃРє РѕРіРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Ты нежно отрёшь мои слезы</plain>
+            <plain>РўС‹ РЅРµР¶РЅРѕ РѕС‚СЂС‘С€СЊ РјРѕРё СЃР»РµР·С‹</plain>
         </string>
         <string>
-            <plain>Рукой материнской своей.</plain>
+            <plain>Р СѓРєРѕР№ РјР°С‚РµСЂРёРЅСЃРєРѕР№ СЃРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Отчизна моя дорогая!</plain>
+            <plain>РћС‚С‡РёР·РЅР° РјРѕСЏ РґРѕСЂРѕРіР°СЏ!</plain>
         </string>
         <string>
-            <plain>Скорей бы достигнуть тебя,</plain>
+            <plain>РЎРєРѕСЂРµР№ Р±С‹ РґРѕСЃС‚РёРіРЅСѓС‚СЊ С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>В боренье земном укрепляет</plain>
+            <plain>Р’ Р±РѕСЂРµРЅСЊРµ Р·РµРјРЅРѕРј СѓРєСЂРµРїР»СЏРµС‚</plain>
         </string>
         <string>
-            <plain>Незримая сила твоя.</plain>
+            <plain>РќРµР·СЂРёРјР°СЏ СЃРёР»Р° С‚РІРѕСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я жду этой встречи желанной,</plain>
+            <plain>РЇ Р¶РґСѓ СЌС‚РѕР№ РІСЃС‚СЂРµС‡Рё Р¶РµР»Р°РЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Как узник свободу свою,</plain>
+            <plain>РљР°Рє СѓР·РЅРёРє СЃРІРѕР±РѕРґСѓ СЃРІРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Борюсь и молюсь непрестанно,</plain>
+            <plain>Р‘РѕСЂСЋСЃСЊ Рё РјРѕР»СЋСЃСЊ РЅРµРїСЂРµСЃС‚Р°РЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>И плачу порой, и стремлюсь.</plain>
+            <plain>Р РїР»Р°С‡Сѓ РїРѕСЂРѕР№, Рё СЃС‚СЂРµРјР»СЋСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Отчизна моя дорогая!</plain>
+            <plain>РћС‚С‡РёР·РЅР° РјРѕСЏ РґРѕСЂРѕРіР°СЏ!</plain>
         </string>
         <string>
-            <plain>Как рвусь я в объятья твои!</plain>
+            <plain>РљР°Рє СЂРІСѓСЃСЊ СЏ РІ РѕР±СЉСЏС‚СЊСЏ С‚РІРѕРё!</plain>
         </string>
         <string>
-            <plain>О, как я хочу, умирая,</plain>
+            <plain>Рћ, РєР°Рє СЏ С…РѕС‡Сѓ, СѓРјРёСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Назвать тебя домом своим.</plain>
+            <plain>РќР°Р·РІР°С‚СЊ С‚РµР±СЏ РґРѕРјРѕРј СЃРІРѕРёРј.</plain>
         </string>
     </verse>
 </psalm>

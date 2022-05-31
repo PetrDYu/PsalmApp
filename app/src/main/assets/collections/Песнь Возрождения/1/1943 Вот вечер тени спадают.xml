@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1943" name="Вот вечер тени спадают" canon="false" text="" textRus="" music="">
+<psalm number="1943" name="Р’РѕС‚ РІРµС‡РµСЂ С‚РµРЅРё СЃРїР°РґР°СЋС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот вечер, тени спадают</plain>
+            <plain>Р’РѕС‚ РІРµС‡РµСЂ, С‚РµРЅРё СЃРїР°РґР°СЋС‚</plain>
         </string>
         <string>
-            <plain>На тихую страну;</plain>
+            <plain>РќР° С‚РёС…СѓСЋ СЃС‚СЂР°РЅСѓ;</plain>
         </string>
         <string>
-            <plain>Вот пташки умолкают,</plain>
+            <plain>Р’РѕС‚ РїС‚Р°С€РєРё СѓРјРѕР»РєР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Мы слышим лишь одну.</plain>
+            <plain>РњС‹ СЃР»С‹С€РёРј Р»РёС€СЊ РѕРґРЅСѓ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>За гору солнце заходит,</plain>
+            <plain>Р—Р° РіРѕСЂСѓ СЃРѕР»РЅС†Рµ Р·Р°С…РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>За яркий небосклон.</plain>
+            <plain>Р—Р° СЏСЂРєРёР№ РЅРµР±РѕСЃРєР»РѕРЅ.</plain>
         </string>
         <string>
-            <plain>А там звезда восходит,</plain>
+            <plain>Рђ С‚Р°Рј Р·РІРµР·РґР° РІРѕСЃС…РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>И в сердце сходит сон.</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ СЃС…РѕРґРёС‚ СЃРѕРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Покой на души спадает;</plain>
+            <plain>РџРѕРєРѕР№ РЅР° РґСѓС€Рё СЃРїР°РґР°РµС‚;</plain>
         </string>
         <string>
-            <plain>Небесный звездный хор -</plain>
+            <plain>РќРµР±РµСЃРЅС‹Р№ Р·РІРµР·РґРЅС‹Р№ С…РѕСЂ -</plain>
         </string>
         <string>
-            <plain>Природа засыпает;</plain>
+            <plain>РџСЂРёСЂРѕРґР° Р·Р°СЃС‹РїР°РµС‚;</plain>
         </string>
         <string>
-            <plain>Не дремлет Божий взор.</plain>
+            <plain>РќРµ РґСЂРµРјР»РµС‚ Р‘РѕР¶РёР№ РІР·РѕСЂ.</plain>
         </string>
     </verse>
 </psalm>

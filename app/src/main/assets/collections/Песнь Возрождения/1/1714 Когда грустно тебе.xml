@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1714" name="Когда грустно тебе" canon="false" text="" textRus="" music="">
+<psalm number="1714" name="РљРѕРіРґР° РіСЂСѓСЃС‚РЅРѕ С‚РµР±Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Когда грустно тебе,</plain>
+            <plain>РљРѕРіРґР° РіСЂСѓСЃС‚РЅРѕ С‚РµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Когда трудно тебе,</plain>
+            <plain>РљРѕРіРґР° С‚СЂСѓРґРЅРѕ С‚РµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Когда ты совсем один,</plain>
+            <plain>РљРѕРіРґР° С‚С‹ СЃРѕРІСЃРµРј РѕРґРёРЅ,</plain>
         </string>
         <string>
-            <plain>Ты постой, помолчи,</plain>
+            <plain>РўС‹ РїРѕСЃС‚РѕР№, РїРѕРјРѕР»С‡Рё,</plain>
         </string>
         <string>
-            <plain>Ты глаза опусти</plain>
+            <plain>РўС‹ РіР»Р°Р·Р° РѕРїСѓСЃС‚Рё</plain>
         </string>
         <string>
-            <plain>И послушай песню земли.</plain>
+            <plain>Р РїРѕСЃР»СѓС€Р°Р№ РїРµСЃРЅСЋ Р·РµРјР»Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Тебе солнце споет,</plain>
+            <plain>РўРµР±Рµ СЃРѕР»РЅС†Рµ СЃРїРѕРµС‚,</plain>
         </string>
         <string>
-            <plain>Тебе небо споет,</plain>
+            <plain>РўРµР±Рµ РЅРµР±Рѕ СЃРїРѕРµС‚,</plain>
         </string>
         <string>
-            <plain>Тебе море споет</plain>
+            <plain>РўРµР±Рµ РјРѕСЂРµ СЃРїРѕРµС‚</plain>
         </string>
         <string>
-            <plain>О великой Любви.</plain>
+            <plain>Рћ РІРµР»РёРєРѕР№ Р›СЋР±РІРё.</plain>
         </string>
         <string>
-            <plain>Ты улыбнись, песню повтори,</plain>
+            <plain>РўС‹ СѓР»С‹Р±РЅРёСЃСЊ, РїРµСЃРЅСЋ РїРѕРІС‚РѕСЂРё,</plain>
         </string>
         <string>
-            <plain>С нами пой о Божией любви.</plain>
+            <plain>РЎ РЅР°РјРё РїРѕР№ Рѕ Р‘РѕР¶РёРµР№ Р»СЋР±РІРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Надо грусть всю забыть,</plain>
+            <plain>РќР°РґРѕ РіСЂСѓСЃС‚СЊ РІСЃСЋ Р·Р°Р±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Надо петь и любить,</plain>
+            <plain>РќР°РґРѕ РїРµС‚СЊ Рё Р»СЋР±РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Ведь Иисус с нами рядом всегда.</plain>
+            <plain>Р’РµРґСЊ РРёСЃСѓСЃ СЃ РЅР°РјРё СЂСЏРґРѕРј РІСЃРµРіРґР°.</plain>
         </string>
         <string>
-            <plain>Ты не стой, не молчи,</plain>
+            <plain>РўС‹ РЅРµ СЃС‚РѕР№, РЅРµ РјРѕР»С‡Рё,</plain>
         </string>
         <string>
-            <plain>Ты глаза подними</plain>
+            <plain>РўС‹ РіР»Р°Р·Р° РїРѕРґРЅРёРјРё</plain>
         </string>
         <string>
-            <plain>И пропой эту песню земли.</plain>
+            <plain>Р РїСЂРѕРїРѕР№ СЌС‚Сѓ РїРµСЃРЅСЋ Р·РµРјР»Рё.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,74 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2015" name="Бог открыл нам путь любви" canon="false" text="" textRus="" music="">
+<psalm number="2015" name="Р‘РѕРі РѕС‚РєСЂС‹Р» РЅР°Рј РїСѓС‚СЊ Р»СЋР±РІРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог открыл нам путь любви,</plain>
+            <plain>Р‘РѕРі РѕС‚РєСЂС‹Р» РЅР°Рј РїСѓС‚СЊ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>По которому идти</plain>
+            <plain>РџРѕ РєРѕС‚РѕСЂРѕРјСѓ РёРґС‚Рё</plain>
         </string>
         <string>
-            <plain>Будут многие народы века.</plain>
+            <plain>Р‘СѓРґСѓС‚ РјРЅРѕРіРёРµ РЅР°СЂРѕРґС‹ РІРµРєР°.</plain>
         </string>
         <string>
-            <plain>Божий Сын спасены дал,</plain>
+            <plain>Р‘РѕР¶РёР№ РЎС‹РЅ СЃРїР°СЃРµРЅС‹ РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Все греки людей забрал,</plain>
+            <plain>Р’СЃРµ РіСЂРµРєРё Р»СЋРґРµР№ Р·Р°Р±СЂР°Р»,</plain>
         </string>
         <string>
-            <plain>И все знают имя Богочеловека.</plain>
+            <plain>Р РІСЃРµ Р·РЅР°СЋС‚ РёРјСЏ Р‘РѕРіРѕС‡РµР»РѕРІРµРєР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, Иисус, О, Боже славный,</plain>
+            <plain>РРёСЃСѓСЃ, РРёСЃСѓСЃ, Рћ, Р‘РѕР¶Рµ СЃР»Р°РІРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Прославлен будь.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»РµРЅ Р±СѓРґСЊ.</plain>
         </string>
         <string>
-            <plain>Иисус, Иисус, Святое имя!</plain>
+            <plain>РРёСЃСѓСЃ, РРёСЃСѓСЃ, РЎРІСЏС‚РѕРµ РёРјСЏ!</plain>
         </string>
         <string>
-            <plain>К Тебе я стремлюсь.</plain>
+            <plain>Рљ РўРµР±Рµ СЏ СЃС‚СЂРµРјР»СЋСЃСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Мы для мира со Христом</plain>
+            <plain>РњС‹ РґР»СЏ РјРёСЂР° СЃРѕ РҐСЂРёСЃС‚РѕРј</plain>
         </string>
         <string>
-            <plain>В теле умерли одном,</plain>
+            <plain>Р’ С‚РµР»Рµ СѓРјРµСЂР»Рё РѕРґРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>Но воскресли для добра и славы.</plain>
+            <plain>РќРѕ РІРѕСЃРєСЂРµСЃР»Рё РґР»СЏ РґРѕР±СЂР° Рё СЃР»Р°РІС‹.</plain>
         </string>
         <string>
-            <plain>По земле шагает вся Божья дружная семья,</plain>
+            <plain>РџРѕ Р·РµРјР»Рµ С€Р°РіР°РµС‚ РІСЃСЏ Р‘РѕР¶СЊСЏ РґСЂСѓР¶РЅР°СЏ СЃРµРјСЊСЏ,</plain>
         </string>
         <string>
-            <plain>В сердце нашем- Его вечные уставы.</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РЅР°С€РµРј- Р•РіРѕ РІРµС‡РЅС‹Рµ СѓСЃС‚Р°РІС‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не пугают мрак и тьма,</plain>
+            <plain>РќРµ РїСѓРіР°СЋС‚ РјСЂР°Рє Рё С‚СЊРјР°,</plain>
         </string>
         <string>
-            <plain>Жив Господь, жива душа.</plain>
+            <plain>Р–РёРІ Р“РѕСЃРїРѕРґСЊ, Р¶РёРІР° РґСѓС€Р°.</plain>
         </string>
         <string>
-            <plain>Никакой зверь не ворвётся</plain>
+            <plain>РќРёРєР°РєРѕР№ Р·РІРµСЂСЊ РЅРµ РІРѕСЂРІС‘С‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>В Царство смета. Все по милости Его,</plain>
+            <plain>Р’ Р¦Р°СЂСЃС‚РІРѕ СЃРјРµС‚Р°. Р’СЃРµ РїРѕ РјРёР»РѕСЃС‚Рё Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>Радость, мир лишь от Него,</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ, РјРёСЂ Р»РёС€СЊ РѕС‚ РќРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>Бога славят дети Нового Завета.</plain>
+            <plain>Р‘РѕРіР° СЃР»Р°РІСЏС‚ РґРµС‚Рё РќРѕРІРѕРіРѕ Р—Р°РІРµС‚Р°.</plain>
         </string>
     </verse>
 </psalm>

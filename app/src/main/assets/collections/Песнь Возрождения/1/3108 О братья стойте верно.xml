@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3108" name="О братья стойте верно" canon="false" text="" textRus="" music="">
+<psalm number="3108" name="Рћ Р±СЂР°С‚СЊСЏ СЃС‚РѕР№С‚Рµ РІРµСЂРЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О братья, стойте верно:</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ, СЃС‚РѕР№С‚Рµ РІРµСЂРЅРѕ:</plain>
         </string>
         <string>
-            <plain>скоро нам домой;</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№;</plain>
         </string>
         <string>
-            <plain>хоть дуют сильно ветры:</plain>
+            <plain>С…РѕС‚СЊ РґСѓСЋС‚ СЃРёР»СЊРЅРѕ РІРµС‚СЂС‹:</plain>
         </string>
         <string>
-            <plain>скоро нам домой.</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№.</plain>
         </string>
         <string>
-            <plain>Еще немного времени</plain>
+            <plain>Р•С‰Рµ РЅРµРјРЅРѕРіРѕ РІСЂРµРјРµРЅРё</plain>
         </string>
         <string>
-            <plain>нам крест нести в терпении.</plain>
+            <plain>РЅР°Рј РєСЂРµСЃС‚ РЅРµСЃС‚Рё РІ С‚РµСЂРїРµРЅРёРё.</plain>
         </string>
         <string>
-            <plain>О братья, стойте верно:</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ, СЃС‚РѕР№С‚Рµ РІРµСЂРЅРѕ:</plain>
         </string>
         <string>
-            <plain>скоро нам домой.</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мы Христа увидим,</plain>
+            <plain>РњС‹ РҐСЂРёСЃС‚Р° СѓРІРёРґРёРј,</plain>
         </string>
         <string>
-            <plain>если дома будем.</plain>
+            <plain>РµСЃР»Рё РґРѕРјР° Р±СѓРґРµРј.</plain>
         </string>
         <string>
-            <plain>Братья, стойте верно:</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, СЃС‚РѕР№С‚Рµ РІРµСЂРЅРѕ:</plain>
         </string>
         <string>
-            <plain>скоро нам домой.</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хоть мы страдаем, братья:</plain>
+            <plain>РҐРѕС‚СЊ РјС‹ СЃС‚СЂР°РґР°РµРј, Р±СЂР°С‚СЊСЏ:</plain>
         </string>
         <string>
-            <plain>скоро нам домой;</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№;</plain>
         </string>
         <string>
-            <plain>да, после битвы ратной</plain>
+            <plain>РґР°, РїРѕСЃР»Рµ Р±РёС‚РІС‹ СЂР°С‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>скоро нам домой.</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№.</plain>
         </string>
         <string>
-            <plain>Недолго нам осталось ждать</plain>
+            <plain>РќРµРґРѕР»РіРѕ РЅР°Рј РѕСЃС‚Р°Р»РѕСЃСЊ Р¶РґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>— так будем в вере уповать.</plain>
+            <plain>вЂ” С‚Р°Рє Р±СѓРґРµРј РІ РІРµСЂРµ СѓРїРѕРІР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>О братья, стойте верно:</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ, СЃС‚РѕР№С‚Рµ РІРµСЂРЅРѕ:</plain>
         </string>
         <string>
-            <plain>скоро нам домой.</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№.</plain>
         </string>
         <string>
-            <plain>З О, стойте друг за друга:</plain>
+            <plain>Р— Рћ, СЃС‚РѕР№С‚Рµ РґСЂСѓРі Р·Р° РґСЂСѓРіР°:</plain>
         </string>
         <string>
-            <plain>скоро нам домой;</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№;</plain>
         </string>
         <string>
-            <plain>не угашайте Духа:</plain>
+            <plain>РЅРµ СѓРіР°С€Р°Р№С‚Рµ Р”СѓС…Р°:</plain>
         </string>
         <string>
-            <plain>скоро нам домой.</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№.</plain>
         </string>
         <string>
-            <plain>Немного времени в скорбях</plain>
+            <plain>РќРµРјРЅРѕРіРѕ РІСЂРµРјРµРЅРё РІ СЃРєРѕСЂР±СЏС…</plain>
         </string>
         <string>
-            <plain>- и будет радость в небесах.</plain>
+            <plain>- Рё Р±СѓРґРµС‚ СЂР°РґРѕСЃС‚СЊ РІ РЅРµР±РµСЃР°С….</plain>
         </string>
         <string>
-            <plain>О братья, стойте верно:</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ, СЃС‚РѕР№С‚Рµ РІРµСЂРЅРѕ:</plain>
         </string>
         <string>
-            <plain>скоро нам домой.</plain>
+            <plain>СЃРєРѕСЂРѕ РЅР°Рј РґРѕРјРѕР№.</plain>
         </string>
     </verse>
 </psalm>

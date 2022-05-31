@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="348" name="Призови Христа о грешный" canon="false" text="" textRus="" music="">
+<psalm number="348" name="РџСЂРёР·РѕРІРё РҐСЂРёСЃС‚Р° Рѕ РіСЂРµС€РЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Призови Христа, о грешный</plain>
+            <plain>РџСЂРёР·РѕРІРё РҐСЂРёСЃС‚Р°, Рѕ РіСЂРµС€РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>И несчастный человек!</plain>
+            <plain>Р РЅРµСЃС‡Р°СЃС‚РЅС‹Р№ С‡РµР»РѕРІРµРє!</plain>
         </string>
         <string>
-            <plain>Он придет к тебе поспешно</plain>
+            <plain>РћРЅ РїСЂРёРґРµС‚ Рє С‚РµР±Рµ РїРѕСЃРїРµС€РЅРѕ</plain>
         </string>
         <string>
-            <plain>И Свой мир пошлет вовек.</plain>
+            <plain>Р РЎРІРѕР№ РјРёСЂ РїРѕС€Р»РµС‚ РІРѕРІРµРє.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Наш Христос дает сердцам</plain>
+            <plain>РќР°С€ РҐСЂРёСЃС‚РѕСЃ РґР°РµС‚ СЃРµСЂРґС†Р°Рј</plain>
         </string>
         <string>
-            <plain>Здесь надежду, радость там.</plain>
+            <plain>Р—РґРµСЃСЊ РЅР°РґРµР¶РґСѓ, СЂР°РґРѕСЃС‚СЊ С‚Р°Рј.</plain>
         </string>
         <string>
-            <plain>Наш Христос дает сердцам</plain>
+            <plain>РќР°С€ РҐСЂРёСЃС‚РѕСЃ РґР°РµС‚ СЃРµСЂРґС†Р°Рј</plain>
         </string>
         <string>
-            <plain>Здесь надежду, радость там.</plain>
+            <plain>Р—РґРµСЃСЊ РЅР°РґРµР¶РґСѓ, СЂР°РґРѕСЃС‚СЊ С‚Р°Рј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Имя призови Христово,</plain>
+            <plain>РРјСЏ РїСЂРёР·РѕРІРё РҐСЂРёСЃС‚РѕРІРѕ,</plain>
         </string>
         <string>
-            <plain>Как дитя отца зовет,</plain>
+            <plain>РљР°Рє РґРёС‚СЏ РѕС‚С†Р° Р·РѕРІРµС‚,</plain>
         </string>
         <string>
-            <plain>И Его святое слово</plain>
+            <plain>Р Р•РіРѕ СЃРІСЏС‚РѕРµ СЃР»РѕРІРѕ</plain>
         </string>
         <string>
-            <plain>От погибели спасет.</plain>
+            <plain>РћС‚ РїРѕРіРёР±РµР»Рё СЃРїР°СЃРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дивно имя Иисуса!</plain>
+            <plain>Р”РёРІРЅРѕ РёРјСЏ РРёСЃСѓСЃР°!</plain>
         </string>
         <string>
-            <plain>Сладко сердцу моему;</plain>
+            <plain>РЎР»Р°РґРєРѕ СЃРµСЂРґС†Сѓ РјРѕРµРјСѓ;</plain>
         </string>
         <string>
-            <plain>Я от зла лишь Им креплюся,</plain>
+            <plain>РЇ РѕС‚ Р·Р»Р° Р»РёС€СЊ РРј РєСЂРµРїР»СЋСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Проходя земную тьму.</plain>
+            <plain>РџСЂРѕС…РѕРґСЏ Р·РµРјРЅСѓСЋ С‚СЊРјСѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Вот при имени Христовом</plain>
+            <plain>Р’РѕС‚ РїСЂРё РёРјРµРЅРё РҐСЂРёСЃС‚РѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>В час желанный мы падем</plain>
+            <plain>Р’ С‡Р°СЃ Р¶РµР»Р°РЅРЅС‹Р№ РјС‹ РїР°РґРµРј</plain>
         </string>
         <string>
-            <plain>И на небе славном, новом</plain>
+            <plain>Р РЅР° РЅРµР±Рµ СЃР»Р°РІРЅРѕРј, РЅРѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Возгласим Его царем.</plain>
+            <plain>Р’РѕР·РіР»Р°СЃРёРј Р•РіРѕ С†Р°СЂРµРј.</plain>
         </string>
     </verse>
 </psalm>

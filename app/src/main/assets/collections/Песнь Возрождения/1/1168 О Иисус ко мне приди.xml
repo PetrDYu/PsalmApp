@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1168" name="О Иисус ко мне приди" canon="false" text="" textRus="" music="">
+<psalm number="1168" name="Рћ РРёСЃСѓСЃ РєРѕ РјРЅРµ РїСЂРёРґРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, Иисус, ко мне приди!</plain>
+            <plain>Рћ, РРёСЃСѓСЃ, РєРѕ РјРЅРµ РїСЂРёРґРё!</plain>
         </string>
         <string>
-            <plain>Будь со мною впереди,</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕСЋ РІРїРµСЂРµРґРё,</plain>
         </string>
         <string>
-            <plain>Окружи меня вокруг,</plain>
+            <plain>РћРєСЂСѓР¶Рё РјРµРЅСЏ РІРѕРєСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>О, приди, мой лучший Друг.</plain>
+            <plain>Рћ, РїСЂРёРґРё, РјРѕР№ Р»СѓС‡С€РёР№ Р”СЂСѓРі.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, приди, о, приди, о, приди,</plain>
+            <plain>Рћ, РїСЂРёРґРё, Рѕ, РїСЂРёРґРё, Рѕ, РїСЂРёРґРё,</plain>
         </string>
         <string>
-            <plain>Мой лучший Друг.</plain>
+            <plain>РњРѕР№ Р»СѓС‡С€РёР№ Р”СЂСѓРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, как жажду я Тебя,</plain>
+            <plain>Рћ, РєР°Рє Р¶Р°Р¶РґСѓ СЏ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Как сладка Твоя вода.</plain>
+            <plain>РљР°Рє СЃР»Р°РґРєР° РўРІРѕСЏ РІРѕРґР°.</plain>
         </string>
         <string>
-            <plain>Призываю я Тебя:</plain>
+            <plain>РџСЂРёР·С‹РІР°СЋ СЏ РўРµР±СЏ:</plain>
         </string>
         <string>
-            <plain>Будь со мною навсегда.</plain>
+            <plain>Р‘СѓРґСЊ СЃРѕ РјРЅРѕСЋ РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В развлеченьях счастья нет,</plain>
+            <plain>Р’ СЂР°Р·РІР»РµС‡РµРЅСЊСЏС… СЃС‡Р°СЃС‚СЊСЏ РЅРµС‚,</plain>
         </string>
         <string>
-            <plain>В них погибель, а не свет.</plain>
+            <plain>Р’ РЅРёС… РїРѕРіРёР±РµР»СЊ, Р° РЅРµ СЃРІРµС‚.</plain>
         </string>
         <string>
-            <plain>Пребывание Твое</plain>
+            <plain>РџСЂРµР±С‹РІР°РЅРёРµ РўРІРѕРµ</plain>
         </string>
         <string>
-            <plain>- вот желание мое!</plain>
+            <plain>- РІРѕС‚ Р¶РµР»Р°РЅРёРµ РјРѕРµ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Не открою никому дверь,</plain>
+            <plain>РќРµ РѕС‚РєСЂРѕСЋ РЅРёРєРѕРјСѓ РґРІРµСЂСЊ,</plain>
         </string>
         <string>
-            <plain>И в сердце не приму.</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ РЅРµ РїСЂРёРјСѓ.</plain>
         </string>
         <string>
-            <plain>Лишь Тебе открою дверь.</plain>
+            <plain>Р›РёС€СЊ РўРµР±Рµ РѕС‚РєСЂРѕСЋ РґРІРµСЂСЊ.</plain>
         </string>
         <string>
-            <plain>О, войди, Христос, теперь!</plain>
+            <plain>Рћ, РІРѕР№РґРё, РҐСЂРёСЃС‚РѕСЃ, С‚РµРїРµСЂСЊ!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Называю одного</plain>
+            <plain>РќР°Р·С‹РІР°СЋ РѕРґРЅРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>Лишь Тебя своим Вождем.</plain>
+            <plain>Р›РёС€СЊ РўРµР±СЏ СЃРІРѕРёРј Р’РѕР¶РґРµРј.</plain>
         </string>
         <string>
-            <plain>Будь для сердца моего,</plain>
+            <plain>Р‘СѓРґСЊ РґР»СЏ СЃРµСЂРґС†Р° РјРѕРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>Агнец страждущий, Царем!</plain>
+            <plain>РђРіРЅРµС† СЃС‚СЂР°Р¶РґСѓС‰РёР№, Р¦Р°СЂРµРј!</plain>
         </string>
     </verse>
 </psalm>

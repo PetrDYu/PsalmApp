@@ -1,118 +1,118 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3103" name="Пусть ввысь несется песнь хвалы" canon="false" text="" textRus="" music="">
+<psalm number="3103" name="РџСѓСЃС‚СЊ РІРІС‹СЃСЊ РЅРµСЃРµС‚СЃСЏ РїРµСЃРЅСЊ С…РІР°Р»С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пусть ввысь несется песнь хвалы,</plain>
+            <plain>РџСѓСЃС‚СЊ РІРІС‹СЃСЊ РЅРµСЃРµС‚СЃСЏ РїРµСЃРЅСЊ С…РІР°Р»С‹,</plain>
         </string>
         <string>
-            <plain>Господа славьте все!</plain>
+            <plain>Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЊС‚Рµ РІСЃРµ!</plain>
         </string>
         <string>
-            <plain>Он спас нас от греховной тьмы:</plain>
+            <plain>РћРЅ СЃРїР°СЃ РЅР°СЃ РѕС‚ РіСЂРµС…РѕРІРЅРѕР№ С‚СЊРјС‹:</plain>
         </string>
         <string>
-            <plain>славьте все Его!</plain>
+            <plain>СЃР»Р°РІСЊС‚Рµ РІСЃРµ Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>Пришел Он с посохом в руке</plain>
+            <plain>РџСЂРёС€РµР» РћРЅ СЃ РїРѕСЃРѕС…РѕРј РІ СЂСѓРєРµ</plain>
         </string>
         <string>
-            <plain>к погибшим овцам на земле,</plain>
+            <plain>Рє РїРѕРіРёР±С€РёРј РѕРІС†Р°Рј РЅР° Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>жизнь вечную дал нам в удел.</plain>
+            <plain>Р¶РёР·РЅСЊ РІРµС‡РЅСѓСЋ РґР°Р» РЅР°Рј РІ СѓРґРµР».</plain>
         </string>
         <string>
-            <plain>Славьте все Его!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ РІСЃРµ Р•РіРѕ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господа прославьте все!</plain>
+            <plain>Р“РѕСЃРїРѕРґР° РїСЂРѕСЃР»Р°РІСЊС‚Рµ РІСЃРµ!</plain>
         </string>
         <string>
-            <plain>Господа прославьте все!</plain>
+            <plain>Р“РѕСЃРїРѕРґР° РїСЂРѕСЃР»Р°РІСЊС‚Рµ РІСЃРµ!</plain>
         </string>
         <string>
-            <plain>Славьте все Его!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ РІСЃРµ Р•РіРѕ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Смирись пред Ним, земли народ!</plain>
+            <plain>РЎРјРёСЂРёСЃСЊ РїСЂРµРґ РќРёРј, Р·РµРјР»Рё РЅР°СЂРѕРґ!</plain>
         </string>
         <string>
-            <plain>Господа славьте все!</plain>
+            <plain>Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЊС‚Рµ РІСЃРµ!</plain>
         </string>
         <string>
-            <plain>Он нежным голосом зовет,</plain>
+            <plain>РћРЅ РЅРµР¶РЅС‹Рј РіРѕР»РѕСЃРѕРј Р·РѕРІРµС‚,</plain>
         </string>
         <string>
-            <plain>- славьте все Его!</plain>
+            <plain>- СЃР»Р°РІСЊС‚Рµ РІСЃРµ Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>- в одно от стадо соберет,</plain>
+            <plain>- РІ РѕРґРЅРѕ РѕС‚ СЃС‚Р°РґРѕ СЃРѕР±РµСЂРµС‚,</plain>
         </string>
         <string>
-            <plain>кого лукавый враг гнетет,</plain>
+            <plain>РєРѕРіРѕ Р»СѓРєР°РІС‹Р№ РІСЂР°Рі РіРЅРµС‚РµС‚,</plain>
         </string>
         <string>
-            <plain>Он щедро пищу всем дает.</plain>
+            <plain>РћРЅ С‰РµРґСЂРѕ РїРёС‰Сѓ РІСЃРµРј РґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Славьте все Его!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ РІСЃРµ Р•РіРѕ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Омыл Он сердце от греха,</plain>
+            <plain>РћРјС‹Р» РћРЅ СЃРµСЂРґС†Рµ РѕС‚ РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>Господа славьте все!</plain>
+            <plain>Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЊС‚Рµ РІСЃРµ!</plain>
         </string>
         <string>
-            <plain>Свободен, счастлив ныне я,</plain>
+            <plain>РЎРІРѕР±РѕРґРµРЅ, СЃС‡Р°СЃС‚Р»РёРІ РЅС‹РЅРµ СЏ,</plain>
         </string>
         <string>
-            <plain>славьте все Его!</plain>
+            <plain>СЃР»Р°РІСЊС‚Рµ РІСЃРµ Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>Все ближе к Богу Он ведет,</plain>
+            <plain>Р’СЃРµ Р±Р»РёР¶Рµ Рє Р‘РѕРіСѓ РћРЅ РІРµРґРµС‚,</plain>
         </string>
         <string>
-            <plain>мне чашу радости дает</plain>
+            <plain>РјРЅРµ С‡Р°С€Сѓ СЂР°РґРѕСЃС‚Рё РґР°РµС‚</plain>
         </string>
         <string>
-            <plain>и через край в нее Он льет.</plain>
+            <plain>Рё С‡РµСЂРµР· РєСЂР°Р№ РІ РЅРµРµ РћРЅ Р»СЊРµС‚.</plain>
         </string>
         <string>
-            <plain>Славьте Его!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ Р•РіРѕ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Он шаг за шагом нас ведет,</plain>
+            <plain>РћРЅ С€Р°Рі Р·Р° С€Р°РіРѕРј РЅР°СЃ РІРµРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Господа славьте все!</plain>
+            <plain>Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЊС‚Рµ РІСЃРµ!</plain>
         </string>
         <string>
-            <plain>Он с нами до конца пойдет,</plain>
+            <plain>РћРЅ СЃ РЅР°РјРё РґРѕ РєРѕРЅС†Р° РїРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>славьте все Его!</plain>
+            <plain>СЃР»Р°РІСЊС‚Рµ РІСЃРµ Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>Ведет к престолу Он Отца,</plain>
+            <plain>Р’РµРґРµС‚ Рє РїСЂРµСЃС‚РѕР»Сѓ РћРЅ РћС‚С†Р°,</plain>
         </string>
         <string>
-            <plain>где удостоит нас венца,</plain>
+            <plain>РіРґРµ СѓРґРѕСЃС‚РѕРёС‚ РЅР°СЃ РІРµРЅС†Р°,</plain>
         </string>
         <string>
-            <plain>коль будем верны до конца.</plain>
+            <plain>РєРѕР»СЊ Р±СѓРґРµРј РІРµСЂРЅС‹ РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
         <string>
-            <plain>Славьте Его!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ Р•РіРѕ!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2060" name="В печали и скорби идёшь ты" canon="false" text="" textRus="" music="">
+<psalm number="2060" name="Р’ РїРµС‡Р°Р»Рё Рё СЃРєРѕСЂР±Рё РёРґС‘С€СЊ С‚С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В печали и скорби идёшь ты</plain>
+            <plain>Р’ РїРµС‡Р°Р»Рё Рё СЃРєРѕСЂР±Рё РёРґС‘С€СЊ С‚С‹</plain>
         </string>
         <string>
-            <plain>Долиной тернистой земной,</plain>
+            <plain>Р”РѕР»РёРЅРѕР№ С‚РµСЂРЅРёСЃС‚РѕР№ Р·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>И слезы рекой часто льются,</plain>
+            <plain>Р СЃР»РµР·С‹ СЂРµРєРѕР№ С‡Р°СЃС‚Рѕ Р»СЊСЋС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Идя к небесам в дом родной.</plain>
+            <plain>РРґСЏ Рє РЅРµР±РµСЃР°Рј РІ РґРѕРј СЂРѕРґРЅРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Зачем унывать и томиться?</plain>
+            <plain>Р—Р°С‡РµРј СѓРЅС‹РІР°С‚СЊ Рё С‚РѕРјРёС‚СЊСЃСЏ?</plain>
         </string>
         <string>
-            <plain>Зачем нам так часто страдать?</plain>
+            <plain>Р—Р°С‡РµРј РЅР°Рј С‚Р°Рє С‡Р°СЃС‚Рѕ СЃС‚СЂР°РґР°С‚СЊ?</plain>
         </string>
         <string>
-            <plain>Сильнее нам нужно молиться,</plain>
+            <plain>РЎРёР»СЊРЅРµРµ РЅР°Рј РЅСѓР¶РЅРѕ РјРѕР»РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Ответа с терпением ждать.</plain>
+            <plain>РћС‚РІРµС‚Р° СЃ С‚РµСЂРїРµРЅРёРµРј Р¶РґР°С‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты слез не стыдись, коль бывают</plain>
+            <plain>РўС‹ СЃР»РµР· РЅРµ СЃС‚С‹РґРёСЃСЊ, РєРѕР»СЊ Р±С‹РІР°СЋС‚</plain>
         </string>
         <string>
-            <plain>Они иногда на глазах,</plain>
+            <plain>РћРЅРё РёРЅРѕРіРґР° РЅР° РіР»Р°Р·Р°С…,</plain>
         </string>
         <string>
-            <plain>Их многие не понимают</plain>
+            <plain>РС… РјРЅРѕРіРёРµ РЅРµ РїРѕРЅРёРјР°СЋС‚</plain>
         </string>
         <string>
-            <plain>В своих зачерствелых сердцах.</plain>
+            <plain>Р’ СЃРІРѕРёС… Р·Р°С‡РµСЂСЃС‚РІРµР»С‹С… СЃРµСЂРґС†Р°С….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Заплачешь - и легче вдруг станет,</plain>
+            <plain>Р—Р°РїР»Р°С‡РµС€СЊ - Рё Р»РµРіС‡Рµ РІРґСЂСѓРі СЃС‚Р°РЅРµС‚,</plain>
         </string>
         <string>
-            <plain>Как камень с груди упадёт.</plain>
+            <plain>РљР°Рє РєР°РјРµРЅСЊ СЃ РіСЂСѓРґРё СѓРїР°РґС‘С‚.</plain>
         </string>
         <string>
-            <plain>О, верь, скоро час тот настанет,</plain>
+            <plain>Рћ, РІРµСЂСЊ, СЃРєРѕСЂРѕ С‡Р°СЃ С‚РѕС‚ РЅР°СЃС‚Р°РЅРµС‚,</plain>
         </string>
         <string>
-            <plain>Когда слёзы Спаситель отрёт.</plain>
+            <plain>РљРѕРіРґР° СЃР»С‘Р·С‹ РЎРїР°СЃРёС‚РµР»СЊ РѕС‚СЂС‘С‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Отдай всё Христу на служенье</plain>
+            <plain>РћС‚РґР°Р№ РІСЃС‘ РҐСЂРёСЃС‚Сѓ РЅР° СЃР»СѓР¶РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И крест свой неси до конца,</plain>
+            <plain>Р РєСЂРµСЃС‚ СЃРІРѕР№ РЅРµСЃРё РґРѕ РєРѕРЅС†Р°,</plain>
         </string>
         <string>
-            <plain>Направь к небесам все стремленья,</plain>
+            <plain>РќР°РїСЂР°РІСЊ Рє РЅРµР±РµСЃР°Рј РІСЃРµ СЃС‚СЂРµРјР»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Служи Христу до конца.</plain>
+            <plain>РЎР»СѓР¶Рё РҐСЂРёСЃС‚Сѓ РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
 </psalm>

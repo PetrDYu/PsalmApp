@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2845" name="Есть для тебя надежды луч" canon="false" text="" textRus="" music="">
+<psalm number="2845" name="Р•СЃС‚СЊ РґР»СЏ С‚РµР±СЏ РЅР°РґРµР¶РґС‹ Р»СѓС‡" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Есть для тебя надежды луч,</plain>
+            <plain>Р•СЃС‚СЊ РґР»СЏ С‚РµР±СЏ РЅР°РґРµР¶РґС‹ Р»СѓС‡,</plain>
         </string>
         <string>
-            <plain>несчастная душа:</plain>
+            <plain>РЅРµСЃС‡Р°СЃС‚РЅР°СЏ РґСѓС€Р°:</plain>
         </string>
         <string>
-            <plain>взгляни на крест узри Того,</plain>
+            <plain>РІР·РіР»СЏРЅРё РЅР° РєСЂРµСЃС‚ СѓР·СЂРё РўРѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>кто умер за тебя.</plain>
+            <plain>РєС‚Рѕ СѓРјРµСЂ Р·Р° С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Путь всем открыт, путь к небесам открыт,</plain>
+            <plain>РџСѓС‚СЊ РІСЃРµРј РѕС‚РєСЂС‹С‚, РїСѓС‚СЊ Рє РЅРµР±РµСЃР°Рј РѕС‚РєСЂС‹С‚,</plain>
         </string>
         <string>
-            <plain>светит надежды луч с небес тебе.</plain>
+            <plain>СЃРІРµС‚РёС‚ РЅР°РґРµР¶РґС‹ Р»СѓС‡ СЃ РЅРµР±РµСЃ С‚РµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Ныне приди, ныне к Нему приди,</plain>
+            <plain>РќС‹РЅРµ РїСЂРёРґРё, РЅС‹РЅРµ Рє РќРµРјСѓ РїСЂРёРґРё,</plain>
         </string>
         <string>
-            <plain>верь и живи вовеки во Христе!</plain>
+            <plain>РІРµСЂСЊ Рё Р¶РёРІРё РІРѕРІРµРєРё РІРѕ РҐСЂРёСЃС‚Рµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Смотри, унылая душа, и знай:</plain>
+            <plain>РЎРјРѕС‚СЂРё, СѓРЅС‹Р»Р°СЏ РґСѓС€Р°, Рё Р·РЅР°Р№:</plain>
         </string>
         <string>
-            <plain>Бог есть любовь!</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ!</plain>
         </string>
         <string>
-            <plain>Ведь на Голгофе за тебя</plain>
+            <plain>Р’РµРґСЊ РЅР° Р“РѕР»РіРѕС„Рµ Р·Р° С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>Сын пролил Свою кровь!</plain>
+            <plain>РЎС‹РЅ РїСЂРѕР»РёР» РЎРІРѕСЋ РєСЂРѕРІСЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хоть ты томим виной,</plain>
+            <plain>РҐРѕС‚СЊ С‚С‹ С‚РѕРјРёРј РІРёРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>стыдом, и сердце как гранит,</plain>
+            <plain>СЃС‚С‹РґРѕРј, Рё СЃРµСЂРґС†Рµ РєР°Рє РіСЂР°РЅРёС‚,</plain>
         </string>
         <string>
-            <plain>если раскаешься в грехах,</plain>
+            <plain>РµСЃР»Рё СЂР°СЃРєР°РµС€СЊСЃСЏ РІ РіСЂРµС…Р°С…,</plain>
         </string>
         <string>
-            <plain>Он все тебе простит.</plain>
+            <plain>РћРЅ РІСЃРµ С‚РµР±Рµ РїСЂРѕСЃС‚РёС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хоть угнетает грех тебя</plain>
+            <plain>РҐРѕС‚СЊ СѓРіРЅРµС‚Р°РµС‚ РіСЂРµС… С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>и смерть грозит, и ад,</plain>
+            <plain>Рё СЃРјРµСЂС‚СЊ РіСЂРѕР·РёС‚, Рё Р°Рґ,</plain>
         </string>
         <string>
-            <plain>- Господь тебе в Своей любви</plain>
+            <plain>- Р“РѕСЃРїРѕРґСЊ С‚РµР±Рµ РІ РЎРІРѕРµР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>спасенье хочет дать.</plain>
+            <plain>СЃРїР°СЃРµРЅСЊРµ С…РѕС‡РµС‚ РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О бедная душа в грехах,</plain>
+            <plain>Рћ Р±РµРґРЅР°СЏ РґСѓС€Р° РІ РіСЂРµС…Р°С…,</plain>
         </string>
         <string>
-            <plain>гонимая врагом,</plain>
+            <plain>РіРѕРЅРёРјР°СЏ РІСЂР°РіРѕРј,</plain>
         </string>
         <string>
-            <plain>- Бог есть любовь,</plain>
+            <plain>- Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>приди к Нему,</plain>
+            <plain>РїСЂРёРґРё Рє РќРµРјСѓ,</plain>
         </string>
         <string>
-            <plain>спасение лишь в Нем!</plain>
+            <plain>СЃРїР°СЃРµРЅРёРµ Р»РёС€СЊ РІ РќРµРј!</plain>
         </string>
     </verse>
 </psalm>

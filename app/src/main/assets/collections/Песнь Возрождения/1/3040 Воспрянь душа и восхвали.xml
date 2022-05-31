@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3040" name="Воспрянь душа и восхвали" canon="false" text="" textRus="" music="">
+<psalm number="3040" name="Р’РѕСЃРїСЂСЏРЅСЊ РґСѓС€Р° Рё РІРѕСЃС…РІР°Р»Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Воспрянь, душа, и восхвали</plain>
+            <plain>Р’РѕСЃРїСЂСЏРЅСЊ, РґСѓС€Р°, Рё РІРѕСЃС…РІР°Р»Рё</plain>
         </string>
         <string>
-            <plain>Иисуса в этот час:</plain>
+            <plain>РРёСЃСѓСЃР° РІ СЌС‚РѕС‚ С‡Р°СЃ:</plain>
         </string>
         <string>
-            <plain>меня Господь усыновил</plain>
+            <plain>РјРµРЅСЏ Р“РѕСЃРїРѕРґСЊ СѓСЃС‹РЅРѕРІРёР»</plain>
         </string>
         <string>
-            <plain>и от неволи спас!</plain>
+            <plain>Рё РѕС‚ РЅРµРІРѕР»Рё СЃРїР°СЃ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господа славьте в стихах,</plain>
+            <plain>Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЊС‚Рµ РІ СЃС‚РёС…Р°С…,</plain>
         </string>
         <string>
-            <plain>Господа славьте в делах,</plain>
+            <plain>Р“РѕСЃРїРѕРґР° СЃР»Р°РІСЊС‚Рµ РІ РґРµР»Р°С…,</plain>
         </string>
         <string>
-            <plain>в песнях Его прославляйте!</plain>
+            <plain>РІ РїРµСЃРЅСЏС… Р•РіРѕ РїСЂРѕСЃР»Р°РІР»СЏР№С‚Рµ!</plain>
         </string>
         <string>
-            <plain>Господь - наш Спаситель в веках!</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ - РЅР°С€ РЎРїР°СЃРёС‚РµР»СЊ РІ РІРµРєР°С…!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Создатель мой - извечный Бог,</plain>
+            <plain>РЎРѕР·РґР°С‚РµР»СЊ РјРѕР№ - РёР·РІРµС‡РЅС‹Р№ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>мне жизнь Он даровал;</plain>
+            <plain>РјРЅРµ Р¶РёР·РЅСЊ РћРЅ РґР°СЂРѕРІР°Р»;</plain>
         </string>
         <string>
-            <plain>Он истину найти помог,</plain>
+            <plain>РћРЅ РёСЃС‚РёРЅСѓ РЅР°Р№С‚Рё РїРѕРјРѕРі,</plain>
         </string>
         <string>
-            <plain>меня Он оправдал.</plain>
+            <plain>РјРµРЅСЏ РћРЅ РѕРїСЂР°РІРґР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Живёт в моей душе Христос,</plain>
+            <plain>Р–РёРІС‘С‚ РІ РјРѕРµР№ РґСѓС€Рµ РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Он мир в меня вселил,</plain>
+            <plain>РћРЅ РјРёСЂ РІ РјРµРЅСЏ РІСЃРµР»РёР»,</plain>
         </string>
         <string>
-            <plain>и благодать Он мне принёс,</plain>
+            <plain>Рё Р±Р»Р°РіРѕРґР°С‚СЊ РћРЅ РјРЅРµ РїСЂРёРЅС‘СЃ,</plain>
         </string>
         <string>
-            <plain>любовью окружил.</plain>
+            <plain>Р»СЋР±РѕРІСЊСЋ РѕРєСЂСѓР¶РёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хоть жизнь моя и коротка,</plain>
+            <plain>РҐРѕС‚СЊ Р¶РёР·РЅСЊ РјРѕСЏ Рё РєРѕСЂРѕС‚РєР°,</plain>
         </string>
         <string>
-            <plain>но вечно буду с Ним;</plain>
+            <plain>РЅРѕ РІРµС‡РЅРѕ Р±СѓРґСѓ СЃ РќРёРј;</plain>
         </string>
         <string>
-            <plain>борьба порою не легка,</plain>
+            <plain>Р±РѕСЂСЊР±Р° РїРѕСЂРѕСЋ РЅРµ Р»РµРіРєР°,</plain>
         </string>
         <string>
-            <plain>но я Христом храним.</plain>
+            <plain>РЅРѕ СЏ РҐСЂРёСЃС‚РѕРј С…СЂР°РЅРёРј.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Воспрянь, душа, и восхвали</plain>
+            <plain>Р’РѕСЃРїСЂСЏРЅСЊ, РґСѓС€Р°, Рё РІРѕСЃС…РІР°Р»Рё</plain>
         </string>
         <string>
-            <plain>любовь ко мне Христа,</plain>
+            <plain>Р»СЋР±РѕРІСЊ РєРѕ РјРЅРµ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>и с ликованьем возвести,</plain>
+            <plain>Рё СЃ Р»РёРєРѕРІР°РЅСЊРµРј РІРѕР·РІРµСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>что ты чрез кровь чиста!</plain>
+            <plain>С‡С‚Рѕ С‚С‹ С‡СЂРµР· РєСЂРѕРІСЊ С‡РёСЃС‚Р°!</plain>
         </string>
     </verse>
 </psalm>

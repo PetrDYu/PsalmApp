@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="30" name="Не пройди Иисус меня Ты" canon="false" text="" textRus="" music="">
+<psalm number="30" name="РќРµ РїСЂРѕР№РґРё РРёСЃСѓСЃ РјРµРЅСЏ РўС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не пройди, Иисус, меня Ты,</plain>
+            <plain>РќРµ РїСЂРѕР№РґРё, РРёСЃСѓСЃ, РјРµРЅСЏ РўС‹,</plain>
         </string>
         <string>
-            <plain>Дух не осеня!</plain>
+            <plain>Р”СѓС… РЅРµ РѕСЃРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Слыша люд, мольбой объятый,</plain>
+            <plain>РЎР»С‹С€Р° Р»СЋРґ, РјРѕР»СЊР±РѕР№ РѕР±СЉСЏС‚С‹Р№,</plain>
         </string>
         <string>
-            <plain>Не пройди меня.</plain>
+            <plain>РќРµ РїСЂРѕР№РґРё РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Боже! Боже!</plain>
+            <plain>Р‘РѕР¶Рµ! Р‘РѕР¶Рµ!</plain>
         </string>
         <string>
-            <plain>О, услышь меня!</plain>
+            <plain>Рћ, СѓСЃР»С‹С€СЊ РјРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Слыша люд, мольбой объятый,</plain>
+            <plain>РЎР»С‹С€Р° Р»СЋРґ, РјРѕР»СЊР±РѕР№ РѕР±СЉСЏС‚С‹Р№,</plain>
         </string>
         <string>
-            <plain>Не пройди меня.</plain>
+            <plain>РќРµ РїСЂРѕР№РґРё РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дай у трона пред Тобою</plain>
+            <plain>Р”Р°Р№ Сѓ С‚СЂРѕРЅР° РїСЂРµРґ РўРѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Мне найти бальзам;</plain>
+            <plain>РњРЅРµ РЅР°Р№С‚Рё Р±Р°Р»СЊР·Р°Рј;</plain>
         </string>
         <string>
-            <plain>Я простерт теперь душою,</plain>
+            <plain>РЇ РїСЂРѕСЃС‚РµСЂС‚ С‚РµРїРµСЂСЊ РґСѓС€РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Помоги мне Сам.</plain>
+            <plain>РџРѕРјРѕРіРё РјРЅРµ РЎР°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Полагаюсь на Тебя я,</plain>
+            <plain>РџРѕР»Р°РіР°СЋСЃСЊ РЅР° РўРµР±СЏ СЏ,</plain>
         </string>
         <string>
-            <plain>Лик ищу я Твой;</plain>
+            <plain>Р›РёРє РёС‰Сѓ СЏ РўРІРѕР№;</plain>
         </string>
         <string>
-            <plain>Исцели мой дух, спасая</plain>
+            <plain>РСЃС†РµР»Рё РјРѕР№ РґСѓС…, СЃРїР°СЃР°СЏ</plain>
         </string>
         <string>
-            <plain>Милостью святой.</plain>
+            <plain>РњРёР»РѕСЃС‚СЊСЋ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты - источник утешенья,</plain>
+            <plain>РўС‹ - РёСЃС‚РѕС‡РЅРёРє СѓС‚РµС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Лучше всяких благ;</plain>
+            <plain>Р›СѓС‡С€Рµ РІСЃСЏРєРёС… Р±Р»Р°Рі;</plain>
         </string>
         <string>
-            <plain>Друг мой - Ты, как в мире тленья,</plain>
+            <plain>Р”СЂСѓРі РјРѕР№ - РўС‹, РєР°Рє РІ РјРёСЂРµ С‚Р»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Так и в небесах.</plain>
+            <plain>РўР°Рє Рё РІ РЅРµР±РµСЃР°С….</plain>
         </string>
     </verse>
 </psalm>

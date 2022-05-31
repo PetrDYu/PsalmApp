@@ -1,92 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="241" name="Буря Господь завывает" canon="false" text="" textRus="" music="">
+<psalm number="241" name="Р‘СѓСЂСЏ Р“РѕСЃРїРѕРґСЊ Р·Р°РІС‹РІР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Буря, Господь, завывает,</plain>
+            <plain>Р‘СѓСЂСЏ, Р“РѕСЃРїРѕРґСЊ, Р·Р°РІС‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Как страшен сердитый гул!</plain>
+            <plain>РљР°Рє СЃС‚СЂР°С€РµРЅ СЃРµСЂРґРёС‚С‹Р№ РіСѓР»!</plain>
         </string>
         <string>
-            <plain>Туча нам свет застилает,</plain>
+            <plain>РўСѓС‡Р° РЅР°Рј СЃРІРµС‚ Р·Р°СЃС‚РёР»Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Мы гибнем, а Ты заснул.</plain>
+            <plain>РњС‹ РіРёР±РЅРµРј, Р° РўС‹ Р·Р°СЃРЅСѓР».</plain>
         </string>
         <string>
-            <plain>Или Тебя не тревожит,</plain>
+            <plain>РР»Рё РўРµР±СЏ РЅРµ С‚СЂРµРІРѕР¶РёС‚,</plain>
         </string>
         <string>
-            <plain>Что смерть окружает нас?</plain>
+            <plain>Р§С‚Рѕ СЃРјРµСЂС‚СЊ РѕРєСЂСѓР¶Р°РµС‚ РЅР°СЃ?</plain>
         </string>
         <string>
-            <plain>Грозный вал наступает и может</plain>
+            <plain>Р“СЂРѕР·РЅС‹Р№ РІР°Р» РЅР°СЃС‚СѓРїР°РµС‚ Рё РјРѕР¶РµС‚</plain>
         </string>
         <string>
-            <plain>Ладью поглотить тотчас.</plain>
+            <plain>Р›Р°РґСЊСЋ РїРѕРіР»РѕС‚РёС‚СЊ С‚РѕС‚С‡Р°СЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Не даст Он Всесильный погибнуть нам.</plain>
+            <plain>РќРµ РґР°СЃС‚ РћРЅ Р’СЃРµСЃРёР»СЊРЅС‹Р№ РїРѕРіРёР±РЅСѓС‚СЊ РЅР°Рј.</plain>
         </string>
         <string>
-            <plain>"Услышат волны и ветер Мой глас,</plain>
+            <plain>"РЈСЃР»С‹С€Р°С‚ РІРѕР»РЅС‹ Рё РІРµС‚РµСЂ РњРѕР№ РіР»Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Умолкнут тотчас".</plain>
+            <plain>РЈРјРѕР»РєРЅСѓС‚ С‚РѕС‚С‡Р°СЃ".</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Боже, в глубокой печали</plain>
+            <plain>Р‘РѕР¶Рµ, РІ РіР»СѓР±РѕРєРѕР№ РїРµС‡Р°Р»Рё</plain>
         </string>
         <string>
-            <plain>Склоняю главу мою,</plain>
+            <plain>РЎРєР»РѕРЅСЏСЋ РіР»Р°РІСѓ РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Душу грехи взволновали,</plain>
+            <plain>Р”СѓС€Сѓ РіСЂРµС…Рё РІР·РІРѕР»РЅРѕРІР°Р»Рё,</plain>
         </string>
         <string>
-            <plain>Спаси, о спаси, молю.</plain>
+            <plain>РЎРїР°СЃРё, Рѕ СЃРїР°СЃРё, РјРѕР»СЋ.</plain>
         </string>
         <string>
-            <plain>Сердце мое заливают</plain>
+            <plain>РЎРµСЂРґС†Рµ РјРѕРµ Р·Р°Р»РёРІР°СЋС‚</plain>
         </string>
         <string>
-            <plain>Потоки земных скорбей;</plain>
+            <plain>РџРѕС‚РѕРєРё Р·РµРјРЅС‹С… СЃРєРѕСЂР±РµР№;</plain>
         </string>
         <string>
-            <plain>О, я гибну, к Тебе я взываю,</plain>
+            <plain>Рћ, СЏ РіРёР±РЅСѓ, Рє РўРµР±Рµ СЏ РІР·С‹РІР°СЋ,</plain>
         </string>
         <string>
-            <plain>Покой дай душе моей!</plain>
+            <plain>РџРѕРєРѕР№ РґР°Р№ РґСѓС€Рµ РјРѕРµР№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Буря, Господь миновала,</plain>
+            <plain>Р‘СѓСЂСЏ, Р“РѕСЃРїРѕРґСЊ РјРёРЅРѕРІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>И в сердце настал покой!</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ РЅР°СЃС‚Р°Р» РїРѕРєРѕР№!</plain>
         </string>
         <string>
-            <plain>Солнце опять засияло</plain>
+            <plain>РЎРѕР»РЅС†Рµ РѕРїСЏС‚СЊ Р·Р°СЃРёСЏР»Рѕ</plain>
         </string>
         <string>
-            <plain>Над стихнувшей вдруг водой.</plain>
+            <plain>РќР°Рґ СЃС‚РёС…РЅСѓРІС€РµР№ РІРґСЂСѓРі РІРѕРґРѕР№.</plain>
         </string>
         <string>
-            <plain>Будь же со мною, Спаситель!</plain>
+            <plain>Р‘СѓРґСЊ Р¶Рµ СЃРѕ РјРЅРѕСЋ, РЎРїР°СЃРёС‚РµР»СЊ!</plain>
         </string>
         <string>
-            <plain>Твой мир Ты во мне храни</plain>
+            <plain>РўРІРѕР№ РјРёСЂ РўС‹ РІРѕ РјРЅРµ С…СЂР°РЅРё</plain>
         </string>
         <string>
-            <plain>И в небесную Божью обитель</plain>
+            <plain>Р РІ РЅРµР±РµСЃРЅСѓСЋ Р‘РѕР¶СЊСЋ РѕР±РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>На вечный покой прими.</plain>
+            <plain>РќР° РІРµС‡РЅС‹Р№ РїРѕРєРѕР№ РїСЂРёРјРё.</plain>
         </string>
     </verse>
 </psalm>

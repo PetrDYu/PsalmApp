@@ -1,100 +1,100 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2803" name="Свят и чист простор небес" canon="false" text="" textRus="" music="">
+<psalm number="2803" name="РЎРІСЏС‚ Рё С‡РёСЃС‚ РїСЂРѕСЃС‚РѕСЂ РЅРµР±РµСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Свят и чист простор небес,</plain>
+            <plain>РЎРІСЏС‚ Рё С‡РёСЃС‚ РїСЂРѕСЃС‚РѕСЂ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>лишь святых мы встретим здесь.</plain>
+            <plain>Р»РёС€СЊ СЃРІСЏС‚С‹С… РјС‹ РІСЃС‚СЂРµС‚РёРј Р·РґРµСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Грешник в небо не войдет.</plain>
+            <plain>Р“СЂРµС€РЅРёРє РІ РЅРµР±Рѕ РЅРµ РІРѕР№РґРµС‚.</plain>
         </string>
         <string>
-            <plain>Но, однако, ни один</plain>
+            <plain>РќРѕ, РѕРґРЅР°РєРѕ, РЅРё РѕРґРёРЅ</plain>
         </string>
         <string>
-            <plain>праздный лжехристианин</plain>
+            <plain>РїСЂР°Р·РґРЅС‹Р№ Р»Р¶РµС…СЂРёСЃС‚РёР°РЅРёРЅ</plain>
         </string>
         <string>
-            <plain>также в небо не войдет?</plain>
+            <plain>С‚Р°РєР¶Рµ РІ РЅРµР±Рѕ РЅРµ РІРѕР№РґРµС‚?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Грешник в небо не войдет,</plain>
+            <plain>Р“СЂРµС€РЅРёРє РІ РЅРµР±Рѕ РЅРµ РІРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>грешник в небо не войдет!</plain>
+            <plain>РіСЂРµС€РЅРёРє РІ РЅРµР±Рѕ РЅРµ РІРѕР№РґРµС‚!</plain>
         </string>
         <string>
-            <plain>Если ты в грехах умрешь,</plain>
+            <plain>Р•СЃР»Рё С‚С‹ РІ РіСЂРµС…Р°С… СѓРјСЂРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>то проклятье обретешь,</plain>
+            <plain>С‚Рѕ РїСЂРѕРєР»СЏС‚СЊРµ РѕР±СЂРµС‚РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>и ты в небо не войдешь.</plain>
+            <plain>Рё С‚С‹ РІ РЅРµР±Рѕ РЅРµ РІРѕР№РґРµС€СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если жизни колесо</plain>
+            <plain>Р•СЃР»Рё Р¶РёР·РЅРё РєРѕР»РµСЃРѕ</plain>
         </string>
         <string>
-            <plain>для тебя к концу пришло,</plain>
+            <plain>РґР»СЏ С‚РµР±СЏ Рє РєРѕРЅС†Сѓ РїСЂРёС€Р»Рѕ,</plain>
         </string>
         <string>
-            <plain>то куда душа пойдёт?</plain>
+            <plain>С‚Рѕ РєСѓРґР° РґСѓС€Р° РїРѕР№РґС‘С‚?</plain>
         </string>
         <string>
-            <plain>Не живи как раб греха,</plain>
+            <plain>РќРµ Р¶РёРІРё РєР°Рє СЂР°Р± РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>а как ученик Христа,</plain>
+            <plain>Р° РєР°Рє СѓС‡РµРЅРёРє РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>- грешник в небо не войдет.</plain>
+            <plain>- РіСЂРµС€РЅРёРє РІ РЅРµР±Рѕ РЅРµ РІРѕР№РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты без Бога можешь жить,</plain>
+            <plain>РўС‹ Р±РµР· Р‘РѕРіР° РјРѕР¶РµС€СЊ Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>милость Божью отклонить,</plain>
+            <plain>РјРёР»РѕСЃС‚СЊ Р‘РѕР¶СЊСЋ РѕС‚РєР»РѕРЅРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>но душа твоя умрет.</plain>
+            <plain>РЅРѕ РґСѓС€Р° С‚РІРѕСЏ СѓРјСЂРµС‚.</plain>
         </string>
         <string>
-            <plain>Будет путь тебе закрыт</plain>
+            <plain>Р‘СѓРґРµС‚ РїСѓС‚СЊ С‚РµР±Рµ Р·Р°РєСЂС‹С‚</plain>
         </string>
         <string>
-            <plain>- Слово Божье говорит:</plain>
+            <plain>- РЎР»РѕРІРѕ Р‘РѕР¶СЊРµ РіРѕРІРѕСЂРёС‚:</plain>
         </string>
         <string>
-            <plain>«Грешник В небо не войдет».</plain>
+            <plain>В«Р“СЂРµС€РЅРёРє Р’ РЅРµР±Рѕ РЅРµ РІРѕР№РґРµС‚В».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, ужасная судьба</plain>
+            <plain>Рћ, СѓР¶Р°СЃРЅР°СЏ СЃСѓРґСЊР±Р°</plain>
         </string>
         <string>
-            <plain>и утрата велика,</plain>
+            <plain>Рё СѓС‚СЂР°С‚Р° РІРµР»РёРєР°,</plain>
         </string>
         <string>
-            <plain>если ты в грехах умрешь!</plain>
+            <plain>РµСЃР»Рё С‚С‹ РІ РіСЂРµС…Р°С… СѓРјСЂРµС€СЊ!</plain>
         </string>
         <string>
-            <plain>В муках ада не всегда</plain>
+            <plain>Р’ РјСѓРєР°С… Р°РґР° РЅРµ РІСЃРµРіРґР°</plain>
         </string>
         <string>
-            <plain>осознаешь ты тогда,</plain>
+            <plain>РѕСЃРѕР·РЅР°РµС€СЊ С‚С‹ С‚РѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>что ты в небо не войдёшь.</plain>
+            <plain>С‡С‚Рѕ С‚С‹ РІ РЅРµР±Рѕ РЅРµ РІРѕР№РґС‘С€СЊ.</plain>
         </string>
     </verse>
 </psalm>

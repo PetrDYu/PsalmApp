@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="359" name="Мой брат пора уж пробудиться" canon="false" text="" textRus="" music="">
+<psalm number="359" name="РњРѕР№ Р±СЂР°С‚ РїРѕСЂР° СѓР¶ РїСЂРѕР±СѓРґРёС‚СЊСЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мой брат, пора уж пробудиться</plain>
+            <plain>РњРѕР№ Р±СЂР°С‚, РїРѕСЂР° СѓР¶ РїСЂРѕР±СѓРґРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>От сна греха и пустоты!</plain>
+            <plain>РћС‚ СЃРЅР° РіСЂРµС…Р° Рё РїСѓСЃС‚РѕС‚С‹!</plain>
         </string>
         <string>
-            <plain>Христос давно к тебе стучится</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РґР°РІРЅРѕ Рє С‚РµР±Рµ СЃС‚СѓС‡РёС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>И кротко ждет твоей любви.</plain>
+            <plain>Р РєСЂРѕС‚РєРѕ Р¶РґРµС‚ С‚РІРѕРµР№ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Не оттолкни,</plain>
+            <plain>РќРµ РѕС‚С‚РѕР»РєРЅРё,</plain>
         </string>
         <string>
-            <plain>Он кротко ждет твоей любви!</plain>
+            <plain>РћРЅ РєСЂРѕС‚РєРѕ Р¶РґРµС‚ С‚РІРѕРµР№ Р»СЋР±РІРё!</plain>
         </string>
         <string>
-            <plain>И поспеши</plain>
+            <plain>Р РїРѕСЃРїРµС€Рё</plain>
         </string>
         <string>
-            <plain>Скорей, скорей к Нему приди!</plain>
+            <plain>РЎРєРѕСЂРµР№, СЃРєРѕСЂРµР№ Рє РќРµРјСѓ РїСЂРёРґРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он возлюбил любовью вечной,</plain>
+            <plain>РћРЅ РІРѕР·Р»СЋР±РёР» Р»СЋР±РѕРІСЊСЋ РІРµС‡РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>До крестной смерти возлюбил,</plain>
+            <plain>Р”Рѕ РєСЂРµСЃС‚РЅРѕР№ СЃРјРµСЂС‚Рё РІРѕР·Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>Тебя, тебя, мой брат беспечный,</plain>
+            <plain>РўРµР±СЏ, С‚РµР±СЏ, РјРѕР№ Р±СЂР°С‚ Р±РµСЃРїРµС‡РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>От вечной смерти искупил.</plain>
+            <plain>РћС‚ РІРµС‡РЅРѕР№ СЃРјРµСЂС‚Рё РёСЃРєСѓРїРёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Из ран и сердца кровь струилась,</plain>
+            <plain>РР· СЂР°РЅ Рё СЃРµСЂРґС†Р° РєСЂРѕРІСЊ СЃС‚СЂСѓРёР»Р°СЃСЊ,</plain>
         </string>
         <string>
-            <plain>Но как горел любовью взор!</plain>
+            <plain>РќРѕ РєР°Рє РіРѕСЂРµР» Р»СЋР±РѕРІСЊСЋ РІР·РѕСЂ!</plain>
         </string>
         <string>
-            <plain>Мой брат, Он пострадал невинно,</plain>
+            <plain>РњРѕР№ Р±СЂР°С‚, РћРЅ РїРѕСЃС‚СЂР°РґР°Р» РЅРµРІРёРЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Мы заслужили тот позор.</plain>
+            <plain>РњС‹ Р·Р°СЃР»СѓР¶РёР»Рё С‚РѕС‚ РїРѕР·РѕСЂ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Святая кровь все очищает,</plain>
+            <plain>РЎРІСЏС‚Р°СЏ РєСЂРѕРІСЊ РІСЃРµ РѕС‡РёС‰Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Снимает с сердца страшный гнет,</plain>
+            <plain>РЎРЅРёРјР°РµС‚ СЃ СЃРµСЂРґС†Р° СЃС‚СЂР°С€РЅС‹Р№ РіРЅРµС‚,</plain>
         </string>
         <string>
-            <plain>Она всю душу обновляет</plain>
+            <plain>РћРЅР° РІСЃСЋ РґСѓС€Сѓ РѕР±РЅРѕРІР»СЏРµС‚</plain>
         </string>
         <string>
-            <plain>И к тихой пристани ведет.</plain>
+            <plain>Р Рє С‚РёС…РѕР№ РїСЂРёСЃС‚Р°РЅРё РІРµРґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

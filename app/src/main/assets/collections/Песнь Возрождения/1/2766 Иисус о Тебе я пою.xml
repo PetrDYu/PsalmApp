@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2766" name="Иисус о Тебе я пою" canon="false" text="" textRus="" music="">
+<psalm number="2766" name="РРёСЃСѓСЃ Рѕ РўРµР±Рµ СЏ РїРѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисус, о Тебе я пою,</plain>
+            <plain>РРёСЃСѓСЃ, Рѕ РўРµР±Рµ СЏ РїРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Светом Ты озарил мою душу</plain>
+            <plain>РЎРІРµС‚РѕРј РўС‹ РѕР·Р°СЂРёР» РјРѕСЋ РґСѓС€Сѓ</plain>
         </string>
         <string>
-            <plain>Я за все благодарен Тебе</plain>
+            <plain>РЇ Р·Р° РІСЃРµ Р±Р»Р°РіРѕРґР°СЂРµРЅ РўРµР±Рµ</plain>
         </string>
         <string>
-            <plain>И во всем вижу я Твою руку.</plain>
+            <plain>Р РІРѕ РІСЃРµРј РІРёР¶Сѓ СЏ РўРІРѕСЋ СЂСѓРєСѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Знаю я, Ты всегда со мной,</plain>
+            <plain>Р—РЅР°СЋ СЏ, РўС‹ РІСЃРµРіРґР° СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>В обещаны Своем Ты верен,</plain>
+            <plain>Р’ РѕР±РµС‰Р°РЅС‹ РЎРІРѕРµРј РўС‹ РІРµСЂРµРЅ,</plain>
         </string>
         <string>
-            <plain>Кровь Твоя за меня лилась,</plain>
+            <plain>РљСЂРѕРІСЊ РўРІРѕСЏ Р·Р° РјРµРЅСЏ Р»РёР»Р°СЃСЊ,</plain>
         </string>
         <string>
-            <plain>Чтобы в небо открыть мне двери.</plain>
+            <plain>Р§С‚РѕР±С‹ РІ РЅРµР±Рѕ РѕС‚РєСЂС‹С‚СЊ РјРЅРµ РґРІРµСЂРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сколько раз Ты меня хранил</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ СЂР°Р· РўС‹ РјРµРЅСЏ С…СЂР°РЅРёР»</plain>
         </string>
         <string>
-            <plain>На крутых поворотах жизни</plain>
+            <plain>РќР° РєСЂСѓС‚С‹С… РїРѕРІРѕСЂРѕС‚Р°С… Р¶РёР·РЅРё</plain>
         </string>
         <string>
-            <plain>Ты избрал меня, искупил</plain>
+            <plain>РўС‹ РёР·Р±СЂР°Р» РјРµРЅСЏ, РёСЃРєСѓРїРёР»</plain>
         </string>
         <string>
-            <plain>И наполнил Собой мое сердце.</plain>
+            <plain>Р РЅР°РїРѕР»РЅРёР» РЎРѕР±РѕР№ РјРѕРµ СЃРµСЂРґС†Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я живу и покоюсь в Тебе,</plain>
+            <plain>РЇ Р¶РёРІСѓ Рё РїРѕРєРѕСЋСЃСЊ РІ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ты - надежда моя и радость.</plain>
+            <plain>РўС‹ - РЅР°РґРµР¶РґР° РјРѕСЏ Рё СЂР°РґРѕСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Иисус, счастье только в Тебе,</plain>
+            <plain>РРёСЃСѓСЃ, СЃС‡Р°СЃС‚СЊРµ С‚РѕР»СЊРєРѕ РІ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>В Тебе жизнь моя и отрада.</plain>
+            <plain>Р’ РўРµР±Рµ Р¶РёР·РЅСЊ РјРѕСЏ Рё РѕС‚СЂР°РґР°.</plain>
         </string>
     </verse>
 </psalm>

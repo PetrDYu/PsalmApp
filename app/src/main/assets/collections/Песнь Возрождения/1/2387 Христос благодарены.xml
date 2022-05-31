@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2387" name="Христос благодарены" canon="false" text="" textRus="" music="">
+<psalm number="2387" name="РҐСЂРёСЃС‚РѕСЃ Р±Р»Р°РіРѕРґР°СЂРµРЅС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Христос, благодарены,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ, Р±Р»Р°РіРѕРґР°СЂРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>С Тобою нам общенье, отрада, мир.</plain>
+            <plain>РЎ РўРѕР±РѕСЋ РЅР°Рј РѕР±С‰РµРЅСЊРµ, РѕС‚СЂР°РґР°, РјРёСЂ.</plain>
         </string>
         <string>
-            <plain>Ты счастьем озаряешь и</plain>
+            <plain>РўС‹ СЃС‡Р°СЃС‚СЊРµРј РѕР·Р°СЂСЏРµС€СЊ Рё</plain>
         </string>
         <string>
-            <plain>Духом призываешь на брачный пир.</plain>
+            <plain>Р”СѓС…РѕРј РїСЂРёР·С‹РІР°РµС€СЊ РЅР° Р±СЂР°С‡РЅС‹Р№ РїРёСЂ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Где-то поёт чёрный негр,</plain>
+            <plain>Р“РґРµ-С‚Рѕ РїРѕС‘С‚ С‡С‘СЂРЅС‹Р№ РЅРµРіСЂ,</plain>
         </string>
         <string>
-            <plain>Где-то поёт белый, жёлтый,</plain>
+            <plain>Р“РґРµ-С‚Рѕ РїРѕС‘С‚ Р±РµР»С‹Р№, Р¶С‘Р»С‚С‹Р№,</plain>
         </string>
         <string>
-            <plain>И я пою вместе с ними Тебе, мой Друг.</plain>
+            <plain>Р СЏ РїРѕСЋ РІРјРµСЃС‚Рµ СЃ РЅРёРјРё РўРµР±Рµ, РјРѕР№ Р”СЂСѓРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, радость и спасены,</plain>
+            <plain>Рћ, СЂР°РґРѕСЃС‚СЊ Рё СЃРїР°СЃРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Ведь многие селенья имеют нас,</plain>
+            <plain>Р’РµРґСЊ РјРЅРѕРіРёРµ СЃРµР»РµРЅСЊСЏ РёРјРµСЋС‚ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>В ком явлено рождение</plain>
+            <plain>Р’ РєРѕРј СЏРІР»РµРЅРѕ СЂРѕР¶РґРµРЅРёРµ</plain>
         </string>
         <string>
-            <plain>И жизни пробуждение в отрадный час.</plain>
+            <plain>Р Р¶РёР·РЅРё РїСЂРѕР±СѓР¶РґРµРЅРёРµ РІ РѕС‚СЂР°РґРЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Так сделал Ты, Учитель,</plain>
+            <plain>РўР°Рє СЃРґРµР»Р°Р» РўС‹, РЈС‡РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Небесный наш Спаситель, омыв в крови;</plain>
+            <plain>РќРµР±РµСЃРЅС‹Р№ РЅР°С€ РЎРїР°СЃРёС‚РµР»СЊ, РѕРјС‹РІ РІ РєСЂРѕРІРё;</plain>
         </string>
         <string>
-            <plain>Тебе мы клятву дали</plain>
+            <plain>РўРµР±Рµ РјС‹ РєР»СЏС‚РІСѓ РґР°Р»Рё</plain>
         </string>
         <string>
-            <plain>И верно обещали служить в любви.</plain>
+            <plain>Р РІРµСЂРЅРѕ РѕР±РµС‰Р°Р»Рё СЃР»СѓР¶РёС‚СЊ РІ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ликует всё творены,</plain>
+            <plain>Р›РёРєСѓРµС‚ РІСЃС‘ С‚РІРѕСЂРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>И птичек льётся пены Тебе, Тебе.</plain>
+            <plain>Р РїС‚РёС‡РµРє Р»СЊС‘С‚СЃСЏ РїРµРЅС‹ РўРµР±Рµ, РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Пребудь же с нами в силе</plain>
+            <plain>РџСЂРµР±СѓРґСЊ Р¶Рµ СЃ РЅР°РјРё РІ СЃРёР»Рµ</plain>
         </string>
         <string>
-            <plain>И вере, чтобы крылья взвились в мольбе.</plain>
+            <plain>Р РІРµСЂРµ, С‡С‚РѕР±С‹ РєСЂС‹Р»СЊСЏ РІР·РІРёР»РёСЃСЊ РІ РјРѕР»СЊР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

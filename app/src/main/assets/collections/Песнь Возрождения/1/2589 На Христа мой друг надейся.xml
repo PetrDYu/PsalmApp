@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2589" name="На Христа мой друг надейся" canon="false" text="" textRus="" music="">
+<psalm number="2589" name="РќР° РҐСЂРёСЃС‚Р° РјРѕР№ РґСЂСѓРі РЅР°РґРµР№СЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На Христа, мой друг, надейся</plain>
+            <plain>РќР° РҐСЂРёСЃС‚Р°, РјРѕР№ РґСЂСѓРі, РЅР°РґРµР№СЃСЏ</plain>
         </string>
         <string>
-            <plain>Сердцем всем и всем умом;</plain>
+            <plain>РЎРµСЂРґС†РµРј РІСЃРµРј Рё РІСЃРµРј СѓРјРѕРј;</plain>
         </string>
         <string>
-            <plain>Если мрак кругом, не бойся:</plain>
+            <plain>Р•СЃР»Рё РјСЂР°Рє РєСЂСѓРіРѕРј, РЅРµ Р±РѕР№СЃСЏ:</plain>
         </string>
         <string>
-            <plain>Помощь и защита Он.</plain>
+            <plain>РџРѕРјРѕС‰СЊ Рё Р·Р°С‰РёС‚Р° РћРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Положись лишь на Иисуса.</plain>
+            <plain>РџРѕР»РѕР¶РёСЃСЊ Р»РёС€СЊ РЅР° РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Нет верней и лучше Друга,</plain>
+            <plain>РќРµС‚ РІРµСЂРЅРµР№ Рё Р»СѓС‡С€Рµ Р”СЂСѓРіР°,</plain>
         </string>
         <string>
-            <plain>Знает немощи Он наши</plain>
+            <plain>Р—РЅР°РµС‚ РЅРµРјРѕС‰Рё РћРЅ РЅР°С€Рё</plain>
         </string>
         <string>
-            <plain>И помочь готов.</plain>
+            <plain>Р РїРѕРјРѕС‡СЊ РіРѕС‚РѕРІ.</plain>
         </string>
         <string>
-            <plain>О, не бойся, только веруй.</plain>
+            <plain>Рћ, РЅРµ Р±РѕР№СЃСЏ, С‚РѕР»СЊРєРѕ РІРµСЂСѓР№.</plain>
         </string>
         <string>
-            <plain>На свою судьбу не сетуй.</plain>
+            <plain>РќР° СЃРІРѕСЋ СЃСѓРґСЊР±Сѓ РЅРµ СЃРµС‚СѓР№.</plain>
         </string>
         <string>
-            <plain>Любит нас Спаситель</plain>
+            <plain>Р›СЋР±РёС‚ РЅР°СЃ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>И спасет от всех грехов.</plain>
+            <plain>Р СЃРїР°СЃРµС‚ РѕС‚ РІСЃРµС… РіСЂРµС…РѕРІ.</plain>
         </string>
     </chorus>
 </psalm>

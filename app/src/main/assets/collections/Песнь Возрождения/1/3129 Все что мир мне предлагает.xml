@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3129" name="Все что мир мне предлагает" canon="false" text="" textRus="" music="">
+<psalm number="3129" name="Р’СЃРµ С‡С‚Рѕ РјРёСЂ РјРЅРµ РїСЂРµРґР»Р°РіР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Все, что мир мне предлагает,</plain>
+            <plain>Р’СЃРµ, С‡С‚Рѕ РјРёСЂ РјРЅРµ РїСЂРµРґР»Р°РіР°РµС‚,</plain>
         </string>
         <string>
-            <plain>жажду мне не утолит,</plain>
+            <plain>Р¶Р°Р¶РґСѓ РјРЅРµ РЅРµ СѓС‚РѕР»РёС‚,</plain>
         </string>
         <string>
-            <plain>только Бог Своей любовью</plain>
+            <plain>С‚РѕР»СЊРєРѕ Р‘РѕРі РЎРІРѕРµР№ Р»СЋР±РѕРІСЊСЋ</plain>
         </string>
         <string>
-            <plain>щедро душу напоит.</plain>
+            <plain>С‰РµРґСЂРѕ РґСѓС€Сѓ РЅР°РїРѕРёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Душа моя полна,</plain>
+            <plain>Р”СѓС€Р° РјРѕСЏ РїРѕР»РЅР°,</plain>
         </string>
         <string>
-            <plain>покой нашла она.</plain>
+            <plain>РїРѕРєРѕР№ РЅР°С€Р»Р° РѕРЅР°.</plain>
         </string>
         <string>
-            <plain>И в глубине любви Христа</plain>
+            <plain>Р РІ РіР»СѓР±РёРЅРµ Р»СЋР±РІРё РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>навек покоюсь я (навсегда).</plain>
+            <plain>РЅР°РІРµРє РїРѕРєРѕСЋСЃСЊ СЏ (РЅР°РІСЃРµРіРґР°).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Божий Сын нас призывает,</plain>
+            <plain>Р‘РѕР¶РёР№ РЎС‹РЅ РЅР°СЃ РїСЂРёР·С‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>чтобы мы нашли покой.</plain>
+            <plain>С‡С‚РѕР±С‹ РјС‹ РЅР°С€Р»Рё РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Он один нас утешает,</plain>
+            <plain>РћРЅ РѕРґРёРЅ РЅР°СЃ СѓС‚РµС€Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>в Нём родник воды живой.</plain>
+            <plain>РІ РќС‘Рј СЂРѕРґРЅРёРє РІРѕРґС‹ Р¶РёРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если в сердце как в пустыне:</plain>
+            <plain>Р•СЃР»Рё РІ СЃРµСЂРґС†Рµ РєР°Рє РІ РїСѓСЃС‚С‹РЅРµ:</plain>
         </string>
         <string>
-            <plain>всё безрадостно кругом,</plain>
+            <plain>РІСЃС‘ Р±РµР·СЂР°РґРѕСЃС‚РЅРѕ РєСЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>не считай тогда, что ныне</plain>
+            <plain>РЅРµ СЃС‡РёС‚Р°Р№ С‚РѕРіРґР°, С‡С‚Рѕ РЅС‹РЅРµ</plain>
         </string>
         <string>
-            <plain>твой Спаситель правит в нём.</plain>
+            <plain>С‚РІРѕР№ РЎРїР°СЃРёС‚РµР»СЊ РїСЂР°РІРёС‚ РІ РЅС‘Рј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Разве может жаждать птица,</plain>
+            <plain>Р Р°Р·РІРµ РјРѕР¶РµС‚ Р¶Р°Р¶РґР°С‚СЊ РїС‚РёС†Р°,</plain>
         </string>
         <string>
-            <plain>если пьёт из чистых вод?</plain>
+            <plain>РµСЃР»Рё РїСЊС‘С‚ РёР· С‡РёСЃС‚С‹С… РІРѕРґ?</plain>
         </string>
         <string>
-            <plain>Если Бог в тебя вселится,</plain>
+            <plain>Р•СЃР»Рё Р‘РѕРі РІ С‚РµР±СЏ РІСЃРµР»РёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>будешь жаждать ли ещё?</plain>
+            <plain>Р±СѓРґРµС€СЊ Р¶Р°Р¶РґР°С‚СЊ Р»Рё РµС‰С‘?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О душа, отройся шире,</plain>
+            <plain>Рћ РґСѓС€Р°, РѕС‚СЂРѕР№СЃСЏ С€РёСЂРµ,</plain>
         </string>
         <string>
-            <plain>пусть наполнит Бог тебя,</plain>
+            <plain>РїСѓСЃС‚СЊ РЅР°РїРѕР»РЅРёС‚ Р‘РѕРі С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>ведь любовь Его как море,</plain>
+            <plain>РІРµРґСЊ Р»СЋР±РѕРІСЊ Р•РіРѕ РєР°Рє РјРѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>не иссякнет никогда.</plain>
+            <plain>РЅРµ РёСЃСЃСЏРєРЅРµС‚ РЅРёРєРѕРіРґР°.</plain>
         </string>
     </verse>
 </psalm>

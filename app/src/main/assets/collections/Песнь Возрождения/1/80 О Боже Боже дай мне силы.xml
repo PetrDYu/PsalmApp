@@ -1,103 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="80" name="О Боже Боже дай мне силы" canon="false" text="" textRus="" music="">
+<psalm number="80" name="Рћ Р‘РѕР¶Рµ Р‘РѕР¶Рµ РґР°Р№ РјРЅРµ СЃРёР»С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Боже, Боже, дай мне силы</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, Р‘РѕР¶Рµ, РґР°Р№ РјРЅРµ СЃРёР»С‹</plain>
         </string>
         <string>
-            <plain>За ближних душу полагать</plain>
+            <plain>Р—Р° Р±Р»РёР¶РЅРёС… РґСѓС€Сѓ РїРѕР»Р°РіР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И в сердце вечно до могилы</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ РІРµС‡РЅРѕ РґРѕ РјРѕРіРёР»С‹</plain>
         </string>
         <string>
-            <plain>Врагам обиды все прощать!</plain>
+            <plain>Р’СЂР°РіР°Рј РѕР±РёРґС‹ РІСЃРµ РїСЂРѕС‰Р°С‚СЊ!</plain>
         </string>
         <string>
-            <plain>И в сердце вечно до могилы</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ РІРµС‡РЅРѕ РґРѕ РјРѕРіРёР»С‹</plain>
         </string>
         <string>
-            <plain>Врагам обиды все прощать!</plain>
+            <plain>Р’СЂР°РіР°Рј РѕР±РёРґС‹ РІСЃРµ РїСЂРѕС‰Р°С‚СЊ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Не дай мне с ложью примириться</plain>
+            <plain>РќРµ РґР°Р№ РјРЅРµ СЃ Р»РѕР¶СЊСЋ РїСЂРёРјРёСЂРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>В суровой жизненной борьбе,</plain>
+            <plain>Р’ СЃСѓСЂРѕРІРѕР№ Р¶РёР·РЅРµРЅРЅРѕР№ Р±РѕСЂСЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>И научи меня молиться,</plain>
+            <plain>Р РЅР°СѓС‡Рё РјРµРЅСЏ РјРѕР»РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Молиться пламенно Тебе.</plain>
+            <plain>РњРѕР»РёС‚СЊСЃСЏ РїР»Р°РјРµРЅРЅРѕ РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>И научи меня молиться,</plain>
+            <plain>Р РЅР°СѓС‡Рё РјРµРЅСЏ РјРѕР»РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Молиться пламенно Тебе.</plain>
+            <plain>РњРѕР»РёС‚СЊСЃСЏ РїР»Р°РјРµРЅРЅРѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пусть камни в грудь мою бросают,</plain>
+            <plain>РџСѓСЃС‚СЊ РєР°РјРЅРё РІ РіСЂСѓРґСЊ РјРѕСЋ Р±СЂРѕСЃР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Не признавая чувств святых,</plain>
+            <plain>РќРµ РїСЂРёР·РЅР°РІР°СЏ С‡СѓРІСЃС‚РІ СЃРІСЏС‚С‹С…,</plain>
         </string>
         <string>
-            <plain>Пусть ненавидят, проклинают, -</plain>
+            <plain>РџСѓСЃС‚СЊ РЅРµРЅР°РІРёРґСЏС‚, РїСЂРѕРєР»РёРЅР°СЋС‚, -</plain>
         </string>
         <string>
-            <plain>Я душу положу за них.</plain>
+            <plain>РЇ РґСѓС€Сѓ РїРѕР»РѕР¶Сѓ Р·Р° РЅРёС….</plain>
         </string>
         <string>
-            <plain>Пусть ненавидят, проклинают, -</plain>
+            <plain>РџСѓСЃС‚СЊ РЅРµРЅР°РІРёРґСЏС‚, РїСЂРѕРєР»РёРЅР°СЋС‚, -</plain>
         </string>
         <string>
-            <plain>Я душу положу за них.</plain>
+            <plain>РЇ РґСѓС€Сѓ РїРѕР»РѕР¶Сѓ Р·Р° РЅРёС….</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О Господи, в словах проклятья</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґРё, РІ СЃР»РѕРІР°С… РїСЂРѕРєР»СЏС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>Все на земле клеймят меня,</plain>
+            <plain>Р’СЃРµ РЅР° Р·РµРјР»Рµ РєР»РµР№РјСЏС‚ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Но я открою им объятья,</plain>
+            <plain>РќРѕ СЏ РѕС‚РєСЂРѕСЋ РёРј РѕР±СЉСЏС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Христову заповедь храня.</plain>
+            <plain>РҐСЂРёСЃС‚РѕРІСѓ Р·Р°РїРѕРІРµРґСЊ С…СЂР°РЅСЏ.</plain>
         </string>
         <string>
-            <plain>Но я открою им объятья,</plain>
+            <plain>РќРѕ СЏ РѕС‚РєСЂРѕСЋ РёРј РѕР±СЉСЏС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Христову заповедь храня.</plain>
+            <plain>РҐСЂРёСЃС‚РѕРІСѓ Р·Р°РїРѕРІРµРґСЊ С…СЂР°РЅСЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, дай мне сил Твои заветы</plain>
+            <plain>Рћ, РґР°Р№ РјРЅРµ СЃРёР» РўРІРѕРё Р·Р°РІРµС‚С‹</plain>
         </string>
         <string>
-            <plain>В душе страдающей хранить,</plain>
+            <plain>Р’ РґСѓС€Рµ СЃС‚СЂР°РґР°СЋС‰РµР№ С…СЂР°РЅРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>И помоги врагов наветы</plain>
+            <plain>Р РїРѕРјРѕРіРё РІСЂР°РіРѕРІ РЅР°РІРµС‚С‹</plain>
         </string>
         <string>
-            <plain>С терпеньем, с кротостью сносить.</plain>
+            <plain>РЎ С‚РµСЂРїРµРЅСЊРµРј, СЃ РєСЂРѕС‚РѕСЃС‚СЊСЋ СЃРЅРѕСЃРёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>И помоги врагов наветы</plain>
+            <plain>Р РїРѕРјРѕРіРё РІСЂР°РіРѕРІ РЅР°РІРµС‚С‹</plain>
         </string>
         <string>
-            <plain>С терпеньем, с кротостью сносить.</plain>
+            <plain>РЎ С‚РµСЂРїРµРЅСЊРµРј, СЃ РєСЂРѕС‚РѕСЃС‚СЊСЋ СЃРЅРѕСЃРёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

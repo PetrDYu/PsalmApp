@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="175" name="Я жажду петь во всякий час" canon="false" text="" textRus="" music="">
+<psalm number="175" name="РЇ Р¶Р°Р¶РґСѓ РїРµС‚СЊ РІРѕ РІСЃСЏРєРёР№ С‡Р°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я жажду петь во всякий час,</plain>
+            <plain>РЇ Р¶Р°Р¶РґСѓ РїРµС‚СЊ РІРѕ РІСЃСЏРєРёР№ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Печаль и слезы прочь!</plain>
+            <plain>РџРµС‡Р°Р»СЊ Рё СЃР»РµР·С‹ РїСЂРѕС‡СЊ!</plain>
         </string>
         <string>
-            <plain>Христос - мой Друг, меня Он спас,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ - РјРѕР№ Р”СЂСѓРі, РјРµРЅСЏ РћРЅ СЃРїР°СЃ,</plain>
         </string>
         <string>
-            <plain>Со мной Он день и ночь.</plain>
+            <plain>РЎРѕ РјРЅРѕР№ РћРЅ РґРµРЅСЊ Рё РЅРѕС‡СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пойте, пойте, пойте песнь Ему!</plain>
+            <plain>РџРѕР№С‚Рµ, РїРѕР№С‚Рµ, РїРѕР№С‚Рµ РїРµСЃРЅСЊ Р•РјСѓ!</plain>
         </string>
         <string>
-            <plain>Пойте, пойте песнь!</plain>
+            <plain>РџРѕР№С‚Рµ, РїРѕР№С‚Рµ РїРµСЃРЅСЊ!</plain>
         </string>
         <string>
-            <plain>Пойте песнь Ему!</plain>
+            <plain>РџРѕР№С‚Рµ РїРµСЃРЅСЊ Р•РјСѓ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я плакал в день, как увидал,</plain>
+            <plain>РЇ РїР»Р°РєР°Р» РІ РґРµРЅСЊ, РєР°Рє СѓРІРёРґР°Р»,</plain>
         </string>
         <string>
-            <plain>Как за вину мою</plain>
+            <plain>РљР°Рє Р·Р° РІРёРЅСѓ РјРѕСЋ</plain>
         </string>
         <string>
-            <plain>Христос в страданье умирал!</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РІ СЃС‚СЂР°РґР°РЅСЊРµ СѓРјРёСЂР°Р»!</plain>
         </string>
         <string>
-            <plain>Теперь же я пою.</plain>
+            <plain>РўРµРїРµСЂСЊ Р¶Рµ СЏ РїРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда тяжел греха искус,</plain>
+            <plain>РљРѕРіРґР° С‚СЏР¶РµР» РіСЂРµС…Р° РёСЃРєСѓСЃ,</plain>
         </string>
         <string>
-            <plain>Пою я: мой Иисус!</plain>
+            <plain>РџРѕСЋ СЏ: РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
         <string>
-            <plain>Хоть слезы близки иногда,</plain>
+            <plain>РҐРѕС‚СЊ СЃР»РµР·С‹ Р±Р»РёР·РєРё РёРЅРѕРіРґР°,</plain>
         </string>
         <string>
-            <plain>Но я пою всегда.</plain>
+            <plain>РќРѕ СЏ РїРѕСЋ РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я буду всем повествовать</plain>
+            <plain>РЇ Р±СѓРґСѓ РІСЃРµРј РїРѕРІРµСЃС‚РІРѕРІР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>О Господе моем,</plain>
+            <plain>Рћ Р“РѕСЃРїРѕРґРµ РјРѕРµРј,</plain>
         </string>
         <string>
-            <plain>Пока не станет воспевать</plain>
+            <plain>РџРѕРєР° РЅРµ СЃС‚Р°РЅРµС‚ РІРѕСЃРїРµРІР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Весь грешный мир о Нем.</plain>
+            <plain>Р’РµСЃСЊ РіСЂРµС€РЅС‹Р№ РјРёСЂ Рѕ РќРµРј.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3095" name="Бог свет и спасенье для меня" canon="false" text="" textRus="" music="">
+<psalm number="3095" name="Р‘РѕРі СЃРІРµС‚ Рё СЃРїР°СЃРµРЅСЊРµ РґР»СЏ РјРµРЅСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог - свет и спасенье для меня</plain>
+            <plain>Р‘РѕРі - СЃРІРµС‚ Рё СЃРїР°СЃРµРЅСЊРµ РґР»СЏ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>- кого должен я бояться?</plain>
+            <plain>- РєРѕРіРѕ РґРѕР»Р¶РµРЅ СЏ Р±РѕСЏС‚СЊСЃСЏ?</plain>
         </string>
         <string>
-            <plain>Господь - моя крепость, жизнь моя:</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ - РјРѕСЏ РєСЂРµРїРѕСЃС‚СЊ, Р¶РёР·РЅСЊ РјРѕСЏ:</plain>
         </string>
         <string>
-            <plain>Хочу Ему доверяться.</plain>
+            <plain>РҐРѕС‡Сѓ Р•РјСѓ РґРѕРІРµСЂСЏС‚СЊСЃСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я не страшусь, мой свет - Иисус,</plain>
+            <plain>РЇ РЅРµ СЃС‚СЂР°С€СѓСЃСЊ, РјРѕР№ СЃРІРµС‚ - РРёСЃСѓСЃ,</plain>
         </string>
         <string>
-            <plain>нужды ни в чем с ним нет;</plain>
+            <plain>РЅСѓР¶РґС‹ РЅРё РІ С‡РµРј СЃ РЅРёРј РЅРµС‚;</plain>
         </string>
         <string>
-            <plain>коль Он со мной, я рад душой:</plain>
+            <plain>РєРѕР»СЊ РћРЅ СЃРѕ РјРЅРѕР№, СЏ СЂР°Рґ РґСѓС€РѕР№:</plain>
         </string>
         <string>
-            <plain>спасенье Он и свет</plain>
+            <plain>СЃРїР°СЃРµРЅСЊРµ РћРЅ Рё СЃРІРµС‚</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Кого же страшиться должен я,</plain>
+            <plain>РљРѕРіРѕ Р¶Рµ СЃС‚СЂР°С€РёС‚СЊСЃСЏ РґРѕР»Р¶РµРЅ СЏ,</plain>
         </string>
         <string>
-            <plain>когда Бог мне дал спасенье?</plain>
+            <plain>РєРѕРіРґР° Р‘РѕРі РјРЅРµ РґР°Р» СЃРїР°СЃРµРЅСЊРµ?</plain>
         </string>
         <string>
-            <plain>С избытком Он жизнь дал для меня</plain>
+            <plain>РЎ РёР·Р±С‹С‚РєРѕРј РћРЅ Р¶РёР·РЅСЊ РґР°Р» РґР»СЏ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>и сердцу дал обновленье.</plain>
+            <plain>Рё СЃРµСЂРґС†Сѓ РґР°Р» РѕР±РЅРѕРІР»РµРЅСЊРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ведь Бог есть спасение мое</plain>
+            <plain>Р’РµРґСЊ Р‘РѕРі РµСЃС‚СЊ СЃРїР°СЃРµРЅРёРµ РјРѕРµ</plain>
         </string>
         <string>
-            <plain>- ликует душа от счастья.</plain>
+            <plain>- Р»РёРєСѓРµС‚ РґСѓС€Р° РѕС‚ СЃС‡Р°СЃС‚СЊСЏ.</plain>
         </string>
         <string>
-            <plain>Хочу для Него исполнить все</plain>
+            <plain>РҐРѕС‡Сѓ РґР»СЏ РќРµРіРѕ РёСЃРїРѕР»РЅРёС‚СЊ РІСЃРµ</plain>
         </string>
         <string>
-            <plain>в дни радости и ненастья.</plain>
+            <plain>РІ РґРЅРё СЂР°РґРѕСЃС‚Рё Рё РЅРµРЅР°СЃС‚СЊСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>На Господа уповаю я</plain>
+            <plain>РќР° Р“РѕСЃРїРѕРґР° СѓРїРѕРІР°СЋ СЏ</plain>
         </string>
         <string>
-            <plain>и славлю Его за Слово.</plain>
+            <plain>Рё СЃР»Р°РІР»СЋ Р•РіРѕ Р·Р° РЎР»РѕРІРѕ.</plain>
         </string>
         <string>
-            <plain>Коль буду любить Его всегда,</plain>
+            <plain>РљРѕР»СЊ Р±СѓРґСѓ Р»СЋР±РёС‚СЊ Р•РіРѕ РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>лицо я узрю Христово.</plain>
+            <plain>Р»РёС†Рѕ СЏ СѓР·СЂСЋ РҐСЂРёСЃС‚РѕРІРѕ.</plain>
         </string>
     </verse>
 </psalm>

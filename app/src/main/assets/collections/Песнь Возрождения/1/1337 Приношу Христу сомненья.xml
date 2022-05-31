@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1337" name="Приношу Христу сомненья" canon="false" text="" textRus="" music="">
+<psalm number="1337" name="РџСЂРёРЅРѕС€Сѓ РҐСЂРёСЃС‚Сѓ СЃРѕРјРЅРµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Приношу Христу сомненья.</plain>
+            <plain>РџСЂРёРЅРѕС€Сѓ РҐСЂРёСЃС‚Сѓ СЃРѕРјРЅРµРЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>Зов Его я услыхал;</plain>
+            <plain>Р—РѕРІ Р•РіРѕ СЏ СѓСЃР»С‹С…Р°Р»;</plain>
         </string>
         <string>
-            <plain>Дать для веры утвержденье</plain>
+            <plain>Р”Р°С‚СЊ РґР»СЏ РІРµСЂС‹ СѓС‚РІРµСЂР¶РґРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Мой Спаситель обещал.</plain>
+            <plain>РњРѕР№ РЎРїР°СЃРёС‚РµР»СЊ РѕР±РµС‰Р°Р».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я Иисусу доверяюсь,</plain>
+            <plain>РЇ РРёСЃСѓСЃСѓ РґРѕРІРµСЂСЏСЋСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Чудно упованьем жить!</plain>
+            <plain>Р§СѓРґРЅРѕ СѓРїРѕРІР°РЅСЊРµРј Р¶РёС‚СЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На Христа свой грех слагаю.</plain>
+            <plain>РќР° РҐСЂРёСЃС‚Р° СЃРІРѕР№ РіСЂРµС… СЃР»Р°РіР°СЋ.</plain>
         </string>
         <string>
-            <plain>Его кровью Он омыл;</plain>
+            <plain>Р•РіРѕ РєСЂРѕРІСЊСЋ РћРЅ РѕРјС‹Р»;</plain>
         </string>
         <string>
-            <plain>От Него лишь ожидаю</plain>
+            <plain>РћС‚ РќРµРіРѕ Р»РёС€СЊ РѕР¶РёРґР°СЋ</plain>
         </string>
         <string>
-            <plain>для борьбы духовных сил.</plain>
+            <plain>РґР»СЏ Р±РѕСЂСЊР±С‹ РґСѓС…РѕРІРЅС‹С… СЃРёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если враг мне угрожает,</plain>
+            <plain>Р•СЃР»Рё РІСЂР°Рі РјРЅРµ СѓРіСЂРѕР¶Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Мой Христос покой дает,</plain>
+            <plain>РњРѕР№ РҐСЂРёСЃС‚РѕСЃ РїРѕРєРѕР№ РґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Путь мой темный освещает</plain>
+            <plain>РџСѓС‚СЊ РјРѕР№ С‚РµРјРЅС‹Р№ РѕСЃРІРµС‰Р°РµС‚</plain>
         </string>
         <string>
-            <plain>И до цели доведет.</plain>
+            <plain>Р РґРѕ С†РµР»Рё РґРѕРІРµРґРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Все плотское смысл теряет.</plain>
+            <plain>Р’СЃРµ РїР»РѕС‚СЃРєРѕРµ СЃРјС‹СЃР» С‚РµСЂСЏРµС‚.</plain>
         </string>
         <string>
-            <plain>Радость лишь в Христе одном.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ Р»РёС€СЊ РІ РҐСЂРёСЃС‚Рµ РѕРґРЅРѕРј.</plain>
         </string>
         <string>
-            <plain>Он всем миром управляет,</plain>
+            <plain>РћРЅ РІСЃРµРј РјРёСЂРѕРј СѓРїСЂР°РІР»СЏРµС‚,</plain>
         </string>
         <string>
-            <plain>Весь источник жизни в Нем.</plain>
+            <plain>Р’РµСЃСЊ РёСЃС‚РѕС‡РЅРёРє Р¶РёР·РЅРё РІ РќРµРј.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Что дано мне в мире этом,</plain>
+            <plain>Р§С‚Рѕ РґР°РЅРѕ РјРЅРµ РІ РјРёСЂРµ СЌС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Жажду Богу посвятить,</plain>
+            <plain>Р–Р°Р¶РґСѓ Р‘РѕРіСѓ РїРѕСЃРІСЏС‚РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб, сияя этим светом.</plain>
+            <plain>Р§С‚РѕР±, СЃРёСЏСЏ СЌС‚РёРј СЃРІРµС‚РѕРј.</plain>
         </string>
         <string>
-            <plain>Для Христовой славы жить.</plain>
+            <plain>Р”Р»СЏ РҐСЂРёСЃС‚РѕРІРѕР№ СЃР»Р°РІС‹ Р¶РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

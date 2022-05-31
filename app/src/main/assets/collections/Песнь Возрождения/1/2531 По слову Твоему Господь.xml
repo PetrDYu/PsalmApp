@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2531" name="По слову Твоему Господь" canon="false" text="" textRus="" music="">
+<psalm number="2531" name="РџРѕ СЃР»РѕРІСѓ РўРІРѕРµРјСѓ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>По слову Твоему, Господь,</plain>
+            <plain>РџРѕ СЃР»РѕРІСѓ РўРІРѕРµРјСѓ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>В смиренной простоте,</plain>
+            <plain>Р’ СЃРјРёСЂРµРЅРЅРѕР№ РїСЂРѕСЃС‚РѕС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Сошлись у Твоего стала,</plain>
+            <plain>РЎРѕС€Р»РёСЃСЊ Сѓ РўРІРѕРµРіРѕ СЃС‚Р°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Чтоб вспомнить о Тебе.</plain>
+            <plain>Р§С‚РѕР± РІСЃРїРѕРјРЅРёС‚СЊ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Твоя истерзанная плоть</plain>
+            <plain>РўРІРѕСЏ РёСЃС‚РµСЂР·Р°РЅРЅР°СЏ РїР»РѕС‚СЊ</plain>
         </string>
         <string>
-            <plain>Дарует жизнь душе;</plain>
+            <plain>Р”Р°СЂСѓРµС‚ Р¶РёР·РЅСЊ РґСѓС€Рµ;</plain>
         </string>
         <string>
-            <plain>Завета чашу я беру,</plain>
+            <plain>Р—Р°РІРµС‚Р° С‡Р°С€Сѓ СЏ Р±РµСЂСѓ,</plain>
         </string>
         <string>
-            <plain>Чтоб вспомнить о Тебе.</plain>
+            <plain>Р§С‚РѕР± РІСЃРїРѕРјРЅРёС‚СЊ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я поднимаю взор на крест,</plain>
+            <plain>РЇ РїРѕРґРЅРёРјР°СЋ РІР·РѕСЂ РЅР° РєСЂРµСЃС‚,</plain>
         </string>
         <string>
-            <plain>Где умер Ты в мольбе;</plain>
+            <plain>Р“РґРµ СѓРјРµСЂ РўС‹ РІ РјРѕР»СЊР±Рµ;</plain>
         </string>
         <string>
-            <plain>Припоми-наю подвиг Твой,</plain>
+            <plain>РџСЂРёРїРѕРјРё-РЅР°СЋ РїРѕРґРІРёРі РўРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Чтоб вспомнить о Тебе.</plain>
+            <plain>Р§С‚РѕР± РІСЃРїРѕРјРЅРёС‚СЊ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Твои страданья, Твой завет,</plain>
+            <plain>РўРІРѕРё СЃС‚СЂР°РґР°РЅСЊСЏ, РўРІРѕР№ Р·Р°РІРµС‚,</plain>
         </string>
         <string>
-            <plain>Твой плач в ночной борьбе</plain>
+            <plain>РўРІРѕР№ РїР»Р°С‡ РІ РЅРѕС‡РЅРѕР№ Р±РѕСЂСЊР±Рµ</plain>
         </string>
         <string>
-            <plain>- Да светят мне, как солнца свет,</plain>
+            <plain>- Р”Р° СЃРІРµС‚СЏС‚ РјРЅРµ, РєР°Рє СЃРѕР»РЅС†Р° СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Чтоб вспомнить о Тебе.</plain>
+            <plain>Р§С‚РѕР± РІСЃРїРѕРјРЅРёС‚СЊ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Когда х&lt; промчится жизнь моя,</plain>
+            <plain>РљРѕРіРґР° С…&lt; РїСЂРѕРјС‡РёС‚СЃСЏ Р¶РёР·РЅСЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Усну в земной стране;</plain>
+            <plain>РЈСЃРЅСѓ РІ Р·РµРјРЅРѕР№ СЃС‚СЂР°РЅРµ;</plain>
         </string>
         <string>
-            <plain>Когда придешь на облаках,</plain>
+            <plain>РљРѕРіРґР° РїСЂРёРґРµС€СЊ РЅР° РѕР±Р»Р°РєР°С…,</plain>
         </string>
         <string>
-            <plain>Ты вспомни обо мне.</plain>
+            <plain>РўС‹ РІСЃРїРѕРјРЅРё РѕР±Рѕ РјРЅРµ.</plain>
         </string>
     </verse>
 </psalm>

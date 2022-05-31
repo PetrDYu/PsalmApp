@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2369" name="У двери сердца Я стою" canon="false" text="" textRus="" music="">
+<psalm number="2369" name="РЈ РґРІРµСЂРё СЃРµСЂРґС†Р° РЇ СЃС‚РѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>У двери сердца Я стою,</plain>
+            <plain>РЈ РґРІРµСЂРё СЃРµСЂРґС†Р° РЇ СЃС‚РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Там ясли Я найти хочу.</plain>
+            <plain>РўР°Рј СЏСЃР»Рё РЇ РЅР°Р№С‚Рё С…РѕС‡Сѓ.</plain>
         </string>
         <string>
-            <plain>Хочу Я близко к ним прильнуть</plain>
+            <plain>РҐРѕС‡Сѓ РЇ Р±Р»РёР·РєРѕ Рє РЅРёРј РїСЂРёР»СЊРЅСѓС‚СЊ</plain>
         </string>
         <string>
-            <plain>И в яслях отдохнуть.</plain>
+            <plain>Р РІ СЏСЃР»СЏС… РѕС‚РґРѕС…РЅСѓС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я жду (2 р.), Я жду (2 р.).</plain>
+            <plain>РЇ Р¶РґСѓ (2 СЂ.), РЇ Р¶РґСѓ (2 СЂ.).</plain>
         </string>
         <string>
-            <plain>Покой Я дать хочу,</plain>
+            <plain>РџРѕРєРѕР№ РЇ РґР°С‚СЊ С…РѕС‡Сѓ,</plain>
         </string>
         <string>
-            <plain>Дать сердцу радость и покой</plain>
+            <plain>Р”Р°С‚СЊ СЃРµСЂРґС†Сѓ СЂР°РґРѕСЃС‚СЊ Рё РїРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>В любви Моей святой.</plain>
+            <plain>Р’ Р»СЋР±РІРё РњРѕРµР№ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ещё, ещё Я раз стучу,</plain>
+            <plain>Р•С‰С‘, РµС‰С‘ РЇ СЂР°Р· СЃС‚СѓС‡Сѓ,</plain>
         </string>
         <string>
-            <plain>Покой Я дать тебе хочу,</plain>
+            <plain>РџРѕРєРѕР№ РЇ РґР°С‚СЊ С‚РµР±Рµ С…РѕС‡Сѓ,</plain>
         </string>
         <string>
-            <plain>Спасенье, радость и покой</plain>
+            <plain>РЎРїР°СЃРµРЅСЊРµ, СЂР°РґРѕСЃС‚СЊ Рё РїРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>В любви Своей святой.</plain>
+            <plain>Р’ Р»СЋР±РІРё РЎРІРѕРµР№ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда уйду Я от тебя,</plain>
+            <plain>РљРѕРіРґР° СѓР№РґСѓ РЇ РѕС‚ С‚РµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Утрата будет велика,</plain>
+            <plain>РЈС‚СЂР°С‚Р° Р±СѓРґРµС‚ РІРµР»РёРєР°,</plain>
         </string>
         <string>
-            <plain>Уйдет и радость, и покой,</plain>
+            <plain>РЈР№РґРµС‚ Рё СЂР°РґРѕСЃС‚СЊ, Рё РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Погибнешь ты душой.</plain>
+            <plain>РџРѕРіРёР±РЅРµС€СЊ С‚С‹ РґСѓС€РѕР№.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,75 +1,75 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="983" name="Папа мой папа Иди же домой" canon="false" text="" textRus="" music="">
+<psalm number="983" name="РџР°РїР° РјРѕР№ РїР°РїР° РРґРё Р¶Рµ РґРѕРјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Папа, мой папа! Иди же домой!</plain>
+            <plain>РџР°РїР°, РјРѕР№ РїР°РїР°! РРґРё Р¶Рµ РґРѕРјРѕР№!</plain>
         </string>
         <string>
-            <plain>На башне уж пробило час.</plain>
+            <plain>РќР° Р±Р°С€РЅРµ СѓР¶ РїСЂРѕР±РёР»Рѕ С‡Р°СЃ.</plain>
         </string>
         <string>
-            <plain>Нет топлива дома, камин наш погас.</plain>
+            <plain>РќРµС‚ С‚РѕРїР»РёРІР° РґРѕРјР°, РєР°РјРёРЅ РЅР°С€ РїРѕРіР°СЃ.</plain>
         </string>
         <string>
-            <plain>Нет хлеба, нет крошки одной.</plain>
+            <plain>РќРµС‚ С…Р»РµР±Р°, РЅРµС‚ РєСЂРѕС€РєРё РѕРґРЅРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иди домой, иди.</plain>
+            <plain>РРґРё РґРѕРјРѕР№, РёРґРё.</plain>
         </string>
         <string>
-            <plain>О папа, прошу я, иди!</plain>
+            <plain>Рћ РїР°РїР°, РїСЂРѕС€Сѓ СЏ, РёРґРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Папа, мой папа! Иди же домой!</plain>
+            <plain>РџР°РїР°, РјРѕР№ РїР°РїР°! РРґРё Р¶Рµ РґРѕРјРѕР№!</plain>
         </string>
         <string>
-            <plain>На башне уж пробило два.</plain>
+            <plain>РќР° Р±Р°С€РЅРµ СѓР¶ РїСЂРѕР±РёР»Рѕ РґРІР°.</plain>
         </string>
         <string>
-            <plain>Усилился холод, слабеет больной,</plain>
+            <plain>РЈСЃРёР»РёР»СЃСЏ С…РѕР»РѕРґ, СЃР»Р°Р±РµРµС‚ Р±РѕР»СЊРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Он шепчет: "Где папочка мой?"</plain>
+            <plain>РћРЅ С€РµРїС‡РµС‚: "Р“РґРµ РїР°РїРѕС‡РєР° РјРѕР№?"</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Послала меня за тобой.</plain>
+            <plain>РџРѕСЃР»Р°Р»Р° РјРµРЅСЏ Р·Р° С‚РѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>О папа, осталось немного минут,</plain>
+            <plain>Рћ РїР°РїР°, РѕСЃС‚Р°Р»РѕСЃСЊ РЅРµРјРЅРѕРіРѕ РјРёРЅСѓС‚,</plain>
         </string>
         <string>
-            <plain>И ангелы Ваню возьмут.</plain>
+            <plain>Р Р°РЅРіРµР»С‹ Р’Р°РЅСЋ РІРѕР·СЊРјСѓС‚.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Папа, мой папа! Иди же домой!</plain>
+            <plain>РџР°РїР°, РјРѕР№ РїР°РїР°! РРґРё Р¶Рµ РґРѕРјРѕР№!</plain>
         </string>
         <string>
-            <plain>На башне уж пробило три.</plain>
+            <plain>РќР° Р±Р°С€РЅРµ СѓР¶ РїСЂРѕР±РёР»Рѕ С‚СЂРё.</plain>
         </string>
         <string>
-            <plain>Ванюша скончался - иди посмотри,</plain>
+            <plain>Р’Р°РЅСЋС€Р° СЃРєРѕРЅС‡Р°Р»СЃСЏ - РёРґРё РїРѕСЃРјРѕС‚СЂРё,</plain>
         </string>
         <string>
-            <plain>Как мама страдает душой.</plain>
+            <plain>РљР°Рє РјР°РјР° СЃС‚СЂР°РґР°РµС‚ РґСѓС€РѕР№.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Не может уж плакать она.</plain>
+            <plain>РќРµ РјРѕР¶РµС‚ СѓР¶ РїР»Р°РєР°С‚СЊ РѕРЅР°.</plain>
         </string>
         <string>
-            <plain>Ванюша шептал все: "Где папочка мой?"</plain>
+            <plain>Р’Р°РЅСЋС€Р° С€РµРїС‚Р°Р» РІСЃРµ: "Р“РґРµ РїР°РїРѕС‡РєР° РјРѕР№?"</plain>
         </string>
         <string>
-            <plain>Хотел он проститься с тобой.</plain>
+            <plain>РҐРѕС‚РµР» РѕРЅ РїСЂРѕСЃС‚РёС‚СЊСЃСЏ СЃ С‚РѕР±РѕР№.</plain>
         </string>
     </chorus>
 </psalm>

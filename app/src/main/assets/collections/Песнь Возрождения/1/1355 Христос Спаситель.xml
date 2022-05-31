@@ -1,89 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1355" name="Христос Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="1355" name="РҐСЂРёСЃС‚РѕСЃ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Христос-Спаситель!</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ-РЎРїР°СЃРёС‚РµР»СЊ!</plain>
         </string>
         <string>
-            <plain>члены Мы тела Твоего;</plain>
+            <plain>С‡Р»РµРЅС‹ РњС‹ С‚РµР»Р° РўРІРѕРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>Ты Вождь наш неизменный,</plain>
+            <plain>РўС‹ Р’РѕР¶РґСЊ РЅР°С€ РЅРµРёР·РјРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Глава и Божество.</plain>
+            <plain>Р“Р»Р°РІР° Рё Р‘РѕР¶РµСЃС‚РІРѕ.</plain>
         </string>
         <string>
-            <plain>О, дивная картина:</plain>
+            <plain>Рћ, РґРёРІРЅР°СЏ РєР°СЂС‚РёРЅР°:</plain>
         </string>
         <string>
-            <plain>Одно мы со Христом:</plain>
+            <plain>РћРґРЅРѕ РјС‹ СЃРѕ РҐСЂРёСЃС‚РѕРј:</plain>
         </string>
         <string>
-            <plain>Он - наша цель, причина,</plain>
+            <plain>РћРЅ - РЅР°С€Р° С†РµР»СЊ, РїСЂРёС‡РёРЅР°,</plain>
         </string>
         <string>
-            <plain>Он наше все во всем!</plain>
+            <plain>РћРЅ РЅР°С€Рµ РІСЃРµ РІРѕ РІСЃРµРј!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Твое, Господь, мы стадо;</plain>
+            <plain>РўРІРѕРµ, Р“РѕСЃРїРѕРґСЊ, РјС‹ СЃС‚Р°РґРѕ;</plain>
         </string>
         <string>
-            <plain>Ты - Пастырь наш один!</plain>
+            <plain>РўС‹ - РџР°СЃС‚С‹СЂСЊ РЅР°С€ РѕРґРёРЅ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Различны мы дарами</plain>
+            <plain>Р Р°Р·Р»РёС‡РЅС‹ РјС‹ РґР°СЂР°РјРё</plain>
         </string>
         <string>
-            <plain>И в возрасте Твоем,</plain>
+            <plain>Р РІ РІРѕР·СЂР°СЃС‚Рµ РўРІРѕРµРј,</plain>
         </string>
         <string>
-            <plain>И с разными друзьями,</plain>
+            <plain>Р СЃ СЂР°Р·РЅС‹РјРё РґСЂСѓР·СЊСЏРјРё,</plain>
         </string>
         <string>
-            <plain>Но все к Тебе идем;</plain>
+            <plain>РќРѕ РІСЃРµ Рє РўРµР±Рµ РёРґРµРј;</plain>
         </string>
         <string>
-            <plain>Бесплодные различья</plain>
+            <plain>Р‘РµСЃРїР»РѕРґРЅС‹Рµ СЂР°Р·Р»РёС‡СЊСЏ</plain>
         </string>
         <string>
-            <plain>Ты Сам, Господь, рассей:</plain>
+            <plain>РўС‹ РЎР°Рј, Р“РѕСЃРїРѕРґСЊ, СЂР°СЃСЃРµР№:</plain>
         </string>
         <string>
-            <plain>Яви Свое величье</plain>
+            <plain>РЇРІРё РЎРІРѕРµ РІРµР»РёС‡СЊРµ</plain>
         </string>
         <string>
-            <plain>И нас в едино слей.</plain>
+            <plain>Р РЅР°СЃ РІ РµРґРёРЅРѕ СЃР»РµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай глубже нам сознанье</plain>
+            <plain>Р”Р°Р№ РіР»СѓР±Р¶Рµ РЅР°Рј СЃРѕР·РЅР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Единства Твоего,</plain>
+            <plain>Р•РґРёРЅСЃС‚РІР° РўРІРѕРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>идем ли чрез страданье.</plain>
+            <plain>РёРґРµРј Р»Рё С‡СЂРµР· СЃС‚СЂР°РґР°РЅСЊРµ.</plain>
         </string>
         <string>
-            <plain>Чрез скорбь иль торжество.</plain>
+            <plain>Р§СЂРµР· СЃРєРѕСЂР±СЊ РёР»СЊ С‚РѕСЂР¶РµСЃС‚РІРѕ.</plain>
         </string>
         <string>
-            <plain>Дай радость единенья</plain>
+            <plain>Р”Р°Р№ СЂР°РґРѕСЃС‚СЊ РµРґРёРЅРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В Твоем святом труде,</plain>
+            <plain>Р’ РўРІРѕРµРј СЃРІСЏС‚РѕРј С‚СЂСѓРґРµ,</plain>
         </string>
         <string>
-            <plain>В делах благотворенья.</plain>
+            <plain>Р’ РґРµР»Р°С… Р±Р»Р°РіРѕС‚РІРѕСЂРµРЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>Во всем всегда, везде.</plain>
+            <plain>Р’Рѕ РІСЃРµРј РІСЃРµРіРґР°, РІРµР·РґРµ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="937" name="Мне мама в детстве говорила" canon="false" text="" textRus="" music="">
+<psalm number="937" name="РњРЅРµ РјР°РјР° РІ РґРµС‚СЃС‚РІРµ РіРѕРІРѕСЂРёР»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мне мама в детстве говорила:</plain>
+            <plain>РњРЅРµ РјР°РјР° РІ РґРµС‚СЃС‚РІРµ РіРѕРІРѕСЂРёР»Р°:</plain>
         </string>
         <string>
-            <plain>"Дитя, почаще ты молись.</plain>
+            <plain>"Р”РёС‚СЏ, РїРѕС‡Р°С‰Рµ С‚С‹ РјРѕР»РёСЃСЊ.</plain>
         </string>
         <string>
-            <plain>В молитве дивная есть сила,</plain>
+            <plain>Р’ РјРѕР»РёС‚РІРµ РґРёРІРЅР°СЏ РµСЃС‚СЊ СЃРёР»Р°,</plain>
         </string>
         <string>
-            <plain>Забыть молиться - берегись!"</plain>
+            <plain>Р—Р°Р±С‹С‚СЊ РјРѕР»РёС‚СЊСЃСЏ - Р±РµСЂРµРіРёСЃСЊ!"</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Бывают в жизни испытанья,</plain>
+            <plain>Р‘С‹РІР°СЋС‚ РІ Р¶РёР·РЅРё РёСЃРїС‹С‚Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Соблазн бывает - ты молись.</plain>
+            <plain>РЎРѕР±Р»Р°Р·РЅ Р±С‹РІР°РµС‚ - С‚С‹ РјРѕР»РёСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Сожмется сердце от страданья</plain>
+            <plain>РЎРѕР¶РјРµС‚СЃСЏ СЃРµСЂРґС†Рµ РѕС‚ СЃС‚СЂР°РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>- Стань на колени и молись.</plain>
+            <plain>- РЎС‚Р°РЅСЊ РЅР° РєРѕР»РµРЅРё Рё РјРѕР»РёСЃСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Прошли года, я возмужала,</plain>
+            <plain>РџСЂРѕС€Р»Рё РіРѕРґР°, СЏ РІРѕР·РјСѓР¶Р°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Жизнь много бед мне принесла,</plain>
+            <plain>Р–РёР·РЅСЊ РјРЅРѕРіРѕ Р±РµРґ РјРЅРµ РїСЂРёРЅРµСЃР»Р°,</plain>
         </string>
         <string>
-            <plain>Судьба меня не пожалела:</plain>
+            <plain>РЎСѓРґСЊР±Р° РјРµРЅСЏ РЅРµ РїРѕР¶Р°Р»РµР»Р°:</plain>
         </string>
         <string>
-            <plain>Тяжелый крест нести дала.</plain>
+            <plain>РўСЏР¶РµР»С‹Р№ РєСЂРµСЃС‚ РЅРµСЃС‚Рё РґР°Р»Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И как ни рвался дух мятежный,</plain>
+            <plain>Р РєР°Рє РЅРё СЂРІР°Р»СЃСЏ РґСѓС… РјСЏС‚РµР¶РЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Мне ясно слышалось:</plain>
+            <plain>РњРЅРµ СЏСЃРЅРѕ СЃР»С‹С€Р°Р»РѕСЃСЊ:</plain>
         </string>
         <string>
-            <plain>"Борись!" И все шептал тот голос нежный:</plain>
+            <plain>"Р‘РѕСЂРёСЃСЊ!" Р РІСЃРµ С€РµРїС‚Р°Р» С‚РѕС‚ РіРѕР»РѕСЃ РЅРµР¶РЅС‹Р№:</plain>
         </string>
         <string>
-            <plain>"Встань на колени и молись!"</plain>
+            <plain>"Р’СЃС‚Р°РЅСЊ РЅР° РєРѕР»РµРЅРё Рё РјРѕР»РёСЃСЊ!"</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И я молилась. Буря выла,</plain>
+            <plain>Р СЏ РјРѕР»РёР»Р°СЃСЊ. Р‘СѓСЂСЏ РІС‹Р»Р°,</plain>
         </string>
         <string>
-            <plain>Сжимая сердце мне тоской.</plain>
+            <plain>РЎР¶РёРјР°СЏ СЃРµСЂРґС†Рµ РјРЅРµ С‚РѕСЃРєРѕР№.</plain>
         </string>
         <string>
-            <plain>И над моей больной главой</plain>
+            <plain>Р РЅР°Рґ РјРѕРµР№ Р±РѕР»СЊРЅРѕР№ РіР»Р°РІРѕР№</plain>
         </string>
         <string>
-            <plain>Носился вихрь вражды людской.</plain>
+            <plain>РќРѕСЃРёР»СЃСЏ РІРёС…СЂСЊ РІСЂР°Р¶РґС‹ Р»СЋРґСЃРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>И вот, сквозь мрак моих страданий,</plain>
+            <plain>Р РІРѕС‚, СЃРєРІРѕР·СЊ РјСЂР°Рє РјРѕРёС… СЃС‚СЂР°РґР°РЅРёР№,</plain>
         </string>
         <string>
-            <plain>Надежды луч все осветил.</plain>
+            <plain>РќР°РґРµР¶РґС‹ Р»СѓС‡ РІСЃРµ РѕСЃРІРµС‚РёР».</plain>
         </string>
         <string>
-            <plain>И светлым, радостным сознаньем</plain>
+            <plain>Р СЃРІРµС‚Р»С‹Рј, СЂР°РґРѕСЃС‚РЅС‹Рј СЃРѕР·РЅР°РЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>Христос мне душу озарил.</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РјРЅРµ РґСѓС€Сѓ РѕР·Р°СЂРёР».</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>И мне казалось, что высоко</plain>
+            <plain>Р РјРЅРµ РєР°Р·Р°Р»РѕСЃСЊ, С‡С‚Рѕ РІС‹СЃРѕРєРѕ</plain>
         </string>
         <string>
-            <plain>Так ясно слышалось:</plain>
+            <plain>РўР°Рє СЏСЃРЅРѕ СЃР»С‹С€Р°Р»РѕСЃСЊ:</plain>
         </string>
         <string>
-            <plain>"Борись! Господня помощь недалеко!</plain>
+            <plain>"Р‘РѕСЂРёСЃСЊ! Р“РѕСЃРїРѕРґРЅСЏ РїРѕРјРѕС‰СЊ РЅРµРґР°Р»РµРєРѕ!</plain>
         </string>
         <string>
-            <plain>Встань на колени и молись!"</plain>
+            <plain>Р’СЃС‚Р°РЅСЊ РЅР° РєРѕР»РµРЅРё Рё РјРѕР»РёСЃСЊ!"</plain>
         </string>
     </verse>
 </psalm>

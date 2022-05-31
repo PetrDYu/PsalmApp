@@ -1,183 +1,183 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="139" name="Боже славим мы Тебя" canon="false" text="" textRus="" music="">
+<psalm number="139" name="Р‘РѕР¶Рµ СЃР»Р°РІРёРј РјС‹ РўРµР±СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, славим мы Тебя</plain>
+            <plain>Р‘РѕР¶Рµ, СЃР»Р°РІРёРј РјС‹ РўРµР±СЏ</plain>
         </string>
         <string>
-            <plain>И хваление приносим!</plain>
+            <plain>Р С…РІР°Р»РµРЅРёРµ РїСЂРёРЅРѕСЃРёРј!</plain>
         </string>
         <string>
-            <plain>Вечный, песнь поем Тебе</plain>
+            <plain>Р’РµС‡РЅС‹Р№, РїРµСЃРЅСЊ РїРѕРµРј РўРµР±Рµ</plain>
         </string>
         <string>
-            <plain>И сердца к Тебе возносим.</plain>
+            <plain>Р СЃРµСЂРґС†Р° Рє РўРµР±Рµ РІРѕР·РЅРѕСЃРёРј.</plain>
         </string>
         <string>
-            <plain>Преклонившись пред Тобой,</plain>
+            <plain>РџСЂРµРєР»РѕРЅРёРІС€РёСЃСЊ РїСЂРµРґ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Величаем, Царь благой!</plain>
+            <plain>Р’РµР»РёС‡Р°РµРј, Р¦Р°СЂСЊ Р±Р»Р°РіРѕР№!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Души праведных, святых,</plain>
+            <plain>Р”СѓС€Рё РїСЂР°РІРµРґРЅС‹С…, СЃРІСЏС‚С‹С…,</plain>
         </string>
         <string>
-            <plain>Сонмы, власти сил небесных</plain>
+            <plain>РЎРѕРЅРјС‹, РІР»Р°СЃС‚Рё СЃРёР» РЅРµР±РµСЃРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Славят благость дел Твоих,</plain>
+            <plain>РЎР»Р°РІСЏС‚ Р±Р»Р°РіРѕСЃС‚СЊ РґРµР» РўРІРѕРёС…,</plain>
         </string>
         <string>
-            <plain>Дел великих и чудесных,</plain>
+            <plain>Р”РµР» РІРµР»РёРєРёС… Рё С‡СѓРґРµСЃРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Славят Бога и Отца,</plain>
+            <plain>РЎР»Р°РІСЏС‚ Р‘РѕРіР° Рё РћС‚С†Р°,</plain>
         </string>
         <string>
-            <plain>Вседержителя Творца.</plain>
+            <plain>Р’СЃРµРґРµСЂР¶РёС‚РµР»СЏ РўРІРѕСЂС†Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Глас апостолов святых</plain>
+            <plain>Р“Р»Р°СЃ Р°РїРѕСЃС‚РѕР»РѕРІ СЃРІСЏС‚С‹С…</plain>
         </string>
         <string>
-            <plain>И пророков вдохновенных,</plain>
+            <plain>Р РїСЂРѕСЂРѕРєРѕРІ РІРґРѕС…РЅРѕРІРµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Изъяснителей Твоих</plain>
+            <plain>РР·СЉСЏСЃРЅРёС‚РµР»РµР№ РўРІРѕРёС…</plain>
         </string>
         <string>
-            <plain>Слов премудрых, драгоценных,</plain>
+            <plain>РЎР»РѕРІ РїСЂРµРјСѓРґСЂС‹С…, РґСЂР°РіРѕС†РµРЅРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>С ними мучеников ряд,</plain>
+            <plain>РЎ РЅРёРјРё РјСѓС‡РµРЅРёРєРѕРІ СЂСЏРґ,</plain>
         </string>
         <string>
-            <plain>Все Тебя благодарят.</plain>
+            <plain>Р’СЃРµ РўРµР±СЏ Р±Р»Р°РіРѕРґР°СЂСЏС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Церковь на земле Твоя</plain>
+            <plain>Р¦РµСЂРєРѕРІСЊ РЅР° Р·РµРјР»Рµ РўРІРѕСЏ</plain>
         </string>
         <string>
-            <plain>Твое имя воспевает;</plain>
+            <plain>РўРІРѕРµ РёРјСЏ РІРѕСЃРїРµРІР°РµС‚;</plain>
         </string>
         <string>
-            <plain>Благостью Твоей живя,</plain>
+            <plain>Р‘Р»Р°РіРѕСЃС‚СЊСЋ РўРІРѕРµР№ Р¶РёРІСЏ,</plain>
         </string>
         <string>
-            <plain>Твоей славы ожидает.</plain>
+            <plain>РўРІРѕРµР№ СЃР»Р°РІС‹ РѕР¶РёРґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Всей хвалы достоин Ты</plain>
+            <plain>Р’СЃРµР№ С…РІР°Р»С‹ РґРѕСЃС‚РѕРёРЅ РўС‹</plain>
         </string>
         <string>
-            <plain>И любви всей полноты.</plain>
+            <plain>Р Р»СЋР±РІРё РІСЃРµР№ РїРѕР»РЅРѕС‚С‹.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Агнец кроткий, Ты здесь был</plain>
+            <plain>РђРіРЅРµС† РєСЂРѕС‚РєРёР№, РўС‹ Р·РґРµСЃСЊ Р±С‹Р»</plain>
         </string>
         <string>
-            <plain>Жертвой смерти и мученья,</plain>
+            <plain>Р–РµСЂС‚РІРѕР№ СЃРјРµСЂС‚Рё Рё РјСѓС‡РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Но все козни победил,</plain>
+            <plain>РќРѕ РІСЃРµ РєРѕР·РЅРё РїРѕР±РµРґРёР»,</plain>
         </string>
         <string>
-            <plain>Отразил все искушенья;</plain>
+            <plain>РћС‚СЂР°Р·РёР» РІСЃРµ РёСЃРєСѓС€РµРЅСЊСЏ;</plain>
         </string>
         <string>
-            <plain>Слава, слава, Боже сил!</plain>
+            <plain>РЎР»Р°РІР°, СЃР»Р°РІР°, Р‘РѕР¶Рµ СЃРёР»!</plain>
         </string>
         <string>
-            <plain>Иисус, Еммануил!</plain>
+            <plain>РРёСЃСѓСЃ, Р•РјРјР°РЅСѓРёР»!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>В небе царствуя с Отцом,</plain>
+            <plain>Р’ РЅРµР±Рµ С†Р°СЂСЃС‚РІСѓСЏ СЃ РћС‚С†РѕРј,</plain>
         </string>
         <string>
-            <plain>Восседаешь одесную</plain>
+            <plain>Р’РѕСЃСЃРµРґР°РµС€СЊ РѕРґРµСЃРЅСѓСЋ</plain>
         </string>
         <string>
-            <plain>В славе, в свете; к нам потом</plain>
+            <plain>Р’ СЃР»Р°РІРµ, РІ СЃРІРµС‚Рµ; Рє РЅР°Рј РїРѕС‚РѕРј</plain>
         </string>
         <string>
-            <plain>Снизойдешь в юдоль земную;</plain>
+            <plain>РЎРЅРёР·РѕР№РґРµС€СЊ РІ СЋРґРѕР»СЊ Р·РµРјРЅСѓСЋ;</plain>
         </string>
         <string>
-            <plain>И судить при всех святых</plain>
+            <plain>Р СЃСѓРґРёС‚СЊ РїСЂРё РІСЃРµС… СЃРІСЏС‚С‹С…</plain>
         </string>
         <string>
-            <plain>Будешь мертвых и живых.</plain>
+            <plain>Р‘СѓРґРµС€СЊ РјРµСЂС‚РІС‹С… Рё Р¶РёРІС‹С….</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Господи! Благослови</plain>
+            <plain>Р“РѕСЃРїРѕРґРё! Р‘Р»Р°РіРѕСЃР»РѕРІРё</plain>
         </string>
         <string>
-            <plain>Твой народ и достоянье,</plain>
+            <plain>РўРІРѕР№ РЅР°СЂРѕРґ Рё РґРѕСЃС‚РѕСЏРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Дай чрез скорби все пройти</plain>
+            <plain>Р”Р°Р№ С‡СЂРµР· СЃРєРѕСЂР±Рё РІСЃРµ РїСЂРѕР№С‚Рё</plain>
         </string>
         <string>
-            <plain>И хранить святое званье;</plain>
+            <plain>Р С…СЂР°РЅРёС‚СЊ СЃРІСЏС‚РѕРµ Р·РІР°РЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Избранных веди Твоих</plain>
+            <plain>РР·Р±СЂР°РЅРЅС‹С… РІРµРґРё РўРІРѕРёС…</plain>
         </string>
         <string>
-            <plain>В радость вечную святых.</plain>
+            <plain>Р’ СЂР°РґРѕСЃС‚СЊ РІРµС‡РЅСѓСЋ СЃРІСЏС‚С‹С….</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Дай Тебе, Господь, отдать</plain>
+            <plain>Р”Р°Р№ РўРµР±Рµ, Р“РѕСЃРїРѕРґСЊ, РѕС‚РґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Сердца каждое биенье,</plain>
+            <plain>РЎРµСЂРґС†Р° РєР°Р¶РґРѕРµ Р±РёРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Дай Тобою лишь дышать,</plain>
+            <plain>Р”Р°Р№ РўРѕР±РѕСЋ Р»РёС€СЊ РґС‹С€Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Жить Тебе на прославленье.</plain>
+            <plain>Р–РёС‚СЊ РўРµР±Рµ РЅР° РїСЂРѕСЃР»Р°РІР»РµРЅСЊРµ.</plain>
         </string>
         <string>
-            <plain>Сам Ты душу нам согрей</plain>
+            <plain>РЎР°Рј РўС‹ РґСѓС€Сѓ РЅР°Рј СЃРѕРіСЂРµР№</plain>
         </string>
         <string>
-            <plain>Пламенем любви Твоей.</plain>
+            <plain>РџР»Р°РјРµРЅРµРј Р»СЋР±РІРё РўРІРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>Слава Троице вовек,</plain>
+            <plain>РЎР»Р°РІР° РўСЂРѕРёС†Рµ РІРѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>Дух Святой, Отец небесный,</plain>
+            <plain>Р”СѓС… РЎРІСЏС‚РѕР№, РћС‚РµС† РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Сын и Богочеловек,</plain>
+            <plain>РЎС‹РЅ Рё Р‘РѕРіРѕС‡РµР»РѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>Воплотившийся чудесно.</plain>
+            <plain>Р’РѕРїР»РѕС‚РёРІС€РёР№СЃСЏ С‡СѓРґРµСЃРЅРѕ.</plain>
         </string>
         <string>
-            <plain>Да прославят все сердца</plain>
+            <plain>Р”Р° РїСЂРѕСЃР»Р°РІСЏС‚ РІСЃРµ СЃРµСЂРґС†Р°</plain>
         </string>
         <string>
-            <plain>Имя Господа Христа!</plain>
+            <plain>РРјСЏ Р“РѕСЃРїРѕРґР° РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
 </psalm>

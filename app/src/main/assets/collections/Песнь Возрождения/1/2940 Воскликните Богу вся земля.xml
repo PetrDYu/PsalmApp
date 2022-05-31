@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2940" name="Воскликните Богу вся земля" canon="false" text="" textRus="" music="">
+<psalm number="2940" name="Р’РѕСЃРєР»РёРєРЅРёС‚Рµ Р‘РѕРіСѓ РІСЃСЏ Р·РµРјР»СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Воскликните Богу, вся земля!</plain>
+            <plain>Р’РѕСЃРєР»РёРєРЅРёС‚Рµ Р‘РѕРіСѓ, РІСЃСЏ Р·РµРјР»СЏ!</plain>
         </string>
         <string>
-            <plain>Служите, Господа хваля!</plain>
+            <plain>РЎР»СѓР¶РёС‚Рµ, Р“РѕСЃРїРѕРґР° С…РІР°Р»СЏ!</plain>
         </string>
         <string>
-            <plain>Идите с восклицанием</plain>
+            <plain>РРґРёС‚Рµ СЃ РІРѕСЃРєР»РёС†Р°РЅРёРµРј</plain>
         </string>
         <string>
-            <plain>пред лицо Его, с пением.</plain>
+            <plain>РїСЂРµРґ Р»РёС†Рѕ Р•РіРѕ, СЃ РїРµРЅРёРµРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Воскликните Богу, вся земля!</plain>
+            <plain>Р’РѕСЃРєР»РёРєРЅРёС‚Рµ Р‘РѕРіСѓ, РІСЃСЏ Р·РµРјР»СЏ!</plain>
         </string>
         <string>
-            <plain>Достоин Он восхваления.</plain>
+            <plain>Р”РѕСЃС‚РѕРёРЅ РћРЅ РІРѕСЃС…РІР°Р»РµРЅРёСЏ.</plain>
         </string>
         <string>
-            <plain>Хвалу и честь мы вознесём:</plain>
+            <plain>РҐРІР°Р»Сѓ Рё С‡РµСЃС‚СЊ РјС‹ РІРѕР·РЅРµСЃС‘Рј:</plain>
         </string>
         <string>
-            <plain>победу мы имеем в Нём!</plain>
+            <plain>РїРѕР±РµРґСѓ РјС‹ РёРјРµРµРј РІ РќС‘Рј!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Познайте, что Бог - Господь для всех,</plain>
+            <plain>РџРѕР·РЅР°Р№С‚Рµ, С‡С‚Рѕ Р‘РѕРі - Р“РѕСЃРїРѕРґСЊ РґР»СЏ РІСЃРµС…,</plain>
         </string>
         <string>
-            <plain>кто б ни был ты, о человек!</plain>
+            <plain>РєС‚Рѕ Р± РЅРё Р±С‹Р» С‚С‹, Рѕ С‡РµР»РѕРІРµРє!</plain>
         </string>
         <string>
-            <plain>Он сотворил нас. Мы Его,</plain>
+            <plain>РћРЅ СЃРѕС‚РІРѕСЂРёР» РЅР°СЃ. РњС‹ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>да, мы овцы паствы Его.</plain>
+            <plain>РґР°, РјС‹ РѕРІС†С‹ РїР°СЃС‚РІС‹ Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Входите в Его врата с хвалой,</plain>
+            <plain>Р’С…РѕРґРёС‚Рµ РІ Р•РіРѕ РІСЂР°С‚Р° СЃ С…РІР°Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>со славословьем и мольбой;</plain>
+            <plain>СЃРѕ СЃР»Р°РІРѕСЃР»РѕРІСЊРµРј Рё РјРѕР»СЊР±РѕР№;</plain>
         </string>
         <string>
-            <plain>восславьте имя вы Его!</plain>
+            <plain>РІРѕСЃСЃР»Р°РІСЊС‚Рµ РёРјСЏ РІС‹ Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>Славьте Господа своего!</plain>
+            <plain>РЎР»Р°РІСЊС‚Рµ Р“РѕСЃРїРѕРґР° СЃРІРѕРµРіРѕ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Как благ наш Господь, хвала Ему!</plain>
+            <plain>РљР°Рє Р±Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ, С…РІР°Р»Р° Р•РјСѓ!</plain>
         </string>
         <string>
-            <plain>Богат вовек Он милостью,</plain>
+            <plain>Р‘РѕРіР°С‚ РІРѕРІРµРє РћРЅ РјРёР»РѕСЃС‚СЊСЋ,</plain>
         </string>
         <string>
-            <plain>и правда Его в род и род.</plain>
+            <plain>Рё РїСЂР°РІРґР° Р•РіРѕ РІ СЂРѕРґ Рё СЂРѕРґ.</plain>
         </string>
         <string>
-            <plain>Счастлив вечно Его народ!</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІ РІРµС‡РЅРѕ Р•РіРѕ РЅР°СЂРѕРґ!</plain>
         </string>
     </verse>
 </psalm>

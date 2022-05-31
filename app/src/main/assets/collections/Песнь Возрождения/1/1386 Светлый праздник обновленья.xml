@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1386" name="Светлый праздник обновленья" canon="false" text="" textRus="" music="">
+<psalm number="1386" name="РЎРІРµС‚Р»С‹Р№ РїСЂР°Р·РґРЅРёРє РѕР±РЅРѕРІР»РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Светлый праздник обновленья,</plain>
+            <plain>РЎРІРµС‚Р»С‹Р№ РїСЂР°Р·РґРЅРёРє РѕР±РЅРѕРІР»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Юной жизни пышный пир!</plain>
+            <plain>Р®РЅРѕР№ Р¶РёР·РЅРё РїС‹С€РЅС‹Р№ РїРёСЂ!</plain>
         </string>
         <string>
-            <plain>Жизнедавца воскресенье</plain>
+            <plain>Р–РёР·РЅРµРґР°РІС†Р° РІРѕСЃРєСЂРµСЃРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Воспевает Божий мир.</plain>
+            <plain>Р’РѕСЃРїРµРІР°РµС‚ Р‘РѕР¶РёР№ РјРёСЂ.</plain>
         </string>
         <string>
-            <plain>Он воскрес, и сердца крылья</plain>
+            <plain>РћРЅ РІРѕСЃРєСЂРµСЃ, Рё СЃРµСЂРґС†Р° РєСЂС‹Р»СЊСЏ</plain>
         </string>
         <string>
-            <plain>Словно ширятся, растут.</plain>
+            <plain>РЎР»РѕРІРЅРѕ С€РёСЂСЏС‚СЃСЏ, СЂР°СЃС‚СѓС‚.</plain>
         </string>
         <string>
-            <plain>Тает прежнее бессилье.</plain>
+            <plain>РўР°РµС‚ РїСЂРµР¶РЅРµРµ Р±РµСЃСЃРёР»СЊРµ.</plain>
         </string>
         <string>
-            <plain>Не страшны борьба и труд.</plain>
+            <plain>РќРµ СЃС‚СЂР°С€РЅС‹ Р±РѕСЂСЊР±Р° Рё С‚СЂСѓРґ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Смерти нет! Христос, страдая.</plain>
+            <plain>РЎРјРµСЂС‚Рё РЅРµС‚! РҐСЂРёСЃС‚РѕСЃ, СЃС‚СЂР°РґР°СЏ.</plain>
         </string>
         <string>
-            <plain>Смертью крестной смерть попрал.</plain>
+            <plain>РЎРјРµСЂС‚СЊСЋ РєСЂРµСЃС‚РЅРѕР№ СЃРјРµСЂС‚СЊ РїРѕРїСЂР°Р».</plain>
         </string>
         <string>
-            <plain>Всем изгнанникам из рая</plain>
+            <plain>Р’СЃРµРј РёР·РіРЅР°РЅРЅРёРєР°Рј РёР· СЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Жизнь Собою даровал.</plain>
+            <plain>Р–РёР·РЅСЊ РЎРѕР±РѕСЋ РґР°СЂРѕРІР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Смерти нет! Христос из гроба</plain>
+            <plain>РЎРјРµСЂС‚Рё РЅРµС‚! РҐСЂРёСЃС‚РѕСЃ РёР· РіСЂРѕР±Р°</plain>
         </string>
         <string>
-            <plain>Мощной силою восстал!</plain>
+            <plain>РњРѕС‰РЅРѕР№ СЃРёР»РѕСЋ РІРѕСЃСЃС‚Р°Р»!</plain>
         </string>
         <string>
-            <plain>Смерти нет! Христос спасенье</plain>
+            <plain>РЎРјРµСЂС‚Рё РЅРµС‚! РҐСЂРёСЃС‚РѕСЃ СЃРїР°СЃРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>В обновленный мир несет!</plain>
+            <plain>Р’ РѕР±РЅРѕРІР»РµРЅРЅС‹Р№ РјРёСЂ РЅРµСЃРµС‚!</plain>
         </string>
         <string>
-            <plain>Ныне с небом примиренье</plain>
+            <plain>РќС‹РЅРµ СЃ РЅРµР±РѕРј РїСЂРёРјРёСЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Бедным грешникам дает.</plain>
+            <plain>Р‘РµРґРЅС‹Рј РіСЂРµС€РЅРёРєР°Рј РґР°РµС‚.</plain>
         </string>
         <string>
-            <plain>Пусть несется весть благая:</plain>
+            <plain>РџСѓСЃС‚СЊ РЅРµСЃРµС‚СЃСЏ РІРµСЃС‚СЊ Р±Р»Р°РіР°СЏ:</plain>
         </string>
         <string>
-            <plain>Иисус Христос воскрес!</plain>
+            <plain>РРёСЃСѓСЃ РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ!</plain>
         </string>
     </verse>
 </psalm>

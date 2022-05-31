@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="723" name="Любовь как солнце над землей" canon="false" text="" textRus="" music="">
+<psalm number="723" name="Р›СЋР±РѕРІСЊ РєР°Рє СЃРѕР»РЅС†Рµ РЅР°Рґ Р·РµРјР»РµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Любовь, как солнце над землей,</plain>
+            <plain>Р›СЋР±РѕРІСЊ, РєР°Рє СЃРѕР»РЅС†Рµ РЅР°Рґ Р·РµРјР»РµР№,</plain>
         </string>
         <string>
-            <plain>Поставил Бог - Творец,</plain>
+            <plain>РџРѕСЃС‚Р°РІРёР» Р‘РѕРі - РўРІРѕСЂРµС†,</plain>
         </string>
         <string>
-            <plain>Чтоб страждущим несла покой,</plain>
+            <plain>Р§С‚РѕР± СЃС‚СЂР°Р¶РґСѓС‰РёРј РЅРµСЃР»Р° РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>А горестям конец.</plain>
+            <plain>Рђ РіРѕСЂРµСЃС‚СЏРј РєРѕРЅРµС†.</plain>
         </string>
         <string>
-            <plain>Не терпит холод и туман</plain>
+            <plain>РќРµ С‚РµСЂРїРёС‚ С…РѕР»РѕРґ Рё С‚СѓРјР°РЅ</plain>
         </string>
         <string>
-            <plain>Спасительных лучей,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊРЅС‹С… Р»СѓС‡РµР№,</plain>
         </string>
         <string>
-            <plain>Любовь несет для всяких ран</plain>
+            <plain>Р›СЋР±РѕРІСЊ РЅРµСЃРµС‚ РґР»СЏ РІСЃСЏРєРёС… СЂР°РЅ</plain>
         </string>
         <string>
-            <plain>Целительный елей.</plain>
+            <plain>Р¦РµР»РёС‚РµР»СЊРЅС‹Р№ РµР»РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Любовь Творца с начала дней</plain>
+            <plain>Р›СЋР±РѕРІСЊ РўРІРѕСЂС†Р° СЃ РЅР°С‡Р°Р»Р° РґРЅРµР№</plain>
         </string>
         <string>
-            <plain>Живит сердца и в тишине</plain>
+            <plain>Р–РёРІРёС‚ СЃРµСЂРґС†Р° Рё РІ С‚РёС€РёРЅРµ</plain>
         </string>
         <string>
-            <plain>Течет ко мне, течет к тебе</plain>
+            <plain>РўРµС‡РµС‚ РєРѕ РјРЅРµ, С‚РµС‡РµС‚ Рє С‚РµР±Рµ</plain>
         </string>
         <string>
-            <plain>И дивно всех влечет к себе.</plain>
+            <plain>Р РґРёРІРЅРѕ РІСЃРµС… РІР»РµС‡РµС‚ Рє СЃРµР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Когда любви Господней луч</plain>
+            <plain>РљРѕРіРґР° Р»СЋР±РІРё Р“РѕСЃРїРѕРґРЅРµР№ Р»СѓС‡</plain>
         </string>
         <string>
-            <plain>Проникнул в сердце мне,</plain>
+            <plain>РџСЂРѕРЅРёРєРЅСѓР» РІ СЃРµСЂРґС†Рµ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Исчезла тьма, не стало туч,</plain>
+            <plain>РСЃС‡РµР·Р»Р° С‚СЊРјР°, РЅРµ СЃС‚Р°Р»Рѕ С‚СѓС‡,</plain>
         </string>
         <string>
-            <plain>Очнулся я вполне.</plain>
+            <plain>РћС‡РЅСѓР»СЃСЏ СЏ РІРїРѕР»РЅРµ.</plain>
         </string>
         <string>
-            <plain>Теперь я знаю, кто меня</plain>
+            <plain>РўРµРїРµСЂСЊ СЏ Р·РЅР°СЋ, РєС‚Рѕ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>До смерти возлюбил,</plain>
+            <plain>Р”Рѕ СЃРјРµСЂС‚Рё РІРѕР·Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>Лишь для Него жить буду я,</plain>
+            <plain>Р›РёС€СЊ РґР»СЏ РќРµРіРѕ Р¶РёС‚СЊ Р±СѓРґСѓ СЏ,</plain>
         </string>
         <string>
-            <plain>Пока дает мне сил.</plain>
+            <plain>РџРѕРєР° РґР°РµС‚ РјРЅРµ СЃРёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>То Солнце Правды и Любви,</plain>
+            <plain>РўРѕ РЎРѕР»РЅС†Рµ РџСЂР°РІРґС‹ Рё Р›СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Что летом и зимой</plain>
+            <plain>Р§С‚Рѕ Р»РµС‚РѕРј Рё Р·РёРјРѕР№</plain>
         </string>
         <string>
-            <plain>Меня и греет и живит –</plain>
+            <plain>РњРµРЅСЏ Рё РіСЂРµРµС‚ Рё Р¶РёРІРёС‚ вЂ“</plain>
         </string>
         <string>
-            <plain>Христос, Спаситель мой.</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Ему восторженно пою</plain>
+            <plain>Р•РјСѓ РІРѕСЃС‚РѕСЂР¶РµРЅРЅРѕ РїРѕСЋ</plain>
         </string>
         <string>
-            <plain>В долине слез и бед</plain>
+            <plain>Р’ РґРѕР»РёРЅРµ СЃР»РµР· Рё Р±РµРґ</plain>
         </string>
         <string>
-            <plain>И буду петь в святом краю,</plain>
+            <plain>Р Р±СѓРґСѓ РїРµС‚СЊ РІ СЃРІСЏС‚РѕРј РєСЂР°СЋ,</plain>
         </string>
         <string>
-            <plain>Где мук и горя нет.</plain>
+            <plain>Р“РґРµ РјСѓРє Рё РіРѕСЂСЏ РЅРµС‚.</plain>
         </string>
     </verse>
 </psalm>

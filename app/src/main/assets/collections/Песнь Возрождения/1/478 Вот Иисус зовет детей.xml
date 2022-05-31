@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="478" name="Вот Иисус зовет детей" canon="false" text="" textRus="" music="">
+<psalm number="478" name="Р’РѕС‚ РРёСЃСѓСЃ Р·РѕРІРµС‚ РґРµС‚РµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот Иисус зовет детей,</plain>
+            <plain>Р’РѕС‚ РРёСЃСѓСЃ Р·РѕРІРµС‚ РґРµС‚РµР№,</plain>
         </string>
         <string>
-            <plain>Он сегодня нас зовет;</plain>
+            <plain>РћРЅ СЃРµРіРѕРґРЅСЏ РЅР°СЃ Р·РѕРІРµС‚;</plain>
         </string>
         <string>
-            <plain>По пути блаженных дней</plain>
+            <plain>РџРѕ РїСѓС‚Рё Р±Р»Р°Р¶РµРЅРЅС‹С… РґРЅРµР№</plain>
         </string>
         <string>
-            <plain>Он пришедших поведет.</plain>
+            <plain>РћРЅ РїСЂРёС€РµРґС€РёС… РїРѕРІРµРґРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус зовет детей;</plain>
+            <plain>РРёСЃСѓСЃ Р·РѕРІРµС‚ РґРµС‚РµР№;</plain>
         </string>
         <string>
-            <plain>Он зовет, Он зовет!</plain>
+            <plain>РћРЅ Р·РѕРІРµС‚, РћРЅ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Слушайте, Он зовет:</plain>
+            <plain>РЎР»СѓС€Р°Р№С‚Рµ, РћРЅ Р·РѕРІРµС‚:</plain>
         </string>
         <string>
-            <plain>"О, придите ко Мне!"</plain>
+            <plain>"Рћ, РїСЂРёРґРёС‚Рµ РєРѕ РњРЅРµ!"</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Юные сердца! Христу</plain>
+            <plain>Р®РЅС‹Рµ СЃРµСЂРґС†Р°! РҐСЂРёСЃС‚Сѓ</plain>
         </string>
         <string>
-            <plain>Дайте веры чистоту.</plain>
+            <plain>Р”Р°Р№С‚Рµ РІРµСЂС‹ С‡РёСЃС‚РѕС‚Сѓ.</plain>
         </string>
         <string>
-            <plain>Пойте, юные уста,</plain>
+            <plain>РџРѕР№С‚Рµ, СЋРЅС‹Рµ СѓСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Прославляя дар Христа!</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏСЏ РґР°СЂ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жизни юные! Скорей</plain>
+            <plain>Р–РёР·РЅРё СЋРЅС‹Рµ! РЎРєРѕСЂРµР№</plain>
         </string>
         <string>
-            <plain>Дайте Богу утро дней.</plain>
+            <plain>Р”Р°Р№С‚Рµ Р‘РѕРіСѓ СѓС‚СЂРѕ РґРЅРµР№.</plain>
         </string>
         <string>
-            <plain>Вот Иисус зовет опять:</plain>
+            <plain>Р’РѕС‚ РРёСЃСѓСЃ Р·РѕРІРµС‚ РѕРїСЏС‚СЊ:</plain>
         </string>
         <string>
-            <plain>Поспешите зов принять.</plain>
+            <plain>РџРѕСЃРїРµС€РёС‚Рµ Р·РѕРІ РїСЂРёРЅСЏС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

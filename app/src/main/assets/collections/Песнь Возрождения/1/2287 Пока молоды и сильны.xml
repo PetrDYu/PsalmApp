@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2287" name="Пока молоды и сильны" canon="false" text="" textRus="" music="">
+<psalm number="2287" name="РџРѕРєР° РјРѕР»РѕРґС‹ Рё СЃРёР»СЊРЅС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пока молоды и сильны,</plain>
+            <plain>РџРѕРєР° РјРѕР»РѕРґС‹ Рё СЃРёР»СЊРЅС‹,</plain>
         </string>
         <string>
-            <plain>Сердце смелое в груди,</plain>
+            <plain>РЎРµСЂРґС†Рµ СЃРјРµР»РѕРµ РІ РіСЂСѓРґРё,</plain>
         </string>
         <string>
-            <plain>Посвятим все жизни силы</plain>
+            <plain>РџРѕСЃРІСЏС‚РёРј РІСЃРµ Р¶РёР·РЅРё СЃРёР»С‹</plain>
         </string>
         <string>
-            <plain>На служение Христу.</plain>
+            <plain>РќР° СЃР»СѓР¶РµРЅРёРµ РҐСЂРёСЃС‚Сѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В винограднике Христовом</plain>
+            <plain>Р’ РІРёРЅРѕРіСЂР°РґРЅРёРєРµ РҐСЂРёСЃС‚РѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Каждый труд себе найдёт.</plain>
+            <plain>РљР°Р¶РґС‹Р№ С‚СЂСѓРґ СЃРµР±Рµ РЅР°Р№РґС‘С‚.</plain>
         </string>
         <string>
-            <plain>И пока труд не окончен</plain>
+            <plain>Р РїРѕРєР° С‚СЂСѓРґ РЅРµ РѕРєРѕРЅС‡РµРЅ</plain>
         </string>
         <string>
-            <plain>Солнышко пусть не зайдёт.</plain>
+            <plain>РЎРѕР»РЅС‹С€РєРѕ РїСѓСЃС‚СЊ РЅРµ Р·Р°Р№РґС‘С‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Во всех делах себя покажем,</plain>
+            <plain>Р’Рѕ РІСЃРµС… РґРµР»Р°С… СЃРµР±СЏ РїРѕРєР°Р¶РµРј,</plain>
         </string>
         <string>
-            <plain>Что Иисуса любим мы,</plain>
+            <plain>Р§С‚Рѕ РРёСЃСѓСЃР° Р»СЋР±РёРј РјС‹,</plain>
         </string>
         <string>
-            <plain>Слабым помощь мы окажем,</plain>
+            <plain>РЎР»Р°Р±С‹Рј РїРѕРјРѕС‰СЊ РјС‹ РѕРєР°Р¶РµРј,</plain>
         </string>
         <string>
-            <plain>Слёзы горькие утрём.</plain>
+            <plain>РЎР»С‘Р·С‹ РіРѕСЂСЊРєРёРµ СѓС‚СЂС‘Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Потому все за Иисусом,</plain>
+            <plain>РџРѕС‚РѕРјСѓ РІСЃРµ Р·Р° РРёСЃСѓСЃРѕРј,</plain>
         </string>
         <string>
-            <plain>Для Него мы будем жить.</plain>
+            <plain>Р”Р»СЏ РќРµРіРѕ РјС‹ Р±СѓРґРµРј Р¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Силы наши хоть и слабы,</plain>
+            <plain>РЎРёР»С‹ РЅР°С€Рё С…РѕС‚СЊ Рё СЃР»Р°Р±С‹,</plain>
         </string>
         <string>
-            <plain>Обещал Бог с нами быть.</plain>
+            <plain>РћР±РµС‰Р°Р» Р‘РѕРі СЃ РЅР°РјРё Р±С‹С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

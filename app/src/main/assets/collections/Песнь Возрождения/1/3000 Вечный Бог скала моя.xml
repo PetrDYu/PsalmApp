@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3000" name="Вечный Бог скала моя" canon="false" text="" textRus="" music="">
+<psalm number="3000" name="Р’РµС‡РЅС‹Р№ Р‘РѕРі СЃРєР°Р»Р° РјРѕСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вечный Бог, скала моя,</plain>
+            <plain>Р’РµС‡РЅС‹Р№ Р‘РѕРі, СЃРєР°Р»Р° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>защити, укрой меня;</plain>
+            <plain>Р·Р°С‰РёС‚Рё, СѓРєСЂРѕР№ РјРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>если ветры зло шумят,</plain>
+            <plain>РµСЃР»Рё РІРµС‚СЂС‹ Р·Р»Рѕ С€СѓРјСЏС‚,</plain>
         </string>
         <string>
-            <plain>дай, Господь, мне устоять.</plain>
+            <plain>РґР°Р№, Р“РѕСЃРїРѕРґСЊ, РјРЅРµ СѓСЃС‚РѕСЏС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Вечный Бог, моя скала!</plain>
+            <plain>Р’РµС‡РЅС‹Р№ Р‘РѕРі, РјРѕСЏ СЃРєР°Р»Р°!</plain>
         </string>
         <string>
-            <plain>Ты свети во мне всегда,</plain>
+            <plain>РўС‹ СЃРІРµС‚Рё РІРѕ РјРЅРµ РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>чтоб я бодр в молитве был,</plain>
+            <plain>С‡С‚РѕР± СЏ Р±РѕРґСЂ РІ РјРѕР»РёС‚РІРµ Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>для Тебя Господь, лишь жил.</plain>
+            <plain>РґР»СЏ РўРµР±СЏ Р“РѕСЃРїРѕРґСЊ, Р»РёС€СЊ Р¶РёР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В волнах жизни я тонул,</plain>
+            <plain>Р’ РІРѕР»РЅР°С… Р¶РёР·РЅРё СЏ С‚РѕРЅСѓР»,</plain>
         </string>
         <string>
-            <plain>Ты мне руку протянул;</plain>
+            <plain>РўС‹ РјРЅРµ СЂСѓРєСѓ РїСЂРѕС‚СЏРЅСѓР»;</plain>
         </string>
         <string>
-            <plain>чистым стал я от греха</plain>
+            <plain>С‡РёСЃС‚С‹Рј СЃС‚Р°Р» СЏ РѕС‚ РіСЂРµС…Р°</plain>
         </string>
         <string>
-            <plain>в час, когда нашёл Тебя.</plain>
+            <plain>РІ С‡Р°СЃ, РєРѕРіРґР° РЅР°С€С‘Р» РўРµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если волны мне грозят,</plain>
+            <plain>Р•СЃР»Рё РІРѕР»РЅС‹ РјРЅРµ РіСЂРѕР·СЏС‚,</plain>
         </string>
         <string>
-            <plain>устремлю я к небу взгляд;</plain>
+            <plain>СѓСЃС‚СЂРµРјР»СЋ СЏ Рє РЅРµР±Сѓ РІР·РіР»СЏРґ;</plain>
         </string>
         <string>
-            <plain>если твёрдо верю я,</plain>
+            <plain>РµСЃР»Рё С‚РІС‘СЂРґРѕ РІРµСЂСЋ СЏ,</plain>
         </string>
         <string>
-            <plain>враг не устрашит меня.</plain>
+            <plain>РІСЂР°Рі РЅРµ СѓСЃС‚СЂР°С€РёС‚ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О надёжная скала,</plain>
+            <plain>Рћ РЅР°РґС‘Р¶РЅР°СЏ СЃРєР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>крепость твёрдая моя,</plain>
+            <plain>РєСЂРµРїРѕСЃС‚СЊ С‚РІС‘СЂРґР°СЏ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Ты — убежище моё,</plain>
+            <plain>РўС‹ вЂ” СѓР±РµР¶РёС‰Рµ РјРѕС‘,</plain>
         </string>
         <string>
-            <plain>рог спасенья моего.</plain>
+            <plain>СЂРѕРі СЃРїР°СЃРµРЅСЊСЏ РјРѕРµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Рухнет хижина моя</plain>
+            <plain>Р СѓС…РЅРµС‚ С…РёР¶РёРЅР° РјРѕСЏ</plain>
         </string>
         <string>
-            <plain>и покину землю я,</plain>
+            <plain>Рё РїРѕРєРёРЅСѓ Р·РµРјР»СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>в дом небесный я войду,</plain>
+            <plain>РІ РґРѕРј РЅРµР±РµСЃРЅС‹Р№ СЏ РІРѕР№РґСѓ,</plain>
         </string>
         <string>
-            <plain>где я вечно отдохну.</plain>
+            <plain>РіРґРµ СЏ РІРµС‡РЅРѕ РѕС‚РґРѕС…РЅСѓ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Дорогой Иисус, укрой</plain>
+            <plain>Р”РѕСЂРѕРіРѕР№ РРёСЃСѓСЃ, СѓРєСЂРѕР№</plain>
         </string>
         <string>
-            <plain>Ты меня навек Собой;</plain>
+            <plain>РўС‹ РјРµРЅСЏ РЅР°РІРµРє РЎРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>я в Тебе пребыть хочу,</plain>
+            <plain>СЏ РІ РўРµР±Рµ РїСЂРµР±С‹С‚СЊ С…РѕС‡Сѓ,</plain>
         </string>
         <string>
-            <plain>весь Тебе принадлежу.</plain>
+            <plain>РІРµСЃСЊ РўРµР±Рµ РїСЂРёРЅР°РґР»РµР¶Сѓ.</plain>
         </string>
     </verse>
 </psalm>

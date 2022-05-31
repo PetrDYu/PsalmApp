@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2008" name="Иисус понимает всё" canon="false" text="" textRus="" music="">
+<psalm number="2008" name="РРёСЃСѓСЃ РїРѕРЅРёРјР°РµС‚ РІСЃС‘" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисус понимает всё</plain>
+            <plain>РРёСЃСѓСЃ РїРѕРЅРёРјР°РµС‚ РІСЃС‘</plain>
         </string>
         <string>
-            <plain>- Трудностей в жизни много.</plain>
+            <plain>- РўСЂСѓРґРЅРѕСЃС‚РµР№ РІ Р¶РёР·РЅРё РјРЅРѕРіРѕ.</plain>
         </string>
         <string>
-            <plain>Он верою меня ведет</plain>
+            <plain>РћРЅ РІРµСЂРѕСЋ РјРµРЅСЏ РІРµРґРµС‚</plain>
         </string>
         <string>
-            <plain>По жизненной трудной дороге,</plain>
+            <plain>РџРѕ Р¶РёР·РЅРµРЅРЅРѕР№ С‚СЂСѓРґРЅРѕР№ РґРѕСЂРѕРіРµ,</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>И я иду за Ним,</plain>
+            <plain>Р СЏ РёРґСѓ Р·Р° РќРёРј,</plain>
         </string>
         <string>
-            <plain>Любовью Его хранимый,</plain>
+            <plain>Р›СЋР±РѕРІСЊСЋ Р•РіРѕ С…СЂР°РЅРёРјС‹Р№,</plain>
         </string>
         <string>
-            <plain>Моя рука - в Его руке,</plain>
+            <plain>РњРѕСЏ СЂСѓРєР° - РІ Р•РіРѕ СЂСѓРєРµ,</plain>
         </string>
         <string>
-            <plain>И я не разлучаюсь с Ним</plain>
+            <plain>Р СЏ РЅРµ СЂР°Р·Р»СѓС‡Р°СЋСЃСЊ СЃ РќРёРј</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Верить; надеяться, любить</plain>
+            <plain>Р’РµСЂРёС‚СЊ; РЅР°РґРµСЏС‚СЊСЃСЏ, Р»СЋР±РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>- Больше в этой жизни ничего не надо!</plain>
+            <plain>- Р‘РѕР»СЊС€Рµ РІ СЌС‚РѕР№ Р¶РёР·РЅРё РЅРёС‡РµРіРѕ РЅРµ РЅР°РґРѕ!</plain>
         </string>
         <string>
-            <plain>Верить, надеяться, любить</plain>
+            <plain>Р’РµСЂРёС‚СЊ, РЅР°РґРµСЏС‚СЊСЃСЏ, Р»СЋР±РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>- Самая большая радость!</plain>
+            <plain>- РЎР°РјР°СЏ Р±РѕР»СЊС€Р°СЏ СЂР°РґРѕСЃС‚СЊ!</plain>
         </string>
     </chorus>
 </psalm>

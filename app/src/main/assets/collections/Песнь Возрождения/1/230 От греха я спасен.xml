@@ -1,77 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="230" name="От греха я спасен" canon="false" text="" textRus="" music="">
+<psalm number="230" name="РћС‚ РіСЂРµС…Р° СЏ СЃРїР°СЃРµРЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>От греха я спасен,</plain>
+            <plain>РћС‚ РіСЂРµС…Р° СЏ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>В Божий мир водворен,</plain>
+            <plain>Р’ Р‘РѕР¶РёР№ РјРёСЂ РІРѕРґРІРѕСЂРµРЅ,</plain>
         </string>
         <string>
-            <plain>Сердцем верую я в Иисуса;</plain>
+            <plain>РЎРµСЂРґС†РµРј РІРµСЂСѓСЋ СЏ РІ РРёСЃСѓСЃР°;</plain>
         </string>
         <string>
-            <plain>Он покой мне дает</plain>
+            <plain>РћРЅ РїРѕРєРѕР№ РјРЅРµ РґР°РµС‚</plain>
         </string>
         <string>
-            <plain>Снял с души всякий гнет,</plain>
+            <plain>РЎРЅСЏР» СЃ РґСѓС€Рё РІСЃСЏРєРёР№ РіРЅРµС‚,</plain>
         </string>
         <string>
-            <plain>В Сына Божия верую я.</plain>
+            <plain>Р’ РЎС‹РЅР° Р‘РѕР¶РёСЏ РІРµСЂСѓСЋ СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Верю я, верю я,</plain>
+            <plain>Р’РµСЂСЋ СЏ, РІРµСЂСЋ СЏ,</plain>
         </string>
         <string>
-            <plain>Сердцем верую я в Иисуса,</plain>
+            <plain>РЎРµСЂРґС†РµРј РІРµСЂСѓСЋ СЏ РІ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>Верю я, верю я,</plain>
+            <plain>Р’РµСЂСЋ СЏ, РІРµСЂСЋ СЏ,</plain>
         </string>
         <string>
-            <plain>В Сына Божия верую я.</plain>
+            <plain>Р’ РЎС‹РЅР° Р‘РѕР¶РёСЏ РІРµСЂСѓСЋ СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Искупил Он меня,</plain>
+            <plain>РСЃРєСѓРїРёР» РћРЅ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Верой принял то я,</plain>
+            <plain>Р’РµСЂРѕР№ РїСЂРёРЅСЏР» С‚Рѕ СЏ,</plain>
         </string>
         <string>
-            <plain>Сердцем верую я в Иисуса;</plain>
+            <plain>РЎРµСЂРґС†РµРј РІРµСЂСѓСЋ СЏ РІ РРёСЃСѓСЃР°;</plain>
         </string>
         <string>
-            <plain>В неизменной любви</plain>
+            <plain>Р’ РЅРµРёР·РјРµРЅРЅРѕР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Он хранитель души,</plain>
+            <plain>РћРЅ С…СЂР°РЅРёС‚РµР»СЊ РґСѓС€Рё,</plain>
         </string>
         <string>
-            <plain>В Сына Божия верую я.</plain>
+            <plain>Р’ РЎС‹РЅР° Р‘РѕР¶РёСЏ РІРµСЂСѓСЋ СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, как радостно мне,</plain>
+            <plain>Рћ, РєР°Рє СЂР°РґРѕСЃС‚РЅРѕ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Он со мною везде,</plain>
+            <plain>РћРЅ СЃРѕ РјРЅРѕСЋ РІРµР·РґРµ,</plain>
         </string>
         <string>
-            <plain>Сердцем верую я в Иисуса.</plain>
+            <plain>РЎРµСЂРґС†РµРј РІРµСЂСѓСЋ СЏ РІ РРёСЃСѓСЃР°.</plain>
         </string>
         <string>
-            <plain>Жажду вечно хвалить,</plain>
+            <plain>Р–Р°Р¶РґСѓ РІРµС‡РЅРѕ С…РІР°Р»РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Иисусу служить,</plain>
+            <plain>РРёСЃСѓСЃСѓ СЃР»СѓР¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>В Сына Божия верую я.</plain>
+            <plain>Р’ РЎС‹РЅР° Р‘РѕР¶РёСЏ РІРµСЂСѓСЋ СЏ.</plain>
         </string>
     </verse>
 </psalm>

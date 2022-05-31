@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3171" name="Боже дай мне Дух Святой" canon="false" text="" textRus="" music="">
+<psalm number="3171" name="Р‘РѕР¶Рµ РґР°Р№ РјРЅРµ Р”СѓС… РЎРІСЏС‚РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, дай мне Дух Святой,</plain>
+            <plain>Р‘РѕР¶Рµ, РґР°Р№ РјРЅРµ Р”СѓС… РЎРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>сердца жажду утоли.</plain>
+            <plain>СЃРµСЂРґС†Р° Р¶Р°Р¶РґСѓ СѓС‚РѕР»Рё.</plain>
         </string>
         <string>
-            <plain>Кровью Ты меня омой</plain>
+            <plain>РљСЂРѕРІСЊСЋ РўС‹ РјРµРЅСЏ РѕРјРѕР№</plain>
         </string>
         <string>
-            <plain>и затем во мне живи!</plain>
+            <plain>Рё Р·Р°С‚РµРј РІРѕ РјРЅРµ Р¶РёРІРё!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Дух, меня запечатлей!</plain>
+            <plain>Р”СѓС…, РјРµРЅСЏ Р·Р°РїРµС‡Р°С‚Р»РµР№!</plain>
         </string>
         <string>
-            <plain>Божья полнота во мне!</plain>
+            <plain>Р‘РѕР¶СЊСЏ РїРѕР»РЅРѕС‚Р° РІРѕ РјРЅРµ!</plain>
         </string>
         <string>
-            <plain>Снега я теперь белей,</plain>
+            <plain>РЎРЅРµРіР° СЏ С‚РµРїРµСЂСЊ Р±РµР»РµР№,</plain>
         </string>
         <string>
-            <plain>светит яркий луч в душе!</plain>
+            <plain>СЃРІРµС‚РёС‚ СЏСЂРєРёР№ Р»СѓС‡ РІ РґСѓС€Рµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В сердце Ты свети моём,</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РўС‹ СЃРІРµС‚Рё РјРѕС‘Рј,</plain>
         </string>
         <string>
-            <plain>око чистое дай мне,</plain>
+            <plain>РѕРєРѕ С‡РёСЃС‚РѕРµ РґР°Р№ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>чтобы пред Твоим лицом</plain>
+            <plain>С‡С‚РѕР±С‹ РїСЂРµРґ РўРІРѕРёРј Р»РёС†РѕРј</plain>
         </string>
         <string>
-            <plain>был я свят и чист вполне.</plain>
+            <plain>Р±С‹Р» СЏ СЃРІСЏС‚ Рё С‡РёСЃС‚ РІРїРѕР»РЅРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты зажги огонь любви!</plain>
+            <plain>РўС‹ Р·Р°Р¶РіРё РѕРіРѕРЅСЊ Р»СЋР±РІРё!</plain>
         </string>
         <string>
-            <plain>В жертву я принёс себя и,</plain>
+            <plain>Р’ Р¶РµСЂС‚РІСѓ СЏ РїСЂРёРЅС‘СЃ СЃРµР±СЏ Рё,</plain>
         </string>
         <string>
-            <plain>чтоб за Тобой идти,</plain>
+            <plain>С‡С‚РѕР± Р·Р° РўРѕР±РѕР№ РёРґС‚Рё,</plain>
         </string>
         <string>
-            <plain>всё оставил в мире я.</plain>
+            <plain>РІСЃС‘ РѕСЃС‚Р°РІРёР» РІ РјРёСЂРµ СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Силу свыше дай душе,</plain>
+            <plain>РЎРёР»Сѓ СЃРІС‹С€Рµ РґР°Р№ РґСѓС€Рµ,</plain>
         </string>
         <string>
-            <plain>Сын, Отец и Дух Святой,</plain>
+            <plain>РЎС‹РЅ, РћС‚РµС† Рё Р”СѓС… РЎРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>помазание дай мне,</plain>
+            <plain>РїРѕРјР°Р·Р°РЅРёРµ РґР°Р№ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>чтобы быть всегда с Тобой.</plain>
+            <plain>С‡С‚РѕР±С‹ Р±С‹С‚СЊ РІСЃРµРіРґР° СЃ РўРѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, наполни Ты меня!</plain>
+            <plain>Рћ, РЅР°РїРѕР»РЅРё РўС‹ РјРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Верю: Ты войдёшь ко мне</plain>
+            <plain>Р’РµСЂСЋ: РўС‹ РІРѕР№РґС‘С€СЊ РєРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>и не бросишь никогда</plain>
+            <plain>Рё РЅРµ Р±СЂРѕСЃРёС€СЊ РЅРёРєРѕРіРґР°</plain>
         </string>
         <string>
-            <plain>- я принадлежу Тебе.</plain>
+            <plain>- СЏ РїСЂРёРЅР°РґР»РµР¶Сѓ РўРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

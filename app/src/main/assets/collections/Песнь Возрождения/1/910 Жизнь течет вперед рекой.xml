@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="910" name="Жизнь течет вперед рекой" canon="false" text="" textRus="" music="">
+<psalm number="910" name="Р–РёР·РЅСЊ С‚РµС‡РµС‚ РІРїРµСЂРµРґ СЂРµРєРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Жизнь течет вперед рекой,</plain>
+            <plain>Р–РёР·РЅСЊ С‚РµС‡РµС‚ РІРїРµСЂРµРґ СЂРµРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Волны плещут о гранит.</plain>
+            <plain>Р’РѕР»РЅС‹ РїР»РµС‰СѓС‚ Рѕ РіСЂР°РЅРёС‚.</plain>
         </string>
         <string>
-            <plain>Я стремлюсь в тот край родной,</plain>
+            <plain>РЇ СЃС‚СЂРµРјР»СЋСЃСЊ РІ С‚РѕС‚ РєСЂР°Р№ СЂРѕРґРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Где любовь Творца царит.</plain>
+            <plain>Р“РґРµ Р»СЋР±РѕРІСЊ РўРІРѕСЂС†Р° С†Р°СЂРёС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Там нет скорби, нет вражды,</plain>
+            <plain>РўР°Рј РЅРµС‚ СЃРєРѕСЂР±Рё, РЅРµС‚ РІСЂР°Р¶РґС‹,</plain>
         </string>
         <string>
-            <plain>Там нету зим и нету лет.</plain>
+            <plain>РўР°Рј РЅРµС‚Сѓ Р·РёРј Рё РЅРµС‚Сѓ Р»РµС‚.</plain>
         </string>
         <string>
-            <plain>Там живут в святой любви</plain>
+            <plain>РўР°Рј Р¶РёРІСѓС‚ РІ СЃРІСЏС‚РѕР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>И сияет жизни свет.</plain>
+            <plain>Р СЃРёСЏРµС‚ Р¶РёР·РЅРё СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В небесах Приют родной</plain>
+            <plain>Р’ РЅРµР±РµСЃР°С… РџСЂРёСЋС‚ СЂРѕРґРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Мне Спаситель сотворит.</plain>
+            <plain>РњРЅРµ РЎРїР°СЃРёС‚РµР»СЊ СЃРѕС‚РІРѕСЂРёС‚.</plain>
         </string>
         <string>
-            <plain>И в Обители Святой Будет</plain>
+            <plain>Р РІ РћР±РёС‚РµР»Рё РЎРІСЏС‚РѕР№ Р‘СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>Он со мной царить.</plain>
+            <plain>РћРЅ СЃРѕ РјРЅРѕР№ С†Р°СЂРёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Там в общении святом,</plain>
+            <plain>РўР°Рј РІ РѕР±С‰РµРЅРёРё СЃРІСЏС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Где сияет жизнь вокруг,</plain>
+            <plain>Р“РґРµ СЃРёСЏРµС‚ Р¶РёР·РЅСЊ РІРѕРєСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Буду жить я со Христом</plain>
+            <plain>Р‘СѓРґСѓ Р¶РёС‚СЊ СЏ СЃРѕ РҐСЂРёСЃС‚РѕРј</plain>
         </string>
         <string>
-            <plain>Вечной жизнию, мой друг.</plain>
+            <plain>Р’РµС‡РЅРѕР№ Р¶РёР·РЅРёСЋ, РјРѕР№ РґСЂСѓРі.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Как приятно на земле</plain>
+            <plain>РљР°Рє РїСЂРёСЏС‚РЅРѕ РЅР° Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>Быть с Спасителем моим</plain>
+            <plain>Р‘С‹С‚СЊ СЃ РЎРїР°СЃРёС‚РµР»РµРј РјРѕРёРј</plain>
         </string>
         <string>
-            <plain>И повсюду и везде</plain>
+            <plain>Р РїРѕРІСЃСЋРґСѓ Рё РІРµР·РґРµ</plain>
         </string>
         <string>
-            <plain>Жить лишь только Им Одним.</plain>
+            <plain>Р–РёС‚СЊ Р»РёС€СЊ С‚РѕР»СЊРєРѕ РРј РћРґРЅРёРј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Меня буря не страшит,</plain>
+            <plain>РњРµРЅСЏ Р±СѓСЂСЏ РЅРµ СЃС‚СЂР°С€РёС‚,</plain>
         </string>
         <string>
-            <plain>Мне защита - Сам Господь.</plain>
+            <plain>РњРЅРµ Р·Р°С‰РёС‚Р° - РЎР°Рј Р“РѕСЃРїРѕРґСЊ.</plain>
         </string>
         <string>
-            <plain>Он меня везде хранит,</plain>
+            <plain>РћРЅ РјРµРЅСЏ РІРµР·РґРµ С…СЂР°РЅРёС‚,</plain>
         </string>
         <string>
-            <plain>Ему сердце песнь поет.</plain>
+            <plain>Р•РјСѓ СЃРµСЂРґС†Рµ РїРµСЃРЅСЊ РїРѕРµС‚.</plain>
         </string>
     </verse>
 </psalm>

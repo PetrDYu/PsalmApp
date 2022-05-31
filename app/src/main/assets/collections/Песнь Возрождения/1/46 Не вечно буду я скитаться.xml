@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="46" name="Не вечно буду я скитаться" canon="false" text="" textRus="" music="">
+<psalm number="46" name="РќРµ РІРµС‡РЅРѕ Р±СѓРґСѓ СЏ СЃРєРёС‚Р°С‚СЊСЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не вечно буду я скитаться</plain>
+            <plain>РќРµ РІРµС‡РЅРѕ Р±СѓРґСѓ СЏ СЃРєРёС‚Р°С‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>В долине сумрачной земной;</plain>
+            <plain>Р’ РґРѕР»РёРЅРµ СЃСѓРјСЂР°С‡РЅРѕР№ Р·РµРјРЅРѕР№;</plain>
         </string>
         <string>
-            <plain>Я - странник, уж пора расстаться</plain>
+            <plain>РЇ - СЃС‚СЂР°РЅРЅРёРє, СѓР¶ РїРѕСЂР° СЂР°СЃСЃС‚Р°С‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Мне с этой жизнью, и - домой.</plain>
+            <plain>РњРЅРµ СЃ СЌС‚РѕР№ Р¶РёР·РЅСЊСЋ, Рё - РґРѕРјРѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Тебе служить хочу, Спаситель:</plain>
+            <plain>РўРµР±Рµ СЃР»СѓР¶РёС‚СЊ С…РѕС‡Сѓ, РЎРїР°СЃРёС‚РµР»СЊ:</plain>
         </string>
         <string>
-            <plain>Я куплен дорого Тобой.</plain>
+            <plain>РЇ РєСѓРїР»РµРЅ РґРѕСЂРѕРіРѕ РўРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Ты - Царь и сильный мой Властитель,</plain>
+            <plain>РўС‹ - Р¦Р°СЂСЊ Рё СЃРёР»СЊРЅС‹Р№ РјРѕР№ Р’Р»Р°СЃС‚РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Я весьи вечно буду Твой.</plain>
+            <plain>РЇ РІРµСЃСЊРё РІРµС‡РЅРѕ Р±СѓРґСѓ РўРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Твой мир святое наслажденье</plain>
+            <plain>РўРІРѕР№ РјРёСЂ СЃРІСЏС‚РѕРµ РЅР°СЃР»Р°Р¶РґРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Дает печальному душой;</plain>
+            <plain>Р”Р°РµС‚ РїРµС‡Р°Р»СЊРЅРѕРјСѓ РґСѓС€РѕР№;</plain>
         </string>
         <string>
-            <plain>О, ниспошли мне утешенье</plain>
+            <plain>Рћ, РЅРёСЃРїРѕС€Р»Рё РјРЅРµ СѓС‚РµС€РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И светлый, радостный покой!</plain>
+            <plain>Р СЃРІРµС‚Р»С‹Р№, СЂР°РґРѕСЃС‚РЅС‹Р№ РїРѕРєРѕР№!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Даруй, чтоб с ревностью стремился</plain>
+            <plain>Р”Р°СЂСѓР№, С‡С‚РѕР± СЃ СЂРµРІРЅРѕСЃС‚СЊСЋ СЃС‚СЂРµРјРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>Я труд свой исполнять всегда</plain>
+            <plain>РЇ С‚СЂСѓРґ СЃРІРѕР№ РёСЃРїРѕР»РЅСЏС‚СЊ РІСЃРµРіРґР°</plain>
         </string>
         <string>
-            <plain>И чтобы свет Твой не затмился</plain>
+            <plain>Р С‡С‚РѕР±С‹ СЃРІРµС‚ РўРІРѕР№ РЅРµ Р·Р°С‚РјРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>В душе смиренной никогда.</plain>
+            <plain>Р’ РґСѓС€Рµ СЃРјРёСЂРµРЅРЅРѕР№ РЅРёРєРѕРіРґР°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Когда же нету вдохновенья</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ РЅРµС‚Сѓ РІРґРѕС…РЅРѕРІРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В молитве, нет любви огня,</plain>
+            <plain>Р’ РјРѕР»РёС‚РІРµ, РЅРµС‚ Р»СЋР±РІРё РѕРіРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Пусть кровь Твоя, Твой крест, мученья</plain>
+            <plain>РџСѓСЃС‚СЊ РєСЂРѕРІСЊ РўРІРѕСЏ, РўРІРѕР№ РєСЂРµСЃС‚, РјСѓС‡РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>На подвиг вдохновят меня.</plain>
+            <plain>РќР° РїРѕРґРІРёРі РІРґРѕС…РЅРѕРІСЏС‚ РјРµРЅСЏ.</plain>
         </string>
     </verse>
 </psalm>

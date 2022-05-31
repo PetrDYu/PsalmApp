@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1032" name="Средь ночного мрака в мире слышен крик" canon="false" text="" textRus="" music="">
+<psalm number="1032" name="РЎСЂРµРґСЊ РЅРѕС‡РЅРѕРіРѕ РјСЂР°РєР° РІ РјРёСЂРµ СЃР»С‹С€РµРЅ РєСЂРёРє" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Средь ночного мрака в мире слышен крик:</plain>
+            <plain>РЎСЂРµРґСЊ РЅРѕС‡РЅРѕРіРѕ РјСЂР°РєР° РІ РјРёСЂРµ СЃР»С‹С€РµРЅ РєСЂРёРє:</plain>
         </string>
         <string>
-            <plain>Дайте свет!</plain>
+            <plain>Р”Р°Р№С‚Рµ СЃРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Люди гибнут и настал последний миг.</plain>
+            <plain>Р›СЋРґРё РіРёР±РЅСѓС‚ Рё РЅР°СЃС‚Р°Р» РїРѕСЃР»РµРґРЅРёР№ РјРёРі.</plain>
         </string>
         <string>
-            <plain>Дайте свет!</plain>
+            <plain>Р”Р°Р№С‚Рµ СЃРІРµС‚!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Свет спасенья всюду понесем.</plain>
+            <plain>РЎРІРµС‚ СЃРїР°СЃРµРЅСЊСЏ РІСЃСЋРґСѓ РїРѕРЅРµСЃРµРј.</plain>
         </string>
         <string>
-            <plain>Всюду, где греховный мрак царит.</plain>
+            <plain>Р’СЃСЋРґСѓ, РіРґРµ РіСЂРµС…РѕРІРЅС‹Р№ РјСЂР°Рє С†Р°СЂРёС‚.</plain>
         </string>
         <string>
-            <plain>Свет спасенья всюду понесем -</plain>
+            <plain>РЎРІРµС‚ СЃРїР°СЃРµРЅСЊСЏ РІСЃСЋРґСѓ РїРѕРЅРµСЃРµРј -</plain>
         </string>
         <string>
-            <plain>Пусть он в темноте горит.</plain>
+            <plain>РџСѓСЃС‚СЊ РѕРЅ РІ С‚РµРјРЅРѕС‚Рµ РіРѕСЂРёС‚.</plain>
         </string>
         <string>
-            <plain>Освещая путь в небесный дом,</plain>
+            <plain>РћСЃРІРµС‰Р°СЏ РїСѓС‚СЊ РІ РЅРµР±РµСЃРЅС‹Р№ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Где любовь и мир царит.</plain>
+            <plain>Р“РґРµ Р»СЋР±РѕРІСЊ Рё РјРёСЂ С†Р°СЂРёС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Отовсюду слышен македонский крик:</plain>
+            <plain>РћС‚РѕРІСЃСЋРґСѓ СЃР»С‹С€РµРЅ РјР°РєРµРґРѕРЅСЃРєРёР№ РєСЂРёРє:</plain>
         </string>
         <string>
-            <plain>Дайте свет!</plain>
+            <plain>Р”Р°Р№С‚Рµ СЃРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Кто вкусил от Божьих благ, пусть поспешит</plain>
+            <plain>РљС‚Рѕ РІРєСѓСЃРёР» РѕС‚ Р‘РѕР¶СЊРёС… Р±Р»Р°Рі, РїСѓСЃС‚СЊ РїРѕСЃРїРµС€РёС‚</plain>
         </string>
         <string>
-            <plain>Дать им свет.</plain>
+            <plain>Р”Р°С‚СЊ РёРј СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Так и в наши дни ужасна темнота.</plain>
+            <plain>РўР°Рє Рё РІ РЅР°С€Рё РґРЅРё СѓР¶Р°СЃРЅР° С‚РµРјРЅРѕС‚Р°.</plain>
         </string>
         <string>
-            <plain>Дайте свет!</plain>
+            <plain>Р”Р°Р№С‚Рµ СЃРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Миллионы грешных гибнут без Христа,</plain>
+            <plain>РњРёР»Р»РёРѕРЅС‹ РіСЂРµС€РЅС‹С… РіРёР±РЅСѓС‚ Р±РµР· РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Дайте свет!</plain>
+            <plain>Р”Р°Р№С‚Рµ СЃРІРµС‚!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>"Вы - свет миру!" - так Спаситель Сам сказал.</plain>
+            <plain>"Р’С‹ - СЃРІРµС‚ РјРёСЂСѓ!" - С‚Р°Рє РЎРїР°СЃРёС‚РµР»СЊ РЎР°Рј СЃРєР°Р·Р°Р».</plain>
         </string>
         <string>
-            <plain>Дайте свет!</plain>
+            <plain>Р”Р°Р№С‚Рµ СЃРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Среди мрака Он светить нам приказал.</plain>
+            <plain>РЎСЂРµРґРё РјСЂР°РєР° РћРЅ СЃРІРµС‚РёС‚СЊ РЅР°Рј РїСЂРёРєР°Р·Р°Р».</plain>
         </string>
         <string>
-            <plain>Дайте свет!</plain>
+            <plain>Р”Р°Р№С‚Рµ СЃРІРµС‚!</plain>
         </string>
     </verse>
 </psalm>

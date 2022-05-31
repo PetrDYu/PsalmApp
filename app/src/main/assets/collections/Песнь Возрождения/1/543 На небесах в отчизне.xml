@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="543" name="На небесах в отчизне" canon="false" text="" textRus="" music="">
+<psalm number="543" name="РќР° РЅРµР±РµСЃР°С… РІ РѕС‚С‡РёР·РЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>На небесах в отчизне</plain>
+            <plain>РќР° РЅРµР±РµСЃР°С… РІ РѕС‚С‡РёР·РЅРµ</plain>
         </string>
         <string>
-            <plain>И вольно, и светло</plain>
+            <plain>Р РІРѕР»СЊРЅРѕ, Рё СЃРІРµС‚Р»Рѕ</plain>
         </string>
         <string>
-            <plain>Бежит источник жизни</plain>
+            <plain>Р‘РµР¶РёС‚ РёСЃС‚РѕС‡РЅРёРє Р¶РёР·РЅРё</plain>
         </string>
         <string>
-            <plain>Прозрачный, как стекло.</plain>
+            <plain>РџСЂРѕР·СЂР°С‡РЅС‹Р№, РєР°Рє СЃС‚РµРєР»Рѕ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О источник вечной жизни!</plain>
+            <plain>Рћ РёСЃС‚РѕС‡РЅРёРє РІРµС‡РЅРѕР№ Р¶РёР·РЅРё!</plain>
         </string>
         <string>
-            <plain>Я стремлюсь к тебе.</plain>
+            <plain>РЇ СЃС‚СЂРµРјР»СЋСЃСЊ Рє С‚РµР±Рµ.</plain>
         </string>
         <string>
-            <plain>О источник вечной жизни!</plain>
+            <plain>Рћ РёСЃС‚РѕС‡РЅРёРє РІРµС‡РЅРѕР№ Р¶РёР·РЅРё!</plain>
         </string>
         <string>
-            <plain>Я стремлюсь к тебе.</plain>
+            <plain>РЇ СЃС‚СЂРµРјР»СЋСЃСЊ Рє С‚РµР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>На пажити чудесной</plain>
+            <plain>РќР° РїР°Р¶РёС‚Рё С‡СѓРґРµСЃРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Нас славный пир там ждет,</plain>
+            <plain>РќР°СЃ СЃР»Р°РІРЅС‹Р№ РїРёСЂ С‚Р°Рј Р¶РґРµС‚,</plain>
         </string>
         <string>
-            <plain>Великий хор небесный</plain>
+            <plain>Р’РµР»РёРєРёР№ С…РѕСЂ РЅРµР±РµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Там радостно поет.</plain>
+            <plain>РўР°Рј СЂР°РґРѕСЃС‚РЅРѕ РїРѕРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Источник дивный, чудный,</plain>
+            <plain>РСЃС‚РѕС‡РЅРёРє РґРёРІРЅС‹Р№, С‡СѓРґРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Поток воды живой!</plain>
+            <plain>РџРѕС‚РѕРє РІРѕРґС‹ Р¶РёРІРѕР№!</plain>
         </string>
         <string>
-            <plain>В надежде в жизни трудной</plain>
+            <plain>Р’ РЅР°РґРµР¶РґРµ РІ Р¶РёР·РЅРё С‚СЂСѓРґРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Крепится дух тобой.</plain>
+            <plain>РљСЂРµРїРёС‚СЃСЏ РґСѓС… С‚РѕР±РѕР№.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3022" name="Как мне быть без общенья" canon="false" text="" textRus="" music="">
+<psalm number="3022" name="РљР°Рє РјРЅРµ Р±С‹С‚СЊ Р±РµР· РѕР±С‰РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как мне быть без общенья</plain>
+            <plain>РљР°Рє РјРЅРµ Р±С‹С‚СЊ Р±РµР· РѕР±С‰РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>с Другом, в ком есть спасенье?</plain>
+            <plain>СЃ Р”СЂСѓРіРѕРј, РІ РєРѕРј РµСЃС‚СЊ СЃРїР°СЃРµРЅСЊРµ?</plain>
         </string>
         <string>
-            <plain>- Жить с Ним - моё стремленье,</plain>
+            <plain>- Р–РёС‚СЊ СЃ РќРёРј - РјРѕС‘ СЃС‚СЂРµРјР»РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>свободен и счастлив я!</plain>
+            <plain>СЃРІРѕР±РѕРґРµРЅ Рё СЃС‡Р°СЃС‚Р»РёРІ СЏ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Люблю Христа, а Он - меня.</plain>
+            <plain>Р›СЋР±Р»СЋ РҐСЂРёСЃС‚Р°, Р° РћРЅ - РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Я радостно возвещаю:</plain>
+            <plain>РЇ СЂР°РґРѕСЃС‚РЅРѕ РІРѕР·РІРµС‰Р°СЋ:</plain>
         </string>
         <string>
-            <plain>«Свободен и счастлив я!»</plain>
+            <plain>В«РЎРІРѕР±РѕРґРµРЅ Рё СЃС‡Р°СЃС‚Р»РёРІ СЏ!В»</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>К Нему я прибегаю,</plain>
+            <plain>Рљ РќРµРјСѓ СЏ РїСЂРёР±РµРіР°СЋ,</plain>
         </string>
         <string>
-            <plain>заботы возлагаю,</plain>
+            <plain>Р·Р°Р±РѕС‚С‹ РІРѕР·Р»Р°РіР°СЋ,</plain>
         </string>
         <string>
-            <plain>с утра уж восклицаю:</plain>
+            <plain>СЃ СѓС‚СЂР° СѓР¶ РІРѕСЃРєР»РёС†Р°СЋ:</plain>
         </string>
         <string>
-            <plain>«Свободен и счастлив я!</plain>
+            <plain>В«РЎРІРѕР±РѕРґРµРЅ Рё СЃС‡Р°СЃС‚Р»РёРІ СЏ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чрез Христа примирённый,</plain>
+            <plain>Р§СЂРµР· РҐСЂРёСЃС‚Р° РїСЂРёРјРёСЂС‘РЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>радостью напоённый</plain>
+            <plain>СЂР°РґРѕСЃС‚СЊСЋ РЅР°РїРѕС‘РЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>и воодушевлённый</plain>
+            <plain>Рё РІРѕРѕРґСѓС€РµРІР»С‘РЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>- свободен и счастлив я!</plain>
+            <plain>- СЃРІРѕР±РѕРґРµРЅ Рё СЃС‡Р°СЃС‚Р»РёРІ СЏ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Радость и ликованье</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ Рё Р»РёРєРѕРІР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>дарит мне свет Писанья,</plain>
+            <plain>РґР°СЂРёС‚ РјРЅРµ СЃРІРµС‚ РџРёСЃР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>и чрез Христа страданья</plain>
+            <plain>Рё С‡СЂРµР· РҐСЂРёСЃС‚Р° СЃС‚СЂР°РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>свободен и счастлив я!</plain>
+            <plain>СЃРІРѕР±РѕРґРµРЅ Рё СЃС‡Р°СЃС‚Р»РёРІ СЏ!</plain>
         </string>
     </verse>
 </psalm>

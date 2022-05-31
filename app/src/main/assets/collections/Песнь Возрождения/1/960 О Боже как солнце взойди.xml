@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="960" name="О Боже как солнце взойди" canon="false" text="" textRus="" music="">
+<psalm number="960" name="Рћ Р‘РѕР¶Рµ РєР°Рє СЃРѕР»РЅС†Рµ РІР·РѕР№РґРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Боже, как солнце, взойди</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, РєР°Рє СЃРѕР»РЅС†Рµ, РІР·РѕР№РґРё</plain>
         </string>
         <string>
-            <plain>Над бедной душою моей.</plain>
+            <plain>РќР°Рґ Р±РµРґРЅРѕР№ РґСѓС€РѕСЋ РјРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Лучами пресветлой любви</plain>
+            <plain>Р›СѓС‡Р°РјРё РїСЂРµСЃРІРµС‚Р»РѕР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>Меня освети и согрей!</plain>
+            <plain>РњРµРЅСЏ РѕСЃРІРµС‚Рё Рё СЃРѕРіСЂРµР№!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Бываю я в жизни моей</plain>
+            <plain>Р‘С‹РІР°СЋ СЏ РІ Р¶РёР·РЅРё РјРѕРµР№</plain>
         </string>
         <string>
-            <plain>Средь мрака, унынья и слез.</plain>
+            <plain>РЎСЂРµРґСЊ РјСЂР°РєР°, СѓРЅС‹РЅСЊСЏ Рё СЃР»РµР·.</plain>
         </string>
         <string>
-            <plain>Сияй же, сияй предо мной,</plain>
+            <plain>РЎРёСЏР№ Р¶Рµ, СЃРёСЏР№ РїСЂРµРґРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Мой Чудный Спаситель Христос!</plain>
+            <plain>РњРѕР№ Р§СѓРґРЅС‹Р№ РЎРїР°СЃРёС‚РµР»СЊ РҐСЂРёСЃС‚РѕСЃ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Святой мой, лишь только в</plain>
+            <plain>РЎРІСЏС‚РѕР№ РјРѕР№, Р»РёС€СЊ С‚РѕР»СЊРєРѕ РІ</plain>
         </string>
         <string>
-            <plain>Тебе Вся жизнь и надежда моя!</plain>
+            <plain>РўРµР±Рµ Р’СЃСЏ Р¶РёР·РЅСЊ Рё РЅР°РґРµР¶РґР° РјРѕСЏ!</plain>
         </string>
         <string>
-            <plain>Внемли моей слабой мольбе,</plain>
+            <plain>Р’РЅРµРјР»Рё РјРѕРµР№ СЃР»Р°Р±РѕР№ РјРѕР»СЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>Когда вопию к Тебе я.</plain>
+            <plain>РљРѕРіРґР° РІРѕРїРёСЋ Рє РўРµР±Рµ СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>К кому мне здесь в мире идти?</plain>
+            <plain>Рљ РєРѕРјСѓ РјРЅРµ Р·РґРµСЃСЊ РІ РјРёСЂРµ РёРґС‚Рё?</plain>
         </string>
         <string>
-            <plain>Кто душу мою укрепит,</plain>
+            <plain>РљС‚Рѕ РґСѓС€Сѓ РјРѕСЋ СѓРєСЂРµРїРёС‚,</plain>
         </string>
         <string>
-            <plain>Когда утомляюсь в пути,</plain>
+            <plain>РљРѕРіРґР° СѓС‚РѕРјР»СЏСЋСЃСЊ РІ РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>Коль сердце в скорбях заболит?</plain>
+            <plain>РљРѕР»СЊ СЃРµСЂРґС†Рµ РІ СЃРєРѕСЂР±СЏС… Р·Р°Р±РѕР»РёС‚?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>К Тебе лишь, Господь, прихожу,</plain>
+            <plain>Рљ РўРµР±Рµ Р»РёС€СЊ, Р“РѕСЃРїРѕРґСЊ, РїСЂРёС…РѕР¶Сѓ,</plain>
         </string>
         <string>
-            <plain>Твоей только милости жду,</plain>
+            <plain>РўРІРѕРµР№ С‚РѕР»СЊРєРѕ РјРёР»РѕСЃС‚Рё Р¶РґСѓ,</plain>
         </string>
         <string>
-            <plain>К Тебе Одному приношу</plain>
+            <plain>Рљ РўРµР±Рµ РћРґРЅРѕРјСѓ РїСЂРёРЅРѕС€Сѓ</plain>
         </string>
         <string>
-            <plain>Гнетущую сердца нужду.</plain>
+            <plain>Р“РЅРµС‚СѓС‰СѓСЋ СЃРµСЂРґС†Р° РЅСѓР¶РґСѓ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Внемли мне, когда я молюсь,</plain>
+            <plain>Р’РЅРµРјР»Рё РјРЅРµ, РєРѕРіРґР° СЏ РјРѕР»СЋСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Смиренно колени склоня.</plain>
+            <plain>РЎРјРёСЂРµРЅРЅРѕ РєРѕР»РµРЅРё СЃРєР»РѕРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Спаситель Ты, мой Иисус!</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РўС‹, РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
         <string>
-            <plain>Отрада и радость моя!</plain>
+            <plain>РћС‚СЂР°РґР° Рё СЂР°РґРѕСЃС‚СЊ РјРѕСЏ!</plain>
         </string>
     </verse>
 </psalm>

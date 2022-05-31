@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="76" name="Я слышу голос Твой" canon="false" text="" textRus="" music="">
+<psalm number="76" name="РЇ СЃР»С‹С€Сѓ РіРѕР»РѕСЃ РўРІРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я слышу голос Твой,</plain>
+            <plain>РЇ СЃР»С‹С€Сѓ РіРѕР»РѕСЃ РўРІРѕР№,</plain>
         </string>
         <string>
-            <plain>Зовет меня к Тебе</plain>
+            <plain>Р—РѕРІРµС‚ РјРµРЅСЏ Рє РўРµР±Рµ</plain>
         </string>
         <string>
-            <plain>Омыться кровию святой,</plain>
+            <plain>РћРјС‹С‚СЊСЃСЏ РєСЂРѕРІРёСЋ СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Пролитой на кресте.</plain>
+            <plain>РџСЂРѕР»РёС‚РѕР№ РЅР° РєСЂРµСЃС‚Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О Спаситель мой,</plain>
+            <plain>Рћ РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Прихожу к Тебе!</plain>
+            <plain>РџСЂРёС…РѕР¶Сѓ Рє РўРµР±Рµ!</plain>
         </string>
         <string>
-            <plain>Кровию Твоей омой,</plain>
+            <plain>РљСЂРѕРІРёСЋ РўРІРѕРµР№ РѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>Пролитой на кресте!</plain>
+            <plain>РџСЂРѕР»РёС‚РѕР№ РЅР° РєСЂРµСЃС‚Рµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хоть слаб и грешен я,</plain>
+            <plain>РҐРѕС‚СЊ СЃР»Р°Р± Рё РіСЂРµС€РµРЅ СЏ,</plain>
         </string>
         <string>
-            <plain>Ты силу мне даешь,</plain>
+            <plain>РўС‹ СЃРёР»Сѓ РјРЅРµ РґР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Снимаешь грех, живишь меня,</plain>
+            <plain>РЎРЅРёРјР°РµС€СЊ РіСЂРµС…, Р¶РёРІРёС€СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Любовию влечешь.</plain>
+            <plain>Р›СЋР±РѕРІРёСЋ РІР»РµС‡РµС€СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жизнь новую Свою</plain>
+            <plain>Р–РёР·РЅСЊ РЅРѕРІСѓСЋ РЎРІРѕСЋ</plain>
         </string>
         <string>
-            <plain>Ты Сам во мне творишь.</plain>
+            <plain>РўС‹ РЎР°Рј РІРѕ РјРЅРµ С‚РІРѕСЂРёС€СЊ.</plain>
         </string>
         <string>
-            <plain>И благодать на благодать</plain>
+            <plain>Р Р±Р»Р°РіРѕРґР°С‚СЊ РЅР° Р±Р»Р°РіРѕРґР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Ты щедро мне даришь.</plain>
+            <plain>РўС‹ С‰РµРґСЂРѕ РјРЅРµ РґР°СЂРёС€СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты сердцу весть даешь,</plain>
+            <plain>РўС‹ СЃРµСЂРґС†Сѓ РІРµСЃС‚СЊ РґР°РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Что я Твое дитя,</plain>
+            <plain>Р§С‚Рѕ СЏ РўРІРѕРµ РґРёС‚СЏ,</plain>
         </string>
         <string>
-            <plain>Что Духом Ты во мне живешь,</plain>
+            <plain>Р§С‚Рѕ Р”СѓС…РѕРј РўС‹ РІРѕ РјРЅРµ Р¶РёРІРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>А в Нем - вся полнота.</plain>
+            <plain>Рђ РІ РќРµРј - РІСЃСЏ РїРѕР»РЅРѕС‚Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Господь, Тебе хвала!</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РўРµР±Рµ С…РІР°Р»Р°!</plain>
         </string>
         <string>
-            <plain>Хвала Твоей крови!</plain>
+            <plain>РҐРІР°Р»Р° РўРІРѕРµР№ РєСЂРѕРІРё!</plain>
         </string>
         <string>
-            <plain>Отец небес, Тебе хвала,</plain>
+            <plain>РћС‚РµС† РЅРµР±РµСЃ, РўРµР±Рµ С…РІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Хвала Твоей любви!</plain>
+            <plain>РҐРІР°Р»Р° РўРІРѕРµР№ Р»СЋР±РІРё!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="826" name="Юность светлая весна ранняя" canon="false" text="" textRus="" music="">
+<psalm number="826" name="Р®РЅРѕСЃС‚СЊ СЃРІРµС‚Р»Р°СЏ РІРµСЃРЅР° СЂР°РЅРЅСЏСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Юность светлая, весна ранняя –</plain>
+            <plain>Р®РЅРѕСЃС‚СЊ СЃРІРµС‚Р»Р°СЏ, РІРµСЃРЅР° СЂР°РЅРЅСЏСЏ вЂ“</plain>
         </string>
         <string>
-            <plain>Мы ее Творцу принесем,</plain>
+            <plain>РњС‹ РµРµ РўРІРѕСЂС†Сѓ РїСЂРёРЅРµСЃРµРј,</plain>
         </string>
         <string>
-            <plain>Молодые мы в золотые дни</plain>
+            <plain>РњРѕР»РѕРґС‹Рµ РјС‹ РІ Р·РѕР»РѕС‚С‹Рµ РґРЅРё</plain>
         </string>
         <string>
-            <plain>Лишь для Господа живем.</plain>
+            <plain>Р›РёС€СЊ РґР»СЏ Р“РѕСЃРїРѕРґР° Р¶РёРІРµРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Тьма неверия окружает нас,</plain>
+            <plain>РўСЊРјР° РЅРµРІРµСЂРёСЏ РѕРєСЂСѓР¶Р°РµС‚ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Туча черная впереди,</plain>
+            <plain>РўСѓС‡Р° С‡РµСЂРЅР°СЏ РІРїРµСЂРµРґРё,</plain>
         </string>
         <string>
-            <plain>Мы Христа огни в эти злые дни</plain>
+            <plain>РњС‹ РҐСЂРёСЃС‚Р° РѕРіРЅРё РІ СЌС‚Рё Р·Р»С‹Рµ РґРЅРё</plain>
         </string>
         <string>
-            <plain>Расставляем на пути.</plain>
+            <plain>Р Р°СЃСЃС‚Р°РІР»СЏРµРј РЅР° РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хоть и труден путь и тернистый он,</plain>
+            <plain>РҐРѕС‚СЊ Рё С‚СЂСѓРґРµРЅ РїСѓС‚СЊ Рё С‚РµСЂРЅРёСЃС‚С‹Р№ РѕРЅ,</plain>
         </string>
         <string>
-            <plain>Со Христом его мы пройдем.</plain>
+            <plain>РЎРѕ РҐСЂРёСЃС‚РѕРј РµРіРѕ РјС‹ РїСЂРѕР№РґРµРј.</plain>
         </string>
         <string>
-            <plain>Молодые мы в золотые дни</plain>
+            <plain>РњРѕР»РѕРґС‹Рµ РјС‹ РІ Р·РѕР»РѕС‚С‹Рµ РґРЅРё</plain>
         </string>
         <string>
-            <plain>Лишь для Господа живем.</plain>
+            <plain>Р›РёС€СЊ РґР»СЏ Р“РѕСЃРїРѕРґР° Р¶РёРІРµРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О не бойся, друг, не смущайся, брат,</plain>
+            <plain>Рћ РЅРµ Р±РѕР№СЃСЏ, РґСЂСѓРі, РЅРµ СЃРјСѓС‰Р°Р№СЃСЏ, Р±СЂР°С‚,</plain>
         </string>
         <string>
-            <plain>Проходя свой жизненный путь!</plain>
+            <plain>РџСЂРѕС…РѕРґСЏ СЃРІРѕР№ Р¶РёР·РЅРµРЅРЅС‹Р№ РїСѓС‚СЊ!</plain>
         </string>
         <string>
-            <plain>Впереди тебя твой Христос прошел</plain>
+            <plain>Р’РїРµСЂРµРґРё С‚РµР±СЏ С‚РІРѕР№ РҐСЂРёСЃС‚РѕСЃ РїСЂРѕС€РµР»</plain>
         </string>
         <string>
-            <plain>И тебя идти зовет.</plain>
+            <plain>Р С‚РµР±СЏ РёРґС‚Рё Р·РѕРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Так спеши же, друг, посвятить Христу</plain>
+            <plain>РўР°Рє СЃРїРµС€Рё Р¶Рµ, РґСЂСѓРі, РїРѕСЃРІСЏС‚РёС‚СЊ РҐСЂРёСЃС‚Сѓ</plain>
         </string>
         <string>
-            <plain>Утро юности, жизни дни,</plain>
+            <plain>РЈС‚СЂРѕ СЋРЅРѕСЃС‚Рё, Р¶РёР·РЅРё РґРЅРё,</plain>
         </string>
         <string>
-            <plain>И Он даст тебе золотой венец,</plain>
+            <plain>Р РћРЅ РґР°СЃС‚ С‚РµР±Рµ Р·РѕР»РѕС‚РѕР№ РІРµРЅРµС†,</plain>
         </string>
         <string>
-            <plain>Будешь царствовать ты с Ним.</plain>
+            <plain>Р‘СѓРґРµС€СЊ С†Р°СЂСЃС‚РІРѕРІР°С‚СЊ С‚С‹ СЃ РќРёРј.</plain>
         </string>
     </verse>
 </psalm>

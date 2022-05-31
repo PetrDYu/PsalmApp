@@ -1,66 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2254" name="Однажды утром я проснулась" canon="false" text="" textRus="" music="">
+<psalm number="2254" name="РћРґРЅР°Р¶РґС‹ СѓС‚СЂРѕРј СЏ РїСЂРѕСЃРЅСѓР»Р°СЃСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Однажды утром я проснулась,</plain>
+            <plain>РћРґРЅР°Р¶РґС‹ СѓС‚СЂРѕРј СЏ РїСЂРѕСЃРЅСѓР»Р°СЃСЊ,</plain>
         </string>
         <string>
-            <plain>И сердце забилось в груди,</plain>
+            <plain>Р СЃРµСЂРґС†Рµ Р·Р°Р±РёР»РѕСЃСЊ РІ РіСЂСѓРґРё,</plain>
         </string>
         <string>
-            <plain>Ведь солнышко мне улыбнулось</plain>
+            <plain>Р’РµРґСЊ СЃРѕР»РЅС‹С€РєРѕ РјРЅРµ СѓР»С‹Р±РЅСѓР»РѕСЃСЊ</plain>
         </string>
         <string>
-            <plain>И свежий ветер дул позади.</plain>
+            <plain>Р СЃРІРµР¶РёР№ РІРµС‚РµСЂ РґСѓР» РїРѕР·Р°РґРё.</plain>
         </string>
         <string>
-            <plain>Тогда я поняла, как прекрасен Бог,</plain>
+            <plain>РўРѕРіРґР° СЏ РїРѕРЅСЏР»Р°, РєР°Рє РїСЂРµРєСЂР°СЃРµРЅ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Он много даровал Своих даров,</plain>
+            <plain>РћРЅ РјРЅРѕРіРѕ РґР°СЂРѕРІР°Р» РЎРІРѕРёС… РґР°СЂРѕРІ,</plain>
         </string>
         <string>
-            <plain>Он дал мне жизнь,</plain>
+            <plain>РћРЅ РґР°Р» РјРЅРµ Р¶РёР·РЅСЊ,</plain>
         </string>
         <string>
-            <plain>Он дал мне свет, И я скажу Ему в ответ:</plain>
+            <plain>РћРЅ РґР°Р» РјРЅРµ СЃРІРµС‚, Р СЏ СЃРєР°Р¶Сѓ Р•РјСѓ РІ РѕС‚РІРµС‚:</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус (4 р.), Спасибо,</plain>
+            <plain>РРёСЃСѓСЃ (4 СЂ.), РЎРїР°СЃРёР±Рѕ,</plain>
         </string>
         <string>
-            <plain>Господь, за всё, что дал мне,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, Р·Р° РІСЃС‘, С‡С‚Рѕ РґР°Р» РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>За всё, что я имею в Тебе (2 р.).</plain>
+            <plain>Р—Р° РІСЃС‘, С‡С‚Рѕ СЏ РёРјРµСЋ РІ РўРµР±Рµ (2 СЂ.).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вокруг растут цветы и деревья,</plain>
+            <plain>Р’РѕРєСЂСѓРі СЂР°СЃС‚СѓС‚ С†РІРµС‚С‹ Рё РґРµСЂРµРІСЊСЏ,</plain>
         </string>
         <string>
-            <plain>И мы вдыхаем их аромат</plain>
+            <plain>Р РјС‹ РІРґС‹С…Р°РµРј РёС… Р°СЂРѕРјР°С‚</plain>
         </string>
         <string>
-            <plain>И слышим пены соловья</plain>
+            <plain>Р СЃР»С‹С€РёРј РїРµРЅС‹ СЃРѕР»РѕРІСЊСЏ</plain>
         </string>
         <string>
-            <plain>И плеск весеннего ручья,</plain>
+            <plain>Р РїР»РµСЃРє РІРµСЃРµРЅРЅРµРіРѕ СЂСѓС‡СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Мы видим в жизни много Божьих дел.</plain>
+            <plain>РњС‹ РІРёРґРёРј РІ Р¶РёР·РЅРё РјРЅРѕРіРѕ Р‘РѕР¶СЊРёС… РґРµР».</plain>
         </string>
         <string>
-            <plain>Когда я их увидел, я Ему воспел</plain>
+            <plain>РљРѕРіРґР° СЏ РёС… СѓРІРёРґРµР», СЏ Р•РјСѓ РІРѕСЃРїРµР»</plain>
         </string>
         <string>
-            <plain>Ту песнь хвалы за Его дары</plain>
+            <plain>РўСѓ РїРµСЃРЅСЊ С…РІР°Р»С‹ Р·Р° Р•РіРѕ РґР°СЂС‹</plain>
         </string>
         <string>
-            <plain>И пою теперь: "Достоин Ты!".</plain>
+            <plain>Р РїРѕСЋ С‚РµРїРµСЂСЊ: "Р”РѕСЃС‚РѕРёРЅ РўС‹!".</plain>
         </string>
     </verse>
 </psalm>

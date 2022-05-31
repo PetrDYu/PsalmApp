@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2545" name="Возьми свой крест иди за Мной" canon="false" text="" textRus="" music="">
+<psalm number="2545" name="Р’РѕР·СЊРјРё СЃРІРѕР№ РєСЂРµСЃС‚ РёРґРё Р·Р° РњРЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>"Возьми свой крест, иди за Мной!"</plain>
+            <plain>"Р’РѕР·СЊРјРё СЃРІРѕР№ РєСЂРµСЃС‚, РёРґРё Р·Р° РњРЅРѕР№!"</plain>
         </string>
         <string>
-            <plain>Христос мне говорит:</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РјРЅРµ РіРѕРІРѕСЂРёС‚:</plain>
         </string>
         <string>
-            <plain>"Я за тебя перед толпой</plain>
+            <plain>"РЇ Р·Р° С‚РµР±СЏ РїРµСЂРµРґ С‚РѕР»РїРѕР№</plain>
         </string>
         <string>
-            <plain>был ко кресту прибит".</plain>
+            <plain>Р±С‹Р» РєРѕ РєСЂРµСЃС‚Сѓ РїСЂРёР±РёС‚".</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Куда б Он ни повел,</plain>
+            <plain>РљСѓРґР° Р± РћРЅ РЅРё РїРѕРІРµР»,</plain>
         </string>
         <string>
-            <plain>куда б Он ни повел,</plain>
+            <plain>РєСѓРґР° Р± РћРЅ РЅРё РїРѕРІРµР»,</plain>
         </string>
         <string>
-            <plain>Я вслед за Ним пойду везде,</plain>
+            <plain>РЇ РІСЃР»РµРґ Р·Р° РќРёРј РїРѕР№РґСѓ РІРµР·РґРµ,</plain>
         </string>
         <string>
-            <plain>куда б Он ни повел.</plain>
+            <plain>РєСѓРґР° Р± РћРЅ РЅРё РїРѕРІРµР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Меня приблизил Он к себе,</plain>
+            <plain>РњРµРЅСЏ РїСЂРёР±Р»РёР·РёР» РћРЅ Рє СЃРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>с души снял тяжкий гнет.</plain>
+            <plain>СЃ РґСѓС€Рё СЃРЅСЏР» С‚СЏР¶РєРёР№ РіРЅРµС‚.</plain>
         </string>
         <string>
-            <plain>Хочу послушным быть везде,</plain>
+            <plain>РҐРѕС‡Сѓ РїРѕСЃР»СѓС€РЅС‹Рј Р±С‹С‚СЊ РІРµР·РґРµ,</plain>
         </string>
         <string>
-            <plain>идти, куда ведет.</plain>
+            <plain>РёРґС‚Рё, РєСѓРґР° РІРµРґРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чрез ряд скорбей иль смерти тьму,</plain>
+            <plain>Р§СЂРµР· СЂСЏРґ СЃРєРѕСЂР±РµР№ РёР»СЊ СЃРјРµСЂС‚Рё С‚СЊРјСѓ,</plain>
         </string>
         <string>
-            <plain>чрез бурные моря,</plain>
+            <plain>С‡СЂРµР· Р±СѓСЂРЅС‹Рµ РјРѕСЂСЏ,</plain>
         </string>
         <string>
-            <plain>Взяв крест за Ним я вслед пойду,</plain>
+            <plain>Р’Р·СЏРІ РєСЂРµСЃС‚ Р·Р° РќРёРј СЏ РІСЃР»РµРґ РїРѕР№РґСѓ,</plain>
         </string>
         <string>
-            <plain>куда б ни вел меня.</plain>
+            <plain>РєСѓРґР° Р± РЅРё РІРµР» РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Все сердце, волю, жизнь мою</plain>
+            <plain>Р’СЃРµ СЃРµСЂРґС†Рµ, РІРѕР»СЋ, Р¶РёР·РЅСЊ РјРѕСЋ</plain>
         </string>
         <string>
-            <plain>- Христу я отдаю;</plain>
+            <plain>- РҐСЂРёСЃС‚Сѓ СЏ РѕС‚РґР°СЋ;</plain>
         </string>
         <string>
-            <plain>Он - мой Спаситель,</plain>
+            <plain>РћРЅ - РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>мой Господь, спасает дух и плоть.</plain>
+            <plain>РјРѕР№ Р“РѕСЃРїРѕРґСЊ, СЃРїР°СЃР°РµС‚ РґСѓС… Рё РїР»РѕС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

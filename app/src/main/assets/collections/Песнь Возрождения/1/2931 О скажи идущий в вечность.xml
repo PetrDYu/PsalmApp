@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2931" name="О скажи идущий в вечность" canon="false" text="" textRus="" music="">
+<psalm number="2931" name="Рћ СЃРєР°Р¶Рё РёРґСѓС‰РёР№ РІ РІРµС‡РЅРѕСЃС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О скажи, идущий в вечность,</plain>
+            <plain>Рћ СЃРєР°Р¶Рё, РёРґСѓС‰РёР№ РІ РІРµС‡РЅРѕСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>ты свободен от грехов?</plain>
+            <plain>С‚С‹ СЃРІРѕР±РѕРґРµРЅ РѕС‚ РіСЂРµС…РѕРІ?</plain>
         </string>
         <string>
-            <plain>Подтверждаешь своей жизнью,</plain>
+            <plain>РџРѕРґС‚РІРµСЂР¶РґР°РµС€СЊ СЃРІРѕРµР№ Р¶РёР·РЅСЊСЋ,</plain>
         </string>
         <string>
-            <plain>что в душе живёт любовь?</plain>
+            <plain>С‡С‚Рѕ РІ РґСѓС€Рµ Р¶РёРІС‘С‚ Р»СЋР±РѕРІСЊ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Да! Да! Да!</plain>
+            <plain>Р”Р°! Р”Р°! Р”Р°!</plain>
         </string>
         <string>
-            <plain>На истинном пути я!</plain>
+            <plain>РќР° РёСЃС‚РёРЅРЅРѕРј РїСѓС‚Рё СЏ!</plain>
         </string>
         <string>
-            <plain>И славлю Бога всей душой</plain>
+            <plain>Р СЃР»Р°РІР»СЋ Р‘РѕРіР° РІСЃРµР№ РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>за благодать спасенья!</plain>
+            <plain>Р·Р° Р±Р»Р°РіРѕРґР°С‚СЊ СЃРїР°СЃРµРЅСЊСЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Богу безвозвратно отдал</plain>
+            <plain>Р‘РѕРіСѓ Р±РµР·РІРѕР·РІСЂР°С‚РЅРѕ РѕС‚РґР°Р»</plain>
         </string>
         <string>
-            <plain>сердце и всего себя?</plain>
+            <plain>СЃРµСЂРґС†Рµ Рё РІСЃРµРіРѕ СЃРµР±СЏ?</plain>
         </string>
         <string>
-            <plain>Умер полностью для мира</plain>
+            <plain>РЈРјРµСЂ РїРѕР»РЅРѕСЃС‚СЊСЋ РґР»СЏ РјРёСЂР°</plain>
         </string>
         <string>
-            <plain>и живёшь ли для Христа?</plain>
+            <plain>Рё Р¶РёРІС‘С€СЊ Р»Рё РґР»СЏ РҐСЂРёСЃС‚Р°?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты живёшь по воле Божьей?</plain>
+            <plain>РўС‹ Р¶РёРІС‘С€СЊ РїРѕ РІРѕР»Рµ Р‘РѕР¶СЊРµР№?</plain>
         </string>
         <string>
-            <plain>Наставляет Дух тебя?</plain>
+            <plain>РќР°СЃС‚Р°РІР»СЏРµС‚ Р”СѓС… С‚РµР±СЏ?</plain>
         </string>
         <string>
-            <plain>Славишь ли устами Бога?</plain>
+            <plain>РЎР»Р°РІРёС€СЊ Р»Рё СѓСЃС‚Р°РјРё Р‘РѕРіР°?</plain>
         </string>
         <string>
-            <plain>Речь твоя любви полна?</plain>
+            <plain>Р РµС‡СЊ С‚РІРѕСЏ Р»СЋР±РІРё РїРѕР»РЅР°?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Вытираешь слёзы вдовам?</plain>
+            <plain>Р’С‹С‚РёСЂР°РµС€СЊ СЃР»С‘Р·С‹ РІРґРѕРІР°Рј?</plain>
         </string>
         <string>
-            <plain>Сиротам ты хлеб даёшь?</plain>
+            <plain>РЎРёСЂРѕС‚Р°Рј С‚С‹ С…Р»РµР± РґР°С‘С€СЊ?</plain>
         </string>
         <string>
-            <plain>Утешаешь ли скорбящих?</plain>
+            <plain>РЈС‚РµС€Р°РµС€СЊ Р»Рё СЃРєРѕСЂР±СЏС‰РёС…?</plain>
         </string>
         <string>
-            <plain>Ближнего нужду несёшь?</plain>
+            <plain>Р‘Р»РёР¶РЅРµРіРѕ РЅСѓР¶РґСѓ РЅРµСЃС‘С€СЊ?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Бедных грешников зовёшь ли</plain>
+            <plain>Р‘РµРґРЅС‹С… РіСЂРµС€РЅРёРєРѕРІ Р·РѕРІС‘С€СЊ Р»Рё</plain>
         </string>
         <string>
-            <plain>на небесный, узкий путь?</plain>
+            <plain>РЅР° РЅРµР±РµСЃРЅС‹Р№, СѓР·РєРёР№ РїСѓС‚СЊ?</plain>
         </string>
         <string>
-            <plain>Брат мой, только так победно</plain>
+            <plain>Р‘СЂР°С‚ РјРѕР№, С‚РѕР»СЊРєРѕ С‚Р°Рє РїРѕР±РµРґРЅРѕ</plain>
         </string>
         <string>
-            <plain>можем странствовать мы тут!</plain>
+            <plain>РјРѕР¶РµРј СЃС‚СЂР°РЅСЃС‚РІРѕРІР°С‚СЊ РјС‹ С‚СѓС‚!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,121 +1,121 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3277" name="Голосу Вождя внемлите" canon="false" text="" textRus="" music="">
+<psalm number="3277" name="Р“РѕР»РѕСЃСѓ Р’РѕР¶РґСЏ РІРЅРµРјР»РёС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Голосу Вождя внемлите:</plain>
+            <plain>Р“РѕР»РѕСЃСѓ Р’РѕР¶РґСЏ РІРЅРµРјР»РёС‚Рµ:</plain>
         </string>
         <string>
-            <plain>«Все к борьбе, все к борьбе!»</plain>
+            <plain>В«Р’СЃРµ Рє Р±РѕСЂСЊР±Рµ, РІСЃРµ Рє Р±РѕСЂСЊР±Рµ!В»</plain>
         </string>
         <string>
-            <plain>И оружие возьмите!</plain>
+            <plain>Р РѕСЂСѓР¶РёРµ РІРѕР·СЊРјРёС‚Рµ!</plain>
         </string>
         <string>
-            <plain>Все к борьбе, все к борьбе!</plain>
+            <plain>Р’СЃРµ Рє Р±РѕСЂСЊР±Рµ, РІСЃРµ Рє Р±РѕСЂСЊР±Рµ!</plain>
         </string>
         <string>
-            <plain>Если враг ваш не сдается,</plain>
+            <plain>Р•СЃР»Рё РІСЂР°Рі РІР°С€ РЅРµ СЃРґР°РµС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>смело каждый пусть с ним бьется</plain>
+            <plain>СЃРјРµР»Рѕ РєР°Р¶РґС‹Р№ РїСѓСЃС‚СЊ СЃ РЅРёРј Р±СЊРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>и за меч и щит возьмется.</plain>
+            <plain>Рё Р·Р° РјРµС‡ Рё С‰РёС‚ РІРѕР·СЊРјРµС‚СЃСЏ.</plain>
         </string>
         <string>
-            <plain>Все к борьбе, все к борьбе!</plain>
+            <plain>Р’СЃРµ Рє Р±РѕСЂСЊР±Рµ, РІСЃРµ Рє Р±РѕСЂСЊР±Рµ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Войско малое Христа,</plain>
+            <plain>Р’РѕР№СЃРєРѕ РјР°Р»РѕРµ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>не бойся в борьбе,</plain>
+            <plain>РЅРµ Р±РѕР№СЃСЏ РІ Р±РѕСЂСЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>на Вождя взирай всегда,</plain>
+            <plain>РЅР° Р’РѕР¶РґСЏ РІР·РёСЂР°Р№ РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>и даст победу Он тебе.</plain>
+            <plain>Рё РґР°СЃС‚ РїРѕР±РµРґСѓ РћРЅ С‚РµР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Встретишь в жизни испытанья,</plain>
+            <plain>Р’СЃС‚СЂРµС‚РёС€СЊ РІ Р¶РёР·РЅРё РёСЃРїС‹С‚Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>верным будь, верным будь!</plain>
+            <plain>РІРµСЂРЅС‹Рј Р±СѓРґСЊ, РІРµСЂРЅС‹Рј Р±СѓРґСЊ!</plain>
         </string>
         <string>
-            <plain>Терпишь часто надруганья,</plain>
+            <plain>РўРµСЂРїРёС€СЊ С‡Р°СЃС‚Рѕ РЅР°РґСЂСѓРіР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>верным будь, верным будь!</plain>
+            <plain>РІРµСЂРЅС‹Рј Р±СѓРґСЊ, РІРµСЂРЅС‹Рј Р±СѓРґСЊ!</plain>
         </string>
         <string>
-            <plain>Если страшно враг бушует,</plain>
+            <plain>Р•СЃР»Рё СЃС‚СЂР°С€РЅРѕ РІСЂР°Рі Р±СѓС€СѓРµС‚,</plain>
         </string>
         <string>
-            <plain>силу Бог тебе дарует,</plain>
+            <plain>СЃРёР»Сѓ Р‘РѕРі С‚РµР±Рµ РґР°СЂСѓРµС‚,</plain>
         </string>
         <string>
-            <plain>велика награда будет</plain>
+            <plain>РІРµР»РёРєР° РЅР°РіСЂР°РґР° Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>- верным будь, верным будь!</plain>
+            <plain>- РІРµСЂРЅС‹Рј Р±СѓРґСЊ, РІРµСЂРЅС‹Рј Р±СѓРґСЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В час тяжелых искушений</plain>
+            <plain>Р’ С‡Р°СЃ С‚СЏР¶РµР»С‹С… РёСЃРєСѓС€РµРЅРёР№</plain>
         </string>
         <string>
-            <plain>стойким будь, стойким будь!</plain>
+            <plain>СЃС‚РѕР№РєРёРј Р±СѓРґСЊ, СЃС‚РѕР№РєРёРј Р±СѓРґСЊ!</plain>
         </string>
         <string>
-            <plain>Благодать дает Бог верный,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊ РґР°РµС‚ Р‘РѕРі РІРµСЂРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>- стойким будь, стойким будь!</plain>
+            <plain>- СЃС‚РѕР№РєРёРј Р±СѓРґСЊ, СЃС‚РѕР№РєРёРј Р±СѓРґСЊ!</plain>
         </string>
         <string>
-            <plain>От греха обороняйся,</plain>
+            <plain>РћС‚ РіСЂРµС…Р° РѕР±РѕСЂРѕРЅСЏР№СЃСЏ,</plain>
         </string>
         <string>
-            <plain>следовать Христу старайся</plain>
+            <plain>СЃР»РµРґРѕРІР°С‚СЊ РҐСЂРёСЃС‚Сѓ СЃС‚Р°СЂР°Р№СЃСЏ</plain>
         </string>
         <string>
-            <plain>и победы добивайся.</plain>
+            <plain>Рё РїРѕР±РµРґС‹ РґРѕР±РёРІР°Р№СЃСЏ.</plain>
         </string>
         <string>
-            <plain>Стойким будь, стойким будь!</plain>
+            <plain>РЎС‚РѕР№РєРёРј Р±СѓРґСЊ, СЃС‚РѕР№РєРёРј Р±СѓРґСЊ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Если враг нагрянет властно,</plain>
+            <plain>Р•СЃР»Рё РІСЂР°Рі РЅР°РіСЂСЏРЅРµС‚ РІР»Р°СЃС‚РЅРѕ,</plain>
         </string>
         <string>
-            <plain>- о, вперед, о, вперед!</plain>
+            <plain>- Рѕ, РІРїРµСЂРµРґ, Рѕ, РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Победи его бесстрашно,</plain>
+            <plain>РџРѕР±РµРґРё РµРіРѕ Р±РµСЃСЃС‚СЂР°С€РЅРѕ,</plain>
         </string>
         <string>
-            <plain>о, вперед, о, вперед!</plain>
+            <plain>Рѕ, РІРїРµСЂРµРґ, Рѕ, РІРїРµСЂРµРґ!</plain>
         </string>
         <string>
-            <plain>Направляй свои стремленья</plain>
+            <plain>РќР°РїСЂР°РІР»СЏР№ СЃРІРѕРё СЃС‚СЂРµРјР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>все на вражьи укрепленья,</plain>
+            <plain>РІСЃРµ РЅР° РІСЂР°Р¶СЊРё СѓРєСЂРµРїР»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>выполняй Вождя веленья.</plain>
+            <plain>РІС‹РїРѕР»РЅСЏР№ Р’РѕР¶РґСЏ РІРµР»РµРЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>О, вперед, о, вперед!</plain>
+            <plain>Рћ, РІРїРµСЂРµРґ, Рѕ, РІРїРµСЂРµРґ!</plain>
         </string>
     </verse>
 </psalm>

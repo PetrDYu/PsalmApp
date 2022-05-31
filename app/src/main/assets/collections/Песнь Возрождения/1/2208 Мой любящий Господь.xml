@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2208" name="Мой любящий Господь" canon="false" text="" textRus="" music="">
+<psalm number="2208" name="РњРѕР№ Р»СЋР±СЏС‰РёР№ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мой любящий Господь</plain>
+            <plain>РњРѕР№ Р»СЋР±СЏС‰РёР№ Р“РѕСЃРїРѕРґСЊ</plain>
         </string>
         <string>
-            <plain>Умер, чтоб меня спасти.</plain>
+            <plain>РЈРјРµСЂ, С‡С‚РѕР± РјРµРЅСЏ СЃРїР°СЃС‚Рё.</plain>
         </string>
         <string>
-            <plain>Он воскрес, вознесся в небо,</plain>
+            <plain>РћРЅ РІРѕСЃРєСЂРµСЃ, РІРѕР·РЅРµСЃСЃСЏ РІ РЅРµР±Рѕ,</plain>
         </string>
         <string>
-            <plain>Стал Он Господом моим. (2 Р.)</plain>
+            <plain>РЎС‚Р°Р» РћРЅ Р“РѕСЃРїРѕРґРѕРј РјРѕРёРј. (2 Р .)</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь вернется забрать меня,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РІРµСЂРЅРµС‚СЃСЏ Р·Р°Р±СЂР°С‚СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>В небесном Царстве с Ним буду я (2 р.).</plain>
+            <plain>Р’ РЅРµР±РµСЃРЅРѕРј Р¦Р°СЂСЃС‚РІРµ СЃ РќРёРј Р±СѓРґСѓ СЏ (2 СЂ.).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Мой любящий Господь,</plain>
+            <plain>РњРѕР№ Р»СЋР±СЏС‰РёР№ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Стал Он Пастырем моим.</plain>
+            <plain>РЎС‚Р°Р» РћРЅ РџР°СЃС‚С‹СЂРµРј РјРѕРёРј.</plain>
         </string>
         <string>
-            <plain>Он всегда меня ведет,</plain>
+            <plain>РћРЅ РІСЃРµРіРґР° РјРµРЅСЏ РІРµРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Буду следовать за Ним. (2 р.)</plain>
+            <plain>Р‘СѓРґСѓ СЃР»РµРґРѕРІР°С‚СЊ Р·Р° РќРёРј. (2 СЂ.)</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Благодатную любовь,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚РЅСѓСЋ Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>Я смогу ли восхвалить.</plain>
+            <plain>РЇ СЃРјРѕРіСѓ Р»Рё РІРѕСЃС…РІР°Р»РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>До последнего дня жизни для</plain>
+            <plain>Р”Рѕ РїРѕСЃР»РµРґРЅРµРіРѕ РґРЅСЏ Р¶РёР·РЅРё РґР»СЏ</plain>
         </string>
         <string>
-            <plain>Него я буду жить. (2 р.)</plain>
+            <plain>РќРµРіРѕ СЏ Р±СѓРґСѓ Р¶РёС‚СЊ. (2 СЂ.)</plain>
         </string>
     </verse>
 </psalm>

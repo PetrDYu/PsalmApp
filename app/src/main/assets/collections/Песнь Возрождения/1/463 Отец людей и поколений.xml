@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="463" name="Отец людей и поколений" canon="false" text="" textRus="" music="">
+<psalm number="463" name="РћС‚РµС† Р»СЋРґРµР№ Рё РїРѕРєРѕР»РµРЅРёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Отец людей и поколений,</plain>
+            <plain>РћС‚РµС† Р»СЋРґРµР№ Рё РїРѕРєРѕР»РµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>Наш Попечитель всеблагой!</plain>
+            <plain>РќР°С€ РџРѕРїРµС‡РёС‚РµР»СЊ РІСЃРµР±Р»Р°РіРѕР№!</plain>
         </string>
         <string>
-            <plain>С престола славы и хвалений</plain>
+            <plain>РЎ РїСЂРµСЃС‚РѕР»Р° СЃР»Р°РІС‹ Рё С…РІР°Р»РµРЅРёР№</plain>
         </string>
         <string>
-            <plain>Нас милосердья удостой.</plain>
+            <plain>РќР°СЃ РјРёР»РѕСЃРµСЂРґСЊСЏ СѓРґРѕСЃС‚РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог благодати, Бог спасенья!</plain>
+            <plain>Р‘РѕРі Р±Р»Р°РіРѕРґР°С‚Рё, Р‘РѕРі СЃРїР°СЃРµРЅСЊСЏ!</plain>
         </string>
         <string>
-            <plain>Пошли Твое благословенье!</plain>
+            <plain>РџРѕС€Р»Рё РўРІРѕРµ Р±Р»Р°РіРѕСЃР»РѕРІРµРЅСЊРµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Взгляни на них так взором ясным,</plain>
+            <plain>Р’Р·РіР»СЏРЅРё РЅР° РЅРёС… С‚Р°Рє РІР·РѕСЂРѕРј СЏСЃРЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Чтоб луч живой очей Твоих</plain>
+            <plain>Р§С‚РѕР± Р»СѓС‡ Р¶РёРІРѕР№ РѕС‡РµР№ РўРІРѕРёС…</plain>
         </string>
         <string>
-            <plain>Проникнул в них потоком властным</plain>
+            <plain>РџСЂРѕРЅРёРєРЅСѓР» РІ РЅРёС… РїРѕС‚РѕРєРѕРј РІР»Р°СЃС‚РЅС‹Рј</plain>
         </string>
         <string>
-            <plain>И стал сияньем жизни их.</plain>
+            <plain>Р СЃС‚Р°Р» СЃРёСЏРЅСЊРµРј Р¶РёР·РЅРё РёС….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Взгляни на них так взором нежным,</plain>
+            <plain>Р’Р·РіР»СЏРЅРё РЅР° РЅРёС… С‚Р°Рє РІР·РѕСЂРѕРј РЅРµР¶РЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Чтобы любви Твоей тепло</plain>
+            <plain>Р§С‚РѕР±С‹ Р»СЋР±РІРё РўРІРѕРµР№ С‚РµРїР»Рѕ</plain>
         </string>
         <string>
-            <plain>Их грело счастьем безмятежным</plain>
+            <plain>РС… РіСЂРµР»Рѕ СЃС‡Р°СЃС‚СЊРµРј Р±РµР·РјСЏС‚РµР¶РЅС‹Рј</plain>
         </string>
         <string>
-            <plain>И всю бы жизнь их берегло.</plain>
+            <plain>Р РІСЃСЋ Р±С‹ Р¶РёР·РЅСЊ РёС… Р±РµСЂРµРіР»Рѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Взгляни на них и Сам, Всесильный,</plain>
+            <plain>Р’Р·РіР»СЏРЅРё РЅР° РЅРёС… Рё РЎР°Рј, Р’СЃРµСЃРёР»СЊРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Святую руку возложи</plain>
+            <plain>РЎРІСЏС‚СѓСЋ СЂСѓРєСѓ РІРѕР·Р»РѕР¶Рё</plain>
         </string>
         <string>
-            <plain>И с даром милости обильной</plain>
+            <plain>Р СЃ РґР°СЂРѕРј РјРёР»РѕСЃС‚Рё РѕР±РёР»СЊРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Благое слово им скажи.</plain>
+            <plain>Р‘Р»Р°РіРѕРµ СЃР»РѕРІРѕ РёРј СЃРєР°Р¶Рё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Твоей руки благословенья</plain>
+            <plain>РўРІРѕРµР№ СЂСѓРєРё Р±Р»Р°РіРѕСЃР»РѕРІРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>От них всю жизнь не отнимай,</plain>
+            <plain>РћС‚ РЅРёС… РІСЃСЋ Р¶РёР·РЅСЊ РЅРµ РѕС‚РЅРёРјР°Р№,</plain>
         </string>
         <string>
-            <plain>Веди их Сам путем спасенья</plain>
+            <plain>Р’РµРґРё РёС… РЎР°Рј РїСѓС‚РµРј СЃРїР°СЃРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>И слов небесных не лишай.</plain>
+            <plain>Р СЃР»РѕРІ РЅРµР±РµСЃРЅС‹С… РЅРµ Р»РёС€Р°Р№.</plain>
         </string>
     </verse>
 </psalm>

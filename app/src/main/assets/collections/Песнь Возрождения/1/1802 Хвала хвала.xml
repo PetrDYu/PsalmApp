@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1802" name="Хвала хвала" canon="false" text="" textRus="" music="">
+<psalm number="1802" name="РҐРІР°Р»Р° С…РІР°Р»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хвала, хвала!</plain>
+            <plain>РҐРІР°Р»Р°, С…РІР°Р»Р°!</plain>
         </string>
         <string>
-            <plain>Хвала Ему утром.</plain>
+            <plain>РҐРІР°Р»Р° Р•РјСѓ СѓС‚СЂРѕРј.</plain>
         </string>
         <string>
-            <plain>Хвала Ему в полдень.</plain>
+            <plain>РҐРІР°Р»Р° Р•РјСѓ РІ РїРѕР»РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Хвала, хвала!</plain>
+            <plain>РҐРІР°Р»Р°, С…РІР°Р»Р°!</plain>
         </string>
         <string>
-            <plain>Хвала Ему вечером.</plain>
+            <plain>РҐРІР°Р»Р° Р•РјСѓ РІРµС‡РµСЂРѕРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Слава, слава!</plain>
+            <plain>РЎР»Р°РІР°, СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Слава Ему утром,</plain>
+            <plain>РЎР»Р°РІР° Р•РјСѓ СѓС‚СЂРѕРј,</plain>
         </string>
         <string>
-            <plain>Слава Ему в полдень,</plain>
+            <plain>РЎР»Р°РІР° Р•РјСѓ РІ РїРѕР»РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Слава, слава!</plain>
+            <plain>РЎР»Р°РІР°, СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Слава Ему вечером.</plain>
+            <plain>РЎР»Р°РІР° Р•РјСѓ РІРµС‡РµСЂРѕРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Служу, служу!</plain>
+            <plain>РЎР»СѓР¶Сѓ, СЃР»СѓР¶Сѓ!</plain>
         </string>
         <string>
-            <plain>Служу Ему утром.</plain>
+            <plain>РЎР»СѓР¶Сѓ Р•РјСѓ СѓС‚СЂРѕРј.</plain>
         </string>
         <string>
-            <plain>Служу Ему в полдень.</plain>
+            <plain>РЎР»СѓР¶Сѓ Р•РјСѓ РІ РїРѕР»РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Служу, служу!</plain>
+            <plain>РЎР»СѓР¶Сѓ, СЃР»СѓР¶Сѓ!</plain>
         </string>
         <string>
-            <plain>Служу Ему вечером.</plain>
+            <plain>РЎР»СѓР¶Сѓ Р•РјСѓ РІРµС‡РµСЂРѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Люблю, люблю!</plain>
+            <plain>Р›СЋР±Р»СЋ, Р»СЋР±Р»СЋ!</plain>
         </string>
         <string>
-            <plain>Люблю Его утром.</plain>
+            <plain>Р›СЋР±Р»СЋ Р•РіРѕ СѓС‚СЂРѕРј.</plain>
         </string>
         <string>
-            <plain>Люблю Его в полдень,</plain>
+            <plain>Р›СЋР±Р»СЋ Р•РіРѕ РІ РїРѕР»РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Люблю, люблю!</plain>
+            <plain>Р›СЋР±Р»СЋ, Р»СЋР±Р»СЋ!</plain>
         </string>
         <string>
-            <plain>Люблю Его вечером.</plain>
+            <plain>Р›СЋР±Р»СЋ Р•РіРѕ РІРµС‡РµСЂРѕРј.</plain>
         </string>
     </verse>
 </psalm>

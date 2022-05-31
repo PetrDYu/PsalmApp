@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2205" name="Мой Бог Тебя люблю Ты знаешь" canon="false" text="" textRus="" music="">
+<psalm number="2205" name="РњРѕР№ Р‘РѕРі РўРµР±СЏ Р»СЋР±Р»СЋ РўС‹ Р·РЅР°РµС€СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мой Бог, Тебя люблю, Ты знаешь.</plain>
+            <plain>РњРѕР№ Р‘РѕРі, РўРµР±СЏ Р»СЋР±Р»СЋ, РўС‹ Р·РЅР°РµС€СЊ.</plain>
         </string>
         <string>
-            <plain>Всегда хочу служить Тебе,</plain>
+            <plain>Р’СЃРµРіРґР° С…РѕС‡Сѓ СЃР»СѓР¶РёС‚СЊ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Но слаб я и к Тебе с мольбою</plain>
+            <plain>РќРѕ СЃР»Р°Р± СЏ Рё Рє РўРµР±Рµ СЃ РјРѕР»СЊР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Взываю: помоги в борьбе.</plain>
+            <plain>Р’Р·С‹РІР°СЋ: РїРѕРјРѕРіРё РІ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты - моя надежда, Ты - моя отрада.</plain>
+            <plain>РўС‹ - РјРѕСЏ РЅР°РґРµР¶РґР°, РўС‹ - РјРѕСЏ РѕС‚СЂР°РґР°.</plain>
         </string>
         <string>
-            <plain>Ты - Господь Спаситель,</plain>
+            <plain>РўС‹ - Р“РѕСЃРїРѕРґСЊ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Только Ты, лишь только Ты.</plain>
+            <plain>РўРѕР»СЊРєРѕ РўС‹, Р»РёС€СЊ С‚РѕР»СЊРєРѕ РўС‹.</plain>
         </string>
         <string>
-            <plain>Ты - источник жизни,</plain>
+            <plain>РўС‹ - РёСЃС‚РѕС‡РЅРёРє Р¶РёР·РЅРё,</plain>
         </string>
         <string>
-            <plain>Ты - источник силы,</plain>
+            <plain>РўС‹ - РёСЃС‚РѕС‡РЅРёРє СЃРёР»С‹,</plain>
         </string>
         <string>
-            <plain>Ты - Господь Спаситель, только Ты.</plain>
+            <plain>РўС‹ - Р“РѕСЃРїРѕРґСЊ РЎРїР°СЃРёС‚РµР»СЊ, С‚РѕР»СЊРєРѕ РўС‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Путь за Тобой тернист и узок,</plain>
+            <plain>РџСѓС‚СЊ Р·Р° РўРѕР±РѕР№ С‚РµСЂРЅРёСЃС‚ Рё СѓР·РѕРє,</plain>
         </string>
         <string>
-            <plain>Болезнь и скорбь теснят меня,</plain>
+            <plain>Р‘РѕР»РµР·РЅСЊ Рё СЃРєРѕСЂР±СЊ С‚РµСЃРЅСЏС‚ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>И первая любовь хладеет,</plain>
+            <plain>Р РїРµСЂРІР°СЏ Р»СЋР±РѕРІСЊ С…Р»Р°РґРµРµС‚,</plain>
         </string>
         <string>
-            <plain>О Боже, укрепи меня.</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, СѓРєСЂРµРїРё РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда захочешь испытать меня,</plain>
+            <plain>РљРѕРіРґР° Р·Р°С…РѕС‡РµС€СЊ РёСЃРїС‹С‚Р°С‚СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>То дай мне сил благодарить.</plain>
+            <plain>РўРѕ РґР°Р№ РјРЅРµ СЃРёР» Р±Р»Р°РіРѕРґР°СЂРёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>За все: за скорби и за радость</plain>
+            <plain>Р—Р° РІСЃРµ: Р·Р° СЃРєРѕСЂР±Рё Рё Р·Р° СЂР°РґРѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>Твое величье восхвалить.</plain>
+            <plain>РўРІРѕРµ РІРµР»РёС‡СЊРµ РІРѕСЃС…РІР°Р»РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

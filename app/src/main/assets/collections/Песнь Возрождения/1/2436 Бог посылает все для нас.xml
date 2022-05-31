@@ -1,62 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2436" name="Бог посылает все для нас" canon="false" text="" textRus="" music="">
+<psalm number="2436" name="Р‘РѕРі РїРѕСЃС‹Р»Р°РµС‚ РІСЃРµ РґР»СЏ РЅР°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог посылает все для нас,</plain>
+            <plain>Р‘РѕРі РїРѕСЃС‹Р»Р°РµС‚ РІСЃРµ РґР»СЏ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Я так счастлив!</plain>
+            <plain>РЇ С‚Р°Рє СЃС‡Р°СЃС‚Р»РёРІ!</plain>
         </string>
         <string>
-            <plain>Луч солнца, дождик в нужный час.</plain>
+            <plain>Р›СѓС‡ СЃРѕР»РЅС†Р°, РґРѕР¶РґРёРє РІ РЅСѓР¶РЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
         <string>
-            <plain>Я так счастлив!</plain>
+            <plain>РЇ С‚Р°Рє СЃС‡Р°СЃС‚Р»РёРІ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Люблю я травку и цветы,</plain>
+            <plain>Р›СЋР±Р»СЋ СЏ С‚СЂР°РІРєСѓ Рё С†РІРµС‚С‹,</plain>
         </string>
         <string>
-            <plain>Деревья, кустики, сады.</plain>
+            <plain>Р”РµСЂРµРІСЊСЏ, РєСѓСЃС‚РёРєРё, СЃР°РґС‹.</plain>
         </string>
         <string>
-            <plain>На них прекрасные плоды.</plain>
+            <plain>РќР° РЅРёС… РїСЂРµРєСЂР°СЃРЅС‹Рµ РїР»РѕРґС‹.</plain>
         </string>
         <string>
-            <plain>Я так счастлив!</plain>
+            <plain>РЇ С‚Р°Рє СЃС‡Р°СЃС‚Р»РёРІ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь заботится о мне.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ Р·Р°Р±РѕС‚РёС‚СЃСЏ Рѕ РјРЅРµ.</plain>
         </string>
         <string>
-            <plain>Я так счастлив!</plain>
+            <plain>РЇ С‚Р°Рє СЃС‡Р°СЃС‚Р»РёРІ!</plain>
         </string>
         <string>
-            <plain>На небе дом готовит мне.</plain>
+            <plain>РќР° РЅРµР±Рµ РґРѕРј РіРѕС‚РѕРІРёС‚ РјРЅРµ.</plain>
         </string>
         <string>
-            <plain>Я так счастлив!</plain>
+            <plain>РЇ С‚Р°Рє СЃС‡Р°СЃС‚Р»РёРІ!</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Там все прекрасней и милей,</plain>
+            <plain>РўР°Рј РІСЃРµ РїСЂРµРєСЂР°СЃРЅРµР№ Рё РјРёР»РµР№,</plain>
         </string>
         <string>
-            <plain>Там сделан сад,</plain>
+            <plain>РўР°Рј СЃРґРµР»Р°РЅ СЃР°Рґ,</plain>
         </string>
         <string>
-            <plain>Простор полей Бог даст</plain>
+            <plain>РџСЂРѕСЃС‚РѕСЂ РїРѕР»РµР№ Р‘РѕРі РґР°СЃС‚</plain>
         </string>
         <string>
-            <plain>по милости Своей.</plain>
+            <plain>РїРѕ РјРёР»РѕСЃС‚Рё РЎРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Я так счастлив!</plain>
+            <plain>РЇ С‚Р°Рє СЃС‡Р°СЃС‚Р»РёРІ!</plain>
         </string>
     </chorus>
 </psalm>

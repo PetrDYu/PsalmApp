@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="268" name="О Боже оживи" canon="false" text="" textRus="" music="">
+<psalm number="268" name="Рћ Р‘РѕР¶Рµ РѕР¶РёРІРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Боже, оживи</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, РѕР¶РёРІРё</plain>
         </string>
         <string>
-            <plain>В нас труд Твоей любви!</plain>
+            <plain>Р’ РЅР°СЃ С‚СЂСѓРґ РўРІРѕРµР№ Р»СЋР±РІРё!</plain>
         </string>
         <string>
-            <plain>Пусть мощно голос Твой звучит</plain>
+            <plain>РџСѓСЃС‚СЊ РјРѕС‰РЅРѕ РіРѕР»РѕСЃ РўРІРѕР№ Р·РІСѓС‡РёС‚</plain>
         </string>
         <string>
-            <plain>И в деле нас крепит.</plain>
+            <plain>Р РІ РґРµР»Рµ РЅР°СЃ РєСЂРµРїРёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Свой труд в нас оживи</plain>
+            <plain>РЎРІРѕР№ С‚СЂСѓРґ РІ РЅР°СЃ РѕР¶РёРІРё</plain>
         </string>
         <string>
-            <plain>И чувства обнови,</plain>
+            <plain>Р С‡СѓРІСЃС‚РІР° РѕР±РЅРѕРІРё,</plain>
         </string>
         <string>
-            <plain>Чтоб мы трудились горячей</plain>
+            <plain>Р§С‚РѕР± РјС‹ С‚СЂСѓРґРёР»РёСЃСЊ РіРѕСЂСЏС‡РµР№</plain>
         </string>
         <string>
-            <plain>На пользу для людей.</plain>
+            <plain>РќР° РїРѕР»СЊР·Сѓ РґР»СЏ Р»СЋРґРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Твой труд в нас оживи,</plain>
+            <plain>РўРІРѕР№ С‚СЂСѓРґ РІ РЅР°СЃ РѕР¶РёРІРё,</plain>
         </string>
         <string>
-            <plain>Дела благослови,</plain>
+            <plain>Р”РµР»Р° Р±Р»Р°РіРѕСЃР»РѕРІРё,</plain>
         </string>
         <string>
-            <plain>Чтоб мир Тебя в них увидал</plain>
+            <plain>Р§С‚РѕР± РјРёСЂ РўРµР±СЏ РІ РЅРёС… СѓРІРёРґР°Р»</plain>
         </string>
         <string>
-            <plain>И пред Тобою пал.</plain>
+            <plain>Р РїСЂРµРґ РўРѕР±РѕСЋ РїР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Твой труд в нас оживи</plain>
+            <plain>РўРІРѕР№ С‚СЂСѓРґ РІ РЅР°СЃ РѕР¶РёРІРё</plain>
         </string>
         <string>
-            <plain>И в силе Дух яви,</plain>
+            <plain>Р РІ СЃРёР»Рµ Р”СѓС… СЏРІРё,</plain>
         </string>
         <string>
-            <plain>Чтоб Он оковы зла разбил</plain>
+            <plain>Р§С‚РѕР± РћРЅ РѕРєРѕРІС‹ Р·Р»Р° СЂР°Р·Р±РёР»</plain>
         </string>
         <string>
-            <plain>И правду утвердил.</plain>
+            <plain>Р РїСЂР°РІРґСѓ СѓС‚РІРµСЂРґРёР».</plain>
         </string>
     </verse>
 </psalm>

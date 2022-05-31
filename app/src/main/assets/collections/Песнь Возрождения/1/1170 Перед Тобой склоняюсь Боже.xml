@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1170" name="Перед Тобой склоняюсь Боже" canon="false" text="" textRus="" music="">
+<psalm number="1170" name="РџРµСЂРµРґ РўРѕР±РѕР№ СЃРєР»РѕРЅСЏСЋСЃСЊ Р‘РѕР¶Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Перед Тобой склоняюсь, Боже,</plain>
+            <plain>РџРµСЂРµРґ РўРѕР±РѕР№ СЃРєР»РѕРЅСЏСЋСЃСЊ, Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Молю, прости меня, прости.</plain>
+            <plain>РњРѕР»СЋ, РїСЂРѕСЃС‚Рё РјРµРЅСЏ, РїСЂРѕСЃС‚Рё.</plain>
         </string>
         <string>
-            <plain>Теперь я понял, что дороже</plain>
+            <plain>РўРµРїРµСЂСЊ СЏ РїРѕРЅСЏР», С‡С‚Рѕ РґРѕСЂРѕР¶Рµ</plain>
         </string>
         <string>
-            <plain>Тебя в сем мире не найти.</plain>
+            <plain>РўРµР±СЏ РІ СЃРµРј РјРёСЂРµ РЅРµ РЅР°Р№С‚Рё.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Прости за то, что веры мало</plain>
+            <plain>РџСЂРѕСЃС‚Рё Р·Р° С‚Рѕ, С‡С‚Рѕ РІРµСЂС‹ РјР°Р»Рѕ</plain>
         </string>
         <string>
-            <plain>Имею я на сей земле,</plain>
+            <plain>РРјРµСЋ СЏ РЅР° СЃРµР№ Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>Прости, что сердце огрубело</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С‡С‚Рѕ СЃРµСЂРґС†Рµ РѕРіСЂСѓР±РµР»Рѕ</plain>
         </string>
         <string>
-            <plain>В суровой жизненной борьбе.</plain>
+            <plain>Р’ СЃСѓСЂРѕРІРѕР№ Р¶РёР·РЅРµРЅРЅРѕР№ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Прости, что слезы умиленья</plain>
+            <plain>РџСЂРѕСЃС‚Рё, С‡С‚Рѕ СЃР»РµР·С‹ СѓРјРёР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Так редко застилают взор.</plain>
+            <plain>РўР°Рє СЂРµРґРєРѕ Р·Р°СЃС‚РёР»Р°СЋС‚ РІР·РѕСЂ.</plain>
         </string>
         <string>
-            <plain>Даруй мне сильное стремленье</plain>
+            <plain>Р”Р°СЂСѓР№ РјРЅРµ СЃРёР»СЊРЅРѕРµ СЃС‚СЂРµРјР»РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Забыть скитаний всех позор.</plain>
+            <plain>Р—Р°Р±С‹С‚СЊ СЃРєРёС‚Р°РЅРёР№ РІСЃРµС… РїРѕР·РѕСЂ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Даруй, чтоб колос веры твердой</plain>
+            <plain>Р”Р°СЂСѓР№, С‡С‚РѕР± РєРѕР»РѕСЃ РІРµСЂС‹ С‚РІРµСЂРґРѕР№</plain>
         </string>
         <string>
-            <plain>Возрос в моей душе больной,</plain>
+            <plain>Р’РѕР·СЂРѕСЃ РІ РјРѕРµР№ РґСѓС€Рµ Р±РѕР»СЊРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>И чтоб смирился дух мой гордый</plain>
+            <plain>Р С‡С‚РѕР± СЃРјРёСЂРёР»СЃСЏ РґСѓС… РјРѕР№ РіРѕСЂРґС‹Р№</plain>
         </string>
         <string>
-            <plain>Перед Тобой в тиши ночной.</plain>
+            <plain>РџРµСЂРµРґ РўРѕР±РѕР№ РІ С‚РёС€Рё РЅРѕС‡РЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, уврачуй все сердца раны</plain>
+            <plain>Рћ, СѓРІСЂР°С‡СѓР№ РІСЃРµ СЃРµСЂРґС†Р° СЂР°РЅС‹</plain>
         </string>
         <string>
-            <plain>Своей могучею рукой,</plain>
+            <plain>РЎРІРѕРµР№ РјРѕРіСѓС‡РµСЋ СЂСѓРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Пересмотри все жизни планы</plain>
+            <plain>РџРµСЂРµСЃРјРѕС‚СЂРё РІСЃРµ Р¶РёР·РЅРё РїР»Р°РЅС‹</plain>
         </string>
         <string>
-            <plain>И дай мне радость и покой.</plain>
+            <plain>Р РґР°Р№ РјРЅРµ СЂР°РґРѕСЃС‚СЊ Рё РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

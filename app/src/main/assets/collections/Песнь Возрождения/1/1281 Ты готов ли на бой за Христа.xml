@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1281" name="Ты готов ли на бой за Христа" canon="false" text="" textRus="" music="">
+<psalm number="1281" name="РўС‹ РіРѕС‚РѕРІ Р»Рё РЅР° Р±РѕР№ Р·Р° РҐСЂРёСЃС‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты готов ли на бой за Христа?</plain>
+            <plain>РўС‹ РіРѕС‚РѕРІ Р»Рё РЅР° Р±РѕР№ Р·Р° РҐСЂРёСЃС‚Р°?</plain>
         </string>
         <string>
-            <plain>В благодатный тот край дорогой,</plain>
+            <plain>Р’ Р±Р»Р°РіРѕРґР°С‚РЅС‹Р№ С‚РѕС‚ РєСЂР°Р№ РґРѕСЂРѕРіРѕР№,</plain>
         </string>
         <string>
-            <plain>Где живые источники вод.</plain>
+            <plain>Р“РґРµ Р¶РёРІС‹Рµ РёСЃС‚РѕС‡РЅРёРєРё РІРѕРґ.</plain>
         </string>
         <string>
-            <plain>Сам Спаситель с любовью зовет.</plain>
+            <plain>РЎР°Рј РЎРїР°СЃРёС‚РµР»СЊ СЃ Р»СЋР±РѕРІСЊСЋ Р·РѕРІРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>За Христа,</plain>
+            <plain>Р—Р° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>За Христа,</plain>
+            <plain>Р—Р° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Ты готов ли на бой за Христа?</plain>
+            <plain>РўС‹ РіРѕС‚РѕРІ Р»Рё РЅР° Р±РѕР№ Р·Р° РҐСЂРёСЃС‚Р°?</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Враг силен и владеет давно</plain>
+            <plain>Р’СЂР°Рі СЃРёР»РµРЅ Рё РІР»Р°РґРµРµС‚ РґР°РІРЅРѕ</plain>
         </string>
         <string>
-            <plain>Человека порочной душой.</plain>
+            <plain>Р§РµР»РѕРІРµРєР° РїРѕСЂРѕС‡РЅРѕР№ РґСѓС€РѕР№.</plain>
         </string>
         <string>
-            <plain>И несчастные гибнут вдали.</plain>
+            <plain>Р РЅРµСЃС‡Р°СЃС‚РЅС‹Рµ РіРёР±РЅСѓС‚ РІРґР°Р»Рё.</plain>
         </string>
         <string>
-            <plain>Без спасенья, без Божьей любви.</plain>
+            <plain>Р‘РµР· СЃРїР°СЃРµРЅСЊСЏ, Р±РµР· Р‘РѕР¶СЊРµР№ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Так веди же меня каждый день.</plain>
+            <plain>РўР°Рє РІРµРґРё Р¶Рµ РјРµРЅСЏ РєР°Р¶РґС‹Р№ РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Чтоб погибший узнал о Тебе,</plain>
+            <plain>Р§С‚РѕР± РїРѕРіРёР±С€РёР№ СѓР·РЅР°Р» Рѕ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Чтобы враг, побежденный Тобой,</plain>
+            <plain>Р§С‚РѕР±С‹ РІСЂР°Рі, РїРѕР±РµР¶РґРµРЅРЅС‹Р№ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Не мешал бы войти в Твой покой.</plain>
+            <plain>РќРµ РјРµС€Р°Р» Р±С‹ РІРѕР№С‚Рё РІ РўРІРѕР№ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>За тебя я на битву готов.</plain>
+            <plain>Р—Р° С‚РµР±СЏ СЏ РЅР° Р±РёС‚РІСѓ РіРѕС‚РѕРІ.</plain>
         </string>
         <string>
-            <plain>Вижу я, как нужда велика,</plain>
+            <plain>Р’РёР¶Сѓ СЏ, РєР°Рє РЅСѓР¶РґР° РІРµР»РёРєР°,</plain>
         </string>
         <string>
-            <plain>Вижу гибнущий жалкий народ,</plain>
+            <plain>Р’РёР¶Сѓ РіРёР±РЅСѓС‰РёР№ Р¶Р°Р»РєРёР№ РЅР°СЂРѕРґ,</plain>
         </string>
         <string>
-            <plain>От греха избавленье он ждет.</plain>
+            <plain>РћС‚ РіСЂРµС…Р° РёР·Р±Р°РІР»РµРЅСЊРµ РѕРЅ Р¶РґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

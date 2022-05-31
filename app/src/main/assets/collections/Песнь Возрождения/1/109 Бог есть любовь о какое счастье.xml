@@ -1,51 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="109" name="Бог есть любовь о какое счастье" canon="false" text="" textRus="" music="">
+<psalm number="109" name="Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ Рѕ РєР°РєРѕРµ СЃС‡Р°СЃС‚СЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог есть любовь; о какое счастье!</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ; Рѕ РєР°РєРѕРµ СЃС‡Р°СЃС‚СЊРµ!</plain>
         </string>
         <string>
-            <plain>Бог есть любовь, Он нас возлюбил.</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ, РћРЅ РЅР°СЃ РІРѕР·Р»СЋР±РёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пусть всякий радостно поет и славит,</plain>
+            <plain>РџСѓСЃС‚СЊ РІСЃСЏРєРёР№ СЂР°РґРѕСЃС‚РЅРѕ РїРѕРµС‚ Рё СЃР»Р°РІРёС‚,</plain>
         </string>
         <string>
-            <plain>Его да славит; Бог есть любовь.</plain>
+            <plain>Р•РіРѕ РґР° СЃР»Р°РІРёС‚; Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бог есть любовь, Он послал к нам Сына,</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ, РћРЅ РїРѕСЃР»Р°Р» Рє РЅР°Рј РЎС‹РЅР°,</plain>
         </string>
         <string>
-            <plain>Бог естьлюбовь, Он избавил нас.</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊР»СЋР±РѕРІСЊ, РћРЅ РёР·Р±Р°РІРёР» РЅР°СЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог есть любовь, мы греху служили;</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ, РјС‹ РіСЂРµС…Сѓ СЃР»СѓР¶РёР»Рё;</plain>
         </string>
         <string>
-            <plain>Бог есть любовь, Он освободил.</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ, РћРЅ РѕСЃРІРѕР±РѕРґРёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Мой Искупитель меня избавил,</plain>
+            <plain>РњРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ РјРµРЅСЏ РёР·Р±Р°РІРёР»,</plain>
         </string>
         <string>
-            <plain>Мой Искупитель меня простил.</plain>
+            <plain>РњРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР».</plain>
         </string>
     </verse>
     <chorus number="4">
         <string>
-            <plain>Тебя я буду вечно петь и славить,</plain>
+            <plain>РўРµР±СЏ СЏ Р±СѓРґСѓ РІРµС‡РЅРѕ РїРµС‚СЊ Рё СЃР»Р°РІРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Я буду славить Твою любовь.</plain>
+            <plain>РЇ Р±СѓРґСѓ СЃР»Р°РІРёС‚СЊ РўРІРѕСЋ Р»СЋР±РѕРІСЊ.</plain>
         </string>
     </chorus>
 </psalm>

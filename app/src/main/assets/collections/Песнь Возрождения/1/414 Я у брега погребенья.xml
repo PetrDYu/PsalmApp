@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="414" name="Я у брега погребенья" canon="false" text="" textRus="" music="">
+<psalm number="414" name="РЇ Сѓ Р±СЂРµРіР° РїРѕРіСЂРµР±РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я у брега погребенья</plain>
+            <plain>РЇ Сѓ Р±СЂРµРіР° РїРѕРіСЂРµР±РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>У могилы водяной;</plain>
+            <plain>РЈ РјРѕРіРёР»С‹ РІРѕРґСЏРЅРѕР№;</plain>
         </string>
         <string>
-            <plain>В жертву Богу без сомненья</plain>
+            <plain>Р’ Р¶РµСЂС‚РІСѓ Р‘РѕРіСѓ Р±РµР· СЃРѕРјРЅРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Отдаюсь я всей душой.</plain>
+            <plain>РћС‚РґР°СЋСЃСЊ СЏ РІСЃРµР№ РґСѓС€РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, прими меня, Спаситель,</plain>
+            <plain>Рћ, РїСЂРёРјРё РјРµРЅСЏ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>В Церковь верную Свою;</plain>
+            <plain>Р’ Р¦РµСЂРєРѕРІСЊ РІРµСЂРЅСѓСЋ РЎРІРѕСЋ;</plain>
         </string>
         <string>
-            <plain>Верю я, мой Искупитель,</plain>
+            <plain>Р’РµСЂСЋ СЏ, РјРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>В кровь пролитую Твою.</plain>
+            <plain>Р’ РєСЂРѕРІСЊ РїСЂРѕР»РёС‚СѓСЋ РўРІРѕСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Сердцем чистым перед Богом</plain>
+            <plain>РЎРµСЂРґС†РµРј С‡РёСЃС‚С‹Рј РїРµСЂРµРґ Р‘РѕРіРѕРј</plain>
         </string>
         <string>
-            <plain>Обещаюсь я ходить</plain>
+            <plain>РћР±РµС‰Р°СЋСЃСЊ СЏ С…РѕРґРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И Его священным словом</plain>
+            <plain>Р Р•РіРѕ СЃРІСЏС‰РµРЅРЅС‹Рј СЃР»РѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Совесть добрую хранить.</plain>
+            <plain>РЎРѕРІРµСЃС‚СЊ РґРѕР±СЂСѓСЋ С…СЂР°РЅРёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В жизни духа обновленья</plain>
+            <plain>Р’ Р¶РёР·РЅРё РґСѓС…Р° РѕР±РЅРѕРІР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Жажду Господу служить,</plain>
+            <plain>Р–Р°Р¶РґСѓ Р“РѕСЃРїРѕРґСѓ СЃР»СѓР¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Возвещать Его спасенье,</plain>
+            <plain>Р’РѕР·РІРµС‰Р°С‚СЊ Р•РіРѕ СЃРїР°СЃРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>К Богу грешных приводить.</plain>
+            <plain>Рљ Р‘РѕРіСѓ РіСЂРµС€РЅС‹С… РїСЂРёРІРѕРґРёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Кончив труд свой, в вечность рая</plain>
+            <plain>РљРѕРЅС‡РёРІ С‚СЂСѓРґ СЃРІРѕР№, РІ РІРµС‡РЅРѕСЃС‚СЊ СЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Радостной войду душой,</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕР№ РІРѕР№РґСѓ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Богу славы воспевая,</plain>
+            <plain>Р‘РѕРіСѓ СЃР»Р°РІС‹ РІРѕСЃРїРµРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Песнь победную с хвалой.</plain>
+            <plain>РџРµСЃРЅСЊ РїРѕР±РµРґРЅСѓСЋ СЃ С…РІР°Р»РѕР№.</plain>
         </string>
     </verse>
 </psalm>

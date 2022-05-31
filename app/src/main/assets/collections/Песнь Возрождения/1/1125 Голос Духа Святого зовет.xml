@@ -1,47 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1125" name="Голос Духа Святого зовет" canon="false" text="" textRus="" music="">
+<psalm number="1125" name="Р“РѕР»РѕСЃ Р”СѓС…Р° РЎРІСЏС‚РѕРіРѕ Р·РѕРІРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Голос Духа Святого зовет,</plain>
+            <plain>Р“РѕР»РѕСЃ Р”СѓС…Р° РЎРІСЏС‚РѕРіРѕ Р·РѕРІРµС‚,</plain>
         </string>
         <string>
-            <plain>грешных Он к Иисусу влечет.</plain>
+            <plain>РіСЂРµС€РЅС‹С… РћРЅ Рє РРёСЃСѓСЃСѓ РІР»РµС‡РµС‚.</plain>
         </string>
         <string>
-            <plain>О, друг. Он зовет и тебя.</plain>
+            <plain>Рћ, РґСЂСѓРі. РћРЅ Р·РѕРІРµС‚ Рё С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Приди (приди. Он зовет)</plain>
+            <plain>РџСЂРёРґРё (РїСЂРёРґРё. РћРЅ Р·РѕРІРµС‚)</plain>
         </string>
         <string>
-            <plain>Приди (приди. Он зовет)</plain>
+            <plain>РџСЂРёРґРё (РїСЂРёРґРё. РћРЅ Р·РѕРІРµС‚)</plain>
         </string>
         <string>
-            <plain>Приди к Нему - в Нем счастье найдешь.</plain>
+            <plain>РџСЂРёРґРё Рє РќРµРјСѓ - РІ РќРµРј СЃС‡Р°СЃС‚СЊРµ РЅР°Р№РґРµС€СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Похоть мира жалеешь ли ты,</plain>
+            <plain>РџРѕС…РѕС‚СЊ РјРёСЂР° Р¶Р°Р»РµРµС€СЊ Р»Рё С‚С‹,</plain>
         </string>
         <string>
-            <plain>что к Иисусу ты медлишь придти?</plain>
+            <plain>С‡С‚Рѕ Рє РРёСЃСѓСЃСѓ С‚С‹ РјРµРґР»РёС€СЊ РїСЂРёРґС‚Рё?</plain>
         </string>
         <string>
-            <plain>Зачем от любви ты бежишь?</plain>
+            <plain>Р—Р°С‡РµРј РѕС‚ Р»СЋР±РІРё С‚С‹ Р±РµР¶РёС€СЊ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>За тебя умер Он и страдал на кресте</plain>
+            <plain>Р—Р° С‚РµР±СЏ СѓРјРµСЂ РћРЅ Рё СЃС‚СЂР°РґР°Р» РЅР° РєСЂРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>- Дар спасенья тебе обещал,</plain>
+            <plain>- Р”Р°СЂ СЃРїР°СЃРµРЅСЊСЏ С‚РµР±Рµ РѕР±РµС‰Р°Р»,</plain>
         </string>
         <string>
-            <plain>так возьми ж Дар Иисуса теперь.</plain>
+            <plain>С‚Р°Рє РІРѕР·СЊРјРё Р¶ Р”Р°СЂ РРёСЃСѓСЃР° С‚РµРїРµСЂСЊ.</plain>
         </string>
     </verse>
 </psalm>

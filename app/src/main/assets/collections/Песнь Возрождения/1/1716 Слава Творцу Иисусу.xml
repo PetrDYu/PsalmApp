@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1716" name="Слава Творцу Иисусу" canon="false" text="" textRus="" music="">
+<psalm number="1716" name="РЎР»Р°РІР° РўРІРѕСЂС†Сѓ РРёСЃСѓСЃСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слава Творцу Иисусу,</plain>
+            <plain>РЎР»Р°РІР° РўРІРѕСЂС†Сѓ РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>Слава Творцу (2 раза)</plain>
+            <plain>РЎР»Р°РІР° РўРІРѕСЂС†Сѓ (2 СЂР°Р·Р°)</plain>
         </string>
         <string>
-            <plain>Славь Творца Иисуса,</plain>
+            <plain>РЎР»Р°РІСЊ РўРІРѕСЂС†Р° РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>Да льётся наша песнь.</plain>
+            <plain>Р”Р° Р»СЊС‘С‚СЃСЏ РЅР°С€Р° РїРµСЃРЅСЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Господь нас спас и оправдал,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РЅР°СЃ СЃРїР°СЃ Рё РѕРїСЂР°РІРґР°Р»,</plain>
         </string>
         <string>
-            <plain>Любовь и жизнь нам даровал.</plain>
+            <plain>Р›СЋР±РѕРІСЊ Рё Р¶РёР·РЅСЊ РЅР°Рј РґР°СЂРѕРІР°Р».</plain>
         </string>
         <string>
-            <plain>Воспойте Господу псалом,</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ Р“РѕСЃРїРѕРґСѓ РїСЃР°Р»РѕРј,</plain>
         </string>
         <string>
-            <plain>Прославьте Бога с торжеством.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІСЊС‚Рµ Р‘РѕРіР° СЃ С‚РѕСЂР¶РµСЃС‚РІРѕРј.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Слава Творцу Иисусу (2 раза)</plain>
+            <plain>РЎР»Р°РІР° РўРІРѕСЂС†Сѓ РРёСЃСѓСЃСѓ (2 СЂР°Р·Р°)</plain>
         </string>
         <string>
-            <plain>Слава, слава, слава, слава,</plain>
+            <plain>РЎР»Р°РІР°, СЃР»Р°РІР°, СЃР»Р°РІР°, СЃР»Р°РІР°,</plain>
         </string>
         <string>
-            <plain>Слава Богу в небесах.</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ РІ РЅРµР±РµСЃР°С….</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Когда мы к Господу придём,</plain>
+            <plain>РљРѕРіРґР° РјС‹ Рє Р“РѕСЃРїРѕРґСѓ РїСЂРёРґС‘Рј,</plain>
         </string>
         <string>
-            <plain>Песнь новую там воспоём,</plain>
+            <plain>РџРµСЃРЅСЊ РЅРѕРІСѓСЋ С‚Р°Рј РІРѕСЃРїРѕС‘Рј,</plain>
         </string>
         <string>
-            <plain>Тому, кто жизнь Свою отдал</plain>
+            <plain>РўРѕРјСѓ, РєС‚Рѕ Р¶РёР·РЅСЊ РЎРІРѕСЋ РѕС‚РґР°Р»</plain>
         </string>
         <string>
-            <plain>И вечность с Богом даровал.</plain>
+            <plain>Р РІРµС‡РЅРѕСЃС‚СЊ СЃ Р‘РѕРіРѕРј РґР°СЂРѕРІР°Р».</plain>
         </string>
     </verse>
 </psalm>

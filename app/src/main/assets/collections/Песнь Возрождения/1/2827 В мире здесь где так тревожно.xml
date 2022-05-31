@@ -1,99 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2827" name="В мире здесь где так тревожно" canon="false" text="" textRus="" music="">
+<psalm number="2827" name="Р’ РјРёСЂРµ Р·РґРµСЃСЊ РіРґРµ С‚Р°Рє С‚СЂРµРІРѕР¶РЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В мире здесь, где так тревожно,</plain>
+            <plain>Р’ РјРёСЂРµ Р·РґРµСЃСЊ, РіРґРµ С‚Р°Рє С‚СЂРµРІРѕР¶РЅРѕ,</plain>
         </string>
         <string>
-            <plain>сумрачно и безнадежно,</plain>
+            <plain>СЃСѓРјСЂР°С‡РЅРѕ Рё Р±РµР·РЅР°РґРµР¶РЅРѕ,</plain>
         </string>
         <string>
-            <plain>человеку разве можно</plain>
+            <plain>С‡РµР»РѕРІРµРєСѓ СЂР°Р·РІРµ РјРѕР¶РЅРѕ</plain>
         </string>
         <string>
-            <plain>в полном мире с Богом жить?</plain>
+            <plain>РІ РїРѕР»РЅРѕРј РјРёСЂРµ СЃ Р‘РѕРіРѕРј Р¶РёС‚СЊ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Принесем (хвалу Христу)</plain>
+            <plain>РџСЂРёРЅРµСЃРµРј (С…РІР°Р»Сѓ РҐСЂРёСЃС‚Сѓ)</plain>
         </string>
         <string>
-            <plain>хвалу Христу, (да Христу}!</plain>
+            <plain>С…РІР°Р»Сѓ РҐСЂРёСЃС‚Сѓ, (РґР° РҐСЂРёСЃС‚Сѓ}!</plain>
         </string>
         <string>
-            <plain>Мы всегда (верны Ему),</plain>
+            <plain>РњС‹ РІСЃРµРіРґР° (РІРµСЂРЅС‹ Р•РјСѓ),</plain>
         </string>
         <string>
-            <plain>верны Ему, (да, Ему)</plain>
+            <plain>РІРµСЂРЅС‹ Р•РјСѓ, (РґР°, Р•РјСѓ)</plain>
         </string>
         <string>
-            <plain>Мир никто наш не возьмет,</plain>
+            <plain>РњРёСЂ РЅРёРєС‚Рѕ РЅР°С€ РЅРµ РІРѕР·СЊРјРµС‚,</plain>
         </string>
         <string>
-            <plain>если сердце с Ним живет</plain>
+            <plain>РµСЃР»Рё СЃРµСЂРґС†Рµ СЃ РќРёРј Р¶РёРІРµС‚</plain>
         </string>
         <string>
-            <plain>и хвалу Всевышнему</plain>
+            <plain>Рё С…РІР°Р»Сѓ Р’СЃРµРІС‹С€РЅРµРјСѓ</plain>
         </string>
         <string>
-            <plain>несет (ввысь несет).</plain>
+            <plain>РЅРµСЃРµС‚ (РІРІС‹СЃСЊ РЅРµСЃРµС‚).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Тот, кто нам принес спасенье</plain>
+            <plain>РўРѕС‚, РєС‚Рѕ РЅР°Рј РїСЂРёРЅРµСЃ СЃРїР°СЃРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>и дал нам грехов прощенье,</plain>
+            <plain>Рё РґР°Р» РЅР°Рј РіСЂРµС…РѕРІ РїСЂРѕС‰РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>кто дал с Богом примиренье,</plain>
+            <plain>РєС‚Рѕ РґР°Р» СЃ Р‘РѕРіРѕРј РїСЂРёРјРёСЂРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>нам небесный мир дарит.</plain>
+            <plain>РЅР°Рј РЅРµР±РµСЃРЅС‹Р№ РјРёСЂ РґР°СЂРёС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Все заботы принесите,</plain>
+            <plain>Р’СЃРµ Р·Р°Р±РѕС‚С‹ РїСЂРёРЅРµСЃРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>на Христа их возложите:</plain>
+            <plain>РЅР° РҐСЂРёСЃС‚Р° РёС… РІРѕР·Р»РѕР¶РёС‚Рµ:</plain>
         </string>
         <string>
-            <plain>мы от всех врагов сокрыты</plain>
+            <plain>РјС‹ РѕС‚ РІСЃРµС… РІСЂР°РіРѕРІ СЃРѕРєСЂС‹С‚С‹</plain>
         </string>
         <string>
-            <plain>через благодать Его.</plain>
+            <plain>С‡РµСЂРµР· Р±Р»Р°РіРѕРґР°С‚СЊ Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Благодать нас наполняет,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊ РЅР°СЃ РЅР°РїРѕР»РЅСЏРµС‚,</plain>
         </string>
         <string>
-            <plain>тень заботы не пугает,</plain>
+            <plain>С‚РµРЅСЊ Р·Р°Р±РѕС‚С‹ РЅРµ РїСѓРіР°РµС‚,</plain>
         </string>
         <string>
-            <plain>хлебом свыше нас питает Тот,</plain>
+            <plain>С…Р»РµР±РѕРј СЃРІС‹С€Рµ РЅР°СЃ РїРёС‚Р°РµС‚ РўРѕС‚,</plain>
         </string>
         <string>
-            <plain>кто Сам небесный хлеб.</plain>
+            <plain>РєС‚Рѕ РЎР°Рј РЅРµР±РµСЃРЅС‹Р№ С…Р»РµР±.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Радость нам Иисус являет,</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РЅР°Рј РРёСЃСѓСЃ СЏРІР»СЏРµС‚,</plain>
         </string>
         <string>
-            <plain>в жизни нас сопровождает;</plain>
+            <plain>РІ Р¶РёР·РЅРё РЅР°СЃ СЃРѕРїСЂРѕРІРѕР¶РґР°РµС‚;</plain>
         </string>
         <string>
-            <plain>чтоб нам жить, как Он желает,</plain>
+            <plain>С‡С‚РѕР± РЅР°Рј Р¶РёС‚СЊ, РєР°Рє РћРЅ Р¶РµР»Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>в наших душах Он живет.</plain>
+            <plain>РІ РЅР°С€РёС… РґСѓС€Р°С… РћРЅ Р¶РёРІРµС‚.</plain>
         </string>
     </verse>
 </psalm>

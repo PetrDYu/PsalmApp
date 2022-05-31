@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="134" name="Хвала святой любви Отца" canon="false" text="" textRus="" music="">
+<psalm number="134" name="РҐРІР°Р»Р° СЃРІСЏС‚РѕР№ Р»СЋР±РІРё РћС‚С†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хвала святой любви Отца,</plain>
+            <plain>РҐРІР°Р»Р° СЃРІСЏС‚РѕР№ Р»СЋР±РІРё РћС‚С†Р°,</plain>
         </string>
         <string>
-            <plain>Пославшей в мир страдать Христа!</plain>
+            <plain>РџРѕСЃР»Р°РІС€РµР№ РІ РјРёСЂ СЃС‚СЂР°РґР°С‚СЊ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>И Он в мучениях креста</plain>
+            <plain>Р РћРЅ РІ РјСѓС‡РµРЅРёСЏС… РєСЂРµСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Испил всю чашу до конца.</plain>
+            <plain>РСЃРїРёР» РІСЃСЋ С‡Р°С€Сѓ РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Лишь силою Христовой</plain>
+            <plain>Р›РёС€СЊ СЃРёР»РѕСЋ РҐСЂРёСЃС‚РѕРІРѕР№</plain>
         </string>
         <string>
-            <plain>С нас сняты все оковы;</plain>
+            <plain>РЎ РЅР°СЃ СЃРЅСЏС‚С‹ РІСЃРµ РѕРєРѕРІС‹;</plain>
         </string>
         <string>
-            <plain>Так много сделал Бог для нас!</plain>
+            <plain>РўР°Рє РјРЅРѕРіРѕ СЃРґРµР»Р°Р» Р‘РѕРі РґР»СЏ РЅР°СЃ!</plain>
         </string>
         <string>
-            <plain>Хвала любви Христовой!</plain>
+            <plain>РҐРІР°Р»Р° Р»СЋР±РІРё РҐСЂРёСЃС‚РѕРІРѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Лишь у Христа в любви святой</plain>
+            <plain>Р›РёС€СЊ Сѓ РҐСЂРёСЃС‚Р° РІ Р»СЋР±РІРё СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Найдут все грешники покой;</plain>
+            <plain>РќР°Р№РґСѓС‚ РІСЃРµ РіСЂРµС€РЅРёРєРё РїРѕРєРѕР№;</plain>
         </string>
         <string>
-            <plain>Пред Ним рассеется в сердцах,</plain>
+            <plain>РџСЂРµРґ РќРёРј СЂР°СЃСЃРµРµС‚СЃСЏ РІ СЃРµСЂРґС†Р°С…,</plain>
         </string>
         <string>
-            <plain>Как дым, сомнение и страх.</plain>
+            <plain>РљР°Рє РґС‹Рј, СЃРѕРјРЅРµРЅРёРµ Рё СЃС‚СЂР°С….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Слова Христа даны для нас</plain>
+            <plain>РЎР»РѕРІР° РҐСЂРёСЃС‚Р° РґР°РЅС‹ РґР»СЏ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Как пища сердцу всякий час;</plain>
+            <plain>РљР°Рє РїРёС‰Р° СЃРµСЂРґС†Сѓ РІСЃСЏРєРёР№ С‡Р°СЃ;</plain>
         </string>
         <string>
-            <plain>Они ведут нас к небесам,</plain>
+            <plain>РћРЅРё РІРµРґСѓС‚ РЅР°СЃ Рє РЅРµР±РµСЃР°Рј,</plain>
         </string>
         <string>
-            <plain>Где примет нас Спаситель Сам.</plain>
+            <plain>Р“РґРµ РїСЂРёРјРµС‚ РЅР°СЃ РЎРїР°СЃРёС‚РµР»СЊ РЎР°Рј.</plain>
         </string>
     </verse>
 </psalm>

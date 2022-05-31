@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="285" name="Пошли нас о Боже к забытым" canon="false" text="" textRus="" music="">
+<psalm number="285" name="РџРѕС€Р»Рё РЅР°СЃ Рѕ Р‘РѕР¶Рµ Рє Р·Р°Р±С‹С‚С‹Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пошли нас, о Боже, к забытым,</plain>
+            <plain>РџРѕС€Р»Рё РЅР°СЃ, Рѕ Р‘РѕР¶Рµ, Рє Р·Р°Р±С‹С‚С‹Рј,</plain>
         </string>
         <string>
-            <plain>Кто весь исстрадался душой,</plain>
+            <plain>РљС‚Рѕ РІРµСЃСЊ РёСЃСЃС‚СЂР°РґР°Р»СЃСЏ РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Пошли к одиноким, забытым,</plain>
+            <plain>РџРѕС€Р»Рё Рє РѕРґРёРЅРѕРєРёРј, Р·Р°Р±С‹С‚С‹Рј,</plain>
         </string>
         <string>
-            <plain>Кто больше не верит в покой.</plain>
+            <plain>РљС‚Рѕ Р±РѕР»СЊС€Рµ РЅРµ РІРµСЂРёС‚ РІ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пошли нас, о Боже,</plain>
+            <plain>РџРѕС€Р»Рё РЅР°СЃ, Рѕ Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Дай свыше Свою благодать,</plain>
+            <plain>Р”Р°Р№ СЃРІС‹С€Рµ РЎРІРѕСЋ Р±Р»Р°РіРѕРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб мы всем страдальцам</plain>
+            <plain>Р§С‚РѕР± РјС‹ РІСЃРµРј СЃС‚СЂР°РґР°Р»СЊС†Р°Рј</plain>
         </string>
         <string>
-            <plain>Свободу могли возвещать.</plain>
+            <plain>РЎРІРѕР±РѕРґСѓ РјРѕРіР»Рё РІРѕР·РІРµС‰Р°С‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И с тихой, смиренной любовью</plain>
+            <plain>Р СЃ С‚РёС…РѕР№, СЃРјРёСЂРµРЅРЅРѕР№ Р»СЋР±РѕРІСЊСЋ</plain>
         </string>
         <string>
-            <plain>Мы к душам усталым пойдем</plain>
+            <plain>РњС‹ Рє РґСѓС€Р°Рј СѓСЃС‚Р°Р»С‹Рј РїРѕР№РґРµРј</plain>
         </string>
         <string>
-            <plain>И, как искупил Ты их кровью,</plain>
+            <plain>Р, РєР°Рє РёСЃРєСѓРїРёР» РўС‹ РёС… РєСЂРѕРІСЊСЋ,</plain>
         </string>
         <string>
-            <plain>Отрадную весть принесем.</plain>
+            <plain>РћС‚СЂР°РґРЅСѓСЋ РІРµСЃС‚СЊ РїСЂРёРЅРµСЃРµРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Расскажем, что жизнь нам земная</plain>
+            <plain>Р Р°СЃСЃРєР°Р¶РµРј, С‡С‚Рѕ Р¶РёР·РЅСЊ РЅР°Рј Р·РµРјРЅР°СЏ</plain>
         </string>
         <string>
-            <plain>Здесь только как школа дана,</plain>
+            <plain>Р—РґРµСЃСЊ С‚РѕР»СЊРєРѕ РєР°Рє С€РєРѕР»Р° РґР°РЅР°,</plain>
         </string>
         <string>
-            <plain>А там-то страна уж иная,</plain>
+            <plain>Рђ С‚Р°Рј-С‚Рѕ СЃС‚СЂР°РЅР° СѓР¶ РёРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Весельем навеки полна.</plain>
+            <plain>Р’РµСЃРµР»СЊРµРј РЅР°РІРµРєРё РїРѕР»РЅР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Там с радостной, светлой улыбкой</plain>
+            <plain>РўР°Рј СЃ СЂР°РґРѕСЃС‚РЅРѕР№, СЃРІРµС‚Р»РѕР№ СѓР»С‹Р±РєРѕР№</plain>
         </string>
         <string>
-            <plain>Все люди свободно вздохнут,</plain>
+            <plain>Р’СЃРµ Р»СЋРґРё СЃРІРѕР±РѕРґРЅРѕ РІР·РґРѕС…РЅСѓС‚,</plain>
         </string>
         <string>
-            <plain>И в жизнь по поверхности зыбкой</plain>
+            <plain>Р РІ Р¶РёР·РЅСЊ РїРѕ РїРѕРІРµСЂС…РЅРѕСЃС‚Рё Р·С‹Р±РєРѕР№</plain>
         </string>
         <string>
-            <plain>Без страха уже поплывут.</plain>
+            <plain>Р‘РµР· СЃС‚СЂР°С…Р° СѓР¶Рµ РїРѕРїР»С‹РІСѓС‚.</plain>
         </string>
     </verse>
 </psalm>

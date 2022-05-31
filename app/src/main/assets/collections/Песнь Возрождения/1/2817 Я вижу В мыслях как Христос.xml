@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2817" name="Я вижу В мыслях как Христос" canon="false" text="" textRus="" music="">
+<psalm number="2817" name="РЇ РІРёР¶Сѓ Р’ РјС‹СЃР»СЏС… РєР°Рє РҐСЂРёСЃС‚РѕСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я вижу В мыслях, как Христос</plain>
+            <plain>РЇ РІРёР¶Сѓ Р’ РјС‹СЃР»СЏС…, РєР°Рє РҐСЂРёСЃС‚РѕСЃ</plain>
         </string>
         <string>
-            <plain>там в Галилее произнес:</plain>
+            <plain>С‚Р°Рј РІ Р“Р°Р»РёР»РµРµ РїСЂРѕРёР·РЅРµСЃ:</plain>
         </string>
         <string>
-            <plain>«Твои болезни Я понес,</plain>
+            <plain>В«РўРІРѕРё Р±РѕР»РµР·РЅРё РЇ РїРѕРЅРµСЃ,</plain>
         </string>
         <string>
-            <plain>Я - Врач твой и Спаситель».</plain>
+            <plain>РЇ - Р’СЂР°С‡ С‚РІРѕР№ Рё РЎРїР°СЃРёС‚РµР»СЊВ».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он - Врач мой и Спаситель.</plain>
+            <plain>РћРЅ - Р’СЂР°С‡ РјРѕР№ Рё РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
         <string>
-            <plain>Он - Врач мой и Спаситель.</plain>
+            <plain>РћРЅ - Р’СЂР°С‡ РјРѕР№ Рё РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
         <string>
-            <plain>Громко Христа восхвалим мы,</plain>
+            <plain>Р“СЂРѕРјРєРѕ РҐСЂРёСЃС‚Р° РІРѕСЃС…РІР°Р»РёРј РјС‹,</plain>
         </string>
         <string>
-            <plain>что исцеляет Он больных;</plain>
+            <plain>С‡С‚Рѕ РёСЃС†РµР»СЏРµС‚ РћРЅ Р±РѕР»СЊРЅС‹С…;</plain>
         </string>
         <string>
-            <plain>С славой в устах скажите им,</plain>
+            <plain>РЎ СЃР»Р°РІРѕР№ РІ СѓСЃС‚Р°С… СЃРєР°Р¶РёС‚Рµ РёРј,</plain>
         </string>
         <string>
-            <plain>что Врач Он и Спаситель.</plain>
+            <plain>С‡С‚Рѕ Р’СЂР°С‡ РћРЅ Рё РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ему всем сердцем верю я,</plain>
+            <plain>Р•РјСѓ РІСЃРµРј СЃРµСЂРґС†РµРј РІРµСЂСЋ СЏ,</plain>
         </string>
         <string>
-            <plain>и прочь ушли сомнения:</plain>
+            <plain>Рё РїСЂРѕС‡СЊ СѓС€Р»Рё СЃРѕРјРЅРµРЅРёСЏ:</plain>
         </string>
         <string>
-            <plain>Больным близка Его рука,</plain>
+            <plain>Р‘РѕР»СЊРЅС‹Рј Р±Р»РёР·РєР° Р•РіРѕ СЂСѓРєР°,</plain>
         </string>
         <string>
-            <plain>Он - Врач их и Спаситель.</plain>
+            <plain>РћРЅ - Р’СЂР°С‡ РёС… Рё РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он в милосердии велик:</plain>
+            <plain>РћРЅ РІ РјРёР»РѕСЃРµСЂРґРёРё РІРµР»РёРє:</plain>
         </string>
         <string>
-            <plain>когда услышит зов больных,</plain>
+            <plain>РєРѕРіРґР° СѓСЃР»С‹С€РёС‚ Р·РѕРІ Р±РѕР»СЊРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Он тотчас исцеляет их,</plain>
+            <plain>РћРЅ С‚РѕС‚С‡Р°СЃ РёСЃС†РµР»СЏРµС‚ РёС…,</plain>
         </string>
         <string>
-            <plain>Он - Врач их и Спаситель.</plain>
+            <plain>РћРЅ - Р’СЂР°С‡ РёС… Рё РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Господь с души снимает грех,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ СЃ РґСѓС€Рё СЃРЅРёРјР°РµС‚ РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>больных Он исцеляет всех,таким</plain>
+            <plain>Р±РѕР»СЊРЅС‹С… РћРЅ РёСЃС†РµР»СЏРµС‚ РІСЃРµС…,С‚Р°РєРёРј</plain>
         </string>
         <string>
-            <plain>Он будет и вовек,</plain>
+            <plain>РћРЅ Р±СѓРґРµС‚ Рё РІРѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>Он - Врач наш и Спаситель.</plain>
+            <plain>РћРЅ - Р’СЂР°С‡ РЅР°С€ Рё РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="520" name="В тот час как навеки спадет" canon="false" text="" textRus="" music="">
+<psalm number="520" name="Р’ С‚РѕС‚ С‡Р°СЃ РєР°Рє РЅР°РІРµРєРё СЃРїР°РґРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В тот час, как навеки спадет</plain>
+            <plain>Р’ С‚РѕС‚ С‡Р°СЃ, РєР°Рє РЅР°РІРµРєРё СЃРїР°РґРµС‚</plain>
         </string>
         <string>
-            <plain>Одежда земного бытья,</plain>
+            <plain>РћРґРµР¶РґР° Р·РµРјРЅРѕРіРѕ Р±С‹С‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Что дух мой там в вечности ждет?</plain>
+            <plain>Р§С‚Рѕ РґСѓС… РјРѕР№ С‚Р°Рј РІ РІРµС‡РЅРѕСЃС‚Рё Р¶РґРµС‚?</plain>
         </string>
         <string>
-            <plain>Там будут ли петь мне друзья?</plain>
+            <plain>РўР°Рј Р±СѓРґСѓС‚ Р»Рё РїРµС‚СЊ РјРЅРµ РґСЂСѓР·СЊСЏ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>"Мир тебе" - там звучит</plain>
+            <plain>"РњРёСЂ С‚РµР±Рµ" - С‚Р°Рј Р·РІСѓС‡РёС‚</plain>
         </string>
         <string>
-            <plain>У входа к обилию благ;</plain>
+            <plain>РЈ РІС…РѕРґР° Рє РѕР±РёР»РёСЋ Р±Р»Р°Рі;</plain>
         </string>
         <string>
-            <plain>Друг, тебя, друг, тебя</plain>
+            <plain>Р”СЂСѓРі, С‚РµР±СЏ, РґСЂСѓРі, С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>Приветствую я.</plain>
+            <plain>РџСЂРёРІРµС‚СЃС‚РІСѓСЋ СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Да, верю: собранья из тех,</plain>
+            <plain>Р”Р°, РІРµСЂСЋ: СЃРѕР±СЂР°РЅСЊСЏ РёР· С‚РµС…,</plain>
         </string>
         <string>
-            <plain>Кто были здесь в мире со мной,</plain>
+            <plain>РљС‚Рѕ Р±С‹Р»Рё Р·РґРµСЃСЊ РІ РјРёСЂРµ СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>В обители вечных утех</plain>
+            <plain>Р’ РѕР±РёС‚РµР»Рё РІРµС‡РЅС‹С… СѓС‚РµС…</plain>
         </string>
         <string>
-            <plain>Встречать меня выйдут с хвалой.</plain>
+            <plain>Р’СЃС‚СЂРµС‡Р°С‚СЊ РјРµРЅСЏ РІС‹Р№РґСѓС‚ СЃ С…РІР°Р»РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Откроют пред мной ворота</plain>
+            <plain>РћС‚РєСЂРѕСЋС‚ РїСЂРµРґ РјРЅРѕР№ РІРѕСЂРѕС‚Р°</plain>
         </string>
         <string>
-            <plain>Из дивных небесных камней,</plain>
+            <plain>РР· РґРёРІРЅС‹С… РЅРµР±РµСЃРЅС‹С… РєР°РјРЅРµР№,</plain>
         </string>
         <string>
-            <plain>Увижу я город Христа</plain>
+            <plain>РЈРІРёР¶Сѓ СЏ РіРѕСЂРѕРґ РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>При свете Господних очей.</plain>
+            <plain>РџСЂРё СЃРІРµС‚Рµ Р“РѕСЃРїРѕРґРЅРёС… РѕС‡РµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И пламень охватит мой дух.</plain>
+            <plain>Р РїР»Р°РјРµРЅСЊ РѕС…РІР°С‚РёС‚ РјРѕР№ РґСѓС….</plain>
         </string>
         <string>
-            <plain>И я, восхищеньем горя,</plain>
+            <plain>Р СЏ, РІРѕСЃС…РёС‰РµРЅСЊРµРј РіРѕСЂСЏ,</plain>
         </string>
         <string>
-            <plain>В собранье искупленных слуг</plain>
+            <plain>Р’ СЃРѕР±СЂР°РЅСЊРµ РёСЃРєСѓРїР»РµРЅРЅС‹С… СЃР»СѓРі</plain>
         </string>
         <string>
-            <plain>Прославлю Творца и Царя.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЋ РўРІРѕСЂС†Р° Рё Р¦Р°СЂСЏ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="35" name="Как снеговой покров зимой" canon="false" text="" textRus="" music="">
+<psalm number="35" name="РљР°Рє СЃРЅРµРіРѕРІРѕР№ РїРѕРєСЂРѕРІ Р·РёРјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как снеговой покров зимой</plain>
+            <plain>РљР°Рє СЃРЅРµРіРѕРІРѕР№ РїРѕРєСЂРѕРІ Р·РёРјРѕР№</plain>
         </string>
         <string>
-            <plain>Скрывает грудь земли,</plain>
+            <plain>РЎРєСЂС‹РІР°РµС‚ РіСЂСѓРґСЊ Р·РµРјР»Рё,</plain>
         </string>
         <string>
-            <plain>Так сети мира суетой</plain>
+            <plain>РўР°Рє СЃРµС‚Рё РјРёСЂР° СЃСѓРµС‚РѕР№</plain>
         </string>
         <string>
-            <plain>:,:Мне сердце облегли.:,:</plain>
+            <plain>:,:РњРЅРµ СЃРµСЂРґС†Рµ РѕР±Р»РµРіР»Рё.:,:</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Твой образ в сердце затемнен,</plain>
+            <plain>РўРІРѕР№ РѕР±СЂР°Р· РІ СЃРµСЂРґС†Рµ Р·Р°С‚РµРјРЅРµРЅ,</plain>
         </string>
         <string>
-            <plain>В стремленьях силы нет;</plain>
+            <plain>Р’ СЃС‚СЂРµРјР»РµРЅСЊСЏС… СЃРёР»С‹ РЅРµС‚;</plain>
         </string>
         <string>
-            <plain>В делах моих царит закон,</plain>
+            <plain>Р’ РґРµР»Р°С… РјРѕРёС… С†Р°СЂРёС‚ Р·Р°РєРѕРЅ,</plain>
         </string>
         <string>
-            <plain>:,:Угас свободы свет!:,:</plain>
+            <plain>:,:РЈРіР°СЃ СЃРІРѕР±РѕРґС‹ СЃРІРµС‚!:,:</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Благое иго для меня -</plain>
+            <plain>Р‘Р»Р°РіРѕРµ РёРіРѕ РґР»СЏ РјРµРЅСЏ -</plain>
         </string>
         <string>
-            <plain>Непоборимый гнет;</plain>
+            <plain>РќРµРїРѕР±РѕСЂРёРјС‹Р№ РіРЅРµС‚;</plain>
         </string>
         <string>
-            <plain>Во мне нет радости огня,</plain>
+            <plain>Р’Рѕ РјРЅРµ РЅРµС‚ СЂР°РґРѕСЃС‚Рё РѕРіРЅСЏ,</plain>
         </string>
         <string>
-            <plain>:,:Сомненье сердце жжет.:,:</plain>
+            <plain>:,:РЎРѕРјРЅРµРЅСЊРµ СЃРµСЂРґС†Рµ Р¶Р¶РµС‚.:,:</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я с миром не ищу борьбы,</plain>
+            <plain>РЇ СЃ РјРёСЂРѕРј РЅРµ РёС‰Сѓ Р±РѕСЂСЊР±С‹,</plain>
         </string>
         <string>
-            <plain>И мне приятен сон,</plain>
+            <plain>Р РјРЅРµ РїСЂРёСЏС‚РµРЅ СЃРѕРЅ,</plain>
         </string>
         <string>
-            <plain>И даже в час моей мольбы</plain>
+            <plain>Р РґР°Р¶Рµ РІ С‡Р°СЃ РјРѕРµР№ РјРѕР»СЊР±С‹</plain>
         </string>
         <string>
-            <plain>:,:Земным я угнетен.:,:</plain>
+            <plain>:,:Р—РµРјРЅС‹Рј СЏ СѓРіРЅРµС‚РµРЅ.:,:</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я пред Тобой, как лед, застыл!</plain>
+            <plain>РЇ РїСЂРµРґ РўРѕР±РѕР№, РєР°Рє Р»РµРґ, Р·Р°СЃС‚С‹Р»!</plain>
         </string>
         <string>
-            <plain>Дохни же на меня,</plain>
+            <plain>Р”РѕС…РЅРё Р¶Рµ РЅР° РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Источник вечного огня,</plain>
+            <plain>РСЃС‚РѕС‡РЅРёРє РІРµС‡РЅРѕРіРѕ РѕРіРЅСЏ,</plain>
         </string>
         <string>
-            <plain>:,:Возжегший огнь светил.:,:</plain>
+            <plain>:,:Р’РѕР·Р¶РµРіС€РёР№ РѕРіРЅСЊ СЃРІРµС‚РёР».:,:</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Я черств, как камень, сердцем стал,</plain>
+            <plain>РЇ С‡РµСЂСЃС‚РІ, РєР°Рє РєР°РјРµРЅСЊ, СЃРµСЂРґС†РµРј СЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>Но, как плавильщик,</plain>
+            <plain>РќРѕ, РєР°Рє РїР»Р°РІРёР»СЊС‰РёРє,</plain>
         </string>
         <string>
-            <plain>Ты Из сердца выплави металл</plain>
+            <plain>РўС‹ РР· СЃРµСЂРґС†Р° РІС‹РїР»Р°РІРё РјРµС‚Р°Р»Р»</plain>
         </string>
         <string>
-            <plain>:,:Сердечной чистоты.:,:</plain>
+            <plain>:,:РЎРµСЂРґРµС‡РЅРѕР№ С‡РёСЃС‚РѕС‚С‹.:,:</plain>
         </string>
     </verse>
 </psalm>

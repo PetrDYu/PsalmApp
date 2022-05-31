@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="611" name="Слава слава Богу в вышних" canon="false" text="" textRus="" music="">
+<psalm number="611" name="РЎР»Р°РІР° СЃР»Р°РІР° Р‘РѕРіСѓ РІ РІС‹С€РЅРёС…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слава, слава Богу в вышних!</plain>
+            <plain>РЎР»Р°РІР°, СЃР»Р°РІР° Р‘РѕРіСѓ РІ РІС‹С€РЅРёС…!</plain>
         </string>
         <string>
-            <plain>Мир земле и благодать;</plain>
+            <plain>РњРёСЂ Р·РµРјР»Рµ Рё Р±Р»Р°РіРѕРґР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Призывайте, братья, ближних,</plain>
+            <plain>РџСЂРёР·С‹РІР°Р№С‚Рµ, Р±СЂР°С‚СЊСЏ, Р±Р»РёР¶РЅРёС…,</plain>
         </string>
         <string>
-            <plain>Будем Бога воспевать:</plain>
+            <plain>Р‘СѓРґРµРј Р‘РѕРіР° РІРѕСЃРїРµРІР°С‚СЊ:</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя, Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Слава Богу в вышних.</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ РІ РІС‹С€РЅРёС….</plain>
         </string>
         <string>
-            <plain>Аллилуйя, Аллилуйя, Аллилуйя, Аминь.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя, Аллилуйя, Аллилуйя, Аминь.</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ, РђРјРёРЅСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Царь царей, причин причина!</plain>
+            <plain>Р¦Р°СЂСЊ С†Р°СЂРµР№, РїСЂРёС‡РёРЅ РїСЂРёС‡РёРЅР°!</plain>
         </string>
         <string>
-            <plain>Кто имеет Свой престол,</plain>
+            <plain>РљС‚Рѕ РёРјРµРµС‚ РЎРІРѕР№ РїСЂРµСЃС‚РѕР»,</plain>
         </string>
         <string>
-            <plain>В славе вечной Божья Сына,</plain>
+            <plain>Р’ СЃР»Р°РІРµ РІРµС‡РЅРѕР№ Р‘РѕР¶СЊСЏ РЎС‹РЅР°,</plain>
         </string>
         <string>
-            <plain>Человеком в мир пришел.</plain>
+            <plain>Р§РµР»РѕРІРµРєРѕРј РІ РјРёСЂ РїСЂРёС€РµР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Грешники! Всем вам прощенье</plain>
+            <plain>Р“СЂРµС€РЅРёРєРё! Р’СЃРµРј РІР°Рј РїСЂРѕС‰РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Ныне с неба Он принес;</plain>
+            <plain>РќС‹РЅРµ СЃ РЅРµР±Р° РћРЅ РїСЂРёРЅРµСЃ;</plain>
         </string>
         <string>
-            <plain>С Богом дать вам примиренье</plain>
+            <plain>РЎ Р‘РѕРіРѕРј РґР°С‚СЊ РІР°Рј РїСЂРёРјРёСЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Ныне хочет Сам Христос.</plain>
+            <plain>РќС‹РЅРµ С…РѕС‡РµС‚ РЎР°Рј РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В этот день Он воплотился,</plain>
+            <plain>Р’ СЌС‚РѕС‚ РґРµРЅСЊ РћРЅ РІРѕРїР»РѕС‚РёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Скромный вид раба принял,</plain>
+            <plain>РЎРєСЂРѕРјРЅС‹Р№ РІРёРґ СЂР°Р±Р° РїСЂРёРЅСЏР»,</plain>
         </string>
         <string>
-            <plain>Чтоб без страха обратился</plain>
+            <plain>Р§С‚РѕР± Р±РµР· СЃС‚СЂР°С…Р° РѕР±СЂР°С‚РёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>Грешник и к Нему воззвал.</plain>
+            <plain>Р“СЂРµС€РЅРёРє Рё Рє РќРµРјСѓ РІРѕР·Р·РІР°Р».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, к Нему, к Нему придите</plain>
+            <plain>Рћ, Рє РќРµРјСѓ, Рє РќРµРјСѓ РїСЂРёРґРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>Вы, погрязшие в грехах!</plain>
+            <plain>Р’С‹, РїРѕРіСЂСЏР·С€РёРµ РІ РіСЂРµС…Р°С…!</plain>
         </string>
         <string>
-            <plain>Благодать Его примите</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊ Р•РіРѕ РїСЂРёРјРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>И блаженство в небесах.</plain>
+            <plain>Р Р±Р»Р°Р¶РµРЅСЃС‚РІРѕ РІ РЅРµР±РµСЃР°С….</plain>
         </string>
     </verse>
 </psalm>

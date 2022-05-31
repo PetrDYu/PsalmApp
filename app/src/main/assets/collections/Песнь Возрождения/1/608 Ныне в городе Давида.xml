@@ -1,121 +1,121 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="608" name="Ныне в городе Давида" canon="false" text="" textRus="" music="">
+<psalm number="608" name="РќС‹РЅРµ РІ РіРѕСЂРѕРґРµ Р”Р°РІРёРґР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ныне в городе Давида</plain>
+            <plain>РќС‹РЅРµ РІ РіРѕСЂРѕРґРµ Р”Р°РІРёРґР°</plain>
         </string>
         <string>
-            <plain>Нам рожден Господь Христос.</plain>
+            <plain>РќР°Рј СЂРѕР¶РґРµРЅ Р“РѕСЃРїРѕРґСЊ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
         <string>
-            <plain>Хоть смиренного Он вида,</plain>
+            <plain>РҐРѕС‚СЊ СЃРјРёСЂРµРЅРЅРѕРіРѕ РћРЅ РІРёРґР°,</plain>
         </string>
         <string>
-            <plain>Но по-царски дар принес.</plain>
+            <plain>РќРѕ РїРѕ-С†Р°СЂСЃРєРё РґР°СЂ РїСЂРёРЅРµСЃ.</plain>
         </string>
         <string>
-            <plain>Дар от смерти избавленья,</plain>
+            <plain>Р”Р°СЂ РѕС‚ СЃРјРµСЂС‚Рё РёР·Р±Р°РІР»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Дар свободы и любви,</plain>
+            <plain>Р”Р°СЂ СЃРІРѕР±РѕРґС‹ Рё Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Дар святого примиренья</plain>
+            <plain>Р”Р°СЂ СЃРІСЏС‚РѕРіРѕ РїСЂРёРјРёСЂРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В жертвенной Своей крови.</plain>
+            <plain>Р’ Р¶РµСЂС‚РІРµРЅРЅРѕР№ РЎРІРѕРµР№ РєСЂРѕРІРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог Творец,</plain>
+            <plain>Р‘РѕРі РўРІРѕСЂРµС†,</plain>
         </string>
         <string>
-            <plain>Благой Отец,</plain>
+            <plain>Р‘Р»Р°РіРѕР№ РћС‚РµС†,</plain>
         </string>
         <string>
-            <plain>Слава вечная Тебе.</plain>
+            <plain>РЎР»Р°РІР° РІРµС‡РЅР°СЏ РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Аминь.</plain>
+            <plain>РђРјРёРЅСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Весть приняли ту благую</plain>
+            <plain>Р’РµСЃС‚СЊ РїСЂРёРЅСЏР»Рё С‚Сѓ Р±Р»Р°РіСѓСЋ</plain>
         </string>
         <string>
-            <plain>Стерегущие стада.</plain>
+            <plain>РЎС‚РµСЂРµРіСѓС‰РёРµ СЃС‚Р°РґР°.</plain>
         </string>
         <string>
-            <plain>В полночь сонную, глухую</plain>
+            <plain>Р’ РїРѕР»РЅРѕС‡СЊ СЃРѕРЅРЅСѓСЋ, РіР»СѓС…СѓСЋ</plain>
         </string>
         <string>
-            <plain>Загорелася звезда.</plain>
+            <plain>Р—Р°РіРѕСЂРµР»Р°СЃСЏ Р·РІРµР·РґР°.</plain>
         </string>
         <string>
-            <plain>Пастухи пошли послушно</plain>
+            <plain>РџР°СЃС‚СѓС…Рё РїРѕС€Р»Рё РїРѕСЃР»СѓС€РЅРѕ</plain>
         </string>
         <string>
-            <plain>Видеть чудные дела.</plain>
+            <plain>Р’РёРґРµС‚СЊ С‡СѓРґРЅС‹Рµ РґРµР»Р°.</plain>
         </string>
         <string>
-            <plain>Загорелась вера в душах,</plain>
+            <plain>Р—Р°РіРѕСЂРµР»Р°СЃСЊ РІРµСЂР° РІ РґСѓС€Р°С…,</plain>
         </string>
         <string>
-            <plain>Их к Младенцу привела.</plain>
+            <plain>РС… Рє РњР»Р°РґРµРЅС†Сѓ РїСЂРёРІРµР»Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он, как раб людей смиренный,</plain>
+            <plain>РћРЅ, РєР°Рє СЂР°Р± Р»СЋРґРµР№ СЃРјРёСЂРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Тихо на землю пришел,</plain>
+            <plain>РўРёС…Рѕ РЅР° Р·РµРјР»СЋ РїСЂРёС€РµР»,</plain>
         </string>
         <string>
-            <plain>Прежде всех веков Рожденный</plain>
+            <plain>РџСЂРµР¶РґРµ РІСЃРµС… РІРµРєРѕРІ Р РѕР¶РґРµРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Место в яслях здесь нашел.</plain>
+            <plain>РњРµСЃС‚Рѕ РІ СЏСЃР»СЏС… Р·РґРµСЃСЊ РЅР°С€РµР».</plain>
         </string>
         <string>
-            <plain>Не роскошного чертога -</plain>
+            <plain>РќРµ СЂРѕСЃРєРѕС€РЅРѕРіРѕ С‡РµСЂС‚РѕРіР° -</plain>
         </string>
         <string>
-            <plain>Ясли ищет Божий Сын,</plain>
+            <plain>РЇСЃР»Рё РёС‰РµС‚ Р‘РѕР¶РёР№ РЎС‹РЅ,</plain>
         </string>
         <string>
-            <plain>Чтобы все любили Бога,</plain>
+            <plain>Р§С‚РѕР±С‹ РІСЃРµ Р»СЋР±РёР»Рё Р‘РѕРіР°,</plain>
         </string>
         <string>
-            <plain>Бог Отец для всех Один.</plain>
+            <plain>Р‘РѕРі РћС‚РµС† РґР»СЏ РІСЃРµС… РћРґРёРЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Раствори же сердца двери,</plain>
+            <plain>Р Р°СЃС‚РІРѕСЂРё Р¶Рµ СЃРµСЂРґС†Р° РґРІРµСЂРё,</plain>
         </string>
         <string>
-            <plain>Пусть в нем скот, вертеп оно,</plain>
+            <plain>РџСѓСЃС‚СЊ РІ РЅРµРј СЃРєРѕС‚, РІРµСЂС‚РµРї РѕРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Бог родится в нем по вере,</plain>
+            <plain>Р‘РѕРі СЂРѕРґРёС‚СЃСЏ РІ РЅРµРј РїРѕ РІРµСЂРµ,</plain>
         </string>
         <string>
-            <plain>Будет все обновлено.</plain>
+            <plain>Р‘СѓРґРµС‚ РІСЃРµ РѕР±РЅРѕРІР»РµРЅРѕ.</plain>
         </string>
         <string>
-            <plain>О рождении великом</plain>
+            <plain>Рћ СЂРѕР¶РґРµРЅРёРё РІРµР»РёРєРѕРј</plain>
         </string>
         <string>
-            <plain>Снова ангел воспоет,</plain>
+            <plain>РЎРЅРѕРІР° Р°РЅРіРµР» РІРѕСЃРїРѕРµС‚,</plain>
         </string>
         <string>
-            <plain>В мире мрачном, полудиком</plain>
+            <plain>Р’ РјРёСЂРµ РјСЂР°С‡РЅРѕРј, РїРѕР»СѓРґРёРєРѕРј</plain>
         </string>
         <string>
-            <plain>Весть благую понесет.</plain>
+            <plain>Р’РµСЃС‚СЊ Р±Р»Р°РіСѓСЋ РїРѕРЅРµСЃРµС‚.</plain>
         </string>
     </verse>
 </psalm>

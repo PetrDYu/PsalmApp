@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1942" name="Вот вечер ночь наступает" canon="false" text="" textRus="" music="">
+<psalm number="1942" name="Р’РѕС‚ РІРµС‡РµСЂ РЅРѕС‡СЊ РЅР°СЃС‚СѓРїР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот вечер, ночь наступает.</plain>
+            <plain>Р’РѕС‚ РІРµС‡РµСЂ, РЅРѕС‡СЊ РЅР°СЃС‚СѓРїР°РµС‚.</plain>
         </string>
         <string>
-            <plain>День скрылся там за горой;</plain>
+            <plain>Р”РµРЅСЊ СЃРєСЂС‹Р»СЃСЏ С‚Р°Рј Р·Р° РіРѕСЂРѕР№;</plain>
         </string>
         <string>
-            <plain>Вот птичек хор запевает,</plain>
+            <plain>Р’РѕС‚ РїС‚РёС‡РµРє С…РѕСЂ Р·Р°РїРµРІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>3вучит песня под листвой.</plain>
+            <plain>3РІСѓС‡РёС‚ РїРµСЃРЅСЏ РїРѕРґ Р»РёСЃС‚РІРѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Цветы головки склоняют,</plain>
+            <plain>Р¦РІРµС‚С‹ РіРѕР»РѕРІРєРё СЃРєР»РѕРЅСЏСЋС‚,</plain>
         </string>
         <string>
-            <plain>Слезой под ветром дрожат</plain>
+            <plain>РЎР»РµР·РѕР№ РїРѕРґ РІРµС‚СЂРѕРј РґСЂРѕР¶Р°С‚</plain>
         </string>
         <string>
-            <plain>И соки их стекают,</plain>
+            <plain>Р СЃРѕРєРё РёС… СЃС‚РµРєР°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Дают людям аромат.</plain>
+            <plain>Р”Р°СЋС‚ Р»СЋРґСЏРј Р°СЂРѕРјР°С‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Живущее все желает</plain>
+            <plain>Р–РёРІСѓС‰РµРµ РІСЃРµ Р¶РµР»Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Покоя от суеты.</plain>
+            <plain>РџРѕРєРѕСЏ РѕС‚ СЃСѓРµС‚С‹.</plain>
         </string>
         <string>
-            <plain>Бог тихо мой дух призывает:</plain>
+            <plain>Р‘РѕРі С‚РёС…Рѕ РјРѕР№ РґСѓС… РїСЂРёР·С‹РІР°РµС‚:</plain>
         </string>
         <string>
-            <plain>О, сын Мой, проси и ты.</plain>
+            <plain>Рћ, СЃС‹РЅ РњРѕР№, РїСЂРѕСЃРё Рё С‚С‹.</plain>
         </string>
     </verse>
 </psalm>

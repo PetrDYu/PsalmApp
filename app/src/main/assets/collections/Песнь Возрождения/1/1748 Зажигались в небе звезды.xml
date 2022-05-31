@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1748" name="Зажигались в небе звезды" canon="false" text="" textRus="" music="">
+<psalm number="1748" name="Р—Р°Р¶РёРіР°Р»РёСЃСЊ РІ РЅРµР±Рµ Р·РІРµР·РґС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Зажигались в небе звезды,</plain>
+            <plain>Р—Р°Р¶РёРіР°Р»РёСЃСЊ РІ РЅРµР±Рµ Р·РІРµР·РґС‹,</plain>
         </string>
         <string>
-            <plain>Ласково маня.</plain>
+            <plain>Р›Р°СЃРєРѕРІРѕ РјР°РЅСЏ.</plain>
         </string>
         <string>
-            <plain>Знаю, там, в Отчизне, ждешь</plain>
+            <plain>Р—РЅР°СЋ, С‚Р°Рј, РІ РћС‚С‡РёР·РЅРµ, Р¶РґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Ты, Господи, меня.</plain>
+            <plain>РўС‹, Р“РѕСЃРїРѕРґРё, РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я записан в книге жизни,</plain>
+            <plain>РЇ Р·Р°РїРёСЃР°РЅ РІ РєРЅРёРіРµ Р¶РёР·РЅРё,</plain>
         </string>
         <string>
-            <plain>Вечной и святой.</plain>
+            <plain>Р’РµС‡РЅРѕР№ Рё СЃРІСЏС‚РѕР№.</plain>
         </string>
         <string>
-            <plain>Встречусь скоро я в Отчизне,</plain>
+            <plain>Р’СЃС‚СЂРµС‡СѓСЃСЊ СЃРєРѕСЂРѕ СЏ РІ РћС‚С‡РёР·РЅРµ,</plain>
         </string>
         <string>
-            <plain>Мой Господь, с Тобой.</plain>
+            <plain>РњРѕР№ Р“РѕСЃРїРѕРґСЊ, СЃ РўРѕР±РѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>И меня, земного, манит</plain>
+            <plain>Р РјРµРЅСЏ, Р·РµРјРЅРѕРіРѕ, РјР°РЅРёС‚</plain>
         </string>
         <string>
-            <plain>Голубая высь,</plain>
+            <plain>Р“РѕР»СѓР±Р°СЏ РІС‹СЃСЊ,</plain>
         </string>
         <string>
-            <plain>Стаи пламенных желаний</plain>
+            <plain>РЎС‚Р°Рё РїР»Р°РјРµРЅРЅС‹С… Р¶РµР»Р°РЅРёР№</plain>
         </string>
         <string>
-            <plain>В вечность унеслись.</plain>
+            <plain>Р’ РІРµС‡РЅРѕСЃС‚СЊ СѓРЅРµСЃР»РёСЃСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Верю, что приду когда-то</plain>
+            <plain>Р’РµСЂСЋ, С‡С‚Рѕ РїСЂРёРґСѓ РєРѕРіРґР°-С‚Рѕ</plain>
         </string>
         <string>
-            <plain>В небо, как домой...</plain>
+            <plain>Р’ РЅРµР±Рѕ, РєР°Рє РґРѕРјРѕР№...</plain>
         </string>
         <string>
-            <plain>И душа тоской объята</plain>
+            <plain>Р РґСѓС€Р° С‚РѕСЃРєРѕР№ РѕР±СЉСЏС‚Р°</plain>
         </string>
         <string>
-            <plain>По стране родной.</plain>
+            <plain>РџРѕ СЃС‚СЂР°РЅРµ СЂРѕРґРЅРѕР№.</plain>
         </string>
     </verse>
 </psalm>

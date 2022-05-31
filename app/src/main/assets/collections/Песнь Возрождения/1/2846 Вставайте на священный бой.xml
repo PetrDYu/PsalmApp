@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2846" name="Вставайте на священный бой" canon="false" text="" textRus="" music="">
+<psalm number="2846" name="Р’СЃС‚Р°РІР°Р№С‚Рµ РЅР° СЃРІСЏС‰РµРЅРЅС‹Р№ Р±РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вставайте на священный бой</plain>
+            <plain>Р’СЃС‚Р°РІР°Р№С‚Рµ РЅР° СЃРІСЏС‰РµРЅРЅС‹Р№ Р±РѕР№</plain>
         </string>
         <string>
-            <plain>за веру, за Христа</plain>
+            <plain>Р·Р° РІРµСЂСѓ, Р·Р° РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>и в Божьем всеоружии</plain>
+            <plain>Рё РІ Р‘РѕР¶СЊРµРј РІСЃРµРѕСЂСѓР¶РёРё</plain>
         </string>
         <string>
-            <plain>гоните прочь врага!</plain>
+            <plain>РіРѕРЅРёС‚Рµ РїСЂРѕС‡СЊ РІСЂР°РіР°!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мы именем Христа идём</plain>
+            <plain>РњС‹ РёРјРµРЅРµРј РҐСЂРёСЃС‚Р° РёРґС‘Рј</plain>
         </string>
         <string>
-            <plain>на битву против зла,</plain>
+            <plain>РЅР° Р±РёС‚РІСѓ РїСЂРѕС‚РёРІ Р·Р»Р°,</plain>
         </string>
         <string>
-            <plain>пока мы с Ним не победим</plain>
+            <plain>РїРѕРєР° РјС‹ СЃ РќРёРј РЅРµ РїРѕР±РµРґРёРј</plain>
         </string>
         <string>
-            <plain>последнего врага.</plain>
+            <plain>РїРѕСЃР»РµРґРЅРµРіРѕ РІСЂР°РіР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Возьмите латы, шлем, копьё,</plain>
+            <plain>Р’РѕР·СЊРјРёС‚Рµ Р»Р°С‚С‹, С€Р»РµРј, РєРѕРїСЊС‘,</plain>
         </string>
         <string>
-            <plain>возьмите меч и щит,</plain>
+            <plain>РІРѕР·СЊРјРёС‚Рµ РјРµС‡ Рё С‰РёС‚,</plain>
         </string>
         <string>
-            <plain>садитесь смело на коней,</plain>
+            <plain>СЃР°РґРёС‚РµСЃСЊ СЃРјРµР»Рѕ РЅР° РєРѕРЅРµР№,</plain>
         </string>
         <string>
-            <plain>Господь вас защитит.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РІР°СЃ Р·Р°С‰РёС‚РёС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бушует враг, как ярый лев,</plain>
+            <plain>Р‘СѓС€СѓРµС‚ РІСЂР°Рі, РєР°Рє СЏСЂС‹Р№ Р»РµРІ,</plain>
         </string>
         <string>
-            <plain>ища вас поглотить,</plain>
+            <plain>РёС‰Р° РІР°СЃ РїРѕРіР»РѕС‚РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>- во имя Господа Христа</plain>
+            <plain>- РІРѕ РёРјСЏ Р“РѕСЃРїРѕРґР° РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>должны вы победить.</plain>
+            <plain>РґРѕР»Р¶РЅС‹ РІС‹ РїРѕР±РµРґРёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Дрожит великий Вавилон,</plain>
+            <plain>Р”СЂРѕР¶РёС‚ РІРµР»РёРєРёР№ Р’Р°РІРёР»РѕРЅ,</plain>
         </string>
         <string>
-            <plain>и мир, и сатана,</plain>
+            <plain>Рё РјРёСЂ, Рё СЃР°С‚Р°РЅР°,</plain>
         </string>
         <string>
-            <plain>когда святое войско в бой</plain>
+            <plain>РєРѕРіРґР° СЃРІСЏС‚РѕРµ РІРѕР№СЃРєРѕ РІ Р±РѕР№</plain>
         </string>
         <string>
-            <plain>ведёт рука Христа.</plain>
+            <plain>РІРµРґС‘С‚ СЂСѓРєР° РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Бесстрашно именем Христа</plain>
+            <plain>Р‘РµСЃСЃС‚СЂР°С€РЅРѕ РёРјРµРЅРµРј РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>мы в жаркий бой идём;</plain>
+            <plain>РјС‹ РІ Р¶Р°СЂРєРёР№ Р±РѕР№ РёРґС‘Рј;</plain>
         </string>
         <string>
-            <plain>стремясь к небесной цели,</plain>
+            <plain>СЃС‚СЂРµРјСЏСЃСЊ Рє РЅРµР±РµСЃРЅРѕР№ С†РµР»Рё,</plain>
         </string>
         <string>
-            <plain>мы венец победы ждём.·</plain>
+            <plain>РјС‹ РІРµРЅРµС† РїРѕР±РµРґС‹ Р¶РґС‘Рј.В·</plain>
         </string>
     </verse>
 </psalm>

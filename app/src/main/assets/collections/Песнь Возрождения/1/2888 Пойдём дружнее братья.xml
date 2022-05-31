@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2888" name="Пойдём дружнее братья" canon="false" text="" textRus="" music="">
+<psalm number="2888" name="РџРѕР№РґС‘Рј РґСЂСѓР¶РЅРµРµ Р±СЂР°С‚СЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пойдём дружнее, братья,</plain>
+            <plain>РџРѕР№РґС‘Рј РґСЂСѓР¶РЅРµРµ, Р±СЂР°С‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>за руки взявшись все:</plain>
+            <plain>Р·Р° СЂСѓРєРё РІР·СЏРІС€РёСЃСЊ РІСЃРµ:</plain>
         </string>
         <string>
-            <plain>для радости и счастья</plain>
+            <plain>РґР»СЏ СЂР°РґРѕСЃС‚Рё Рё СЃС‡Р°СЃС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>живём мы на земле.</plain>
+            <plain>Р¶РёРІС‘Рј РјС‹ РЅР° Р·РµРјР»Рµ.</plain>
         </string>
         <string>
-            <plain>Нам в мире места нет.</plain>
+            <plain>РќР°Рј РІ РјРёСЂРµ РјРµСЃС‚Р° РЅРµС‚.</plain>
         </string>
         <string>
-            <plain>Мы чрез Христа страданья</plain>
+            <plain>РњС‹ С‡СЂРµР· РҐСЂРёСЃС‚Р° СЃС‚СЂР°РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>идём в небес сиянье,</plain>
+            <plain>РёРґС‘Рј РІ РЅРµР±РµСЃ СЃРёСЏРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>где вечный Божий свет.</plain>
+            <plain>РіРґРµ РІРµС‡РЅС‹Р№ Р‘РѕР¶РёР№ СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Коль слабый изнеможет,</plain>
+            <plain>РљРѕР»СЊ СЃР»Р°Р±С‹Р№ РёР·РЅРµРјРѕР¶РµС‚,</plain>
         </string>
         <string>
-            <plain>пусть сильный подкрепит,</plain>
+            <plain>РїСѓСЃС‚СЊ СЃРёР»СЊРЅС‹Р№ РїРѕРґРєСЂРµРїРёС‚,</plain>
         </string>
         <string>
-            <plain>поддержит и поможет,</plain>
+            <plain>РїРѕРґРґРµСЂР¶РёС‚ Рё РїРѕРјРѕР¶РµС‚,</plain>
         </string>
         <string>
-            <plain>любовью окружит.</plain>
+            <plain>Р»СЋР±РѕРІСЊСЋ РѕРєСЂСѓР¶РёС‚.</plain>
         </string>
         <string>
-            <plain>Сплотитесь всё тесней,</plain>
+            <plain>РЎРїР»РѕС‚РёС‚РµСЃСЊ РІСЃС‘ С‚РµСЃРЅРµР№,</plain>
         </string>
         <string>
-            <plain>в смиреньи пребывайте</plain>
+            <plain>РІ СЃРјРёСЂРµРЅСЊРё РїСЂРµР±С‹РІР°Р№С‚Рµ</plain>
         </string>
         <string>
-            <plain>и души очищайте,</plain>
+            <plain>Рё РґСѓС€Рё РѕС‡РёС‰Р°Р№С‚Рµ,</plain>
         </string>
         <string>
-            <plain>где вечный Божий свет.</plain>
+            <plain>РіРґРµ РІРµС‡РЅС‹Р№ Р‘РѕР¶РёР№ СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пойдём вперёд бодрее,</plain>
+            <plain>РџРѕР№РґС‘Рј РІРїРµСЂС‘Рґ Р±РѕРґСЂРµРµ,</plain>
         </string>
         <string>
-            <plain>наш путь к концу идёт;</plain>
+            <plain>РЅР°С€ РїСѓС‚СЊ Рє РєРѕРЅС†Сѓ РёРґС‘С‚;</plain>
         </string>
         <string>
-            <plain>дни мчатся всё быстрее,</plain>
+            <plain>РґРЅРё РјС‡Р°С‚СЃСЏ РІСЃС‘ Р±С‹СЃС‚СЂРµРµ,</plain>
         </string>
         <string>
-            <plain>и в землю плоть уйдёт.</plain>
+            <plain>Рё РІ Р·РµРјР»СЋ РїР»РѕС‚СЊ СѓР№РґС‘С‚.</plain>
         </string>
         <string>
-            <plain>Страдать не долго нам</plain>
+            <plain>РЎС‚СЂР°РґР°С‚СЊ РЅРµ РґРѕР»РіРѕ РЅР°Рј</plain>
         </string>
         <string>
-            <plain>мужайтесь и крепитесь,</plain>
+            <plain>РјСѓР¶Р°Р№С‚РµСЃСЊ Рё РєСЂРµРїРёС‚РµСЃСЊ,</plain>
         </string>
         <string>
-            <plain>от мира отвернитесь</plain>
+            <plain>РѕС‚ РјРёСЂР° РѕС‚РІРµСЂРЅРёС‚РµСЃСЊ</plain>
         </string>
         <string>
-            <plain>к блаженным небесам.</plain>
+            <plain>Рє Р±Р»Р°Р¶РµРЅРЅС‹Рј РЅРµР±РµСЃР°Рј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Немного потерпите</plain>
+            <plain>РќРµРјРЅРѕРіРѕ РїРѕС‚РµСЂРїРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>- не долог путь земной.</plain>
+            <plain>- РЅРµ РґРѕР»РѕРі РїСѓС‚СЊ Р·РµРјРЅРѕР№.</plain>
         </string>
         <string>
-            <plain>Немного потерпите,</plain>
+            <plain>РќРµРјРЅРѕРіРѕ РїРѕС‚РµСЂРїРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>и мы придём домой.</plain>
+            <plain>Рё РјС‹ РїСЂРёРґС‘Рј РґРѕРјРѕР№.</plain>
         </string>
         <string>
-            <plain>Отец даст отдых там</plain>
+            <plain>РћС‚РµС† РґР°СЃС‚ РѕС‚РґС‹С… С‚Р°Рј</plain>
         </string>
         <string>
-            <plain>на небе со святыми,</plain>
+            <plain>РЅР° РЅРµР±Рµ СЃРѕ СЃРІСЏС‚С‹РјРё,</plain>
         </string>
         <string>
-            <plain>где будем вечно с ними</plain>
+            <plain>РіРґРµ Р±СѓРґРµРј РІРµС‡РЅРѕ СЃ РЅРёРјРё</plain>
         </string>
         <string>
-            <plain>- как благо будет нам!</plain>
+            <plain>- РєР°Рє Р±Р»Р°РіРѕ Р±СѓРґРµС‚ РЅР°Рј!</plain>
         </string>
     </verse>
 </psalm>

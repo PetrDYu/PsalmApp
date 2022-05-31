@@ -1,143 +1,143 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="836" name="Бога легко искать" canon="false" text="" textRus="" music="">
+<psalm number="836" name="Р‘РѕРіР° Р»РµРіРєРѕ РёСЃРєР°С‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бога легко искать.</plain>
+            <plain>Р‘РѕРіР° Р»РµРіРєРѕ РёСЃРєР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Бога легко найти.</plain>
+            <plain>Р‘РѕРіР° Р»РµРіРєРѕ РЅР°Р№С‚Рё.</plain>
         </string>
         <string>
-            <plain>Бог - этоблагодать,</plain>
+            <plain>Р‘РѕРі - СЌС‚РѕР±Р»Р°РіРѕРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Бог - это свет в пути.</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ СЃРІРµС‚ РІ РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Это - любовь моя,</plain>
+            <plain>Р­С‚Рѕ - Р»СЋР±РѕРІСЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>это добро твое,</plain>
+            <plain>СЌС‚Рѕ РґРѕР±СЂРѕ С‚РІРѕРµ,</plain>
         </string>
         <string>
-            <plain>Это - средь бурь маяк,</plain>
+            <plain>Р­С‚Рѕ - СЃСЂРµРґСЊ Р±СѓСЂСЊ РјР°СЏРє,</plain>
         </string>
         <string>
-            <plain>отдых в конце боев.</plain>
+            <plain>РѕС‚РґС‹С… РІ РєРѕРЅС†Рµ Р±РѕРµРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог - это первый вздох,</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ РїРµСЂРІС‹Р№ РІР·РґРѕС…,</plain>
         </string>
         <string>
-            <plain>первый ребенка крик,</plain>
+            <plain>РїРµСЂРІС‹Р№ СЂРµР±РµРЅРєР° РєСЂРёРє,</plain>
         </string>
         <string>
-            <plain>В новую жизнь порог,</plain>
+            <plain>Р’ РЅРѕРІСѓСЋ Р¶РёР·РЅСЊ РїРѕСЂРѕРі,</plain>
         </string>
         <string>
-            <plain>в вечность манящий миг.</plain>
+            <plain>РІ РІРµС‡РЅРѕСЃС‚СЊ РјР°РЅСЏС‰РёР№ РјРёРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бог - это наш судья,</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ РЅР°С€ СЃСѓРґСЊСЏ,</plain>
         </string>
         <string>
-            <plain>истины вечный страж.</plain>
+            <plain>РёСЃС‚РёРЅС‹ РІРµС‡РЅС‹Р№ СЃС‚СЂР°Р¶.</plain>
         </string>
         <string>
-            <plain>Бог - это суть моя,</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ СЃСѓС‚СЊ РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>совести голос наш.</plain>
+            <plain>СЃРѕРІРµСЃС‚Рё РіРѕР»РѕСЃ РЅР°С€.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Бог - это в сотах мед,</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ РІ СЃРѕС‚Р°С… РјРµРґ,</plain>
         </string>
         <string>
-            <plain>Бог - это хлеб и соль.</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ С…Р»РµР± Рё СЃРѕР»СЊ.</plain>
         </string>
         <string>
-            <plain>Тот, кто нам мир дает,</plain>
+            <plain>РўРѕС‚, РєС‚Рѕ РЅР°Рј РјРёСЂ РґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>тот, кто врачует боль.</plain>
+            <plain>С‚РѕС‚, РєС‚Рѕ РІСЂР°С‡СѓРµС‚ Р±РѕР»СЊ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Это любовь людей,</plain>
+            <plain>Р­С‚Рѕ Р»СЋР±РѕРІСЊ Р»СЋРґРµР№,</plain>
         </string>
         <string>
-            <plain>это - прощенье зла.</plain>
+            <plain>СЌС‚Рѕ - РїСЂРѕС‰РµРЅСЊРµ Р·Р»Р°.</plain>
         </string>
         <string>
-            <plain>Это - в душе моей</plain>
+            <plain>Р­С‚Рѕ - РІ РґСѓС€Рµ РјРѕРµР№</plain>
         </string>
         <string>
-            <plain>мощный родник тепла.</plain>
+            <plain>РјРѕС‰РЅС‹Р№ СЂРѕРґРЅРёРє С‚РµРїР»Р°.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Это - весенний гром,</plain>
+            <plain>Р­С‚Рѕ - РІРµСЃРµРЅРЅРёР№ РіСЂРѕРј,</plain>
         </string>
         <string>
-            <plain>это - осенний дождь,</plain>
+            <plain>СЌС‚Рѕ - РѕСЃРµРЅРЅРёР№ РґРѕР¶РґСЊ,</plain>
         </string>
         <string>
-            <plain>Это - по телу дрожь</plain>
+            <plain>Р­С‚Рѕ - РїРѕ С‚РµР»Сѓ РґСЂРѕР¶СЊ</plain>
         </string>
         <string>
-            <plain>в храме Его святом,</plain>
+            <plain>РІ С…СЂР°РјРµ Р•РіРѕ СЃРІСЏС‚РѕРј,</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Это - молитвы стон,</plain>
+            <plain>Р­С‚Рѕ - РјРѕР»РёС‚РІС‹ СЃС‚РѕРЅ,</plain>
         </string>
         <string>
-            <plain>гимнов хваленья звук.</plain>
+            <plain>РіРёРјРЅРѕРІ С…РІР°Р»РµРЅСЊСЏ Р·РІСѓРє.</plain>
         </string>
         <string>
-            <plain>Это - земной поклон,</plain>
+            <plain>Р­С‚Рѕ - Р·РµРјРЅРѕР№ РїРѕРєР»РѕРЅ,</plain>
         </string>
         <string>
-            <plain>это - скрещенье рук.</plain>
+            <plain>СЌС‚Рѕ - СЃРєСЂРµС‰РµРЅСЊРµ СЂСѓРє.</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>Бог - это вечный дух,</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ РІРµС‡РЅС‹Р№ РґСѓС…,</plain>
         </string>
         <string>
-            <plain>это - стихий закон.</plain>
+            <plain>СЌС‚Рѕ - СЃС‚РёС…РёР№ Р·Р°РєРѕРЅ.</plain>
         </string>
         <string>
-            <plain>Бог - это лучший друг,</plain>
+            <plain>Р‘РѕРі - СЌС‚Рѕ Р»СѓС‡С€РёР№ РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>в бедах помощник Он.</plain>
+            <plain>РІ Р±РµРґР°С… РїРѕРјРѕС‰РЅРёРє РћРЅ.</plain>
         </string>
     </verse>
     <verse number="10">
         <string>
-            <plain>Это - воскресный день,</plain>
+            <plain>Р­С‚Рѕ - РІРѕСЃРєСЂРµСЃРЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>это - Голгофский крест,</plain>
+            <plain>СЌС‚Рѕ - Р“РѕР»РіРѕС„СЃРєРёР№ РєСЂРµСЃС‚,</plain>
         </string>
         <string>
-            <plain>Это - благая весть,</plain>
+            <plain>Р­С‚Рѕ - Р±Р»Р°РіР°СЏ РІРµСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>крыльев могучих сень.</plain>
+            <plain>РєСЂС‹Р»СЊРµРІ РјРѕРіСѓС‡РёС… СЃРµРЅСЊ.</plain>
         </string>
     </verse>
 </psalm>

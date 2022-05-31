@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="710" name="Господь Ты Сам меня ведешь" canon="false" text="" textRus="" music="">
+<psalm number="710" name="Р“РѕСЃРїРѕРґСЊ РўС‹ РЎР°Рј РјРµРЅСЏ РІРµРґРµС€СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господь! Ты Сам меня ведешь</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ! РўС‹ РЎР°Рј РјРµРЅСЏ РІРµРґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Своим путем, Своей тропой,</plain>
+            <plain>РЎРІРѕРёРј РїСѓС‚РµРј, РЎРІРѕРµР№ С‚СЂРѕРїРѕР№,</plain>
         </string>
         <string>
-            <plain>Меня от бедствий бережешь</plain>
+            <plain>РњРµРЅСЏ РѕС‚ Р±РµРґСЃС‚РІРёР№ Р±РµСЂРµР¶РµС€СЊ</plain>
         </string>
         <string>
-            <plain>И мне даешь совет благой.</plain>
+            <plain>Р РјРЅРµ РґР°РµС€СЊ СЃРѕРІРµС‚ Р±Р»Р°РіРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь! Ты Сам меня ведешь</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ! РўС‹ РЎР°Рј РјРµРЅСЏ РІРµРґРµС€СЊ</plain>
         </string>
         <string>
-            <plain>Своей тропой, Своим путем;</plain>
+            <plain>РЎРІРѕРµР№ С‚СЂРѕРїРѕР№, РЎРІРѕРёРј РїСѓС‚РµРј;</plain>
         </string>
         <string>
-            <plain>Ты в край чудес меня влечешь,</plain>
+            <plain>РўС‹ РІ РєСЂР°Р№ С‡СѓРґРµСЃ РјРµРЅСЏ РІР»РµС‡РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Где наградишь меня венцом.</plain>
+            <plain>Р“РґРµ РЅР°РіСЂР°РґРёС€СЊ РјРµРЅСЏ РІРµРЅС†РѕРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь! Ты управляешь мной</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ! РўС‹ СѓРїСЂР°РІР»СЏРµС€СЊ РјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>В моих желаньях и делах;</plain>
+            <plain>Р’ РјРѕРёС… Р¶РµР»Р°РЅСЊСЏС… Рё РґРµР»Р°С…;</plain>
         </string>
         <string>
-            <plain>Как хорошо мне быть с Тобой,</plain>
+            <plain>РљР°Рє С…РѕСЂРѕС€Рѕ РјРЅРµ Р±С‹С‚СЊ СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Покоиться в Твоих руках!</plain>
+            <plain>РџРѕРєРѕРёС‚СЊСЃСЏ РІ РўРІРѕРёС… СЂСѓРєР°С…!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я прохожу чрез мглу долин</plain>
+            <plain>РЇ РїСЂРѕС…РѕР¶Сѓ С‡СЂРµР· РјРіР»Сѓ РґРѕР»РёРЅ</plain>
         </string>
         <string>
-            <plain>Иль под сияньем снежных гор,</plain>
+            <plain>РР»СЊ РїРѕРґ СЃРёСЏРЅСЊРµРј СЃРЅРµР¶РЅС‹С… РіРѕСЂ,</plain>
         </string>
         <string>
-            <plain>Через поток, чрез гладь озер –</plain>
+            <plain>Р§РµСЂРµР· РїРѕС‚РѕРє, С‡СЂРµР· РіР»Р°РґСЊ РѕР·РµСЂ вЂ“</plain>
         </string>
         <string>
-            <plain>Везде со мной мой Властелин.</plain>
+            <plain>Р’РµР·РґРµ СЃРѕ РјРЅРѕР№ РјРѕР№ Р’Р»Р°СЃС‚РµР»РёРЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В конце пути через туман</plain>
+            <plain>Р’ РєРѕРЅС†Рµ РїСѓС‚Рё С‡РµСЂРµР· С‚СѓРјР°РЅ</plain>
         </string>
         <string>
-            <plain>Блеснет мне вечный Ханаан,</plain>
+            <plain>Р‘Р»РµСЃРЅРµС‚ РјРЅРµ РІРµС‡РЅС‹Р№ РҐР°РЅР°Р°РЅ,</plain>
         </string>
         <string>
-            <plain>И я в спасительных лучах</plain>
+            <plain>Р СЏ РІ СЃРїР°СЃРёС‚РµР»СЊРЅС‹С… Р»СѓС‡Р°С…</plain>
         </string>
         <string>
-            <plain>Забуду горе, смерть и страх.</plain>
+            <plain>Р—Р°Р±СѓРґСѓ РіРѕСЂРµ, СЃРјРµСЂС‚СЊ Рё СЃС‚СЂР°С….</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я за Тебя держусь рукой,</plain>
+            <plain>РЇ Р·Р° РўРµР±СЏ РґРµСЂР¶СѓСЃСЊ СЂСѓРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Иду я твердо за Тобой;</plain>
+            <plain>РРґСѓ СЏ С‚РІРµСЂРґРѕ Р·Р° РўРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>Что б не случилося со мной,</plain>
+            <plain>Р§С‚Рѕ Р± РЅРµ СЃР»СѓС‡РёР»РѕСЃСЏ СЃРѕ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Ничто мой не смутит покой.</plain>
+            <plain>РќРёС‡С‚Рѕ РјРѕР№ РЅРµ СЃРјСѓС‚РёС‚ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

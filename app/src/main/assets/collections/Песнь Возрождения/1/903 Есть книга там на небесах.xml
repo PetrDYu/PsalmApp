@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="903" name="Есть книга там на небесах" canon="false" text="" textRus="" music="">
+<psalm number="903" name="Р•СЃС‚СЊ РєРЅРёРіР° С‚Р°Рј РЅР° РЅРµР±РµСЃР°С…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Есть книга там, на небесах,</plain>
+            <plain>Р•СЃС‚СЊ РєРЅРёРіР° С‚Р°Рј, РЅР° РЅРµР±РµСЃР°С…,</plain>
         </string>
         <string>
-            <plain>Святые где записаны, Где</plain>
+            <plain>РЎРІСЏС‚С‹Рµ РіРґРµ Р·Р°РїРёСЃР°РЅС‹, Р“РґРµ</plain>
         </string>
         <string>
-            <plain>Божий Дух живет в сердцах.</plain>
+            <plain>Р‘РѕР¶РёР№ Р”СѓС… Р¶РёРІРµС‚ РІ СЃРµСЂРґС†Р°С….</plain>
         </string>
         <string>
-            <plain>Но как со мной, записан ли?</plain>
+            <plain>РќРѕ РєР°Рє СЃРѕ РјРЅРѕР№, Р·Р°РїРёСЃР°РЅ Р»Рё?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Да, как со мной? Записан ли</plain>
+            <plain>Р”Р°, РєР°Рє СЃРѕ РјРЅРѕР№? Р—Р°РїРёСЃР°РЅ Р»Рё</plain>
         </string>
         <string>
-            <plain>Там, в книге жизни, на небесах?</plain>
+            <plain>РўР°Рј, РІ РєРЅРёРіРµ Р¶РёР·РЅРё, РЅР° РЅРµР±РµСЃР°С…?</plain>
         </string>
         <string>
-            <plain>О мой Иисус, прошу Тебя,</plain>
+            <plain>Рћ РјРѕР№ РРёСЃСѓСЃ, РїСЂРѕС€Сѓ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>О, запиши там и меня!</plain>
+            <plain>Рћ, Р·Р°РїРёС€Рё С‚Р°Рј Рё РјРµРЅСЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ее листы, как утра свет,</plain>
+            <plain>Р•Рµ Р»РёСЃС‚С‹, РєР°Рє СѓС‚СЂР° СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>И буквы в ней горят огнем.</plain>
+            <plain>Р Р±СѓРєРІС‹ РІ РЅРµР№ РіРѕСЂСЏС‚ РѕРіРЅРµРј.</plain>
         </string>
         <string>
-            <plain>Иисус Господь, о дай ответ:</plain>
+            <plain>РРёСЃСѓСЃ Р“РѕСЃРїРѕРґСЊ, Рѕ РґР°Р№ РѕС‚РІРµС‚:</plain>
         </string>
         <string>
-            <plain>Записан я там или нет?</plain>
+            <plain>Р—Р°РїРёСЃР°РЅ СЏ С‚Р°Рј РёР»Рё РЅРµС‚?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И куплена там запись в ней</plain>
+            <plain>Р РєСѓРїР»РµРЅР° С‚Р°Рј Р·Р°РїРёСЃСЊ РІ РЅРµР№</plain>
         </string>
         <string>
-            <plain>Ценой Христа Святой Крови,</plain>
+            <plain>Р¦РµРЅРѕР№ РҐСЂРёСЃС‚Р° РЎРІСЏС‚РѕР№ РљСЂРѕРІРё,</plain>
         </string>
         <string>
-            <plain>Ценою ран, ран от гвоздей.</plain>
+            <plain>Р¦РµРЅРѕСЋ СЂР°РЅ, СЂР°РЅ РѕС‚ РіРІРѕР·РґРµР№.</plain>
         </string>
         <string>
-            <plain>Но как со мной, записан ли?</plain>
+            <plain>РќРѕ РєР°Рє СЃРѕ РјРЅРѕР№, Р·Р°РїРёСЃР°РЅ Р»Рё?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Спаситель мой, мой Царь и Бог,</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№, РјРѕР№ Р¦Р°СЂСЊ Рё Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Дай мне знать, прошу Тебя.</plain>
+            <plain>Р”Р°Р№ РјРЅРµ Р·РЅР°С‚СЊ, РїСЂРѕС€Сѓ РўРµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Прочти и мне из книги той</plain>
+            <plain>РџСЂРѕС‡С‚Рё Рё РјРЅРµ РёР· РєРЅРёРіРё С‚РѕР№</plain>
         </string>
         <string>
-            <plain>Благую весть, что там и я.</plain>
+            <plain>Р‘Р»Р°РіСѓСЋ РІРµСЃС‚СЊ, С‡С‚Рѕ С‚Р°Рј Рё СЏ.</plain>
         </string>
     </verse>
 </psalm>

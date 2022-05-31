@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2288" name="Пойди к своим скажи" canon="false" text="" textRus="" music="">
+<psalm number="2288" name="РџРѕР№РґРё Рє СЃРІРѕРёРј СЃРєР°Р¶Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пойди к своим, скажи,</plain>
+            <plain>РџРѕР№РґРё Рє СЃРІРѕРёРј, СЃРєР°Р¶Рё,</plain>
         </string>
         <string>
-            <plain>Что ты Христом освобожден.</plain>
+            <plain>Р§С‚Рѕ С‚С‹ РҐСЂРёСЃС‚РѕРј РѕСЃРІРѕР±РѕР¶РґРµРЅ.</plain>
         </string>
         <string>
-            <plain>Пусть видят близкие твои,</plain>
+            <plain>РџСѓСЃС‚СЊ РІРёРґСЏС‚ Р±Р»РёР·РєРёРµ С‚РІРѕРё,</plain>
         </string>
         <string>
-            <plain>Что Им ты обновлён.</plain>
+            <plain>Р§С‚Рѕ РРј С‚С‹ РѕР±РЅРѕРІР»С‘РЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пойди к своим, скажи,</plain>
+            <plain>РџРѕР№РґРё Рє СЃРІРѕРёРј, СЃРєР°Р¶Рё,</plain>
         </string>
         <string>
-            <plain>Что Бог с тобою сотворил,</plain>
+            <plain>Р§С‚Рѕ Р‘РѕРі СЃ С‚РѕР±РѕСЋ СЃРѕС‚РІРѕСЂРёР»,</plain>
         </string>
         <string>
-            <plain>Пусть пожелают и они,</plain>
+            <plain>РџСѓСЃС‚СЊ РїРѕР¶РµР»Р°СЋС‚ Рё РѕРЅРё,</plain>
         </string>
         <string>
-            <plain>Чтоб Он их возродил.</plain>
+            <plain>Р§С‚РѕР± РћРЅ РёС… РІРѕР·СЂРѕРґРёР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пойди к своим, скажи,</plain>
+            <plain>РџРѕР№РґРё Рє СЃРІРѕРёРј, СЃРєР°Р¶Рё,</plain>
         </string>
         <string>
-            <plain>Как Он грехи твои простил,</plain>
+            <plain>РљР°Рє РћРЅ РіСЂРµС…Рё С‚РІРѕРё РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Погибшего взыскал и спас</plain>
+            <plain>РџРѕРіРёР±С€РµРіРѕ РІР·С‹СЃРєР°Р» Рё СЃРїР°СЃ</plain>
         </string>
         <string>
-            <plain>И раны исцелил.</plain>
+            <plain>Р СЂР°РЅС‹ РёСЃС†РµР»РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пойди к чужим и возвести</plain>
+            <plain>РџРѕР№РґРё Рє С‡СѓР¶РёРј Рё РІРѕР·РІРµСЃС‚Рё</plain>
         </string>
         <string>
-            <plain>Им про любовь Христа,</plain>
+            <plain>РРј РїСЂРѕ Р»СЋР±РѕРІСЊ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Что Он за них пришёл страдать,</plain>
+            <plain>Р§С‚Рѕ РћРЅ Р·Р° РЅРёС… РїСЂРёС€С‘Р» СЃС‚СЂР°РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Им жизнь дать навсегда.</plain>
+            <plain>РРј Р¶РёР·РЅСЊ РґР°С‚СЊ РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Скажи и дальним о кресте,</plain>
+            <plain>РЎРєР°Р¶Рё Рё РґР°Р»СЊРЅРёРј Рѕ РєСЂРµСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Что кровь Христос пролил.</plain>
+            <plain>Р§С‚Рѕ РєСЂРѕРІСЊ РҐСЂРёСЃС‚РѕСЃ РїСЂРѕР»РёР».</plain>
         </string>
         <string>
-            <plain>За целый мир, чтоб всех спасти,</plain>
+            <plain>Р—Р° С†РµР»С‹Р№ РјРёСЂ, С‡С‚РѕР± РІСЃРµС… СЃРїР°СЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Он душу положил.</plain>
+            <plain>РћРЅ РґСѓС€Сѓ РїРѕР»РѕР¶РёР».</plain>
         </string>
     </verse>
 </psalm>

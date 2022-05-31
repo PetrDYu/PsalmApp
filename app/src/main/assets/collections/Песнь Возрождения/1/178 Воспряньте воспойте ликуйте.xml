@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="178" name="Воспряньте воспойте ликуйте" canon="false" text="" textRus="" music="">
+<psalm number="178" name="Р’РѕСЃРїСЂСЏРЅСЊС‚Рµ РІРѕСЃРїРѕР№С‚Рµ Р»РёРєСѓР№С‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Воспряньте, воспойте, ликуйте,</plain>
+            <plain>Р’РѕСЃРїСЂСЏРЅСЊС‚Рµ, РІРѕСЃРїРѕР№С‚Рµ, Р»РёРєСѓР№С‚Рµ,</plain>
         </string>
         <string>
-            <plain>Омытые кровью Христа!</plain>
+            <plain>РћРјС‹С‚С‹Рµ РєСЂРѕРІСЊСЋ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Вы новую песню воспойте</plain>
+            <plain>Р’С‹ РЅРѕРІСѓСЋ РїРµСЃРЅСЋ РІРѕСЃРїРѕР№С‚Рµ</plain>
         </string>
         <string>
-            <plain>Тому, Кто вас спас от греха.</plain>
+            <plain>РўРѕРјСѓ, РљС‚Рѕ РІР°СЃ СЃРїР°СЃ РѕС‚ РіСЂРµС…Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ликуйте! Ликуйте!</plain>
+            <plain>Р›РёРєСѓР№С‚Рµ! Р›РёРєСѓР№С‚Рµ!</plain>
         </string>
         <string>
-            <plain>Воспойте и славьте Христа!</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ Рё СЃР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Ликуйте! Ликуйте!</plain>
+            <plain>Р›РёРєСѓР№С‚Рµ! Р›РёРєСѓР№С‚Рµ!</plain>
         </string>
         <string>
-            <plain>Воспойте и славьте Христа!</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ Рё СЃР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Прославим Того, Кто на землю</plain>
+            <plain>РџСЂРѕСЃР»Р°РІРёРј РўРѕРіРѕ, РљС‚Рѕ РЅР° Р·РµРјР»СЋ</plain>
         </string>
         <string>
-            <plain>Сошел, чтобы нас оправдать,</plain>
+            <plain>РЎРѕС€РµР», С‡С‚РѕР±С‹ РЅР°СЃ РѕРїСЂР°РІРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Спасти нас ценой Своей крови</plain>
+            <plain>РЎРїР°СЃС‚Рё РЅР°СЃ С†РµРЅРѕР№ РЎРІРѕРµР№ РєСЂРѕРІРё</plain>
         </string>
         <string>
-            <plain>И счастье навеки нам дать.</plain>
+            <plain>Р СЃС‡Р°СЃС‚СЊРµ РЅР°РІРµРєРё РЅР°Рј РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он силу нам даст и победу,</plain>
+            <plain>РћРЅ СЃРёР»Сѓ РЅР°Рј РґР°СЃС‚ Рё РїРѕР±РµРґСѓ,</plain>
         </string>
         <string>
-            <plain>На битву с грехом укрепит,</plain>
+            <plain>РќР° Р±РёС‚РІСѓ СЃ РіСЂРµС…РѕРј СѓРєСЂРµРїРёС‚,</plain>
         </string>
         <string>
-            <plain>Любовью Своею поддержит</plain>
+            <plain>Р›СЋР±РѕРІСЊСЋ РЎРІРѕРµСЋ РїРѕРґРґРµСЂР¶РёС‚</plain>
         </string>
         <string>
-            <plain>И духом Своим утвердит.</plain>
+            <plain>Р РґСѓС…РѕРј РЎРІРѕРёРј СѓС‚РІРµСЂРґРёС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Воспойте со всеми святыми</plain>
+            <plain>Р’РѕСЃРїРѕР№С‚Рµ СЃРѕ РІСЃРµРјРё СЃРІСЏС‚С‹РјРё</plain>
         </string>
         <string>
-            <plain>Хвалебную песню Тому,</plain>
+            <plain>РҐРІР°Р»РµР±РЅСѓСЋ РїРµСЃРЅСЋ РўРѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Кто нас искупил Своей кровью,</plain>
+            <plain>РљС‚Рѕ РЅР°СЃ РёСЃРєСѓРїРёР» РЎРІРѕРµР№ РєСЂРѕРІСЊСЋ,</plain>
         </string>
         <string>
-            <plain>О, слава навеки Ему!</plain>
+            <plain>Рћ, СЃР»Р°РІР° РЅР°РІРµРєРё Р•РјСѓ!</plain>
         </string>
     </verse>
 </psalm>

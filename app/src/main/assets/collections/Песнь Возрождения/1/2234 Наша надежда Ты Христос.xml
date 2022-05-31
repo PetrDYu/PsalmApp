@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2234" name="Наша надежда Ты Христос" canon="false" text="" textRus="" music="">
+<psalm number="2234" name="РќР°С€Р° РЅР°РґРµР¶РґР° РўС‹ РҐСЂРёСЃС‚РѕСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Наша надежда - Ты, Христос.</plain>
+            <plain>РќР°С€Р° РЅР°РґРµР¶РґР° - РўС‹, РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
         <string>
-            <plain>Ты - наше счастье и мечты.</plain>
+            <plain>РўС‹ - РЅР°С€Рµ СЃС‡Р°СЃС‚СЊРµ Рё РјРµС‡С‚С‹.</plain>
         </string>
         <string>
-            <plain>Ты - наша радость, Ты - наша жизнь.</plain>
+            <plain>РўС‹ - РЅР°С€Р° СЂР°РґРѕСЃС‚СЊ, РўС‹ - РЅР°С€Р° Р¶РёР·РЅСЊ.</plain>
         </string>
         <string>
-            <plain>Ты счастье и мечты.</plain>
+            <plain>РўС‹ СЃС‡Р°СЃС‚СЊРµ Рё РјРµС‡С‚С‹.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>На Тебя мы уповаем,</plain>
+            <plain>РќР° РўРµР±СЏ РјС‹ СѓРїРѕРІР°РµРј,</plain>
         </string>
         <string>
-            <plain>на Тебя жизнь полагаем,</plain>
+            <plain>РЅР° РўРµР±СЏ Р¶РёР·РЅСЊ РїРѕР»Р°РіР°РµРј,</plain>
         </string>
         <string>
-            <plain>на Тебя взор устремляем</plain>
+            <plain>РЅР° РўРµР±СЏ РІР·РѕСЂ СѓСЃС‚СЂРµРјР»СЏРµРј</plain>
         </string>
         <string>
-            <plain>- ввысь к небесам.</plain>
+            <plain>- РІРІС‹СЃСЊ Рє РЅРµР±РµСЃР°Рј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты пострадал за нас - Христос.</plain>
+            <plain>РўС‹ РїРѕСЃС‚СЂР°РґР°Р» Р·Р° РЅР°СЃ - РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
         <string>
-            <plain>Ты на кресте пролил свою кровь.</plain>
+            <plain>РўС‹ РЅР° РєСЂРµСЃС‚Рµ РїСЂРѕР»РёР» СЃРІРѕСЋ РєСЂРѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Ты нам спасены ныне принёс.</plain>
+            <plain>РўС‹ РЅР°Рј СЃРїР°СЃРµРЅС‹ РЅС‹РЅРµ РїСЂРёРЅС‘СЃ.</plain>
         </string>
         <string>
-            <plain>Ты нас избавил от горя и слёз.</plain>
+            <plain>РўС‹ РЅР°СЃ РёР·Р±Р°РІРёР» РѕС‚ РіРѕСЂСЏ Рё СЃР»С‘Р·.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не в силах мы оценить ту любовь,</plain>
+            <plain>РќРµ РІ СЃРёР»Р°С… РјС‹ РѕС†РµРЅРёС‚СЊ С‚Сѓ Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>Которую Ты открыл для нас вновь.</plain>
+            <plain>РљРѕС‚РѕСЂСѓСЋ РўС‹ РѕС‚РєСЂС‹Р» РґР»СЏ РЅР°СЃ РІРЅРѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Ты с неба доброту, кротость принёс.</plain>
+            <plain>РўС‹ СЃ РЅРµР±Р° РґРѕР±СЂРѕС‚Сѓ, РєСЂРѕС‚РѕСЃС‚СЊ РїСЂРёРЅС‘СЃ.</plain>
         </string>
         <string>
-            <plain>Дай светлый разум понять это всё.</plain>
+            <plain>Р”Р°Р№ СЃРІРµС‚Р»С‹Р№ СЂР°Р·СѓРј РїРѕРЅСЏС‚СЊ СЌС‚Рѕ РІСЃС‘.</plain>
         </string>
     </verse>
 </psalm>

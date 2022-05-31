@@ -1,83 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="487" name="Вот ель в лесу как зелена" canon="false" text="" textRus="" music="">
+<psalm number="487" name="Р’РѕС‚ РµР»СЊ РІ Р»РµСЃСѓ РєР°Рє Р·РµР»РµРЅР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот ель в лесу: как зелена</plain>
+            <plain>Р’РѕС‚ РµР»СЊ РІ Р»РµСЃСѓ: РєР°Рє Р·РµР»РµРЅР°</plain>
         </string>
         <string>
-            <plain>И как она прекрасна!</plain>
+            <plain>Р РєР°Рє РѕРЅР° РїСЂРµРєСЂР°СЃРЅР°!</plain>
         </string>
         <string>
-            <plain>Но как прекраснее она,</plain>
+            <plain>РќРѕ РєР°Рє РїСЂРµРєСЂР°СЃРЅРµРµ РѕРЅР°,</plain>
         </string>
         <string>
-            <plain>Когда в дому, свечей полна,</plain>
+            <plain>РљРѕРіРґР° РІ РґРѕРјСѓ, СЃРІРµС‡РµР№ РїРѕР»РЅР°,</plain>
         </string>
         <string>
-            <plain>Она сияет ясно,</plain>
+            <plain>РћРЅР° СЃРёСЏРµС‚ СЏСЃРЅРѕ,</plain>
         </string>
         <string>
-            <plain>Она сияет ясно.</plain>
+            <plain>РћРЅР° СЃРёСЏРµС‚ СЏСЃРЅРѕ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>В одну из радостных ночей</plain>
+            <plain>Р’ РѕРґРЅСѓ РёР· СЂР°РґРѕСЃС‚РЅС‹С… РЅРѕС‡РµР№</plain>
         </string>
         <string>
-            <plain>Господь Иисус родился.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РРёСЃСѓСЃ СЂРѕРґРёР»СЃСЏ.</plain>
         </string>
         <string>
-            <plain>Он Тот, Кто искупил людей;</plain>
+            <plain>РћРЅ РўРѕС‚, РљС‚Рѕ РёСЃРєСѓРїРёР» Р»СЋРґРµР№;</plain>
         </string>
         <string>
-            <plain>Ведь без Него во тьме своей</plain>
+            <plain>Р’РµРґСЊ Р±РµР· РќРµРіРѕ РІРѕ С‚СЊРјРµ СЃРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Мир этот заблудился,</plain>
+            <plain>РњРёСЂ СЌС‚РѕС‚ Р·Р°Р±Р»СѓРґРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Мир этот заблудился.</plain>
+            <plain>РњРёСЂ СЌС‚РѕС‚ Р·Р°Р±Р»СѓРґРёР»СЃСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Для всех, кто верит во Христа,</plain>
+            <plain>Р”Р»СЏ РІСЃРµС…, РєС‚Рѕ РІРµСЂРёС‚ РІРѕ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>И ночью свет сияет.</plain>
+            <plain>Р РЅРѕС‡СЊСЋ СЃРІРµС‚ СЃРёСЏРµС‚.</plain>
         </string>
         <string>
-            <plain>А эта ночь для нас свята,</plain>
+            <plain>Рђ СЌС‚Р° РЅРѕС‡СЊ РґР»СЏ РЅР°СЃ СЃРІСЏС‚Р°,</plain>
         </string>
         <string>
-            <plain>Да будет радость всех чиста:</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ СЂР°РґРѕСЃС‚СЊ РІСЃРµС… С‡РёСЃС‚Р°:</plain>
         </string>
         <string>
-            <plain>Иисус здесь пребывает,</plain>
+            <plain>РРёСЃСѓСЃ Р·РґРµСЃСЊ РїСЂРµР±С‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Иисус здесь пребывает.</plain>
+            <plain>РРёСЃСѓСЃ Р·РґРµСЃСЊ РїСЂРµР±С‹РІР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Впусти Его, дитя, в свой дом:</plain>
+            <plain>Р’РїСѓСЃС‚Рё Р•РіРѕ, РґРёС‚СЏ, РІ СЃРІРѕР№ РґРѕРј:</plain>
         </string>
         <string>
-            <plain>Он в сердце обитает;</plain>
+            <plain>РћРЅ РІ СЃРµСЂРґС†Рµ РѕР±РёС‚Р°РµС‚;</plain>
         </string>
         <string>
-            <plain>Он сад устроить хочет в нем,</plain>
+            <plain>РћРЅ СЃР°Рґ СѓСЃС‚СЂРѕРёС‚СЊ С…РѕС‡РµС‚ РІ РЅРµРј,</plain>
         </string>
         <string>
-            <plain>Обогатить того плодом,</plain>
+            <plain>РћР±РѕРіР°С‚РёС‚СЊ С‚РѕРіРѕ РїР»РѕРґРѕРј,</plain>
         </string>
         <string>
-            <plain>Кто в дом Его впускает,</plain>
+            <plain>РљС‚Рѕ РІ РґРѕРј Р•РіРѕ РІРїСѓСЃРєР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Кто в дом Его впускает.</plain>
+            <plain>РљС‚Рѕ РІ РґРѕРј Р•РіРѕ РІРїСѓСЃРєР°РµС‚.</plain>
         </string>
     </verse>
 </psalm>

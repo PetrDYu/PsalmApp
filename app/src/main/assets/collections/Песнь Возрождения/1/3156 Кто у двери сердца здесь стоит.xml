@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3156" name="Кто у двери сердца здесь стоит" canon="false" text="" textRus="" music="">
+<psalm number="3156" name="РљС‚Рѕ Сѓ РґРІРµСЂРё СЃРµСЂРґС†Р° Р·РґРµСЃСЊ СЃС‚РѕРёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Кто у двери сердца здесь стоит?</plain>
+            <plain>РљС‚Рѕ Сѓ РґРІРµСЂРё СЃРµСЂРґС†Р° Р·РґРµСЃСЊ СЃС‚РѕРёС‚?</plain>
         </string>
         <string>
-            <plain>- О, впусти Христа!</plain>
+            <plain>- Рћ, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Ты не слышишь, как Он всё стучит:</plain>
+            <plain>РўС‹ РЅРµ СЃР»С‹С€РёС€СЊ, РєР°Рє РћРЅ РІСЃС‘ СЃС‚СѓС‡РёС‚:</plain>
         </string>
         <string>
-            <plain>«О, впусти Меня!»</plain>
+            <plain>В«Рћ, РІРїСѓСЃС‚Рё РњРµРЅСЏ!В»</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, впусти! О, впусти! Грешник,</plain>
+            <plain>Рћ, РІРїСѓСЃС‚Рё! Рћ, РІРїСѓСЃС‚Рё! Р“СЂРµС€РЅРёРє,</plain>
         </string>
         <string>
-            <plain>встань и впусти!</plain>
+            <plain>РІСЃС‚Р°РЅСЊ Рё РІРїСѓСЃС‚Рё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Верно ждать Он там не перестал,</plain>
+            <plain>Р’РµСЂРЅРѕ Р¶РґР°С‚СЊ РћРЅ С‚Р°Рј РЅРµ РїРµСЂРµСЃС‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>- о, впусти Христа!</plain>
+            <plain>- Рѕ, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>- хоть Его ты часто огорчал.</plain>
+            <plain>- С…РѕС‚СЊ Р•РіРѕ С‚С‹ С‡Р°СЃС‚Рѕ РѕРіРѕСЂС‡Р°Р».</plain>
         </string>
         <string>
-            <plain>О, впусти Христа!</plain>
+            <plain>Рћ, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>З Ты - в преддверии ада в смертный час.</plain>
+            <plain>Р— РўС‹ - РІ РїСЂРµРґРґРІРµСЂРёРё Р°РґР° РІ СЃРјРµСЂС‚РЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
         <string>
-            <plain>О, впусти Христа!</plain>
+            <plain>Рћ, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Он хранит тебя во всякий час. О</plain>
+            <plain>РћРЅ С…СЂР°РЅРёС‚ С‚РµР±СЏ РІРѕ РІСЃСЏРєРёР№ С‡Р°СЃ. Рћ</plain>
         </string>
         <string>
-            <plain>, впусти Христа!</plain>
+            <plain>, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вспомни же, как тяжко Он страдал,</plain>
+            <plain>Р’СЃРїРѕРјРЅРё Р¶Рµ, РєР°Рє С‚СЏР¶РєРѕ РћРЅ СЃС‚СЂР°РґР°Р»,</plain>
         </string>
         <string>
-            <plain>- о, впусти Христа!</plain>
+            <plain>- Рѕ, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>И свою ты совесть заглушал.</plain>
+            <plain>Р СЃРІРѕСЋ С‚С‹ СЃРѕРІРµСЃС‚СЊ Р·Р°РіР»СѓС€Р°Р».</plain>
         </string>
         <string>
-            <plain>О, впусти Христа!</plain>
+            <plain>Рћ, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, открой Ему ты сердца дверь</plain>
+            <plain>Рћ, РѕС‚РєСЂРѕР№ Р•РјСѓ С‚С‹ СЃРµСЂРґС†Р° РґРІРµСЂСЊ</plain>
         </string>
         <string>
-            <plain>и впусти Христа!</plain>
+            <plain>Рё РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Не гони Его, открой теперь,</plain>
+            <plain>РќРµ РіРѕРЅРё Р•РіРѕ, РѕС‚РєСЂРѕР№ С‚РµРїРµСЂСЊ,</plain>
         </string>
         <string>
-            <plain>о, впусти Христа!</plain>
+            <plain>Рѕ, РІРїСѓСЃС‚Рё РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если сердце жёстко как скала,</plain>
+            <plain>Р•СЃР»Рё СЃРµСЂРґС†Рµ Р¶С‘СЃС‚РєРѕ РєР°Рє СЃРєР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>ты моли Христа:</plain>
+            <plain>С‚С‹ РјРѕР»Рё РҐСЂРёСЃС‚Р°:</plain>
         </string>
         <string>
-            <plain>«Сделай мягким Ты, Господь, меня</plain>
+            <plain>В«РЎРґРµР»Р°Р№ РјСЏРіРєРёРј РўС‹, Р“РѕСЃРїРѕРґСЊ, РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>- я впустил Тебя!»</plain>
+            <plain>- СЏ РІРїСѓСЃС‚РёР» РўРµР±СЏ!В»</plain>
         </string>
     </verse>
 </psalm>

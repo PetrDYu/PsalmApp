@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1334" name="Веришь слову Божью ты" canon="false" text="" textRus="" music="">
+<psalm number="1334" name="Р’РµСЂРёС€СЊ СЃР»РѕРІСѓ Р‘РѕР¶СЊСЋ С‚С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Веришь слову Божью ты?</plain>
+            <plain>Р’РµСЂРёС€СЊ СЃР»РѕРІСѓ Р‘РѕР¶СЊСЋ С‚С‹?</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Сбрось оковы суеты,</plain>
+            <plain>РЎР±СЂРѕСЃСЊ РѕРєРѕРІС‹ СЃСѓРµС‚С‹,</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Так взывает благодать:</plain>
+            <plain>РўР°Рє РІР·С‹РІР°РµС‚ Р±Р»Р°РіРѕРґР°С‚СЊ:</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Хочет Бог тебя принять,</plain>
+            <plain>РҐРѕС‡РµС‚ Р‘РѕРі С‚РµР±СЏ РїСЂРёРЅСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу.</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, мой друг! О, мой друг!</plain>
+            <plain>Рћ, РјРѕР№ РґСЂСѓРі! Рћ, РјРѕР№ РґСЂСѓРі!</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу.</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ.</plain>
         </string>
         <string>
-            <plain>Снимет Он с души недуг.</plain>
+            <plain>РЎРЅРёРјРµС‚ РћРЅ СЃ РґСѓС€Рё РЅРµРґСѓРі.</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу.</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ.</plain>
         </string>
         <string>
-            <plain>Полн ли духом нищеты?</plain>
+            <plain>РџРѕР»РЅ Р»Рё РґСѓС…РѕРј РЅРёС‰РµС‚С‹?</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Вот Его любовь гласит:</plain>
+            <plain>Р’РѕС‚ Р•РіРѕ Р»СЋР±РѕРІСЊ РіР»Р°СЃРёС‚:</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Он тебе лишь верный щит;</plain>
+            <plain>РћРЅ С‚РµР±Рµ Р»РёС€СЊ РІРµСЂРЅС‹Р№ С‰РёС‚;</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хочешь сбросить грешный страх?</plain>
+            <plain>РҐРѕС‡РµС€СЊ СЃР±СЂРѕСЃРёС‚СЊ РіСЂРµС€РЅС‹Р№ СЃС‚СЂР°С…?</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Хочешь быть ты в небесах?</plain>
+            <plain>РҐРѕС‡РµС€СЊ Р±С‹С‚СЊ С‚С‹ РІ РЅРµР±РµСЃР°С…?</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Призывает Дух Святой:</plain>
+            <plain>РџСЂРёР·С‹РІР°РµС‚ Р”СѓС… РЎРІСЏС‚РѕР№:</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
         <string>
-            <plain>Он тебя введет в покой!</plain>
+            <plain>РћРЅ С‚РµР±СЏ РІРІРµРґРµС‚ РІ РїРѕРєРѕР№!</plain>
         </string>
         <string>
-            <plain>Поспеши к Иисусу!</plain>
+            <plain>РџРѕСЃРїРµС€Рё Рє РРёСЃСѓСЃСѓ!</plain>
         </string>
     </verse>
 </psalm>

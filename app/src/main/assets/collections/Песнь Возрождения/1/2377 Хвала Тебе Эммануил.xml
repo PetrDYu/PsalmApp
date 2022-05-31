@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2377" name="Хвала Тебе Эммануил" canon="false" text="" textRus="" music="">
+<psalm number="2377" name="РҐРІР°Р»Р° РўРµР±Рµ Р­РјРјР°РЅСѓРёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хвала Тебе, Эммануил,</plain>
+            <plain>РҐРІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»,</plain>
         </string>
         <string>
-            <plain>Падём мы пред Тобою.</plain>
+            <plain>РџР°РґС‘Рј РјС‹ РїСЂРµРґ РўРѕР±РѕСЋ.</plain>
         </string>
         <string>
-            <plain>Ты наши все грехи простил,</plain>
+            <plain>РўС‹ РЅР°С€Рё РІСЃРµ РіСЂРµС…Рё РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Загладив их Собою.</plain>
+            <plain>Р—Р°РіР»Р°РґРёРІ РёС… РЎРѕР±РѕСЋ.</plain>
         </string>
         <string>
-            <plain>Мы славим подвиг Твой в мольбе,</plain>
+            <plain>РњС‹ СЃР»Р°РІРёРј РїРѕРґРІРёРі РўРІРѕР№ РІ РјРѕР»СЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>все небеса поют Тебе,</plain>
+            <plain>РІСЃРµ РЅРµР±РµСЃР° РїРѕСЋС‚ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Ведь жизнью Ты смерть победил.</plain>
+            <plain>Р’РµРґСЊ Р¶РёР·РЅСЊСЋ РўС‹ СЃРјРµСЂС‚СЊ РїРѕР±РµРґРёР».</plain>
         </string>
         <string>
-            <plain>Хвала, хвала, хвала Тебе, Эммануил!</plain>
+            <plain>РҐРІР°Р»Р°, С…РІР°Р»Р°, С…РІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Твоём Ныне и вовек!</plain>
+            <plain>РўРІРѕС‘Рј РќС‹РЅРµ Рё РІРѕРІРµРє!</plain>
         </string>
         <string>
-            <plain>О, Эммануил! Эммануил!</plain>
+            <plain>Рћ, Р­РјРјР°РЅСѓРёР»! Р­РјРјР°РЅСѓРёР»!</plain>
         </string>
         <string>
-            <plain>Хвала Тебе, Эммануил!</plain>
+            <plain>РҐРІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»!</plain>
         </string>
         <string>
-            <plain>О, Эммануил! Хвала Тебе, Эммануил!</plain>
+            <plain>Рћ, Р­РјРјР°РЅСѓРёР»! РҐРІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»!</plain>
         </string>
         <string>
-            <plain>О, Эммануил, Царь царей,</plain>
+            <plain>Рћ, Р­РјРјР°РЅСѓРёР», Р¦Р°СЂСЊ С†Р°СЂРµР№,</plain>
         </string>
         <string>
-            <plain>Господь господ, хвала, Эммануил!</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РіРѕСЃРїРѕРґ, С…РІР°Р»Р°, Р­РјРјР°РЅСѓРёР»!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хвала Тебе, Эммануил,</plain>
+            <plain>РҐРІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»,</plain>
         </string>
         <string>
-            <plain>Тебя тьмы окружают,</plain>
+            <plain>РўРµР±СЏ С‚СЊРјС‹ РѕРєСЂСѓР¶Р°СЋС‚,</plain>
         </string>
         <string>
-            <plain>Кого Ты кровью искупил,</plain>
+            <plain>РљРѕРіРѕ РўС‹ РєСЂРѕРІСЊСЋ РёСЃРєСѓРїРёР»,</plain>
         </string>
         <string>
-            <plain>Тебя Царём венчают.</plain>
+            <plain>РўРµР±СЏ Р¦Р°СЂС‘Рј РІРµРЅС‡Р°СЋС‚.</plain>
         </string>
         <string>
-            <plain>Сошлись они со всех веков,</plain>
+            <plain>РЎРѕС€Р»РёСЃСЊ РѕРЅРё СЃРѕ РІСЃРµС… РІРµРєРѕРІ,</plain>
         </string>
         <string>
-            <plain>Избавленные от грехов,</plain>
+            <plain>РР·Р±Р°РІР»РµРЅРЅС‹Рµ РѕС‚ РіСЂРµС…РѕРІ,</plain>
         </string>
         <string>
-            <plain>И благодать Ты им явил.</plain>
+            <plain>Р Р±Р»Р°РіРѕРґР°С‚СЊ РўС‹ РёРј СЏРІРёР».</plain>
         </string>
         <string>
-            <plain>Хвала, хвала! Хвала Тебе, Эммануил!</plain>
+            <plain>РҐРІР°Р»Р°, С…РІР°Р»Р°! РҐРІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хвала Тебе, Эммануил,</plain>
+            <plain>РҐРІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»,</plain>
         </string>
         <string>
-            <plain>Воскресший наш Спаситель.</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃС€РёР№ РЅР°С€ РЎРїР°СЃРёС‚РµР»СЊ.</plain>
         </string>
         <string>
-            <plain>Ты всех врагов Своих сразил,</plain>
+            <plain>РўС‹ РІСЃРµС… РІСЂР°РіРѕРІ РЎРІРѕРёС… СЃСЂР°Р·РёР»,</plain>
         </string>
         <string>
-            <plain>Предвечный Победитель.</plain>
+            <plain>РџСЂРµРґРІРµС‡РЅС‹Р№ РџРѕР±РµРґРёС‚РµР»СЊ.</plain>
         </string>
         <string>
-            <plain>Грехи земли поверг во прах,</plain>
+            <plain>Р“СЂРµС…Рё Р·РµРјР»Рё РїРѕРІРµСЂРі РІРѕ РїСЂР°С…,</plain>
         </string>
         <string>
-            <plain>Могилы ключ держишь в руках</plain>
+            <plain>РњРѕРіРёР»С‹ РєР»СЋС‡ РґРµСЂР¶РёС€СЊ РІ СЂСѓРєР°С…</plain>
         </string>
         <string>
-            <plain>И жизнь нам, смертным, подарил.</plain>
+            <plain>Р Р¶РёР·РЅСЊ РЅР°Рј, СЃРјРµСЂС‚РЅС‹Рј, РїРѕРґР°СЂРёР».</plain>
         </string>
         <string>
-            <plain>Хвала, хвала! Хвала Тебе, Эммануил!</plain>
+            <plain>РҐРІР°Р»Р°, С…РІР°Р»Р°! РҐРІР°Р»Р° РўРµР±Рµ, Р­РјРјР°РЅСѓРёР»!</plain>
         </string>
     </verse>
 </psalm>

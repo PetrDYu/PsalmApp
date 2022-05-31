@@ -1,121 +1,121 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="204" name="Крепко люблю я Иисус Тебя" canon="false" text="" textRus="" music="">
+<psalm number="204" name="РљСЂРµРїРєРѕ Р»СЋР±Р»СЋ СЏ РРёСЃСѓСЃ РўРµР±СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Крепко люблю я,</plain>
+            <plain>РљСЂРµРїРєРѕ Р»СЋР±Р»СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>Иисус, Тебя!</plain>
+            <plain>РРёСЃСѓСЃ, РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Жизни дороже</plain>
+            <plain>Р–РёР·РЅРё РґРѕСЂРѕР¶Рµ</plain>
         </string>
         <string>
-            <plain>Ты для меня,</plain>
+            <plain>РўС‹ РґР»СЏ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Нежно припал я</plain>
+            <plain>РќРµР¶РЅРѕ РїСЂРёРїР°Р» СЏ</plain>
         </string>
         <string>
-            <plain>К груди святой;</plain>
+            <plain>Рљ РіСЂСѓРґРё СЃРІСЏС‚РѕР№;</plain>
         </string>
         <string>
-            <plain>Там мир нашел я,</plain>
+            <plain>РўР°Рј РјРёСЂ РЅР°С€РµР» СЏ,</plain>
         </string>
         <string>
-            <plain>Там мой покой.</plain>
+            <plain>РўР°Рј РјРѕР№ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, люблю я</plain>
+            <plain>РРёСЃСѓСЃ, Р»СЋР±Р»СЋ СЏ</plain>
         </string>
         <string>
-            <plain>Крепко Тебя;</plain>
+            <plain>РљСЂРµРїРєРѕ РўРµР±СЏ;</plain>
         </string>
         <string>
-            <plain>Жизни дороже</plain>
+            <plain>Р–РёР·РЅРё РґРѕСЂРѕР¶Рµ</plain>
         </string>
         <string>
-            <plain>Ты для меня.</plain>
+            <plain>РўС‹ РґР»СЏ РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Крепко люблю я,</plain>
+            <plain>РљСЂРµРїРєРѕ Р»СЋР±Р»СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>Иисус, Тебя!</plain>
+            <plain>РРёСЃСѓСЃ, РўРµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Крепче же дружбы</plain>
+            <plain>РљСЂРµРїС‡Рµ Р¶Рµ РґСЂСѓР¶Р±С‹</plain>
         </string>
         <string>
-            <plain>Нет, как Твоя.</plain>
+            <plain>РќРµС‚, РєР°Рє РўРІРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Полн состраданья,</plain>
+            <plain>РџРѕР»РЅ СЃРѕСЃС‚СЂР°РґР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Миром светя,</plain>
+            <plain>РњРёСЂРѕРј СЃРІРµС‚СЏ,</plain>
         </string>
         <string>
-            <plain>Ты мой Отец,</plain>
+            <plain>РўС‹ РјРѕР№ РћС‚РµС†,</plain>
         </string>
         <string>
-            <plain>Ведь Я же дитя.</plain>
+            <plain>Р’РµРґСЊ РЇ Р¶Рµ РґРёС‚СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты ведь простишь мне,</plain>
+            <plain>РўС‹ РІРµРґСЊ РїСЂРѕСЃС‚РёС€СЊ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Если споткнусь;</plain>
+            <plain>Р•СЃР»Рё СЃРїРѕС‚РєРЅСѓСЃСЊ;</plain>
         </string>
         <string>
-            <plain>Ты утешенье,</plain>
+            <plain>РўС‹ СѓС‚РµС€РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Гимн мой - Иисус,</plain>
+            <plain>Р“РёРјРЅ РјРѕР№ - РРёСЃСѓСЃ,</plain>
         </string>
         <string>
-            <plain>Мой Искупитель –</plain>
+            <plain>РњРѕР№ РСЃРєСѓРїРёС‚РµР»СЊ вЂ“</plain>
         </string>
         <string>
-            <plain>Друг неземной;</plain>
+            <plain>Р”СЂСѓРі РЅРµР·РµРјРЅРѕР№;</plain>
         </string>
         <string>
-            <plain>Ближе к Тебе Сам</plain>
+            <plain>Р‘Р»РёР¶Рµ Рє РўРµР±Рµ РЎР°Рј</plain>
         </string>
         <string>
-            <plain>Сделай дух мой.</plain>
+            <plain>РЎРґРµР»Р°Р№ РґСѓС… РјРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Дух Твой люблю я</plain>
+            <plain>Р”СѓС… РўРІРѕР№ Р»СЋР±Р»СЋ СЏ</plain>
         </string>
         <string>
-            <plain>Сердцем, умом;</plain>
+            <plain>РЎРµСЂРґС†РµРј, СѓРјРѕРј;</plain>
         </string>
         <string>
-            <plain>Дух мой смирился,</plain>
+            <plain>Р”СѓС… РјРѕР№ СЃРјРёСЂРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Будь мне Царем!</plain>
+            <plain>Р‘СѓРґСЊ РјРЅРµ Р¦Р°СЂРµРј!</plain>
         </string>
         <string>
-            <plain>Дух Твой люблю я,</plain>
+            <plain>Р”СѓС… РўРІРѕР№ Р»СЋР±Р»СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>Вечно Ты - мой;</plain>
+            <plain>Р’РµС‡РЅРѕ РўС‹ - РјРѕР№;</plain>
         </string>
         <string>
-            <plain>В жизни иль смерти</plain>
+            <plain>Р’ Р¶РёР·РЅРё РёР»СЊ СЃРјРµСЂС‚Рё</plain>
         </string>
         <string>
-            <plain>Духом я Твой.</plain>
+            <plain>Р”СѓС…РѕРј СЏ РўРІРѕР№.</plain>
         </string>
     </verse>
 </psalm>

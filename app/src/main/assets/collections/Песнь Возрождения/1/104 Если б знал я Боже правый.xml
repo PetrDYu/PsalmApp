@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="104" name="Если б знал я Боже правый" canon="false" text="" textRus="" music="">
+<psalm number="104" name="Р•СЃР»Рё Р± Р·РЅР°Р» СЏ Р‘РѕР¶Рµ РїСЂР°РІС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если б знал я, Боже правый,</plain>
+            <plain>Р•СЃР»Рё Р± Р·РЅР°Р» СЏ, Р‘РѕР¶Рµ РїСЂР°РІС‹Р№,</plain>
         </string>
         <string>
-            <plain>Что на небе любишь</plain>
+            <plain>Р§С‚Рѕ РЅР° РЅРµР±Рµ Р»СЋР±РёС€СЊ</plain>
         </string>
         <string>
-            <plain>Ты Ангелов, питомцев славы,</plain>
+            <plain>РўС‹ РђРЅРіРµР»РѕРІ, РїРёС‚РѕРјС†РµРІ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Духов вечной чистоты, -</plain>
+            <plain>Р”СѓС…РѕРІ РІРµС‡РЅРѕР№ С‡РёСЃС‚РѕС‚С‹, -</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я б то мыслью постигал,</plain>
+            <plain>РЇ Р± С‚Рѕ РјС‹СЃР»СЊСЋ РїРѕСЃС‚РёРіР°Р»,</plain>
         </string>
         <string>
-            <plain>Я бы сердцем песнь слагал,</plain>
+            <plain>РЇ Р±С‹ СЃРµСЂРґС†РµРј РїРµСЃРЅСЊ СЃР»Р°РіР°Р»,</plain>
         </string>
         <string>
-            <plain>Я бы сердцем Богу правды</plain>
+            <plain>РЇ Р±С‹ СЃРµСЂРґС†РµРј Р‘РѕРіСѓ РїСЂР°РІРґС‹</plain>
         </string>
         <string>
-            <plain>Песнь слагал, да, песнь слагал.</plain>
+            <plain>РџРµСЃРЅСЊ СЃР»Р°РіР°Р», РґР°, РїРµСЃРЅСЊ СЃР»Р°РіР°Р».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если б знал я, правый Боже,</plain>
+            <plain>Р•СЃР»Рё Р± Р·РЅР°Р» СЏ, РїСЂР°РІС‹Р№ Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Что Ты любишь только тех,</plain>
+            <plain>Р§С‚Рѕ РўС‹ Р»СЋР±РёС€СЊ С‚РѕР»СЊРєРѕ С‚РµС…,</plain>
         </string>
         <string>
-            <plain>Кто на образ Твой похожи</plain>
+            <plain>РљС‚Рѕ РЅР° РѕР±СЂР°Р· РўРІРѕР№ РїРѕС…РѕР¶Рё</plain>
         </string>
         <string>
-            <plain>И кого не тронул грех, -</plain>
+            <plain>Р РєРѕРіРѕ РЅРµ С‚СЂРѕРЅСѓР» РіСЂРµС…, -</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но когда я слышу повесть,</plain>
+            <plain>РќРѕ РєРѕРіРґР° СЏ СЃР»С‹С€Сѓ РїРѕРІРµСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Что Ты любишь и меня,</plain>
+            <plain>Р§С‚Рѕ РўС‹ Р»СЋР±РёС€СЊ Рё РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Кто грешил, поправши совесть,</plain>
+            <plain>РљС‚Рѕ РіСЂРµС€РёР», РїРѕРїСЂР°РІС€Рё СЃРѕРІРµСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Образ Твой в себе казня, -</plain>
+            <plain>РћР±СЂР°Р· РўРІРѕР№ РІ СЃРµР±Рµ РєР°Р·РЅСЏ, -</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Не могу я постигать,</plain>
+            <plain>РќРµ РјРѕРіСѓ СЏ РїРѕСЃС‚РёРіР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Но хочу я песнь слагать;</plain>
+            <plain>РќРѕ С…РѕС‡Сѓ СЏ РїРµСЃРЅСЊ СЃР»Р°РіР°С‚СЊ;</plain>
         </string>
         <string>
-            <plain>Господу любви хочу я</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ Р»СЋР±РІРё С…РѕС‡Сѓ СЏ</plain>
         </string>
         <string>
-            <plain>Песнь слагать, да, песнь слагать.</plain>
+            <plain>РџРµСЃРЅСЊ СЃР»Р°РіР°С‚СЊ, РґР°, РїРµСЃРЅСЊ СЃР»Р°РіР°С‚СЊ.</plain>
         </string>
     </chorus>
 </psalm>

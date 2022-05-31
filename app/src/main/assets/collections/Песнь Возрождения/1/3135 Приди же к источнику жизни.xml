@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3135" name="Приди же к источнику жизни" canon="false" text="" textRus="" music="">
+<psalm number="3135" name="РџСЂРёРґРё Р¶Рµ Рє РёСЃС‚РѕС‡РЅРёРєСѓ Р¶РёР·РЅРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Приди же к источнику жизни,</plain>
+            <plain>РџСЂРёРґРё Р¶Рµ Рє РёСЃС‚РѕС‡РЅРёРєСѓ Р¶РёР·РЅРё,</plain>
         </string>
         <string>
-            <plain>открытому ныне для всех!</plain>
+            <plain>РѕС‚РєСЂС‹С‚РѕРјСѓ РЅС‹РЅРµ РґР»СЏ РІСЃРµС…!</plain>
         </string>
         <string>
-            <plain>Очистит он всех, кто в смирении</plain>
+            <plain>РћС‡РёСЃС‚РёС‚ РѕРЅ РІСЃРµС…, РєС‚Рѕ РІ СЃРјРёСЂРµРЅРёРё</plain>
         </string>
         <string>
-            <plain>в него погружает свой грех.</plain>
+            <plain>РІ РЅРµРіРѕ РїРѕРіСЂСѓР¶Р°РµС‚ СЃРІРѕР№ РіСЂРµС….</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О грешник, приди,</plain>
+            <plain>Рћ РіСЂРµС€РЅРёРє, РїСЂРёРґРё,</plain>
         </string>
         <string>
-            <plain>хоть ноша твоя тяжела.</plain>
+            <plain>С…РѕС‚СЊ РЅРѕС€Р° С‚РІРѕСЏ С‚СЏР¶РµР»Р°.</plain>
         </string>
         <string>
-            <plain>Омойся в крови,</plain>
+            <plain>РћРјРѕР№СЃСЏ РІ РєСЂРѕРІРё,</plain>
         </string>
         <string>
-            <plain>текущей с креста:</plain>
+            <plain>С‚РµРєСѓС‰РµР№ СЃ РєСЂРµСЃС‚Р°:</plain>
         </string>
         <string>
-            <plain>источник открыт для тебя!</plain>
+            <plain>РёСЃС‚РѕС‡РЅРёРє РѕС‚РєСЂС‹С‚ РґР»СЏ С‚РµР±СЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хоть сердце страдает безмерно,</plain>
+            <plain>РҐРѕС‚СЊ СЃРµСЂРґС†Рµ СЃС‚СЂР°РґР°РµС‚ Р±РµР·РјРµСЂРЅРѕ,</plain>
         </string>
         <string>
-            <plain>и стал словно пурпур твой грех,</plain>
+            <plain>Рё СЃС‚Р°Р» СЃР»РѕРІРЅРѕ РїСѓСЂРїСѓСЂ С‚РІРѕР№ РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>приди же к источнику с верой,</plain>
+            <plain>РїСЂРёРґРё Р¶Рµ Рє РёСЃС‚РѕС‡РЅРёРєСѓ СЃ РІРµСЂРѕР№,</plain>
         </string>
         <string>
-            <plain>и станешь белее чем снег.</plain>
+            <plain>Рё СЃС‚Р°РЅРµС€СЊ Р±РµР»РµРµ С‡РµРј СЃРЅРµРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Иисус, за тебя пострадавший,</plain>
+            <plain>РРёСЃСѓСЃ, Р·Р° С‚РµР±СЏ РїРѕСЃС‚СЂР°РґР°РІС€РёР№,</plain>
         </string>
         <string>
-            <plain>принёс избавленье тебе.</plain>
+            <plain>РїСЂРёРЅС‘СЃ РёР·Р±Р°РІР»РµРЅСЊРµ С‚РµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Он, мир и прощение давший,</plain>
+            <plain>РћРЅ, РјРёСЂ Рё РїСЂРѕС‰РµРЅРёРµ РґР°РІС€РёР№,</plain>
         </string>
         <string>
-            <plain>спасенье свершил на кресте.</plain>
+            <plain>СЃРїР°СЃРµРЅСЊРµ СЃРІРµСЂС€РёР» РЅР° РєСЂРµСЃС‚Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Приди же, душа дорогая,</plain>
+            <plain>РџСЂРёРґРё Р¶Рµ, РґСѓС€Р° РґРѕСЂРѕРіР°СЏ,</plain>
         </string>
         <string>
-            <plain>в источник спасенья войди.</plain>
+            <plain>РІ РёСЃС‚РѕС‡РЅРёРє СЃРїР°СЃРµРЅСЊСЏ РІРѕР№РґРё.</plain>
         </string>
         <string>
-            <plain>Верь в силу крови Иисуса,</plain>
+            <plain>Р’РµСЂСЊ РІ СЃРёР»Сѓ РєСЂРѕРІРё РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>- омыт от греха будешь ты!</plain>
+            <plain>- РѕРјС‹С‚ РѕС‚ РіСЂРµС…Р° Р±СѓРґРµС€СЊ С‚С‹!</plain>
         </string>
     </verse>
 </psalm>

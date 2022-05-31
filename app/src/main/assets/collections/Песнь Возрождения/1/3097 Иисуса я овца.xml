@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3097" name="Иисуса я овца" canon="false" text="" textRus="" music="">
+<psalm number="3097" name="РРёСЃСѓСЃР° СЏ РѕРІС†Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисуса я овца,</plain>
+            <plain>РРёСЃСѓСЃР° СЏ РѕРІС†Р°,</plain>
         </string>
         <string>
-            <plain>радуюсь я в Нем всегда:</plain>
+            <plain>СЂР°РґСѓСЋСЃСЊ СЏ РІ РќРµРј РІСЃРµРіРґР°:</plain>
         </string>
         <string>
-            <plain>верно Он хранит</plain>
+            <plain>РІРµСЂРЅРѕ РћРЅ С…СЂР°РЅРёС‚</plain>
         </string>
         <string>
-            <plain>меня, Свою овцу.</plain>
+            <plain>РјРµРЅСЏ, РЎРІРѕСЋ РѕРІС†Сѓ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисуса я овца,</plain>
+            <plain>РРёСЃСѓСЃР° СЏ РѕРІС†Р°,</plain>
         </string>
         <string>
-            <plain>радуюсь я в Нем всегда:</plain>
+            <plain>СЂР°РґСѓСЋСЃСЊ СЏ РІ РќРµРј РІСЃРµРіРґР°:</plain>
         </string>
         <string>
-            <plain>верно Он хранит</plain>
+            <plain>РІРµСЂРЅРѕ РћРЅ С…СЂР°РЅРёС‚</plain>
         </string>
         <string>
-            <plain>меня, Свою овцу.</plain>
+            <plain>РјРµРЅСЏ, РЎРІРѕСЋ РѕРІС†Сѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>С Ним на верно я пути,</plain>
+            <plain>РЎ РќРёРј РЅР° РІРµСЂРЅРѕ СЏ РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>лишь за Ним хочу идти,</plain>
+            <plain>Р»РёС€СЊ Р·Р° РќРёРј С…РѕС‡Сѓ РёРґС‚Рё,</plain>
         </string>
         <string>
-            <plain>и вперед стремлюся</plain>
+            <plain>Рё РІРїРµСЂРµРґ СЃС‚СЂРµРјР»СЋСЃСЏ</plain>
         </string>
         <string>
-            <plain>я - Его овца.</plain>
+            <plain>СЏ - Р•РіРѕ РѕРІС†Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я не заблужусь нигде,</plain>
+            <plain>РЇ РЅРµ Р·Р°Р±Р»СѓР¶СѓСЃСЊ РЅРёРіРґРµ,</plain>
         </string>
         <string>
-            <plain>свет Его сияет мне;</plain>
+            <plain>СЃРІРµС‚ Р•РіРѕ СЃРёСЏРµС‚ РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>и не бросит Он</plain>
+            <plain>Рё РЅРµ Р±СЂРѕСЃРёС‚ РћРЅ</plain>
         </string>
         <string>
-            <plain>в беде Свою овцу.</plain>
+            <plain>РІ Р±РµРґРµ РЎРІРѕСЋ РѕРІС†Сѓ.</plain>
         </string>
     </verse>
 </psalm>

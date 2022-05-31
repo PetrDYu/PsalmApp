@@ -1,104 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1061" name="Чудный чертог виден вдали" canon="false" text="" textRus="" music="">
+<psalm number="1061" name="Р§СѓРґРЅС‹Р№ С‡РµСЂС‚РѕРі РІРёРґРµРЅ РІРґР°Р»Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Чудный чертог виден вдали.</plain>
+            <plain>Р§СѓРґРЅС‹Р№ С‡РµСЂС‚РѕРі РІРёРґРµРЅ РІРґР°Р»Рё.</plain>
         </string>
         <string>
-            <plain>По морю бурному плывет ладья</plain>
+            <plain>РџРѕ РјРѕСЂСЋ Р±СѓСЂРЅРѕРјСѓ РїР»С‹РІРµС‚ Р»Р°РґСЊСЏ</plain>
         </string>
         <string>
-            <plain>К тем берегам. Там хорошо.</plain>
+            <plain>Рљ С‚РµРј Р±РµСЂРµРіР°Рј. РўР°Рј С…РѕСЂРѕС€Рѕ.</plain>
         </string>
         <string>
-            <plain>Светлая Отчизна нас там ждет.</plain>
+            <plain>РЎРІРµС‚Р»Р°СЏ РћС‚С‡РёР·РЅР° РЅР°СЃ С‚Р°Рј Р¶РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Иди в ладью и поплывем</plain>
+            <plain>РРґРё РІ Р»Р°РґСЊСЋ Рё РїРѕРїР»С‹РІРµРј</plain>
         </string>
         <string>
-            <plain>Туда, где счастье и покой.</plain>
+            <plain>РўСѓРґР°, РіРґРµ СЃС‡Р°СЃС‚СЊРµ Рё РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Умолкнет буря, стихнет гул,</plain>
+            <plain>РЈРјРѕР»РєРЅРµС‚ Р±СѓСЂСЏ, СЃС‚РёС…РЅРµС‚ РіСѓР»,</plain>
         </string>
         <string>
-            <plain>И в сердце песня зазвучит.</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ РїРµСЃРЅСЏ Р·Р°Р·РІСѓС‡РёС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Там, впереди, нас братья ждут,</plain>
+            <plain>РўР°Рј, РІРїРµСЂРµРґРё, РЅР°СЃ Р±СЂР°С‚СЊСЏ Р¶РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Немного бед, недолог путь.</plain>
+            <plain>РќРµРјРЅРѕРіРѕ Р±РµРґ, РЅРµРґРѕР»РѕРі РїСѓС‚СЊ.</plain>
         </string>
         <string>
-            <plain>И скоро мы войдем в чертог,</plain>
+            <plain>Р СЃРєРѕСЂРѕ РјС‹ РІРѕР№РґРµРј РІ С‡РµСЂС‚РѕРі,</plain>
         </string>
         <string>
-            <plain>Уж видны наши берега!</plain>
+            <plain>РЈР¶ РІРёРґРЅС‹ РЅР°С€Рё Р±РµСЂРµРіР°!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бури там нет, и море не бушует,</plain>
+            <plain>Р‘СѓСЂРё С‚Р°Рј РЅРµС‚, Рё РјРѕСЂРµ РЅРµ Р±СѓС€СѓРµС‚,</plain>
         </string>
         <string>
-            <plain>Горе и плач там каждый позабудет.</plain>
+            <plain>Р“РѕСЂРµ Рё РїР»Р°С‡ С‚Р°Рј РєР°Р¶РґС‹Р№ РїРѕР·Р°Р±СѓРґРµС‚.</plain>
         </string>
         <string>
-            <plain>Радуйтесь: все мы скоро будем там.</plain>
+            <plain>Р Р°РґСѓР№С‚РµСЃСЊ: РІСЃРµ РјС‹ СЃРєРѕСЂРѕ Р±СѓРґРµРј С‚Р°Рј.</plain>
         </string>
         <string>
-            <plain>Виден чертог, мы скоро будем там!</plain>
+            <plain>Р’РёРґРµРЅ С‡РµСЂС‚РѕРі, РјС‹ СЃРєРѕСЂРѕ Р±СѓРґРµРј С‚Р°Рј!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>В море житейском плывет ладья,</plain>
+            <plain>Р’ РјРѕСЂРµ Р¶РёС‚РµР№СЃРєРѕРј РїР»С‹РІРµС‚ Р»Р°РґСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Волны кругом шумят.</plain>
+            <plain>Р’РѕР»РЅС‹ РєСЂСѓРіРѕРј С€СѓРјСЏС‚.</plain>
         </string>
         <string>
-            <plain>Вот ураган все грозней ревет,</plain>
+            <plain>Р’РѕС‚ СѓСЂР°РіР°РЅ РІСЃРµ РіСЂРѕР·РЅРµР№ СЂРµРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Радостно дух поет.</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ РґСѓС… РїРѕРµС‚.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Знаем: Спаситель наш между нас,</plain>
+            <plain>Р—РЅР°РµРј: РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€ РјРµР¶РґСѓ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>И нам погибнуть Он здесь не даст!</plain>
+            <plain>Р РЅР°Рј РїРѕРіРёР±РЅСѓС‚СЊ РћРЅ Р·РґРµСЃСЊ РЅРµ РґР°СЃС‚!</plain>
         </string>
         <string>
-            <plain>Море шумит, страшно шумит,</plain>
+            <plain>РњРѕСЂРµ С€СѓРјРёС‚, СЃС‚СЂР°С€РЅРѕ С€СѓРјРёС‚,</plain>
         </string>
         <string>
-            <plain>Волны поднимутся.</plain>
+            <plain>Р’РѕР»РЅС‹ РїРѕРґРЅРёРјСѓС‚СЃСЏ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Иисус восстанет, и нас спасет Он,</plain>
+            <plain>РРёСЃСѓСЃ РІРѕСЃСЃС‚Р°РЅРµС‚, Рё РЅР°СЃ СЃРїР°СЃРµС‚ РћРЅ,</plain>
         </string>
         <string>
-            <plain>С нами Он, с нами Он.</plain>
+            <plain>РЎ РЅР°РјРё РћРЅ, СЃ РЅР°РјРё РћРЅ.</plain>
         </string>
         <string>
-            <plain>И море стихнет, и волны смолкнут.</plain>
+            <plain>Р РјРѕСЂРµ СЃС‚РёС…РЅРµС‚, Рё РІРѕР»РЅС‹ СЃРјРѕР»РєРЅСѓС‚.</plain>
         </string>
         <string>
-            <plain>Он прикажет им.</plain>
+            <plain>РћРЅ РїСЂРёРєР°Р¶РµС‚ РёРј.</plain>
         </string>
         <string>
-            <plain>Скоро мы будем там, Где покой!</plain>
+            <plain>РЎРєРѕСЂРѕ РјС‹ Р±СѓРґРµРј С‚Р°Рј, Р“РґРµ РїРѕРєРѕР№!</plain>
         </string>
     </verse>
 </psalm>

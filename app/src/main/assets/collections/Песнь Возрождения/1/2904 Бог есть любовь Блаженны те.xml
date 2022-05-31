@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2904" name="Бог есть любовь Блаженны те" canon="false" text="" textRus="" music="">
+<psalm number="2904" name="Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ Р‘Р»Р°Р¶РµРЅРЅС‹ С‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог есть любовь! Блаженны те,</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ! Р‘Р»Р°Р¶РµРЅРЅС‹ С‚Рµ,</plain>
         </string>
         <string>
-            <plain>что знают Бога во Христе,</plain>
+            <plain>С‡С‚Рѕ Р·РЅР°СЋС‚ Р‘РѕРіР° РІРѕ РҐСЂРёСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>- ликует и поёт душа,</plain>
+            <plain>- Р»РёРєСѓРµС‚ Рё РїРѕС‘С‚ РґСѓС€Р°,</plain>
         </string>
         <string>
-            <plain>ведь в ней живёт любовь Творца.</plain>
+            <plain>РІРµРґСЊ РІ РЅРµР№ Р¶РёРІС‘С‚ Р»СЋР±РѕРІСЊ РўРІРѕСЂС†Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог есть любовь! Благая весть:</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ! Р‘Р»Р°РіР°СЏ РІРµСЃС‚СЊ:</plain>
         </string>
         <string>
-            <plain>через Христа спасенье есть!</plain>
+            <plain>С‡РµСЂРµР· РҐСЂРёСЃС‚Р° СЃРїР°СЃРµРЅСЊРµ РµСЃС‚СЊ!</plain>
         </string>
         <string>
-            <plain>Такой любви вершин достичь,</plain>
+            <plain>РўР°РєРѕР№ Р»СЋР±РІРё РІРµСЂС€РёРЅ РґРѕСЃС‚РёС‡СЊ,</plain>
         </string>
         <string>
-            <plain>уж значит здесь</plain>
+            <plain>СѓР¶ Р·РЅР°С‡РёС‚ Р·РґРµСЃСЊ</plain>
         </string>
         <string>
-            <plain>на небе жить,</plain>
+            <plain>РЅР° РЅРµР±Рµ Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>на небе жить.</plain>
+            <plain>РЅР° РЅРµР±Рµ Р¶РёС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бог есть любовь! Ему хвала!</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ! Р•РјСѓ С…РІР°Р»Р°!</plain>
         </string>
         <string>
-            <plain>Огонь любви объял меня,</plain>
+            <plain>РћРіРѕРЅСЊ Р»СЋР±РІРё РѕР±СЉСЏР» РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Он всё во мне преобразил,</plain>
+            <plain>РћРЅ РІСЃС‘ РІРѕ РјРЅРµ РїСЂРµРѕР±СЂР°Р·РёР»,</plain>
         </string>
         <string>
-            <plain>от власти тьмы освободил.</plain>
+            <plain>РѕС‚ РІР»Р°СЃС‚Рё С‚СЊРјС‹ РѕСЃРІРѕР±РѕРґРёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог есть любовь! Я испытал,</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ! РЇ РёСЃРїС‹С‚Р°Р»,</plain>
         </string>
         <string>
-            <plain>как Он греха оковы снял</plain>
+            <plain>РєР°Рє РћРЅ РіСЂРµС…Р° РѕРєРѕРІС‹ СЃРЅСЏР»</plain>
         </string>
         <string>
-            <plain>и сердце каменное взял,</plain>
+            <plain>Рё СЃРµСЂРґС†Рµ РєР°РјРµРЅРЅРѕРµ РІР·СЏР»,</plain>
         </string>
         <string>
-            <plain>снял гнёт с души и радость дал.</plain>
+            <plain>СЃРЅСЏР» РіРЅС‘С‚ СЃ РґСѓС€Рё Рё СЂР°РґРѕСЃС‚СЊ РґР°Р».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бог есть любовь! Во мне она</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ! Р’Рѕ РјРЅРµ РѕРЅР°</plain>
         </string>
         <string>
-            <plain>сомненья, страхи все смела.</plain>
+            <plain>СЃРѕРјРЅРµРЅСЊСЏ, СЃС‚СЂР°С…Рё РІСЃРµ СЃРјРµР»Р°.</plain>
         </string>
         <string>
-            <plain>Любви имея полноту,</plain>
+            <plain>Р›СЋР±РІРё РёРјРµСЏ РїРѕР»РЅРѕС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>нет места в сердце уж греху.</plain>
+            <plain>РЅРµС‚ РјРµСЃС‚Р° РІ СЃРµСЂРґС†Рµ СѓР¶ РіСЂРµС…Сѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Бог есть любовь! Любовь сия,</plain>
+            <plain>Р‘РѕРі РµСЃС‚СЊ Р»СЋР±РѕРІСЊ! Р›СЋР±РѕРІСЊ СЃРёСЏ,</plain>
         </string>
         <string>
-            <plain>как море, дивных тайн полна,</plain>
+            <plain>РєР°Рє РјРѕСЂРµ, РґРёРІРЅС‹С… С‚Р°Р№РЅ РїРѕР»РЅР°,</plain>
         </string>
         <string>
-            <plain>покоясь в ней, моя душа</plain>
+            <plain>РїРѕРєРѕСЏСЃСЊ РІ РЅРµР№, РјРѕСЏ РґСѓС€Р°</plain>
         </string>
         <string>
-            <plain>восторгом сладостным полна.</plain>
+            <plain>РІРѕСЃС‚РѕСЂРіРѕРј СЃР»Р°РґРѕСЃС‚РЅС‹Рј РїРѕР»РЅР°.</plain>
         </string>
     </verse>
 </psalm>

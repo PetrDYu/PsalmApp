@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="127" name="Тому Кто смертью крестной" canon="false" text="" textRus="" music="">
+<psalm number="127" name="РўРѕРјСѓ РљС‚Рѕ СЃРјРµСЂС‚СЊСЋ РєСЂРµСЃС‚РЅРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тому, Кто смертью крестной</plain>
+            <plain>РўРѕРјСѓ, РљС‚Рѕ СЃРјРµСЂС‚СЊСЋ РєСЂРµСЃС‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>И кровию нас спас,</plain>
+            <plain>Р РєСЂРѕРІРёСЋ РЅР°СЃ СЃРїР°СЃ,</plain>
         </string>
         <string>
-            <plain>Споем благодаренье!</plain>
+            <plain>РЎРїРѕРµРј Р±Р»Р°РіРѕРґР°СЂРµРЅСЊРµ!</plain>
         </string>
         <string>
-            <plain>Споем сто тысяч раз!</plain>
+            <plain>РЎРїРѕРµРј СЃС‚Рѕ С‚С‹СЃСЏС‡ СЂР°Р·!</plain>
         </string>
         <string>
-            <plain>Пусть ныне в сердце каждом</plain>
+            <plain>РџСѓСЃС‚СЊ РЅС‹РЅРµ РІ СЃРµСЂРґС†Рµ РєР°Р¶РґРѕРј</plain>
         </string>
         <string>
-            <plain>Любовь к Нему горит!</plain>
+            <plain>Р›СЋР±РѕРІСЊ Рє РќРµРјСѓ РіРѕСЂРёС‚!</plain>
         </string>
         <string>
-            <plain>Пусть каждый неустанно</plain>
+            <plain>РџСѓСЃС‚СЊ РєР°Р¶РґС‹Р№ РЅРµСѓСЃС‚Р°РЅРЅРѕ</plain>
         </string>
         <string>
-            <plain>Христа благодарит!</plain>
+            <plain>РҐСЂРёСЃС‚Р° Р±Р»Р°РіРѕРґР°СЂРёС‚!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Сто тысяч раз, сто тысяч раз</plain>
+            <plain>РЎС‚Рѕ С‚С‹СЃСЏС‡ СЂР°Р·, СЃС‚Рѕ С‚С‹СЃСЏС‡ СЂР°Р·</plain>
         </string>
         <string>
-            <plain>Хвалу мы возгласим</plain>
+            <plain>РҐРІР°Р»Сѓ РјС‹ РІРѕР·РіР»Р°СЃРёРј</plain>
         </string>
         <string>
-            <plain>И столько ж раз за жизнь вовек,</plain>
+            <plain>Р СЃС‚РѕР»СЊРєРѕ Р¶ СЂР°Р· Р·Р° Р¶РёР·РЅСЊ РІРѕРІРµРє,</plain>
         </string>
         <string>
-            <plain>Что жить мы будем с Ним.</plain>
+            <plain>Р§С‚Рѕ Р¶РёС‚СЊ РјС‹ Р±СѓРґРµРј СЃ РќРёРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, если б было можно</plain>
+            <plain>Рћ, РµСЃР»Рё Р± Р±С‹Р»Рѕ РјРѕР¶РЅРѕ</plain>
         </string>
         <string>
-            <plain>К ногам Христа принесть</plain>
+            <plain>Рљ РЅРѕРіР°Рј РҐСЂРёСЃС‚Р° РїСЂРёРЅРµСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>Сердец и жизней столько,</plain>
+            <plain>РЎРµСЂРґРµС† Рё Р¶РёР·РЅРµР№ СЃС‚РѕР»СЊРєРѕ,</plain>
         </string>
         <string>
-            <plain>Чтоб их не перечесть!</plain>
+            <plain>Р§С‚РѕР± РёС… РЅРµ РїРµСЂРµС‡РµСЃС‚СЊ!</plain>
         </string>
         <string>
-            <plain>Сто тысяч уст прославят</plain>
+            <plain>РЎС‚Рѕ С‚С‹СЃСЏС‡ СѓСЃС‚ РїСЂРѕСЃР»Р°РІСЏС‚</plain>
         </string>
         <string>
-            <plain>Его настолько мук,</plain>
+            <plain>Р•РіРѕ РЅР°СЃС‚РѕР»СЊРєРѕ РјСѓРє,</plain>
         </string>
         <string>
-            <plain>Ведь Он наш Искупитель,</plain>
+            <plain>Р’РµРґСЊ РћРЅ РЅР°С€ РСЃРєСѓРїРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Наш самый лучший Друг.</plain>
+            <plain>РќР°С€ СЃР°РјС‹Р№ Р»СѓС‡С€РёР№ Р”СЂСѓРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Христу благодаренье</plain>
+            <plain>РҐСЂРёСЃС‚Сѓ Р±Р»Р°РіРѕРґР°СЂРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>За то, что каждый час,</plain>
+            <plain>Р—Р° С‚Рѕ, С‡С‚Рѕ РєР°Р¶РґС‹Р№ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Любовью избавляя,</plain>
+            <plain>Р›СЋР±РѕРІСЊСЋ РёР·Р±Р°РІР»СЏСЏ,</plain>
         </string>
         <string>
-            <plain>Благословляет нас.</plain>
+            <plain>Р‘Р»Р°РіРѕСЃР»РѕРІР»СЏРµС‚ РЅР°СЃ.</plain>
         </string>
         <string>
-            <plain>Когда ж за бурным морем</plain>
+            <plain>РљРѕРіРґР° Р¶ Р·Р° Р±СѓСЂРЅС‹Рј РјРѕСЂРµРј</plain>
         </string>
         <string>
-            <plain>Его увидим мы,</plain>
+            <plain>Р•РіРѕ СѓРІРёРґРёРј РјС‹,</plain>
         </string>
         <string>
-            <plain>Вовеки не умолкнет</plain>
+            <plain>Р’РѕРІРµРєРё РЅРµ СѓРјРѕР»РєРЅРµС‚</plain>
         </string>
         <string>
-            <plain>Песнь сладостной хвалы.</plain>
+            <plain>РџРµСЃРЅСЊ СЃР»Р°РґРѕСЃС‚РЅРѕР№ С…РІР°Р»С‹.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="197" name="В час когда с холмов зарею" canon="false" text="" textRus="" music="">
+<psalm number="197" name="Р’ С‡Р°СЃ РєРѕРіРґР° СЃ С…РѕР»РјРѕРІ Р·Р°СЂРµСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В час, когда с холмов зарею</plain>
+            <plain>Р’ С‡Р°СЃ, РєРѕРіРґР° СЃ С…РѕР»РјРѕРІ Р·Р°СЂРµСЋ</plain>
         </string>
         <string>
-            <plain>Вдаль ночной туман бежит,</plain>
+            <plain>Р’РґР°Р»СЊ РЅРѕС‡РЅРѕР№ С‚СѓРјР°РЅ Р±РµР¶РёС‚,</plain>
         </string>
         <string>
-            <plain>И луч солнца над рекою</plain>
+            <plain>Р Р»СѓС‡ СЃРѕР»РЅС†Р° РЅР°Рґ СЂРµРєРѕСЋ</plain>
         </string>
         <string>
-            <plain>В дивных красках заблестит,</plain>
+            <plain>Р’ РґРёРІРЅС‹С… РєСЂР°СЃРєР°С… Р·Р°Р±Р»РµСЃС‚РёС‚,</plain>
         </string>
         <string>
-            <plain>Божью весть мы вспоминаем</plain>
+            <plain>Р‘РѕР¶СЊСЋ РІРµСЃС‚СЊ РјС‹ РІСЃРїРѕРјРёРЅР°РµРј</plain>
         </string>
         <string>
-            <plain>В радужных отливах вод,</plain>
+            <plain>Р’ СЂР°РґСѓР¶РЅС‹С… РѕС‚Р»РёРІР°С… РІРѕРґ,</plain>
         </string>
         <string>
-            <plain>Что друг друга мы познаем,</plain>
+            <plain>Р§С‚Рѕ РґСЂСѓРі РґСЂСѓРіР° РјС‹ РїРѕР·РЅР°РµРј,</plain>
         </string>
         <string>
-            <plain>Когда ночи мгла пройдет.</plain>
+            <plain>РљРѕРіРґР° РЅРѕС‡Рё РјРіР»Р° РїСЂРѕР№РґРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Познаем, как познаны.</plain>
+            <plain>РџРѕР·РЅР°РµРј, РєР°Рє РїРѕР·РЅР°РЅС‹.</plain>
         </string>
         <string>
-            <plain>Уж теперь мы не одни.</plain>
+            <plain>РЈР¶ С‚РµРїРµСЂСЊ РјС‹ РЅРµ РѕРґРЅРё.</plain>
         </string>
         <string>
-            <plain>Мы в лучах зари встречаем</plain>
+            <plain>РњС‹ РІ Р»СѓС‡Р°С… Р·Р°СЂРё РІСЃС‚СЂРµС‡Р°РµРј</plain>
         </string>
         <string>
-            <plain>Дня великого восход;</plain>
+            <plain>Р”РЅСЏ РІРµР»РёРєРѕРіРѕ РІРѕСЃС…РѕРґ;</plain>
         </string>
         <string>
-            <plain>И друг друга мы познаем,</plain>
+            <plain>Р РґСЂСѓРі РґСЂСѓРіР° РјС‹ РїРѕР·РЅР°РµРј,</plain>
         </string>
         <string>
-            <plain>Когда ночи мгла пройдет.</plain>
+            <plain>РљРѕРіРґР° РЅРѕС‡Рё РјРіР»Р° РїСЂРѕР№РґРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Часто мы идем тропою,</plain>
+            <plain>Р§Р°СЃС‚Рѕ РјС‹ РёРґРµРј С‚СЂРѕРїРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Гнетом мук удручены;</plain>
+            <plain>Р“РЅРµС‚РѕРј РјСѓРє СѓРґСЂСѓС‡РµРЅС‹;</plain>
         </string>
         <string>
-            <plain>Часто нивы наши мглою</plain>
+            <plain>Р§Р°СЃС‚Рѕ РЅРёРІС‹ РЅР°С€Рё РјРіР»РѕСЋ</plain>
         </string>
         <string>
-            <plain>Или рвом разделены.</plain>
+            <plain>РР»Рё СЂРІРѕРј СЂР°Р·РґРµР»РµРЅС‹.</plain>
         </string>
         <string>
-            <plain>Но "Придите!" - с этим словом</plain>
+            <plain>РќРѕ "РџСЂРёРґРёС‚Рµ!" - СЃ СЌС‚РёРј СЃР»РѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Нас Христос в покой ведет,</plain>
+            <plain>РќР°СЃ РҐСЂРёСЃС‚РѕСЃ РІ РїРѕРєРѕР№ РІРµРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Он нас встретит в свете новом,</plain>
+            <plain>РћРЅ РЅР°СЃ РІСЃС‚СЂРµС‚РёС‚ РІ СЃРІРµС‚Рµ РЅРѕРІРѕРј,</plain>
         </string>
         <string>
-            <plain>Когда ночи мгла пройдет.</plain>
+            <plain>РљРѕРіРґР° РЅРѕС‡Рё РјРіР»Р° РїСЂРѕР№РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Приняты с восторгом раем,</plain>
+            <plain>РџСЂРёРЅСЏС‚С‹ СЃ РІРѕСЃС‚РѕСЂРіРѕРј СЂР°РµРј,</plain>
         </string>
         <string>
-            <plain>Вкруг престола мы найдем</plain>
+            <plain>Р’РєСЂСѓРі РїСЂРµСЃС‚РѕР»Р° РјС‹ РЅР°Р№РґРµРј</plain>
         </string>
         <string>
-            <plain>Кто нас любит и познаем,</plain>
+            <plain>РљС‚Рѕ РЅР°СЃ Р»СЋР±РёС‚ Рё РїРѕР·РЅР°РµРј,</plain>
         </string>
         <string>
-            <plain>Как мы познаны Отцом.</plain>
+            <plain>РљР°Рє РјС‹ РїРѕР·РЅР°РЅС‹ РћС‚С†РѕРј.</plain>
         </string>
         <string>
-            <plain>Песнь хвалы и искупленья</plain>
+            <plain>РџРµСЃРЅСЊ С…РІР°Р»С‹ Рё РёСЃРєСѓРїР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В вечном дне рекой польет,</plain>
+            <plain>Р’ РІРµС‡РЅРѕРј РґРЅРµ СЂРµРєРѕР№ РїРѕР»СЊРµС‚,</plain>
         </string>
         <string>
-            <plain>Когда сгинут тени тленья,</plain>
+            <plain>РљРѕРіРґР° СЃРіРёРЅСѓС‚ С‚РµРЅРё С‚Р»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Когда ночи мгла пройдет!</plain>
+            <plain>РљРѕРіРґР° РЅРѕС‡Рё РјРіР»Р° РїСЂРѕР№РґРµС‚!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2013" name="Бог зовет тебя голосом истины" canon="false" text="" textRus="" music="">
+<psalm number="2013" name="Р‘РѕРі Р·РѕРІРµС‚ С‚РµР±СЏ РіРѕР»РѕСЃРѕРј РёСЃС‚РёРЅС‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог зовет тебя голосом истины.</plain>
+            <plain>Р‘РѕРі Р·РѕРІРµС‚ С‚РµР±СЏ РіРѕР»РѕСЃРѕРј РёСЃС‚РёРЅС‹.</plain>
         </string>
         <string>
-            <plain>Призыв этот ты в детстве слыхал.</plain>
+            <plain>РџСЂРёР·С‹РІ СЌС‚РѕС‚ С‚С‹ РІ РґРµС‚СЃС‚РІРµ СЃР»С‹С…Р°Р».</plain>
         </string>
         <string>
-            <plain>Хочет Он, чтобы ярко и искренне</plain>
+            <plain>РҐРѕС‡РµС‚ РћРЅ, С‡С‚РѕР±С‹ СЏСЂРєРѕ Рё РёСЃРєСЂРµРЅРЅРµ</plain>
         </string>
         <string>
-            <plain>Твой алтарь для Него полыхал.</plain>
+            <plain>РўРІРѕР№ Р°Р»С‚Р°СЂСЊ РґР»СЏ РќРµРіРѕ РїРѕР»С‹С…Р°Р».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>На пути будут ветры гонений,</plain>
+            <plain>РќР° РїСѓС‚Рё Р±СѓРґСѓС‚ РІРµС‚СЂС‹ РіРѕРЅРµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>И затишье как мель и обман,</plain>
+            <plain>Р Р·Р°С‚РёС€СЊРµ РєР°Рє РјРµР»СЊ Рё РѕР±РјР°РЅ,</plain>
         </string>
         <string>
-            <plain>И подводные камни сомнений,</plain>
+            <plain>Р РїРѕРґРІРѕРґРЅС‹Рµ РєР°РјРЅРё СЃРѕРјРЅРµРЅРёР№,</plain>
         </string>
         <string>
-            <plain>И неверья гнетущий туман.</plain>
+            <plain>Р РЅРµРІРµСЂСЊСЏ РіРЅРµС‚СѓС‰РёР№ С‚СѓРјР°РЅ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Без Христа мир пронзающе холоден,</plain>
+            <plain>Р‘РµР· РҐСЂРёСЃС‚Р° РјРёСЂ РїСЂРѕРЅР·Р°СЋС‰Рµ С…РѕР»РѕРґРµРЅ,</plain>
         </string>
         <string>
-            <plain>И его обещанья пусты.</plain>
+            <plain>Р РµРіРѕ РѕР±РµС‰Р°РЅСЊСЏ РїСѓСЃС‚С‹.</plain>
         </string>
         <string>
-            <plain>Ах, как важно бесценную молодость</plain>
+            <plain>РђС…, РєР°Рє РІР°Р¶РЅРѕ Р±РµСЃС†РµРЅРЅСѓСЋ РјРѕР»РѕРґРѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>По святому направить пути.</plain>
+            <plain>РџРѕ СЃРІСЏС‚РѕРјСѓ РЅР°РїСЂР°РІРёС‚СЊ РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В состоянии сына заблудшего</plain>
+            <plain>Р’ СЃРѕСЃС‚РѕСЏРЅРёРё СЃС‹РЅР° Р·Р°Р±Р»СѓРґС€РµРіРѕ</plain>
         </string>
         <string>
-            <plain>Отыщи Вифлеема звезду,</plain>
+            <plain>РћС‚С‹С‰Рё Р’РёС„Р»РµРµРјР° Р·РІРµР·РґСѓ,</plain>
         </string>
         <string>
-            <plain>И промолви, любовью разбуженный:</plain>
+            <plain>Р РїСЂРѕРјРѕР»РІРё, Р»СЋР±РѕРІСЊСЋ СЂР°Р·Р±СѓР¶РµРЅРЅС‹Р№:</plain>
         </string>
         <string>
-            <plain>"Я иду, Иисус, иду".</plain>
+            <plain>"РЇ РёРґСѓ, РРёСЃСѓСЃ, РёРґСѓ".</plain>
         </string>
     </verse>
 </psalm>

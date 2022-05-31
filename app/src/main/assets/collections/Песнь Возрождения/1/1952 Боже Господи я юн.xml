@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1952" name="Боже Господи я юн" canon="false" text="" textRus="" music="">
+<psalm number="1952" name="Р‘РѕР¶Рµ Р“РѕСЃРїРѕРґРё СЏ СЋРЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, Господи, я юн;</plain>
+            <plain>Р‘РѕР¶Рµ, Р“РѕСЃРїРѕРґРё, СЏ СЋРЅ;</plain>
         </string>
         <string>
-            <plain>Грех, как сладостный шептун,</plain>
+            <plain>Р“СЂРµС…, РєР°Рє СЃР»Р°РґРѕСЃС‚РЅС‹Р№ С€РµРїС‚СѓРЅ,</plain>
         </string>
         <string>
-            <plain>Приближается ко мне</plain>
+            <plain>РџСЂРёР±Р»РёР¶Р°РµС‚СЃСЏ РєРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>Днем и ночью, и во сне.</plain>
+            <plain>Р”РЅРµРј Рё РЅРѕС‡СЊСЋ, Рё РІРѕ СЃРЅРµ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Часто шепчет он о том.</plain>
+            <plain>Р§Р°СЃС‚Рѕ С€РµРїС‡РµС‚ РѕРЅ Рѕ С‚РѕРј.</plain>
         </string>
         <string>
-            <plain>Будто тяжко со Христом,</plain>
+            <plain>Р‘СѓРґС‚Рѕ С‚СЏР¶РєРѕ СЃРѕ РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Но что с ним мне легче жить,</plain>
+            <plain>РќРѕ С‡С‚Рѕ СЃ РЅРёРј РјРЅРµ Р»РµРіС‡Рµ Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Веселей ему служить.</plain>
+            <plain>Р’РµСЃРµР»РµР№ РµРјСѓ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дальше шепчет он о том,</plain>
+            <plain>Р”Р°Р»СЊС€Рµ С€РµРїС‡РµС‚ РѕРЅ Рѕ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Чтоб я стал ему рабом.</plain>
+            <plain>Р§С‚РѕР± СЏ СЃС‚Р°Р» РµРјСѓ СЂР°Р±РѕРј.</plain>
         </string>
         <string>
-            <plain>Чтобы точно исполнял</plain>
+            <plain>Р§С‚РѕР±С‹ С‚РѕС‡РЅРѕ РёСЃРїРѕР»РЅСЏР»</plain>
         </string>
         <string>
-            <plain>То, что он мне приказал.</plain>
+            <plain>РўРѕ, С‡С‚Рѕ РѕРЅ РјРЅРµ РїСЂРёРєР°Р·Р°Р».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я опасность сознаю,</plain>
+            <plain>РЇ РѕРїР°СЃРЅРѕСЃС‚СЊ СЃРѕР·РЅР°СЋ,</plain>
         </string>
         <string>
-            <plain>Направляю мысль свою</plain>
+            <plain>РќР°РїСЂР°РІР»СЏСЋ РјС‹СЃР»СЊ СЃРІРѕСЋ</plain>
         </string>
         <string>
-            <plain>И хочу врага прогнать,</plain>
+            <plain>Р С…РѕС‡Сѓ РІСЂР°РіР° РїСЂРѕРіРЅР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Но приходит он опять.</plain>
+            <plain>РќРѕ РїСЂРёС…РѕРґРёС‚ РѕРЅ РѕРїСЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Я бессилен отразить</plain>
+            <plain>РЇ Р±РµСЃСЃРёР»РµРЅ РѕС‚СЂР°Р·РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И хочу Тебя просить:</plain>
+            <plain>Р С…РѕС‡Сѓ РўРµР±СЏ РїСЂРѕСЃРёС‚СЊ:</plain>
         </string>
         <string>
-            <plain>Помоги мне, чтобы враг</plain>
+            <plain>РџРѕРјРѕРіРё РјРЅРµ, С‡С‚РѕР±С‹ РІСЂР°Рі</plain>
         </string>
         <string>
-            <plain>Не сразил меня в путях.</plain>
+            <plain>РќРµ СЃСЂР°Р·РёР» РјРµРЅСЏ РІ РїСѓС‚СЏС….</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Дай мне силу устоять,</plain>
+            <plain>Р”Р°Р№ РјРЅРµ СЃРёР»Сѓ СѓСЃС‚РѕСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Голос вражий не принять,</plain>
+            <plain>Р“РѕР»РѕСЃ РІСЂР°Р¶РёР№ РЅРµ РїСЂРёРЅСЏС‚СЊ,</plain>
         </string>
         <string>
-            <plain>А отдать себя Тебе,</plain>
+            <plain>Рђ РѕС‚РґР°С‚СЊ СЃРµР±СЏ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>О, внемли моей мольбе!</plain>
+            <plain>Рћ, РІРЅРµРјР»Рё РјРѕРµР№ РјРѕР»СЊР±Рµ!</plain>
         </string>
     </verse>
 </psalm>

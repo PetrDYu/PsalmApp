@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2524" name="О великий Иегова" canon="false" text="" textRus="" music="">
+<psalm number="2524" name="Рћ РІРµР»РёРєРёР№ РРµРіРѕРІР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О великий Иегова,</plain>
+            <plain>Рћ РІРµР»РёРєРёР№ РРµРіРѕРІР°,</plain>
         </string>
         <string>
-            <plain>Путь в пустыне освети.</plain>
+            <plain>РџСѓС‚СЊ РІ РїСѓСЃС‚С‹РЅРµ РѕСЃРІРµС‚Рё.</plain>
         </string>
         <string>
-            <plain>И усталого, больного</plain>
+            <plain>Р СѓСЃС‚Р°Р»РѕРіРѕ, Р±РѕР»СЊРЅРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>Пилигрима Сам веди.</plain>
+            <plain>РџРёР»РёРіСЂРёРјР° РЎР°Рј РІРµРґРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Хлеб небесный, хлеб небесный</plain>
+            <plain>РҐР»РµР± РЅРµР±РµСЃРЅС‹Р№, С…Р»РµР± РЅРµР±РµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Дай мне, Боже, душу напитай!</plain>
+            <plain>Р”Р°Р№ РјРЅРµ, Р‘РѕР¶Рµ, РґСѓС€Сѓ РЅР°РїРёС‚Р°Р№!</plain>
         </string>
         <string>
-            <plain>Дай мне, дай мне, дай мне, дай мне</plain>
+            <plain>Р”Р°Р№ РјРЅРµ, РґР°Р№ РјРЅРµ, РґР°Р№ РјРЅРµ, РґР°Р№ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>Хлеб небесный и им душу укрепляй!</plain>
+            <plain>РҐР»РµР± РЅРµР±РµСЃРЅС‹Р№ Рё РёРј РґСѓС€Сѓ СѓРєСЂРµРїР»СЏР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пусть забот фонтан высокий,</plain>
+            <plain>РџСѓСЃС‚СЊ Р·Р°Р±РѕС‚ С„РѕРЅС‚Р°РЅ РІС‹СЃРѕРєРёР№,</plain>
         </string>
         <string>
-            <plain>Даст целительный ручей,</plain>
+            <plain>Р”Р°СЃС‚ С†РµР»РёС‚РµР»СЊРЅС‹Р№ СЂСѓС‡РµР№,</plain>
         </string>
         <string>
-            <plain>Пусть горит во тьме глубокой</plain>
+            <plain>РџСѓСЃС‚СЊ РіРѕСЂРёС‚ РІРѕ С‚СЊРјРµ РіР»СѓР±РѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>Свет Божественных речей.</plain>
+            <plain>РЎРІРµС‚ Р‘РѕР¶РµСЃС‚РІРµРЅРЅС‹С… СЂРµС‡РµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Смерть и ад Христом попраны,</plain>
+            <plain>РЎРјРµСЂС‚СЊ Рё Р°Рґ РҐСЂРёСЃС‚РѕРј РїРѕРїСЂР°РЅС‹,</plain>
         </string>
         <string>
-            <plain>Небеса хвалой полны;</plain>
+            <plain>РќРµР±РµСЃР° С…РІР°Р»РѕР№ РїРѕР»РЅС‹;</plain>
         </string>
         <string>
-            <plain>Я стою у Иордана</plain>
+            <plain>РЇ СЃС‚РѕСЋ Сѓ РРѕСЂРґР°РЅР°</plain>
         </string>
         <string>
-            <plain>Обетованной страны.</plain>
+            <plain>РћР±РµС‚РѕРІР°РЅРЅРѕР№ СЃС‚СЂР°РЅС‹.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,83 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1401" name="Бог Спаситель мой" canon="false" text="" textRus="" music="">
+<psalm number="1401" name="Р‘РѕРі РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог, Спаситель мой.</plain>
+            <plain>Р‘РѕРі, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Будь всегда со мной!</plain>
+            <plain>Р‘СѓРґСЊ РІСЃРµРіРґР° СЃРѕ РјРЅРѕР№!</plain>
         </string>
         <string>
-            <plain>И всю жизнь дай за</plain>
+            <plain>Р РІСЃСЋ Р¶РёР·РЅСЊ РґР°Р№ Р·Р°</plain>
         </string>
         <string>
-            <plain>Тобою С радостной идти душою;</plain>
+            <plain>РўРѕР±РѕСЋ РЎ СЂР°РґРѕСЃС‚РЅРѕР№ РёРґС‚Рё РґСѓС€РѕСЋ;</plain>
         </string>
         <string>
-            <plain>Дай войти с Тобой</plain>
+            <plain>Р”Р°Р№ РІРѕР№С‚Рё СЃ РўРѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>В мирный край родной.</plain>
+            <plain>Р’ РјРёСЂРЅС‹Р№ РєСЂР°Р№ СЂРѕРґРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Встречу ль скорби дни -</plain>
+            <plain>Р’СЃС‚СЂРµС‡Сѓ Р»СЊ СЃРєРѕСЂР±Рё РґРЅРё -</plain>
         </string>
         <string>
-            <plain>Твёрдость мне вдохни;</plain>
+            <plain>РўРІС‘СЂРґРѕСЃС‚СЊ РјРЅРµ РІРґРѕС…РЅРё;</plain>
         </string>
         <string>
-            <plain>Дай в болезни, в огорченьи</plain>
+            <plain>Р”Р°Р№ РІ Р±РѕР»РµР·РЅРё, РІ РѕРіРѕСЂС‡РµРЅСЊРё</plain>
         </string>
         <string>
-            <plain>Не роптать на Провиденье;</plain>
+            <plain>РќРµ СЂРѕРїС‚Р°С‚СЊ РЅР° РџСЂРѕРІРёРґРµРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Здесь средь слез и бед</plain>
+            <plain>Р—РґРµСЃСЊ СЃСЂРµРґСЊ СЃР»РµР· Рё Р±РµРґ</plain>
         </string>
         <string>
-            <plain>Путь к Тебе идёт.</plain>
+            <plain>РџСѓС‚СЊ Рє РўРµР±Рµ РёРґС‘С‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Стражду ли душой</plain>
+            <plain>РЎС‚СЂР°Р¶РґСѓ Р»Рё РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>О нужде своей</plain>
+            <plain>Рћ РЅСѓР¶РґРµ СЃРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Иль о ближнего мученьи,</plain>
+            <plain>РР»СЊ Рѕ Р±Р»РёР¶РЅРµРіРѕ РјСѓС‡РµРЅСЊРё,</plain>
         </string>
         <string>
-            <plain>Дай мне твёрдое терпенье.</plain>
+            <plain>Р”Р°Р№ РјРЅРµ С‚РІС‘СЂРґРѕРµ С‚РµСЂРїРµРЅСЊРµ.</plain>
         </string>
         <string>
-            <plain>Пусть всегда мой глаз</plain>
+            <plain>РџСѓСЃС‚СЊ РІСЃРµРіРґР° РјРѕР№ РіР»Р°Р·</plain>
         </string>
         <string>
-            <plain>Видит смертный час.</plain>
+            <plain>Р’РёРґРёС‚ СЃРјРµСЂС‚РЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Сам Господь, устрой</plain>
+            <plain>РЎР°Рј Р“РѕСЃРїРѕРґСЊ, СѓСЃС‚СЂРѕР№</plain>
         </string>
         <string>
-            <plain>Жребий мой земной;</plain>
+            <plain>Р–СЂРµР±РёР№ РјРѕР№ Р·РµРјРЅРѕР№;</plain>
         </string>
         <string>
-            <plain>Тяжко бремя здешней жизни,</plain>
+            <plain>РўСЏР¶РєРѕ Р±СЂРµРјСЏ Р·РґРµС€РЅРµР№ Р¶РёР·РЅРё,</plain>
         </string>
         <string>
-            <plain>Но отраден вид отчизны;</plain>
+            <plain>РќРѕ РѕС‚СЂР°РґРµРЅ РІРёРґ РѕС‚С‡РёР·РЅС‹;</plain>
         </string>
         <string>
-            <plain>Так мне дверь открой</plain>
+            <plain>РўР°Рє РјРЅРµ РґРІРµСЂСЊ РѕС‚РєСЂРѕР№</plain>
         </string>
         <string>
-            <plain>В вечный Твой покой.</plain>
+            <plain>Р’ РІРµС‡РЅС‹Р№ РўРІРѕР№ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

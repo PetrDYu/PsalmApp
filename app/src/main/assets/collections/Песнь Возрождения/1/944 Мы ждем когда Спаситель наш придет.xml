@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="944" name="Мы ждем когда Спаситель наш придет" canon="false" text="" textRus="" music="">
+<psalm number="944" name="РњС‹ Р¶РґРµРј РєРѕРіРґР° РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€ РїСЂРёРґРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы ждем, когда Спаситель наш придет,</plain>
+            <plain>РњС‹ Р¶РґРµРј, РєРѕРіРґР° РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Мы ждем, когда Спаситель наш придет,</plain>
+            <plain>РњС‹ Р¶РґРµРј, РєРѕРіРґР° РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Мы ждем, когда Спаситель,</plain>
+            <plain>РњС‹ Р¶РґРµРј, РєРѕРіРґР° РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Ждем, когда Спаситель,</plain>
+            <plain>Р–РґРµРј, РєРѕРіРґР° РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Ждем, когда Спаситель наш придет.</plain>
+            <plain>Р–РґРµРј, РєРѕРіРґР° РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€ РїСЂРёРґРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ему мы аллилуйя воспоем,</plain>
+            <plain>Р•РјСѓ РјС‹ Р°Р»Р»РёР»СѓР№СЏ РІРѕСЃРїРѕРµРј,</plain>
         </string>
         <string>
-            <plain>Ему мы аллилуйя воспоем,</plain>
+            <plain>Р•РјСѓ РјС‹ Р°Р»Р»РёР»СѓР№СЏ РІРѕСЃРїРѕРµРј,</plain>
         </string>
         <string>
-            <plain>Ему мы аллилуйя,</plain>
+            <plain>Р•РјСѓ РјС‹ Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Ему мы аллилуйя,</plain>
+            <plain>Р•РјСѓ РјС‹ Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Ему мы аллилуйя воспоем.</plain>
+            <plain>Р•РјСѓ РјС‹ Р°Р»Р»РёР»СѓР№СЏ РІРѕСЃРїРѕРµРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Мы все Его здесь встретим на пути,</plain>
+            <plain>РњС‹ РІСЃРµ Р•РіРѕ Р·РґРµСЃСЊ РІСЃС‚СЂРµС‚РёРј РЅР° РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>Мы все Его здесь встретим на пути,</plain>
+            <plain>РњС‹ РІСЃРµ Р•РіРѕ Р·РґРµСЃСЊ РІСЃС‚СЂРµС‚РёРј РЅР° РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>Мы все Его здесь встретим,</plain>
+            <plain>РњС‹ РІСЃРµ Р•РіРѕ Р·РґРµСЃСЊ РІСЃС‚СЂРµС‚РёРј,</plain>
         </string>
         <string>
-            <plain>Все Его здесь встретим,</plain>
+            <plain>Р’СЃРµ Р•РіРѕ Р·РґРµСЃСЊ РІСЃС‚СЂРµС‚РёРј,</plain>
         </string>
         <string>
-            <plain>Все Его здесь встретим на пути.</plain>
+            <plain>Р’СЃРµ Р•РіРѕ Р·РґРµСЃСЊ РІСЃС‚СЂРµС‚РёРј РЅР° РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О грешник, устоишь ли на пути?</plain>
+            <plain>Рћ РіСЂРµС€РЅРёРє, СѓСЃС‚РѕРёС€СЊ Р»Рё РЅР° РїСѓС‚Рё?</plain>
         </string>
         <string>
-            <plain>О грешник, устоишь ли на пути?</plain>
+            <plain>Рћ РіСЂРµС€РЅРёРє, СѓСЃС‚РѕРёС€СЊ Р»Рё РЅР° РїСѓС‚Рё?</plain>
         </string>
         <string>
-            <plain>О грешник, устоишь ли?</plain>
+            <plain>Рћ РіСЂРµС€РЅРёРє, СѓСЃС‚РѕРёС€СЊ Р»Рё?</plain>
         </string>
         <string>
-            <plain>Грешник, устоишь ли?</plain>
+            <plain>Р“СЂРµС€РЅРёРє, СѓСЃС‚РѕРёС€СЊ Р»Рё?</plain>
         </string>
         <string>
-            <plain>Грешник, устоишь ли на пути?</plain>
+            <plain>Р“СЂРµС€РЅРёРє, СѓСЃС‚РѕРёС€СЊ Р»Рё РЅР° РїСѓС‚Рё?</plain>
         </string>
     </verse>
 </psalm>

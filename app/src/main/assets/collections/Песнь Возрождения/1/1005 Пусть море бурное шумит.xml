@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1005" name="Пусть море бурное шумит" canon="false" text="" textRus="" music="">
+<psalm number="1005" name="РџСѓСЃС‚СЊ РјРѕСЂРµ Р±СѓСЂРЅРѕРµ С€СѓРјРёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пусть море бурное шумит.</plain>
+            <plain>РџСѓСЃС‚СЊ РјРѕСЂРµ Р±СѓСЂРЅРѕРµ С€СѓРјРёС‚.</plain>
         </string>
         <string>
-            <plain>В душе покой, я не страшусь.</plain>
+            <plain>Р’ РґСѓС€Рµ РїРѕРєРѕР№, СЏ РЅРµ СЃС‚СЂР°С€СѓСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Ладью Он к пристани ведет.</plain>
+            <plain>Р›Р°РґСЊСЋ РћРЅ Рє РїСЂРёСЃС‚Р°РЅРё РІРµРґРµС‚.</plain>
         </string>
         <string>
-            <plain>Я знаю Господа.</plain>
+            <plain>РЇ Р·РЅР°СЋ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я знаю Господа,</plain>
+            <plain>РЇ Р·РЅР°СЋ Р“РѕСЃРїРѕРґР°,</plain>
         </string>
         <string>
-            <plain>Я знаю Господа,</plain>
+            <plain>РЇ Р·РЅР°СЋ Р“РѕСЃРїРѕРґР°,</plain>
         </string>
         <string>
-            <plain>Всего дороже</plain>
+            <plain>Р’СЃРµРіРѕ РґРѕСЂРѕР¶Рµ</plain>
         </string>
         <string>
-            <plain>Он душе,</plain>
+            <plain>РћРЅ РґСѓС€Рµ,</plain>
         </string>
         <string>
-            <plain>Я знаю Господа.</plain>
+            <plain>РЇ Р·РЅР°СЋ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пусть говорят: "Он немощен,</plain>
+            <plain>РџСѓСЃС‚СЊ РіРѕРІРѕСЂСЏС‚: "РћРЅ РЅРµРјРѕС‰РµРЅ,</plain>
         </string>
         <string>
-            <plain>Святое имя - звук пустой".</plain>
+            <plain>РЎРІСЏС‚РѕРµ РёРјСЏ - Р·РІСѓРє РїСѓСЃС‚РѕР№".</plain>
         </string>
         <string>
-            <plain>Он - Всемогущий, знаю я!</plain>
+            <plain>РћРЅ - Р’СЃРµРјРѕРіСѓС‰РёР№, Р·РЅР°СЋ СЏ!</plain>
         </string>
         <string>
-            <plain>Я знаю Господа.</plain>
+            <plain>РЇ Р·РЅР°СЋ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пусть говорят: "Не слышит</plain>
+            <plain>РџСѓСЃС‚СЊ РіРѕРІРѕСЂСЏС‚: "РќРµ СЃР»С‹С€РёС‚</plain>
         </string>
         <string>
-            <plain>Он Горячих слов мольбы моей".</plain>
+            <plain>РћРЅ Р“РѕСЂСЏС‡РёС… СЃР»РѕРІ РјРѕР»СЊР±С‹ РјРѕРµР№".</plain>
         </string>
         <string>
-            <plain>Он слышит каждый сердца стон.</plain>
+            <plain>РћРЅ СЃР»С‹С€РёС‚ РєР°Р¶РґС‹Р№ СЃРµСЂРґС†Р° СЃС‚РѕРЅ.</plain>
         </string>
         <string>
-            <plain>Я знаю Господа.</plain>
+            <plain>РЇ Р·РЅР°СЋ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Когда коснется смерть меня.</plain>
+            <plain>РљРѕРіРґР° РєРѕСЃРЅРµС‚СЃСЏ СЃРјРµСЂС‚СЊ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Умолкнут звуки струн души,</plain>
+            <plain>РЈРјРѕР»РєРЅСѓС‚ Р·РІСѓРєРё СЃС‚СЂСѓРЅ РґСѓС€Рё,</plain>
         </string>
         <string>
-            <plain>Я не боюсь: Он ждет меня.</plain>
+            <plain>РЇ РЅРµ Р±РѕСЋСЃСЊ: РћРЅ Р¶РґРµС‚ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Я знаю Господа!</plain>
+            <plain>РЇ Р·РЅР°СЋ Р“РѕСЃРїРѕРґР°!</plain>
         </string>
     </verse>
 </psalm>

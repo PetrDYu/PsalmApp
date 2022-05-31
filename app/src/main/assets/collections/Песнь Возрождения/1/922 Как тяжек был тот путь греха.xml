@@ -1,84 +1,84 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="922" name="Как тяжек был тот путь греха" canon="false" text="" textRus="" music="">
+<psalm number="922" name="РљР°Рє С‚СЏР¶РµРє Р±С‹Р» С‚РѕС‚ РїСѓС‚СЊ РіСЂРµС…Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как тяжек был тот путь греха,</plain>
+            <plain>РљР°Рє С‚СЏР¶РµРє Р±С‹Р» С‚РѕС‚ РїСѓС‚СЊ РіСЂРµС…Р°,</plain>
         </string>
         <string>
-            <plain>Которым сам я шел.</plain>
+            <plain>РљРѕС‚РѕСЂС‹Рј СЃР°Рј СЏ С€РµР».</plain>
         </string>
         <string>
-            <plain>Но вот Христос явил Себя,</plain>
+            <plain>РќРѕ РІРѕС‚ РҐСЂРёСЃС‚РѕСЃ СЏРІРёР» РЎРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>С небес за мной пришел.</plain>
+            <plain>РЎ РЅРµР±РµСЃ Р·Р° РјРЅРѕР№ РїСЂРёС€РµР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пою всегда Ему душой - Славлю Его.</plain>
+            <plain>РџРѕСЋ РІСЃРµРіРґР° Р•РјСѓ РґСѓС€РѕР№ - РЎР»Р°РІР»СЋ Р•РіРѕ.</plain>
         </string>
         <string>
-            <plain>Пусть вечно песнь звучит хвалой:</plain>
+            <plain>РџСѓСЃС‚СЊ РІРµС‡РЅРѕ РїРµСЃРЅСЊ Р·РІСѓС‡РёС‚ С…РІР°Р»РѕР№:</plain>
         </string>
         <string>
-            <plain>Он вечный мне дал покой.</plain>
+            <plain>РћРЅ РІРµС‡РЅС‹Р№ РјРЅРµ РґР°Р» РїРѕРєРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Христос омыл меня ручьем</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РѕРјС‹Р» РјРµРЅСЏ СЂСѓС‡СЊРµРј</plain>
         </string>
         <string>
-            <plain>Святой Крови Своей.</plain>
+            <plain>РЎРІСЏС‚РѕР№ РљСЂРѕРІРё РЎРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Теперь навек счастлив я в</plain>
+            <plain>РўРµРїРµСЂСЊ РЅР°РІРµРє СЃС‡Р°СЃС‚Р»РёРІ СЏ РІ</plain>
         </string>
         <string>
-            <plain>Нем, И мир в душе моей.</plain>
+            <plain>РќРµРј, Р РјРёСЂ РІ РґСѓС€Рµ РјРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Залог нетленья дал Он мне,</plain>
+            <plain>Р—Р°Р»РѕРі РЅРµС‚Р»РµРЅСЊСЏ РґР°Р» РћРЅ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>Печать святых детей.</plain>
+            <plain>РџРµС‡Р°С‚СЊ СЃРІСЏС‚С‹С… РґРµС‚РµР№.</plain>
         </string>
         <string>
-            <plain>Свой чудный свет пролил во тьме,</plain>
+            <plain>РЎРІРѕР№ С‡СѓРґРЅС‹Р№ СЃРІРµС‚ РїСЂРѕР»РёР» РІРѕ С‚СЊРјРµ,</plain>
         </string>
         <string>
-            <plain>Дал счастье средь скорбей.</plain>
+            <plain>Р”Р°Р» СЃС‡Р°СЃС‚СЊРµ СЃСЂРµРґСЊ СЃРєРѕСЂР±РµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Теперь я в сонме спасенных</plain>
+            <plain>РўРµРїРµСЂСЊ СЏ РІ СЃРѕРЅРјРµ СЃРїР°СЃРµРЅРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Иду, иду туда,</plain>
+            <plain>РРґСѓ, РёРґСѓ С‚СѓРґР°,</plain>
         </string>
         <string>
-            <plain>Где нет греха среди святых,</plain>
+            <plain>Р“РґРµ РЅРµС‚ РіСЂРµС…Р° СЃСЂРµРґРё СЃРІСЏС‚С‹С…,</plain>
         </string>
         <string>
-            <plain>Но жизнь у Господа.</plain>
+            <plain>РќРѕ Р¶РёР·РЅСЊ Сѓ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Когда предстану я</plain>
+            <plain>РљРѕРіРґР° РїСЂРµРґСЃС‚Р°РЅСѓ СЏ</plain>
         </string>
         <string>
-            <plain>пред трон Его явления,</plain>
+            <plain>РїСЂРµРґ С‚СЂРѕРЅ Р•РіРѕ СЏРІР»РµРЅРёСЏ,</plain>
         </string>
         <string>
-            <plain>Навек я буду облечен</plain>
+            <plain>РќР°РІРµРє СЏ Р±СѓРґСѓ РѕР±Р»РµС‡РµРЅ</plain>
         </string>
         <string>
-            <plain>В виссон нетления.</plain>
+            <plain>Р’ РІРёСЃСЃРѕРЅ РЅРµС‚Р»РµРЅРёСЏ.</plain>
         </string>
     </verse>
 </psalm>

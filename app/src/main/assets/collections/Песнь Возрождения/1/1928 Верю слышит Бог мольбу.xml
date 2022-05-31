@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1928" name="Верю слышит Бог мольбу" canon="false" text="" textRus="" music="">
+<psalm number="1928" name="Р’РµСЂСЋ СЃР»С‹С€РёС‚ Р‘РѕРі РјРѕР»СЊР±Сѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Верю, слышит Бог мольбу;</plain>
+            <plain>Р’РµСЂСЋ, СЃР»С‹С€РёС‚ Р‘РѕРі РјРѕР»СЊР±Сѓ;</plain>
         </string>
         <string>
-            <plain>Знаю, слышит Бог мольбу;</plain>
+            <plain>Р—РЅР°СЋ, СЃР»С‹С€РёС‚ Р‘РѕРі РјРѕР»СЊР±Сѓ;</plain>
         </string>
         <string>
-            <plain>Правда, слышит Бог мольбу,</plain>
+            <plain>РџСЂР°РІРґР°, СЃР»С‹С€РёС‚ Р‘РѕРі РјРѕР»СЊР±Сѓ,</plain>
         </string>
         <string>
-            <plain>Слава Господу!</plain>
+            <plain>РЎР»Р°РІР° Р“РѕСЃРїРѕРґСѓ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Верю, верен слову Бог,</plain>
+            <plain>Р’РµСЂСЋ, РІРµСЂРµРЅ СЃР»РѕРІСѓ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Знаю, верен слову Бог,</plain>
+            <plain>Р—РЅР°СЋ, РІРµСЂРµРЅ СЃР»РѕРІСѓ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Правда, верен слову Бог,</plain>
+            <plain>РџСЂР°РІРґР°, РІРµСЂРµРЅ СЃР»РѕРІСѓ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Слава Господу!</plain>
+            <plain>РЎР»Р°РІР° Р“РѕСЃРїРѕРґСѓ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Верю, скоро Он придет,</plain>
+            <plain>Р’РµСЂСЋ, СЃРєРѕСЂРѕ РћРЅ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Знаю, скоро Он придет,</plain>
+            <plain>Р—РЅР°СЋ, СЃРєРѕСЂРѕ РћРЅ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Правда, скоро Он придет,</plain>
+            <plain>РџСЂР°РІРґР°, СЃРєРѕСЂРѕ РћРЅ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Слава Господу!</plain>
+            <plain>РЎР»Р°РІР° Р“РѕСЃРїРѕРґСѓ!</plain>
         </string>
     </verse>
 </psalm>

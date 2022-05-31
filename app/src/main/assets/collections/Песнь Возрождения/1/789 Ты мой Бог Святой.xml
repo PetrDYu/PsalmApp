@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="789" name="Ты мой Бог Святой" canon="false" text="" textRus="" music="">
+<psalm number="789" name="РўС‹ РјРѕР№ Р‘РѕРі РЎРІСЏС‚РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты - мой Бог Святой,</plain>
+            <plain>РўС‹ - РјРѕР№ Р‘РѕРі РЎРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Я к Тебе стремлюсь,</plain>
+            <plain>РЇ Рє РўРµР±Рµ СЃС‚СЂРµРјР»СЋСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Ибо знаю: в Тебе - покой.</plain>
+            <plain>РР±Рѕ Р·РЅР°СЋ: РІ РўРµР±Рµ - РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>У Твоей груди успокоюсь я,</plain>
+            <plain>РЈ РўРІРѕРµР№ РіСЂСѓРґРё СѓСЃРїРѕРєРѕСЋСЃСЊ СЏ,</plain>
         </string>
         <string>
-            <plain>Успокоится сердце мое.</plain>
+            <plain>РЈСЃРїРѕРєРѕРёС‚СЃСЏ СЃРµСЂРґС†Рµ РјРѕРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Знаю, что в Тебе –</plain>
+            <plain>Р—РЅР°СЋ, С‡С‚Рѕ РІ РўРµР±Рµ вЂ“</plain>
         </string>
         <string>
-            <plain>Радость вечная</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РІРµС‡РЅР°СЏ</plain>
         </string>
         <string>
-            <plain>И любовь неизменная.</plain>
+            <plain>Р Р»СЋР±РѕРІСЊ РЅРµРёР·РјРµРЅРЅР°СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И никто уже</plain>
+            <plain>Р РЅРёРєС‚Рѕ СѓР¶Рµ</plain>
         </string>
         <string>
-            <plain>Не лишит меня</plain>
+            <plain>РќРµ Р»РёС€РёС‚ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Этой радости неземной.</plain>
+            <plain>Р­С‚РѕР№ СЂР°РґРѕСЃС‚Рё РЅРµР·РµРјРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И когда придет</plain>
+            <plain>Р РєРѕРіРґР° РїСЂРёРґРµС‚</plain>
         </string>
         <string>
-            <plain>Тот последний час,</plain>
+            <plain>РўРѕС‚ РїРѕСЃР»РµРґРЅРёР№ С‡Р°СЃ,</plain>
         </string>
         <string>
-            <plain>Верю, примешь меня к Себе.</plain>
+            <plain>Р’РµСЂСЋ, РїСЂРёРјРµС€СЊ РјРµРЅСЏ Рє РЎРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

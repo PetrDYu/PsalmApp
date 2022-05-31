@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2056" name="Вот опять наступила осень" canon="false" text="" textRus="" music="">
+<psalm number="2056" name="Р’РѕС‚ РѕРїСЏС‚СЊ РЅР°СЃС‚СѓРїРёР»Р° РѕСЃРµРЅСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот опять наступила осень,</plain>
+            <plain>Р’РѕС‚ РѕРїСЏС‚СЊ РЅР°СЃС‚СѓРїРёР»Р° РѕСЃРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Листья счастья по свету ищут,</plain>
+            <plain>Р›РёСЃС‚СЊСЏ СЃС‡Р°СЃС‚СЊСЏ РїРѕ СЃРІРµС‚Сѓ РёС‰СѓС‚,</plain>
         </string>
         <string>
-            <plain>Дождь слезливо о чем-то просит,</plain>
+            <plain>Р”РѕР¶РґСЊ СЃР»РµР·Р»РёРІРѕ Рѕ С‡РµРј-С‚Рѕ РїСЂРѕСЃРёС‚,</plain>
         </string>
         <string>
-            <plain>Словно нищий.</plain>
+            <plain>РЎР»РѕРІРЅРѕ РЅРёС‰РёР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>И с прощальным напевом птицы</plain>
+            <plain>Р СЃ РїСЂРѕС‰Р°Р»СЊРЅС‹Рј РЅР°РїРµРІРѕРј РїС‚РёС†С‹</plain>
         </string>
         <string>
-            <plain>Улетают вдогонку лету,</plain>
+            <plain>РЈР»РµС‚Р°СЋС‚ РІРґРѕРіРѕРЅРєСѓ Р»РµС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>И куда-то душа стремится,</plain>
+            <plain>Р РєСѓРґР°-С‚Рѕ РґСѓС€Р° СЃС‚СЂРµРјРёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Словно птица, тоскуя в клетке.</plain>
+            <plain>РЎР»РѕРІРЅРѕ РїС‚РёС†Р°, С‚РѕСЃРєСѓСЏ РІ РєР»РµС‚РєРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>От унылых дождей ненастных</plain>
+            <plain>РћС‚ СѓРЅС‹Р»С‹С… РґРѕР¶РґРµР№ РЅРµРЅР°СЃС‚РЅС‹С…</plain>
         </string>
         <string>
-            <plain>И от ветров тревожных песен</plain>
+            <plain>Р РѕС‚ РІРµС‚СЂРѕРІ С‚СЂРµРІРѕР¶РЅС‹С… РїРµСЃРµРЅ</plain>
         </string>
         <string>
-            <plain>Так хотелось бы вдруг попасть мне</plain>
+            <plain>РўР°Рє С…РѕС‚РµР»РѕСЃСЊ Р±С‹ РІРґСЂСѓРі РїРѕРїР°СЃС‚СЊ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>В край небесный.</plain>
+            <plain>Р’ РєСЂР°Р№ РЅРµР±РµСЃРЅС‹Р№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В том краю нет скорбей, тревоги,</plain>
+            <plain>Р’ С‚РѕРј РєСЂР°СЋ РЅРµС‚ СЃРєРѕСЂР±РµР№, С‚СЂРµРІРѕРіРё,</plain>
         </string>
         <string>
-            <plain>Там Спаситель нас ждет с любовью,</plain>
+            <plain>РўР°Рј РЎРїР°СЃРёС‚РµР»СЊ РЅР°СЃ Р¶РґРµС‚ СЃ Р»СЋР±РѕРІСЊСЋ,</plain>
         </string>
         <string>
-            <plain>Осветив путь земной дороги</plain>
+            <plain>РћСЃРІРµС‚РёРІ РїСѓС‚СЊ Р·РµРјРЅРѕР№ РґРѕСЂРѕРіРё</plain>
         </string>
         <string>
-            <plain>Своей Кровью.</plain>
+            <plain>РЎРІРѕРµР№ РљСЂРѕРІСЊСЋ.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Там не будет прощальных песен,</plain>
+            <plain>РўР°Рј РЅРµ Р±СѓРґРµС‚ РїСЂРѕС‰Р°Р»СЊРЅС‹С… РїРµСЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>Позабудет душа печали</plain>
+            <plain>РџРѕР·Р°Р±СѓРґРµС‚ РґСѓС€Р° РїРµС‡Р°Р»Рё</plain>
         </string>
         <string>
-            <plain>И со всеми святыми вместе</plain>
+            <plain>Р СЃРѕ РІСЃРµРјРё СЃРІСЏС‚С‹РјРё РІРјРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>Иисуса Христа прославит.</plain>
+            <plain>РРёСЃСѓСЃР° РҐСЂРёСЃС‚Р° РїСЂРѕСЃР»Р°РІРёС‚.</plain>
         </string>
     </chorus>
 </psalm>

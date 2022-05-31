@@ -1,92 +1,92 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2619" name="О грешник к Иисусу приди" canon="false" text="" textRus="" music="">
+<psalm number="2619" name="Рћ РіСЂРµС€РЅРёРє Рє РРёСЃСѓСЃСѓ РїСЂРёРґРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О грешник, к Иисусу приди,</plain>
+            <plain>Рћ РіСЂРµС€РЅРёРє, Рє РРёСЃСѓСЃСѓ РїСЂРёРґРё,</plain>
         </string>
         <string>
-            <plain>На славу Его гляди!</plain>
+            <plain>РќР° СЃР»Р°РІСѓ Р•РіРѕ РіР»СЏРґРё!</plain>
         </string>
         <string>
-            <plain>Познай, как велик Он, богат,</plain>
+            <plain>РџРѕР·РЅР°Р№, РєР°Рє РІРµР»РёРє РћРЅ, Р±РѕРіР°С‚,</plain>
         </string>
         <string>
-            <plain>Какой Его дивный сад.</plain>
+            <plain>РљР°РєРѕР№ Р•РіРѕ РґРёРІРЅС‹Р№ СЃР°Рґ.</plain>
         </string>
         <string>
-            <plain>В саду том растут у воды</plain>
+            <plain>Р’ СЃР°РґСѓ С‚РѕРј СЂР°СЃС‚СѓС‚ Сѓ РІРѕРґС‹</plain>
         </string>
         <string>
-            <plain>Прекрасные Божьи плоды:</plain>
+            <plain>РџСЂРµРєСЂР°СЃРЅС‹Рµ Р‘РѕР¶СЊРё РїР»РѕРґС‹:</plain>
         </string>
         <string>
-            <plain>Прощены, спасены и мир,</plain>
+            <plain>РџСЂРѕС‰РµРЅС‹, СЃРїР°СЃРµРЅС‹ Рё РјРёСЂ,</plain>
         </string>
         <string>
-            <plain>И там приготовлен пир.</plain>
+            <plain>Р С‚Р°Рј РїСЂРёРіРѕС‚РѕРІР»РµРЅ РїРёСЂ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Приди, приди! О грешник, к Иисусу приди,</plain>
+            <plain>РџСЂРёРґРё, РїСЂРёРґРё! Рћ РіСЂРµС€РЅРёРє, Рє РРёСЃСѓСЃСѓ РїСЂРёРґРё,</plain>
         </string>
         <string>
-            <plain>Гляди, гляди, На славу Его погляди (гляди).</plain>
+            <plain>Р“Р»СЏРґРё, РіР»СЏРґРё, РќР° СЃР»Р°РІСѓ Р•РіРѕ РїРѕРіР»СЏРґРё (РіР»СЏРґРё).</plain>
         </string>
         <string>
-            <plain>Иисус зовет, Грешникам дает жизнь вечную.</plain>
+            <plain>РРёСЃСѓСЃ Р·РѕРІРµС‚, Р“СЂРµС€РЅРёРєР°Рј РґР°РµС‚ Р¶РёР·РЅСЊ РІРµС‡РЅСѓСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Послушай: Господний посол</plain>
+            <plain>РџРѕСЃР»СѓС€Р°Р№: Р“РѕСЃРїРѕРґРЅРёР№ РїРѕСЃРѕР»</plain>
         </string>
         <string>
-            <plain>Зовет и тебя за стол.</plain>
+            <plain>Р—РѕРІРµС‚ Рё С‚РµР±СЏ Р·Р° СЃС‚РѕР».</plain>
         </string>
         <string>
-            <plain>Ты будешь с Царем восседать,</plain>
+            <plain>РўС‹ Р±СѓРґРµС€СЊ СЃ Р¦Р°СЂРµРј РІРѕСЃСЃРµРґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>С Ним радостно пировать.</plain>
+            <plain>РЎ РќРёРј СЂР°РґРѕСЃС‚РЅРѕ РїРёСЂРѕРІР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Голодные вкусят уста,</plain>
+            <plain>Р“РѕР»РѕРґРЅС‹Рµ РІРєСѓСЃСЏС‚ СѓСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Как сладки плоды у Христа;</plain>
+            <plain>РљР°Рє СЃР»Р°РґРєРё РїР»РѕРґС‹ Сѓ РҐСЂРёСЃС‚Р°;</plain>
         </string>
         <string>
-            <plain>Скитальца печальные дни</plain>
+            <plain>РЎРєРёС‚Р°Р»СЊС†Р° РїРµС‡Р°Р»СЊРЅС‹Рµ РґРЅРё</plain>
         </string>
         <string>
-            <plain>В восторг превращают они.</plain>
+            <plain>Р’ РІРѕСЃС‚РѕСЂРі РїСЂРµРІСЂР°С‰Р°СЋС‚ РѕРЅРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Уйди от бесплодных утех,</plain>
+            <plain>РЈР№РґРё РѕС‚ Р±РµСЃРїР»РѕРґРЅС‹С… СѓС‚РµС…,</plain>
         </string>
         <string>
-            <plain>Оставь свой порок и грех.</plain>
+            <plain>РћСЃС‚Р°РІСЊ СЃРІРѕР№ РїРѕСЂРѕРє Рё РіСЂРµС….</plain>
         </string>
         <string>
-            <plain>Оставь роковые рожки,</plain>
+            <plain>РћСЃС‚Р°РІСЊ СЂРѕРєРѕРІС‹Рµ СЂРѕР¶РєРё,</plain>
         </string>
         <string>
-            <plain>Расстанься с землей тоски.</plain>
+            <plain>Р Р°СЃСЃС‚Р°РЅСЊСЃСЏ СЃ Р·РµРјР»РµР№ С‚РѕСЃРєРё.</plain>
         </string>
         <string>
-            <plain>Не медли, скорей уходи,</plain>
+            <plain>РќРµ РјРµРґР»Рё, СЃРєРѕСЂРµР№ СѓС…РѕРґРё,</plain>
         </string>
         <string>
-            <plain>Других ко Христу приведи;</plain>
+            <plain>Р”СЂСѓРіРёС… РєРѕ РҐСЂРёСЃС‚Сѓ РїСЂРёРІРµРґРё;</plain>
         </string>
         <string>
-            <plain>Зови и друзей и чужих:</plain>
+            <plain>Р—РѕРІРё Рё РґСЂСѓР·РµР№ Рё С‡СѓР¶РёС…:</plain>
         </string>
         <string>
-            <plain>Открыт этот пир и для них.</plain>
+            <plain>РћС‚РєСЂС‹С‚ СЌС‚РѕС‚ РїРёСЂ Рё РґР»СЏ РЅРёС….</plain>
         </string>
     </verse>
 </psalm>

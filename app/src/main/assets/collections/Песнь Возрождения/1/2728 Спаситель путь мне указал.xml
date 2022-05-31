@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2728" name="Спаситель путь мне указал" canon="false" text="" textRus="" music="">
+<psalm number="2728" name="РЎРїР°СЃРёС‚РµР»СЊ РїСѓС‚СЊ РјРЅРµ СѓРєР°Р·Р°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Спаситель путь мне указал</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РїСѓС‚СЊ РјРЅРµ СѓРєР°Р·Р°Р»</plain>
         </string>
         <string>
-            <plain>И за Собой повел,</plain>
+            <plain>Р Р·Р° РЎРѕР±РѕР№ РїРѕРІРµР»,</plain>
         </string>
         <string>
-            <plain>И зову нежному я внял,</plain>
+            <plain>Р Р·РѕРІСѓ РЅРµР¶РЅРѕРјСѓ СЏ РІРЅСЏР»,</plain>
         </string>
         <string>
-            <plain>И за Христом пошел.</plain>
+            <plain>Р Р·Р° РҐСЂРёСЃС‚РѕРј РїРѕС€РµР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>К Тебе, Спаситель мой,</plain>
+            <plain>Рљ РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Я прихожу с мольбой,</plain>
+            <plain>РЇ РїСЂРёС…РѕР¶Сѓ СЃ РјРѕР»СЊР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Вручаю жизнь мою Тебе,</plain>
+            <plain>Р’СЂСѓС‡Р°СЋ Р¶РёР·РЅСЊ РјРѕСЋ РўРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>И весь навек я Твой.</plain>
+            <plain>Р РІРµСЃСЊ РЅР°РІРµРє СЏ РўРІРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вся жизнь моя текла рекой</plain>
+            <plain>Р’СЃСЏ Р¶РёР·РЅСЊ РјРѕСЏ С‚РµРєР»Р° СЂРµРєРѕР№</plain>
         </string>
         <string>
-            <plain>Среди потоков слез,</plain>
+            <plain>РЎСЂРµРґРё РїРѕС‚РѕРєРѕРІ СЃР»РµР·,</plain>
         </string>
         <string>
-            <plain>Но Ты грехи мои, Христос,</plain>
+            <plain>РќРѕ РўС‹ РіСЂРµС…Рё РјРѕРё, РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>На крест вознес Собой.</plain>
+            <plain>РќР° РєСЂРµСЃС‚ РІРѕР·РЅРµСЃ РЎРѕР±РѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Теперь иду я за Христом</plain>
+            <plain>РўРµРїРµСЂСЊ РёРґСѓ СЏ Р·Р° РҐСЂРёСЃС‚РѕРј</plain>
         </string>
         <string>
-            <plain>И счастлив я в пути,</plain>
+            <plain>Р СЃС‡Р°СЃС‚Р»РёРІ СЏ РІ РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>Огонь любви Твоей святой</plain>
+            <plain>РћРіРѕРЅСЊ Р»СЋР±РІРё РўРІРѕРµР№ СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Поможет мне идти.</plain>
+            <plain>РџРѕРјРѕР¶РµС‚ РјРЅРµ РёРґС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Хвалу Тебе пою</plain>
+            <plain>РҐРІР°Р»Сѓ РўРµР±Рµ РїРѕСЋ</plain>
         </string>
         <string>
-            <plain>Я за любовь Твою,</plain>
+            <plain>РЇ Р·Р° Р»СЋР±РѕРІСЊ РўРІРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Что Кровью чистою омыл</plain>
+            <plain>Р§С‚Рѕ РљСЂРѕРІСЊСЋ С‡РёСЃС‚РѕСЋ РѕРјС‹Р»</plain>
         </string>
         <string>
-            <plain>Душу грешную.</plain>
+            <plain>Р”СѓС€Сѓ РіСЂРµС€РЅСѓСЋ.</plain>
         </string>
     </chorus>
 </psalm>

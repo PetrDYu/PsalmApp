@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2896" name="Ясный день пришёл на землю" canon="false" text="" textRus="" music="">
+<psalm number="2896" name="РЇСЃРЅС‹Р№ РґРµРЅСЊ РїСЂРёС€С‘Р» РЅР° Р·РµРјР»СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ясный день пришёл на землю,</plain>
+            <plain>РЇСЃРЅС‹Р№ РґРµРЅСЊ РїСЂРёС€С‘Р» РЅР° Р·РµРјР»СЋ,</plain>
         </string>
         <string>
-            <plain>солнце вышло из-за туч</plain>
+            <plain>СЃРѕР»РЅС†Рµ РІС‹С€Р»Рѕ РёР·-Р·Р° С‚СѓС‡</plain>
         </string>
         <string>
-            <plain>- как пророки возвещали,</plain>
+            <plain>- РєР°Рє РїСЂРѕСЂРѕРєРё РІРѕР·РІРµС‰Р°Р»Рё,</plain>
         </string>
         <string>
-            <plain>что блеснёт вечерний луч.</plain>
+            <plain>С‡С‚Рѕ Р±Р»РµСЃРЅС‘С‚ РІРµС‡РµСЂРЅРёР№ Р»СѓС‡.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, прекрасный свет вечерний,</plain>
+            <plain>Рћ, РїСЂРµРєСЂР°СЃРЅС‹Р№ СЃРІРµС‚ РІРµС‡РµСЂРЅРёР№,</plain>
         </string>
         <string>
-            <plain>луч всё ярче светит твой,</plain>
+            <plain>Р»СѓС‡ РІСЃС‘ СЏСЂС‡Рµ СЃРІРµС‚РёС‚ С‚РІРѕР№,</plain>
         </string>
         <string>
-            <plain>ведь в Спасителе имеем</plain>
+            <plain>РІРµРґСЊ РІ РЎРїР°СЃРёС‚РµР»Рµ РёРјРµРµРј</plain>
         </string>
         <string>
-            <plain>мы свободу и покой.</plain>
+            <plain>РјС‹ СЃРІРѕР±РѕРґСѓ Рё РїРѕРєРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Дым из бездны скрыл</plain>
+            <plain>Р”С‹Рј РёР· Р±РµР·РґРЅС‹ СЃРєСЂС‹Р»</plain>
         </string>
         <string>
-            <plain>надолго истинный Иисуса свет,</plain>
+            <plain>РЅР°РґРѕР»РіРѕ РёСЃС‚РёРЅРЅС‹Р№ РРёСЃСѓСЃР° СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>землю мерзостью наполнил,</plain>
+            <plain>Р·РµРјР»СЋ РјРµСЂР·РѕСЃС‚СЊСЋ РЅР°РїРѕР»РЅРёР»,</plain>
         </string>
         <string>
-            <plain>но ложь вскрыл вечерний свет.</plain>
+            <plain>РЅРѕ Р»РѕР¶СЊ РІСЃРєСЂС‹Р» РІРµС‡РµСЂРЅРёР№ СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вновь спасённые приходят</plain>
+            <plain>Р’РЅРѕРІСЊ СЃРїР°СЃС‘РЅРЅС‹Рµ РїСЂРёС…РѕРґСЏС‚</plain>
         </string>
         <string>
-            <plain>в одеяньях чистоты;</plain>
+            <plain>РІ РѕРґРµСЏРЅСЊСЏС… С‡РёСЃС‚РѕС‚С‹;</plain>
         </string>
         <string>
-            <plain>все они в вечернем свете</plain>
+            <plain>РІСЃРµ РѕРЅРё РІ РІРµС‡РµСЂРЅРµРј СЃРІРµС‚Рµ</plain>
         </string>
         <string>
-            <plain>воспевают песнь хвалы.</plain>
+            <plain>РІРѕСЃРїРµРІР°СЋС‚ РїРµСЃРЅСЊ С…РІР°Р»С‹.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Нет здесь рабства Вавилона,</plain>
+            <plain>РќРµС‚ Р·РґРµСЃСЊ СЂР°Р±СЃС‚РІР° Р’Р°РІРёР»РѕРЅР°,</plain>
         </string>
         <string>
-            <plain>всем Иисус свободу дал,</plain>
+            <plain>РІСЃРµРј РРёСЃСѓСЃ СЃРІРѕР±РѕРґСѓ РґР°Р»,</plain>
         </string>
         <string>
-            <plain>ликованьем все объяты</plain>
+            <plain>Р»РёРєРѕРІР°РЅСЊРµРј РІСЃРµ РѕР±СЉСЏС‚С‹</plain>
         </string>
         <string>
-            <plain>- свет вечерний засиял.</plain>
+            <plain>- СЃРІРµС‚ РІРµС‡РµСЂРЅРёР№ Р·Р°СЃРёСЏР».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Аллилуйя! Пойте песни</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ! РџРѕР№С‚Рµ РїРµСЃРЅРё</plain>
         </string>
         <string>
-            <plain>о победе во Христе;</plain>
+            <plain>Рѕ РїРѕР±РµРґРµ РІРѕ РҐСЂРёСЃС‚Рµ;</plain>
         </string>
         <string>
-            <plain>Господа вы восхвалите,</plain>
+            <plain>Р“РѕСЃРїРѕРґР° РІС‹ РІРѕСЃС…РІР°Р»РёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>свет Он истинный душе.</plain>
+            <plain>СЃРІРµС‚ РћРЅ РёСЃС‚РёРЅРЅС‹Р№ РґСѓС€Рµ.</plain>
         </string>
     </verse>
 </psalm>

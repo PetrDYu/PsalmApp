@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2185" name="Куда пойду кому скажу" canon="false" text="" textRus="" music="">
+<psalm number="2185" name="РљСѓРґР° РїРѕР№РґСѓ РєРѕРјСѓ СЃРєР°Р¶Сѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Куда пойду, кому скажу</plain>
+            <plain>РљСѓРґР° РїРѕР№РґСѓ, РєРѕРјСѓ СЃРєР°Р¶Сѓ</plain>
         </string>
         <string>
-            <plain>Мою всю грусть и боль души?</plain>
+            <plain>РњРѕСЋ РІСЃСЋ РіСЂСѓСЃС‚СЊ Рё Р±РѕР»СЊ РґСѓС€Рё?</plain>
         </string>
         <string>
-            <plain>Где тот, что может ободрить</plain>
+            <plain>Р“РґРµ С‚РѕС‚, С‡С‚Рѕ РјРѕР¶РµС‚ РѕР±РѕРґСЂРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И поддержать рукой своей?</plain>
+            <plain>Р РїРѕРґРґРµСЂР¶Р°С‚СЊ СЂСѓРєРѕР№ СЃРІРѕРµР№?</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Кругом меня толпа людей,</plain>
+            <plain>РљСЂСѓРіРѕРј РјРµРЅСЏ С‚РѕР»РїР° Р»СЋРґРµР№,</plain>
         </string>
         <string>
-            <plain>Порою тесно мне от ней.</plain>
+            <plain>РџРѕСЂРѕСЋ С‚РµСЃРЅРѕ РјРЅРµ РѕС‚ РЅРµР№.</plain>
         </string>
         <string>
-            <plain>Но каждый занят лишь собой,</plain>
+            <plain>РќРѕ РєР°Р¶РґС‹Р№ Р·Р°РЅСЏС‚ Р»РёС€СЊ СЃРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Никто не понял чувств моих.</plain>
+            <plain>РќРёРєС‚Рѕ РЅРµ РїРѕРЅСЏР» С‡СѓРІСЃС‚РІ РјРѕРёС….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ведь я для них совсем чужой,</plain>
+            <plain>Р’РµРґСЊ СЏ РґР»СЏ РЅРёС… СЃРѕРІСЃРµРј С‡СѓР¶РѕР№,</plain>
         </string>
         <string>
-            <plain>Никто не может пожалеть</plain>
+            <plain>РќРёРєС‚Рѕ РЅРµ РјРѕР¶РµС‚ РїРѕР¶Р°Р»РµС‚СЊ</plain>
         </string>
         <string>
-            <plain>И добрым словом приласкать</plain>
+            <plain>Р РґРѕР±СЂС‹Рј СЃР»РѕРІРѕРј РїСЂРёР»Р°СЃРєР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>И вместе сердцем поболеть.</plain>
+            <plain>Р РІРјРµСЃС‚Рµ СЃРµСЂРґС†РµРј РїРѕР±РѕР»РµС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Порой мечта поднимет дух,</plain>
+            <plain>РџРѕСЂРѕР№ РјРµС‡С‚Р° РїРѕРґРЅРёРјРµС‚ РґСѓС…,</plain>
         </string>
         <string>
-            <plain>И станет на душе легко,</plain>
+            <plain>Р СЃС‚Р°РЅРµС‚ РЅР° РґСѓС€Рµ Р»РµРіРєРѕ,</plain>
         </string>
         <string>
-            <plain>Считаю дни, часы и вдруг...</plain>
+            <plain>РЎС‡РёС‚Р°СЋ РґРЅРё, С‡Р°СЃС‹ Рё РІРґСЂСѓРі...</plain>
         </string>
         <string>
-            <plain>И это счастье далеко.</plain>
+            <plain>Р СЌС‚Рѕ СЃС‡Р°СЃС‚СЊРµ РґР°Р»РµРєРѕ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Куда пойду, кому скажу</plain>
+            <plain>РљСѓРґР° РїРѕР№РґСѓ, РєРѕРјСѓ СЃРєР°Р¶Сѓ</plain>
         </string>
         <string>
-            <plain>Всю грусть и боль души моей?</plain>
+            <plain>Р’СЃСЋ РіСЂСѓСЃС‚СЊ Рё Р±РѕР»СЊ РґСѓС€Рё РјРѕРµР№?</plain>
         </string>
         <string>
-            <plain>К Тебе лишь я, о, верный Друг,</plain>
+            <plain>Рљ РўРµР±Рµ Р»РёС€СЊ СЏ, Рѕ, РІРµСЂРЅС‹Р№ Р”СЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Склонюсь на грудь главой своей.</plain>
+            <plain>РЎРєР»РѕРЅСЋСЃСЊ РЅР° РіСЂСѓРґСЊ РіР»Р°РІРѕР№ СЃРІРѕРµР№.</plain>
         </string>
     </verse>
 </psalm>

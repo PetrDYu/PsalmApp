@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2972" name="К жизни один лишь путь" canon="false" text="" textRus="" music="">
+<psalm number="2972" name="Рљ Р¶РёР·РЅРё РѕРґРёРЅ Р»РёС€СЊ РїСѓС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>К жизни один лишь путь:</plain>
+            <plain>Рљ Р¶РёР·РЅРё РѕРґРёРЅ Р»РёС€СЊ РїСѓС‚СЊ:</plain>
         </string>
         <string>
-            <plain>«Я - жизнь И путь!»</plain>
+            <plain>В«РЇ - Р¶РёР·РЅСЊ Р РїСѓС‚СЊ!В»</plain>
         </string>
         <string>
-            <plain>Одна открыта дверь:</plain>
+            <plain>РћРґРЅР° РѕС‚РєСЂС‹С‚Р° РґРІРµСЂСЊ:</plain>
         </string>
         <string>
-            <plain>«Я - овцам дверь!»</plain>
+            <plain>В«РЇ - РѕРІС†Р°Рј РґРІРµСЂСЊ!В»</plain>
         </string>
         <string>
-            <plain>и Пастырь лишь один</plain>
+            <plain>Рё РџР°СЃС‚С‹СЂСЊ Р»РёС€СЊ РѕРґРёРЅ</plain>
         </string>
         <string>
-            <plain>ищет овец Своих,</plain>
+            <plain>РёС‰РµС‚ РѕРІРµС† РЎРІРѕРёС…,</plain>
         </string>
         <string>
-            <plain>и Агнец лишь один</plain>
+            <plain>Рё РђРіРЅРµС† Р»РёС€СЊ РѕРґРёРЅ</plain>
         </string>
         <string>
-            <plain>умер за них!</plain>
+            <plain>СѓРјРµСЂ Р·Р° РЅРёС…!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Один лишь узкий путь;</plain>
+            <plain>РћРґРёРЅ Р»РёС€СЊ СѓР·РєРёР№ РїСѓС‚СЊ;</plain>
         </string>
         <string>
-            <plain>«Я жизнь И путь!»</plain>
+            <plain>В«РЇ Р¶РёР·РЅСЊ Р РїСѓС‚СЊ!В»</plain>
         </string>
         <string>
-            <plain>Одна открыта дверь:</plain>
+            <plain>РћРґРЅР° РѕС‚РєСЂС‹С‚Р° РґРІРµСЂСЊ:</plain>
         </string>
         <string>
-            <plain>«Я - дверь овцам!»</plain>
+            <plain>В«РЇ - РґРІРµСЂСЊ РѕРІС†Р°Рј!В»</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Его святой народ</plain>
+            <plain>Р•РіРѕ СЃРІСЏС‚РѕР№ РЅР°СЂРѕРґ</plain>
         </string>
         <string>
-            <plain>един во всем,</plain>
+            <plain>РµРґРёРЅ РІРѕ РІСЃРµРј,</plain>
         </string>
         <string>
-            <plain>как в дни апостолов</plain>
+            <plain>РєР°Рє РІ РґРЅРё Р°РїРѕСЃС‚РѕР»РѕРІ</plain>
         </string>
         <string>
-            <plain>- Церковь с Христом.</plain>
+            <plain>- Р¦РµСЂРєРѕРІСЊ СЃ РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
         <string>
-            <plain>И лишь одна рука ночью ведет</plain>
+            <plain>Р Р»РёС€СЊ РѕРґРЅР° СЂСѓРєР° РЅРѕС‡СЊСЋ РІРµРґРµС‚</plain>
         </string>
         <string>
-            <plain>и днем стадо,</plain>
+            <plain>Рё РґРЅРµРј СЃС‚Р°РґРѕ,</plain>
         </string>
         <string>
-            <plain>где я - овца</plain>
+            <plain>РіРґРµ СЏ - РѕРІС†Р°</plain>
         </string>
         <string>
-            <plain>в Отцовский дом.</plain>
+            <plain>РІ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Смотри, святая кровь</plain>
+            <plain>РЎРјРѕС‚СЂРё, СЃРІСЏС‚Р°СЏ РєСЂРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>с креста текла</plain>
+            <plain>СЃ РєСЂРµСЃС‚Р° С‚РµРєР»Р°</plain>
         </string>
         <string>
-            <plain>- насмерть твой верный</plain>
+            <plain>- РЅР°СЃРјРµСЂС‚СЊ С‚РІРѕР№ РІРµСЂРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Друг шел за тебя!</plain>
+            <plain>Р”СЂСѓРі С€РµР» Р·Р° С‚РµР±СЏ!</plain>
         </string>
         <string>
-            <plain>И лишь у ног Христа</plain>
+            <plain>Р Р»РёС€СЊ Сѓ РЅРѕРі РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>найдешь душе покой,</plain>
+            <plain>РЅР°Р№РґРµС€СЊ РґСѓС€Рµ РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>лишь у Него</plain>
+            <plain>Р»РёС€СЊ Сѓ РќРµРіРѕ</plain>
         </string>
         <string>
-            <plain>поток воды живой.</plain>
+            <plain>РїРѕС‚РѕРє РІРѕРґС‹ Р¶РёРІРѕР№.</plain>
         </string>
     </verse>
 </psalm>

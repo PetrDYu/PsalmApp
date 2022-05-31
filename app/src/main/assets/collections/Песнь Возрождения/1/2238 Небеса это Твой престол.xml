@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2238" name="Небеса это Твой престол" canon="false" text="" textRus="" music="">
+<psalm number="2238" name="РќРµР±РµСЃР° СЌС‚Рѕ РўРІРѕР№ РїСЂРµСЃС‚РѕР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Небеса - это Твой престол,</plain>
+            <plain>РќРµР±РµСЃР° - СЌС‚Рѕ РўРІРѕР№ РїСЂРµСЃС‚РѕР»,</plain>
         </string>
         <string>
-            <plain>А земля - подножие ног Твоих.</plain>
+            <plain>Рђ Р·РµРјР»СЏ - РїРѕРґРЅРѕР¶РёРµ РЅРѕРі РўРІРѕРёС….</plain>
         </string>
         <string>
-            <plain>Где же можно построить дом для Тебя,</plain>
+            <plain>Р“РґРµ Р¶Рµ РјРѕР¶РЅРѕ РїРѕСЃС‚СЂРѕРёС‚СЊ РґРѕРј РґР»СЏ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Где бы Ты в покое жил?</plain>
+            <plain>Р“РґРµ Р±С‹ РўС‹ РІ РїРѕРєРѕРµ Р¶РёР»?</plain>
         </string>
         <string>
-            <plain>О, Господь, я Тебе отдаю</plain>
+            <plain>Рћ, Р“РѕСЃРїРѕРґСЊ, СЏ РўРµР±Рµ РѕС‚РґР°СЋ</plain>
         </string>
         <string>
-            <plain>Сокрушённое сердце моё.</plain>
+            <plain>РЎРѕРєСЂСѓС€С‘РЅРЅРѕРµ СЃРµСЂРґС†Рµ РјРѕС‘.</plain>
         </string>
         <string>
-            <plain>О, Отец, Я Тебя люблю,</plain>
+            <plain>Рћ, РћС‚РµС†, РЇ РўРµР±СЏ Р»СЋР±Р»СЋ,</plain>
         </string>
         <string>
-            <plain>И да святится имя Твоё.</plain>
+            <plain>Р РґР° СЃРІСЏС‚РёС‚СЃСЏ РёРјСЏ РўРІРѕС‘.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Так да святится имя Твоё</plain>
+            <plain>РўР°Рє РґР° СЃРІСЏС‚РёС‚СЃСЏ РёРјСЏ РўРІРѕС‘</plain>
         </string>
         <string>
-            <plain>На земле и на небесах.</plain>
+            <plain>РќР° Р·РµРјР»Рµ Рё РЅР° РЅРµР±РµСЃР°С….</plain>
         </string>
         <string>
-            <plain>Так да святится имя Твоё</plain>
+            <plain>РўР°Рє РґР° СЃРІСЏС‚РёС‚СЃСЏ РёРјСЏ РўРІРѕС‘</plain>
         </string>
         <string>
-            <plain>В нашей жизни и в наших сердцах, О Господь!</plain>
+            <plain>Р’ РЅР°С€РµР№ Р¶РёР·РЅРё Рё РІ РЅР°С€РёС… СЃРµСЂРґС†Р°С…, Рћ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Верю я: мой сердечный дом</plain>
+            <plain>Р’РµСЂСЋ СЏ: РјРѕР№ СЃРµСЂРґРµС‡РЅС‹Р№ РґРѕРј</plain>
         </string>
         <string>
-            <plain>Стал обителью Духа Святого,</plain>
+            <plain>РЎС‚Р°Р» РѕР±РёС‚РµР»СЊСЋ Р”СѓС…Р° РЎРІСЏС‚РѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>И любовь поселилась в нём</plain>
+            <plain>Р Р»СЋР±РѕРІСЊ РїРѕСЃРµР»РёР»Р°СЃСЊ РІ РЅС‘Рј</plain>
         </string>
         <string>
-            <plain>- Это выше богатства земного.</plain>
+            <plain>- Р­С‚Рѕ РІС‹С€Рµ Р±РѕРіР°С‚СЃС‚РІР° Р·РµРјРЅРѕРіРѕ.</plain>
         </string>
         <string>
-            <plain>Мой Господь, я Тебе отдаю</plain>
+            <plain>РњРѕР№ Р“РѕСЃРїРѕРґСЊ, СЏ РўРµР±Рµ РѕС‚РґР°СЋ</plain>
         </string>
         <string>
-            <plain>Жертву уст - приношенье моё.</plain>
+            <plain>Р–РµСЂС‚РІСѓ СѓСЃС‚ - РїСЂРёРЅРѕС€РµРЅСЊРµ РјРѕС‘.</plain>
         </string>
         <string>
-            <plain>О, Иисус, я Тебя люблю,</plain>
+            <plain>Рћ, РРёСЃСѓСЃ, СЏ РўРµР±СЏ Р»СЋР±Р»СЋ,</plain>
         </string>
         <string>
-            <plain>И да святится имя Твоё.</plain>
+            <plain>Р РґР° СЃРІСЏС‚РёС‚СЃСЏ РёРјСЏ РўРІРѕС‘.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2599" name="Если солнце в тучах скрылось" canon="false" text="" textRus="" music="">
+<psalm number="2599" name="Р•СЃР»Рё СЃРѕР»РЅС†Рµ РІ С‚СѓС‡Р°С… СЃРєСЂС‹Р»РѕСЃСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Если солнце в тучах скрылось,</plain>
+            <plain>Р•СЃР»Рё СЃРѕР»РЅС†Рµ РІ С‚СѓС‡Р°С… СЃРєСЂС‹Р»РѕСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Темен путь перед тобой,</plain>
+            <plain>РўРµРјРµРЅ РїСѓС‚СЊ РїРµСЂРµРґ С‚РѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Если сердце утомилось</plain>
+            <plain>Р•СЃР»Рё СЃРµСЂРґС†Рµ СѓС‚РѕРјРёР»РѕСЃСЊ</plain>
         </string>
         <string>
-            <plain>Постоянною борьбой.</plain>
+            <plain>РџРѕСЃС‚РѕСЏРЅРЅРѕСЋ Р±РѕСЂСЊР±РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В те минуты, брат мой милый,</plain>
+            <plain>Р’ С‚Рµ РјРёРЅСѓС‚С‹, Р±СЂР°С‚ РјРѕР№ РјРёР»С‹Р№,</plain>
         </string>
         <string>
-            <plain>Знаешь ты, куда спешить.</plain>
+            <plain>Р—РЅР°РµС€СЊ С‚С‹, РєСѓРґР° СЃРїРµС€РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Ты усталый (и унылый),</plain>
+            <plain>РўС‹ СѓСЃС‚Р°Р»С‹Р№ (Рё СѓРЅС‹Р»С‹Р№),</plain>
         </string>
         <string>
-            <plain>Знаешь, где (тоску) излить.</plain>
+            <plain>Р—РЅР°РµС€СЊ, РіРґРµ (С‚РѕСЃРєСѓ) РёР·Р»РёС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В тихой кроткой ты молитве</plain>
+            <plain>Р’ С‚РёС…РѕР№ РєСЂРѕС‚РєРѕР№ С‚С‹ РјРѕР»РёС‚РІРµ</plain>
         </string>
         <string>
-            <plain>Пред Отцом склони главу,</plain>
+            <plain>РџСЂРµРґ РћС‚С†РѕРј СЃРєР»РѕРЅРё РіР»Р°РІСѓ,</plain>
         </string>
         <string>
-            <plain>Чтобы Он в житейской битве</plain>
+            <plain>Р§С‚РѕР±С‹ РћРЅ РІ Р¶РёС‚РµР№СЃРєРѕР№ Р±РёС‚РІРµ</plain>
         </string>
         <string>
-            <plain>Проявил любовь Свою.</plain>
+            <plain>РџСЂРѕСЏРІРёР» Р»СЋР±РѕРІСЊ РЎРІРѕСЋ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но ведь много есть несчастных,</plain>
+            <plain>РќРѕ РІРµРґСЊ РјРЅРѕРіРѕ РµСЃС‚СЊ РЅРµСЃС‡Р°СЃС‚РЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Тех страдающих, больных,</plain>
+            <plain>РўРµС… СЃС‚СЂР°РґР°СЋС‰РёС…, Р±РѕР»СЊРЅС‹С…,</plain>
         </string>
         <string>
-            <plain>Кто не знает о прекрасных</plain>
+            <plain>РљС‚Рѕ РЅРµ Р·РЅР°РµС‚ Рѕ РїСЂРµРєСЂР°СЃРЅС‹С…</plain>
         </string>
         <string>
-            <plain>Божьих милостях святых.</plain>
+            <plain>Р‘РѕР¶СЊРёС… РјРёР»РѕСЃС‚СЏС… СЃРІСЏС‚С‹С….</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И о них в мольбе пред Богом</plain>
+            <plain>Р Рѕ РЅРёС… РІ РјРѕР»СЊР±Рµ РїСЂРµРґ Р‘РѕРіРѕРј</plain>
         </string>
         <string>
-            <plain>Также вспомни ты порой,</plain>
+            <plain>РўР°РєР¶Рµ РІСЃРїРѕРјРЅРё С‚С‹ РїРѕСЂРѕР№,</plain>
         </string>
         <string>
-            <plain>Чтоб и в сердце их убогом</plain>
+            <plain>Р§С‚РѕР± Рё РІ СЃРµСЂРґС†Рµ РёС… СѓР±РѕРіРѕРј</plain>
         </string>
         <string>
-            <plain>Засиял Христа покой.</plain>
+            <plain>Р—Р°СЃРёСЏР» РҐСЂРёСЃС‚Р° РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

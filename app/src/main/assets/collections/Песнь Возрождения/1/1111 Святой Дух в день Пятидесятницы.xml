@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1111" name="Святой Дух в день Пятидесятницы" canon="false" text="" textRus="" music="">
+<psalm number="1111" name="РЎРІСЏС‚РѕР№ Р”СѓС… РІ РґРµРЅСЊ РџСЏС‚РёРґРµСЃСЏС‚РЅРёС†С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Святой Дух в день Пятидесятницы</plain>
+            <plain>РЎРІСЏС‚РѕР№ Р”СѓС… РІ РґРµРЅСЊ РџСЏС‚РёРґРµСЃСЏС‚РЅРёС†С‹</plain>
         </string>
         <string>
-            <plain>С великой силою сошел.</plain>
+            <plain>РЎ РІРµР»РёРєРѕР№ СЃРёР»РѕСЋ СЃРѕС€РµР».</plain>
         </string>
         <string>
-            <plain>И чрез служение апостолов.</plain>
+            <plain>Р С‡СЂРµР· СЃР»СѓР¶РµРЅРёРµ Р°РїРѕСЃС‚РѕР»РѕРІ.</plain>
         </string>
         <string>
-            <plain>Он души к Господу привел.</plain>
+            <plain>РћРЅ РґСѓС€Рё Рє Р“РѕСЃРїРѕРґСѓ РїСЂРёРІРµР».</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Рассеянные чрез гонения.</plain>
+            <plain>Р Р°СЃСЃРµСЏРЅРЅС‹Рµ С‡СЂРµР· РіРѕРЅРµРЅРёСЏ.</plain>
         </string>
         <string>
-            <plain>Они узнали о Христе,</plain>
+            <plain>РћРЅРё СѓР·РЅР°Р»Рё Рѕ РҐСЂРёСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>С великим в сердце дерзновением</plain>
+            <plain>РЎ РІРµР»РёРєРёРј РІ СЃРµСЂРґС†Рµ РґРµСЂР·РЅРѕРІРµРЅРёРµРј</plain>
         </string>
         <string>
-            <plain>Смерть принимали на кресте.</plain>
+            <plain>РЎРјРµСЂС‚СЊ РїСЂРёРЅРёРјР°Р»Рё РЅР° РєСЂРµСЃС‚Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Сойди, Святой Дух,</plain>
+            <plain>РЎРѕР№РґРё, РЎРІСЏС‚РѕР№ Р”СѓС…,</plain>
         </string>
         <string>
-            <plain>Мир весь во зле.</plain>
+            <plain>РњРёСЂ РІРµСЃСЊ РІРѕ Р·Р»Рµ.</plain>
         </string>
         <string>
-            <plain>Силой исполни нас</plain>
+            <plain>РЎРёР»РѕР№ РёСЃРїРѕР»РЅРё РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>И укрепи в борьбе!</plain>
+            <plain>Р СѓРєСЂРµРїРё РІ Р±РѕСЂСЊР±Рµ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Действуй среди нас.</plain>
+            <plain>Р”РµР№СЃС‚РІСѓР№ СЃСЂРµРґРё РЅР°СЃ.</plain>
         </string>
         <string>
-            <plain>Силу вдохни.</plain>
+            <plain>РЎРёР»Сѓ РІРґРѕС…РЅРё.</plain>
         </string>
         <string>
-            <plain>Сойди, Святой Дух,</plain>
+            <plain>РЎРѕР№РґРё, РЎРІСЏС‚РѕР№ Р”СѓС…,</plain>
         </string>
         <string>
-            <plain>И церковь пробуди!</plain>
+            <plain>Р С†РµСЂРєРѕРІСЊ РїСЂРѕР±СѓРґРё!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Когда же вновь грех землю омрачил,</plain>
+            <plain>РљРѕРіРґР° Р¶Рµ РІРЅРѕРІСЊ РіСЂРµС… Р·РµРјР»СЋ РѕРјСЂР°С‡РёР»,</plain>
         </string>
         <string>
-            <plain>Раздался Божий зов опять.</plain>
+            <plain>Р Р°Р·РґР°Р»СЃСЏ Р‘РѕР¶РёР№ Р·РѕРІ РѕРїСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Уснувших Дух Святой вновь пробудил,</plain>
+            <plain>РЈСЃРЅСѓРІС€РёС… Р”СѓС… РЎРІСЏС‚РѕР№ РІРЅРѕРІСЊ РїСЂРѕР±СѓРґРёР»,</plain>
         </string>
         <string>
-            <plain>Христа велел им возвещать.</plain>
+            <plain>РҐСЂРёСЃС‚Р° РІРµР»РµР» РёРј РІРѕР·РІРµС‰Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Святой Дух, сойди нас пробудить.</plain>
+            <plain>РЎРІСЏС‚РѕР№ Р”СѓС…, СЃРѕР№РґРё РЅР°СЃ РїСЂРѕР±СѓРґРёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Чтобы могли мы свято жить,</plain>
+            <plain>Р§С‚РѕР±С‹ РјРѕРіР»Рё РјС‹ СЃРІСЏС‚Рѕ Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>О, как нуждаемся в Тебе мы, Дух Святой,</plain>
+            <plain>Рћ, РєР°Рє РЅСѓР¶РґР°РµРјСЃСЏ РІ РўРµР±Рµ РјС‹, Р”СѓС… РЎРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Разбить оковы силы злой.</plain>
+            <plain>Р Р°Р·Р±РёС‚СЊ РѕРєРѕРІС‹ СЃРёР»С‹ Р·Р»РѕР№.</plain>
         </string>
     </verse>
 </psalm>

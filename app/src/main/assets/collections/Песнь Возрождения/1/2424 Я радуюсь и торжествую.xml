@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2424" name="Я радуюсь и торжествую" canon="false" text="" textRus="" music="">
+<psalm number="2424" name="РЇ СЂР°РґСѓСЋСЃСЊ Рё С‚РѕСЂР¶РµСЃС‚РІСѓСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я радуюсь и торжествую,</plain>
+            <plain>РЇ СЂР°РґСѓСЋСЃСЊ Рё С‚РѕСЂР¶РµСЃС‚РІСѓСЋ,</plain>
         </string>
         <string>
-            <plain>Спасенный я кровью Христа,</plain>
+            <plain>РЎРїР°СЃРµРЅРЅС‹Р№ СЏ РєСЂРѕРІСЊСЋ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Иисуса имя прославляю</plain>
+            <plain>РРёСЃСѓСЃР° РёРјСЏ РїСЂРѕСЃР»Р°РІР»СЏСЋ</plain>
         </string>
         <string>
-            <plain>За подвиг Голгофы креста.</plain>
+            <plain>Р—Р° РїРѕРґРІРёРі Р“РѕР»РіРѕС„С‹ РєСЂРµСЃС‚Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус меня освободил,</plain>
+            <plain>РРёСЃСѓСЃ РјРµРЅСЏ РѕСЃРІРѕР±РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>На крест Голгофский взойдя,</plain>
+            <plain>РќР° РєСЂРµСЃС‚ Р“РѕР»РіРѕС„СЃРєРёР№ РІР·РѕР№РґСЏ,</plain>
         </string>
         <string>
-            <plain>Грехи простил, в крови омыл,</plain>
+            <plain>Р“СЂРµС…Рё РїСЂРѕСЃС‚РёР», РІ РєСЂРѕРІРё РѕРјС‹Р»,</plain>
         </string>
         <string>
-            <plain>И ныне я Божье дитя.</plain>
+            <plain>Р РЅС‹РЅРµ СЏ Р‘РѕР¶СЊРµ РґРёС‚СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Христос в моей душе родился,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РІ РјРѕРµР№ РґСѓС€Рµ СЂРѕРґРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Словами нельзя рассказать.</plain>
+            <plain>РЎР»РѕРІР°РјРё РЅРµР»СЊР·СЏ СЂР°СЃСЃРєР°Р·Р°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Он в моём сердце поселился,</plain>
+            <plain>РћРЅ РІ РјРѕС‘Рј СЃРµСЂРґС†Рµ РїРѕСЃРµР»РёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>И хочет Он в нём обитать.</plain>
+            <plain>Р С…РѕС‡РµС‚ РћРЅ РІ РЅС‘Рј РѕР±РёС‚Р°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Конец страданьям и печалям</plain>
+            <plain>РљРѕРЅРµС† СЃС‚СЂР°РґР°РЅСЊСЏРј Рё РїРµС‡Р°Р»СЏРј</plain>
         </string>
         <string>
-            <plain>Лишь в небе душа обретёт,</plain>
+            <plain>Р›РёС€СЊ РІ РЅРµР±Рµ РґСѓС€Р° РѕР±СЂРµС‚С‘С‚,</plain>
         </string>
         <string>
-            <plain>И я стремлюсь к небесным далям,</plain>
+            <plain>Р СЏ СЃС‚СЂРµРјР»СЋСЃСЊ Рє РЅРµР±РµСЃРЅС‹Рј РґР°Р»СЏРј,</plain>
         </string>
         <string>
-            <plain>Меня мой Спаситель там ждёт.</plain>
+            <plain>РњРµРЅСЏ РјРѕР№ РЎРїР°СЃРёС‚РµР»СЊ С‚Р°Рј Р¶РґС‘С‚.</plain>
         </string>
     </verse>
 </psalm>

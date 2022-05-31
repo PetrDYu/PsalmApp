@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1565" name="Стремлюсь достичь я тех высот" canon="false" text="" textRus="" music="">
+<psalm number="1565" name="РЎС‚СЂРµРјР»СЋСЃСЊ РґРѕСЃС‚РёС‡СЊ СЏ С‚РµС… РІС‹СЃРѕС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Стремлюсь достичь я тех высот,</plain>
+            <plain>РЎС‚СЂРµРјР»СЋСЃСЊ РґРѕСЃС‚РёС‡СЊ СЏ С‚РµС… РІС‹СЃРѕС‚,</plain>
         </string>
         <string>
-            <plain>Где солнце вечно не зайдет.</plain>
+            <plain>Р“РґРµ СЃРѕР»РЅС†Рµ РІРµС‡РЅРѕ РЅРµ Р·Р°Р№РґРµС‚.</plain>
         </string>
         <string>
-            <plain>И я. Господь, прошу Тебя,</plain>
+            <plain>Р СЏ. Р“РѕСЃРїРѕРґСЊ, РїСЂРѕС€Сѓ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб выше Ты поднял меня.</plain>
+            <plain>Р§С‚РѕР± РІС‹С€Рµ РўС‹ РїРѕРґРЅСЏР» РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь, влеки меня сильней</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РІР»РµРєРё РјРµРЅСЏ СЃРёР»СЊРЅРµР№</plain>
         </string>
         <string>
-            <plain>К Себе любовию Своей,</plain>
+            <plain>Рљ РЎРµР±Рµ Р»СЋР±РѕРІРёСЋ РЎРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Влеки меня из тьмы и бед</plain>
+            <plain>Р’Р»РµРєРё РјРµРЅСЏ РёР· С‚СЊРјС‹ Рё Р±РµРґ</plain>
         </string>
         <string>
-            <plain>В негаснущий небесный свет.</plain>
+            <plain>Р’ РЅРµРіР°СЃРЅСѓС‰РёР№ РЅРµР±РµСЃРЅС‹Р№ СЃРІРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я не хочу здесь обитать,</plain>
+            <plain>РЇ РЅРµ С…РѕС‡Сѓ Р·РґРµСЃСЊ РѕР±РёС‚Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>В сомненьи, в страхе пребывать.</plain>
+            <plain>Р’ СЃРѕРјРЅРµРЅСЊРё, РІ СЃС‚СЂР°С…Рµ РїСЂРµР±С‹РІР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Иной бы здесь остаться рад,</plain>
+            <plain>РРЅРѕР№ Р±С‹ Р·РґРµСЃСЊ РѕСЃС‚Р°С‚СЊСЃСЏ СЂР°Рґ,</plain>
         </string>
         <string>
-            <plain>Моя же цель - небесный град.</plain>
+            <plain>РњРѕСЏ Р¶Рµ С†РµР»СЊ - РЅРµР±РµСЃРЅС‹Р№ РіСЂР°Рґ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хочу я в городе том жить,</plain>
+            <plain>РҐРѕС‡Сѓ СЏ РІ РіРѕСЂРѕРґРµ С‚РѕРј Р¶РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Где грех не может искусить,</plain>
+            <plain>Р“РґРµ РіСЂРµС… РЅРµ РјРѕР¶РµС‚ РёСЃРєСѓСЃРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Где духи светлые живут</plain>
+            <plain>Р“РґРµ РґСѓС…Рё СЃРІРµС‚Р»С‹Рµ Р¶РёРІСѓС‚</plain>
         </string>
         <string>
-            <plain>И песни дивные поют.</plain>
+            <plain>Р РїРµСЃРЅРё РґРёРІРЅС‹Рµ РїРѕСЋС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хотел бы ввысь я улететь</plain>
+            <plain>РҐРѕС‚РµР» Р±С‹ РІРІС‹СЃСЊ СЏ СѓР»РµС‚РµС‚СЊ</plain>
         </string>
         <string>
-            <plain>И славу Божию узреть.</plain>
+            <plain>Р СЃР»Р°РІСѓ Р‘РѕР¶РёСЋ СѓР·СЂРµС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Пока же в этом мире я,</plain>
+            <plain>РџРѕРєР° Р¶Рµ РІ СЌС‚РѕРј РјРёСЂРµ СЏ,</plain>
         </string>
         <string>
-            <plain>Господь, прошу: веди меня.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РїСЂРѕС€Сѓ: РІРµРґРё РјРµРЅСЏ.</plain>
         </string>
     </verse>
 </psalm>

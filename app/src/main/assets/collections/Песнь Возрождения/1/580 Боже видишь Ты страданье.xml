@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="580" name="Боже видишь Ты страданье" canon="false" text="" textRus="" music="">
+<psalm number="580" name="Р‘РѕР¶Рµ РІРёРґРёС€СЊ РўС‹ СЃС‚СЂР°РґР°РЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, видишь Ты страданье</plain>
+            <plain>Р‘РѕР¶Рµ, РІРёРґРёС€СЊ РўС‹ СЃС‚СЂР°РґР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>На земном моем пути,</plain>
+            <plain>РќР° Р·РµРјРЅРѕРј РјРѕРµРј РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>Устаю я от скитанья,</plain>
+            <plain>РЈСЃС‚Р°СЋ СЏ РѕС‚ СЃРєРёС‚Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Но хочу с Тобой идти.</plain>
+            <plain>РќРѕ С…РѕС‡Сѓ СЃ РўРѕР±РѕР№ РёРґС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>И я знаю, что с Тобою</plain>
+            <plain>Р СЏ Р·РЅР°СЋ, С‡С‚Рѕ СЃ РўРѕР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>В этой жизни я пройду</plain>
+            <plain>Р’ СЌС‚РѕР№ Р¶РёР·РЅРё СЏ РїСЂРѕР№РґСѓ</plain>
         </string>
         <string>
-            <plain>И над слабостью земною</plain>
+            <plain>Р РЅР°Рґ СЃР»Р°Р±РѕСЃС‚СЊСЋ Р·РµРјРЅРѕСЋ</plain>
         </string>
         <string>
-            <plain>Знак победы я найду.</plain>
+            <plain>Р—РЅР°Рє РїРѕР±РµРґС‹ СЏ РЅР°Р№РґСѓ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Слезы, горе и страданье</plain>
+            <plain>РЎР»РµР·С‹, РіРѕСЂРµ Рё СЃС‚СЂР°РґР°РЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Часты на пути моем.</plain>
+            <plain>Р§Р°СЃС‚С‹ РЅР° РїСѓС‚Рё РјРѕРµРј.</plain>
         </string>
         <string>
-            <plain>Ты, как Друг мой неизменный,</plain>
+            <plain>РўС‹, РєР°Рє Р”СЂСѓРі РјРѕР№ РЅРµРёР·РјРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Утешающий во всем.</plain>
+            <plain>РЈС‚РµС€Р°СЋС‰РёР№ РІРѕ РІСЃРµРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как порою сердце стонет</plain>
+            <plain>РљР°Рє РїРѕСЂРѕСЋ СЃРµСЂРґС†Рµ СЃС‚РѕРЅРµС‚</plain>
         </string>
         <string>
-            <plain>Под ярмом нужды земной,</plain>
+            <plain>РџРѕРґ СЏСЂРјРѕРј РЅСѓР¶РґС‹ Р·РµРјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>И страшусь, что все потонет</plain>
+            <plain>Р СЃС‚СЂР°С€СѓСЃСЊ, С‡С‚Рѕ РІСЃРµ РїРѕС‚РѕРЅРµС‚</plain>
         </string>
         <string>
-            <plain>В море бедствий подо мной.</plain>
+            <plain>Р’ РјРѕСЂРµ Р±РµРґСЃС‚РІРёР№ РїРѕРґРѕ РјРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Как мне дорого общенье</plain>
+            <plain>РљР°Рє РјРЅРµ РґРѕСЂРѕРіРѕ РѕР±С‰РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Со святыми на земле!</plain>
+            <plain>РЎРѕ СЃРІСЏС‚С‹РјРё РЅР° Р·РµРјР»Рµ!</plain>
         </string>
         <string>
-            <plain>Но и это наслажденье</plain>
+            <plain>РќРѕ Рё СЌС‚Рѕ РЅР°СЃР»Р°Р¶РґРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Не всегда возможно мне.</plain>
+            <plain>РќРµ РІСЃРµРіРґР° РІРѕР·РјРѕР¶РЅРѕ РјРЅРµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>От меня друзья далеко,</plain>
+            <plain>РћС‚ РјРµРЅСЏ РґСЂСѓР·СЊСЏ РґР°Р»РµРєРѕ,</plain>
         </string>
         <string>
-            <plain>Нет того, кто б мог понять.</plain>
+            <plain>РќРµС‚ С‚РѕРіРѕ, РєС‚Рѕ Р± РјРѕРі РїРѕРЅСЏС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Ты как Друг мой неизменный,</plain>
+            <plain>РўС‹ РєР°Рє Р”СЂСѓРі РјРѕР№ РЅРµРёР·РјРµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Ты один все можешь знать.</plain>
+            <plain>РўС‹ РѕРґРёРЅ РІСЃРµ РјРѕР¶РµС€СЊ Р·РЅР°С‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

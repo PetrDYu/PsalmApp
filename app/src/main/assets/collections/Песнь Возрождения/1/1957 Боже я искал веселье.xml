@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1957" name="Боже я искал веселье" canon="false" text="" textRus="" music="">
+<psalm number="1957" name="Р‘РѕР¶Рµ СЏ РёСЃРєР°Р» РІРµСЃРµР»СЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, я искал веселье,</plain>
+            <plain>Р‘РѕР¶Рµ, СЏ РёСЃРєР°Р» РІРµСЃРµР»СЊРµ,</plain>
         </string>
         <string>
-            <plain>Счастье в зрелищах мирских,</plain>
+            <plain>РЎС‡Р°СЃС‚СЊРµ РІ Р·СЂРµР»РёС‰Р°С… РјРёСЂСЃРєРёС…,</plain>
         </string>
         <string>
-            <plain>В горьком опыте похмелья,</plain>
+            <plain>Р’ РіРѕСЂСЊРєРѕРј РѕРїС‹С‚Рµ РїРѕС…РјРµР»СЊСЏ,</plain>
         </string>
         <string>
-            <plain>В чарах похотей плотских.</plain>
+            <plain>Р’ С‡Р°СЂР°С… РїРѕС…РѕС‚РµР№ РїР»РѕС‚СЃРєРёС….</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Пил я грудью молодою</plain>
+            <plain>РџРёР» СЏ РіСЂСѓРґСЊСЋ РјРѕР»РѕРґРѕСЋ</plain>
         </string>
         <string>
-            <plain>Все утехи, жить спеша,</plain>
+            <plain>Р’СЃРµ СѓС‚РµС…Рё, Р¶РёС‚СЊ СЃРїРµС€Р°,</plain>
         </string>
         <string>
-            <plain>Но увы, любой тоскою</plain>
+            <plain>РќРѕ СѓРІС‹, Р»СЋР±РѕР№ С‚РѕСЃРєРѕСЋ</plain>
         </string>
         <string>
-            <plain>Отравлялася душа.</plain>
+            <plain>РћС‚СЂР°РІР»СЏР»Р°СЃСЏ РґСѓС€Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Миром я разочарован.</plain>
+            <plain>РњРёСЂРѕРј СЏ СЂР°Р·РѕС‡Р°СЂРѕРІР°РЅ.</plain>
         </string>
         <string>
-            <plain>Не хочу его любить.</plain>
+            <plain>РќРµ С…РѕС‡Сѓ РµРіРѕ Р»СЋР±РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Ум Тобой, Господь, прикован.</plain>
+            <plain>РЈРј РўРѕР±РѕР№, Р“РѕСЃРїРѕРґСЊ, РїСЂРёРєРѕРІР°РЅ.</plain>
         </string>
         <string>
-            <plain>Я хочу Тебе служить.</plain>
+            <plain>РЇ С…РѕС‡Сѓ РўРµР±Рµ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Боже, жизнею разбитый,</plain>
+            <plain>Р‘РѕР¶Рµ, Р¶РёР·РЅРµСЋ СЂР°Р·Р±РёС‚С‹Р№,</plain>
         </string>
         <string>
-            <plain>Радость, счастье нахожу</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ, СЃС‡Р°СЃС‚СЊРµ РЅР°С…РѕР¶Сѓ</plain>
         </string>
         <string>
-            <plain>Я в любви, Тобой открытой,</plain>
+            <plain>РЇ РІ Р»СЋР±РІРё, РўРѕР±РѕР№ РѕС‚РєСЂС‹С‚РѕР№,</plain>
         </string>
         <string>
-            <plain>И к Тебе я прихожу.</plain>
+            <plain>Р Рє РўРµР±Рµ СЏ РїСЂРёС…РѕР¶Сѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, прими меня с мольбою</plain>
+            <plain>Рћ, РїСЂРёРјРё РјРµРЅСЏ СЃ РјРѕР»СЊР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>И прости мой юный грех,</plain>
+            <plain>Р РїСЂРѕСЃС‚Рё РјРѕР№ СЋРЅС‹Р№ РіСЂРµС…,</plain>
         </string>
         <string>
-            <plain>И открой передо мною</plain>
+            <plain>Р РѕС‚РєСЂРѕР№ РїРµСЂРµРґРѕ РјРЅРѕСЋ</plain>
         </string>
         <string>
-            <plain>Ключ Твоих святых утех.</plain>
+            <plain>РљР»СЋС‡ РўРІРѕРёС… СЃРІСЏС‚С‹С… СѓС‚РµС….</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Знаю, буду бесконечно</plain>
+            <plain>Р—РЅР°СЋ, Р±СѓРґСѓ Р±РµСЃРєРѕРЅРµС‡РЅРѕ</plain>
         </string>
         <string>
-            <plain>Наслаждаться я с Тобой,</plain>
+            <plain>РќР°СЃР»Р°Р¶РґР°С‚СЊСЃСЏ СЏ СЃ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Будет течь веселье вечно.</plain>
+            <plain>Р‘СѓРґРµС‚ С‚РµС‡СЊ РІРµСЃРµР»СЊРµ РІРµС‡РЅРѕ.</plain>
         </string>
         <string>
-            <plain>Не нарушится покой.</plain>
+            <plain>РќРµ РЅР°СЂСѓС€РёС‚СЃСЏ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

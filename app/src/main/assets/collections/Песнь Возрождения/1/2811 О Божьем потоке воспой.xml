@@ -1,99 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2811" name="О Божьем потоке воспой" canon="false" text="" textRus="" music="">
+<psalm number="2811" name="Рћ Р‘РѕР¶СЊРµРј РїРѕС‚РѕРєРµ РІРѕСЃРїРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Божьем потоке воспой,</plain>
+            <plain>Рћ Р‘РѕР¶СЊРµРј РїРѕС‚РѕРєРµ РІРѕСЃРїРѕР№,</plain>
         </string>
         <string>
-            <plain>вода его жизнь на дает;</plain>
+            <plain>РІРѕРґР° РµРіРѕ Р¶РёР·РЅСЊ РЅР° РґР°РµС‚;</plain>
         </string>
         <string>
-            <plain>Мне слаще, чем мёд и вино,</plain>
+            <plain>РњРЅРµ СЃР»Р°С‰Рµ, С‡РµРј РјС‘Рґ Рё РІРёРЅРѕ,</plain>
         </string>
         <string>
-            <plain>мир Божий, что в сердце течет!</plain>
+            <plain>РјРёСЂ Р‘РѕР¶РёР№, С‡С‚Рѕ РІ СЃРµСЂРґС†Рµ С‚РµС‡РµС‚!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Божий мир как река,</plain>
+            <plain>Р‘РѕР¶РёР№ РјРёСЂ РєР°Рє СЂРµРєР°,</plain>
         </string>
         <string>
-            <plain>Божий мир как река</plain>
+            <plain>Р‘РѕР¶РёР№ РјРёСЂ РєР°Рє СЂРµРєР°</plain>
         </string>
         <string>
-            <plain>льётся в душу мою,</plain>
+            <plain>Р»СЊС‘С‚СЃСЏ РІ РґСѓС€Сѓ РјРѕСЋ,</plain>
         </string>
         <string>
-            <plain>льётся В душу мою.</plain>
+            <plain>Р»СЊС‘С‚СЃСЏ Р’ РґСѓС€Сѓ РјРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Мне дана полнота,</plain>
+            <plain>РњРЅРµ РґР°РЅР° РїРѕР»РЅРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>мне дана полнота,</plain>
+            <plain>РјРЅРµ РґР°РЅР° РїРѕР»РЅРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>воду вечной</plain>
+            <plain>РІРѕРґСѓ РІРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>я жизни пью, я пью.</plain>
+            <plain>СЏ Р¶РёР·РЅРё РїСЊСЋ, СЏ РїСЊСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Неся воду жизни к земле,</plain>
+            <plain>РќРµСЃСЏ РІРѕРґСѓ Р¶РёР·РЅРё Рє Р·РµРјР»Рµ,</plain>
         </string>
         <string>
-            <plain>течет от престола река;</plain>
+            <plain>С‚РµС‡РµС‚ РѕС‚ РїСЂРµСЃС‚РѕР»Р° СЂРµРєР°;</plain>
         </string>
         <string>
-            <plain>Мир Божий, как дорог ты мне,</plain>
+            <plain>РњРёСЂ Р‘РѕР¶РёР№, РєР°Рє РґРѕСЂРѕРі С‚С‹ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>в тебе утолил жажду я!</plain>
+            <plain>РІ С‚РµР±Рµ СѓС‚РѕР»РёР» Р¶Р°Р¶РґСѓ СЏ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чудесную силу в себе</plain>
+            <plain>Р§СѓРґРµСЃРЅСѓСЋ СЃРёР»Сѓ РІ СЃРµР±Рµ</plain>
         </string>
         <string>
-            <plain>поток тот кристальный несет,</plain>
+            <plain>РїРѕС‚РѕРє С‚РѕС‚ РєСЂРёСЃС‚Р°Р»СЊРЅС‹Р№ РЅРµСЃРµС‚,</plain>
         </string>
         <string>
-            <plain>град Божий он радует здесь</plain>
+            <plain>РіСЂР°Рґ Р‘РѕР¶РёР№ РѕРЅ СЂР°РґСѓРµС‚ Р·РґРµСЃСЊ</plain>
         </string>
         <string>
-            <plain>и вечное счастье дает.</plain>
+            <plain>Рё РІРµС‡РЅРѕРµ СЃС‡Р°СЃС‚СЊРµ РґР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Все бури во мне мой Иисус</plain>
+            <plain>Р’СЃРµ Р±СѓСЂРё РІРѕ РјРЅРµ РјРѕР№ РРёСЃСѓСЃ</plain>
         </string>
         <string>
-            <plain>чрез Слово Свое усмирил</plain>
+            <plain>С‡СЂРµР· РЎР»РѕРІРѕ РЎРІРѕРµ СѓСЃРјРёСЂРёР»</plain>
         </string>
         <string>
-            <plain>с тех пор, как живою водой</plain>
+            <plain>СЃ С‚РµС… РїРѕСЂ, РєР°Рє Р¶РёРІРѕСЋ РІРѕРґРѕР№</plain>
         </string>
         <string>
-            <plain>я жажду души утолил.</plain>
+            <plain>СЏ Р¶Р°Р¶РґСѓ РґСѓС€Рё СѓС‚РѕР»РёР».</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Река, что мир мне принесла,</plain>
+            <plain>Р РµРєР°, С‡С‚Рѕ РјРёСЂ РјРЅРµ РїСЂРёРЅРµСЃР»Р°,</plain>
         </string>
         <string>
-            <plain>источником стала во мне;</plain>
+            <plain>РёСЃС‚РѕС‡РЅРёРєРѕРј СЃС‚Р°Р»Р° РІРѕ РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>Исчезла вокруг темнота,</plain>
+            <plain>РСЃС‡РµР·Р»Р° РІРѕРєСЂСѓРі С‚РµРјРЅРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>сияет свет Божий в душе.</plain>
+            <plain>СЃРёСЏРµС‚ СЃРІРµС‚ Р‘РѕР¶РёР№ РІ РґСѓС€Рµ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,48 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2204" name="Мой Бог Отец Твоею славой" canon="false" text="" textRus="" music="">
+<psalm number="2204" name="РњРѕР№ Р‘РѕРі РћС‚РµС† РўРІРѕРµСЋ СЃР»Р°РІРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мой Бог Отец, Твоею славой</plain>
+            <plain>РњРѕР№ Р‘РѕРі РћС‚РµС†, РўРІРѕРµСЋ СЃР»Р°РІРѕР№</plain>
         </string>
         <string>
-            <plain>покрыты небо и вся земля,</plain>
+            <plain>РїРѕРєСЂС‹С‚С‹ РЅРµР±Рѕ Рё РІСЃСЏ Р·РµРјР»СЏ,</plain>
         </string>
         <string>
-            <plain>В Твоих руках вся власть и сила,</plain>
+            <plain>Р’ РўРІРѕРёС… СЂСѓРєР°С… РІСЃСЏ РІР»Р°СЃС‚СЊ Рё СЃРёР»Р°,</plain>
         </string>
         <string>
-            <plain>В Твоих руках судьба моя.</plain>
+            <plain>Р’ РўРІРѕРёС… СЂСѓРєР°С… СЃСѓРґСЊР±Р° РјРѕСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Бог Отец, Твое имя свято,</plain>
+            <plain>Р‘РѕРі РћС‚РµС†, РўРІРѕРµ РёРјСЏ СЃРІСЏС‚Рѕ,</plain>
         </string>
         <string>
-            <plain>Твоим огнём сердца объяты.</plain>
+            <plain>РўРІРѕРёРј РѕРіРЅС‘Рј СЃРµСЂРґС†Р° РѕР±СЉСЏС‚С‹.</plain>
         </string>
         <string>
-            <plain>Отче наш, мы Твои дети,</plain>
+            <plain>РћС‚С‡Рµ РЅР°С€, РјС‹ РўРІРѕРё РґРµС‚Рё,</plain>
         </string>
         <string>
-            <plain>Вечность - наш дом,</plain>
+            <plain>Р’РµС‡РЅРѕСЃС‚СЊ - РЅР°С€ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>Тебя мы встретим. Тебе моя хвала.</plain>
+            <plain>РўРµР±СЏ РјС‹ РІСЃС‚СЂРµС‚РёРј. РўРµР±Рµ РјРѕСЏ С…РІР°Р»Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Мой Бог Отец, Я знаю,</plain>
+            <plain>РњРѕР№ Р‘РѕРі РћС‚РµС†, РЇ Р·РЅР°СЋ,</plain>
         </string>
         <string>
-            <plain>любишь сынов Своих и дочерей.</plain>
+            <plain>Р»СЋР±РёС€СЊ СЃС‹РЅРѕРІ РЎРІРѕРёС… Рё РґРѕС‡РµСЂРµР№.</plain>
         </string>
         <string>
-            <plain>Во мне Твой Дух усыновленья,</plain>
+            <plain>Р’Рѕ РјРЅРµ РўРІРѕР№ Р”СѓС… СѓСЃС‹РЅРѕРІР»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>О, Авва Отче, Ты всех родней.</plain>
+            <plain>Рћ, РђРІРІР° РћС‚С‡Рµ, РўС‹ РІСЃРµС… СЂРѕРґРЅРµР№.</plain>
         </string>
     </verse>
 </psalm>

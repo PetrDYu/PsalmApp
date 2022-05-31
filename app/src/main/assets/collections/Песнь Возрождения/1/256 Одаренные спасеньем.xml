@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="256" name="Одаренные спасеньем" canon="false" text="" textRus="" music="">
+<psalm number="256" name="РћРґР°СЂРµРЅРЅС‹Рµ СЃРїР°СЃРµРЅСЊРµРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Одаренные спасеньем,</plain>
+            <plain>РћРґР°СЂРµРЅРЅС‹Рµ СЃРїР°СЃРµРЅСЊРµРј,</plain>
         </string>
         <string>
-            <plain>Чужды мы греховных уз;</plain>
+            <plain>Р§СѓР¶РґС‹ РјС‹ РіСЂРµС…РѕРІРЅС‹С… СѓР·;</plain>
         </string>
         <string>
-            <plain>Братским сладостным общеньем</plain>
+            <plain>Р‘СЂР°С‚СЃРєРёРј СЃР»Р°РґРѕСЃС‚РЅС‹Рј РѕР±С‰РµРЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>Спаяны в один союз.</plain>
+            <plain>РЎРїР°СЏРЅС‹ РІ РѕРґРёРЅ СЃРѕСЋР·.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>За единство Церкви Божьей</plain>
+            <plain>Р—Р° РµРґРёРЅСЃС‚РІРѕ Р¦РµСЂРєРІРё Р‘РѕР¶СЊРµР№</plain>
         </string>
         <string>
-            <plain>Всей душою постоим,</plain>
+            <plain>Р’СЃРµР№ РґСѓС€РѕСЋ РїРѕСЃС‚РѕРёРј,</plain>
         </string>
         <string>
-            <plain>Усиляя битву с ложью,</plain>
+            <plain>РЈСЃРёР»СЏСЏ Р±РёС‚РІСѓ СЃ Р»РѕР¶СЊСЋ,</plain>
         </string>
         <string>
-            <plain>Грех и козни победим.</plain>
+            <plain>Р“СЂРµС… Рё РєРѕР·РЅРё РїРѕР±РµРґРёРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В ночь делений единенье</plain>
+            <plain>Р’ РЅРѕС‡СЊ РґРµР»РµРЅРёР№ РµРґРёРЅРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Крепко, братья, сохраним,</plain>
+            <plain>РљСЂРµРїРєРѕ, Р±СЂР°С‚СЊСЏ, СЃРѕС…СЂР°РЅРёРј,</plain>
         </string>
         <string>
-            <plain>И, покорные ученью,</plain>
+            <plain>Р, РїРѕРєРѕСЂРЅС‹Рµ СѓС‡РµРЅСЊСЋ,</plain>
         </string>
         <string>
-            <plain>Будем следовать за Ним.</plain>
+            <plain>Р‘СѓРґРµРј СЃР»РµРґРѕРІР°С‚СЊ Р·Р° РќРёРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Твердой верой в дни сомненья</plain>
+            <plain>РўРІРµСЂРґРѕР№ РІРµСЂРѕР№ РІ РґРЅРё СЃРѕРјРЅРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Божий стан огородим,</plain>
+            <plain>Р‘РѕР¶РёР№ СЃС‚Р°РЅ РѕРіРѕСЂРѕРґРёРј,</plain>
         </string>
         <string>
-            <plain>Яд сомнений, маловерья</plain>
+            <plain>РЇРґ СЃРѕРјРЅРµРЅРёР№, РјР°Р»РѕРІРµСЂСЊСЏ</plain>
         </string>
         <string>
-            <plain>До конца искореним.</plain>
+            <plain>Р”Рѕ РєРѕРЅС†Р° РёСЃРєРѕСЂРµРЅРёРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Семена любви посеем</plain>
+            <plain>РЎРµРјРµРЅР° Р»СЋР±РІРё РїРѕСЃРµРµРј</plain>
         </string>
         <string>
-            <plain>До окраины морей,</plain>
+            <plain>Р”Рѕ РѕРєСЂР°РёРЅС‹ РјРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>Духом Божьим пламенея,</plain>
+            <plain>Р”СѓС…РѕРј Р‘РѕР¶СЊРёРј РїР»Р°РјРµРЅРµСЏ,</plain>
         </string>
         <string>
-            <plain>Разбросаем жар огней.</plain>
+            <plain>Р Р°Р·Р±СЂРѕСЃР°РµРј Р¶Р°СЂ РѕРіРЅРµР№.</plain>
         </string>
     </verse>
 </psalm>

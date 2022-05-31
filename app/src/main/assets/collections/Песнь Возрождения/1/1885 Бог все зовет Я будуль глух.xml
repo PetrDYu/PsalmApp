@@ -1,111 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1885" name="Бог все зовет Я будуль глух" canon="false" text="" textRus="" music="">
+<psalm number="1885" name="Р‘РѕРі РІСЃРµ Р·РѕРІРµС‚ РЇ Р±СѓРґСѓР»СЊ РіР»СѓС…" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог все зовет!</plain>
+            <plain>Р‘РѕРі РІСЃРµ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Я буду ль глух?</plain>
+            <plain>РЇ Р±СѓРґСѓ Р»СЊ РіР»СѓС…?</plain>
         </string>
         <string>
-            <plain>Прельстится ли землею дух?</plain>
+            <plain>РџСЂРµР»СЊСЃС‚РёС‚СЃСЏ Р»Рё Р·РµРјР»РµСЋ РґСѓС…?</plain>
         </string>
         <string>
-            <plain>Промчатся ли мои года</plain>
+            <plain>РџСЂРѕРјС‡Р°С‚СЃСЏ Р»Рё РјРѕРё РіРѕРґР°</plain>
         </string>
         <string>
-            <plain>И дух продремлет без плода?</plain>
+            <plain>Р РґСѓС… РїСЂРѕРґСЂРµРјР»РµС‚ Р±РµР· РїР»РѕРґР°?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Все (тебя) зовет, зовет Бог,</plain>
+            <plain>Р’СЃРµ (С‚РµР±СЏ) Р·РѕРІРµС‚, Р·РѕРІРµС‚ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Все (тебя) зовет, зовет Он,</plain>
+            <plain>Р’СЃРµ (С‚РµР±СЏ) Р·РѕРІРµС‚, Р·РѕРІРµС‚ РћРЅ,</plain>
         </string>
         <string>
-            <plain>Бог зовет еще!</plain>
+            <plain>Р‘РѕРі Р·РѕРІРµС‚ РµС‰Рµ!</plain>
         </string>
         <string>
-            <plain>Внимай благой ты вести!</plain>
+            <plain>Р’РЅРёРјР°Р№ Р±Р»Р°РіРѕР№ С‚С‹ РІРµСЃС‚Рё!</plain>
         </string>
         <string>
-            <plain>Все (тебя) зовет, зовет Бог,</plain>
+            <plain>Р’СЃРµ (С‚РµР±СЏ) Р·РѕРІРµС‚, Р·РѕРІРµС‚ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Все (тебя) зовет, зовет Он;</plain>
+            <plain>Р’СЃРµ (С‚РµР±СЏ) Р·РѕРІРµС‚, Р·РѕРІРµС‚ РћРЅ;</plain>
         </string>
         <string>
-            <plain>Грешник, о послушай, призывает Бог.</plain>
+            <plain>Р“СЂРµС€РЅРёРє, Рѕ РїРѕСЃР»СѓС€Р°Р№, РїСЂРёР·С‹РІР°РµС‚ Р‘РѕРі.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бог все зовет!</plain>
+            <plain>Р‘РѕРі РІСЃРµ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Не встану ль я?</plain>
+            <plain>РќРµ РІСЃС‚Р°РЅСѓ Р»СЊ СЏ?</plain>
         </string>
         <string>
-            <plain>Презрю ли голос Божий я?</plain>
+            <plain>РџСЂРµР·СЂСЋ Р»Рё РіРѕР»РѕСЃ Р‘РѕР¶РёР№ СЏ?</plain>
         </string>
         <string>
-            <plain>Могу ль любви я злом воздать?</plain>
+            <plain>РњРѕРіСѓ Р»СЊ Р»СЋР±РІРё СЏ Р·Р»РѕРј РІРѕР·РґР°С‚СЊ?</plain>
         </string>
         <string>
-            <plain>Он вновь зовет: могу ль молчать?</plain>
+            <plain>РћРЅ РІРЅРѕРІСЊ Р·РѕРІРµС‚: РјРѕРіСѓ Р»СЊ РјРѕР»С‡Р°С‚СЊ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог все зовет!</plain>
+            <plain>Р‘РѕРі РІСЃРµ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Вот Он стучит!</plain>
+            <plain>Р’РѕС‚ РћРЅ СЃС‚СѓС‡РёС‚!</plain>
         </string>
         <string>
-            <plain>Замкну ли сердце от Него?</plain>
+            <plain>Р—Р°РјРєРЅСѓ Р»Рё СЃРµСЂРґС†Рµ РѕС‚ РќРµРіРѕ?</plain>
         </string>
         <string>
-            <plain>Раскрыть объятья Он спешит;</plain>
+            <plain>Р Р°СЃРєСЂС‹С‚СЊ РѕР±СЉСЏС‚СЊСЏ РћРЅ СЃРїРµС€РёС‚;</plain>
         </string>
         <string>
-            <plain>Ужель я огорчу Его?</plain>
+            <plain>РЈР¶РµР»СЊ СЏ РѕРіРѕСЂС‡Сѓ Р•РіРѕ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бог все зовет!</plain>
+            <plain>Р‘РѕРі РІСЃРµ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Отвергну ль я?</plain>
+            <plain>РћС‚РІРµСЂРіРЅСѓ Р»СЊ СЏ?</plain>
         </string>
         <string>
-            <plain>И буду ль жить рабом страстей?</plain>
+            <plain>Р Р±СѓРґСѓ Р»СЊ Р¶РёС‚СЊ СЂР°Р±РѕРј СЃС‚СЂР°СЃС‚РµР№?</plain>
         </string>
         <string>
-            <plain>Я жду - Он не забыл Меня,</plain>
+            <plain>РЇ Р¶РґСѓ - РћРЅ РЅРµ Р·Р°Р±С‹Р» РњРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Он все зовет: "восстань скорей!"</plain>
+            <plain>РћРЅ РІСЃРµ Р·РѕРІРµС‚: "РІРѕСЃСЃС‚Р°РЅСЊ СЃРєРѕСЂРµР№!"</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Бог все зовет!</plain>
+            <plain>Р‘РѕРі РІСЃРµ Р·РѕРІРµС‚!</plain>
         </string>
         <string>
-            <plain>Ждать не могу,</plain>
+            <plain>Р–РґР°С‚СЊ РЅРµ РјРѕРіСѓ,</plain>
         </string>
         <string>
-            <plain>Ему я сердце отдаю.</plain>
+            <plain>Р•РјСѓ СЏ СЃРµСЂРґС†Рµ РѕС‚РґР°СЋ.</plain>
         </string>
         <string>
-            <plain>О, мир! Я от тебя бегу,</plain>
+            <plain>Рћ, РјРёСЂ! РЇ РѕС‚ С‚РµР±СЏ Р±РµРіСѓ,</plain>
         </string>
         <string>
-            <plain>Бог взял отныне жизнь мою.</plain>
+            <plain>Р‘РѕРі РІР·СЏР» РѕС‚РЅС‹РЅРµ Р¶РёР·РЅСЊ РјРѕСЋ.</plain>
         </string>
     </verse>
 </psalm>

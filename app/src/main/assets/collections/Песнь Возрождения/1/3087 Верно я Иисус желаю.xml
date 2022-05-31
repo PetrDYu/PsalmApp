@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3087" name="Верно я Иисус желаю" canon="false" text="" textRus="" music="">
+<psalm number="3087" name="Р’РµСЂРЅРѕ СЏ РРёСЃСѓСЃ Р¶РµР»Р°СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Верно я, Иисус, желаю</plain>
+            <plain>Р’РµСЂРЅРѕ СЏ, РРёСЃСѓСЃ, Р¶РµР»Р°СЋ</plain>
         </string>
         <string>
-            <plain>сердцем всем служить Тебе.</plain>
+            <plain>СЃРµСЂРґС†РµРј РІСЃРµРј СЃР»СѓР¶РёС‚СЊ РўРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Жизнь Тебе я посвящаю</plain>
+            <plain>Р–РёР·РЅСЊ РўРµР±Рµ СЏ РїРѕСЃРІСЏС‰Р°СЋ</plain>
         </string>
         <string>
-            <plain>за любовь Твою ко мне.</plain>
+            <plain>Р·Р° Р»СЋР±РѕРІСЊ РўРІРѕСЋ РєРѕ РјРЅРµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Верно я служить желаю,</plain>
+            <plain>Р’РµСЂРЅРѕ СЏ СЃР»СѓР¶РёС‚СЊ Р¶РµР»Р°СЋ,</plain>
         </string>
         <string>
-            <plain>верно в скорби и в нужде,</plain>
+            <plain>РІРµСЂРЅРѕ РІ СЃРєРѕСЂР±Рё Рё РІ РЅСѓР¶РґРµ,</plain>
         </string>
         <string>
-            <plain>верным быть Тебе до смерти,</plain>
+            <plain>РІРµСЂРЅС‹Рј Р±С‹С‚СЊ РўРµР±Рµ РґРѕ СЃРјРµСЂС‚Рё,</plain>
         </string>
         <string>
-            <plain>верным в праведной борьбе.</plain>
+            <plain>РІРµСЂРЅС‹Рј РІ РїСЂР°РІРµРґРЅРѕР№ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Пусть вокруг бушует буря</plain>
+            <plain>РџСѓСЃС‚СЊ РІРѕРєСЂСѓРі Р±СѓС€СѓРµС‚ Р±СѓСЂСЏ</plain>
         </string>
         <string>
-            <plain>- всё ко благу служит мне.</plain>
+            <plain>- РІСЃС‘ РєРѕ Р±Р»Р°РіСѓ СЃР»СѓР¶РёС‚ РјРЅРµ.</plain>
         </string>
         <string>
-            <plain>Восхвалю Тебя сердечно,</plain>
+            <plain>Р’РѕСЃС…РІР°Р»СЋ РўРµР±СЏ СЃРµСЂРґРµС‡РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Ты покой даёшь душе.</plain>
+            <plain>РўС‹ РїРѕРєРѕР№ РґР°С‘С€СЊ РґСѓС€Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пусть как мучеников древних</plain>
+            <plain>РџСѓСЃС‚СЊ РєР°Рє РјСѓС‡РµРЅРёРєРѕРІ РґСЂРµРІРЅРёС…</plain>
         </string>
         <string>
-            <plain>будут презирать меня,</plain>
+            <plain>Р±СѓРґСѓС‚ РїСЂРµР·РёСЂР°С‚СЊ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>пусть меня в темницу ввергнут,</plain>
+            <plain>РїСѓСЃС‚СЊ РјРµРЅСЏ РІ С‚РµРјРЅРёС†Сѓ РІРІРµСЂРіРЅСѓС‚,</plain>
         </string>
         <string>
-            <plain>Ты - награда для меня.</plain>
+            <plain>РўС‹ - РЅР°РіСЂР°РґР° РґР»СЏ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Чту Тебя, Господь, высоко,</plain>
+            <plain>Р§С‚Сѓ РўРµР±СЏ, Р“РѕСЃРїРѕРґСЊ, РІС‹СЃРѕРєРѕ,</plain>
         </string>
         <string>
-            <plain>славы не ищу себе.</plain>
+            <plain>СЃР»Р°РІС‹ РЅРµ РёС‰Сѓ СЃРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Слушать голос Твой хочу я</plain>
+            <plain>РЎР»СѓС€Р°С‚СЊ РіРѕР»РѕСЃ РўРІРѕР№ С…РѕС‡Сѓ СЏ</plain>
         </string>
         <string>
-            <plain>и служить всю жизнь Тебе.</plain>
+            <plain>Рё СЃР»СѓР¶РёС‚СЊ РІСЃСЋ Р¶РёР·РЅСЊ РўРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

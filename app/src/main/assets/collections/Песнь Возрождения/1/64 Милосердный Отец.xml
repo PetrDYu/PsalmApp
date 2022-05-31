@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="64" name="Милосердный Отец" canon="false" text="" textRus="" music="">
+<psalm number="64" name="РњРёР»РѕСЃРµСЂРґРЅС‹Р№ РћС‚РµС†" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Милосердный Отец!</plain>
+            <plain>РњРёР»РѕСЃРµСЂРґРЅС‹Р№ РћС‚РµС†!</plain>
         </string>
         <string>
-            <plain>Слаб и немощен я;</plain>
+            <plain>РЎР»Р°Р± Рё РЅРµРјРѕС‰РµРЅ СЏ;</plain>
         </string>
         <string>
-            <plain>Как несчастный слепец,</plain>
+            <plain>РљР°Рє РЅРµСЃС‡Р°СЃС‚РЅС‹Р№ СЃР»РµРїРµС†,</plain>
         </string>
         <string>
-            <plain>Я хожу без Тебя!</plain>
+            <plain>РЇ С…РѕР¶Сѓ Р±РµР· РўРµР±СЏ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Ты мне ум просвети</plain>
+            <plain>РўС‹ РјРЅРµ СѓРј РїСЂРѕСЃРІРµС‚Рё</plain>
         </string>
         <string>
-            <plain>Благодатью живой!</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊСЋ Р¶РёРІРѕР№!</plain>
         </string>
         <string>
-            <plain>Дай мне радость в пути</plain>
+            <plain>Р”Р°Р№ РјРЅРµ СЂР°РґРѕСЃС‚СЊ РІ РїСѓС‚Рё</plain>
         </string>
         <string>
-            <plain>По пустыне земной.</plain>
+            <plain>РџРѕ РїСѓСЃС‚С‹РЅРµ Р·РµРјРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Дай, чтоб весь целиком</plain>
+            <plain>Р”Р°Р№, С‡С‚РѕР± РІРµСЃСЊ С†РµР»РёРєРѕРј</plain>
         </string>
         <string>
-            <plain>Я Твоим был рабом,</plain>
+            <plain>РЇ РўРІРѕРёРј Р±С‹Р» СЂР°Р±РѕРј,</plain>
         </string>
         <string>
-            <plain>Чтоб меня не увлек</plain>
+            <plain>Р§С‚РѕР± РјРµРЅСЏ РЅРµ СѓРІР»РµРє</plain>
         </string>
         <string>
-            <plain>Этой жизни поток!</plain>
+            <plain>Р­С‚РѕР№ Р¶РёР·РЅРё РїРѕС‚РѕРє!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Чтоб хранил я душой</plain>
+            <plain>Р§С‚РѕР± С…СЂР°РЅРёР» СЏ РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>Огнь Божественных слов,</plain>
+            <plain>РћРіРЅСЊ Р‘РѕР¶РµСЃС‚РІРµРЅРЅС‹С… СЃР»РѕРІ,</plain>
         </string>
         <string>
-            <plain>Чтоб на призыв святой</plain>
+            <plain>Р§С‚РѕР± РЅР° РїСЂРёР·С‹РІ СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Я всегда был готов!</plain>
+            <plain>РЇ РІСЃРµРіРґР° Р±С‹Р» РіРѕС‚РѕРІ!</plain>
         </string>
     </verse>
 </psalm>

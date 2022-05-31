@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2901" name="Как славно и прекрасно" canon="false" text="" textRus="" music="">
+<psalm number="2901" name="РљР°Рє СЃР»Р°РІРЅРѕ Рё РїСЂРµРєСЂР°СЃРЅРѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как славно и прекрасно</plain>
+            <plain>РљР°Рє СЃР»Р°РІРЅРѕ Рё РїСЂРµРєСЂР°СЃРЅРѕ</plain>
         </string>
         <string>
-            <plain>жить в мире без греха!</plain>
+            <plain>Р¶РёС‚СЊ РІ РјРёСЂРµ Р±РµР· РіСЂРµС…Р°!</plain>
         </string>
         <string>
-            <plain>Свободен я и счастлив,</plain>
+            <plain>РЎРІРѕР±РѕРґРµРЅ СЏ Рё СЃС‡Р°СЃС‚Р»РёРІ,</plain>
         </string>
         <string>
-            <plain>что приобрёл Христа.</plain>
+            <plain>С‡С‚Рѕ РїСЂРёРѕР±СЂС‘Р» РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Теперь в Нём нахожу</plain>
+            <plain>РўРµРїРµСЂСЊ РІ РќС‘Рј РЅР°С…РѕР¶Сѓ</plain>
         </string>
         <string>
-            <plain>я покой своей душе,</plain>
+            <plain>СЏ РїРѕРєРѕР№ СЃРІРѕРµР№ РґСѓС€Рµ,</plain>
         </string>
         <string>
-            <plain>послушай Его Слову,</plain>
+            <plain>РїРѕСЃР»СѓС€Р°Р№ Р•РіРѕ РЎР»РѕРІСѓ,</plain>
         </string>
         <string>
-            <plain>иду к родной стране.</plain>
+            <plain>РёРґСѓ Рє СЂРѕРґРЅРѕР№ СЃС‚СЂР°РЅРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я некогда был грешник,</plain>
+            <plain>РЇ РЅРµРєРѕРіРґР° Р±С‹Р» РіСЂРµС€РЅРёРє,</plain>
         </string>
         <string>
-            <plain>от Бога был вдали,</plain>
+            <plain>РѕС‚ Р‘РѕРіР° Р±С‹Р» РІРґР°Р»Рё,</plain>
         </string>
         <string>
-            <plain>не знал детей я Божьих,</plain>
+            <plain>РЅРµ Р·РЅР°Р» РґРµС‚РµР№ СЏ Р‘РѕР¶СЊРёС…,</plain>
         </string>
         <string>
-            <plain>не знал Его любви.</plain>
+            <plain>РЅРµ Р·РЅР°Р» Р•РіРѕ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но мне Господь явился,</plain>
+            <plain>РќРѕ РјРЅРµ Р“РѕСЃРїРѕРґСЊ СЏРІРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>ко мне так благ Он был,</plain>
+            <plain>РєРѕ РјРЅРµ С‚Р°Рє Р±Р»Р°Рі РћРЅ Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>простил все согрешенья,</plain>
+            <plain>РїСЂРѕСЃС‚РёР» РІСЃРµ СЃРѕРіСЂРµС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>в крови Своей омыл.</plain>
+            <plain>РІ РєСЂРѕРІРё РЎРІРѕРµР№ РѕРјС‹Р».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Меня Он Словом правды</plain>
+            <plain>РњРµРЅСЏ РћРЅ РЎР»РѕРІРѕРј РїСЂР°РІРґС‹</plain>
         </string>
         <string>
-            <plain>чрез Духа освятил;</plain>
+            <plain>С‡СЂРµР· Р”СѓС…Р° РѕСЃРІСЏС‚РёР»;</plain>
         </string>
         <string>
-            <plain>ведёт к небесной славе,</plain>
+            <plain>РІРµРґС‘С‚ Рє РЅРµР±РµСЃРЅРѕР№ СЃР»Р°РІРµ,</plain>
         </string>
         <string>
-            <plain>как в Слове Он учил</plain>
+            <plain>РєР°Рє РІ РЎР»РѕРІРµ РћРЅ СѓС‡РёР»</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>В сектантском Вавилоне</plain>
+            <plain>Р’ СЃРµРєС‚Р°РЅС‚СЃРєРѕРј Р’Р°РІРёР»РѕРЅРµ</plain>
         </string>
         <string>
-            <plain>я долго был пленён,</plain>
+            <plain>СЏ РґРѕР»РіРѕ Р±С‹Р» РїР»РµРЅС‘РЅ,</plain>
         </string>
         <string>
-            <plain>но, светом озарённый,</plain>
+            <plain>РЅРѕ, СЃРІРµС‚РѕРј РѕР·Р°СЂС‘РЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>храм Божий я нашёл.</plain>
+            <plain>С…СЂР°Рј Р‘РѕР¶РёР№ СЏ РЅР°С€С‘Р».</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>И если буду болен,</plain>
+            <plain>Р РµСЃР»Рё Р±СѓРґСѓ Р±РѕР»РµРЅ,</plain>
         </string>
         <string>
-            <plain>к Нему я воззову.</plain>
+            <plain>Рє РќРµРјСѓ СЏ РІРѕР·Р·РѕРІСѓ.</plain>
         </string>
         <string>
-            <plain>Господь даст исцеленье,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РґР°СЃС‚ РёСЃС†РµР»РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Его я восхвалю.</plain>
+            <plain>Р•РіРѕ СЏ РІРѕСЃС…РІР°Р»СЋ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Мой дорогой Спаситель,</plain>
+            <plain>РњРѕР№ РґРѕСЂРѕРіРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>прими за всё хвалу!</plain>
+            <plain>РїСЂРёРјРё Р·Р° РІСЃС‘ С…РІР°Р»Сѓ!</plain>
         </string>
         <string>
-            <plain>Был грешник, а теперь</plain>
+            <plain>Р‘С‹Р» РіСЂРµС€РЅРёРє, Р° С‚РµРїРµСЂСЊ</plain>
         </string>
         <string>
-            <plain>я Тебе принадлежу.</plain>
+            <plain>СЏ РўРµР±Рµ РїСЂРёРЅР°РґР»РµР¶Сѓ.</plain>
         </string>
     </verse>
 </psalm>

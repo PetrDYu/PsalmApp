@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1873" name="Благодать Христа Иисуса" canon="false" text="" textRus="" music="">
+<psalm number="1873" name="Р‘Р»Р°РіРѕРґР°С‚СЊ РҐСЂРёСЃС‚Р° РРёСЃСѓСЃР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благодать Христа Иисуса</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊ РҐСЂРёСЃС‚Р° РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>И любовь Бога Отца</plain>
+            <plain>Р Р»СЋР±РѕРІСЊ Р‘РѕРіР° РћС‚С†Р°</plain>
         </string>
         <string>
-            <plain>И залог Святого Духа</plain>
+            <plain>Р Р·Р°Р»РѕРі РЎРІСЏС‚РѕРіРѕ Р”СѓС…Р°</plain>
         </string>
         <string>
-            <plain>Да исполнит нам сердца.</plain>
+            <plain>Р”Р° РёСЃРїРѕР»РЅРёС‚ РЅР°Рј СЃРµСЂРґС†Р°.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Счастье быть соединенным</plain>
+            <plain>РЎС‡Р°СЃС‚СЊРµ Р±С‹С‚СЊ СЃРѕРµРґРёРЅРµРЅРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Друг со другом во Христе,</plain>
+            <plain>Р”СЂСѓРі СЃРѕ РґСЂСѓРіРѕРј РІРѕ РҐСЂРёСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Кротким и в сердцах смиренным</plain>
+            <plain>РљСЂРѕС‚РєРёРј Рё РІ СЃРµСЂРґС†Р°С… СЃРјРёСЂРµРЅРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Жить для Бога в простоте.</plain>
+            <plain>Р–РёС‚СЊ РґР»СЏ Р‘РѕРіР° РІ РїСЂРѕСЃС‚РѕС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

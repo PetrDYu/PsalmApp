@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="930" name="Кто бы дал мне слезы сокрушенья" canon="false" text="" textRus="" music="">
+<psalm number="930" name="РљС‚Рѕ Р±С‹ РґР°Р» РјРЅРµ СЃР»РµР·С‹ СЃРѕРєСЂСѓС€РµРЅСЊСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Кто бы дал мне слезы сокрушенья,</plain>
+            <plain>РљС‚Рѕ Р±С‹ РґР°Р» РјРЅРµ СЃР»РµР·С‹ СЃРѕРєСЂСѓС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Плакал бы я день и ночь.</plain>
+            <plain>РџР»Р°РєР°Р» Р±С‹ СЏ РґРµРЅСЊ Рё РЅРѕС‡СЊ.</plain>
         </string>
         <string>
-            <plain>Где найти для сердца утешенье,</plain>
+            <plain>Р“РґРµ РЅР°Р№С‚Рё РґР»СЏ СЃРµСЂРґС†Р° СѓС‚РµС€РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Все сомненья б улетели прочь.</plain>
+            <plain>Р’СЃРµ СЃРѕРјРЅРµРЅСЊСЏ Р± СѓР»РµС‚РµР»Рё РїСЂРѕС‡СЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Льются слезы у царя Давида,</plain>
+            <plain>Р›СЊСЋС‚СЃСЏ СЃР»РµР·С‹ Сѓ С†Р°СЂСЏ Р”Р°РІРёРґР°,</plain>
         </string>
         <string>
-            <plain>Разве мало серебра?</plain>
+            <plain>Р Р°Р·РІРµ РјР°Р»Рѕ СЃРµСЂРµР±СЂР°?</plain>
         </string>
         <string>
-            <plain>Но я плачу, потому что вижу</plain>
+            <plain>РќРѕ СЏ РїР»Р°С‡Сѓ, РїРѕС‚РѕРјСѓ С‡С‚Рѕ РІРёР¶Сѓ</plain>
         </string>
         <string>
-            <plain>- Дух Святой уходит от меня.</plain>
+            <plain>- Р”СѓС… РЎРІСЏС‚РѕР№ СѓС…РѕРґРёС‚ РѕС‚ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Кто бы дал мне слезы, как</plain>
+            <plain>РљС‚Рѕ Р±С‹ РґР°Р» РјРЅРµ СЃР»РµР·С‹, РєР°Рє</plain>
         </string>
         <string>
-            <plain>Мария Плакала у ног Христа,</plain>
+            <plain>РњР°СЂРёСЏ РџР»Р°РєР°Р»Р° Сѓ РЅРѕРі РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>И слезами их она омыла,</plain>
+            <plain>Р СЃР»РµР·Р°РјРё РёС… РѕРЅР° РѕРјС‹Р»Р°,</plain>
         </string>
         <string>
-            <plain>Для души отраду там нашла.</plain>
+            <plain>Р”Р»СЏ РґСѓС€Рё РѕС‚СЂР°РґСѓ С‚Р°Рј РЅР°С€Р»Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Кто бы дал мне слезы раскаянья,</plain>
+            <plain>РљС‚Рѕ Р±С‹ РґР°Р» РјРЅРµ СЃР»РµР·С‹ СЂР°СЃРєР°СЏРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Что лились из глаз Петра!.</plain>
+            <plain>Р§С‚Рѕ Р»РёР»РёСЃСЊ РёР· РіР»Р°Р· РџРµС‚СЂР°!.</plain>
         </string>
         <string>
-            <plain>Тяжкую вину его омыли,</plain>
+            <plain>РўСЏР¶РєСѓСЋ РІРёРЅСѓ РµРіРѕ РѕРјС‹Р»Рё,</plain>
         </string>
         <string>
-            <plain>Грех и горе отречения.</plain>
+            <plain>Р“СЂРµС… Рё РіРѕСЂРµ РѕС‚СЂРµС‡РµРЅРёСЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Посмотри на слезы Иисуса,</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё РЅР° СЃР»РµР·С‹ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>Что лились из глаз тогда</plain>
+            <plain>Р§С‚Рѕ Р»РёР»РёСЃСЊ РёР· РіР»Р°Р· С‚РѕРіРґР°</plain>
         </string>
         <string>
-            <plain>За спасенье Иерусалима</plain>
+            <plain>Р—Р° СЃРїР°СЃРµРЅСЊРµ РРµСЂСѓСЃР°Р»РёРјР°</plain>
         </string>
         <string>
-            <plain>И за грех ожесточения.</plain>
+            <plain>Р Р·Р° РіСЂРµС… РѕР¶РµСЃС‚РѕС‡РµРЅРёСЏ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Боже, дай мне слезы таковые,</plain>
+            <plain>Р‘РѕР¶Рµ, РґР°Р№ РјРЅРµ СЃР»РµР·С‹ С‚Р°РєРѕРІС‹Рµ,</plain>
         </string>
         <string>
-            <plain>Чтобы был услышан</plain>
+            <plain>Р§С‚РѕР±С‹ Р±С‹Р» СѓСЃР»С‹С€Р°РЅ</plain>
         </string>
         <string>
-            <plain>я, Чтобы я не плакал за дверями,</plain>
+            <plain>СЏ, Р§С‚РѕР±С‹ СЏ РЅРµ РїР»Р°РєР°Р» Р·Р° РґРІРµСЂСЏРјРё,</plain>
         </string>
         <string>
-            <plain>Где слеза уж больше не нужна.</plain>
+            <plain>Р“РґРµ СЃР»РµР·Р° СѓР¶ Р±РѕР»СЊС€Рµ РЅРµ РЅСѓР¶РЅР°.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2539" name="Манит сердце мечтою" canon="false" text="" textRus="" music="">
+<psalm number="2539" name="РњР°РЅРёС‚ СЃРµСЂРґС†Рµ РјРµС‡С‚РѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Манит сердце мечтаю</plain>
+            <plain>РњР°РЅРёС‚ СЃРµСЂРґС†Рµ РјРµС‡С‚Р°СЋ</plain>
         </string>
         <string>
-            <plain>Высь небес голубая,</plain>
+            <plain>Р’С‹СЃСЊ РЅРµР±РµСЃ РіРѕР»СѓР±Р°СЏ,</plain>
         </string>
         <string>
-            <plain>Нашей общей судьбою</plain>
+            <plain>РќР°С€РµР№ РѕР±С‰РµР№ СЃСѓРґСЊР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Стала вера живая.</plain>
+            <plain>РЎС‚Р°Р»Р° РІРµСЂР° Р¶РёРІР°СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он нас сделал родными,</plain>
+            <plain>РћРЅ РЅР°СЃ СЃРґРµР»Р°Р» СЂРѕРґРЅС‹РјРё,</plain>
         </string>
         <string>
-            <plain>Он нас сделал друзьями.</plain>
+            <plain>РћРЅ РЅР°СЃ СЃРґРµР»Р°Р» РґСЂСѓР·СЊСЏРјРё.</plain>
         </string>
         <string>
-            <plain>Дал нам новое имя,</plain>
+            <plain>Р”Р°Р» РЅР°Рј РЅРѕРІРѕРµ РёРјСЏ,</plain>
         </string>
         <string>
-            <plain>Нас зовут - христиане.</plain>
+            <plain>РќР°СЃ Р·РѕРІСѓС‚ - С…СЂРёСЃС‚РёР°РЅРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Иисус стал нам Другом,</plain>
+            <plain>РРёСЃСѓСЃ СЃС‚Р°Р» РЅР°Рј Р”СЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Мы на деле узнали:</plain>
+            <plain>РњС‹ РЅР° РґРµР»Рµ СѓР·РЅР°Р»Рё:</plain>
         </string>
         <string>
-            <plain>Он врачует недуги,</plain>
+            <plain>РћРЅ РІСЂР°С‡СѓРµС‚ РЅРµРґСѓРіРё,</plain>
         </string>
         <string>
-            <plain>Удаляет печали.</plain>
+            <plain>РЈРґР°Р»СЏРµС‚ РїРµС‡Р°Р»Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он дарует спасены,</plain>
+            <plain>РћРЅ РґР°СЂСѓРµС‚ СЃРїР°СЃРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Мир и радость без меры,</plain>
+            <plain>РњРёСЂ Рё СЂР°РґРѕСЃС‚СЊ Р±РµР· РјРµСЂС‹,</plain>
         </string>
         <string>
-            <plain>И второе рожденье,</plain>
+            <plain>Р РІС‚РѕСЂРѕРµ СЂРѕР¶РґРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Только искренне веруй.</plain>
+            <plain>РўРѕР»СЊРєРѕ РёСЃРєСЂРµРЅРЅРµ РІРµСЂСѓР№.</plain>
         </string>
     </verse>
 </psalm>

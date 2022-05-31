@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1099" name="Возьми свой крест и следуй" canon="false" text="" textRus="" music="">
+<psalm number="1099" name="Р’РѕР·СЊРјРё СЃРІРѕР№ РєСЂРµСЃС‚ Рё СЃР»РµРґСѓР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Возьми свой крест и следуй</plain>
+            <plain>Р’РѕР·СЊРјРё СЃРІРѕР№ РєСЂРµСЃС‚ Рё СЃР»РµРґСѓР№</plain>
         </string>
         <string>
-            <plain>В путь узкий за Христом.</plain>
+            <plain>Р’ РїСѓС‚СЊ СѓР·РєРёР№ Р·Р° РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
         <string>
-            <plain>Идя за Ним, не сетуй.</plain>
+            <plain>РРґСЏ Р·Р° РќРёРј, РЅРµ СЃРµС‚СѓР№.</plain>
         </string>
         <string>
-            <plain>Не плачь ты под крестом.</plain>
+            <plain>РќРµ РїР»Р°С‡СЊ С‚С‹ РїРѕРґ РєСЂРµСЃС‚РѕРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Стремись путь к вечной жизни</plain>
+            <plain>РЎС‚СЂРµРјРёСЃСЊ РїСѓС‚СЊ Рє РІРµС‡РЅРѕР№ Р¶РёР·РЅРё</plain>
         </string>
         <string>
-            <plain>Пройти ты до конца.</plain>
+            <plain>РџСЂРѕР№С‚Рё С‚С‹ РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
         <string>
-            <plain>Тогда войдешь в Отчизну,</plain>
+            <plain>РўРѕРіРґР° РІРѕР№РґРµС€СЊ РІ РћС‚С‡РёР·РЅСѓ,</plain>
         </string>
         <string>
-            <plain>заветный дом Отца.</plain>
+            <plain>Р·Р°РІРµС‚РЅС‹Р№ РґРѕРј РћС‚С†Р°.</plain>
         </string>
     </verse>
 </psalm>

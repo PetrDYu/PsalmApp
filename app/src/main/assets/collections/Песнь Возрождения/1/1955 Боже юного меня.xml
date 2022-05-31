@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1955" name="Боже юного меня" canon="false" text="" textRus="" music="">
+<psalm number="1955" name="Р‘РѕР¶Рµ СЋРЅРѕРіРѕ РјРµРЅСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже, юного меня</plain>
+            <plain>Р‘РѕР¶Рµ, СЋРЅРѕРіРѕ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Спас Ты, счастьем осеня,</plain>
+            <plain>РЎРїР°СЃ РўС‹, СЃС‡Р°СЃС‚СЊРµРј РѕСЃРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Песнью радостной, святой</plain>
+            <plain>РџРµСЃРЅСЊСЋ СЂР°РґРѕСЃС‚РЅРѕР№, СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Воспеваю жребий свой.</plain>
+            <plain>Р’РѕСЃРїРµРІР°СЋ Р¶СЂРµР±РёР№ СЃРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Но взгляни с высот Своих,</plain>
+            <plain>РќРѕ РІР·РіР»СЏРЅРё СЃ РІС‹СЃРѕС‚ РЎРІРѕРёС…,</plain>
         </string>
         <string>
-            <plain>Сколько жизней молодых,</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ Р¶РёР·РЅРµР№ РјРѕР»РѕРґС‹С…,</plain>
         </string>
         <string>
-            <plain>Затаив смертельных страх,</plain>
+            <plain>Р—Р°С‚Р°РёРІ СЃРјРµСЂС‚РµР»СЊРЅС‹С… СЃС‚СЂР°С…,</plain>
         </string>
         <string>
-            <plain>Гибнут в роковых волнах.</plain>
+            <plain>Р“РёР±РЅСѓС‚ РІ СЂРѕРєРѕРІС‹С… РІРѕР»РЅР°С….</plain>
         </string>
     </verse>
 </psalm>

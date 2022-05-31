@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="179" name="О как блажен как счастлив я" canon="false" text="" textRus="" music="">
+<psalm number="179" name="Рћ РєР°Рє Р±Р»Р°Р¶РµРЅ РєР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О как блажен, как счастлив я!</plain>
+            <plain>Рћ РєР°Рє Р±Р»Р°Р¶РµРЅ, РєР°Рє СЃС‡Р°СЃС‚Р»РёРІ СЏ!</plain>
         </string>
         <string>
-            <plain>Господь - Спаситель мой.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ - РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Готово место для меня</plain>
+            <plain>Р“РѕС‚РѕРІРѕ РјРµСЃС‚Рѕ РґР»СЏ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>В стране небес святой.</plain>
+            <plain>Р’ СЃС‚СЂР°РЅРµ РЅРµР±РµСЃ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Славлю Агнца! За меня</plain>
+            <plain>РЎР»Р°РІР»СЋ РђРіРЅС†Р°! Р—Р° РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>Страдал на Голгофе Он,</plain>
+            <plain>РЎС‚СЂР°РґР°Р» РЅР° Р“РѕР»РіРѕС„Рµ РћРЅ,</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>аллилуйя, аминь.</plain>
+            <plain>Р°Р»Р»РёР»СѓР№СЏ, Р°РјРёРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Аллилуйя, аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, Р°Р»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>аллилуйя, аминь.</plain>
+            <plain>Р°Р»Р»РёР»СѓР№СЏ, Р°РјРёРЅСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>С мирским богатством не сравним</plain>
+            <plain>РЎ РјРёСЂСЃРєРёРј Р±РѕРіР°С‚СЃС‚РІРѕРј РЅРµ СЃСЂР°РІРЅРёРј</plain>
         </string>
         <string>
-            <plain>Тот город золотой</plain>
+            <plain>РўРѕС‚ РіРѕСЂРѕРґ Р·РѕР»РѕС‚РѕР№</plain>
         </string>
         <string>
-            <plain>В нем вечно буду жить я с Ним,</plain>
+            <plain>Р’ РЅРµРј РІРµС‡РЅРѕ Р±СѓРґСѓ Р¶РёС‚СЊ СЏ СЃ РќРёРј,</plain>
         </string>
         <string>
-            <plain>Я жалкий прах земной.</plain>
+            <plain>РЇ Р¶Р°Р»РєРёР№ РїСЂР°С… Р·РµРјРЅРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Нет ночи в той стране святой,</plain>
+            <plain>РќРµС‚ РЅРѕС‡Рё РІ С‚РѕР№ СЃС‚СЂР°РЅРµ СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Не меркнет солнца свет,</plain>
+            <plain>РќРµ РјРµСЂРєРЅРµС‚ СЃРѕР»РЅС†Р° СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Там все сердца звучат хвалой,</plain>
+            <plain>РўР°Рј РІСЃРµ СЃРµСЂРґС†Р° Р·РІСѓС‡Р°С‚ С…РІР°Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>Там плача больше нет.</plain>
+            <plain>РўР°Рј РїР»Р°С‡Р° Р±РѕР»СЊС€Рµ РЅРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О братья, сестры, радость нам</plain>
+            <plain>Рћ Р±СЂР°С‚СЊСЏ, СЃРµСЃС‚СЂС‹, СЂР°РґРѕСЃС‚СЊ РЅР°Рј</plain>
         </string>
         <string>
-            <plain>Дана и в мире сем;</plain>
+            <plain>Р”Р°РЅР° Рё РІ РјРёСЂРµ СЃРµРј;</plain>
         </string>
         <string>
-            <plain>Здесь видим свет, что светит там,</plain>
+            <plain>Р—РґРµСЃСЊ РІРёРґРёРј СЃРІРµС‚, С‡С‚Рѕ СЃРІРµС‚РёС‚ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>Куда мы все придем.</plain>
+            <plain>РљСѓРґР° РјС‹ РІСЃРµ РїСЂРёРґРµРј.</plain>
         </string>
     </verse>
 </psalm>

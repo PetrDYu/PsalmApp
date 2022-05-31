@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2984" name="Бодрствуйте Скоро Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="2984" name="Р‘РѕРґСЂСЃС‚РІСѓР№С‚Рµ РЎРєРѕСЂРѕ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бодрствуйте! Скоро Спаситель</plain>
+            <plain>Р‘РѕРґСЂСЃС‚РІСѓР№С‚Рµ! РЎРєРѕСЂРѕ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>с неба опять придет!</plain>
+            <plain>СЃ РЅРµР±Р° РѕРїСЏС‚СЊ РїСЂРёРґРµС‚!</plain>
         </string>
         <string>
-            <plain>Мы по знамениям видим,</plain>
+            <plain>РњС‹ РїРѕ Р·РЅР°РјРµРЅРёСЏРј РІРёРґРёРј,</plain>
         </string>
         <string>
-            <plain>что у двери Он ждет.</plain>
+            <plain>С‡С‚Рѕ Сѓ РґРІРµСЂРё РћРЅ Р¶РґРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он грядёт, да, грядет,</plain>
+            <plain>РћРЅ РіСЂСЏРґС‘С‚, РґР°, РіСЂСЏРґРµС‚,</plain>
         </string>
         <string>
-            <plain>вот уже светает.</plain>
+            <plain>РІРѕС‚ СѓР¶Рµ СЃРІРµС‚Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>Ждите все, Он придет,</plain>
+            <plain>Р–РґРёС‚Рµ РІСЃРµ, РћРЅ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>день суда настанет.</plain>
+            <plain>РґРµРЅСЊ СЃСѓРґР° РЅР°СЃС‚Р°РЅРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Рад ли ты Господа встретить,</plain>
+            <plain>Р Р°Рґ Р»Рё С‚С‹ Р“РѕСЃРїРѕРґР° РІСЃС‚СЂРµС‚РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>если тот день придет?</plain>
+            <plain>РµСЃР»Рё С‚РѕС‚ РґРµРЅСЊ РїСЂРёРґРµС‚?</plain>
         </string>
         <string>
-            <plain>Ад весь повергнется в трепет,</plain>
+            <plain>РђРґ РІРµСЃСЊ РїРѕРІРµСЂРіРЅРµС‚СЃСЏ РІ С‚СЂРµРїРµС‚,</plain>
         </string>
         <string>
-            <plain>Бог на все свет прольет.</plain>
+            <plain>Р‘РѕРі РЅР° РІСЃРµ СЃРІРµС‚ РїСЂРѕР»СЊРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>С неба Он вновь возвратится,</plain>
+            <plain>РЎ РЅРµР±Р° РћРЅ РІРЅРѕРІСЊ РІРѕР·РІСЂР°С‚РёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>- как встретишь ты Христа?</plain>
+            <plain>- РєР°Рє РІСЃС‚СЂРµС‚РёС€СЊ С‚С‹ РҐСЂРёСЃС‚Р°?</plain>
         </string>
         <string>
-            <plain>Если суд Божий свершиться,</plain>
+            <plain>Р•СЃР»Рё СЃСѓРґ Р‘РѕР¶РёР№ СЃРІРµСЂС€РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>ты устоишь тогда?</plain>
+            <plain>С‚С‹ СѓСЃС‚РѕРёС€СЊ С‚РѕРіРґР°?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Праведных всех ждет награда:</plain>
+            <plain>РџСЂР°РІРµРґРЅС‹С… РІСЃРµС… Р¶РґРµС‚ РЅР°РіСЂР°РґР°:</plain>
         </string>
         <string>
-            <plain>жизни венец даст Бог;</plain>
+            <plain>Р¶РёР·РЅРё РІРµРЅРµС† РґР°СЃС‚ Р‘РѕРі;</plain>
         </string>
         <string>
-            <plain>грешник пойдет в бездну ада,</plain>
+            <plain>РіСЂРµС€РЅРёРє РїРѕР№РґРµС‚ РІ Р±РµР·РґРЅСѓ Р°РґР°,</plain>
         </string>
         <string>
-            <plain>ужас его там ждет.</plain>
+            <plain>СѓР¶Р°СЃ РµРіРѕ С‚Р°Рј Р¶РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Если Христа здесь не впустишь,</plain>
+            <plain>Р•СЃР»Рё РҐСЂРёСЃС‚Р° Р·РґРµСЃСЊ РЅРµ РІРїСѓСЃС‚РёС€СЊ,</plain>
         </string>
         <string>
-            <plain>милость отвергнешь ты,</plain>
+            <plain>РјРёР»РѕСЃС‚СЊ РѕС‚РІРµСЂРіРЅРµС€СЊ С‚С‹,</plain>
         </string>
         <string>
-            <plain>боль и страдания вкусишь там,</plain>
+            <plain>Р±РѕР»СЊ Рё СЃС‚СЂР°РґР°РЅРёСЏ РІРєСѓСЃРёС€СЊ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>в царстве вечной тьмы.</plain>
+            <plain>РІ С†Р°СЂСЃС‚РІРµ РІРµС‡РЅРѕР№ С‚СЊРјС‹.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Грешник, внемля же всем сердцем,</plain>
+            <plain>Р“СЂРµС€РЅРёРє, РІРЅРµРјР»СЏ Р¶Рµ РІСЃРµРј СЃРµСЂРґС†РµРј,</plain>
         </string>
         <string>
-            <plain>гнев Божий избеги хочешь</plain>
+            <plain>РіРЅРµРІ Р‘РѕР¶РёР№ РёР·Р±РµРіРё С…РѕС‡РµС€СЊ</plain>
         </string>
         <string>
-            <plain>в блаженстве быть вечном,</plain>
+            <plain>РІ Р±Р»Р°Р¶РµРЅСЃС‚РІРµ Р±С‹С‚СЊ РІРµС‡РЅРѕРј,</plain>
         </string>
         <string>
-            <plain>- путь узкий избери.</plain>
+            <plain>- РїСѓС‚СЊ СѓР·РєРёР№ РёР·Р±РµСЂРё.</plain>
         </string>
     </verse>
 </psalm>

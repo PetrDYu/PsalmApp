@@ -1,68 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2316" name="С вечных чертогов Спаситель пришел" canon="false" text="" textRus="" music="">
+<psalm number="2316" name="РЎ РІРµС‡РЅС‹С… С‡РµСЂС‚РѕРіРѕРІ РЎРїР°СЃРёС‚РµР»СЊ РїСЂРёС€РµР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С вечных чертогов Спаситель пришел,</plain>
+            <plain>РЎ РІРµС‡РЅС‹С… С‡РµСЂС‚РѕРіРѕРІ РЎРїР°СЃРёС‚РµР»СЊ РїСЂРёС€РµР»,</plain>
         </string>
         <string>
-            <plain>Чтоб умереть за нас.</plain>
+            <plain>Р§С‚РѕР± СѓРјРµСЂРµС‚СЊ Р·Р° РЅР°СЃ.</plain>
         </string>
         <string>
-            <plain>В муках креста Он весь мир приобрел</plain>
+            <plain>Р’ РјСѓРєР°С… РєСЂРµСЃС‚Р° РћРЅ РІРµСЃСЊ РјРёСЂ РїСЂРёРѕР±СЂРµР»</plain>
         </string>
         <string>
-            <plain>И че-ловека спас.</plain>
+            <plain>Р С‡Рµ-Р»РѕРІРµРєР° СЃРїР°СЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он согласился крест нести,</plain>
+            <plain>РћРЅ СЃРѕРіР»Р°СЃРёР»СЃСЏ РєСЂРµСЃС‚ РЅРµСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Много страдал, чтобы нас спасти</plain>
+            <plain>РњРЅРѕРіРѕ СЃС‚СЂР°РґР°Р», С‡С‚РѕР±С‹ РЅР°СЃ СЃРїР°СЃС‚Рё</plain>
         </string>
         <string>
-            <plain>И на Голгофе в горести Славу Свою Он явил.</plain>
+            <plain>Р РЅР° Р“РѕР»РіРѕС„Рµ РІ РіРѕСЂРµСЃС‚Рё РЎР»Р°РІСѓ РЎРІРѕСЋ РћРЅ СЏРІРёР».</plain>
         </string>
         <string>
-            <plain>Он согласился крест принять</plain>
+            <plain>РћРЅ СЃРѕРіР»Р°СЃРёР»СЃСЏ РєСЂРµСЃС‚ РїСЂРёРЅСЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>И со злодеями страдать,</plain>
+            <plain>Р СЃРѕ Р·Р»РѕРґРµСЏРјРё СЃС‚СЂР°РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>И за грех мой так умирать</plain>
+            <plain>Р Р·Р° РіСЂРµС… РјРѕР№ С‚Р°Рє СѓРјРёСЂР°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Да, Он все победил.</plain>
+            <plain>Р”Р°, РћРЅ РІСЃРµ РїРѕР±РµРґРёР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>О, как ужасно Господь наш страдал,</plain>
+            <plain>Рћ, РєР°Рє СѓР¶Р°СЃРЅРѕ Р“РѕСЃРїРѕРґСЊ РЅР°С€ СЃС‚СЂР°РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Принял позор веков.</plain>
+            <plain>РџСЂРёРЅСЏР» РїРѕР·РѕСЂ РІРµРєРѕРІ.</plain>
         </string>
         <string>
-            <plain>Много терпел Он и выкуп нам дал</plain>
+            <plain>РњРЅРѕРіРѕ С‚РµСЂРїРµР» РћРЅ Рё РІС‹РєСѓРї РЅР°Рј РґР°Р»</plain>
         </string>
         <string>
-            <plain>В муках земных оков.</plain>
+            <plain>Р’ РјСѓРєР°С… Р·РµРјРЅС‹С… РѕРєРѕРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ныне спеши ко Христу ты с мольбой</plain>
+            <plain>РќС‹РЅРµ СЃРїРµС€Рё РєРѕ РҐСЂРёСЃС‚Сѓ С‚С‹ СЃ РјРѕР»СЊР±РѕР№</plain>
         </string>
         <string>
-            <plain>И всю вину сложи.</plain>
+            <plain>Р РІСЃСЋ РІРёРЅСѓ СЃР»РѕР¶Рё.</plain>
         </string>
         <string>
-            <plain>Вспомни, что Он за тебя был казнен,</plain>
+            <plain>Р’СЃРїРѕРјРЅРё, С‡С‚Рѕ РћРЅ Р·Р° С‚РµР±СЏ Р±С‹Р» РєР°Р·РЅРµРЅ,</plain>
         </string>
         <string>
-            <plain>Ныне к Нему спеши.</plain>
+            <plain>РќС‹РЅРµ Рє РќРµРјСѓ СЃРїРµС€Рё.</plain>
         </string>
     </verse>
 </psalm>

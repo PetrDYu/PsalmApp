@@ -1,143 +1,143 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2645" name="Церковь Божья поднимайся Слушай своего Царя" canon="false" text="" textRus="" music="">
+<psalm number="2645" name="Р¦РµСЂРєРѕРІСЊ Р‘РѕР¶СЊСЏ РїРѕРґРЅРёРјР°Р№СЃСЏ РЎР»СѓС€Р°Р№ СЃРІРѕРµРіРѕ Р¦Р°СЂСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Церковь Божья, поднимайся,</plain>
+            <plain>Р¦РµСЂРєРѕРІСЊ Р‘РѕР¶СЊСЏ, РїРѕРґРЅРёРјР°Р№СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Слушай своего Царя.</plain>
+            <plain>РЎР»СѓС€Р°Р№ СЃРІРѕРµРіРѕ Р¦Р°СЂСЏ.</plain>
         </string>
         <string>
-            <plain>Призыв мощный вновь раздался,</plain>
+            <plain>РџСЂРёР·С‹РІ РјРѕС‰РЅС‹Р№ РІРЅРѕРІСЊ СЂР°Р·РґР°Р»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Божья нива ждет тебя.</plain>
+            <plain>Р‘РѕР¶СЊСЏ РЅРёРІР° Р¶РґРµС‚ С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Через горы и долины</plain>
+            <plain>Р§РµСЂРµР· РіРѕСЂС‹ Рё РґРѕР»РёРЅС‹</plain>
         </string>
         <string>
-            <plain>К нам несется зов Христа:</plain>
+            <plain>Рљ РЅР°Рј РЅРµСЃРµС‚СЃСЏ Р·РѕРІ РҐСЂРёСЃС‚Р°:</plain>
         </string>
         <string>
-            <plain>"Близок час великой жатвы",</plain>
+            <plain>"Р‘Р»РёР·РѕРє С‡Р°СЃ РІРµР»РёРєРѕР№ Р¶Р°С‚РІС‹",</plain>
         </string>
         <string>
-            <plain>- Говорят Его уста.</plain>
+            <plain>- Р“РѕРІРѕСЂСЏС‚ Р•РіРѕ СѓСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Мужи сильные, идите</plain>
+            <plain>РњСѓР¶Рё СЃРёР»СЊРЅС‹Рµ, РёРґРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>Спелые колосья жать</plain>
+            <plain>РЎРїРµР»С‹Рµ РєРѕР»РѕСЃСЊСЏ Р¶Р°С‚СЊ</plain>
         </string>
         <string>
-            <plain>Близок вечер, поспешите</plain>
+            <plain>Р‘Р»РёР·РѕРє РІРµС‡РµСЂ, РїРѕСЃРїРµС€РёС‚Рµ</plain>
         </string>
         <string>
-            <plain>Урожай с полей собрать.</plain>
+            <plain>РЈСЂРѕР¶Р°Р№ СЃ РїРѕР»РµР№ СЃРѕР±СЂР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Юноши, скорей идите</plain>
+            <plain>Р®РЅРѕС€Рё, СЃРєРѕСЂРµР№ РёРґРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>На поля снопы вязать,</plain>
+            <plain>РќР° РїРѕР»СЏ СЃРЅРѕРїС‹ РІСЏР·Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Старшим братьям помогите</plain>
+            <plain>РЎС‚Р°СЂС€РёРј Р±СЂР°С‚СЊСЏРј РїРѕРјРѕРіРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>Жатву в житницу собрать.</plain>
+            <plain>Р–Р°С‚РІСѓ РІ Р¶РёС‚РЅРёС†Сѓ СЃРѕР±СЂР°С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Жены сильные, вставайте,</plain>
+            <plain>Р–РµРЅС‹ СЃРёР»СЊРЅС‹Рµ, РІСЃС‚Р°РІР°Р№С‚Рµ,</plain>
         </string>
         <string>
-            <plain>В деле Божьем вы нужны,</plain>
+            <plain>Р’ РґРµР»Рµ Р‘РѕР¶СЊРµРј РІС‹ РЅСѓР¶РЅС‹,</plain>
         </string>
         <string>
-            <plain>И прилежно собирайте</plain>
+            <plain>Р РїСЂРёР»РµР¶РЅРѕ СЃРѕР±РёСЂР°Р№С‚Рµ</plain>
         </string>
         <string>
-            <plain>Золотистые снопы.</plain>
+            <plain>Р—РѕР»РѕС‚РёСЃС‚С‹Рµ СЃРЅРѕРїС‹.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Девы юные, бегите,</plain>
+            <plain>Р”РµРІС‹ СЋРЅС‹Рµ, Р±РµРіРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Божья нива ждет и вас</plain>
+            <plain>Р‘РѕР¶СЊСЏ РЅРёРІР° Р¶РґРµС‚ Рё РІР°СЃ</plain>
         </string>
         <string>
-            <plain>Все колосья соберите,</plain>
+            <plain>Р’СЃРµ РєРѕР»РѕСЃСЊСЏ СЃРѕР±РµСЂРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Что могли к земле припасть.</plain>
+            <plain>Р§С‚Рѕ РјРѕРіР»Рё Рє Р·РµРјР»Рµ РїСЂРёРїР°СЃС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Убеленные сединою,</plain>
+            <plain>РЈР±РµР»РµРЅРЅС‹Рµ СЃРµРґРёРЅРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Старец слабый, стань и ты,</plain>
+            <plain>РЎС‚Р°СЂРµС† СЃР»Р°Р±С‹Р№, СЃС‚Р°РЅСЊ Рё С‚С‹,</plain>
         </string>
         <string>
-            <plain>И дрожащею рукою</plain>
+            <plain>Р РґСЂРѕР¶Р°С‰РµСЋ СЂСѓРєРѕСЋ</plain>
         </string>
         <string>
-            <plain>Сноп забытый подними.</plain>
+            <plain>РЎРЅРѕРї Р·Р°Р±С‹С‚С‹Р№ РїРѕРґРЅРёРјРё.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Наконец, все христиане,</plain>
+            <plain>РќР°РєРѕРЅРµС†, РІСЃРµ С…СЂРёСЃС‚РёР°РЅРµ,</plain>
         </string>
         <string>
-            <plain>Бросим грех и суету,</plain>
+            <plain>Р‘СЂРѕСЃРёРј РіСЂРµС… Рё СЃСѓРµС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Выйдем все на Божью ниву,</plain>
+            <plain>Р’С‹Р№РґРµРј РІСЃРµ РЅР° Р‘РѕР¶СЊСЋ РЅРёРІСѓ,</plain>
         </string>
         <string>
-            <plain>Бог нас всех зовет к труду.</plain>
+            <plain>Р‘РѕРі РЅР°СЃ РІСЃРµС… Р·РѕРІРµС‚ Рє С‚СЂСѓРґСѓ.</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>За трудом покой приятный</plain>
+            <plain>Р—Р° С‚СЂСѓРґРѕРј РїРѕРєРѕР№ РїСЂРёСЏС‚РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Всех жнецов на небе ждет</plain>
+            <plain>Р’СЃРµС… Р¶РЅРµС†РѕРІ РЅР° РЅРµР±Рµ Р¶РґРµС‚</plain>
         </string>
         <string>
-            <plain>Скоро, скоро Царь Небесный</plain>
+            <plain>РЎРєРѕСЂРѕ, СЃРєРѕСЂРѕ Р¦Р°СЂСЊ РќРµР±РµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Свою Церковь взять придет.</plain>
+            <plain>РЎРІРѕСЋ Р¦РµСЂРєРѕРІСЊ РІР·СЏС‚СЊ РїСЂРёРґРµС‚.</plain>
         </string>
     </verse>
     <verse number="10">
         <string>
-            <plain>Уж сгустились тени ночи,</plain>
+            <plain>РЈР¶ СЃРіСѓСЃС‚РёР»РёСЃСЊ С‚РµРЅРё РЅРѕС‡Рё,</plain>
         </string>
         <string>
-            <plain>Час полночный настает.</plain>
+            <plain>Р§Р°СЃ РїРѕР»РЅРѕС‡РЅС‹Р№ РЅР°СЃС‚Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>Поднимите ваши очи,</plain>
+            <plain>РџРѕРґРЅРёРјРёС‚Рµ РІР°С€Рё РѕС‡Рё,</plain>
         </string>
         <string>
-            <plain>Наш Господь уже грядет.</plain>
+            <plain>РќР°С€ Р“РѕСЃРїРѕРґСЊ СѓР¶Рµ РіСЂСЏРґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3023" name="Хочу светить Господь" canon="false" text="" textRus="" music="">
+<psalm number="3023" name="РҐРѕС‡Сѓ СЃРІРµС‚РёС‚СЊ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хочу светить, Господь,</plain>
+            <plain>РҐРѕС‡Сѓ СЃРІРµС‚РёС‚СЊ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>здесь в тёмном мире я,</plain>
+            <plain>Р·РґРµСЃСЊ РІ С‚С‘РјРЅРѕРј РјРёСЂРµ СЏ,</plain>
         </string>
         <string>
-            <plain>и жизнью я хочу лишь</plain>
+            <plain>Рё Р¶РёР·РЅСЊСЋ СЏ С…РѕС‡Сѓ Р»РёС€СЊ</plain>
         </string>
         <string>
-            <plain>прославлять Тебя.</plain>
+            <plain>РїСЂРѕСЃР»Р°РІР»СЏС‚СЊ РўРµР±СЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Светом небесным</plain>
+            <plain>РЎРІРµС‚РѕРј РЅРµР±РµСЃРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>я хочу светить.</plain>
+            <plain>СЏ С…РѕС‡Сѓ СЃРІРµС‚РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Светом небесным,</plain>
+            <plain>РЎРІРµС‚РѕРј РЅРµР±РµСЃРЅС‹Рј,</plain>
         </string>
         <string>
-            <plain>Господь, дай светить.</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РґР°Р№ СЃРІРµС‚РёС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хочу любить Того,</plain>
+            <plain>РҐРѕС‡Сѓ Р»СЋР±РёС‚СЊ РўРѕРіРѕ,</plain>
         </string>
         <string>
-            <plain>кто возлюбил меня,</plain>
+            <plain>РєС‚Рѕ РІРѕР·Р»СЋР±РёР» РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>и сеять лишь добро</plain>
+            <plain>Рё СЃРµСЏС‚СЊ Р»РёС€СЊ РґРѕР±СЂРѕ</plain>
         </string>
         <string>
-            <plain>- в том радость вся моя.</plain>
+            <plain>- РІ С‚РѕРј СЂР°РґРѕСЃС‚СЊ РІСЃСЏ РјРѕСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Хочу я людям всем,</plain>
+            <plain>РҐРѕС‡Сѓ СЏ Р»СЋРґСЏРј РІСЃРµРј,</plain>
         </string>
         <string>
-            <plain>живущим во грехах,</plain>
+            <plain>Р¶РёРІСѓС‰РёРј РІРѕ РіСЂРµС…Р°С…,</plain>
         </string>
         <string>
-            <plain>рассказывать о том,</plain>
+            <plain>СЂР°СЃСЃРєР°Р·С‹РІР°С‚СЊ Рѕ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>как верен Бог и благ.</plain>
+            <plain>РєР°Рє РІРµСЂРµРЅ Р‘РѕРі Рё Р±Р»Р°Рі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хочу я по Его</plain>
+            <plain>РҐРѕС‡Сѓ СЏ РїРѕ Р•РіРѕ</plain>
         </string>
         <string>
-            <plain>стопам всегда идти,</plain>
+            <plain>СЃС‚РѕРїР°Рј РІСЃРµРіРґР° РёРґС‚Рё,</plain>
         </string>
         <string>
-            <plain>к Нему однажды,</plain>
+            <plain>Рє РќРµРјСѓ РѕРґРЅР°Р¶РґС‹,</plain>
         </string>
         <string>
-            <plain>чтоб на небеса войти.</plain>
+            <plain>С‡С‚РѕР± РЅР° РЅРµР±РµСЃР° РІРѕР№С‚Рё.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Хочу Тебе, Господь,</plain>
+            <plain>РҐРѕС‡Сѓ РўРµР±Рµ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>отдать всю жизнь свою;</plain>
+            <plain>РѕС‚РґР°С‚СЊ РІСЃСЋ Р¶РёР·РЅСЊ СЃРІРѕСЋ;</plain>
         </string>
         <string>
-            <plain>о, помоги ж мне Ты,</plain>
+            <plain>Рѕ, РїРѕРјРѕРіРё Р¶ РјРЅРµ РўС‹,</plain>
         </string>
         <string>
-            <plain>любимый мой Иисус!</plain>
+            <plain>Р»СЋР±РёРјС‹Р№ РјРѕР№ РРёСЃСѓСЃ!</plain>
         </string>
     </verse>
 </psalm>

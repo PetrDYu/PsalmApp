@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="263" name="К труду ведь я призван на землю" canon="false" text="" textRus="" music="">
+<psalm number="263" name="Рљ С‚СЂСѓРґСѓ РІРµРґСЊ СЏ РїСЂРёР·РІР°РЅ РЅР° Р·РµРјР»СЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>К труду ведь я призван на землю,</plain>
+            <plain>Рљ С‚СЂСѓРґСѓ РІРµРґСЊ СЏ РїСЂРёР·РІР°РЅ РЅР° Р·РµРјР»СЋ,</plain>
         </string>
         <string>
-            <plain>К борьбе с своей плотью и злом,</plain>
+            <plain>Рљ Р±РѕСЂСЊР±Рµ СЃ СЃРІРѕРµР№ РїР»РѕС‚СЊСЋ Рё Р·Р»РѕРј,</plain>
         </string>
         <string>
-            <plain>К вражде ко всему, что греховно,</plain>
+            <plain>Рљ РІСЂР°Р¶РґРµ РєРѕ РІСЃРµРјСѓ, С‡С‚Рѕ РіСЂРµС…РѕРІРЅРѕ,</plain>
         </string>
         <string>
-            <plain>И к жизни в любви со врагом;</plain>
+            <plain>Р Рє Р¶РёР·РЅРё РІ Р»СЋР±РІРё СЃРѕ РІСЂР°РіРѕРј;</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Любить же любовью Христа,</plain>
+            <plain>Р›СЋР±РёС‚СЊ Р¶Рµ Р»СЋР±РѕРІСЊСЋ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Кто Сам, не щадя Своей жизни,</plain>
+            <plain>РљС‚Рѕ РЎР°Рј, РЅРµ С‰Р°РґСЏ РЎРІРѕРµР№ Р¶РёР·РЅРё,</plain>
         </string>
         <string>
-            <plain>Отдал Себя муке креста.</plain>
+            <plain>РћС‚РґР°Р» РЎРµР±СЏ РјСѓРєРµ РєСЂРµСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я воин небесного града,</plain>
+            <plain>РЇ РІРѕРёРЅ РЅРµР±РµСЃРЅРѕРіРѕ РіСЂР°РґР°,</plain>
         </string>
         <string>
-            <plain>Мне славы не надо земной;</plain>
+            <plain>РњРЅРµ СЃР»Р°РІС‹ РЅРµ РЅР°РґРѕ Р·РµРјРЅРѕР№;</plain>
         </string>
         <string>
-            <plain>Здесь слезы, печаль и страданья –</plain>
+            <plain>Р—РґРµСЃСЊ СЃР»РµР·С‹, РїРµС‡Р°Р»СЊ Рё СЃС‚СЂР°РґР°РЅСЊСЏ вЂ“</plain>
         </string>
         <string>
-            <plain>Там будет венец золотой.</plain>
+            <plain>РўР°Рј Р±СѓРґРµС‚ РІРµРЅРµС† Р·РѕР»РѕС‚РѕР№.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Не глядя на робких друзей,</plain>
+            <plain>РќРµ РіР»СЏРґСЏ РЅР° СЂРѕР±РєРёС… РґСЂСѓР·РµР№,</plain>
         </string>
         <string>
-            <plain>Свидетелем быть перед миром,</plain>
+            <plain>РЎРІРёРґРµС‚РµР»РµРј Р±С‹С‚СЊ РїРµСЂРµРґ РјРёСЂРѕРј,</plain>
         </string>
         <string>
-            <plain>Суда не бояться людей.</plain>
+            <plain>РЎСѓРґР° РЅРµ Р±РѕСЏС‚СЊСЃСЏ Р»СЋРґРµР№.</plain>
         </string>
     </chorus>
 </psalm>

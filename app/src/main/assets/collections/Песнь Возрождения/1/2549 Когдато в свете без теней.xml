@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2549" name="Когдато в свете без теней" canon="false" text="" textRus="" music="">
+<psalm number="2549" name="РљРѕРіРґР°С‚Рѕ РІ СЃРІРµС‚Рµ Р±РµР· С‚РµРЅРµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Когда-то в свете без теней,</plain>
+            <plain>РљРѕРіРґР°-С‚Рѕ РІ СЃРІРµС‚Рµ Р±РµР· С‚РµРЅРµР№,</plain>
         </string>
         <string>
-            <plain>не здесь, а там в краю родном,</plain>
+            <plain>РЅРµ Р·РґРµСЃСЊ, Р° С‚Р°Рј РІ РєСЂР°СЋ СЂРѕРґРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>Прочтем значение скорбей</plain>
+            <plain>РџСЂРѕС‡С‚РµРј Р·РЅР°С‡РµРЅРёРµ СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>и сокровенное поймем.</plain>
+            <plain>Рё СЃРѕРєСЂРѕРІРµРЅРЅРѕРµ РїРѕР№РјРµРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Всецело Богу доверяй:</plain>
+            <plain>Р’СЃРµС†РµР»Рѕ Р‘РѕРіСѓ РґРѕРІРµСЂСЏР№:</plain>
         </string>
         <string>
-            <plain>Он нас ведет прямым путем;</plain>
+            <plain>РћРЅ РЅР°СЃ РІРµРґРµС‚ РїСЂСЏРјС‹Рј РїСѓС‚РµРј;</plain>
         </string>
         <string>
-            <plain>Теперь темно, но близок рай, а там?</plain>
+            <plain>РўРµРїРµСЂСЊ С‚РµРјРЅРѕ, РЅРѕ Р±Р»РёР·РѕРє СЂР°Р№, Р° С‚Р°Рј?</plain>
         </string>
         <string>
-            <plain>А там мы все поймем!</plain>
+            <plain>Рђ С‚Р°Рј РјС‹ РІСЃРµ РїРѕР№РјРµРј!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Найдем потерянную нить,</plain>
+            <plain>РќР°Р№РґРµРј РїРѕС‚РµСЂСЏРЅРЅСѓСЋ РЅРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>закончим начатое днем,</plain>
+            <plain>Р·Р°РєРѕРЅС‡РёРј РЅР°С‡Р°С‚РѕРµ РґРЅРµРј,</plain>
         </string>
         <string>
-            <plain>Все тайны сможем уяснить</plain>
+            <plain>Р’СЃРµ С‚Р°Р№РЅС‹ СЃРјРѕР¶РµРј СѓСЏСЃРЅРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>и все земное там поймет.</plain>
+            <plain>Рё РІСЃРµ Р·РµРјРЅРѕРµ С‚Р°Рј РїРѕР№РјРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Зачем темнело все вокруг,</plain>
+            <plain>Р—Р°С‡РµРј С‚РµРјРЅРµР»Рѕ РІСЃРµ РІРѕРєСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>успеха не было ни в чем,</plain>
+            <plain>СѓСЃРїРµС…Р° РЅРµ Р±С‹Р»Рѕ РЅРё РІ С‡РµРј,</plain>
         </string>
         <string>
-            <plain>А песня обрывалась вдруг,</plain>
+            <plain>Рђ РїРµСЃРЅСЏ РѕР±СЂС‹РІР°Р»Р°СЃСЊ РІРґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>- в стране небесной мы поймем.</plain>
+            <plain>- РІ СЃС‚СЂР°РЅРµ РЅРµР±РµСЃРЅРѕР№ РјС‹ РїРѕР№РјРµРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бог знает все, Он держит ключ,</plain>
+            <plain>Р‘РѕРі Р·РЅР°РµС‚ РІСЃРµ, РћРЅ РґРµСЂР¶РёС‚ РєР»СЋС‡,</plain>
         </string>
         <string>
-            <plain>Он нас ведет в небесный дом...</plain>
+            <plain>РћРЅ РЅР°СЃ РІРµРґРµС‚ РІ РЅРµР±РµСЃРЅС‹Р№ РґРѕРј...</plain>
         </string>
         <string>
-            <plain>Там зноя нет, ни грозных туч,</plain>
+            <plain>РўР°Рј Р·РЅРѕСЏ РЅРµС‚, РЅРё РіСЂРѕР·РЅС‹С… С‚СѓС‡,</plain>
         </string>
         <string>
-            <plain>там свет и мир, там все поймем.</plain>
+            <plain>С‚Р°Рј СЃРІРµС‚ Рё РјРёСЂ, С‚Р°Рј РІСЃРµ РїРѕР№РјРµРј.</plain>
         </string>
     </verse>
 </psalm>

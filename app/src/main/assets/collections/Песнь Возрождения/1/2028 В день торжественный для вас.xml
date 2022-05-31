@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2028" name="В день торжественный для вас" canon="false" text="" textRus="" music="">
+<psalm number="2028" name="Р’ РґРµРЅСЊ С‚РѕСЂР¶РµСЃС‚РІРµРЅРЅС‹Р№ РґР»СЏ РІР°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В день торжественный для вас</plain>
+            <plain>Р’ РґРµРЅСЊ С‚РѕСЂР¶РµСЃС‚РІРµРЅРЅС‹Р№ РґР»СЏ РІР°СЃ</plain>
         </string>
         <string>
-            <plain>Мы хотим поздравить вас,</plain>
+            <plain>РњС‹ С…РѕС‚РёРј РїРѕР·РґСЂР°РІРёС‚СЊ РІР°СЃ,</plain>
         </string>
         <string>
-            <plain>Пожелать вам много счастья,</plain>
+            <plain>РџРѕР¶РµР»Р°С‚СЊ РІР°Рј РјРЅРѕРіРѕ СЃС‡Р°СЃС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Уберечь вас от ненастья.</plain>
+            <plain>РЈР±РµСЂРµС‡СЊ РІР°СЃ РѕС‚ РЅРµРЅР°СЃС‚СЊСЏ.</plain>
         </string>
         <string>
-            <plain>Будьте нежны вы друг с другом,</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ РЅРµР¶РЅС‹ РІС‹ РґСЂСѓРі СЃ РґСЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Сердцем преданны всегда.</plain>
+            <plain>РЎРµСЂРґС†РµРј РїСЂРµРґР°РЅРЅС‹ РІСЃРµРіРґР°.</plain>
         </string>
         <string>
-            <plain>И любовь всю жизнь, как солнце,</plain>
+            <plain>Р Р»СЋР±РѕРІСЊ РІСЃСЋ Р¶РёР·РЅСЊ, РєР°Рє СЃРѕР»РЅС†Рµ,</plain>
         </string>
         <string>
-            <plain>Пусть сияет в вас, друзья.</plain>
+            <plain>РџСѓСЃС‚СЊ СЃРёСЏРµС‚ РІ РІР°СЃ, РґСЂСѓР·СЊСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Счастливого пути желаем мы для вас.</plain>
+            <plain>РЎС‡Р°СЃС‚Р»РёРІРѕРіРѕ РїСѓС‚Рё Р¶РµР»Р°РµРј РјС‹ РґР»СЏ РІР°СЃ.</plain>
         </string>
         <string>
-            <plain>Пусть сбудутся мечты,</plain>
+            <plain>РџСѓСЃС‚СЊ СЃР±СѓРґСѓС‚СЃСЏ РјРµС‡С‚С‹,</plain>
         </string>
         <string>
-            <plain>что задумали, у вас.</plain>
+            <plain>С‡С‚Рѕ Р·Р°РґСѓРјР°Р»Рё, Сѓ РІР°СЃ.</plain>
         </string>
         <string>
-            <plain>(Не забудьте и о нас).</plain>
+            <plain>(РќРµ Р·Р°Р±СѓРґСЊС‚Рµ Рё Рѕ РЅР°СЃ).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Будьте вы всегда вдвоем,</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ РІС‹ РІСЃРµРіРґР° РІРґРІРѕРµРј,</plain>
         </string>
         <string>
-            <plain>Будьте вы всегда с Христом,</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ РІС‹ РІСЃРµРіРґР° СЃ РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Ведь вдвоем легко идти,</plain>
+            <plain>Р’РµРґСЊ РІРґРІРѕРµРј Р»РµРіРєРѕ РёРґС‚Рё,</plain>
         </string>
         <string>
-            <plain>А без Бога не дойти.</plain>
+            <plain>Рђ Р±РµР· Р‘РѕРіР° РЅРµ РґРѕР№С‚Рё.</plain>
         </string>
         <string>
-            <plain>Он поможет вам в пути,</plain>
+            <plain>РћРЅ РїРѕРјРѕР¶РµС‚ РІР°Рј РІ РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>через годы перейти,</plain>
+            <plain>С‡РµСЂРµР· РіРѕРґС‹ РїРµСЂРµР№С‚Рё,</plain>
         </string>
         <string>
-            <plain>Так к Отчизне вы дойдете,</plain>
+            <plain>РўР°Рє Рє РћС‚С‡РёР·РЅРµ РІС‹ РґРѕР№РґРµС‚Рµ,</plain>
         </string>
         <string>
-            <plain>и лишь там вы отдохнете.</plain>
+            <plain>Рё Р»РёС€СЊ С‚Р°Рј РІС‹ РѕС‚РґРѕС…РЅРµС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3126" name="Друг усталый с ношей тяжкой" canon="false" text="" textRus="" music="">
+<psalm number="3126" name="Р”СЂСѓРі СѓСЃС‚Р°Р»С‹Р№ СЃ РЅРѕС€РµР№ С‚СЏР¶РєРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Друг усталый, с ношей тяжкой,</plain>
+            <plain>Р”СЂСѓРі СѓСЃС‚Р°Р»С‹Р№, СЃ РЅРѕС€РµР№ С‚СЏР¶РєРѕР№,</plain>
         </string>
         <string>
-            <plain>ты к кресту Христа спеши!</plain>
+            <plain>С‚С‹ Рє РєСЂРµСЃС‚Сѓ РҐСЂРёСЃС‚Р° СЃРїРµС€Рё!</plain>
         </string>
         <string>
-            <plain>Здесь найдёшь ты утешенье,</plain>
+            <plain>Р—РґРµСЃСЊ РЅР°Р№РґС‘С€СЊ С‚С‹ СѓС‚РµС€РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>мир блаженный для души.</plain>
+            <plain>РјРёСЂ Р±Р»Р°Р¶РµРЅРЅС‹Р№ РґР»СЏ РґСѓС€Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, войди в Его покой.</plain>
+            <plain>Рћ, РІРѕР№РґРё РІ Р•РіРѕ РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Ждёт тебя Спаситель Твой!</plain>
+            <plain>Р–РґС‘С‚ С‚РµР±СЏ РЎРїР°СЃРёС‚РµР»СЊ РўРІРѕР№!</plain>
         </string>
         <string>
-            <plain>Сбрось всю ношу У креста.</plain>
+            <plain>РЎР±СЂРѕСЃСЊ РІСЃСЋ РЅРѕС€Сѓ РЈ РєСЂРµСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Он пришёл спасти тебя</plain>
+            <plain>РћРЅ РїСЂРёС€С‘Р» СЃРїР°СЃС‚Рё С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>(спасти тебя!)</plain>
+            <plain>(СЃРїР°СЃС‚Рё С‚РµР±СЏ!)</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Наказанье принимает</plain>
+            <plain>РќР°РєР°Р·Р°РЅСЊРµ РїСЂРёРЅРёРјР°РµС‚</plain>
         </string>
         <string>
-            <plain>Агнец Божий на Себя,</plain>
+            <plain>РђРіРЅРµС† Р‘РѕР¶РёР№ РЅР° РЎРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>терпит муки, умирает</plain>
+            <plain>С‚РµСЂРїРёС‚ РјСѓРєРё, СѓРјРёСЂР°РµС‚</plain>
         </string>
         <string>
-            <plain>на кресте Он за тебя.</plain>
+            <plain>РЅР° РєСЂРµСЃС‚Рµ РћРЅ Р·Р° С‚РµР±СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>На кресте страдал Невинный</plain>
+            <plain>РќР° РєСЂРµСЃС‚Рµ СЃС‚СЂР°РґР°Р» РќРµРІРёРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>и за нас вину понёс</plain>
+            <plain>Рё Р·Р° РЅР°СЃ РІРёРЅСѓ РїРѕРЅС‘СЃ</plain>
         </string>
         <string>
-            <plain>- о, как любит нас единый</plain>
+            <plain>- Рѕ, РєР°Рє Р»СЋР±РёС‚ РЅР°СЃ РµРґРёРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Божий Сын, Иисус Христос!</plain>
+            <plain>Р‘РѕР¶РёР№ РЎС‹РЅ, РРёСЃСѓСЃ РҐСЂРёСЃС‚РѕСЃ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В Нём найдёшь утешенье,</plain>
+            <plain>Р’ РќС‘Рј РЅР°Р№РґС‘С€СЊ СѓС‚РµС€РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>исцелится боль твоя,</plain>
+            <plain>РёСЃС†РµР»РёС‚СЃСЏ Р±РѕР»СЊ С‚РІРѕСЏ,</plain>
         </string>
         <string>
-            <plain>мир найдёшь, грехов прощенье,</plain>
+            <plain>РјРёСЂ РЅР°Р№РґС‘С€СЊ, РіСЂРµС…РѕРІ РїСЂРѕС‰РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>о ты, бедная душа.</plain>
+            <plain>Рѕ С‚С‹, Р±РµРґРЅР°СЏ РґСѓС€Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, приди, твой грех Он снимет.</plain>
+            <plain>Рћ, РїСЂРёРґРё, С‚РІРѕР№ РіСЂРµС… РћРЅ СЃРЅРёРјРµС‚.</plain>
         </string>
         <string>
-            <plain>У подножия креста</plain>
+            <plain>РЈ РїРѕРґРЅРѕР¶РёСЏ РєСЂРµСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>благодать найдёшь ты ныне.</plain>
+            <plain>Р±Р»Р°РіРѕРґР°С‚СЊ РЅР°Р№РґС‘С€СЊ С‚С‹ РЅС‹РЅРµ.</plain>
         </string>
         <string>
-            <plain>О, прими её, душа!</plain>
+            <plain>Рћ, РїСЂРёРјРё РµС‘, РґСѓС€Р°!</plain>
         </string>
     </verse>
 </psalm>

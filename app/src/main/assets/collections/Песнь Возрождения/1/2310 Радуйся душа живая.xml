@@ -1,99 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2310" name="Радуйся душа живая" canon="false" text="" textRus="" music="">
+<psalm number="2310" name="Р Р°РґСѓР№СЃСЏ РґСѓС€Р° Р¶РёРІР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Радуйся, душа живая,</plain>
+            <plain>Р Р°РґСѓР№СЃСЏ, РґСѓС€Р° Р¶РёРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Вот Спаситель твой грядет.</plain>
+            <plain>Р’РѕС‚ РЎРїР°СЃРёС‚РµР»СЊ С‚РІРѕР№ РіСЂСЏРґРµС‚.</plain>
         </string>
         <string>
-            <plain>Пристань близится родная,</plain>
+            <plain>РџСЂРёСЃС‚Р°РЅСЊ Р±Р»РёР·РёС‚СЃСЏ СЂРѕРґРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>К ней ладья моя плывет.</plain>
+            <plain>Рљ РЅРµР№ Р»Р°РґСЊСЏ РјРѕСЏ РїР»С‹РІРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Отец Небесный,</plain>
+            <plain>РћС‚РµС† РќРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>мы к Тебе все взываем</plain>
+            <plain>РјС‹ Рє РўРµР±Рµ РІСЃРµ РІР·С‹РІР°РµРј</plain>
         </string>
         <string>
-            <plain>И Тебя умоляем,</plain>
+            <plain>Р РўРµР±СЏ СѓРјРѕР»СЏРµРј,</plain>
         </string>
         <string>
-            <plain>Ты прости нам грехи,</plain>
+            <plain>РўС‹ РїСЂРѕСЃС‚Рё РЅР°Рј РіСЂРµС…Рё,</plain>
         </string>
         <string>
-            <plain>Прими молены</plain>
+            <plain>РџСЂРёРјРё РјРѕР»РµРЅС‹</plain>
         </string>
         <string>
-            <plain>от души сокрушенной,</plain>
+            <plain>РѕС‚ РґСѓС€Рё СЃРѕРєСЂСѓС€РµРЅРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Дай узреть лучезарный</plain>
+            <plain>Р”Р°Р№ СѓР·СЂРµС‚СЊ Р»СѓС‡РµР·Р°СЂРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Твой великий престол.</plain>
+            <plain>РўРІРѕР№ РІРµР»РёРєРёР№ РїСЂРµСЃС‚РѕР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Быстро челн чрез волны мчится,</plain>
+            <plain>Р‘С‹СЃС‚СЂРѕ С‡РµР»РЅ С‡СЂРµР· РІРѕР»РЅС‹ РјС‡РёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Паруса его полны.</plain>
+            <plain>РџР°СЂСѓСЃР° РµРіРѕ РїРѕР»РЅС‹.</plain>
         </string>
         <string>
-            <plain>Бури нечего страшиться,</plain>
+            <plain>Р‘СѓСЂРё РЅРµС‡РµРіРѕ СЃС‚СЂР°С€РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Берега уже видны.</plain>
+            <plain>Р‘РµСЂРµРіР° СѓР¶Рµ РІРёРґРЅС‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Цель для верных достижима,</plain>
+            <plain>Р¦РµР»СЊ РґР»СЏ РІРµСЂРЅС‹С… РґРѕСЃС‚РёР¶РёРјР°,</plain>
         </string>
         <string>
-            <plain>Цель пути уже близка.</plain>
+            <plain>Р¦РµР»СЊ РїСѓС‚Рё СѓР¶Рµ Р±Р»РёР·РєР°.</plain>
         </string>
         <string>
-            <plain>Ты придешь к ней невредимо,</plain>
+            <plain>РўС‹ РїСЂРёРґРµС€СЊ Рє РЅРµР№ РЅРµРІСЂРµРґРёРјРѕ,</plain>
         </string>
         <string>
-            <plain>Хоть опасность велика.</plain>
+            <plain>РҐРѕС‚СЊ РѕРїР°СЃРЅРѕСЃС‚СЊ РІРµР»РёРєР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хоть волна полна смятенья</plain>
+            <plain>РҐРѕС‚СЊ РІРѕР»РЅР° РїРѕР»РЅР° СЃРјСЏС‚РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>И свиреп, ее разлив,</plain>
+            <plain>Р СЃРІРёСЂРµРї, РµРµ СЂР°Р·Р»РёРІ,</plain>
         </string>
         <string>
-            <plain>Но ты якорь избавленья</plain>
+            <plain>РќРѕ С‚С‹ СЏРєРѕСЂСЊ РёР·Р±Р°РІР»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Скоро бросишь, путь свершив.</plain>
+            <plain>РЎРєРѕСЂРѕ Р±СЂРѕСЃРёС€СЊ, РїСѓС‚СЊ СЃРІРµСЂС€РёРІ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Посмотри, врата сияют</plain>
+            <plain>РџРѕСЃРјРѕС‚СЂРё, РІСЂР°С‚Р° СЃРёСЏСЋС‚</plain>
         </string>
         <string>
-            <plain>И огни небес горят,</plain>
+            <plain>Р РѕРіРЅРё РЅРµР±РµСЃ РіРѕСЂСЏС‚,</plain>
         </string>
         <string>
-            <plain>И усталых приглашают</plain>
+            <plain>Р СѓСЃС‚Р°Р»С‹С… РїСЂРёРіР»Р°С€Р°СЋС‚</plain>
         </string>
         <string>
-            <plain>В край покоя и отрад.</plain>
+            <plain>Р’ РєСЂР°Р№ РїРѕРєРѕСЏ Рё РѕС‚СЂР°Рґ.</plain>
         </string>
     </verse>
 </psalm>

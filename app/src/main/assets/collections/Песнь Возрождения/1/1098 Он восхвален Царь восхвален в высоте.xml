@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1098" name="Он восхвален Царь восхвален в высоте" canon="false" text="" textRus="" music="">
+<psalm number="1098" name="РћРЅ РІРѕСЃС…РІР°Р»РµРЅ Р¦Р°СЂСЊ РІРѕСЃС…РІР°Р»РµРЅ РІ РІС‹СЃРѕС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Он восхвален,</plain>
+            <plain>РћРЅ РІРѕСЃС…РІР°Р»РµРЅ,</plain>
         </string>
         <string>
-            <plain>Царь восхвален в высоте!</plain>
+            <plain>Р¦Р°СЂСЊ РІРѕСЃС…РІР°Р»РµРЅ РІ РІС‹СЃРѕС‚Рµ!</plain>
         </string>
         <string>
-            <plain>Слава Ему!</plain>
+            <plain>РЎР»Р°РІР° Р•РјСѓ!</plain>
         </string>
         <string>
-            <plain>Он восхвален, навеки возвышен.</plain>
+            <plain>РћРЅ РІРѕСЃС…РІР°Р»РµРЅ, РЅР°РІРµРєРё РІРѕР·РІС‹С€РµРЅ.</plain>
         </string>
         <string>
-            <plain>Прославлю я Его!</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЋ СЏ Р•РіРѕ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Он есть Господь,</plain>
+            <plain>РћРЅ РµСЃС‚СЊ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Навеки в сердцах царит!</plain>
+            <plain>РќР°РІРµРєРё РІ СЃРµСЂРґС†Р°С… С†Р°СЂРёС‚!</plain>
         </string>
         <string>
-            <plain>Небо, земля,</plain>
+            <plain>РќРµР±Рѕ, Р·РµРјР»СЏ,</plain>
         </string>
         <string>
-            <plain>Возрадуйтесь Имени Его!</plain>
+            <plain>Р’РѕР·СЂР°РґСѓР№С‚РµСЃСЊ РРјРµРЅРё Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>Он восхвален, Царь восхвален в высоте.</plain>
+            <plain>РћРЅ РІРѕСЃС…РІР°Р»РµРЅ, Р¦Р°СЂСЊ РІРѕСЃС…РІР°Р»РµРЅ РІ РІС‹СЃРѕС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

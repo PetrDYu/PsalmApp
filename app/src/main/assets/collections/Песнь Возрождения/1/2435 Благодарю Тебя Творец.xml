@@ -1,100 +1,100 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2435" name="Благодарю Тебя Творец" canon="false" text="" textRus="" music="">
+<psalm number="2435" name="Р‘Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ РўРІРѕСЂРµС†" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благодарю Тебя, Творец,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ, РўРІРѕСЂРµС†,</plain>
         </string>
         <string>
-            <plain>За все обычное, простое,</plain>
+            <plain>Р—Р° РІСЃРµ РѕР±С‹С‡РЅРѕРµ, РїСЂРѕСЃС‚РѕРµ,</plain>
         </string>
         <string>
-            <plain>3а небо звездное ночное,</plain>
+            <plain>3Р° РЅРµР±Рѕ Р·РІРµР·РґРЅРѕРµ РЅРѕС‡РЅРѕРµ,</plain>
         </string>
         <string>
-            <plain>Луны сиянье голубое,</plain>
+            <plain>Р›СѓРЅС‹ СЃРёСЏРЅСЊРµ РіРѕР»СѓР±РѕРµ,</plain>
         </string>
         <string>
-            <plain>За плеск волны, за, солнца луч,</plain>
+            <plain>Р—Р° РїР»РµСЃРє РІРѕР»РЅС‹, Р·Р°, СЃРѕР»РЅС†Р° Р»СѓС‡,</plain>
         </string>
         <string>
-            <plain>За пены птиц, за гром из туч.</plain>
+            <plain>Р—Р° РїРµРЅС‹ РїС‚РёС†, Р·Р° РіСЂРѕРј РёР· С‚СѓС‡.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Благодарю за Дух Святой,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂСЋ Р·Р° Р”СѓС… РЎРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Который в жизни наставляет,</plain>
+            <plain>РљРѕС‚РѕСЂС‹Р№ РІ Р¶РёР·РЅРё РЅР°СЃС‚Р°РІР»СЏРµС‚,</plain>
         </string>
         <string>
-            <plain>И на колени повергает,</plain>
+            <plain>Р РЅР° РєРѕР»РµРЅРё РїРѕРІРµСЂРіР°РµС‚,</plain>
         </string>
         <string>
-            <plain>И горько плакать заставляет</plain>
+            <plain>Р РіРѕСЂСЊРєРѕ РїР»Р°РєР°С‚СЊ Р·Р°СЃС‚Р°РІР»СЏРµС‚</plain>
         </string>
         <string>
-            <plain>В смиреньи сердца гордеца,</plain>
+            <plain>Р’ СЃРјРёСЂРµРЅСЊРё СЃРµСЂРґС†Р° РіРѕСЂРґРµС†Р°,</plain>
         </string>
         <string>
-            <plain>И кротких духом ободряет.</plain>
+            <plain>Р РєСЂРѕС‚РєРёС… РґСѓС…РѕРј РѕР±РѕРґСЂСЏРµС‚.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>За то, что душу новой песней</plain>
+            <plain>Р—Р° С‚Рѕ, С‡С‚Рѕ РґСѓС€Сѓ РЅРѕРІРѕР№ РїРµСЃРЅРµР№</plain>
         </string>
         <string>
-            <plain>Наполнил в юности моей,</plain>
+            <plain>РќР°РїРѕР»РЅРёР» РІ СЋРЅРѕСЃС‚Рё РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>За то, что в милости Твоей</plain>
+            <plain>Р—Р° С‚Рѕ, С‡С‚Рѕ РІ РјРёР»РѕСЃС‚Рё РўРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Ты бил меня не так уж много.</plain>
+            <plain>РўС‹ Р±РёР» РјРµРЅСЏ РЅРµ С‚Р°Рє СѓР¶ РјРЅРѕРіРѕ.</plain>
         </string>
         <string>
-            <plain>И утешал средь всех скорбей.</plain>
+            <plain>Р СѓС‚РµС€Р°Р» СЃСЂРµРґСЊ РІСЃРµС… СЃРєРѕСЂР±РµР№.</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Благодарю за кровь Иисуса,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂСЋ Р·Р° РєСЂРѕРІСЊ РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>Что за меня с креста текла,</plain>
+            <plain>Р§С‚Рѕ Р·Р° РјРµРЅСЏ СЃ РєСЂРµСЃС‚Р° С‚РµРєР»Р°,</plain>
         </string>
         <string>
-            <plain>За возрожденъе к жизни новой,</plain>
+            <plain>Р—Р° РІРѕР·СЂРѕР¶РґРµРЅСЉРµ Рє Р¶РёР·РЅРё РЅРѕРІРѕР№,</plain>
         </string>
         <string>
-            <plain>За новый путь Христа,</plain>
+            <plain>Р—Р° РЅРѕРІС‹Р№ РїСѓС‚СЊ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Который в жизни сей суровой</plain>
+            <plain>РљРѕС‚РѕСЂС‹Р№ РІ Р¶РёР·РЅРё СЃРµР№ СЃСѓСЂРѕРІРѕР№</plain>
         </string>
         <string>
-            <plain>К добру ведет меня от зла.</plain>
+            <plain>Рљ РґРѕР±СЂСѓ РІРµРґРµС‚ РјРµРЅСЏ РѕС‚ Р·Р»Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>За все прими благодарены,</plain>
+            <plain>Р—Р° РІСЃРµ РїСЂРёРјРё Р±Р»Р°РіРѕРґР°СЂРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Ведь мне всего не перечесть.</plain>
+            <plain>Р’РµРґСЊ РјРЅРµ РІСЃРµРіРѕ РЅРµ РїРµСЂРµС‡РµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>За все, что было и что есть.</plain>
+            <plain>Р—Р° РІСЃРµ, С‡С‚Рѕ Р±С‹Р»Рѕ Рё С‡С‚Рѕ РµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>За все грехи прошу прощенья,</plain>
+            <plain>Р—Р° РІСЃРµ РіСЂРµС…Рё РїСЂРѕС€Сѓ РїСЂРѕС‰РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>И приношу Тебе хвалены</plain>
+            <plain>Р РїСЂРёРЅРѕС€Сѓ РўРµР±Рµ С…РІР°Р»РµРЅС‹</plain>
         </string>
         <string>
-            <plain>Из уст и сердца славу честь.</plain>
+            <plain>РР· СѓСЃС‚ Рё СЃРµСЂРґС†Р° СЃР»Р°РІСѓ С‡РµСЃС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

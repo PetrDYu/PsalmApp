@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1590" name="Боже мой молю Тебя" canon="false" text="" textRus="" music="">
+<psalm number="1590" name="Р‘РѕР¶Рµ РјРѕР№ РјРѕР»СЋ РўРµР±СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже мой, молю Тебя,</plain>
+            <plain>Р‘РѕР¶Рµ РјРѕР№, РјРѕР»СЋ РўРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>Ты услышь с небес меня,</plain>
+            <plain>РўС‹ СѓСЃР»С‹С€СЊ СЃ РЅРµР±РµСЃ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Обрати ко мне Свой лик,</plain>
+            <plain>РћР±СЂР°С‚Рё РєРѕ РјРЅРµ РЎРІРѕР№ Р»РёРє,</plain>
         </string>
         <string>
-            <plain>Ты ведь милостью велик.</plain>
+            <plain>РўС‹ РІРµРґСЊ РјРёР»РѕСЃС‚СЊСЋ РІРµР»РёРє.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>С миром нас Ты распусти.</plain>
+            <plain>РЎ РјРёСЂРѕРј РЅР°СЃ РўС‹ СЂР°СЃРїСѓСЃС‚Рё.</plain>
         </string>
         <string>
-            <plain>Как идти нам, укажи.</plain>
+            <plain>РљР°Рє РёРґС‚Рё РЅР°Рј, СѓРєР°Р¶Рё.</plain>
         </string>
         <string>
-            <plain>Чтобы в мире сем земном</plain>
+            <plain>Р§С‚РѕР±С‹ РІ РјРёСЂРµ СЃРµРј Р·РµРјРЅРѕРј</plain>
         </string>
         <string>
-            <plain>Не дружили мы с грехом.</plain>
+            <plain>РќРµ РґСЂСѓР¶РёР»Рё РјС‹ СЃ РіСЂРµС…РѕРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Благодать Твоей любви</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚СЊ РўРІРѕРµР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>В наше сердце подари,</plain>
+            <plain>Р’ РЅР°С€Рµ СЃРµСЂРґС†Рµ РїРѕРґР°СЂРё,</plain>
         </string>
         <string>
-            <plain>Дай нам Твой святой покой.</plain>
+            <plain>Р”Р°Р№ РЅР°Рј РўРІРѕР№ СЃРІСЏС‚РѕР№ РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Ведь народ мы, Боже, Твой.</plain>
+            <plain>Р’РµРґСЊ РЅР°СЂРѕРґ РјС‹, Р‘РѕР¶Рµ, РўРІРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Мы молитву вознесли.</plain>
+            <plain>РњС‹ РјРѕР»РёС‚РІСѓ РІРѕР·РЅРµСЃР»Рё.</plain>
         </string>
         <string>
-            <plain>Ты услышь нас от земли,</plain>
+            <plain>РўС‹ СѓСЃР»С‹С€СЊ РЅР°СЃ РѕС‚ Р·РµРјР»Рё,</plain>
         </string>
         <string>
-            <plain>Верим мы, настанет час -</plain>
+            <plain>Р’РµСЂРёРј РјС‹, РЅР°СЃС‚Р°РЅРµС‚ С‡Р°СЃ -</plain>
         </string>
         <string>
-            <plain>Ты возьмешь к Себе всех нас.</plain>
+            <plain>РўС‹ РІРѕР·СЊРјРµС€СЊ Рє РЎРµР±Рµ РІСЃРµС… РЅР°СЃ.</plain>
         </string>
     </verse>
 </psalm>

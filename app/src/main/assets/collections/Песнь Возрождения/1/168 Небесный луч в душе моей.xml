@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="168" name="Небесный луч в душе моей" canon="false" text="" textRus="" music="">
+<psalm number="168" name="РќРµР±РµСЃРЅС‹Р№ Р»СѓС‡ РІ РґСѓС€Рµ РјРѕРµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Небесный луч в душе моей,</plain>
+            <plain>РќРµР±РµСЃРЅС‹Р№ Р»СѓС‡ РІ РґСѓС€Рµ РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Светлей Он всех лучей,</plain>
+            <plain>РЎРІРµС‚Р»РµР№ РћРЅ РІСЃРµС… Р»СѓС‡РµР№,</plain>
         </string>
         <string>
-            <plain>Что светят ярко над землей;</plain>
+            <plain>Р§С‚Рѕ СЃРІРµС‚СЏС‚ СЏСЂРєРѕ РЅР°Рґ Р·РµРјР»РµР№;</plain>
         </string>
         <string>
-            <plain>Тот луч - Спаситель мой.</plain>
+            <plain>РўРѕС‚ Р»СѓС‡ - РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Чудный светоч, чудный светоч у меня</plain>
+            <plain>Р§СѓРґРЅС‹Р№ СЃРІРµС‚РѕС‡, С‡СѓРґРЅС‹Р№ СЃРІРµС‚РѕС‡ Сѓ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>(чудный светоч, чудный светоч у меня),</plain>
+            <plain>(С‡СѓРґРЅС‹Р№ СЃРІРµС‚РѕС‡, С‡СѓРґРЅС‹Р№ СЃРІРµС‚РѕС‡ Сѓ РјРµРЅСЏ),</plain>
         </string>
         <string>
-            <plain>Как блаженны мира, счастья дни (мира, счастья дни),</plain>
+            <plain>РљР°Рє Р±Р»Р°Р¶РµРЅРЅС‹ РјРёСЂР°, СЃС‡Р°СЃС‚СЊСЏ РґРЅРё (РјРёСЂР°, СЃС‡Р°СЃС‚СЊСЏ РґРЅРё),</plain>
         </string>
         <string>
-            <plain>Когда Иисус являет лик.</plain>
+            <plain>РљРѕРіРґР° РРёСЃСѓСЃ СЏРІР»СЏРµС‚ Р»РёРє.</plain>
         </string>
         <string>
-            <plain>Чудный светоч у меня!</plain>
+            <plain>Р§СѓРґРЅС‹Р№ СЃРІРµС‚РѕС‡ Сѓ РјРµРЅСЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Чудесный гимн в душе моей:</plain>
+            <plain>Р§СѓРґРµСЃРЅС‹Р№ РіРёРјРЅ РІ РґСѓС€Рµ РјРѕРµР№:</plain>
         </string>
         <string>
-            <plain>Хвала Царю царей.</plain>
+            <plain>РҐРІР°Р»Р° Р¦Р°СЂСЋ С†Р°СЂРµР№.</plain>
         </string>
         <string>
-            <plain>Ту песню слышит вечный Бог,</plain>
+            <plain>РўСѓ РїРµСЃРЅСЋ СЃР»С‹С€РёС‚ РІРµС‡РЅС‹Р№ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Хотя б я петь не мог.</plain>
+            <plain>РҐРѕС‚СЏ Р± СЏ РїРµС‚СЊ РЅРµ РјРѕРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Весна царит в душе моей,</plain>
+            <plain>Р’РµСЃРЅР° С†Р°СЂРёС‚ РІ РґСѓС€Рµ РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Как близок мой Христос!</plain>
+            <plain>РљР°Рє Р±Р»РёР·РѕРє РјРѕР№ РҐСЂРёСЃС‚РѕСЃ!</plain>
         </string>
         <string>
-            <plain>И голубь мира в клеть скорбей</plain>
+            <plain>Р РіРѕР»СѓР±СЊ РјРёСЂР° РІ РєР»РµС‚СЊ СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>Цветы любви принес.</plain>
+            <plain>Р¦РІРµС‚С‹ Р»СЋР±РІРё РїСЂРёРЅРµСЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Луч радости в душе моей,</plain>
+            <plain>Р›СѓС‡ СЂР°РґРѕСЃС‚Рё РІ РґСѓС€Рµ РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Хвала Ему звучит,</plain>
+            <plain>РҐРІР°Р»Р° Р•РјСѓ Р·РІСѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>За благо, что Он мне дарит,</plain>
+            <plain>Р—Р° Р±Р»Р°РіРѕ, С‡С‚Рѕ РћРЅ РјРЅРµ РґР°СЂРёС‚,</plain>
         </string>
         <string>
-            <plain>За счастье лучших дней.</plain>
+            <plain>Р—Р° СЃС‡Р°СЃС‚СЊРµ Р»СѓС‡С€РёС… РґРЅРµР№.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1462" name="Я знаю одно место на земле" canon="false" text="" textRus="" music="">
+<psalm number="1462" name="РЇ Р·РЅР°СЋ РѕРґРЅРѕ РјРµСЃС‚Рѕ РЅР° Р·РµРјР»Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я знаю, одно место на земле</plain>
+            <plain>РЇ Р·РЅР°СЋ, РѕРґРЅРѕ РјРµСЃС‚Рѕ РЅР° Р·РµРјР»Рµ</plain>
         </string>
         <string>
-            <plain>Сокрыто в мирной дали,</plain>
+            <plain>РЎРѕРєСЂС‹С‚Рѕ РІ РјРёСЂРЅРѕР№ РґР°Р»Рё,</plain>
         </string>
         <string>
-            <plain>Туда влечет меня в моей нужде,</plain>
+            <plain>РўСѓРґР° РІР»РµС‡РµС‚ РјРµРЅСЏ РІ РјРѕРµР№ РЅСѓР¶РґРµ,</plain>
         </string>
         <string>
-            <plain>Сложить свои печали.</plain>
+            <plain>РЎР»РѕР¶РёС‚СЊ СЃРІРѕРё РїРµС‡Р°Р»Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Нет лучше места для души моей,</plain>
+            <plain>РќРµС‚ Р»СѓС‡С€Рµ РјРµСЃС‚Р° РґР»СЏ РґСѓС€Рё РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Как малый холм, тот холм Голгофы.</plain>
+            <plain>РљР°Рє РјР°Р»С‹Р№ С…РѕР»Рј, С‚РѕС‚ С…РѕР»Рј Р“РѕР»РіРѕС„С‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>В очах моих Голгофа дорога.</plain>
+            <plain>Р’ РѕС‡Р°С… РјРѕРёС… Р“РѕР»РіРѕС„Р° РґРѕСЂРѕРіР°.</plain>
         </string>
         <string>
-            <plain>Там снято мое бремя,</plain>
+            <plain>РўР°Рј СЃРЅСЏС‚Рѕ РјРѕРµ Р±СЂРµРјСЏ,</plain>
         </string>
         <string>
-            <plain>Голгофский холм!</plain>
+            <plain>Р“РѕР»РіРѕС„СЃРєРёР№ С…РѕР»Рј!</plain>
         </string>
         <string>
-            <plain>О, друг, пойди туда,</plain>
+            <plain>Рћ, РґСЂСѓРі, РїРѕР№РґРё С‚СѓРґР°,</plain>
         </string>
         <string>
-            <plain>Пока еще есть время.</plain>
+            <plain>РџРѕРєР° РµС‰Рµ РµСЃС‚СЊ РІСЂРµРјСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Земные радости еще вокруг,</plain>
+            <plain>Р—РµРјРЅС‹Рµ СЂР°РґРѕСЃС‚Рё РµС‰Рµ РІРѕРєСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Голгофа ж мне милее.</plain>
+            <plain>Р“РѕР»РіРѕС„Р° Р¶ РјРЅРµ РјРёР»РµРµ.</plain>
         </string>
         <string>
-            <plain>Туда влечет меня любимый</plain>
+            <plain>РўСѓРґР° РІР»РµС‡РµС‚ РјРµРЅСЏ Р»СЋР±РёРјС‹Р№</plain>
         </string>
         <string>
-            <plain>Друг Все с каждым днем сильнее.</plain>
+            <plain>Р”СЂСѓРі Р’СЃРµ СЃ РєР°Р¶РґС‹Рј РґРЅРµРј СЃРёР»СЊРЅРµРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>К Голгофе, друг, сегодня подойди,</plain>
+            <plain>Рљ Р“РѕР»РіРѕС„Рµ, РґСЂСѓРі, СЃРµРіРѕРґРЅСЏ РїРѕРґРѕР№РґРё,</plain>
         </string>
         <string>
-            <plain>Взгляни очами веры.</plain>
+            <plain>Р’Р·РіР»СЏРЅРё РѕС‡Р°РјРё РІРµСЂС‹.</plain>
         </string>
         <string>
-            <plain>Там мир найдешь от Господа в тиши.</plain>
+            <plain>РўР°Рј РјРёСЂ РЅР°Р№РґРµС€СЊ РѕС‚ Р“РѕСЃРїРѕРґР° РІ С‚РёС€Рё.</plain>
         </string>
         <string>
-            <plain>Он любит всех без меры.</plain>
+            <plain>РћРЅ Р»СЋР±РёС‚ РІСЃРµС… Р±РµР· РјРµСЂС‹.</plain>
         </string>
     </verse>
 </psalm>

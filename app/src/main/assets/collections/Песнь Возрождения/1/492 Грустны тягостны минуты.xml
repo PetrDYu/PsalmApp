@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="492" name="Грустны тягостны минуты" canon="false" text="" textRus="" music="">
+<psalm number="492" name="Р“СЂСѓСЃС‚РЅС‹ С‚СЏРіРѕСЃС‚РЅС‹ РјРёРЅСѓС‚С‹" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Грустны, тягостны минуты.</plain>
+            <plain>Р“СЂСѓСЃС‚РЅС‹, С‚СЏРіРѕСЃС‚РЅС‹ РјРёРЅСѓС‚С‹.</plain>
         </string>
         <string>
-            <plain>Перед нами тленный прах.</plain>
+            <plain>РџРµСЂРµРґ РЅР°РјРё С‚Р»РµРЅРЅС‹Р№ РїСЂР°С….</plain>
         </string>
         <string>
-            <plain>Очи ясные сомкнуты,</plain>
+            <plain>РћС‡Рё СЏСЃРЅС‹Рµ СЃРѕРјРєРЅСѓС‚С‹,</plain>
         </string>
         <string>
-            <plain>Холод смерти на устах.</plain>
+            <plain>РҐРѕР»РѕРґ СЃРјРµСЂС‚Рё РЅР° СѓСЃС‚Р°С….</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Человека тело смертно,</plain>
+            <plain>Р§РµР»РѕРІРµРєР° С‚РµР»Рѕ СЃРјРµСЂС‚РЅРѕ,</plain>
         </string>
         <string>
-            <plain>Но зовет его Творец</plain>
+            <plain>РќРѕ Р·РѕРІРµС‚ РµРіРѕ РўРІРѕСЂРµС†</plain>
         </string>
         <string>
-            <plain>В бессмертный край, в бессмертный край,</plain>
+            <plain>Р’ Р±РµСЃСЃРјРµСЂС‚РЅС‹Р№ РєСЂР°Р№, РІ Р±РµСЃСЃРјРµСЂС‚РЅС‹Р№ РєСЂР°Р№,</plain>
         </string>
         <string>
-            <plain>К жизни вечной, к жизни вечной.</plain>
+            <plain>Рљ Р¶РёР·РЅРё РІРµС‡РЅРѕР№, Рє Р¶РёР·РЅРё РІРµС‡РЅРѕР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Нам в привет уж не польется</plain>
+            <plain>РќР°Рј РІ РїСЂРёРІРµС‚ СѓР¶ РЅРµ РїРѕР»СЊРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Речь любви из уст немых;</plain>
+            <plain>Р РµС‡СЊ Р»СЋР±РІРё РёР· СѓСЃС‚ РЅРµРјС‹С…;</plain>
         </string>
         <string>
-            <plain>Сердце больше не забьется</plain>
+            <plain>РЎРµСЂРґС†Рµ Р±РѕР»СЊС€Рµ РЅРµ Р·Р°Р±СЊРµС‚СЃСЏ</plain>
         </string>
         <string>
-            <plain>Трепетом тревог земных.</plain>
+            <plain>РўСЂРµРїРµС‚РѕРј С‚СЂРµРІРѕРі Р·РµРјРЅС‹С….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>"Ты - земля, и в землю снова</plain>
+            <plain>"РўС‹ - Р·РµРјР»СЏ, Рё РІ Р·РµРјР»СЋ СЃРЅРѕРІР°</plain>
         </string>
         <string>
-            <plain>Отойдешь, о человек!"</plain>
+            <plain>РћС‚РѕР№РґРµС€СЊ, Рѕ С‡РµР»РѕРІРµРє!"</plain>
         </string>
         <string>
-            <plain>И свершается то слово</plain>
+            <plain>Р СЃРІРµСЂС€Р°РµС‚СЃСЏ С‚Рѕ СЃР»РѕРІРѕ</plain>
         </string>
         <string>
-            <plain>Над людьми из века в век.</plain>
+            <plain>РќР°Рґ Р»СЋРґСЊРјРё РёР· РІРµРєР° РІ РІРµРє.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Но придет, настанет время,</plain>
+            <plain>РќРѕ РїСЂРёРґРµС‚, РЅР°СЃС‚Р°РЅРµС‚ РІСЂРµРјСЏ,</plain>
         </string>
         <string>
-            <plain>И мы скажем: "Смерти нет!"</plain>
+            <plain>Р РјС‹ СЃРєР°Р¶РµРј: "РЎРјРµСЂС‚Рё РЅРµС‚!"</plain>
         </string>
         <string>
-            <plain>И воскреснет Божье племя</plain>
+            <plain>Р РІРѕСЃРєСЂРµСЃРЅРµС‚ Р‘РѕР¶СЊРµ РїР»РµРјСЏ</plain>
         </string>
         <string>
-            <plain>И взойдет бессмертный свет.</plain>
+            <plain>Р РІР·РѕР№РґРµС‚ Р±РµСЃСЃРјРµСЂС‚РЅС‹Р№ СЃРІРµС‚.</plain>
         </string>
     </verse>
 </psalm>

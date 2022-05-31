@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3115" name="В муках на кресте страдая" canon="false" text="" textRus="" music="">
+<psalm number="3115" name="Р’ РјСѓРєР°С… РЅР° РєСЂРµСЃС‚Рµ СЃС‚СЂР°РґР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В муках на кресте страдая,</plain>
+            <plain>Р’ РјСѓРєР°С… РЅР° РєСЂРµСЃС‚Рµ СЃС‚СЂР°РґР°СЏ,</plain>
         </string>
         <string>
-            <plain>умер Божий Сын за нас;</plain>
+            <plain>СѓРјРµСЂ Р‘РѕР¶РёР№ РЎС‹РЅ Р·Р° РЅР°СЃ;</plain>
         </string>
         <string>
-            <plain>пролил ась там кровь святая:</plain>
+            <plain>РїСЂРѕР»РёР» Р°СЃСЊ С‚Р°Рј РєСЂРѕРІСЊ СЃРІСЏС‚Р°СЏ:</plain>
         </string>
         <string>
-            <plain>Агнец нас от смерти спас.</plain>
+            <plain>РђРіРЅРµС† РЅР°СЃ РѕС‚ СЃРјРµСЂС‚Рё СЃРїР°СЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, кровь святая,</plain>
+            <plain>Рћ, РєСЂРѕРІСЊ СЃРІСЏС‚Р°СЏ,</plain>
         </string>
         <string>
-            <plain>славлю тебя!</plain>
+            <plain>СЃР»Р°РІР»СЋ С‚РµР±СЏ!</plain>
         </string>
         <string>
-            <plain>Ты, кровь святая,</plain>
+            <plain>РўС‹, РєСЂРѕРІСЊ СЃРІСЏС‚Р°СЏ,</plain>
         </string>
         <string>
-            <plain>спасла меня.</plain>
+            <plain>СЃРїР°СЃР»Р° РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Эта кровь твой</plain>
+            <plain>Р­С‚Р° РєСЂРѕРІСЊ С‚РІРѕР№</plain>
         </string>
         <string>
-            <plain>багряный очищает добела;</plain>
+            <plain>Р±Р°РіСЂСЏРЅС‹Р№ РѕС‡РёС‰Р°РµС‚ РґРѕР±РµР»Р°;</plain>
         </string>
         <string>
-            <plain>в ней дитем ты Божьим станешь</plain>
+            <plain>РІ РЅРµР№ РґРёС‚РµРј С‚С‹ Р‘РѕР¶СЊРёРј СЃС‚Р°РЅРµС€СЊ</plain>
         </string>
         <string>
-            <plain>после гибельного сна.</plain>
+            <plain>РїРѕСЃР»Рµ РіРёР±РµР»СЊРЅРѕРіРѕ СЃРЅР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Эта кровь с креста струею</plain>
+            <plain>Р­С‚Р° РєСЂРѕРІСЊ СЃ РєСЂРµСЃС‚Р° СЃС‚СЂСѓРµСЋ</plain>
         </string>
         <string>
-            <plain>для тебя, душа, текла.</plain>
+            <plain>РґР»СЏ С‚РµР±СЏ, РґСѓС€Р°, С‚РµРєР»Р°.</plain>
         </string>
         <string>
-            <plain>О, приди, омойся ею:</plain>
+            <plain>Рћ, РїСЂРёРґРё, РѕРјРѕР№СЃСЏ РµСЋ:</plain>
         </string>
         <string>
-            <plain>боль изгладит всю она.</plain>
+            <plain>Р±РѕР»СЊ РёР·РіР»Р°РґРёС‚ РІСЃСЋ РѕРЅР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Преклонись пред Ним в смиреньи,</plain>
+            <plain>РџСЂРµРєР»РѕРЅРёСЃСЊ РїСЂРµРґ РќРёРј РІ СЃРјРёСЂРµРЅСЊРё,</plain>
         </string>
         <string>
-            <plain>верь в святую кровь Христа:</plain>
+            <plain>РІРµСЂСЊ РІ СЃРІСЏС‚СѓСЋ РєСЂРѕРІСЊ РҐСЂРёСЃС‚Р°:</plain>
         </string>
         <string>
-            <plain>Он в награду даст спасенье</plain>
+            <plain>РћРЅ РІ РЅР°РіСЂР°РґСѓ РґР°СЃС‚ СЃРїР°СЃРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>и омоет дочиста.</plain>
+            <plain>Рё РѕРјРѕРµС‚ РґРѕС‡РёСЃС‚Р°.</plain>
         </string>
     </verse>
 </psalm>

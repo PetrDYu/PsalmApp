@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="975" name="О приди заблудший грешник" canon="false" text="" textRus="" music="">
+<psalm number="975" name="Рћ РїСЂРёРґРё Р·Р°Р±Р»СѓРґС€РёР№ РіСЂРµС€РЅРёРє" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, приди, заблудший грешник.</plain>
+            <plain>Рћ, РїСЂРёРґРё, Р·Р°Р±Р»СѓРґС€РёР№ РіСЂРµС€РЅРёРє.</plain>
         </string>
         <string>
-            <plain>Вот Иисус тебя зовет.</plain>
+            <plain>Р’РѕС‚ РРёСЃСѓСЃ С‚РµР±СЏ Р·РѕРІРµС‚.</plain>
         </string>
         <string>
-            <plain>И, как всяких благ споспешник,</plain>
+            <plain>Р, РєР°Рє РІСЃСЏРєРёС… Р±Р»Р°Рі СЃРїРѕСЃРїРµС€РЅРёРє,</plain>
         </string>
         <string>
-            <plain>Радость в душу Он прольет.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РІ РґСѓС€Сѓ РћРЅ РїСЂРѕР»СЊРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Ты, что жаждешь очищенья,</plain>
+            <plain>РўС‹, С‡С‚Рѕ Р¶Р°Р¶РґРµС€СЊ РѕС‡РёС‰РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Верь! Молись!</plain>
+            <plain>Р’РµСЂСЊ! РњРѕР»РёСЃСЊ!</plain>
         </string>
         <string>
-            <plain>И радость в душу Он прольет.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊ РІ РґСѓС€Сѓ РћРЅ РїСЂРѕР»СЊРµС‚.</plain>
         </string>
         <string>
-            <plain>О, приди! Тебя Он ждет.</plain>
+            <plain>Рћ, РїСЂРёРґРё! РўРµР±СЏ РћРЅ Р¶РґРµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Похоть, грех - сложи все бремя</plain>
+            <plain>РџРѕС…РѕС‚СЊ, РіСЂРµС… - СЃР»РѕР¶Рё РІСЃРµ Р±СЂРµРјСЏ</plain>
         </string>
         <string>
-            <plain>У подножия Креста.</plain>
+            <plain>РЈ РїРѕРґРЅРѕР¶РёСЏ РљСЂРµСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>И придет благое время</plain>
+            <plain>Р РїСЂРёРґРµС‚ Р±Р»Р°РіРѕРµ РІСЂРµРјСЏ</plain>
         </string>
         <string>
-            <plain>Для тебя, друг, от Христа.</plain>
+            <plain>Р”Р»СЏ С‚РµР±СЏ, РґСЂСѓРі, РѕС‚ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Свет сияет уж для многих,</plain>
+            <plain>РЎРІРµС‚ СЃРёСЏРµС‚ СѓР¶ РґР»СЏ РјРЅРѕРіРёС…,</plain>
         </string>
         <string>
-            <plain>У Креста кто грех сложил.</plain>
+            <plain>РЈ РљСЂРµСЃС‚Р° РєС‚Рѕ РіСЂРµС… СЃР»РѕР¶РёР».</plain>
         </string>
         <string>
-            <plain>Для богатых и убогих</plain>
+            <plain>Р”Р»СЏ Р±РѕРіР°С‚С‹С… Рё СѓР±РѕРіРёС…</plain>
         </string>
         <string>
-            <plain>Он спасенье совершил.</plain>
+            <plain>РћРЅ СЃРїР°СЃРµРЅСЊРµ СЃРѕРІРµСЂС€РёР».</plain>
         </string>
     </verse>
 </psalm>

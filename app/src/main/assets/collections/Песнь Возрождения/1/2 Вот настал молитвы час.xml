@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2" name="Вот настал молитвы час" canon="false" text="" textRus="" music="">
+<psalm number="2" name="Р’РѕС‚ РЅР°СЃС‚Р°Р» РјРѕР»РёС‚РІС‹ С‡Р°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот настал молитвы час;</plain>
+            <plain>Р’РѕС‚ РЅР°СЃС‚Р°Р» РјРѕР»РёС‚РІС‹ С‡Р°СЃ;</plain>
         </string>
         <string>
-            <plain>С верою принесем</plain>
+            <plain>РЎ РІРµСЂРѕСЋ РїСЂРёРЅРµСЃРµРј</plain>
         </string>
         <string>
-            <plain>Грех и страх, что мучат нас,</plain>
+            <plain>Р“СЂРµС… Рё СЃС‚СЂР°С…, С‡С‚Рѕ РјСѓС‡Р°С‚ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Сложим их пред Христом.</plain>
+            <plain>РЎР»РѕР¶РёРј РёС… РїСЂРµРґ РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
         <string>
-            <plain>Нам дано давно познать:</plain>
+            <plain>РќР°Рј РґР°РЅРѕ РґР°РІРЅРѕ РїРѕР·РЅР°С‚СЊ:</plain>
         </string>
         <string>
-            <plain>Хочет Он нас принять</plain>
+            <plain>РҐРѕС‡РµС‚ РћРЅ РЅР°СЃ РїСЂРёРЅСЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>И Свое благословенье</plain>
+            <plain>Р РЎРІРѕРµ Р±Р»Р°РіРѕСЃР»РѕРІРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>В полноте всем нам дать.</plain>
+            <plain>Р’ РїРѕР»РЅРѕС‚Рµ РІСЃРµРј РЅР°Рј РґР°С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Чудный час мольбы!</plain>
+            <plain>Р§СѓРґРЅС‹Р№ С‡Р°СЃ РјРѕР»СЊР±С‹!</plain>
         </string>
         <string>
-            <plain>Дивный час мольбы!</plain>
+            <plain>Р”РёРІРЅС‹Р№ С‡Р°СЃ РјРѕР»СЊР±С‹!</plain>
         </string>
         <string>
-            <plain>Час священного общенья!</plain>
+            <plain>Р§Р°СЃ СЃРІСЏС‰РµРЅРЅРѕРіРѕ РѕР±С‰РµРЅСЊСЏ!</plain>
         </string>
         <string>
-            <plain>Здесь так сладостно быть.</plain>
+            <plain>Р—РґРµСЃСЊ С‚Р°Рє СЃР»Р°РґРѕСЃС‚РЅРѕ Р±С‹С‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вот настал молитвы час;</plain>
+            <plain>Р’РѕС‚ РЅР°СЃС‚Р°Р» РјРѕР»РёС‚РІС‹ С‡Р°СЃ;</plain>
         </string>
         <string>
-            <plain>Молим: "Вечный наш Бог!</plain>
+            <plain>РњРѕР»РёРј: "Р’РµС‡РЅС‹Р№ РЅР°С€ Р‘РѕРі!</plain>
         </string>
         <string>
-            <plain>Духом Ты повей на нас;</plain>
+            <plain>Р”СѓС…РѕРј РўС‹ РїРѕРІРµР№ РЅР° РЅР°СЃ;</plain>
         </string>
         <string>
-            <plain>У Твоих все мы ног.</plain>
+            <plain>РЈ РўРІРѕРёС… РІСЃРµ РјС‹ РЅРѕРі.</plain>
         </string>
         <string>
-            <plain>Песню нам в уста вдохни,</plain>
+            <plain>РџРµСЃРЅСЋ РЅР°Рј РІ СѓСЃС‚Р° РІРґРѕС…РЅРё,</plain>
         </string>
         <string>
-            <plain>Души воспламени</plain>
+            <plain>Р”СѓС€Рё РІРѕСЃРїР»Р°РјРµРЅРё</plain>
         </string>
         <string>
-            <plain>И рукой любви и мира</plain>
+            <plain>Р СЂСѓРєРѕР№ Р»СЋР±РІРё Рё РјРёСЂР°</plain>
         </string>
         <string>
-            <plain>В нас сердца осени".</plain>
+            <plain>Р’ РЅР°СЃ СЃРµСЂРґС†Р° РѕСЃРµРЅРё".</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вот настал молитвы час;</plain>
+            <plain>Р’РѕС‚ РЅР°СЃС‚Р°Р» РјРѕР»РёС‚РІС‹ С‡Р°СЃ;</plain>
         </string>
         <string>
-            <plain>Тих и скромен наш дом,</plain>
+            <plain>РўРёС… Рё СЃРєСЂРѕРјРµРЅ РЅР°С€ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>И душа к душе меж нас</plain>
+            <plain>Р РґСѓС€Р° Рє РґСѓС€Рµ РјРµР¶ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Льнет в общеньи святом.</plain>
+            <plain>Р›СЊРЅРµС‚ РІ РѕР±С‰РµРЅСЊРё СЃРІСЏС‚РѕРј.</plain>
         </string>
         <string>
-            <plain>"Мир разлей по всем сердцам,</plain>
+            <plain>"РњРёСЂ СЂР°Р·Р»РµР№ РїРѕ РІСЃРµРј СЃРµСЂРґС†Р°Рј,</plain>
         </string>
         <string>
-            <plain>Мир пошли с неба нам!</plain>
+            <plain>РњРёСЂ РїРѕС€Р»Рё СЃ РЅРµР±Р° РЅР°Рј!</plain>
         </string>
         <string>
-            <plain>И теперь подобье неба,</plain>
+            <plain>Р С‚РµРїРµСЂСЊ РїРѕРґРѕР±СЊРµ РЅРµР±Р°,</plain>
         </string>
         <string>
-            <plain>Боже, сделай в них Сам!"</plain>
+            <plain>Р‘РѕР¶Рµ, СЃРґРµР»Р°Р№ РІ РЅРёС… РЎР°Рј!"</plain>
         </string>
     </verse>
 </psalm>

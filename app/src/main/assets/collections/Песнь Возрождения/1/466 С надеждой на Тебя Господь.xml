@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="466" name="С надеждой на Тебя Господь" canon="false" text="" textRus="" music="">
+<psalm number="466" name="РЎ РЅР°РґРµР¶РґРѕР№ РЅР° РўРµР±СЏ Р“РѕСЃРїРѕРґСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>С надеждой на Тебя, Господь,</plain>
+            <plain>РЎ РЅР°РґРµР¶РґРѕР№ РЅР° РўРµР±СЏ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Я в труд дневной иду.</plain>
+            <plain>РЇ РІ С‚СЂСѓРґ РґРЅРµРІРЅРѕР№ РёРґСѓ.</plain>
         </string>
         <string>
-            <plain>Ты укрепи мне дух и плоть</plain>
+            <plain>РўС‹ СѓРєСЂРµРїРё РјРЅРµ РґСѓС… Рё РїР»РѕС‚СЊ</plain>
         </string>
         <string>
-            <plain>К полезному труду.</plain>
+            <plain>Рљ РїРѕР»РµР·РЅРѕРјСѓ С‚СЂСѓРґСѓ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Ты Сам благослови меня,</plain>
+            <plain>РўС‹ РЎР°Рј Р±Р»Р°РіРѕСЃР»РѕРІРё РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Помощник будь в труде,</plain>
+            <plain>РџРѕРјРѕС‰РЅРёРє Р±СѓРґСЊ РІ С‚СЂСѓРґРµ,</plain>
         </string>
         <string>
-            <plain>И дай Ты мне в теченье дня</plain>
+            <plain>Р РґР°Р№ РўС‹ РјРЅРµ РІ С‚РµС‡РµРЅСЊРµ РґРЅСЏ</plain>
         </string>
         <string>
-            <plain>С Тобою быть везде.</plain>
+            <plain>РЎ РўРѕР±РѕСЋ Р±С‹С‚СЊ РІРµР·РґРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Наставь, чтоб для Тебя мог жить</plain>
+            <plain>РќР°СЃС‚Р°РІСЊ, С‡С‚РѕР± РґР»СЏ РўРµР±СЏ РјРѕРі Р¶РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Я сердцем и душой,</plain>
+            <plain>РЇ СЃРµСЂРґС†РµРј Рё РґСѓС€РѕР№,</plain>
         </string>
         <string>
-            <plain>Тебе все в жертву приносить,</plain>
+            <plain>РўРµР±Рµ РІСЃРµ РІ Р¶РµСЂС‚РІСѓ РїСЂРёРЅРѕСЃРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Что мне дано Тобой!</plain>
+            <plain>Р§С‚Рѕ РјРЅРµ РґР°РЅРѕ РўРѕР±РѕР№!</plain>
         </string>
     </verse>
 </psalm>

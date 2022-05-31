@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3298" name="Обетования Божьи" canon="false" text="" textRus="" music="">
+<psalm number="3298" name="РћР±РµС‚РѕРІР°РЅРёСЏ Р‘РѕР¶СЊРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Обетования Божьи</plain>
+            <plain>РћР±РµС‚РѕРІР°РЅРёСЏ Р‘РѕР¶СЊРё</plain>
         </string>
         <string>
-            <plain>не поколеблются,</plain>
+            <plain>РЅРµ РїРѕРєРѕР»РµР±Р»СЋС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>сам Иисус утвердил</plain>
+            <plain>СЃР°Рј РРёСЃСѓСЃ СѓС‚РІРµСЂРґРёР»</plain>
         </string>
         <string>
-            <plain>их в день искупления.</plain>
+            <plain>РёС… РІ РґРµРЅСЊ РёСЃРєСѓРїР»РµРЅРёСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Небо, земля исчезнут,</plain>
+            <plain>РќРµР±Рѕ, Р·РµРјР»СЏ РёСЃС‡РµР·РЅСѓС‚,</plain>
         </string>
         <string>
-            <plain>солнце, луна - померкнут,</plain>
+            <plain>СЃРѕР»РЅС†Рµ, Р»СѓРЅР° - РїРѕРјРµСЂРєРЅСѓС‚,</plain>
         </string>
         <string>
-            <plain>верь и вовек пребудут</plain>
+            <plain>РІРµСЂСЊ Рё РІРѕРІРµРє РїСЂРµР±СѓРґСѓС‚</plain>
         </string>
         <string>
-            <plain>- обетованья.</plain>
+            <plain>- РѕР±РµС‚РѕРІР°РЅСЊСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вспомни ты жизнь Авраама,</plain>
+            <plain>Р’СЃРїРѕРјРЅРё С‚С‹ Р¶РёР·РЅСЊ РђРІСЂР°Р°РјР°,</plain>
         </string>
         <string>
-            <plain>взор подними Свой ввысь.</plain>
+            <plain>РІР·РѕСЂ РїРѕРґРЅРёРјРё РЎРІРѕР№ РІРІС‹СЃСЊ.</plain>
         </string>
         <string>
-            <plain>К звёздам в смирении взирая,</plain>
+            <plain>Рљ Р·РІС‘Р·РґР°Рј РІ СЃРјРёСЂРµРЅРёРё РІР·РёСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>верою укрепись.</plain>
+            <plain>РІРµСЂРѕСЋ СѓРєСЂРµРїРёСЃСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Верь, если тьма окружает,</plain>
+            <plain>Р’РµСЂСЊ, РµСЃР»Рё С‚СЊРјР° РѕРєСЂСѓР¶Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>верь хоть надежды нет.</plain>
+            <plain>РІРµСЂСЊ С…РѕС‚СЊ РЅР°РґРµР¶РґС‹ РЅРµС‚.</plain>
         </string>
         <string>
-            <plain>Скоро опять засияет</plain>
+            <plain>РЎРєРѕСЂРѕ РѕРїСЏС‚СЊ Р·Р°СЃРёСЏРµС‚</plain>
         </string>
         <string>
-            <plain>радостный солнца веет.</plain>
+            <plain>СЂР°РґРѕСЃС‚РЅС‹Р№ СЃРѕР»РЅС†Р° РІРµРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Верь, хоть друзья изменяют,</plain>
+            <plain>Р’РµСЂСЊ, С…РѕС‚СЊ РґСЂСѓР·СЊСЏ РёР·РјРµРЅСЏСЋС‚,</plain>
         </string>
         <string>
-            <plain>только один Христос верен,</plain>
+            <plain>С‚РѕР»СЊРєРѕ РѕРґРёРЅ РҐСЂРёСЃС‚РѕСЃ РІРµСЂРµРЅ,</plain>
         </string>
         <string>
-            <plain>не оставляет нас</plain>
+            <plain>РЅРµ РѕСЃС‚Р°РІР»СЏРµС‚ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>среди жизненных слёз.</plain>
+            <plain>СЃСЂРµРґРё Р¶РёР·РЅРµРЅРЅС‹С… СЃР»С‘Р·.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Верь же свой путь продолжая,</plain>
+            <plain>Р’РµСЂСЊ Р¶Рµ СЃРІРѕР№ РїСѓС‚СЊ РїСЂРѕРґРѕР»Р¶Р°СЏ,</plain>
         </string>
         <string>
-            <plain>в дивный Отцовский дом.</plain>
+            <plain>РІ РґРёРІРЅС‹Р№ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј.</plain>
         </string>
         <string>
-            <plain>Во, что веришь страдая.</plain>
+            <plain>Р’Рѕ, С‡С‚Рѕ РІРµСЂРёС€СЊ СЃС‚СЂР°РґР°СЏ.</plain>
         </string>
         <string>
-            <plain>Ясно ты узришь в Нём.</plain>
+            <plain>РЇСЃРЅРѕ С‚С‹ СѓР·СЂРёС€СЊ РІ РќС‘Рј.</plain>
         </string>
     </verse>
 </psalm>

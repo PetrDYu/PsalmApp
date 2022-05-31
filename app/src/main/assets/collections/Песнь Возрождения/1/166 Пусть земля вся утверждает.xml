@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="166" name="Пусть земля вся утверждает" canon="false" text="" textRus="" music="">
+<psalm number="166" name="РџСѓСЃС‚СЊ Р·РµРјР»СЏ РІСЃСЏ СѓС‚РІРµСЂР¶РґР°РµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пусть земля вся утверждает,</plain>
+            <plain>РџСѓСЃС‚СЊ Р·РµРјР»СЏ РІСЃСЏ СѓС‚РІРµСЂР¶РґР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Что Тобой я не спасен,</plain>
+            <plain>Р§С‚Рѕ РўРѕР±РѕР№ СЏ РЅРµ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>Дух мой песню воспевает:</plain>
+            <plain>Р”СѓС… РјРѕР№ РїРµСЃРЅСЋ РІРѕСЃРїРµРІР°РµС‚:</plain>
         </string>
         <string>
-            <plain>"Принят раб Твой на Сион!"</plain>
+            <plain>"РџСЂРёРЅСЏС‚ СЂР°Р± РўРІРѕР№ РЅР° РЎРёРѕРЅ!"</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Радуйтесь со мною, люди!</plain>
+            <plain>Р Р°РґСѓР№С‚РµСЃСЊ СЃРѕ РјРЅРѕСЋ, Р»СЋРґРё!</plain>
         </string>
         <string>
-            <plain>Нет сомненья: "Я спасен!"</plain>
+            <plain>РќРµС‚ СЃРѕРјРЅРµРЅСЊСЏ: "РЇ СЃРїР°СЃРµРЅ!"</plain>
         </string>
         <string>
-            <plain>Пусть весь мир твердит иное:</plain>
+            <plain>РџСѓСЃС‚СЊ РІРµСЃСЊ РјРёСЂ С‚РІРµСЂРґРёС‚ РёРЅРѕРµ:</plain>
         </string>
         <string>
-            <plain>Знаю я, Христом спасен!</plain>
+            <plain>Р—РЅР°СЋ СЏ, РҐСЂРёСЃС‚РѕРј СЃРїР°СЃРµРЅ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Если б ангел сам явился</plain>
+            <plain>Р•СЃР»Рё Р± Р°РЅРіРµР» СЃР°Рј СЏРІРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>И сказал: "Не обращен!"</plain>
+            <plain>Р СЃРєР°Р·Р°Р»: "РќРµ РѕР±СЂР°С‰РµРЅ!"</plain>
         </string>
         <string>
-            <plain>И тогда б я не смутился,</plain>
+            <plain>Р С‚РѕРіРґР° Р± СЏ РЅРµ СЃРјСѓС‚РёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Помня вечный Твой закон.</plain>
+            <plain>РџРѕРјРЅСЏ РІРµС‡РЅС‹Р№ РўРІРѕР№ Р·Р°РєРѕРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если ум мой усомнится,</plain>
+            <plain>Р•СЃР»Рё СѓРј РјРѕР№ СѓСЃРѕРјРЅРёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Призову Тебя душой;</plain>
+            <plain>РџСЂРёР·РѕРІСѓ РўРµР±СЏ РґСѓС€РѕР№;</plain>
         </string>
         <string>
-            <plain>Ты придешь и ум смирится,</plain>
+            <plain>РўС‹ РїСЂРёРґРµС€СЊ Рё СѓРј СЃРјРёСЂРёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>И настанет Твой покой.</plain>
+            <plain>Р РЅР°СЃС‚Р°РЅРµС‚ РўРІРѕР№ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Знаю я, в кого я верю;</plain>
+            <plain>Р—РЅР°СЋ СЏ, РІ РєРѕРіРѕ СЏ РІРµСЂСЋ;</plain>
         </string>
         <string>
-            <plain>Дух мой в Нем несокрушим;</plain>
+            <plain>Р”СѓС… РјРѕР№ РІ РќРµРј РЅРµСЃРѕРєСЂСѓС€РёРј;</plain>
         </string>
         <string>
-            <plain>Жизни всякую потерю</plain>
+            <plain>Р–РёР·РЅРё РІСЃСЏРєСѓСЋ РїРѕС‚РµСЂСЋ</plain>
         </string>
         <string>
-            <plain>С радостью снесу я с Ним.</plain>
+            <plain>РЎ СЂР°РґРѕСЃС‚СЊСЋ СЃРЅРµСЃСѓ СЏ СЃ РќРёРј.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Каждый миг Его я слышу,</plain>
+            <plain>РљР°Р¶РґС‹Р№ РјРёРі Р•РіРѕ СЏ СЃР»С‹С€Сѓ,</plain>
         </string>
         <string>
-            <plain>Каждый миг с Ним говорю;</plain>
+            <plain>РљР°Р¶РґС‹Р№ РјРёРі СЃ РќРёРј РіРѕРІРѕСЂСЋ;</plain>
         </string>
         <string>
-            <plain>Он любовь дарит мне свыше</plain>
+            <plain>РћРЅ Р»СЋР±РѕРІСЊ РґР°СЂРёС‚ РјРЅРµ СЃРІС‹С€Рµ</plain>
         </string>
         <string>
-            <plain>И Его огнем горю.</plain>
+            <plain>Р Р•РіРѕ РѕРіРЅРµРј РіРѕСЂСЋ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Нету места для сомненья</plain>
+            <plain>РќРµС‚Сѓ РјРµСЃС‚Р° РґР»СЏ СЃРѕРјРЅРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В сердце избранных Тобой;</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ РёР·Р±СЂР°РЅРЅС‹С… РўРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>В час минутного затменья</plain>
+            <plain>Р’ С‡Р°СЃ РјРёРЅСѓС‚РЅРѕРіРѕ Р·Р°С‚РјРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Будь на страже, Пастырь мой!</plain>
+            <plain>Р‘СѓРґСЊ РЅР° СЃС‚СЂР°Р¶Рµ, РџР°СЃС‚С‹СЂСЊ РјРѕР№!</plain>
         </string>
     </verse>
 </psalm>

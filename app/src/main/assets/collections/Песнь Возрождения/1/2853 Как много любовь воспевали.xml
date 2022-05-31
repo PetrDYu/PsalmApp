@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2853" name="Как много любовь воспевали" canon="false" text="" textRus="" music="">
+<psalm number="2853" name="РљР°Рє РјРЅРѕРіРѕ Р»СЋР±РѕРІСЊ РІРѕСЃРїРµРІР°Р»Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как много любовь воспевали</plain>
+            <plain>РљР°Рє РјРЅРѕРіРѕ Р»СЋР±РѕРІСЊ РІРѕСЃРїРµРІР°Р»Рё</plain>
         </string>
         <string>
-            <plain>мы в песнях своих вновь и вновь,</plain>
+            <plain>РјС‹ РІ РїРµСЃРЅСЏС… СЃРІРѕРёС… РІРЅРѕРІСЊ Рё РІРЅРѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>но не удалось никому</plain>
+            <plain>РЅРѕ РЅРµ СѓРґР°Р»РѕСЃСЊ РЅРёРєРѕРјСѓ</plain>
         </string>
         <string>
-            <plain>всё ж посеять в избытке любовь!</plain>
+            <plain>РІСЃС‘ Р¶ РїРѕСЃРµСЏС‚СЊ РІ РёР·Р±С‹С‚РєРµ Р»СЋР±РѕРІСЊ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисусу, источнику, - слава!</plain>
+            <plain>РРёСЃСѓСЃСѓ, РёСЃС‚РѕС‡РЅРёРєСѓ, - СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>- детей Своих любящих так.</plain>
+            <plain>- РґРµС‚РµР№ РЎРІРѕРёС… Р»СЋР±СЏС‰РёС… С‚Р°Рє.</plain>
         </string>
         <string>
-            <plain>Он дарит любовь в полноте нам</plain>
+            <plain>РћРЅ РґР°СЂРёС‚ Р»СЋР±РѕРІСЊ РІ РїРѕР»РЅРѕС‚Рµ РЅР°Рј</plain>
         </string>
         <string>
-            <plain>и с нею победу всегда.</plain>
+            <plain>Рё СЃ РЅРµСЋ РїРѕР±РµРґСѓ РІСЃРµРіРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Любовь, что Иисус даровал нам,</plain>
+            <plain>Р›СЋР±РѕРІСЊ, С‡С‚Рѕ РРёСЃСѓСЃ РґР°СЂРѕРІР°Р» РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>сердца наполняет всегда;</plain>
+            <plain>СЃРµСЂРґС†Р° РЅР°РїРѕР»РЅСЏРµС‚ РІСЃРµРіРґР°;</plain>
         </string>
         <string>
-            <plain>ведёт нас она к вечной жизни,</plain>
+            <plain>РІРµРґС‘С‚ РЅР°СЃ РѕРЅР° Рє РІРµС‡РЅРѕР№ Р¶РёР·РЅРё,</plain>
         </string>
         <string>
-            <plain>к небесному граду Отца!</plain>
+            <plain>Рє РЅРµР±РµСЃРЅРѕРјСѓ РіСЂР°РґСѓ РћС‚С†Р°!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Любовь терпелива, спокойна</plain>
+            <plain>Р›СЋР±РѕРІСЊ С‚РµСЂРїРµР»РёРІР°, СЃРїРѕРєРѕР№РЅР°</plain>
         </string>
         <string>
-            <plain>и зла никому не чинит,</plain>
+            <plain>Рё Р·Р»Р° РЅРёРєРѕРјСѓ РЅРµ С‡РёРЅРёС‚,</plain>
         </string>
         <string>
-            <plain>и малого не презирает,</plain>
+            <plain>Рё РјР°Р»РѕРіРѕ РЅРµ РїСЂРµР·РёСЂР°РµС‚,</plain>
         </string>
         <string>
-            <plain>а каждого любит, мирит.</plain>
+            <plain>Р° РєР°Р¶РґРѕРіРѕ Р»СЋР±РёС‚, РјРёСЂРёС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Давайте не только же в песнях</plain>
+            <plain>Р”Р°РІР°Р№С‚Рµ РЅРµ С‚РѕР»СЊРєРѕ Р¶Рµ РІ РїРµСЃРЅСЏС…</plain>
         </string>
         <string>
-            <plain>любовь Иисуса хвалить,</plain>
+            <plain>Р»СЋР±РѕРІСЊ РРёСЃСѓСЃР° С…РІР°Р»РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>а Господу с радостью жертвы</plain>
+            <plain>Р° Р“РѕСЃРїРѕРґСѓ СЃ СЂР°РґРѕСЃС‚СЊСЋ Р¶РµСЂС‚РІС‹</plain>
         </string>
         <string>
-            <plain>любви от души приносить!</plain>
+            <plain>Р»СЋР±РІРё РѕС‚ РґСѓС€Рё РїСЂРёРЅРѕСЃРёС‚СЊ!</plain>
         </string>
     </verse>
 </psalm>

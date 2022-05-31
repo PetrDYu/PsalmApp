@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2884" name="Пойте дружно детки" canon="false" text="" textRus="" music="">
+<psalm number="2884" name="РџРѕР№С‚Рµ РґСЂСѓР¶РЅРѕ РґРµС‚РєРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Пойте дружно, детки,</plain>
+            <plain>РџРѕР№С‚Рµ РґСЂСѓР¶РЅРѕ, РґРµС‚РєРё,</plain>
         </string>
         <string>
-            <plain>песни нашему Христу</plain>
+            <plain>РїРµСЃРЅРё РЅР°С€РµРјСѓ РҐСЂРёСЃС‚Сѓ</plain>
         </string>
         <string>
-            <plain>- Он ведь небеса оставил,</plain>
+            <plain>- РћРЅ РІРµРґСЊ РЅРµР±РµСЃР° РѕСЃС‚Р°РІРёР»,</plain>
         </string>
         <string>
-            <plain>нам явив любовь Свою.</plain>
+            <plain>РЅР°Рј СЏРІРёРІ Р»СЋР±РѕРІСЊ РЎРІРѕСЋ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Радостно пойте, славьте Христа!</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ РїРѕР№С‚Рµ, СЃР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Чтите Его во всём и всегда!</plain>
+            <plain>Р§С‚РёС‚Рµ Р•РіРѕ РІРѕ РІСЃС‘Рј Рё РІСЃРµРіРґР°!</plain>
         </string>
         <string>
-            <plain>Радостно пойте, славьте Христа!</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅРѕ РїРѕР№С‚Рµ, СЃР»Р°РІСЊС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Чтите Его во всём и всегда!</plain>
+            <plain>Р§С‚РёС‚Рµ Р•РіРѕ РІРѕ РІСЃС‘Рј Рё РІСЃРµРіРґР°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Да, Христос для нас родился,</plain>
+            <plain>Р”Р°, РҐСЂРёСЃС‚РѕСЃ РґР»СЏ РЅР°СЃ СЂРѕРґРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>- радость велика!</plain>
+            <plain>- СЂР°РґРѕСЃС‚СЊ РІРµР»РёРєР°!</plain>
         </string>
         <string>
-            <plain>- без Него мы б заблудились</plain>
+            <plain>- Р±РµР· РќРµРіРѕ РјС‹ Р± Р·Р°Р±Р»СѓРґРёР»РёСЃСЊ</plain>
         </string>
         <string>
-            <plain>и погибли навсегда.</plain>
+            <plain>Рё РїРѕРіРёР±Р»Рё РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Будем больше Иисуса</plain>
+            <plain>Р‘СѓРґРµРј Р±РѕР»СЊС€Рµ РРёСЃСѓСЃР°</plain>
         </string>
         <string>
-            <plain>с каждым днём любить,</plain>
+            <plain>СЃ РєР°Р¶РґС‹Рј РґРЅС‘Рј Р»СЋР±РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>чтоб Его не огорчать нам,</plain>
+            <plain>С‡С‚РѕР± Р•РіРѕ РЅРµ РѕРіРѕСЂС‡Р°С‚СЊ РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>но лишь ревностней служить.</plain>
+            <plain>РЅРѕ Р»РёС€СЊ СЂРµРІРЅРѕСЃС‚РЅРµР№ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, взгляни на нас,</plain>
+            <plain>Рћ, РІР·РіР»СЏРЅРё РЅР° РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Спаситель, мы теперь - Твои;</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ, РјС‹ С‚РµРїРµСЂСЊ - РўРІРѕРё;</plain>
         </string>
         <string>
-            <plain>ждём, когда придёшь Ты снова,</plain>
+            <plain>Р¶РґС‘Рј, РєРѕРіРґР° РїСЂРёРґС‘С€СЊ РўС‹ СЃРЅРѕРІР°,</plain>
         </string>
         <string>
-            <plain>чтоб с Тобой быть в вечности.</plain>
+            <plain>С‡С‚РѕР± СЃ РўРѕР±РѕР№ Р±С‹С‚СЊ РІ РІРµС‡РЅРѕСЃС‚Рё.</plain>
         </string>
     </verse>
 </psalm>

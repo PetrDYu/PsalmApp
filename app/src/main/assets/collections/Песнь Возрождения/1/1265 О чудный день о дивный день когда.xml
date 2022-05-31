@@ -1,105 +1,105 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1265" name="О чудный день о дивный день когда" canon="false" text="" textRus="" music="">
+<psalm number="1265" name="Рћ С‡СѓРґРЅС‹Р№ РґРµРЅСЊ Рѕ РґРёРІРЅС‹Р№ РґРµРЅСЊ РєРѕРіРґР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, чудный день, о дивный день, когда</plain>
+            <plain>Рћ, С‡СѓРґРЅС‹Р№ РґРµРЅСЊ, Рѕ РґРёРІРЅС‹Р№ РґРµРЅСЊ, РєРѕРіРґР°</plain>
         </string>
         <string>
-            <plain>Спаситель в первый раз</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РІ РїРµСЂРІС‹Р№ СЂР°Р·</plain>
         </string>
         <string>
-            <plain>С душой моей в завет вступил</plain>
+            <plain>РЎ РґСѓС€РѕР№ РјРѕРµР№ РІ Р·Р°РІРµС‚ РІСЃС‚СѓРїРёР»</plain>
         </string>
         <string>
-            <plain>И мир мне сердца подарил.</plain>
+            <plain>Р РјРёСЂ РјРЅРµ СЃРµСЂРґС†Р° РїРѕРґР°СЂРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Чудный день, дивный день.</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил,</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Меня Он учит кротким быть</plain>
+            <plain>РњРµРЅСЏ РћРЅ СѓС‡РёС‚ РєСЂРѕС‚РєРёРј Р±С‹С‚СЊ</plain>
         </string>
         <string>
-            <plain>И радостно Ему служить.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚РЅРѕ Р•РјСѓ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Чудный день, дивный день,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил.</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Свершен союз любви святой.</plain>
+            <plain>РЎРІРµСЂС€РµРЅ СЃРѕСЋР· Р»СЋР±РІРё СЃРІСЏС‚РѕР№.</plain>
         </string>
         <string>
-            <plain>Нашел меня Спаситель мой.</plain>
+            <plain>РќР°С€РµР» РјРµРЅСЏ РЎРїР°СЃРёС‚РµР»СЊ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Он мой теперь, и я Его,</plain>
+            <plain>РћРЅ РјРѕР№ С‚РµРїРµСЂСЊ, Рё СЏ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>Навеки то закреплено.</plain>
+            <plain>РќР°РІРµРєРё С‚Рѕ Р·Р°РєСЂРµРїР»РµРЅРѕ.</plain>
         </string>
     </verse>
     <chorus number="2">
         <string>
-            <plain>Чудный день, дивный день.</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил,</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Меня Он учит кротким быть</plain>
+            <plain>РњРµРЅСЏ РћРЅ СѓС‡РёС‚ РєСЂРѕС‚РєРёРј Р±С‹С‚СЊ</plain>
         </string>
         <string>
-            <plain>И радостно Ему служить.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚РЅРѕ Р•РјСѓ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Чудный день, дивный день,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил.</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР».</plain>
         </string>
     </chorus>
     <verse number="3">
         <string>
-            <plain>Моя погибшая душа</plain>
+            <plain>РњРѕСЏ РїРѕРіРёР±С€Р°СЏ РґСѓС€Р°</plain>
         </string>
         <string>
-            <plain>В Его спасительной Крови</plain>
+            <plain>Р’ Р•РіРѕ СЃРїР°СЃРёС‚РµР»СЊРЅРѕР№ РљСЂРѕРІРё</plain>
         </string>
         <string>
-            <plain>Омылась и покой нашла.</plain>
+            <plain>РћРјС‹Р»Р°СЃСЊ Рё РїРѕРєРѕР№ РЅР°С€Р»Р°.</plain>
         </string>
         <string>
-            <plain>Поет хвалу Его любви.</plain>
+            <plain>РџРѕРµС‚ С…РІР°Р»Сѓ Р•РіРѕ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Чудный день, дивный день.</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил,</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР»,</plain>
         </string>
         <string>
-            <plain>Меня Он учит кротким быть</plain>
+            <plain>РњРµРЅСЏ РћРЅ СѓС‡РёС‚ РєСЂРѕС‚РєРёРј Р±С‹С‚СЊ</plain>
         </string>
         <string>
-            <plain>И радостно Ему служить.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚РЅРѕ Р•РјСѓ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Чудный день, дивный день,</plain>
+            <plain>Р§СѓРґРЅС‹Р№ РґРµРЅСЊ, РґРёРІРЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Когда Господь меня простил.</plain>
+            <plain>РљРѕРіРґР° Р“РѕСЃРїРѕРґСЊ РјРµРЅСЏ РїСЂРѕСЃС‚РёР».</plain>
         </string>
     </chorus>
 </psalm>

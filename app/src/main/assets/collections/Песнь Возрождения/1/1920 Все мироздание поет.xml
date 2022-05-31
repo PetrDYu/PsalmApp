@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1920" name="Все мироздание поет" canon="false" text="" textRus="" music="">
+<psalm number="1920" name="Р’СЃРµ РјРёСЂРѕР·РґР°РЅРёРµ РїРѕРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Все мироздание поет:</plain>
+            <plain>Р’СЃРµ РјРёСЂРѕР·РґР°РЅРёРµ РїРѕРµС‚:</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>И небеса гласят с высот:</plain>
+            <plain>Р РЅРµР±РµСЃР° РіР»Р°СЃСЏС‚ СЃ РІС‹СЃРѕС‚:</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>Сердца Его да вознесут,</plain>
+            <plain>РЎРµСЂРґС†Р° Р•РіРѕ РґР° РІРѕР·РЅРµСЃСѓС‚,</plain>
         </string>
         <string>
-            <plain>Ему любовь да принесут</plain>
+            <plain>Р•РјСѓ Р»СЋР±РѕРІСЊ РґР° РїСЂРёРЅРµСЃСѓС‚</plain>
         </string>
         <string>
-            <plain>И честь Ему да воздадут,</plain>
+            <plain>Р С‡РµСЃС‚СЊ Р•РјСѓ РґР° РІРѕР·РґР°РґСѓС‚,</plain>
         </string>
         <string>
-            <plain>Ведь благ Господь!</plain>
+            <plain>Р’РµРґСЊ Р±Р»Р°Рі Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Вещайте, братья и друзья:</plain>
+            <plain>Р’РµС‰Р°Р№С‚Рµ, Р±СЂР°С‚СЊСЏ Рё РґСЂСѓР·СЊСЏ:</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>В Нем мир нашел для сердца я:</plain>
+            <plain>Р’ РќРµРј РјРёСЂ РЅР°С€РµР» РґР»СЏ СЃРµСЂРґС†Р° СЏ:</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>Омыт струёй Его крови,</plain>
+            <plain>РћРјС‹С‚ СЃС‚СЂСѓС‘Р№ Р•РіРѕ РєСЂРѕРІРё,</plain>
         </string>
         <string>
-            <plain>Спасен крестом Его любви,</plain>
+            <plain>РЎРїР°СЃРµРЅ РєСЂРµСЃС‚РѕРј Р•РіРѕ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Я слышу: "радуйся, живи!"</plain>
+            <plain>РЇ СЃР»С‹С€Сѓ: "СЂР°РґСѓР№СЃСЏ, Р¶РёРІРё!"</plain>
         </string>
         <string>
-            <plain>Да, благ Господь!</plain>
+            <plain>Р”Р°, Р±Р»Р°Рі Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Удел мой вечный во Христе:</plain>
+            <plain>РЈРґРµР» РјРѕР№ РІРµС‡РЅС‹Р№ РІРѕ РҐСЂРёСЃС‚Рµ:</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>Спасение в Его кресте,</plain>
+            <plain>РЎРїР°СЃРµРЅРёРµ РІ Р•РіРѕ РєСЂРµСЃС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>Моя Он крепость, щит и свет,</plain>
+            <plain>РњРѕСЏ РћРЅ РєСЂРµРїРѕСЃС‚СЊ, С‰РёС‚ Рё СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Скала, убежище от бед.</plain>
+            <plain>РЎРєР°Р»Р°, СѓР±РµР¶РёС‰Рµ РѕС‚ Р±РµРґ.</plain>
         </string>
         <string>
-            <plain>Он не изменит мне, о нет!</plain>
+            <plain>РћРЅ РЅРµ РёР·РјРµРЅРёС‚ РјРЅРµ, Рѕ РЅРµС‚!</plain>
         </string>
         <string>
-            <plain>Да, благ Господь!</plain>
+            <plain>Р”Р°, Р±Р»Р°Рі Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Вот ангелов уста звучат:</plain>
+            <plain>Р’РѕС‚ Р°РЅРіРµР»РѕРІ СѓСЃС‚Р° Р·РІСѓС‡Р°С‚:</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>И реки, и моря гласят:</plain>
+            <plain>Р СЂРµРєРё, Рё РјРѕСЂСЏ РіР»Р°СЃСЏС‚:</plain>
         </string>
         <string>
-            <plain>Благ наш Господь!</plain>
+            <plain>Р‘Р»Р°Рі РЅР°С€ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
         <string>
-            <plain>Поют о Нем поля, леса</plain>
+            <plain>РџРѕСЋС‚ Рѕ РќРµРј РїРѕР»СЏ, Р»РµСЃР°</plain>
         </string>
         <string>
-            <plain>И в звездном блеске небеса,</plain>
+            <plain>Р РІ Р·РІРµР·РґРЅРѕРј Р±Р»РµСЃРєРµ РЅРµР±РµСЃР°,</plain>
         </string>
         <string>
-            <plain>И солнца яркого краса.</plain>
+            <plain>Р СЃРѕР»РЅС†Р° СЏСЂРєРѕРіРѕ РєСЂР°СЃР°.</plain>
         </string>
         <string>
-            <plain>Да, благ Господь!</plain>
+            <plain>Р”Р°, Р±Р»Р°Рі Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2900" name="Гимн победы на Сионе" canon="false" text="" textRus="" music="">
+<psalm number="2900" name="Р“РёРјРЅ РїРѕР±РµРґС‹ РЅР° РЎРёРѕРЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Гимн победы на Сионе</plain>
+            <plain>Р“РёРјРЅ РїРѕР±РµРґС‹ РЅР° РЎРёРѕРЅРµ</plain>
         </string>
         <string>
-            <plain>снова слышим мы,</plain>
+            <plain>СЃРЅРѕРІР° СЃР»С‹С€РёРј РјС‹,</plain>
         </string>
         <string>
-            <plain>- возвращаются к Сиону</plain>
+            <plain>- РІРѕР·РІСЂР°С‰Р°СЋС‚СЃСЏ Рє РЎРёРѕРЅСѓ</plain>
         </string>
         <string>
-            <plain>пленники из тьмы.</plain>
+            <plain>РїР»РµРЅРЅРёРєРё РёР· С‚СЊРјС‹.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Песня радостно звучит,</plain>
+            <plain>РџРµСЃРЅСЏ СЂР°РґРѕСЃС‚РЅРѕ Р·РІСѓС‡РёС‚,</plain>
         </string>
         <string>
-            <plain>то народ Христа в Сион,</plain>
+            <plain>С‚Рѕ РЅР°СЂРѕРґ РҐСЂРёСЃС‚Р° РІ РЎРёРѕРЅ,</plain>
         </string>
         <string>
-            <plain>домой спешит,</plain>
+            <plain>РґРѕРјРѕР№ СЃРїРµС€РёС‚,</plain>
         </string>
         <string>
-            <plain>в Сион спешит.</plain>
+            <plain>РІ РЎРёРѕРЅ СЃРїРµС€РёС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Песни громко раздаются,</plain>
+            <plain>РџРµСЃРЅРё РіСЂРѕРјРєРѕ СЂР°Р·РґР°СЋС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>весть несётся вдаль,</plain>
+            <plain>РІРµСЃС‚СЊ РЅРµСЃС‘С‚СЃСЏ РІРґР°Р»СЊ,</plain>
         </string>
         <string>
-            <plain>ангел с неба возвещает:</plain>
+            <plain>Р°РЅРіРµР» СЃ РЅРµР±Р° РІРѕР·РІРµС‰Р°РµС‚:</plain>
         </string>
         <string>
-            <plain>«Вавилон уж пал!»</plain>
+            <plain>В«Р’Р°РІРёР»РѕРЅ СѓР¶ РїР°Р»!В»</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Радостная песнь свободы</plain>
+            <plain>Р Р°РґРѕСЃС‚РЅР°СЏ РїРµСЃРЅСЊ СЃРІРѕР±РѕРґС‹</plain>
         </string>
         <string>
-            <plain>слышится вдали:</plain>
+            <plain>СЃР»С‹С€РёС‚СЃСЏ РІРґР°Р»Рё:</plain>
         </string>
         <string>
-            <plain>Мы из рабства Вавилона</plain>
+            <plain>РњС‹ РёР· СЂР°Р±СЃС‚РІР° Р’Р°РІРёР»РѕРЅР°</plain>
         </string>
         <string>
-            <plain>навсегда ушли.</plain>
+            <plain>РЅР°РІСЃРµРіРґР° СѓС€Р»Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Песни радости с Сиона</plain>
+            <plain>РџРµСЃРЅРё СЂР°РґРѕСЃС‚Рё СЃ РЎРёРѕРЅР°</plain>
         </string>
         <string>
-            <plain>слух ласкают мне;</plain>
+            <plain>СЃР»СѓС… Р»Р°СЃРєР°СЋС‚ РјРЅРµ;</plain>
         </string>
         <string>
-            <plain>вечное блаженство</plain>
+            <plain>РІРµС‡РЅРѕРµ Р±Р»Р°Р¶РµРЅСЃС‚РІРѕ</plain>
         </string>
         <string>
-            <plain>я нашёл в Христе.</plain>
+            <plain>СЏ РЅР°С€С‘Р» РІ РҐСЂРёСЃС‚Рµ.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,129 +1,129 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="83" name="Как часто жизнью утомленный" canon="false" text="" textRus="" music="">
+<psalm number="83" name="РљР°Рє С‡Р°СЃС‚Рѕ Р¶РёР·РЅСЊСЋ СѓС‚РѕРјР»РµРЅРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Как часто жизнью утомленный,</plain>
+            <plain>РљР°Рє С‡Р°СЃС‚Рѕ Р¶РёР·РЅСЊСЋ СѓС‚РѕРјР»РµРЅРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Разбитый грозною волной,</plain>
+            <plain>Р Р°Р·Р±РёС‚С‹Р№ РіСЂРѕР·РЅРѕСЋ РІРѕР»РЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Молюсь я с верой умиленной:</plain>
+            <plain>РњРѕР»СЋСЃСЊ СЏ СЃ РІРµСЂРѕР№ СѓРјРёР»РµРЅРЅРѕР№:</plain>
         </string>
         <string>
-            <plain>О Боже мой, пошли покой!</plain>
+            <plain>Рћ Р‘РѕР¶Рµ РјРѕР№, РїРѕС€Р»Рё РїРѕРєРѕР№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пошли покой примиренья,</plain>
+            <plain>РџРѕС€Р»Рё РїРѕРєРѕР№ РїСЂРёРјРёСЂРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Пошли покой утешенья,</plain>
+            <plain>РџРѕС€Р»Рё РїРѕРєРѕР№ СѓС‚РµС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Пошли желанный покой.</plain>
+            <plain>РџРѕС€Р»Рё Р¶РµР»Р°РЅРЅС‹Р№ РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>О Боже мой, пошли покой!</plain>
+            <plain>Рћ Р‘РѕР¶Рµ РјРѕР№, РїРѕС€Р»Рё РїРѕРєРѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Скажи ветрам, пусть смолкнут бури,</plain>
+            <plain>РЎРєР°Р¶Рё РІРµС‚СЂР°Рј, РїСѓСЃС‚СЊ СЃРјРѕР»РєРЅСѓС‚ Р±СѓСЂРё,</plain>
         </string>
         <string>
-            <plain>Пролей на волны Твой елей.</plain>
+            <plain>РџСЂРѕР»РµР№ РЅР° РІРѕР»РЅС‹ РўРІРѕР№ РµР»РµР№.</plain>
         </string>
         <string>
-            <plain>Пусть луч отверстой мне лазури</plain>
+            <plain>РџСѓСЃС‚СЊ Р»СѓС‡ РѕС‚РІРµСЂСЃС‚РѕР№ РјРЅРµ Р»Р°Р·СѓСЂРё</plain>
         </string>
         <string>
-            <plain>Рассеет мрак плотских страстей.</plain>
+            <plain>Р Р°СЃСЃРµРµС‚ РјСЂР°Рє РїР»РѕС‚СЃРєРёС… СЃС‚СЂР°СЃС‚РµР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вновь оживи покой сознанья,</plain>
+            <plain>Р’РЅРѕРІСЊ РѕР¶РёРІРё РїРѕРєРѕР№ СЃРѕР·РЅР°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Что я навек спасен Тобой,</plain>
+            <plain>Р§С‚Рѕ СЏ РЅР°РІРµРє СЃРїР°СЃРµРЅ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Что и в минуту испытанья</plain>
+            <plain>Р§С‚Рѕ Рё РІ РјРёРЅСѓС‚Сѓ РёСЃРїС‹С‚Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>И в час невзгоды - Ты со мной!</plain>
+            <plain>Р РІ С‡Р°СЃ РЅРµРІР·РіРѕРґС‹ - РўС‹ СЃРѕ РјРЅРѕР№!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И Он мольбе моей внимает:</plain>
+            <plain>Р РћРЅ РјРѕР»СЊР±Рµ РјРѕРµР№ РІРЅРёРјР°РµС‚:</plain>
         </string>
         <string>
-            <plain>Дает покой душе моей</plain>
+            <plain>Р”Р°РµС‚ РїРѕРєРѕР№ РґСѓС€Рµ РјРѕРµР№</plain>
         </string>
         <string>
-            <plain>И дивной речью обещает</plain>
+            <plain>Р РґРёРІРЅРѕР№ СЂРµС‡СЊСЋ РѕР±РµС‰Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Мне дать покой еще славней.</plain>
+            <plain>РњРЅРµ РґР°С‚СЊ РїРѕРєРѕР№ РµС‰Рµ СЃР»Р°РІРЅРµР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Покой не смерти, не забвенья</plain>
+            <plain>РџРѕРєРѕР№ РЅРµ СЃРјРµСЂС‚Рё, РЅРµ Р·Р°Р±РІРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В могиле гибнущих веков,</plain>
+            <plain>Р’ РјРѕРіРёР»Рµ РіРёР±РЅСѓС‰РёС… РІРµРєРѕРІ,</plain>
         </string>
         <string>
-            <plain>Покой же жизни, воскресенья</plain>
+            <plain>РџРѕРєРѕР№ Р¶Рµ Р¶РёР·РЅРё, РІРѕСЃРєСЂРµСЃРµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В раю обновленных миров.</plain>
+            <plain>Р’ СЂР°СЋ РѕР±РЅРѕРІР»РµРЅРЅС‹С… РјРёСЂРѕРІ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Покой не мрачного застоя,</plain>
+            <plain>РџРѕРєРѕР№ РЅРµ РјСЂР°С‡РЅРѕРіРѕ Р·Р°СЃС‚РѕСЏ,</plain>
         </string>
         <string>
-            <plain>Покой в потоке вечных сил,</plain>
+            <plain>РџРѕРєРѕР№ РІ РїРѕС‚РѕРєРµ РІРµС‡РЅС‹С… СЃРёР»,</plain>
         </string>
         <string>
-            <plain>В полете ангельского строя,</plain>
+            <plain>Р’ РїРѕР»РµС‚Рµ Р°РЅРіРµР»СЊСЃРєРѕРіРѕ СЃС‚СЂРѕСЏ,</plain>
         </string>
         <string>
-            <plain>В теченье света без светил.</plain>
+            <plain>Р’ С‚РµС‡РµРЅСЊРµ СЃРІРµС‚Р° Р±РµР· СЃРІРµС‚РёР».</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Покой не одинокой клети,</plain>
+            <plain>РџРѕРєРѕР№ РЅРµ РѕРґРёРЅРѕРєРѕР№ РєР»РµС‚Рё,</plain>
         </string>
         <string>
-            <plain>Покой под звукиголосов,</plain>
+            <plain>РџРѕРєРѕР№ РїРѕРґ Р·РІСѓРєРёРіРѕР»РѕСЃРѕРІ,</plain>
         </string>
         <string>
-            <plain>Поющих Богу в вечном свете</plain>
+            <plain>РџРѕСЋС‰РёС… Р‘РѕРіСѓ РІ РІРµС‡РЅРѕРј СЃРІРµС‚Рµ</plain>
         </string>
         <string>
-            <plain>Хвалу искупленных сынов.</plain>
+            <plain>РҐРІР°Р»Сѓ РёСЃРєСѓРїР»РµРЅРЅС‹С… СЃС‹РЅРѕРІ.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Покой от зла, его дыханья</plain>
+            <plain>РџРѕРєРѕР№ РѕС‚ Р·Р»Р°, РµРіРѕ РґС‹С…Р°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В победе вечного добра,</plain>
+            <plain>Р’ РїРѕР±РµРґРµ РІРµС‡РЅРѕРіРѕ РґРѕР±СЂР°,</plain>
         </string>
         <string>
-            <plain>Покой от скорби и страданья</plain>
+            <plain>РџРѕРєРѕР№ РѕС‚ СЃРєРѕСЂР±Рё Рё СЃС‚СЂР°РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>В лучах бессмертного утра.</plain>
+            <plain>Р’ Р»СѓС‡Р°С… Р±РµСЃСЃРјРµСЂС‚РЅРѕРіРѕ СѓС‚СЂР°.</plain>
         </string>
     </verse>
 </psalm>

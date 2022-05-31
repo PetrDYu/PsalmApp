@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="483" name="У Иерусалимских гор" canon="false" text="" textRus="" music="">
+<psalm number="483" name="РЈ РРµСЂСѓСЃР°Р»РёРјСЃРєРёС… РіРѕСЂ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>У Иерусалимских гор</plain>
+            <plain>РЈ РРµСЂСѓСЃР°Р»РёРјСЃРєРёС… РіРѕСЂ</plain>
         </string>
         <string>
-            <plain>Пел Иисусу детский хор.</plain>
+            <plain>РџРµР» РРёСЃСѓСЃСѓ РґРµС‚СЃРєРёР№ С…РѕСЂ.</plain>
         </string>
         <string>
-            <plain>И теперь детей уста</plain>
+            <plain>Р С‚РµРїРµСЂСЊ РґРµС‚РµР№ СѓСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Могут петь хвалу Христа.</plain>
+            <plain>РњРѕРіСѓС‚ РїРµС‚СЊ С…РІР°Р»Сѓ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пой, пой, пой! О юный хор детей.</plain>
+            <plain>РџРѕР№, РїРѕР№, РїРѕР№! Рћ СЋРЅС‹Р№ С…РѕСЂ РґРµС‚РµР№.</plain>
         </string>
         <string>
-            <plain>Пой, пой, пой! О юный хор детей,</plain>
+            <plain>РџРѕР№, РїРѕР№, РїРѕР№! Рћ СЋРЅС‹Р№ С…РѕСЂ РґРµС‚РµР№,</plain>
         </string>
         <string>
-            <plain>И осанну, и осанну.</plain>
+            <plain>Р РѕСЃР°РЅРЅСѓ, Рё РѕСЃР°РЅРЅСѓ.</plain>
         </string>
         <string>
-            <plain>Воспевай Царю царей.</plain>
+            <plain>Р’РѕСЃРїРµРІР°Р№ Р¦Р°СЂСЋ С†Р°СЂРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Учат нас Христа любить,</plain>
+            <plain>РЈС‡Р°С‚ РЅР°СЃ РҐСЂРёСЃС‚Р° Р»СЋР±РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>По Его ученью жить</plain>
+            <plain>РџРѕ Р•РіРѕ СѓС‡РµРЅСЊСЋ Р¶РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>И ходить Его путем;</plain>
+            <plain>Р С…РѕРґРёС‚СЊ Р•РіРѕ РїСѓС‚РµРј;</plain>
         </string>
         <string>
-            <plain>Славен наш Господь во всем!</plain>
+            <plain>РЎР»Р°РІРµРЅ РЅР°С€ Р“РѕСЃРїРѕРґСЊ РІРѕ РІСЃРµРј!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Братья, матери, друзья!</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, РјР°С‚РµСЂРё, РґСЂСѓР·СЊСЏ!</plain>
         </string>
         <string>
-            <plain>Стройте дружно голоса,</plain>
+            <plain>РЎС‚СЂРѕР№С‚Рµ РґСЂСѓР¶РЅРѕ РіРѕР»РѕСЃР°,</plain>
         </string>
         <string>
-            <plain>Чтоб неслась среди житья</plain>
+            <plain>Р§С‚РѕР± РЅРµСЃР»Р°СЃСЊ СЃСЂРµРґРё Р¶РёС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>Песнь "осанны" в небеса.</plain>
+            <plain>РџРµСЃРЅСЊ "РѕСЃР°РЅРЅС‹" РІ РЅРµР±РµСЃР°.</plain>
         </string>
     </verse>
 </psalm>

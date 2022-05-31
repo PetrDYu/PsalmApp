@@ -1,108 +1,108 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="756" name="За приятный солнца свет" canon="false" text="" textRus="" music="">
+<psalm number="756" name="Р—Р° РїСЂРёСЏС‚РЅС‹Р№ СЃРѕР»РЅС†Р° СЃРІРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>За приятный солнца свет,</plain>
+            <plain>Р—Р° РїСЂРёСЏС‚РЅС‹Р№ СЃРѕР»РЅС†Р° СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>Чистый воздух, дар с небес,</plain>
+            <plain>Р§РёСЃС‚С‹Р№ РІРѕР·РґСѓС…, РґР°СЂ СЃ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>За охрану с юных лет,</plain>
+            <plain>Р—Р° РѕС…СЂР°РЅСѓ СЃ СЋРЅС‹С… Р»РµС‚,</plain>
         </string>
         <string>
-            <plain>За поля, луга и лес –</plain>
+            <plain>Р—Р° РїРѕР»СЏ, Р»СѓРіР° Рё Р»РµСЃ вЂ“</plain>
         </string>
         <string>
-            <plain>Господу хвала! Господу хвала!</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°! Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Отче, благодарим</plain>
+            <plain>РћС‚С‡Рµ, Р±Р»Р°РіРѕРґР°СЂРёРј</plain>
         </string>
         <string>
-            <plain>(Благодарим, за все благодарим).</plain>
+            <plain>(Р‘Р»Р°РіРѕРґР°СЂРёРј, Р·Р° РІСЃРµ Р±Р»Р°РіРѕРґР°СЂРёРј).</plain>
         </string>
         <string>
-            <plain>Отче, благодарим</plain>
+            <plain>РћС‚С‡Рµ, Р±Р»Р°РіРѕРґР°СЂРёРј</plain>
         </string>
         <string>
-            <plain>(Благодарим, за все благодарим).</plain>
+            <plain>(Р‘Р»Р°РіРѕРґР°СЂРёРј, Р·Р° РІСЃРµ Р±Р»Р°РіРѕРґР°СЂРёРј).</plain>
         </string>
         <string>
-            <plain>Отче Небесный, благодарим</plain>
+            <plain>РћС‚С‡Рµ РќРµР±РµСЃРЅС‹Р№, Р±Р»Р°РіРѕРґР°СЂРёРј</plain>
         </string>
         <string>
-            <plain>(Благодарим, за все благодарим, за все благодарим)!</plain>
+            <plain>(Р‘Р»Р°РіРѕРґР°СЂРёРј, Р·Р° РІСЃРµ Р±Р»Р°РіРѕРґР°СЂРёРј, Р·Р° РІСЃРµ Р±Р»Р°РіРѕРґР°СЂРёРј)!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>За друзей в часы нужды,</plain>
+            <plain>Р—Р° РґСЂСѓР·РµР№ РІ С‡Р°СЃС‹ РЅСѓР¶РґС‹,</plain>
         </string>
         <string>
-            <plain>Воду, хлеб, садов плоды;</plain>
+            <plain>Р’РѕРґСѓ, С…Р»РµР±, СЃР°РґРѕРІ РїР»РѕРґС‹;</plain>
         </string>
         <string>
-            <plain>За работу и досуг,</plain>
+            <plain>Р—Р° СЂР°Р±РѕС‚Сѓ Рё РґРѕСЃСѓРі,</plain>
         </string>
         <string>
-            <plain>Жизни цель и мир вокруг –</plain>
+            <plain>Р–РёР·РЅРё С†РµР»СЊ Рё РјРёСЂ РІРѕРєСЂСѓРі вЂ“</plain>
         </string>
         <string>
-            <plain>Господу хвала! Господу хвала!</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°! Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>За сиянье чудных звезд,</plain>
+            <plain>Р—Р° СЃРёСЏРЅСЊРµ С‡СѓРґРЅС‹С… Р·РІРµР·Рґ,</plain>
         </string>
         <string>
-            <plain>Тихий сон, уют в домах,</plain>
+            <plain>РўРёС…РёР№ СЃРѕРЅ, СѓСЋС‚ РІ РґРѕРјР°С…,</plain>
         </string>
         <string>
-            <plain>За святую книгу книг,</plain>
+            <plain>Р—Р° СЃРІСЏС‚СѓСЋ РєРЅРёРіСѓ РєРЅРёРі,</plain>
         </string>
         <string>
-            <plain>За Отчизну в небесах –</plain>
+            <plain>Р—Р° РћС‚С‡РёР·РЅСѓ РІ РЅРµР±РµСЃР°С… вЂ“</plain>
         </string>
         <string>
-            <plain>Господу хвала! Господу хвала!</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°! Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>За родителей моих,</plain>
+            <plain>Р—Р° СЂРѕРґРёС‚РµР»РµР№ РјРѕРёС…,</plain>
         </string>
         <string>
-            <plain>За любовь и верность их;</plain>
+            <plain>Р—Р° Р»СЋР±РѕРІСЊ Рё РІРµСЂРЅРѕСЃС‚СЊ РёС…;</plain>
         </string>
         <string>
-            <plain>За Спасителя Христа,</plain>
+            <plain>Р—Р° РЎРїР°СЃРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>Что открыл небес врата, -</plain>
+            <plain>Р§С‚Рѕ РѕС‚РєСЂС‹Р» РЅРµР±РµСЃ РІСЂР°С‚Р°, -</plain>
         </string>
         <string>
-            <plain>Господу хвала! Господу хвала!</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°! Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>За покоя славный день,</plain>
+            <plain>Р—Р° РїРѕРєРѕСЏ СЃР»Р°РІРЅС‹Р№ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>За любви и мира сень,</plain>
+            <plain>Р—Р° Р»СЋР±РІРё Рё РјРёСЂР° СЃРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>За Господень дом святой,</plain>
+            <plain>Р—Р° Р“РѕСЃРїРѕРґРµРЅСЊ РґРѕРј СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Где мы сходимся семьей, -</plain>
+            <plain>Р“РґРµ РјС‹ СЃС…РѕРґРёРјСЃСЏ СЃРµРјСЊРµР№, -</plain>
         </string>
         <string>
-            <plain>Господу хвала! Господу хвала!</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°! Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°!</plain>
         </string>
     </verse>
 </psalm>

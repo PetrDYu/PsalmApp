@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="587" name="Хоть не понять тебе теперь" canon="false" text="" textRus="" music="">
+<psalm number="587" name="РҐРѕС‚СЊ РЅРµ РїРѕРЅСЏС‚СЊ С‚РµР±Рµ С‚РµРїРµСЂСЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хоть не понять тебе теперь</plain>
+            <plain>РҐРѕС‚СЊ РЅРµ РїРѕРЅСЏС‚СЊ С‚РµР±Рµ С‚РµРїРµСЂСЊ</plain>
         </string>
         <string>
-            <plain>Всех слез, страданий, тесноты,</plain>
+            <plain>Р’СЃРµС… СЃР»РµР·, СЃС‚СЂР°РґР°РЅРёР№, С‚РµСЃРЅРѕС‚С‹,</plain>
         </string>
         <string>
-            <plain>Настанет жданный день, поверь,</plain>
+            <plain>РќР°СЃС‚Р°РЅРµС‚ Р¶РґР°РЅРЅС‹Р№ РґРµРЅСЊ, РїРѕРІРµСЂСЊ,</plain>
         </string>
         <string>
-            <plain>Когда вполне познаешь ты.</plain>
+            <plain>РљРѕРіРґР° РІРїРѕР»РЅРµ РїРѕР·РЅР°РµС€СЊ С‚С‹.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Хоть труден путь, темно кругом,</plain>
+            <plain>РҐРѕС‚СЊ С‚СЂСѓРґРµРЅ РїСѓС‚СЊ, С‚РµРјРЅРѕ РєСЂСѓРіРѕРј,</plain>
         </string>
         <string>
-            <plain>Поверь, Творец введет нас в дом,</plain>
+            <plain>РџРѕРІРµСЂСЊ, РўРІРѕСЂРµС† РІРІРµРґРµС‚ РЅР°СЃ РІ РґРѕРј,</plain>
         </string>
         <string>
-            <plain>В Свой дом чудес, дом красоты.</plain>
+            <plain>Р’ РЎРІРѕР№ РґРѕРј С‡СѓРґРµСЃ, РґРѕРј РєСЂР°СЃРѕС‚С‹.</plain>
         </string>
         <string>
-            <plain>И там вполне познаешь ты.</plain>
+            <plain>Р С‚Р°Рј РІРїРѕР»РЅРµ РїРѕР·РЅР°РµС€СЊ С‚С‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Там встреча будет двух друзей,</plain>
+            <plain>РўР°Рј РІСЃС‚СЂРµС‡Р° Р±СѓРґРµС‚ РґРІСѓС… РґСЂСѓР·РµР№,</plain>
         </string>
         <string>
-            <plain>Сойдутся странников пути;</plain>
+            <plain>РЎРѕР№РґСѓС‚СЃСЏ СЃС‚СЂР°РЅРЅРёРєРѕРІ РїСѓС‚Рё;</plain>
         </string>
         <string>
-            <plain>И мысли тайные людей</plain>
+            <plain>Р РјС‹СЃР»Рё С‚Р°Р№РЅС‹Рµ Р»СЋРґРµР№</plain>
         </string>
         <string>
-            <plain>Лишь там вполне познаешь ты.</plain>
+            <plain>Р›РёС€СЊ С‚Р°Рј РІРїРѕР»РЅРµ РїРѕР·РЅР°РµС€СЊ С‚С‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И если путь во тьме идет,</plain>
+            <plain>Р РµСЃР»Рё РїСѓС‚СЊ РІРѕ С‚СЊРјРµ РёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Не видишь цели впереди, -</plain>
+            <plain>РќРµ РІРёРґРёС€СЊ С†РµР»Рё РІРїРµСЂРµРґРё, -</plain>
         </string>
         <string>
-            <plain>Господь на землю вновь придет,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ РЅР° Р·РµРјР»СЋ РІРЅРѕРІСЊ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>В тот день вполне познаешь ты.</plain>
+            <plain>Р’ С‚РѕС‚ РґРµРЅСЊ РІРїРѕР»РЅРµ РїРѕР·РЅР°РµС€СЊ С‚С‹.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ты видишь, как мираж вдали</plain>
+            <plain>РўС‹ РІРёРґРёС€СЊ, РєР°Рє РјРёСЂР°Р¶ РІРґР°Р»Рё</plain>
         </string>
         <string>
-            <plain>В пустыне знойной суеты,</plain>
+            <plain>Р’ РїСѓСЃС‚С‹РЅРµ Р·РЅРѕР№РЅРѕР№ СЃСѓРµС‚С‹,</plain>
         </string>
         <string>
-            <plain>Приют для путников земли,</plain>
+            <plain>РџСЂРёСЋС‚ РґР»СЏ РїСѓС‚РЅРёРєРѕРІ Р·РµРјР»Рё,</plain>
         </string>
         <string>
-            <plain>Но там вполне познаешь ты.</plain>
+            <plain>РќРѕ С‚Р°Рј РІРїРѕР»РЅРµ РїРѕР·РЅР°РµС€СЊ С‚С‹.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Оставь сомненья, не страшись</plain>
+            <plain>РћСЃС‚Р°РІСЊ СЃРѕРјРЅРµРЅСЊСЏ, РЅРµ СЃС‚СЂР°С€РёСЃСЊ</plain>
         </string>
         <string>
-            <plain>Непониманья и тоски,</plain>
+            <plain>РќРµРїРѕРЅРёРјР°РЅСЊСЏ Рё С‚РѕСЃРєРё,</plain>
         </string>
         <string>
-            <plain>В Отцовский дом душой стремись,</plain>
+            <plain>Р’ РћС‚С†РѕРІСЃРєРёР№ РґРѕРј РґСѓС€РѕР№ СЃС‚СЂРµРјРёСЃСЊ,</plain>
         </string>
         <string>
-            <plain>В край, где вполне познаешь ты.</plain>
+            <plain>Р’ РєСЂР°Р№, РіРґРµ РІРїРѕР»РЅРµ РїРѕР·РЅР°РµС€СЊ С‚С‹.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,85 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="631" name="В вышине под небесами" canon="false" text="" textRus="" music="">
+<psalm number="631" name="Р’ РІС‹С€РёРЅРµ РїРѕРґ РЅРµР±РµСЃР°РјРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В вышине под небесами</plain>
+            <plain>Р’ РІС‹С€РёРЅРµ РїРѕРґ РЅРµР±РµСЃР°РјРё</plain>
         </string>
         <string>
-            <plain>Звонко льется пенье,</plain>
+            <plain>Р—РІРѕРЅРєРѕ Р»СЊРµС‚СЃСЏ РїРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Господу хваленье;</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»РµРЅСЊРµ;</plain>
         </string>
         <string>
-            <plain>Ангелы поют хорами</plain>
+            <plain>РђРЅРіРµР»С‹ РїРѕСЋС‚ С…РѕСЂР°РјРё</plain>
         </string>
         <string>
-            <plain>В торжествующей хвале.</plain>
+            <plain>Р’ С‚РѕСЂР¶РµСЃС‚РІСѓСЋС‰РµР№ С…РІР°Р»Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Пойте, пойте Богу славы,</plain>
+            <plain>РџРѕР№С‚Рµ, РїРѕР№С‚Рµ Р‘РѕРіСѓ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Восклицайте дружно Господу земли!</plain>
+            <plain>Р’РѕСЃРєР»РёС†Р°Р№С‚Рµ РґСЂСѓР¶РЅРѕ Р“РѕСЃРїРѕРґСѓ Р·РµРјР»Рё!</plain>
         </string>
         <string>
-            <plain>Пойте, пойте Богу славы,</plain>
+            <plain>РџРѕР№С‚Рµ, РїРѕР№С‚Рµ Р‘РѕРіСѓ СЃР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Пойте Господу земли!</plain>
+            <plain>РџРѕР№С‚Рµ Р“РѕСЃРїРѕРґСѓ Р·РµРјР»Рё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Милосердье возвещайте:</plain>
+            <plain>РњРёР»РѕСЃРµСЂРґСЊРµ РІРѕР·РІРµС‰Р°Р№С‚Рµ:</plain>
         </string>
         <string>
-            <plain>Бог наш – возлюбивший</plain>
+            <plain>Р‘РѕРі РЅР°С€ вЂ“ РІРѕР·Р»СЋР±РёРІС€РёР№</plain>
         </string>
         <string>
-            <plain>Грешников погибших.</plain>
+            <plain>Р“СЂРµС€РЅРёРєРѕРІ РїРѕРіРёР±С€РёС….</plain>
         </string>
         <string>
-            <plain>Взор к Голгофе устремляйте,</plain>
+            <plain>Р’Р·РѕСЂ Рє Р“РѕР»РіРѕС„Рµ СѓСЃС‚СЂРµРјР»СЏР№С‚Рµ,</plain>
         </string>
         <string>
-            <plain>Умер там за нас Христос.</plain>
+            <plain>РЈРјРµСЂ С‚Р°Рј Р·Р° РЅР°СЃ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Муж скорбей за нас страдает;</plain>
+            <plain>РњСѓР¶ СЃРєРѕСЂР±РµР№ Р·Р° РЅР°СЃ СЃС‚СЂР°РґР°РµС‚;</plain>
         </string>
         <string>
-            <plain>Он, в венце терновом</plain>
+            <plain>РћРЅ, РІ РІРµРЅС†Рµ С‚РµСЂРЅРѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Пред концом суровым,</plain>
+            <plain>РџСЂРµРґ РєРѕРЅС†РѕРј СЃСѓСЂРѕРІС‹Рј,</plain>
         </string>
         <string>
-            <plain>Смерть и власть греха свергает</plain>
+            <plain>РЎРјРµСЂС‚СЊ Рё РІР»Р°СЃС‚СЊ РіСЂРµС…Р° СЃРІРµСЂРіР°РµС‚</plain>
         </string>
         <string>
-            <plain>И страдальцам мир дает.</plain>
+            <plain>Р СЃС‚СЂР°РґР°Р»СЊС†Р°Рј РјРёСЂ РґР°РµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Он разрушил узы тленья</plain>
+            <plain>РћРЅ СЂР°Р·СЂСѓС€РёР» СѓР·С‹ С‚Р»РµРЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>И воскрес в день третий</plain>
+            <plain>Р РІРѕСЃРєСЂРµСЃ РІ РґРµРЅСЊ С‚СЂРµС‚РёР№</plain>
         </string>
         <string>
-            <plain>Рано на рассвете.</plain>
+            <plain>Р Р°РЅРѕ РЅР° СЂР°СЃСЃРІРµС‚Рµ.</plain>
         </string>
         <string>
-            <plain>О, воспойте песнь хваленья:</plain>
+            <plain>Рћ, РІРѕСЃРїРѕР№С‚Рµ РїРµСЃРЅСЊ С…РІР°Р»РµРЅСЊСЏ:</plain>
         </string>
         <string>
-            <plain>Подарил нам жизнь Христос.</plain>
+            <plain>РџРѕРґР°СЂРёР» РЅР°Рј Р¶РёР·РЅСЊ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
 </psalm>

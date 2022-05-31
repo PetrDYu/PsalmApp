@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="264" name="Слышите ли Божий голос" canon="false" text="" textRus="" music="">
+<psalm number="264" name="РЎР»С‹С€РёС‚Рµ Р»Рё Р‘РѕР¶РёР№ РіРѕР»РѕСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слышите ли Божий голос,</plain>
+            <plain>РЎР»С‹С€РёС‚Рµ Р»Рё Р‘РѕР¶РёР№ РіРѕР»РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Призывающий к делам?</plain>
+            <plain>РџСЂРёР·С‹РІР°СЋС‰РёР№ Рє РґРµР»Р°Рј?</plain>
         </string>
         <string>
-            <plain>Уж созрел на ниве колос,</plain>
+            <plain>РЈР¶ СЃРѕР·СЂРµР» РЅР° РЅРёРІРµ РєРѕР»РѕСЃ,</plain>
         </string>
         <string>
-            <plain>О, спешите все к трудам!</plain>
+            <plain>Рћ, СЃРїРµС€РёС‚Рµ РІСЃРµ Рє С‚СЂСѓРґР°Рј!</plain>
         </string>
         <string>
-            <plain>Кто, любовью пламенея,</plain>
+            <plain>РљС‚Рѕ, Р»СЋР±РѕРІСЊСЋ РїР»Р°РјРµРЅРµСЏ,</plain>
         </string>
         <string>
-            <plain>Примет тот могучий зов?</plain>
+            <plain>РџСЂРёРјРµС‚ С‚РѕС‚ РјРѕРіСѓС‡РёР№ Р·РѕРІ?</plain>
         </string>
         <string>
-            <plain>Кто ответит не робея:</plain>
+            <plain>РљС‚Рѕ РѕС‚РІРµС‚РёС‚ РЅРµ СЂРѕР±РµСЏ:</plain>
         </string>
         <string>
-            <plain>"Я служить, Господь, готов!"?</plain>
+            <plain>"РЇ СЃР»СѓР¶РёС‚СЊ, Р“РѕСЃРїРѕРґСЊ, РіРѕС‚РѕРІ!"?</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Есть несчастные народы,</plain>
+            <plain>Р•СЃС‚СЊ РЅРµСЃС‡Р°СЃС‚РЅС‹Рµ РЅР°СЂРѕРґС‹,</plain>
         </string>
         <string>
-            <plain>Где не ведают Христа;</plain>
+            <plain>Р“РґРµ РЅРµ РІРµРґР°СЋС‚ РҐСЂРёСЃС‚Р°;</plain>
         </string>
         <string>
-            <plain>И у нас, и в наши годы</plain>
+            <plain>Р Сѓ РЅР°СЃ, Рё РІ РЅР°С€Рё РіРѕРґС‹</plain>
         </string>
         <string>
-            <plain>Так могуча темнота;</plain>
+            <plain>РўР°Рє РјРѕРіСѓС‡Р° С‚РµРјРЅРѕС‚Р°;</plain>
         </string>
         <string>
-            <plain>И в неверии коснея,</plain>
+            <plain>Р РІ РЅРµРІРµСЂРёРё РєРѕСЃРЅРµСЏ,</plain>
         </string>
         <string>
-            <plain>Гибнет множество умов.</plain>
+            <plain>Р“РёР±РЅРµС‚ РјРЅРѕР¶РµСЃС‚РІРѕ СѓРјРѕРІ.</plain>
         </string>
         <string>
-            <plain>Кто ответит не робея:</plain>
+            <plain>РљС‚Рѕ РѕС‚РІРµС‚РёС‚ РЅРµ СЂРѕР±РµСЏ:</plain>
         </string>
         <string>
-            <plain>"Я служить, Господь, готов!"?</plain>
+            <plain>"РЇ СЃР»СѓР¶РёС‚СЊ, Р“РѕСЃРїРѕРґСЊ, РіРѕС‚РѕРІ!"?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Если голосом пророка</plain>
+            <plain>Р•СЃР»Рё РіРѕР»РѕСЃРѕРј РїСЂРѕСЂРѕРєР°</plain>
         </string>
         <string>
-            <plain>Вас Творец не одарил,</plain>
+            <plain>Р’Р°СЃ РўРІРѕСЂРµС† РЅРµ РѕРґР°СЂРёР»,</plain>
         </string>
         <string>
-            <plain>Не дал мудрости высокой,</plain>
+            <plain>РќРµ РґР°Р» РјСѓРґСЂРѕСЃС‚Рё РІС‹СЃРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Не вложил великих сил, -</plain>
+            <plain>РќРµ РІР»РѕР¶РёР» РІРµР»РёРєРёС… СЃРёР», -</plain>
         </string>
         <string>
-            <plain>И ничтожный дар имея,</plain>
+            <plain>Р РЅРёС‡С‚РѕР¶РЅС‹Р№ РґР°СЂ РёРјРµСЏ,</plain>
         </string>
         <string>
-            <plain>Вы все ж нужны для трудов.</plain>
+            <plain>Р’С‹ РІСЃРµ Р¶ РЅСѓР¶РЅС‹ РґР»СЏ С‚СЂСѓРґРѕРІ.</plain>
         </string>
         <string>
-            <plain>Кто ответит не робея:</plain>
+            <plain>РљС‚Рѕ РѕС‚РІРµС‚РёС‚ РЅРµ СЂРѕР±РµСЏ:</plain>
         </string>
         <string>
-            <plain>"Я служить, Господь, готов!"?</plain>
+            <plain>"РЇ СЃР»СѓР¶РёС‚СЊ, Р“РѕСЃРїРѕРґСЊ, РіРѕС‚РѕРІ!"?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Бог зовет к высокой цели:</plain>
+            <plain>Р‘РѕРі Р·РѕРІРµС‚ Рє РІС‹СЃРѕРєРѕР№ С†РµР»Рё:</plain>
         </string>
         <string>
-            <plain>Поработать для Него;</plain>
+            <plain>РџРѕСЂР°Р±РѕС‚Р°С‚СЊ РґР»СЏ РќРµРіРѕ;</plain>
         </string>
         <string>
-            <plain>О пойдем, чтоб нам на деле</plain>
+            <plain>Рћ РїРѕР№РґРµРј, С‡С‚РѕР± РЅР°Рј РЅР° РґРµР»Рµ</plain>
         </string>
         <string>
-            <plain>Славить Бога своего!</plain>
+            <plain>РЎР»Р°РІРёС‚СЊ Р‘РѕРіР° СЃРІРѕРµРіРѕ!</plain>
         </string>
         <string>
-            <plain>Будем ревностно трудиться</plain>
+            <plain>Р‘СѓРґРµРј СЂРµРІРЅРѕСЃС‚РЅРѕ С‚СЂСѓРґРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Здесь иль там, вблизи, вдали;</plain>
+            <plain>Р—РґРµСЃСЊ РёР»СЊ С‚Р°Рј, РІР±Р»РёР·Рё, РІРґР°Р»Рё;</plain>
         </string>
         <string>
-            <plain>Пусть же всякий вдохновится:</plain>
+            <plain>РџСѓСЃС‚СЊ Р¶Рµ РІСЃСЏРєРёР№ РІРґРѕС…РЅРѕРІРёС‚СЃСЏ:</plain>
         </string>
         <string>
-            <plain>"Я готов - меня пошли!"</plain>
+            <plain>"РЇ РіРѕС‚РѕРІ - РјРµРЅСЏ РїРѕС€Р»Рё!"</plain>
         </string>
     </verse>
 </psalm>

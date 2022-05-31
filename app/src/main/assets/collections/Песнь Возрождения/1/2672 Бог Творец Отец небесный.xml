@@ -1,89 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2672" name="Бог Творец Отец небесный" canon="false" text="" textRus="" music="">
+<psalm number="2672" name="Р‘РѕРі РўРІРѕСЂРµС† РћС‚РµС† РЅРµР±РµСЃРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог Творец, Отец небесный,</plain>
+            <plain>Р‘РѕРі РўРІРѕСЂРµС†, РћС‚РµС† РЅРµР±РµСЃРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Нам любовь являет вновь.</plain>
+            <plain>РќР°Рј Р»СЋР±РѕРІСЊ СЏРІР»СЏРµС‚ РІРЅРѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Дал и мне Он дар чудесный</plain>
+            <plain>Р”Р°Р» Рё РјРЅРµ РћРЅ РґР°СЂ С‡СѓРґРµСЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Прославлять Его любовь.</plain>
+            <plain>РџСЂРѕСЃР»Р°РІР»СЏС‚СЊ Р•РіРѕ Р»СЋР±РѕРІСЊ.</plain>
         </string>
         <string>
-            <plain>Мой Господь, Христос Спаситель,</plain>
+            <plain>РњРѕР№ Р“РѕСЃРїРѕРґСЊ, РҐСЂРёСЃС‚РѕСЃ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>От греха освободил,</plain>
+            <plain>РћС‚ РіСЂРµС…Р° РѕСЃРІРѕР±РѕРґРёР»,</plain>
         </string>
         <string>
-            <plain>Он от зла мой Избавитель,</plain>
+            <plain>РћРЅ РѕС‚ Р·Р»Р° РјРѕР№ РР·Р±Р°РІРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>К новой жизни возродил.</plain>
+            <plain>Рљ РЅРѕРІРѕР№ Р¶РёР·РЅРё РІРѕР·СЂРѕРґРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>:,:Слава Богу, аллилуйя!</plain>
+            <plain>:,:РЎР»Р°РІР° Р‘РѕРіСѓ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Дух поет мой, торжествуя.:,:</plain>
+            <plain>Р”СѓС… РїРѕРµС‚ РјРѕР№, С‚РѕСЂР¶РµСЃС‚РІСѓСЏ.:,:</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Наш Христос - добра Учитель,</plain>
+            <plain>РќР°С€ РҐСЂРёСЃС‚РѕСЃ - РґРѕР±СЂР° РЈС‡РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Он Советник, лучший Друг,</plain>
+            <plain>РћРЅ РЎРѕРІРµС‚РЅРёРє, Р»СѓС‡С€РёР№ Р”СЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Даст и нам, коль захотите,</plain>
+            <plain>Р”Р°СЃС‚ Рё РЅР°Рј, РєРѕР»СЊ Р·Р°С…РѕС‚РёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Сердце новое и дух.</plain>
+            <plain>РЎРµСЂРґС†Рµ РЅРѕРІРѕРµ Рё РґСѓС….</plain>
         </string>
         <string>
-            <plain>Хорошо любить и славить</plain>
+            <plain>РҐРѕСЂРѕС€Рѕ Р»СЋР±РёС‚СЊ Рё СЃР»Р°РІРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Нам Спасителя Христа.</plain>
+            <plain>РќР°Рј РЎРїР°СЃРёС‚РµР»СЏ РҐСЂРёСЃС‚Р°.</plain>
         </string>
         <string>
-            <plain>Он поможет и наставит,</plain>
+            <plain>РћРЅ РїРѕРјРѕР¶РµС‚ Рё РЅР°СЃС‚Р°РІРёС‚,</plain>
         </string>
         <string>
-            <plain>Будет в жизни чистота.</plain>
+            <plain>Р‘СѓРґРµС‚ РІ Р¶РёР·РЅРё С‡РёСЃС‚РѕС‚Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Без Христа не будет счастья</plain>
+            <plain>Р‘РµР· РҐСЂРёСЃС‚Р° РЅРµ Р±СѓРґРµС‚ СЃС‡Р°СЃС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>Никогда, ни в чем, нигде.</plain>
+            <plain>РќРёРєРѕРіРґР°, РЅРё РІ С‡РµРј, РЅРёРіРґРµ.</plain>
         </string>
         <string>
-            <plain>Божья милость и участье</plain>
+            <plain>Р‘РѕР¶СЊСЏ РјРёР»РѕСЃС‚СЊ Рё СѓС‡Р°СЃС‚СЊРµ</plain>
         </string>
         <string>
-            <plain>Над землею каждый день.</plain>
+            <plain>РќР°Рґ Р·РµРјР»РµСЋ РєР°Р¶РґС‹Р№ РґРµРЅСЊ.</plain>
         </string>
         <string>
-            <plain>Нет для ропота причины,</plain>
+            <plain>РќРµС‚ РґР»СЏ СЂРѕРїРѕС‚Р° РїСЂРёС‡РёРЅС‹,</plain>
         </string>
         <string>
-            <plain>Если ты к Христу пришел,</plain>
+            <plain>Р•СЃР»Рё С‚С‹ Рє РҐСЂРёСЃС‚Сѓ РїСЂРёС€РµР»,</plain>
         </string>
         <string>
-            <plain>Что бы в жизни ни случилось,</plain>
+            <plain>Р§С‚Рѕ Р±С‹ РІ Р¶РёР·РЅРё РЅРё СЃР»СѓС‡РёР»РѕСЃСЊ,</plain>
         </string>
         <string>
-            <plain>С Иисусом хорошо!</plain>
+            <plain>РЎ РРёСЃСѓСЃРѕРј С…РѕСЂРѕС€Рѕ!</plain>
         </string>
     </verse>
 </psalm>

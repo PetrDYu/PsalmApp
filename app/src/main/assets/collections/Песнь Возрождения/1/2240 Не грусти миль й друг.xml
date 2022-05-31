@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2240" name="Не грусти миль й друг" canon="false" text="" textRus="" music="">
+<psalm number="2240" name="РќРµ РіСЂСѓСЃС‚Рё РјРёР»СЊ Р№ РґСЂСѓРі" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Не грусти, миль й друг,</plain>
+            <plain>РќРµ РіСЂСѓСЃС‚Рё, РјРёР»СЊ Р№ РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Не томи свое сердце тоской,</plain>
+            <plain>РќРµ С‚РѕРјРё СЃРІРѕРµ СЃРµСЂРґС†Рµ С‚РѕСЃРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Если вдруг над тобой</plain>
+            <plain>Р•СЃР»Рё РІРґСЂСѓРі РЅР°Рґ С‚РѕР±РѕР№</plain>
         </string>
         <string>
-            <plain>Тучи черные небо закроют.</plain>
+            <plain>РўСѓС‡Рё С‡РµСЂРЅС‹Рµ РЅРµР±Рѕ Р·Р°РєСЂРѕСЋС‚.</plain>
         </string>
         <string>
-            <plain>Утри слезы с очей,</plain>
+            <plain>РЈС‚СЂРё СЃР»РµР·С‹ СЃ РѕС‡РµР№,</plain>
         </string>
         <string>
-            <plain>Если взор затуманенный твой,</plain>
+            <plain>Р•СЃР»Рё РІР·РѕСЂ Р·Р°С‚СѓРјР°РЅРµРЅРЅС‹Р№ С‚РІРѕР№,</plain>
         </string>
         <string>
-            <plain>Рядом Друг - лучший Друг,</plain>
+            <plain>Р СЏРґРѕРј Р”СЂСѓРі - Р»СѓС‡С€РёР№ Р”СЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Иисус, ведь всегда Он е тобой.</plain>
+            <plain>РРёСЃСѓСЃ, РІРµРґСЊ РІСЃРµРіРґР° РћРЅ Рµ С‚РѕР±РѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Твердо верь, ко благу все содействует,</plain>
+            <plain>РўРІРµСЂРґРѕ РІРµСЂСЊ, РєРѕ Р±Р»Р°РіСѓ РІСЃРµ СЃРѕРґРµР№СЃС‚РІСѓРµС‚,</plain>
         </string>
         <string>
-            <plain>Если любишь своего Спасителя,</plain>
+            <plain>Р•СЃР»Рё Р»СЋР±РёС€СЊ СЃРІРѕРµРіРѕ РЎРїР°СЃРёС‚РµР»СЏ,</plain>
         </string>
         <string>
-            <plain>Солнце даже из-за черных туч придет,</plain>
+            <plain>РЎРѕР»РЅС†Рµ РґР°Р¶Рµ РёР·-Р·Р° С‡РµСЂРЅС‹С… С‚СѓС‡ РїСЂРёРґРµС‚,</plain>
         </string>
         <string>
-            <plain>Если Бог его дает.</plain>
+            <plain>Р•СЃР»Рё Р‘РѕРі РµРіРѕ РґР°РµС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Не грусти, что порой</plain>
+            <plain>РќРµ РіСЂСѓСЃС‚Рё, С‡С‚Рѕ РїРѕСЂРѕР№</plain>
         </string>
         <string>
-            <plain>Изменяют земные друзья,</plain>
+            <plain>РР·РјРµРЅСЏСЋС‚ Р·РµРјРЅС‹Рµ РґСЂСѓР·СЊСЏ,</plain>
         </string>
         <string>
-            <plain>И копна вместо встреч</plain>
+            <plain>Р РєРѕРїРЅР° РІРјРµСЃС‚Рѕ РІСЃС‚СЂРµС‡</plain>
         </string>
         <string>
-            <plain>К тебе снова приходит разлука,</plain>
+            <plain>Рљ С‚РµР±Рµ СЃРЅРѕРІР° РїСЂРёС…РѕРґРёС‚ СЂР°Р·Р»СѓРєР°,</plain>
         </string>
         <string>
-            <plain>Знает Он весь твой путь,</plain>
+            <plain>Р—РЅР°РµС‚ РћРЅ РІРµСЃСЊ С‚РІРѕР№ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>И его охраняет всегда,</plain>
+            <plain>Р РµРіРѕ РѕС…СЂР°РЅСЏРµС‚ РІСЃРµРіРґР°,</plain>
         </string>
         <string>
-            <plain>Он в ненастье тебе</plain>
+            <plain>РћРЅ РІ РЅРµРЅР°СЃС‚СЊРµ С‚РµР±Рµ</plain>
         </string>
         <string>
-            <plain>Будет солнышком в небе светить.</plain>
+            <plain>Р‘СѓРґРµС‚ СЃРѕР»РЅС‹С€РєРѕРј РІ РЅРµР±Рµ СЃРІРµС‚РёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не грусти, милый друг,</plain>
+            <plain>РќРµ РіСЂСѓСЃС‚Рё, РјРёР»С‹Р№ РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Если сердце мечта не сбылась,</plain>
+            <plain>Р•СЃР»Рё СЃРµСЂРґС†Рµ РјРµС‡С‚Р° РЅРµ СЃР±С‹Р»Р°СЃСЊ,</plain>
         </string>
         <string>
-            <plain>Значит с этой мечтой</plain>
+            <plain>Р—РЅР°С‡РёС‚ СЃ СЌС‚РѕР№ РјРµС‡С‚РѕР№</plain>
         </string>
         <string>
-            <plain>В дом опасность сама постучалась.</plain>
+            <plain>Р’ РґРѕРј РѕРїР°СЃРЅРѕСЃС‚СЊ СЃР°РјР° РїРѕСЃС‚СѓС‡Р°Р»Р°СЃСЊ.</plain>
         </string>
         <string>
-            <plain>Но доверься Христу,</plain>
+            <plain>РќРѕ РґРѕРІРµСЂСЊСЃСЏ РҐСЂРёСЃС‚Сѓ,</plain>
         </string>
         <string>
-            <plain>Это он охраняет твой путь,</plain>
+            <plain>Р­С‚Рѕ РѕРЅ РѕС…СЂР°РЅСЏРµС‚ С‚РІРѕР№ РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Рядом Друг, лучший Друг,</plain>
+            <plain>Р СЏРґРѕРј Р”СЂСѓРі, Р»СѓС‡С€РёР№ Р”СЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Иисус, ведь всегда Он с тобой.</plain>
+            <plain>РРёСЃСѓСЃ, РІРµРґСЊ РІСЃРµРіРґР° РћРЅ СЃ С‚РѕР±РѕР№.</plain>
         </string>
     </verse>
 </psalm>

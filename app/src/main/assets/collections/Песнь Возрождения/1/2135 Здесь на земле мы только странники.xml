@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2135" name="Здесь на земле мы только странники" canon="false" text="" textRus="" music="">
+<psalm number="2135" name="Р—РґРµСЃСЊ РЅР° Р·РµРјР»Рµ РјС‹ С‚РѕР»СЊРєРѕ СЃС‚СЂР°РЅРЅРёРєРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Здесь на земле мы только странники</plain>
+            <plain>Р—РґРµСЃСЊ РЅР° Р·РµРјР»Рµ РјС‹ С‚РѕР»СЊРєРѕ СЃС‚СЂР°РЅРЅРёРєРё</plain>
         </string>
         <string>
-            <plain>И часто дальний путь нас ждет.</plain>
+            <plain>Р С‡Р°СЃС‚Рѕ РґР°Р»СЊРЅРёР№ РїСѓС‚СЊ РЅР°СЃ Р¶РґРµС‚.</plain>
         </string>
         <string>
-            <plain>Порою ноги от усталости болят,</plain>
+            <plain>РџРѕСЂРѕСЋ РЅРѕРіРё РѕС‚ СѓСЃС‚Р°Р»РѕСЃС‚Рё Р±РѕР»СЏС‚,</plain>
         </string>
         <string>
-            <plain>Но все же Родина нас ждет.</plain>
+            <plain>РќРѕ РІСЃРµ Р¶Рµ Р РѕРґРёРЅР° РЅР°СЃ Р¶РґРµС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Там в небесах Ангелы поют,</plain>
+            <plain>РўР°Рј РІ РЅРµР±РµСЃР°С… РђРЅРіРµР»С‹ РїРѕСЋС‚,</plain>
         </string>
         <string>
-            <plain>В чистых небесах Родина моя.</plain>
+            <plain>Р’ С‡РёСЃС‚С‹С… РЅРµР±РµСЃР°С… Р РѕРґРёРЅР° РјРѕСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Порою мы друзей встречаем,</plain>
+            <plain>РџРѕСЂРѕСЋ РјС‹ РґСЂСѓР·РµР№ РІСЃС‚СЂРµС‡Р°РµРј,</plain>
         </string>
         <string>
-            <plain>Но снова в дальний путь идем.</plain>
+            <plain>РќРѕ СЃРЅРѕРІР° РІ РґР°Р»СЊРЅРёР№ РїСѓС‚СЊ РёРґРµРј.</plain>
         </string>
         <string>
-            <plain>Увидимся у ног Христа мы вновь,</plain>
+            <plain>РЈРІРёРґРёРјСЃСЏ Сѓ РЅРѕРі РҐСЂРёСЃС‚Р° РјС‹ РІРЅРѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>Ведь в небе Родина нас ждет.</plain>
+            <plain>Р’РµРґСЊ РІ РЅРµР±Рµ Р РѕРґРёРЅР° РЅР°СЃ Р¶РґРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>В дороге дальней, дорогие друзья,</plain>
+            <plain>Р’ РґРѕСЂРѕРіРµ РґР°Р»СЊРЅРµР№, РґРѕСЂРѕРіРёРµ РґСЂСѓР·СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Вы расскажите людям всем,</plain>
+            <plain>Р’С‹ СЂР°СЃСЃРєР°Р¶РёС‚Рµ Р»СЋРґСЏРј РІСЃРµРј,</plain>
         </string>
         <string>
-            <plain>Как велика любовь Спасителя,</plain>
+            <plain>РљР°Рє РІРµР»РёРєР° Р»СЋР±РѕРІСЊ РЎРїР°СЃРёС‚РµР»СЏ,</plain>
         </string>
         <string>
-            <plain>Что в небе Родина нас ждет.</plain>
+            <plain>Р§С‚Рѕ РІ РЅРµР±Рµ Р РѕРґРёРЅР° РЅР°СЃ Р¶РґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

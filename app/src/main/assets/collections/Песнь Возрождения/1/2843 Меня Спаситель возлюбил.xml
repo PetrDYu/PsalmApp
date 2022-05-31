@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2843" name="Меня Спаситель возлюбил" canon="false" text="" textRus="" music="">
+<psalm number="2843" name="РњРµРЅСЏ РЎРїР°СЃРёС‚РµР»СЊ РІРѕР·Р»СЋР±РёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Меня Спаситель возлюбил,</plain>
+            <plain>РњРµРЅСЏ РЎРїР°СЃРёС‚РµР»СЊ РІРѕР·Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>мою вину и грех простил:</plain>
+            <plain>РјРѕСЋ РІРёРЅСѓ Рё РіСЂРµС… РїСЂРѕСЃС‚РёР»:</plain>
         </string>
         <string>
-            <plain>Он кровь пролил, позор терпя,</plain>
+            <plain>РћРЅ РєСЂРѕРІСЊ РїСЂРѕР»РёР», РїРѕР·РѕСЂ С‚РµСЂРїСЏ,</plain>
         </string>
         <string>
-            <plain>чтоб с Богом примирить меня.</plain>
+            <plain>С‡С‚РѕР± СЃ Р‘РѕРіРѕРј РїСЂРёРјРёСЂРёС‚СЊ РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Любовь - богатство для меня!</plain>
+            <plain>Р›СЋР±РѕРІСЊ - Р±РѕРіР°С‚СЃС‚РІРѕ РґР»СЏ РјРµРЅСЏ!</plain>
         </string>
         <string>
-            <plain>Искуплен кровью я Христа</plain>
+            <plain>РСЃРєСѓРїР»РµРЅ РєСЂРѕРІСЊСЋ СЏ РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>от грешных дел и суеты,</plain>
+            <plain>РѕС‚ РіСЂРµС€РЅС‹С… РґРµР» Рё СЃСѓРµС‚С‹,</plain>
         </string>
         <string>
-            <plain>и мир обрел я для души.</plain>
+            <plain>Рё РјРёСЂ РѕР±СЂРµР» СЏ РґР»СЏ РґСѓС€Рё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он чудно возлюбил меня,</plain>
+            <plain>РћРЅ С‡СѓРґРЅРѕ РІРѕР·Р»СЋР±РёР» РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>как здесь никто и никогда:</plain>
+            <plain>РєР°Рє Р·РґРµСЃСЊ РЅРёРєС‚Рѕ Рё РЅРёРєРѕРіРґР°:</plain>
         </string>
         <string>
-            <plain>венок терновый, зло кругом</plain>
+            <plain>РІРµРЅРѕРє С‚РµСЂРЅРѕРІС‹Р№, Р·Р»Рѕ РєСЂСѓРіРѕРј</plain>
         </string>
         <string>
-            <plain>любовь не угасили в Нем.</plain>
+            <plain>Р»СЋР±РѕРІСЊ РЅРµ СѓРіР°СЃРёР»Рё РІ РќРµРј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Меня Он грешным возлюбил,</plain>
+            <plain>РњРµРЅСЏ РћРЅ РіСЂРµС€РЅС‹Рј РІРѕР·Р»СЋР±РёР»,</plain>
         </string>
         <string>
-            <plain>простил грехи, усыновил.</plain>
+            <plain>РїСЂРѕСЃС‚РёР» РіСЂРµС…Рё, СѓСЃС‹РЅРѕРІРёР».</plain>
         </string>
         <string>
-            <plain>И освятил всего меня,</plain>
+            <plain>Р РѕСЃРІСЏС‚РёР» РІСЃРµРіРѕ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>чтоб жил я с Ним во все века.</plain>
+            <plain>С‡С‚РѕР± Р¶РёР» СЏ СЃ РќРёРј РІРѕ РІСЃРµ РІРµРєР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Любил и любит Он меня,</plain>
+            <plain>Р›СЋР±РёР» Рё Р»СЋР±РёС‚ РћРЅ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>благое иго - часть моя:</plain>
+            <plain>Р±Р»Р°РіРѕРµ РёРіРѕ - С‡Р°СЃС‚СЊ РјРѕСЏ:</plain>
         </string>
         <string>
-            <plain>любовь изгнала страх в душе,</plain>
+            <plain>Р»СЋР±РѕРІСЊ РёР·РіРЅР°Р»Р° СЃС‚СЂР°С… РІ РґСѓС€Рµ,</plain>
         </string>
         <string>
-            <plain>и в Нем дана победа мне.</plain>
+            <plain>Рё РІ РќРµРј РґР°РЅР° РїРѕР±РµРґР° РјРЅРµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Меня Он любит! Как мне быть,</plain>
+            <plain>РњРµРЅСЏ РћРЅ Р»СЋР±РёС‚! РљР°Рє РјРЅРµ Р±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Ему чем смог бы оплатить?</plain>
+            <plain>Р•РјСѓ С‡РµРј СЃРјРѕРі Р±С‹ РѕРїР»Р°С‚РёС‚СЊ?</plain>
         </string>
         <string>
-            <plain>Хоть я всю жизнь Его хвалю,</plain>
+            <plain>РҐРѕС‚СЊ СЏ РІСЃСЋ Р¶РёР·РЅСЊ Р•РіРѕ С…РІР°Р»СЋ,</plain>
         </string>
         <string>
-            <plain>все ж остаюсь пред Ним в долгу.</plain>
+            <plain>РІСЃРµ Р¶ РѕСЃС‚Р°СЋСЃСЊ РїСЂРµРґ РќРёРј РІ РґРѕР»РіСѓ.</plain>
         </string>
     </verse>
 </psalm>

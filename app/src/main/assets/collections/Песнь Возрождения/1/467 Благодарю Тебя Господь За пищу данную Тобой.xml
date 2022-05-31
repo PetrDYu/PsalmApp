@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="467" name="Благодарю Тебя Господь За пищу данную Тобой" canon="false" text="" textRus="" music="">
+<psalm number="467" name="Р‘Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ Р“РѕСЃРїРѕРґСЊ Р—Р° РїРёС‰Сѓ РґР°РЅРЅСѓСЋ РўРѕР±РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благодарю Тебя, Господь,</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°СЂСЋ РўРµР±СЏ, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>За пищу, данную Тобой,</plain>
+            <plain>Р—Р° РїРёС‰Сѓ, РґР°РЅРЅСѓСЋ РўРѕР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Которой Ты насытил плоть</plain>
+            <plain>РљРѕС‚РѕСЂРѕР№ РўС‹ РЅР°СЃС‹С‚РёР» РїР»РѕС‚СЊ</plain>
         </string>
         <string>
-            <plain>И укрепил дух слабый мой.</plain>
+            <plain>Р СѓРєСЂРµРїРёР» РґСѓС… СЃР»Р°Р±С‹Р№ РјРѕР№.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Пошли ж Ты мне Твой Дух Святой!</plain>
+            <plain>РџРѕС€Р»Рё Р¶ РўС‹ РјРЅРµ РўРІРѕР№ Р”СѓС… РЎРІСЏС‚РѕР№!</plain>
         </string>
         <string>
-            <plain>Дай укрепленье сердцу в Нем,</plain>
+            <plain>Р”Р°Р№ СѓРєСЂРµРїР»РµРЅСЊРµ СЃРµСЂРґС†Сѓ РІ РќРµРј,</plain>
         </string>
         <string>
-            <plain>Чтоб я ходил в стране земной</plain>
+            <plain>Р§С‚РѕР± СЏ С…РѕРґРёР» РІ СЃС‚СЂР°РЅРµ Р·РµРјРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Твоим Евангельским путем.</plain>
+            <plain>РўРІРѕРёРј Р•РІР°РЅРіРµР»СЊСЃРєРёРј РїСѓС‚РµРј.</plain>
         </string>
     </verse>
 </psalm>

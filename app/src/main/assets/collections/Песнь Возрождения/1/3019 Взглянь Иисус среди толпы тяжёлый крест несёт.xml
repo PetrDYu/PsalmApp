@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3019" name="Взглянь Иисус среди толпы тяжёлый крест несёт" canon="false" text="" textRus="" music="">
+<psalm number="3019" name="Р’Р·РіР»СЏРЅСЊ РРёСЃСѓСЃ СЃСЂРµРґРё С‚РѕР»РїС‹ С‚СЏР¶С‘Р»С‹Р№ РєСЂРµСЃС‚ РЅРµСЃС‘С‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Взглянь: Иисус среди толпы тяжёлый крест несёт;</plain>
+            <plain>Р’Р·РіР»СЏРЅСЊ: РРёСЃСѓСЃ СЃСЂРµРґРё С‚РѕР»РїС‹ С‚СЏР¶С‘Р»С‹Р№ РєСЂРµСЃС‚ РЅРµСЃС‘С‚;</plain>
         </string>
         <string>
-            <plain>смотрите, как страдает Он, терпя позор и гнёт!</plain>
+            <plain>СЃРјРѕС‚СЂРёС‚Рµ, РєР°Рє СЃС‚СЂР°РґР°РµС‚ РћРЅ, С‚РµСЂРїСЏ РїРѕР·РѕСЂ Рё РіРЅС‘С‚!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О дорогой Спаситель,</plain>
+            <plain>Рћ РґРѕСЂРѕРіРѕР№ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Ты умер на кресте!</plain>
+            <plain>РўС‹ СѓРјРµСЂ РЅР° РєСЂРµСЃС‚Рµ!</plain>
         </string>
         <string>
-            <plain>Люблю Тебя, Спаситель;</plain>
+            <plain>Р›СЋР±Р»СЋ РўРµР±СЏ, РЎРїР°СЃРёС‚РµР»СЊ;</plain>
         </string>
         <string>
-            <plain>Ты, Агнец, дорог мне!</plain>
+            <plain>РўС‹, РђРіРЅРµС†, РґРѕСЂРѕРі РјРЅРµ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как Агнец терпеливо Он нёс</plain>
+            <plain>РљР°Рє РђРіРЅРµС† С‚РµСЂРїРµР»РёРІРѕ РћРЅ РЅС‘СЃ</plain>
         </string>
         <string>
-            <plain>тяжкий крест за нас;</plain>
+            <plain>С‚СЏР¶РєРёР№ РєСЂРµСЃС‚ Р·Р° РЅР°СЃ;</plain>
         </string>
         <string>
-            <plain>хоть бременем Он удручён,</plain>
+            <plain>С…РѕС‚СЊ Р±СЂРµРјРµРЅРµРј РћРЅ СѓРґСЂСѓС‡С‘РЅ,</plain>
         </string>
         <string>
-            <plain>но мир от смерти спас.</plain>
+            <plain>РЅРѕ РјРёСЂ РѕС‚ СЃРјРµСЂС‚Рё СЃРїР°СЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он на Голгофу крест понёс</plain>
+            <plain>РћРЅ РЅР° Р“РѕР»РіРѕС„Сѓ РєСЂРµСЃС‚ РїРѕРЅС‘СЃ</plain>
         </string>
         <string>
-            <plain>и был на нём распят;</plain>
+            <plain>Рё Р±С‹Р» РЅР° РЅС‘Рј СЂР°СЃРїСЏС‚;</plain>
         </string>
         <string>
-            <plain>там чудо совершил Христос</plain>
+            <plain>С‚Р°Рј С‡СѓРґРѕ СЃРѕРІРµСЂС€РёР» РҐСЂРёСЃС‚РѕСЃ</plain>
         </string>
         <string>
-            <plain>- о, вдумайся, мой брат!</plain>
+            <plain>- Рѕ, РІРґСѓРјР°Р№СЃСЏ, РјРѕР№ Р±СЂР°С‚!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Святой Сын Божий умер там,</plain>
+            <plain>РЎРІСЏС‚РѕР№ РЎС‹РЅ Р‘РѕР¶РёР№ СѓРјРµСЂ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>и грех взял на Себя,</plain>
+            <plain>Рё РіСЂРµС… РІР·СЏР» РЅР° РЎРµР±СЏ,</plain>
         </string>
         <string>
-            <plain>чтоб доступ к небесам</plain>
+            <plain>С‡С‚РѕР± РґРѕСЃС‚СѓРї Рє РЅРµР±РµСЃР°Рј</plain>
         </string>
         <string>
-            <plain>иметь могли и ты, и я.</plain>
+            <plain>РёРјРµС‚СЊ РјРѕРіР»Рё Рё С‚С‹, Рё СЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Тебя я славлю за любовь,</plain>
+            <plain>РўРµР±СЏ СЏ СЃР»Р°РІР»СЋ Р·Р° Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>великий Муж скорбей!</plain>
+            <plain>РІРµР»РёРєРёР№ РњСѓР¶ СЃРєРѕСЂР±РµР№!</plain>
         </string>
         <string>
-            <plain>Лишь из любви пролил Ты кровь</plain>
+            <plain>Р›РёС€СЊ РёР· Р»СЋР±РІРё РїСЂРѕР»РёР» РўС‹ РєСЂРѕРІСЊ</plain>
         </string>
         <string>
-            <plain>и дал спасенье в ней.</plain>
+            <plain>Рё РґР°Р» СЃРїР°СЃРµРЅСЊРµ РІ РЅРµР№.</plain>
         </string>
     </verse>
 </psalm>

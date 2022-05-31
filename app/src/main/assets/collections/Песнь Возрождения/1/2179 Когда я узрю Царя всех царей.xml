@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2179" name="Когда я узрю Царя всех царей" canon="false" text="" textRus="" music="">
+<psalm number="2179" name="РљРѕРіРґР° СЏ СѓР·СЂСЋ Р¦Р°СЂСЏ РІСЃРµС… С†Р°СЂРµР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Когда я узрю Царя всех царей,</plain>
+            <plain>РљРѕРіРґР° СЏ СѓР·СЂСЋ Р¦Р°СЂСЏ РІСЃРµС… С†Р°СЂРµР№,</plain>
         </string>
         <string>
-            <plain>Ему поклонюсь я душою моей,</plain>
+            <plain>Р•РјСѓ РїРѕРєР»РѕРЅСЋСЃСЊ СЏ РґСѓС€РѕСЋ РјРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Ведь это наш Бог, Он в славе идёт,</plain>
+            <plain>Р’РµРґСЊ СЌС‚Рѕ РЅР°С€ Р‘РѕРі, РћРЅ РІ СЃР»Р°РІРµ РёРґС‘С‚,</plain>
         </string>
         <string>
-            <plain>Сынам Израиля Он Вечность несёт.</plain>
+            <plain>РЎС‹РЅР°Рј РР·СЂР°РёР»СЏ РћРЅ Р’РµС‡РЅРѕСЃС‚СЊ РЅРµСЃС‘С‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Гремите, трубы, на Сионе,</plain>
+            <plain>Р“СЂРµРјРёС‚Рµ, С‚СЂСѓР±С‹, РЅР° РЎРёРѕРЅРµ,</plain>
         </string>
         <string>
-            <plain>Он грядёт к нам скоро, Верный,</plain>
+            <plain>РћРЅ РіСЂСЏРґС‘С‚ Рє РЅР°Рј СЃРєРѕСЂРѕ, Р’РµСЂРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>Чудный. Гремите, трубы, на Сионе,</plain>
+            <plain>Р§СѓРґРЅС‹Р№. Р“СЂРµРјРёС‚Рµ, С‚СЂСѓР±С‹, РЅР° РЎРёРѕРЅРµ,</plain>
         </string>
         <string>
-            <plain>Вот Он грядёт.</plain>
+            <plain>Р’РѕС‚ РћРЅ РіСЂСЏРґС‘С‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Смиритесь в страхе пред Ним,</plain>
+            <plain>РЎРјРёСЂРёС‚РµСЃСЊ РІ СЃС‚СЂР°С…Рµ РїСЂРµРґ РќРёРј,</plain>
         </string>
         <string>
-            <plain>Он может жизнь обновить.</plain>
+            <plain>РћРЅ РјРѕР¶РµС‚ Р¶РёР·РЅСЊ РѕР±РЅРѕРІРёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Войдёшь ты в Иерусалим,</plain>
+            <plain>Р’РѕР№РґС‘С€СЊ С‚С‹ РІ РРµСЂСѓСЃР°Р»РёРј,</plain>
         </string>
         <string>
-            <plain>Там будешь Ему служить.</plain>
+            <plain>РўР°Рј Р±СѓРґРµС€СЊ Р•РјСѓ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

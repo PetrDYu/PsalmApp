@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2293" name="Приди и воскликни Осанна Царю" canon="false" text="" textRus="" music="">
+<psalm number="2293" name="РџСЂРёРґРё Рё РІРѕСЃРєР»РёРєРЅРё РћСЃР°РЅРЅР° Р¦Р°СЂСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Приди и воскликни: "Осанна Царю!"</plain>
+            <plain>РџСЂРёРґРё Рё РІРѕСЃРєР»РёРєРЅРё: "РћСЃР°РЅРЅР° Р¦Р°СЂСЋ!"</plain>
         </string>
         <string>
-            <plain>И Господа благослови.</plain>
+            <plain>Р Р“РѕСЃРїРѕРґР° Р±Р»Р°РіРѕСЃР»РѕРІРё.</plain>
         </string>
         <string>
-            <plain>Приди и предстань пред</plain>
+            <plain>РџСЂРёРґРё Рё РїСЂРµРґСЃС‚Р°РЅСЊ РїСЂРµРґ</plain>
         </string>
         <string>
-            <plain>Господним лицом, Возрадуйся в Боге своём.</plain>
+            <plain>Р“РѕСЃРїРѕРґРЅРёРј Р»РёС†РѕРј, Р’РѕР·СЂР°РґСѓР№СЃСЏ РІ Р‘РѕРіРµ СЃРІРѕС‘Рј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Он велик, Он Господь,</plain>
+            <plain>РћРЅ РІРµР»РёРє, РћРЅ Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>Он Царь над всею землёй.</plain>
+            <plain>РћРЅ Р¦Р°СЂСЊ РЅР°Рґ РІСЃРµСЋ Р·РµРјР»С‘Р№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Приди, поклонись, припади перед Ним,</plain>
+            <plain>РџСЂРёРґРё, РїРѕРєР»РѕРЅРёСЃСЊ, РїСЂРёРїР°РґРё РїРµСЂРµРґ РќРёРј,</plain>
         </string>
         <string>
-            <plain>Колени свои преклони.</plain>
+            <plain>РљРѕР»РµРЅРё СЃРІРѕРё РїСЂРµРєР»РѕРЅРё.</plain>
         </string>
         <string>
-            <plain>Ведь Он есть наш Бог, а мы дети Его,</plain>
+            <plain>Р’РµРґСЊ РћРЅ РµСЃС‚СЊ РЅР°С€ Р‘РѕРі, Р° РјС‹ РґРµС‚Рё Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>Послушай же гласа любви.</plain>
+            <plain>РџРѕСЃР»СѓС€Р°Р№ Р¶Рµ РіР»Р°СЃР° Р»СЋР±РІРё.</plain>
         </string>
     </verse>
 </psalm>

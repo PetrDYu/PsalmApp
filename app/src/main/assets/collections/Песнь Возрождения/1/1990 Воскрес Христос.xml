@@ -1,37 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1990" name="Воскрес Христос" canon="false" text="" textRus="" music="">
+<psalm number="1990" name="Р’РѕСЃРєСЂРµСЃ РҐСЂРёСЃС‚РѕСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Воскрес Христос...</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃ РҐСЂРёСЃС‚РѕСЃ...</plain>
         </string>
         <string>
-            <plain>Торжествует вселенная с Ним.</plain>
+            <plain>РўРѕСЂР¶РµСЃС‚РІСѓРµС‚ РІСЃРµР»РµРЅРЅР°СЏ СЃ РќРёРј.</plain>
         </string>
         <string>
-            <plain>Жив наш Господь, свершил победу.</plain>
+            <plain>Р–РёРІ РЅР°С€ Р“РѕСЃРїРѕРґСЊ, СЃРІРµСЂС€РёР» РїРѕР±РµРґСѓ.</plain>
         </string>
         <string>
-            <plain>Тебе, Спасителю, Богу нашему,</plain>
+            <plain>РўРµР±Рµ, РЎРїР°СЃРёС‚РµР»СЋ, Р‘РѕРіСѓ РЅР°С€РµРјСѓ,</plain>
         </string>
         <string>
-            <plain>возносим славу и хваленье,</plain>
+            <plain>РІРѕР·РЅРѕСЃРёРј СЃР»Р°РІСѓ Рё С…РІР°Р»РµРЅСЊРµ,</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Ибо жив Ты! Ты воскрес для нас во славе.</plain>
+            <plain>РР±Рѕ Р¶РёРІ РўС‹! РўС‹ РІРѕСЃРєСЂРµСЃ РґР»СЏ РЅР°СЃ РІРѕ СЃР»Р°РІРµ.</plain>
         </string>
         <string>
-            <plain>Избавленье вечное принес для нас</plain>
+            <plain>РР·Р±Р°РІР»РµРЅСЊРµ РІРµС‡РЅРѕРµ РїСЂРёРЅРµСЃ РґР»СЏ РЅР°СЃ</plain>
         </string>
         <string>
-            <plain>Ты, наш Спаситель навеки.</plain>
+            <plain>РўС‹, РЅР°С€ РЎРїР°СЃРёС‚РµР»СЊ РЅР°РІРµРєРё.</plain>
         </string>
         <string>
-            <plain>Ты наша жизнь,</plain>
+            <plain>РўС‹ РЅР°С€Р° Р¶РёР·РЅСЊ,</plain>
         </string>
         <string>
-            <plain>Ты дал нам спасенья радость.</plain>
+            <plain>РўС‹ РґР°Р» РЅР°Рј СЃРїР°СЃРµРЅСЊСЏ СЂР°РґРѕСЃС‚СЊ.</plain>
         </string>
     </verse>
 </psalm>

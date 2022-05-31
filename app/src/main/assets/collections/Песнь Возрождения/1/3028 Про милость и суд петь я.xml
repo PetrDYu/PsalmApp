@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3028" name="Про милость и суд петь я" canon="false" text="" textRus="" music="">
+<psalm number="3028" name="РџСЂРѕ РјРёР»РѕСЃС‚СЊ Рё СЃСѓРґ РїРµС‚СЊ СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Про милость и суд петь я</plain>
+            <plain>РџСЂРѕ РјРёР»РѕСЃС‚СЊ Рё СЃСѓРґ РїРµС‚СЊ СЏ</plain>
         </string>
         <string>
-            <plain>буду и Господа благодарить;</plain>
+            <plain>Р±СѓРґСѓ Рё Р“РѕСЃРїРѕРґР° Р±Р»Р°РіРѕРґР°СЂРёС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Хвалить Иисуса хочу я</plain>
+            <plain>РҐРІР°Р»РёС‚СЊ РРёСЃСѓСЃР° С…РѕС‡Сѓ СЏ</plain>
         </string>
         <string>
-            <plain>за все, что во мне Он творит!</plain>
+            <plain>Р·Р° РІСЃРµ, С‡С‚Рѕ РІРѕ РјРЅРµ РћРЅ С‚РІРѕСЂРёС‚!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я славу Христу от сердца</plain>
+            <plain>РЇ СЃР»Р°РІСѓ РҐСЂРёСЃС‚Сѓ РѕС‚ СЃРµСЂРґС†Р°</plain>
         </string>
         <string>
-            <plain>пою за верность Его,</plain>
+            <plain>РїРѕСЋ Р·Р° РІРµСЂРЅРѕСЃС‚СЊ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>что я получил от Него!</plain>
+            <plain>С‡С‚Рѕ СЏ РїРѕР»СѓС‡РёР» РѕС‚ РќРµРіРѕ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я славлю Его за спасенье,</plain>
+            <plain>РЇ СЃР»Р°РІР»СЋ Р•РіРѕ Р·Р° СЃРїР°СЃРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>за то, что меня Он нашел;</plain>
+            <plain>Р·Р° С‚Рѕ, С‡С‚Рѕ РјРµРЅСЏ РћРЅ РЅР°С€РµР»;</plain>
         </string>
         <string>
-            <plain>простил все мои согрешенья,</plain>
+            <plain>РїСЂРѕСЃС‚РёР» РІСЃРµ РјРѕРё СЃРѕРіСЂРµС€РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>на путь благодати привел.</plain>
+            <plain>РЅР° РїСѓС‚СЊ Р±Р»Р°РіРѕРґР°С‚Рё РїСЂРёРІРµР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>За Библию Бога я славлю,</plain>
+            <plain>Р—Р° Р‘РёР±Р»РёСЋ Р‘РѕРіР° СЏ СЃР»Р°РІР»СЋ,</plain>
         </string>
         <string>
-            <plain>за Слово с небесных высот;</plain>
+            <plain>Р·Р° РЎР»РѕРІРѕ СЃ РЅРµР±РµСЃРЅС‹С… РІС‹СЃРѕС‚;</plain>
         </string>
         <string>
-            <plain>что учит от зла удаляться</plain>
+            <plain>С‡С‚Рѕ СѓС‡РёС‚ РѕС‚ Р·Р»Р° СѓРґР°Р»СЏС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>и к цели небесной ведет.</plain>
+            <plain>Рё Рє С†РµР»Рё РЅРµР±РµСЃРЅРѕР№ РІРµРґРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Хоть бури нередко бушуют</plain>
+            <plain>РҐРѕС‚СЊ Р±СѓСЂРё РЅРµСЂРµРґРєРѕ Р±СѓС€СѓСЋС‚</plain>
         </string>
         <string>
-            <plain>и дьявол подходит ко мне,</plain>
+            <plain>Рё РґСЊСЏРІРѕР» РїРѕРґС…РѕРґРёС‚ РєРѕ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>на небо я с верой взираю,</plain>
+            <plain>РЅР° РЅРµР±Рѕ СЏ СЃ РІРµСЂРѕР№ РІР·РёСЂР°СЋ,</plain>
         </string>
         <string>
-            <plain>и Бог дает помощь в борьбе.</plain>
+            <plain>Рё Р‘РѕРі РґР°РµС‚ РїРѕРјРѕС‰СЊ РІ Р±РѕСЂСЊР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

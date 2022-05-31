@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="996" name="Почему об одном я пою" canon="false" text="" textRus="" music="">
+<psalm number="996" name="РџРѕС‡РµРјСѓ РѕР± РѕРґРЅРѕРј СЏ РїРѕСЋ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Почему об одном я пою</plain>
+            <plain>РџРѕС‡РµРјСѓ РѕР± РѕРґРЅРѕРј СЏ РїРѕСЋ</plain>
         </string>
         <string>
-            <plain>И всегда об одном говорю</plain>
+            <plain>Р РІСЃРµРіРґР° РѕР± РѕРґРЅРѕРј РіРѕРІРѕСЂСЋ</plain>
         </string>
         <string>
-            <plain>- Об Иисусе Христе дорогом.</plain>
+            <plain>- РћР± РРёСЃСѓСЃРµ РҐСЂРёСЃС‚Рµ РґРѕСЂРѕРіРѕРј.</plain>
         </string>
         <string>
-            <plain>Искупителе дивном моем?</plain>
+            <plain>РСЃРєСѓРїРёС‚РµР»Рµ РґРёРІРЅРѕРј РјРѕРµРј?</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Потому что Он Кровью Своей</plain>
+            <plain>РџРѕС‚РѕРјСѓ С‡С‚Рѕ РћРЅ РљСЂРѕРІСЊСЋ РЎРІРѕРµР№</plain>
         </string>
         <string>
-            <plain>Грех ужасный с души моей смыл.</plain>
+            <plain>Р“СЂРµС… СѓР¶Р°СЃРЅС‹Р№ СЃ РґСѓС€Рё РјРѕРµР№ СЃРјС‹Р».</plain>
         </string>
         <string>
-            <plain>Добровольно Он отдал Себя</plain>
+            <plain>Р”РѕР±СЂРѕРІРѕР»СЊРЅРѕ РћРЅ РѕС‚РґР°Р» РЎРµР±СЏ</plain>
         </string>
         <string>
-            <plain>И до смерти меня возлюбил.</plain>
+            <plain>Р РґРѕ СЃРјРµСЂС‚Рё РјРµРЅСЏ РІРѕР·Р»СЋР±РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Почему я всем сердцем, душой</plain>
+            <plain>РџРѕС‡РµРјСѓ СЏ РІСЃРµРј СЃРµСЂРґС†РµРј, РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>Непрестанно стремлюся к тому,</plain>
+            <plain>РќРµРїСЂРµСЃС‚Р°РЅРЅРѕ СЃС‚СЂРµРјР»СЋСЃСЏ Рє С‚РѕРјСѓ,</plain>
         </string>
         <string>
-            <plain>Чтоб всегда, даже ночью и днем.</plain>
+            <plain>Р§С‚РѕР± РІСЃРµРіРґР°, РґР°Р¶Рµ РЅРѕС‡СЊСЋ Рё РґРЅРµРј.</plain>
         </string>
         <string>
-            <plain>Приносить Ему в жертву хвалу?</plain>
+            <plain>РџСЂРёРЅРѕСЃРёС‚СЊ Р•РјСѓ РІ Р¶РµСЂС‚РІСѓ С…РІР°Р»Сѓ?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Потому что Он к жизни святой</plain>
+            <plain>РџРѕС‚РѕРјСѓ С‡С‚Рѕ РћРЅ Рє Р¶РёР·РЅРё СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Воскресил слабый, мертвый дух мой</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃРёР» СЃР»Р°Р±С‹Р№, РјРµСЂС‚РІС‹Р№ РґСѓС… РјРѕР№</plain>
         </string>
         <string>
-            <plain>И в разбитое сердце мое</plain>
+            <plain>Р РІ СЂР°Р·Р±РёС‚РѕРµ СЃРµСЂРґС†Рµ РјРѕРµ</plain>
         </string>
         <string>
-            <plain>Влил целительный, сладкий покой.</plain>
+            <plain>Р’Р»РёР» С†РµР»РёС‚РµР»СЊРЅС‹Р№, СЃР»Р°РґРєРёР№ РїРѕРєРѕР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Это имя святое - Иисус -</plain>
+            <plain>Р­С‚Рѕ РёРјСЏ СЃРІСЏС‚РѕРµ - РРёСЃСѓСЃ -</plain>
         </string>
         <string>
-            <plain>Всех дороже на свете имен.</plain>
+            <plain>Р’СЃРµС… РґРѕСЂРѕР¶Рµ РЅР° СЃРІРµС‚Рµ РёРјРµРЅ.</plain>
         </string>
         <string>
-            <plain>И другого нигде не найдешь -</plain>
+            <plain>Р РґСЂСѓРіРѕРіРѕ РЅРёРіРґРµ РЅРµ РЅР°Р№РґРµС€СЊ -</plain>
         </string>
         <string>
-            <plain>Ни вверху, ни внизу, под землей.</plain>
+            <plain>РќРё РІРІРµСЂС…Сѓ, РЅРё РІРЅРёР·Сѓ, РїРѕРґ Р·РµРјР»РµР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Вот зачем об одном я пою</plain>
+            <plain>Р’РѕС‚ Р·Р°С‡РµРј РѕР± РѕРґРЅРѕРј СЏ РїРѕСЋ</plain>
         </string>
         <string>
-            <plain>И об имени этом твержу,</plain>
+            <plain>Р РѕР± РёРјРµРЅРё СЌС‚РѕРј С‚РІРµСЂР¶Сѓ,</plain>
         </string>
         <string>
-            <plain>Что другого такого, как</plain>
+            <plain>Р§С‚Рѕ РґСЂСѓРіРѕРіРѕ С‚Р°РєРѕРіРѕ, РєР°Рє</plain>
         </string>
         <string>
-            <plain>Он, Я подобного не нахожу.</plain>
+            <plain>РћРЅ, РЇ РїРѕРґРѕР±РЅРѕРіРѕ РЅРµ РЅР°С…РѕР¶Сѓ.</plain>
         </string>
     </verse>
 </psalm>

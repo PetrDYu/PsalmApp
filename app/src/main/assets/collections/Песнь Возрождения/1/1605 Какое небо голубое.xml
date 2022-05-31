@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1605" name="Какое небо голубое" canon="false" text="" textRus="" music="">
+<psalm number="1605" name="РљР°РєРѕРµ РЅРµР±Рѕ РіРѕР»СѓР±РѕРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Какое небо голубое.</plain>
+            <plain>РљР°РєРѕРµ РЅРµР±Рѕ РіРѕР»СѓР±РѕРµ.</plain>
         </string>
         <string>
-            <plain>Какая чистая вода!</plain>
+            <plain>РљР°РєР°СЏ С‡РёСЃС‚Р°СЏ РІРѕРґР°!</plain>
         </string>
         <string>
-            <plain>Как хорошо с Тобою,</plain>
+            <plain>РљР°Рє С…РѕСЂРѕС€Рѕ СЃ РўРѕР±РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Боже, В часы досуга и труда.</plain>
+            <plain>Р‘РѕР¶Рµ, Р’ С‡Р°СЃС‹ РґРѕСЃСѓРіР° Рё С‚СЂСѓРґР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>С Тобою горе - как не горе,</plain>
+            <plain>РЎ РўРѕР±РѕСЋ РіРѕСЂРµ - РєР°Рє РЅРµ РіРѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>С Тобой потеря - не урон;</plain>
+            <plain>РЎ РўРѕР±РѕР№ РїРѕС‚РµСЂСЏ - РЅРµ СѓСЂРѕРЅ;</plain>
         </string>
         <string>
-            <plain>Ты возместишь утрату вскоре</plain>
+            <plain>РўС‹ РІРѕР·РјРµСЃС‚РёС€СЊ СѓС‚СЂР°С‚Сѓ РІСЃРєРѕСЂРµ</plain>
         </string>
         <string>
-            <plain>И радость возведешь на трон.</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊ РІРѕР·РІРµРґРµС€СЊ РЅР° С‚СЂРѕРЅ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Отвергнут люди - Ты пригреешь,</plain>
+            <plain>РћС‚РІРµСЂРіРЅСѓС‚ Р»СЋРґРё - РўС‹ РїСЂРёРіСЂРµРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Осудят - оправдаешь Ты;</plain>
+            <plain>РћСЃСѓРґСЏС‚ - РѕРїСЂР°РІРґР°РµС€СЊ РўС‹;</plain>
         </string>
         <string>
-            <plain>Бескрайней милостью согреешь,</plain>
+            <plain>Р‘РµСЃРєСЂР°Р№РЅРµР№ РјРёР»РѕСЃС‚СЊСЋ СЃРѕРіСЂРµРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>Творец небесной красоты.</plain>
+            <plain>РўРІРѕСЂРµС† РЅРµР±РµСЃРЅРѕР№ РєСЂР°СЃРѕС‚С‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Земное время - как прохожий,</plain>
+            <plain>Р—РµРјРЅРѕРµ РІСЂРµРјСЏ - РєР°Рє РїСЂРѕС…РѕР¶РёР№,</plain>
         </string>
         <string>
-            <plain>Ты - стража верная моя.</plain>
+            <plain>РўС‹ - СЃС‚СЂР°Р¶Р° РІРµСЂРЅР°СЏ РјРѕСЏ.</plain>
         </string>
         <string>
-            <plain>Как хорошо с Тобою, Боже,</plain>
+            <plain>РљР°Рє С…РѕСЂРѕС€Рѕ СЃ РўРѕР±РѕСЋ, Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>В часы земного бытия!</plain>
+            <plain>Р’ С‡Р°СЃС‹ Р·РµРјРЅРѕРіРѕ Р±С‹С‚РёСЏ!</plain>
         </string>
     </verse>
 </psalm>

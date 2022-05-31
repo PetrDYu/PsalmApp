@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="821" name="Лишь одно у меня стремленье" canon="false" text="" textRus="" music="">
+<psalm number="821" name="Р›РёС€СЊ РѕРґРЅРѕ Сѓ РјРµРЅСЏ СЃС‚СЂРµРјР»РµРЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Лишь одно у меня стремленье:</plain>
+            <plain>Р›РёС€СЊ РѕРґРЅРѕ Сѓ РјРµРЅСЏ СЃС‚СЂРµРјР»РµРЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>Больше, Боже, Тебя любить,</plain>
+            <plain>Р‘РѕР»СЊС€Рµ, Р‘РѕР¶Рµ, РўРµР±СЏ Р»СЋР±РёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Пред Тобою ходить в смиренье,</plain>
+            <plain>РџСЂРµРґ РўРѕР±РѕСЋ С…РѕРґРёС‚СЊ РІ СЃРјРёСЂРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Твое славное имя чтить.</plain>
+            <plain>РўРІРѕРµ СЃР»Р°РІРЅРѕРµ РёРјСЏ С‡С‚РёС‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Лишь Одно, мой Господь,-</plain>
+            <plain>Р›РёС€СЊ РћРґРЅРѕ, РјРѕР№ Р“РѕСЃРїРѕРґСЊ,-</plain>
         </string>
         <string>
-            <plain>Жить с Тобой, для Тебя;</plain>
+            <plain>Р–РёС‚СЊ СЃ РўРѕР±РѕР№, РґР»СЏ РўРµР±СЏ;</plain>
         </string>
         <string>
-            <plain>Лишь одно у меня –</plain>
+            <plain>Р›РёС€СЊ РѕРґРЅРѕ Сѓ РјРµРЅСЏ вЂ“</plain>
         </string>
         <string>
-            <plain>Умереть на земле за Тебя!</plain>
+            <plain>РЈРјРµСЂРµС‚СЊ РЅР° Р·РµРјР»Рµ Р·Р° РўРµР±СЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Лишь одно у меня стремленье:</plain>
+            <plain>Р›РёС€СЊ РѕРґРЅРѕ Сѓ РјРµРЅСЏ СЃС‚СЂРµРјР»РµРЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>Всей душою Тебя познать,</plain>
+            <plain>Р’СЃРµР№ РґСѓС€РѕСЋ РўРµР±СЏ РїРѕР·РЅР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб Твое на кресте мученье</plain>
+            <plain>Р§С‚РѕР± РўРІРѕРµ РЅР° РєСЂРµСЃС‚Рµ РјСѓС‡РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Мне во всей полноте понять.</plain>
+            <plain>РњРЅРµ РІРѕ РІСЃРµР№ РїРѕР»РЅРѕС‚Рµ РїРѕРЅСЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Лишь одно у меня стремленье:</plain>
+            <plain>Р›РёС€СЊ РѕРґРЅРѕ Сѓ РјРµРЅСЏ СЃС‚СЂРµРјР»РµРЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>Возвещать о Тебе, мой Бог,</plain>
+            <plain>Р’РѕР·РІРµС‰Р°С‚СЊ Рѕ РўРµР±Рµ, РјРѕР№ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Бедным душам, кто в рабстве тленья,</plain>
+            <plain>Р‘РµРґРЅС‹Рј РґСѓС€Р°Рј, РєС‚Рѕ РІ СЂР°Р±СЃС‚РІРµ С‚Р»РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Чтоб и их оживить Ты мог.</plain>
+            <plain>Р§С‚РѕР± Рё РёС… РѕР¶РёРІРёС‚СЊ РўС‹ РјРѕРі.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Лишь одно у меня стремленье:</plain>
+            <plain>Р›РёС€СЊ РѕРґРЅРѕ Сѓ РјРµРЅСЏ СЃС‚СЂРµРјР»РµРЅСЊРµ:</plain>
         </string>
         <string>
-            <plain>За Тобою везде идти;</plain>
+            <plain>Р—Р° РўРѕР±РѕСЋ РІРµР·РґРµ РёРґС‚Рё;</plain>
         </string>
         <string>
-            <plain>Пусть меня окружает презренье,</plain>
+            <plain>РџСѓСЃС‚СЊ РјРµРЅСЏ РѕРєСЂСѓР¶Р°РµС‚ РїСЂРµР·СЂРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Но я знаю: Ты помощь в пути.</plain>
+            <plain>РќРѕ СЏ Р·РЅР°СЋ: РўС‹ РїРѕРјРѕС‰СЊ РІ РїСѓС‚Рё.</plain>
         </string>
     </verse>
 </psalm>

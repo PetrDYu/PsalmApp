@@ -1,79 +1,79 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="550" name="Стою у Иордана я" canon="false" text="" textRus="" music="">
+<psalm number="550" name="РЎС‚РѕСЋ Сѓ РРѕСЂРґР°РЅР° СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Стою у Иордана я</plain>
+            <plain>РЎС‚РѕСЋ Сѓ РРѕСЂРґР°РЅР° СЏ</plain>
         </string>
         <string>
-            <plain>И вижу чрез струи</plain>
+            <plain>Р РІРёР¶Сѓ С‡СЂРµР· СЃС‚СЂСѓРё</plain>
         </string>
         <string>
-            <plain>Я ханаанские края,</plain>
+            <plain>РЇ С…Р°РЅР°Р°РЅСЃРєРёРµ РєСЂР°СЏ,</plain>
         </string>
         <string>
-            <plain>Где думы все мои.</plain>
+            <plain>Р“РґРµ РґСѓРјС‹ РІСЃРµ РјРѕРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Отдохнем мы, друзья, в краю родном.</plain>
+            <plain>РћС‚РґРѕС…РЅРµРј РјС‹, РґСЂСѓР·СЊСЏ, РІ РєСЂР°СЋ СЂРѕРґРЅРѕРј.</plain>
         </string>
         <string>
-            <plain>Близок час!</plain>
+            <plain>Р‘Р»РёР·РѕРє С‡Р°СЃ!</plain>
         </string>
         <string>
-            <plain>В свете берега, где нет зимы,</plain>
+            <plain>Р’ СЃРІРµС‚Рµ Р±РµСЂРµРіР°, РіРґРµ РЅРµС‚ Р·РёРјС‹,</plain>
         </string>
         <string>
-            <plain>Песню Моисея воспоем.</plain>
+            <plain>РџРµСЃРЅСЋ РњРѕРёСЃРµСЏ РІРѕСЃРїРѕРµРј.</plain>
         </string>
         <string>
-            <plain>Близок час!</plain>
+            <plain>Р‘Р»РёР·РѕРє С‡Р°СЃ!</plain>
         </string>
         <string>
-            <plain>С Иисусом вечно будем мы.</plain>
+            <plain>РЎ РРёСЃСѓСЃРѕРј РІРµС‡РЅРѕ Р±СѓРґРµРј РјС‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Через поля вдали горит</plain>
+            <plain>Р§РµСЂРµР· РїРѕР»СЏ РІРґР°Р»Рё РіРѕСЂРёС‚</plain>
         </string>
         <string>
-            <plain>Прекрасный вечный день;</plain>
+            <plain>РџСЂРµРєСЂР°СЃРЅС‹Р№ РІРµС‡РЅС‹Р№ РґРµРЅСЊ;</plain>
         </string>
         <string>
-            <plain>Там Божий Сын в любви царит,</plain>
+            <plain>РўР°Рј Р‘РѕР¶РёР№ РЎС‹РЅ РІ Р»СЋР±РІРё С†Р°СЂРёС‚,</plain>
         </string>
         <string>
-            <plain>Рассеяв ночи тень.</plain>
+            <plain>Р Р°СЃСЃРµСЏРІ РЅРѕС‡Рё С‚РµРЅСЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда смогу в тот край войти,</plain>
+            <plain>РљРѕРіРґР° СЃРјРѕРіСѓ РІ С‚РѕС‚ РєСЂР°Р№ РІРѕР№С‚Рё,</plain>
         </string>
         <string>
-            <plain>Чтоб просветлеть душой?</plain>
+            <plain>Р§С‚РѕР± РїСЂРѕСЃРІРµС‚Р»РµС‚СЊ РґСѓС€РѕР№?</plain>
         </string>
         <string>
-            <plain>Когда увижу лик святой</plain>
+            <plain>РљРѕРіРґР° СѓРІРёР¶Сѓ Р»РёРє СЃРІСЏС‚РѕР№</plain>
         </string>
         <string>
-            <plain>Отца, чтоб мир найти?</plain>
+            <plain>РћС‚С†Р°, С‡С‚РѕР± РјРёСЂ РЅР°Р№С‚Рё?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я, чистою надеждой полн,</plain>
+            <plain>РЇ, С‡РёСЃС‚РѕСЋ РЅР°РґРµР¶РґРѕР№ РїРѕР»РЅ,</plain>
         </string>
         <string>
-            <plain>Готов бежать отсель;</plain>
+            <plain>Р“РѕС‚РѕРІ Р±РµР¶Р°С‚СЊ РѕС‚СЃРµР»СЊ;</plain>
         </string>
         <string>
-            <plain>Хоть страшен гул шумящих волн,</plain>
+            <plain>РҐРѕС‚СЊ СЃС‚СЂР°С€РµРЅ РіСѓР» С€СѓРјСЏС‰РёС… РІРѕР»РЅ,</plain>
         </string>
         <string>
-            <plain>Хочу достичь я цель.</plain>
+            <plain>РҐРѕС‡Сѓ РґРѕСЃС‚РёС‡СЊ СЏ С†РµР»СЊ.</plain>
         </string>
     </verse>
 </psalm>

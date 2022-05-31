@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2380" name="Хвалу небесному Отцу" canon="false" text="" textRus="" music="">
+<psalm number="2380" name="РҐРІР°Р»Сѓ РЅРµР±РµСЃРЅРѕРјСѓ РћС‚С†Сѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хвалу небесному Отцу</plain>
+            <plain>РҐРІР°Р»Сѓ РЅРµР±РµСЃРЅРѕРјСѓ РћС‚С†Сѓ</plain>
         </string>
         <string>
-            <plain>Спешите вознести,</plain>
+            <plain>РЎРїРµС€РёС‚Рµ РІРѕР·РЅРµСЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>На землю Сына Он послал,</plain>
+            <plain>РќР° Р·РµРјР»СЋ РЎС‹РЅР° РћРЅ РїРѕСЃР»Р°Р»,</plain>
         </string>
         <string>
-            <plain>Чтоб грешников спасти.</plain>
+            <plain>Р§С‚РѕР± РіСЂРµС€РЅРёРєРѕРІ СЃРїР°СЃС‚Рё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Будь благословен!</plain>
+            <plain>Р‘СѓРґСЊ Р±Р»Р°РіРѕСЃР»РѕРІРµРЅ!</plain>
         </string>
         <string>
-            <plain>Будь благословен!</plain>
+            <plain>Р‘СѓРґСЊ Р±Р»Р°РіРѕСЃР»РѕРІРµРЅ!</plain>
         </string>
         <string>
-            <plain>Будь благословен наш Господь (2 раза).</plain>
+            <plain>Р‘СѓРґСЊ Р±Р»Р°РіРѕСЃР»РѕРІРµРЅ РЅР°С€ Р“РѕСЃРїРѕРґСЊ (2 СЂР°Р·Р°).</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Он выше всех превознесён,</plain>
+            <plain>РћРЅ РІС‹С€Рµ РІСЃРµС… РїСЂРµРІРѕР·РЅРµСЃС‘РЅ,</plain>
         </string>
         <string>
-            <plain>С Отцом на троне,</plain>
+            <plain>РЎ РћС‚С†РѕРј РЅР° С‚СЂРѕРЅРµ,</plain>
         </string>
         <string>
-            <plain>Он Небесный хор поёт хвалу</plain>
+            <plain>РћРЅ РќРµР±РµСЃРЅС‹Р№ С…РѕСЂ РїРѕС‘С‚ С…РІР°Р»Сѓ</plain>
         </string>
         <string>
-            <plain>Воскресшему Христу.</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃС€РµРјСѓ РҐСЂРёСЃС‚Сѓ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Христос - Спаситель, верный друг</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ - РЎРїР°СЃРёС‚РµР»СЊ, РІРµСЂРЅС‹Р№ РґСЂСѓРі</plain>
         </string>
         <string>
-            <plain>Страдающих люцей</plain>
+            <plain>РЎС‚СЂР°РґР°СЋС‰РёС… Р»СЋС†РµР№</plain>
         </string>
         <string>
-            <plain>- Терпел позор и много мук</plain>
+            <plain>- РўРµСЂРїРµР» РїРѕР·РѕСЂ Рё РјРЅРѕРіРѕ РјСѓРє</plain>
         </string>
         <string>
-            <plain>За всех, в любви своей.</plain>
+            <plain>Р—Р° РІСЃРµС…, РІ Р»СЋР±РІРё СЃРІРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Советник, Чудный, Мира Князь,</plain>
+            <plain>РЎРѕРІРµС‚РЅРёРє, Р§СѓРґРЅС‹Р№, РњРёСЂР° РљРЅСЏР·СЊ,</plain>
         </string>
         <string>
-            <plain>Владыка всех владык,</plain>
+            <plain>Р’Р»Р°РґС‹РєР° РІСЃРµС… РІР»Р°РґС‹Рє,</plain>
         </string>
         <string>
-            <plain>Придёт опять в нежданный час</plain>
+            <plain>РџСЂРёРґС‘С‚ РѕРїСЏС‚СЊ РІ РЅРµР¶РґР°РЅРЅС‹Р№ С‡Р°СЃ</plain>
         </string>
         <string>
-            <plain>- И будет Он велик!</plain>
+            <plain>- Р Р±СѓРґРµС‚ РћРЅ РІРµР»РёРє!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2500" name="Верить надеяться любить" canon="false" text="" textRus="" music="">
+<psalm number="2500" name="Р’РµСЂРёС‚СЊ РЅР°РґРµСЏС‚СЊСЃСЏ Р»СЋР±РёС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Верить, надеяться, любить</plain>
+            <plain>Р’РµСЂРёС‚СЊ, РЅР°РґРµСЏС‚СЊСЃСЏ, Р»СЋР±РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>- больше в этой жизни ничего не надо.</plain>
+            <plain>- Р±РѕР»СЊС€Рµ РІ СЌС‚РѕР№ Р¶РёР·РЅРё РЅРёС‡РµРіРѕ РЅРµ РЅР°РґРѕ.</plain>
         </string>
         <string>
-            <plain>Верить, надеяться, любить</plain>
+            <plain>Р’РµСЂРёС‚СЊ, РЅР°РґРµСЏС‚СЊСЃСЏ, Р»СЋР±РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>- самая большая радость.</plain>
+            <plain>- СЃР°РјР°СЏ Р±РѕР»СЊС€Р°СЏ СЂР°РґРѕСЃС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Иисус понимает все</plain>
+            <plain>РРёСЃСѓСЃ РїРѕРЅРёРјР°РµС‚ РІСЃРµ</plain>
         </string>
         <string>
-            <plain>- трудностей в жизни много.</plain>
+            <plain>- С‚СЂСѓРґРЅРѕСЃС‚РµР№ РІ Р¶РёР·РЅРё РјРЅРѕРіРѕ.</plain>
         </string>
         <string>
-            <plain>Он верою меня ведет</plain>
+            <plain>РћРЅ РІРµСЂРѕСЋ РјРµРЅСЏ РІРµРґРµС‚</plain>
         </string>
         <string>
-            <plain>по жизненной трудной дороге.</plain>
+            <plain>РїРѕ Р¶РёР·РЅРµРЅРЅРѕР№ С‚СЂСѓРґРЅРѕР№ РґРѕСЂРѕРіРµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И я иду за Ним,</plain>
+            <plain>Р СЏ РёРґСѓ Р·Р° РќРёРј,</plain>
         </string>
         <string>
-            <plain>любовью Его хранимый.</plain>
+            <plain>Р»СЋР±РѕРІСЊСЋ Р•РіРѕ С…СЂР°РЅРёРјС‹Р№.</plain>
         </string>
         <string>
-            <plain>Моя рука в Его руке,</plain>
+            <plain>РњРѕСЏ СЂСѓРєР° РІ Р•РіРѕ СЂСѓРєРµ,</plain>
         </string>
         <string>
-            <plain>и я не разлучаюсь с Ним.</plain>
+            <plain>Рё СЏ РЅРµ СЂР°Р·Р»СѓС‡Р°СЋСЃСЊ СЃ РќРёРј.</plain>
         </string>
     </verse>
 </psalm>

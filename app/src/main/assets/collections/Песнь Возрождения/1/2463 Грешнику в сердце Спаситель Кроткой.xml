@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2463" name="Грешнику в сердце Спаситель Кроткой" canon="false" text="" textRus="" music="">
+<psalm number="2463" name="Р“СЂРµС€РЅРёРєСѓ РІ СЃРµСЂРґС†Рµ РЎРїР°СЃРёС‚РµР»СЊ РљСЂРѕС‚РєРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Грешнику в сердце Спаситель Кроткой рукой постучал,</plain>
+            <plain>Р“СЂРµС€РЅРёРєСѓ РІ СЃРµСЂРґС†Рµ РЎРїР°СЃРёС‚РµР»СЊ РљСЂРѕС‚РєРѕР№ СЂСѓРєРѕР№ РїРѕСЃС‚СѓС‡Р°Р»,</plain>
         </string>
         <string>
-            <plain>Но от него Искупитель Гордый ответ услыхал:</plain>
+            <plain>РќРѕ РѕС‚ РЅРµРіРѕ РСЃРєСѓРїРёС‚РµР»СЊ Р“РѕСЂРґС‹Р№ РѕС‚РІРµС‚ СѓСЃР»С‹С…Р°Р»:</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Напрасны мольбы, Не знаю, кто Ты,</plain>
+            <plain>РќР°РїСЂР°СЃРЅС‹ РјРѕР»СЊР±С‹, РќРµ Р·РЅР°СЋ, РєС‚Рѕ РўС‹,</plain>
         </string>
         <string>
-            <plain>Что душу тревожишь сою.</plain>
+            <plain>Р§С‚Рѕ РґСѓС€Сѓ С‚СЂРµРІРѕР¶РёС€СЊ СЃРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Иди же Своей Дорогой скорбей,</plain>
+            <plain>РРґРё Р¶Рµ РЎРІРѕРµР№ Р”РѕСЂРѕРіРѕР№ СЃРєРѕСЂР±РµР№,</plain>
         </string>
         <string>
-            <plain>Я дверь не открою свою.</plain>
+            <plain>РЇ РґРІРµСЂСЊ РЅРµ РѕС‚РєСЂРѕСЋ СЃРІРѕСЋ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Умерло грешное тело,</plain>
+            <plain>РЈРјРµСЂР»Рѕ РіСЂРµС€РЅРѕРµ С‚РµР»Рѕ,</plain>
         </string>
         <string>
-            <plain>К райским небесным вратам</plain>
+            <plain>Рљ СЂР°Р№СЃРєРёРј РЅРµР±РµСЃРЅС‹Рј РІСЂР°С‚Р°Рј</plain>
         </string>
         <string>
-            <plain>В думах стучится несмело,</plain>
+            <plain>Р’ РґСѓРјР°С… СЃС‚СѓС‡РёС‚СЃСЏ РЅРµСЃРјРµР»Рѕ,</plain>
         </string>
         <string>
-            <plain>Но внемлет Божьим словам.</plain>
+            <plain>РќРѕ РІРЅРµРјР»РµС‚ Р‘РѕР¶СЊРёРј СЃР»РѕРІР°Рј.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Слышишь: Спаситель твой ходит,</plain>
+            <plain>РЎР»С‹С€РёС€СЊ: РЎРїР°СЃРёС‚РµР»СЊ С‚РІРѕР№ С…РѕРґРёС‚,</plain>
         </string>
         <string>
-            <plain>Сердце Ему распахни.</plain>
+            <plain>РЎРµСЂРґС†Рµ Р•РјСѓ СЂР°СЃРїР°С…РЅРё.</plain>
         </string>
         <string>
-            <plain>И в день последний ответит</plain>
+            <plain>Р РІ РґРµРЅСЊ РїРѕСЃР»РµРґРЅРёР№ РѕС‚РІРµС‚РёС‚</plain>
         </string>
         <string>
-            <plain>Он на молитвы твои.</plain>
+            <plain>РћРЅ РЅР° РјРѕР»РёС‚РІС‹ С‚РІРѕРё.</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>Не нужны мольбы, Я знаю, кто ты,</plain>
+            <plain>РќРµ РЅСѓР¶РЅС‹ РјРѕР»СЊР±С‹, РЇ Р·РЅР°СЋ, РєС‚Рѕ С‚С‹,</plain>
         </string>
         <string>
-            <plain>И дверь открываю Свою.</plain>
+            <plain>Р РґРІРµСЂСЊ РѕС‚РєСЂС‹РІР°СЋ РЎРІРѕСЋ.</plain>
         </string>
         <string>
-            <plain>Войди же скорей,</plain>
+            <plain>Р’РѕР№РґРё Р¶Рµ СЃРєРѕСЂРµР№,</plain>
         </string>
         <string>
-            <plain>От долгих скорбей</plain>
+            <plain>РћС‚ РґРѕР»РіРёС… СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>В святую обитель Мою.</plain>
+            <plain>Р’ СЃРІСЏС‚СѓСЋ РѕР±РёС‚РµР»СЊ РњРѕСЋ.</plain>
         </string>
     </chorus>
 </psalm>

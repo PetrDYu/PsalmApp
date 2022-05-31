@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2809" name="Слушай Духа нежный зов" canon="false" text="" textRus="" music="">
+<psalm number="2809" name="РЎР»СѓС€Р°Р№ Р”СѓС…Р° РЅРµР¶РЅС‹Р№ Р·РѕРІ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слушай Духа нежный зов:</plain>
+            <plain>РЎР»СѓС€Р°Р№ Р”СѓС…Р° РЅРµР¶РЅС‹Р№ Р·РѕРІ:</plain>
         </string>
         <string>
-            <plain>«Твой ходатай - Христос».</plain>
+            <plain>В«РўРІРѕР№ С…РѕРґР°С‚Р°Р№ - РҐСЂРёСЃС‚РѕСЃВ».</plain>
         </string>
         <string>
-            <plain>Даст прощенье грехов</plain>
+            <plain>Р”Р°СЃС‚ РїСЂРѕС‰РµРЅСЊРµ РіСЂРµС…РѕРІ</plain>
         </string>
         <string>
-            <plain>твой ходатай Христос.</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Кровью омойся,</plain>
+            <plain>РљСЂРѕРІСЊСЋ РѕРјРѕР№СЃСЏ,</plain>
         </string>
         <string>
-            <plain>кровью Христа омойся,</plain>
+            <plain>РєСЂРѕРІСЊСЋ РҐСЂРёСЃС‚Р° РѕРјРѕР№СЃСЏ,</plain>
         </string>
         <string>
-            <plain>кровью омойся,</plain>
+            <plain>РєСЂРѕРІСЊСЋ РѕРјРѕР№СЃСЏ,</plain>
         </string>
         <string>
-            <plain>кровью Христа дочиста (дочиста)!</plain>
+            <plain>РєСЂРѕРІСЊСЋ РҐСЂРёСЃС‚Р° РґРѕС‡РёСЃС‚Р° (РґРѕС‡РёСЃС‚Р°)!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Грешник, ныне ждет, скорбя,</plain>
+            <plain>Р“СЂРµС€РЅРёРє, РЅС‹РЅРµ Р¶РґРµС‚, СЃРєРѕСЂР±СЏ,</plain>
         </string>
         <string>
-            <plain>твой ходатай, Христос;</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№, РҐСЂРёСЃС‚РѕСЃ;</plain>
         </string>
         <string>
-            <plain>Совершил все для тебя</plain>
+            <plain>РЎРѕРІРµСЂС€РёР» РІСЃРµ РґР»СЏ С‚РµР±СЏ</plain>
         </string>
         <string>
-            <plain>твой ходатай, Христос.</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№, РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Чашу горькую испил</plain>
+            <plain>Р§Р°С€Сѓ РіРѕСЂСЊРєСѓСЋ РёСЃРїРёР»</plain>
         </string>
         <string>
-            <plain>твой ходатай, Христос;</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№, РҐСЂРёСЃС‚РѕСЃ;</plain>
         </string>
         <string>
-            <plain>Так оставь же этот мир;</plain>
+            <plain>РўР°Рє РѕСЃС‚Р°РІСЊ Р¶Рµ СЌС‚РѕС‚ РјРёСЂ;</plain>
         </string>
         <string>
-            <plain>твой ходатай - Христос.</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№ - РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>будешь ты в крови омыт:</plain>
+            <plain>Р±СѓРґРµС€СЊ С‚С‹ РІ РєСЂРѕРІРё РѕРјС‹С‚:</plain>
         </string>
         <string>
-            <plain>твой ходатай - Христос;</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№ - РҐСЂРёСЃС‚РѕСЃ;</plain>
         </string>
         <string>
-            <plain>Душу светом озарит</plain>
+            <plain>Р”СѓС€Сѓ СЃРІРµС‚РѕРј РѕР·Р°СЂРёС‚</plain>
         </string>
         <string>
-            <plain>твой ходатай, Христос.</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№, РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Все готов тебе простить</plain>
+            <plain>Р’СЃРµ РіРѕС‚РѕРІ С‚РµР±Рµ РїСЂРѕСЃС‚РёС‚СЊ</plain>
         </string>
         <string>
-            <plain>твой ходатай, Христос;</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№, РҐСЂРёСЃС‚РѕСЃ;</plain>
         </string>
         <string>
-            <plain>Как велик в Своей любви</plain>
+            <plain>РљР°Рє РІРµР»РёРє РІ РЎРІРѕРµР№ Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>твой ходатай, Христос!</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№, РҐСЂРёСЃС‚РѕСЃ!</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Радостью благословит</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊСЋ Р±Р»Р°РіРѕСЃР»РѕРІРёС‚</plain>
         </string>
         <string>
-            <plain>твой ходатай, Христос;</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№, РҐСЂРёСЃС‚РѕСЃ;</plain>
         </string>
         <string>
-            <plain>Славой свыше осенит</plain>
+            <plain>РЎР»Р°РІРѕР№ СЃРІС‹С€Рµ РѕСЃРµРЅРёС‚</plain>
         </string>
         <string>
-            <plain>твой ходатай Христос.</plain>
+            <plain>С‚РІРѕР№ С…РѕРґР°С‚Р°Р№ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
 </psalm>

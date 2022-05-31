@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2791" name="Священное Слово Твое" canon="false" text="" textRus="" music="">
+<psalm number="2791" name="РЎРІСЏС‰РµРЅРЅРѕРµ РЎР»РѕРІРѕ РўРІРѕРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Священное Слово Твое</plain>
+            <plain>РЎРІСЏС‰РµРЅРЅРѕРµ РЎР»РѕРІРѕ РўРІРѕРµ</plain>
         </string>
         <string>
-            <plain>Есть свет на пути моем.</plain>
+            <plain>Р•СЃС‚СЊ СЃРІРµС‚ РЅР° РїСѓС‚Рё РјРѕРµРј.</plain>
         </string>
         <string>
-            <plain>Оно мой защитник от зла</plain>
+            <plain>РћРЅРѕ РјРѕР№ Р·Р°С‰РёС‚РЅРёРє РѕС‚ Р·Р»Р°</plain>
         </string>
         <string>
-            <plain>И спутник в небесный дом.</plain>
+            <plain>Р СЃРїСѓС‚РЅРёРє РІ РЅРµР±РµСЃРЅС‹Р№ РґРѕРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я в сердце скрыл Слово Твое,</plain>
+            <plain>РЇ РІ СЃРµСЂРґС†Рµ СЃРєСЂС‹Р» РЎР»РѕРІРѕ РўРІРѕРµ,</plain>
         </string>
         <string>
-            <plain>Твое, Дабы не грешить пред Тобой, пред Тобой.</plain>
+            <plain>РўРІРѕРµ, Р”Р°Р±С‹ РЅРµ РіСЂРµС€РёС‚СЊ РїСЂРµРґ РўРѕР±РѕР№, РїСЂРµРґ РўРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Дабы не грешить, дабы не грешить.</plain>
+            <plain>Р”Р°Р±С‹ РЅРµ РіСЂРµС€РёС‚СЊ, РґР°Р±С‹ РЅРµ РіСЂРµС€РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Я в сердце скрыл Слово Твое.</plain>
+            <plain>РЇ РІ СЃРµСЂРґС†Рµ СЃРєСЂС‹Р» РЎР»РѕРІРѕ РўРІРѕРµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь, это слово Твое</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, СЌС‚Рѕ СЃР»РѕРІРѕ РўРІРѕРµ</plain>
         </string>
         <string>
-            <plain>Не дрогнуло все века,</plain>
+            <plain>РќРµ РґСЂРѕРіРЅСѓР»Рѕ РІСЃРµ РІРµРєР°,</plain>
         </string>
         <string>
-            <plain>И чудная милость Твоя</plain>
+            <plain>Р С‡СѓРґРЅР°СЏ РјРёР»РѕСЃС‚СЊ РўРІРѕСЏ</plain>
         </string>
         <string>
-            <plain>Всегда будет нам близка.</plain>
+            <plain>Р’СЃРµРіРґР° Р±СѓРґРµС‚ РЅР°Рј Р±Р»РёР·РєР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И утром, и днем, и пред сном</plain>
+            <plain>Р СѓС‚СЂРѕРј, Рё РґРЅРµРј, Рё РїСЂРµРґ СЃРЅРѕРј</plain>
         </string>
         <string>
-            <plain>Тебя я хочу хвалить;</plain>
+            <plain>РўРµР±СЏ СЏ С…РѕС‡Сѓ С…РІР°Р»РёС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Ты часть и наследие мое;</plain>
+            <plain>РўС‹ С‡Р°СЃС‚СЊ Рё РЅР°СЃР»РµРґРёРµ РјРѕРµ;</plain>
         </string>
         <string>
-            <plain>Дай только тебя любить!</plain>
+            <plain>Р”Р°Р№ С‚РѕР»СЊРєРѕ С‚РµР±СЏ Р»СЋР±РёС‚СЊ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Обещанный в Слове Твоем</plain>
+            <plain>РћР±РµС‰Р°РЅРЅС‹Р№ РІ РЎР»РѕРІРµ РўРІРѕРµРј</plain>
         </string>
         <string>
-            <plain>Спаситель людей Христос</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ Р»СЋРґРµР№ РҐСЂРёСЃС‚РѕСЃ</plain>
         </string>
         <string>
-            <plain>Заблудшим в пустыне греха</plain>
+            <plain>Р—Р°Р±Р»СѓРґС€РёРј РІ РїСѓСЃС‚С‹РЅРµ РіСЂРµС…Р°</plain>
         </string>
         <string>
-            <plain>Спасенье и мир принес.</plain>
+            <plain>РЎРїР°СЃРµРЅСЊРµ Рё РјРёСЂ РїСЂРёРЅРµСЃ.</plain>
         </string>
     </verse>
 </psalm>

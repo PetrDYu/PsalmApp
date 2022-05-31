@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="141" name="Хвалите Господа и пойте" canon="false" text="" textRus="" music="">
+<psalm number="141" name="РҐРІР°Р»РёС‚Рµ Р“РѕСЃРїРѕРґР° Рё РїРѕР№С‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Хвалите Господа и пойте!</plain>
+            <plain>РҐРІР°Р»РёС‚Рµ Р“РѕСЃРїРѕРґР° Рё РїРѕР№С‚Рµ!</plain>
         </string>
         <string>
-            <plain>Как сладко воспевать Его!</plain>
+            <plain>РљР°Рє СЃР»Р°РґРєРѕ РІРѕСЃРїРµРІР°С‚СЊ Р•РіРѕ!</plain>
         </string>
         <string>
-            <plain>Ему Единому вы стройте</plain>
+            <plain>Р•РјСѓ Р•РґРёРЅРѕРјСѓ РІС‹ СЃС‚СЂРѕР№С‚Рµ</plain>
         </string>
         <string>
-            <plain>Органы сердца своего.</plain>
+            <plain>РћСЂРіР°РЅС‹ СЃРµСЂРґС†Р° СЃРІРѕРµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Кем стены града вознесены,</plain>
+            <plain>РљРµРј СЃС‚РµРЅС‹ РіСЂР°РґР° РІРѕР·РЅРµСЃРµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Тот граждан ли не охранит?</plain>
+            <plain>РўРѕС‚ РіСЂР°Р¶РґР°РЅ Р»Рё РЅРµ РѕС…СЂР°РЅРёС‚?</plain>
         </string>
         <string>
-            <plain>Кем скорби духа исцелены,</plain>
+            <plain>РљРµРј СЃРєРѕСЂР±Рё РґСѓС…Р° РёСЃС†РµР»РµРЅС‹,</plain>
         </string>
         <string>
-            <plain>Плотских ли ран не исцелит?</plain>
+            <plain>РџР»РѕС‚СЃРєРёС… Р»Рё СЂР°РЅ РЅРµ РёСЃС†РµР»РёС‚?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Он кротких в милость принимает</plain>
+            <plain>РћРЅ РєСЂРѕС‚РєРёС… РІ РјРёР»РѕСЃС‚СЊ РїСЂРёРЅРёРјР°РµС‚</plain>
         </string>
         <string>
-            <plain>И праведным дает покров,</plain>
+            <plain>Р РїСЂР°РІРµРґРЅС‹Рј РґР°РµС‚ РїРѕРєСЂРѕРІ,</plain>
         </string>
         <string>
-            <plain>Надменных власть уничтожает</plain>
+            <plain>РќР°РґРјРµРЅРЅС‹С… РІР»Р°СЃС‚СЊ СѓРЅРёС‡С‚РѕР¶Р°РµС‚</plain>
         </string>
         <string>
-            <plain>И гордых низвергает в ров.</plain>
+            <plain>Р РіРѕСЂРґС‹С… РЅРёР·РІРµСЂРіР°РµС‚ РІ СЂРѕРІ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Начните ж Бога вы, начните</plain>
+            <plain>РќР°С‡РЅРёС‚Рµ Р¶ Р‘РѕРіР° РІС‹, РЅР°С‡РЅРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>Людские познавать умы</plain>
+            <plain>Р›СЋРґСЃРєРёРµ РїРѕР·РЅР°РІР°С‚СЊ СѓРјС‹</plain>
         </string>
         <string>
-            <plain>И во хвалу Ему спешите</plain>
+            <plain>Р РІРѕ С…РІР°Р»Сѓ Р•РјСѓ СЃРїРµС€РёС‚Рµ</plain>
         </string>
         <string>
-            <plain>Устроить гусли и псалмы.</plain>
+            <plain>РЈСЃС‚СЂРѕРёС‚СЊ РіСѓСЃР»Рё Рё РїСЃР°Р»РјС‹.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Он мраком небо облекает,</plain>
+            <plain>РћРЅ РјСЂР°РєРѕРј РЅРµР±Рѕ РѕР±Р»РµРєР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Готовит в тучах дождь браздам,</plain>
+            <plain>Р“РѕС‚РѕРІРёС‚ РІ С‚СѓС‡Р°С… РґРѕР¶РґСЊ Р±СЂР°Р·РґР°Рј,</plain>
         </string>
         <string>
-            <plain>Росою горы покрывает,</plain>
+            <plain>Р РѕСЃРѕСЋ РіРѕСЂС‹ РїРѕРєСЂС‹РІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Растит сады на службу нам.</plain>
+            <plain>Р Р°СЃС‚РёС‚ СЃР°РґС‹ РЅР° СЃР»СѓР¶Р±Сѓ РЅР°Рј.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Не конских крепких мышц желает,</plain>
+            <plain>РќРµ РєРѕРЅСЃРєРёС… РєСЂРµРїРєРёС… РјС‹С€С† Р¶РµР»Р°РµС‚,</plain>
         </string>
         <string>
-            <plain>Не к мужеству благоволит,</plain>
+            <plain>РќРµ Рє РјСѓР¶РµСЃС‚РІСѓ Р±Р»Р°РіРѕРІРѕР»РёС‚,</plain>
         </string>
         <string>
-            <plain>Но на Него кто уповает,</plain>
+            <plain>РќРѕ РЅР° РќРµРіРѕ РєС‚Рѕ СѓРїРѕРІР°РµС‚,</plain>
         </string>
         <string>
-            <plain>Он любящих Его хранит!</plain>
+            <plain>РћРЅ Р»СЋР±СЏС‰РёС… Р•РіРѕ С…СЂР°РЅРёС‚!</plain>
         </string>
     </verse>
 </psalm>

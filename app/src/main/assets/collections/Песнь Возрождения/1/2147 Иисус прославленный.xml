@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2147" name="Иисус прославленный" canon="false" text="" textRus="" music="">
+<psalm number="2147" name="РРёСЃСѓСЃ РїСЂРѕСЃР»Р°РІР»РµРЅРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Иисус, прославленный</plain>
+            <plain>РРёСЃСѓСЃ, РїСЂРѕСЃР»Р°РІР»РµРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Голгофской славою, Воскресший ,</plain>
+            <plain>Р“РѕР»РіРѕС„СЃРєРѕР№ СЃР»Р°РІРѕСЋ, Р’РѕСЃРєСЂРµСЃС€РёР№ ,</plain>
         </string>
         <string>
-            <plain>Ты живешь в сердцах Звезда</plain>
+            <plain>РўС‹ Р¶РёРІРµС€СЊ РІ СЃРµСЂРґС†Р°С… Р—РІРµР·РґР°</plain>
         </string>
         <string>
-            <plain>Ты светлая и зорька ранняя,</plain>
+            <plain>РўС‹ СЃРІРµС‚Р»Р°СЏ Рё Р·РѕСЂСЊРєР° СЂР°РЅРЅСЏСЏ,</plain>
         </string>
         <string>
-            <plain>Сияешь Ты в семи лучах.</plain>
+            <plain>РЎРёСЏРµС€СЊ РўС‹ РІ СЃРµРјРё Р»СѓС‡Р°С….</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господь - звезда моя,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ - Р·РІРµР·РґР° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Тобой рожден был я,</plain>
+            <plain>РўРѕР±РѕР№ СЂРѕР¶РґРµРЅ Р±С‹Р» СЏ,</plain>
         </string>
         <string>
-            <plain>Ты утром вечности сияй!</plain>
+            <plain>РўС‹ СѓС‚СЂРѕРј РІРµС‡РЅРѕСЃС‚Рё СЃРёСЏР№!</plain>
         </string>
         <string>
-            <plain>Христос - звезда моя семилучевая,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ - Р·РІРµР·РґР° РјРѕСЏ СЃРµРјРёР»СѓС‡РµРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Мое Ты сердце просвещай!</plain>
+            <plain>РњРѕРµ РўС‹ СЃРµСЂРґС†Рµ РїСЂРѕСЃРІРµС‰Р°Р№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Господь - светильник мой,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ - СЃРІРµС‚РёР»СЊРЅРёРє РјРѕР№,</plain>
         </string>
         <string>
-            <plain>Зажжен Творца рукой,</plain>
+            <plain>Р—Р°Р¶Р¶РµРЅ РўРІРѕСЂС†Р° СЂСѓРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Ты - радуга семи цветов,</plain>
+            <plain>РўС‹ - СЂР°РґСѓРіР° СЃРµРјРё С†РІРµС‚РѕРІ,</plain>
         </string>
         <string>
-            <plain>Звезда чудесная, семилучевая,</plain>
+            <plain>Р—РІРµР·РґР° С‡СѓРґРµСЃРЅР°СЏ, СЃРµРјРёР»СѓС‡РµРІР°СЏ,</plain>
         </string>
         <string>
-            <plain>Веди меня в чертог Христов.</plain>
+            <plain>Р’РµРґРё РјРµРЅСЏ РІ С‡РµСЂС‚РѕРі РҐСЂРёСЃС‚РѕРІ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Господен Дух Святой, руководи Ты мной,</plain>
+            <plain>Р“РѕСЃРїРѕРґРµРЅ Р”СѓС… РЎРІСЏС‚РѕР№, СЂСѓРєРѕРІРѕРґРё РўС‹ РјРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>Дай верным быть мне до конца!</plain>
+            <plain>Р”Р°Р№ РІРµСЂРЅС‹Рј Р±С‹С‚СЊ РјРЅРµ РґРѕ РєРѕРЅС†Р°!</plain>
         </string>
         <string>
-            <plain>Быть побеждающим,</plain>
+            <plain>Р‘С‹С‚СЊ РїРѕР±РµР¶РґР°СЋС‰РёРј,</plain>
         </string>
         <string>
-            <plain>Христа встречающим</plain>
+            <plain>РҐСЂРёСЃС‚Р° РІСЃС‚СЂРµС‡Р°СЋС‰РёРј</plain>
         </string>
         <string>
-            <plain>В красе небесного венца!</plain>
+            <plain>Р’ РєСЂР°СЃРµ РЅРµР±РµСЃРЅРѕРіРѕ РІРµРЅС†Р°!</plain>
         </string>
     </verse>
 </psalm>

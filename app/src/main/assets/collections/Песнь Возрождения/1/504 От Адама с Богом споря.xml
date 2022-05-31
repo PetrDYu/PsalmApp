@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="504" name="От Адама с Богом споря" canon="false" text="" textRus="" music="">
+<psalm number="504" name="РћС‚ РђРґР°РјР° СЃ Р‘РѕРіРѕРј СЃРїРѕСЂСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>От Адама, с Богом споря,</plain>
+            <plain>РћС‚ РђРґР°РјР°, СЃ Р‘РѕРіРѕРј СЃРїРѕСЂСЏ,</plain>
         </string>
         <string>
-            <plain>Смерть с губительной косой</plain>
+            <plain>РЎРјРµСЂС‚СЊ СЃ РіСѓР±РёС‚РµР»СЊРЅРѕР№ РєРѕСЃРѕР№</plain>
         </string>
         <string>
-            <plain>Разливает плач и горе</plain>
+            <plain>Р Р°Р·Р»РёРІР°РµС‚ РїР»Р°С‡ Рё РіРѕСЂРµ</plain>
         </string>
         <string>
-            <plain>Над несчастною землей.</plain>
+            <plain>РќР°Рґ РЅРµСЃС‡Р°СЃС‚РЅРѕСЋ Р·РµРјР»РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Смерть сильна! Но наш Спаситель</plain>
+            <plain>РЎРјРµСЂС‚СЊ СЃРёР»СЊРЅР°! РќРѕ РЅР°С€ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Много раз ее сильней,</plain>
+            <plain>РњРЅРѕРіРѕ СЂР°Р· РµРµ СЃРёР»СЊРЅРµР№,</plain>
         </string>
         <string>
-            <plain>Он попрал, как Победитель,</plain>
+            <plain>РћРЅ РїРѕРїСЂР°Р», РєР°Рє РџРѕР±РµРґРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Смерть кончиною Своей.</plain>
+            <plain>РЎРјРµСЂС‚СЊ РєРѕРЅС‡РёРЅРѕСЋ РЎРІРѕРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Миром золото владеет.</plain>
+            <plain>РњРёСЂРѕРј Р·РѕР»РѕС‚Рѕ РІР»Р°РґРµРµС‚.</plain>
         </string>
         <string>
-            <plain>Но пред смертию богач</plain>
+            <plain>РќРѕ РїСЂРµРґ СЃРјРµСЂС‚РёСЋ Р±РѕРіР°С‡</plain>
         </string>
         <string>
-            <plain>И рыдает, и бледнеет,</plain>
+            <plain>Р СЂС‹РґР°РµС‚, Рё Р±Р»РµРґРЅРµРµС‚,</plain>
         </string>
         <string>
-            <plain>И его бессилен плач.</plain>
+            <plain>Р РµРіРѕ Р±РµСЃСЃРёР»РµРЅ РїР»Р°С‡.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пред царем дрожат народы.</plain>
+            <plain>РџСЂРµРґ С†Р°СЂРµРј РґСЂРѕР¶Р°С‚ РЅР°СЂРѕРґС‹.</plain>
         </string>
         <string>
-            <plain>Но приходит смерть,</plain>
+            <plain>РќРѕ РїСЂРёС…РѕРґРёС‚ СЃРјРµСЂС‚СЊ,</plain>
         </string>
         <string>
-            <plain>И он Отдает ей дни и годы</plain>
+            <plain>Р РѕРЅ РћС‚РґР°РµС‚ РµР№ РґРЅРё Рё РіРѕРґС‹</plain>
         </string>
         <string>
-            <plain>И могучий славный трон.</plain>
+            <plain>Р РјРѕРіСѓС‡РёР№ СЃР»Р°РІРЅС‹Р№ С‚СЂРѕРЅ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Смерть - возмездье за паденье</plain>
+            <plain>РЎРјРµСЂС‚СЊ - РІРѕР·РјРµР·РґСЊРµ Р·Р° РїР°РґРµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Прародителей людей;</plain>
+            <plain>РџСЂР°СЂРѕРґРёС‚РµР»РµР№ Р»СЋРґРµР№;</plain>
         </string>
         <string>
-            <plain>И за наше согрешенье</plain>
+            <plain>Р Р·Р° РЅР°С€Рµ СЃРѕРіСЂРµС€РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Мы теперь подвластны ей.</plain>
+            <plain>РњС‹ С‚РµРїРµСЂСЊ РїРѕРґРІР»Р°СЃС‚РЅС‹ РµР№.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Уж не долго, и над миром</plain>
+            <plain>РЈР¶ РЅРµ РґРѕР»РіРѕ, Рё РЅР°Рґ РјРёСЂРѕРј</plain>
         </string>
         <string>
-            <plain>Смерти власть навек пройдет.</plain>
+            <plain>РЎРјРµСЂС‚Рё РІР»Р°СЃС‚СЊ РЅР°РІРµРє РїСЂРѕР№РґРµС‚.</plain>
         </string>
         <string>
-            <plain>Вот с небес с победным пиром</plain>
+            <plain>Р’РѕС‚ СЃ РЅРµР±РµСЃ СЃ РїРѕР±РµРґРЅС‹Рј РїРёСЂРѕРј</plain>
         </string>
         <string>
-            <plain>Жизнь от Господа идет.</plain>
+            <plain>Р–РёР·РЅСЊ РѕС‚ Р“РѕСЃРїРѕРґР° РёРґРµС‚.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,65 +1,65 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="628" name="Во гробе Он лежал" canon="false" text="" textRus="" music="">
+<psalm number="628" name="Р’Рѕ РіСЂРѕР±Рµ РћРЅ Р»РµР¶Р°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Во гробе Он лежал,</plain>
+            <plain>Р’Рѕ РіСЂРѕР±Рµ РћРЅ Р»РµР¶Р°Р»,</plain>
         </string>
         <string>
-            <plain>Иисус Спаситель,</plain>
+            <plain>РРёСЃСѓСЃ РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Дня славы ожидал, -</plain>
+            <plain>Р”РЅСЏ СЃР»Р°РІС‹ РѕР¶РёРґР°Р», -</plain>
         </string>
         <string>
-            <plain>Иисус Господь!</plain>
+            <plain>РРёСЃСѓСЃ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Из гроба Он восстал</plain>
+            <plain>РР· РіСЂРѕР±Р° РћРЅ РІРѕСЃСЃС‚Р°Р»</plain>
         </string>
         <string>
-            <plain>И все силы вражьи Он попрал;</plain>
+            <plain>Р РІСЃРµ СЃРёР»С‹ РІСЂР°Р¶СЊРё РћРЅ РїРѕРїСЂР°Р»;</plain>
         </string>
         <string>
-            <plain>Он воскрес, над тьмой победу одержал</plain>
+            <plain>РћРЅ РІРѕСЃРєСЂРµСЃ, РЅР°Рґ С‚СЊРјРѕР№ РїРѕР±РµРґСѓ РѕРґРµСЂР¶Р°Р»</plain>
         </string>
         <string>
-            <plain>И с Ним вечно царствовать Своих призвал.</plain>
+            <plain>Р СЃ РќРёРј РІРµС‡РЅРѕ С†Р°СЂСЃС‚РІРѕРІР°С‚СЊ РЎРІРѕРёС… РїСЂРёР·РІР°Р».</plain>
         </string>
         <string>
-            <plain>Он воскрес! Он воскрес!</plain>
+            <plain>РћРЅ РІРѕСЃРєСЂРµСЃ! РћРЅ РІРѕСЃРєСЂРµСЃ!</plain>
         </string>
         <string>
-            <plain>Аллилуйя, Он воскрес!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РћРЅ РІРѕСЃРєСЂРµСЃ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Напрасно стерегут,</plain>
+            <plain>РќР°РїСЂР°СЃРЅРѕ СЃС‚РµСЂРµРіСѓС‚,</plain>
         </string>
         <string>
-            <plain>Иисус Спаситель!</plain>
+            <plain>РРёСЃСѓСЃ РЎРїР°СЃРёС‚РµР»СЊ!</plain>
         </string>
         <string>
-            <plain>Тщетно печать кладут, -</plain>
+            <plain>РўС‰РµС‚РЅРѕ РїРµС‡Р°С‚СЊ РєР»Р°РґСѓС‚, -</plain>
         </string>
         <string>
-            <plain>Иисус Господь!</plain>
+            <plain>РРёСЃСѓСЃ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Смерть побеждается,</plain>
+            <plain>РЎРјРµСЂС‚СЊ РїРѕР±РµР¶РґР°РµС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Иисус Спаситель!</plain>
+            <plain>РРёСЃСѓСЃ РЎРїР°СЃРёС‚РµР»СЊ!</plain>
         </string>
         <string>
-            <plain>Плен расторгается, -</plain>
+            <plain>РџР»РµРЅ СЂР°СЃС‚РѕСЂРіР°РµС‚СЃСЏ, -</plain>
         </string>
         <string>
-            <plain>Иисус Господь!</plain>
+            <plain>РРёСЃСѓСЃ Р“РѕСЃРїРѕРґСЊ!</plain>
         </string>
     </verse>
 </psalm>

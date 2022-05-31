@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="961" name="О вера вера мощная" canon="false" text="" textRus="" music="">
+<psalm number="961" name="Рћ РІРµСЂР° РІРµСЂР° РјРѕС‰РЅР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, вера, вера мощная,</plain>
+            <plain>Рћ, РІРµСЂР°, РІРµСЂР° РјРѕС‰РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Сразившая врагов,</plain>
+            <plain>РЎСЂР°Р·РёРІС€Р°СЏ РІСЂР°РіРѕРІ,</plain>
         </string>
         <string>
-            <plain>Святая, непорочная,</plain>
+            <plain>РЎРІСЏС‚Р°СЏ, РЅРµРїРѕСЂРѕС‡РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Сильнее всех оков.</plain>
+            <plain>РЎРёР»СЊРЅРµРµ РІСЃРµС… РѕРєРѕРІ.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Довольна ты судьбой своей,</plain>
+            <plain>Р”РѕРІРѕР»СЊРЅР° С‚С‹ СЃСѓРґСЊР±РѕР№ СЃРІРѕРµР№,</plain>
         </string>
         <string>
-            <plain>Не споришь никогда.</plain>
+            <plain>РќРµ СЃРїРѕСЂРёС€СЊ РЅРёРєРѕРіРґР°.</plain>
         </string>
         <string>
-            <plain>Но в час печали и скорбей</plain>
+            <plain>РќРѕ РІ С‡Р°СЃ РїРµС‡Р°Р»Рё Рё СЃРєРѕСЂР±РµР№</plain>
         </string>
         <string>
-            <plain>Зовешь ты Господа.</plain>
+            <plain>Р—РѕРІРµС€СЊ С‚С‹ Р“РѕСЃРїРѕРґР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О вера, равной тебе нет,</plain>
+            <plain>Рћ РІРµСЂР°, СЂР°РІРЅРѕР№ С‚РµР±Рµ РЅРµС‚,</plain>
         </string>
         <string>
-            <plain>Помощник нам во тьме!</plain>
+            <plain>РџРѕРјРѕС‰РЅРёРє РЅР°Рј РІРѕ С‚СЊРјРµ!</plain>
         </string>
         <string>
-            <plain>Поддерживаешь в мире свет,</plain>
+            <plain>РџРѕРґРґРµСЂР¶РёРІР°РµС€СЊ РІ РјРёСЂРµ СЃРІРµС‚,</plain>
         </string>
         <string>
-            <plain>И в сердце, и в уме.</plain>
+            <plain>Р РІ СЃРµСЂРґС†Рµ, Рё РІ СѓРјРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Господь! Дай эту веру мне,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ! Р”Р°Р№ СЌС‚Сѓ РІРµСЂСѓ РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>И больше ничего,</plain>
+            <plain>Р Р±РѕР»СЊС€Рµ РЅРёС‡РµРіРѕ,</plain>
         </string>
         <string>
-            <plain>С ней я не буду на войне</plain>
+            <plain>РЎ РЅРµР№ СЏ РЅРµ Р±СѓРґСѓ РЅР° РІРѕР№РЅРµ</plain>
         </string>
         <string>
-            <plain>Бояться ничего!</plain>
+            <plain>Р‘РѕСЏС‚СЊСЃСЏ РЅРёС‡РµРіРѕ!</plain>
         </string>
     </verse>
 </psalm>

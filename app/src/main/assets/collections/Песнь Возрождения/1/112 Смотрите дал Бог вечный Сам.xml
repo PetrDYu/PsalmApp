@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="112" name="Смотрите дал Бог вечный Сам" canon="false" text="" textRus="" music="">
+<psalm number="112" name="РЎРјРѕС‚СЂРёС‚Рµ РґР°Р» Р‘РѕРі РІРµС‡РЅС‹Р№ РЎР°Рј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Смотрите, дал Бог вечный Сам</plain>
+            <plain>РЎРјРѕС‚СЂРёС‚Рµ, РґР°Р» Р‘РѕРі РІРµС‡РЅС‹Р№ РЎР°Рј</plain>
         </string>
         <string>
-            <plain>Любовь какую нам:</plain>
+            <plain>Р›СЋР±РѕРІСЊ РєР°РєСѓСЋ РЅР°Рј:</plain>
         </string>
         <string>
-            <plain>Его название носить,</plain>
+            <plain>Р•РіРѕ РЅР°Р·РІР°РЅРёРµ РЅРѕСЃРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Детьми Благого быть.</plain>
+            <plain>Р”РµС‚СЊРјРё Р‘Р»Р°РіРѕРіРѕ Р±С‹С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Смотрите, что за любовь!</plain>
+            <plain>РЎРјРѕС‚СЂРёС‚Рµ, С‡С‚Рѕ Р·Р° Р»СЋР±РѕРІСЊ!</plain>
         </string>
         <string>
-            <plain>Какую любовь дал Бог!</plain>
+            <plain>РљР°РєСѓСЋ Р»СЋР±РѕРІСЊ РґР°Р» Р‘РѕРі!</plain>
         </string>
         <string>
-            <plain>Какую любовь дал!</plain>
+            <plain>РљР°РєСѓСЋ Р»СЋР±РѕРІСЊ РґР°Р»!</plain>
         </string>
         <string>
-            <plain>Чтоб мы назывались</plain>
+            <plain>Р§С‚РѕР± РјС‹ РЅР°Р·С‹РІР°Р»РёСЃСЊ</plain>
         </string>
         <string>
-            <plain>и все были детьми Божьими.</plain>
+            <plain>Рё РІСЃРµ Р±С‹Р»Рё РґРµС‚СЊРјРё Р‘РѕР¶СЊРёРјРё.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Когда-то чужды, далеки,</plain>
+            <plain>РљРѕРіРґР°-С‚Рѕ С‡СѓР¶РґС‹, РґР°Р»РµРєРё,</plain>
         </string>
         <string>
-            <plain>Теперь Ему близки;</plain>
+            <plain>РўРµРїРµСЂСЊ Р•РјСѓ Р±Р»РёР·РєРё;</plain>
         </string>
         <string>
-            <plain>Навек спасенные Христом,</plain>
+            <plain>РќР°РІРµРє СЃРїР°СЃРµРЅРЅС‹Рµ РҐСЂРёСЃС‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Мы дети Божьи в Нем</plain>
+            <plain>РњС‹ РґРµС‚Рё Р‘РѕР¶СЊРё РІ РќРµРј</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Да, дети Божии! Но нам</plain>
+            <plain>Р”Р°, РґРµС‚Рё Р‘РѕР¶РёРё! РќРѕ РЅР°Рј</plain>
         </string>
         <string>
-            <plain>Не дано знать, что там,</plain>
+            <plain>РќРµ РґР°РЅРѕ Р·РЅР°С‚СЊ, С‡С‚Рѕ С‚Р°Рј,</plain>
         </string>
         <string>
-            <plain>В стране небесной встретит нас,</plain>
+            <plain>Р’ СЃС‚СЂР°РЅРµ РЅРµР±РµСЃРЅРѕР№ РІСЃС‚СЂРµС‚РёС‚ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Что будем в славный час.</plain>
+            <plain>Р§С‚Рѕ Р±СѓРґРµРј РІ СЃР»Р°РІРЅС‹Р№ С‡Р°СЃ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Мы только знаем, что когда</plain>
+            <plain>РњС‹ С‚РѕР»СЊРєРѕ Р·РЅР°РµРј, С‡С‚Рѕ РєРѕРіРґР°</plain>
         </string>
         <string>
-            <plain>Увидим мы Его,</plain>
+            <plain>РЈРІРёРґРёРј РјС‹ Р•РіРѕ,</plain>
         </string>
         <string>
-            <plain>Получим образ мы тогда</plain>
+            <plain>РџРѕР»СѓС‡РёРј РѕР±СЂР°Р· РјС‹ С‚РѕРіРґР°</plain>
         </string>
         <string>
-            <plain>Иисуса Самого.</plain>
+            <plain>РРёСЃСѓСЃР° РЎР°РјРѕРіРѕ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Отец! С надеждою такой</plain>
+            <plain>РћС‚РµС†! РЎ РЅР°РґРµР¶РґРѕСЋ С‚Р°РєРѕР№</plain>
         </string>
         <string>
-            <plain>Взываем пред Тобой:</plain>
+            <plain>Р’Р·С‹РІР°РµРј РїСЂРµРґ РўРѕР±РѕР№:</plain>
         </string>
         <string>
-            <plain>Подобье дай Твоих детей</plain>
+            <plain>РџРѕРґРѕР±СЊРµ РґР°Р№ РўРІРѕРёС… РґРµС‚РµР№</plain>
         </string>
         <string>
-            <plain>Нам в жизни для людей.</plain>
+            <plain>РќР°Рј РІ Р¶РёР·РЅРё РґР»СЏ Р»СЋРґРµР№.</plain>
         </string>
     </verse>
 </psalm>

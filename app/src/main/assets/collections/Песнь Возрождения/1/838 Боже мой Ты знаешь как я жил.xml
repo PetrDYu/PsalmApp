@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="838" name="Боже мой Ты знаешь как я жил" canon="false" text="" textRus="" music="">
+<psalm number="838" name="Р‘РѕР¶Рµ РјРѕР№ РўС‹ Р·РЅР°РµС€СЊ РєР°Рє СЏ Р¶РёР»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Боже мой. Ты знаешь, как я жил.</plain>
+            <plain>Р‘РѕР¶Рµ РјРѕР№. РўС‹ Р·РЅР°РµС€СЊ, РєР°Рє СЏ Р¶РёР».</plain>
         </string>
         <string>
-            <plain>До сих пор как пред Тобой ходил.</plain>
+            <plain>Р”Рѕ СЃРёС… РїРѕСЂ РєР°Рє РїСЂРµРґ РўРѕР±РѕР№ С…РѕРґРёР».</plain>
         </string>
         <string>
-            <plain>Сколько раз колени я склонял</plain>
+            <plain>РЎРєРѕР»СЊРєРѕ СЂР°Р· РєРѕР»РµРЅРё СЏ СЃРєР»РѕРЅСЏР»</plain>
         </string>
         <string>
-            <plain>И в ночной тиши к Тебе взывал.</plain>
+            <plain>Р РІ РЅРѕС‡РЅРѕР№ С‚РёС€Рё Рє РўРµР±Рµ РІР·С‹РІР°Р».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Помоги мне этот мир победить</plain>
+            <plain>РџРѕРјРѕРіРё РјРЅРµ СЌС‚РѕС‚ РјРёСЂ РїРѕР±РµРґРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Так, как Ты его однажды победил.</plain>
+            <plain>РўР°Рє, РєР°Рє РўС‹ РµРіРѕ РѕРґРЅР°Р¶РґС‹ РїРѕР±РµРґРёР».</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Манит мир меня своей красой</plain>
+            <plain>РњР°РЅРёС‚ РјРёСЂ РјРµРЅСЏ СЃРІРѕРµР№ РєСЂР°СЃРѕР№</plain>
         </string>
         <string>
-            <plain>И пленит он также суетой.</plain>
+            <plain>Р РїР»РµРЅРёС‚ РѕРЅ С‚Р°РєР¶Рµ СЃСѓРµС‚РѕР№.</plain>
         </string>
         <string>
-            <plain>Но душа стремится все же ввысь</plain>
+            <plain>РќРѕ РґСѓС€Р° СЃС‚СЂРµРјРёС‚СЃСЏ РІСЃРµ Р¶Рµ РІРІС‹СЃСЊ</plain>
         </string>
         <string>
-            <plain>И твердит: "Пред Господом смирись".</plain>
+            <plain>Р С‚РІРµСЂРґРёС‚: "РџСЂРµРґ Р“РѕСЃРїРѕРґРѕРј СЃРјРёСЂРёСЃСЊ".</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Помнишь, как обеты я давал.</plain>
+            <plain>РџРѕРјРЅРёС€СЊ, РєР°Рє РѕР±РµС‚С‹ СЏ РґР°РІР°Р».</plain>
         </string>
         <string>
-            <plain>Пред Лицом я искренне стоял.</plain>
+            <plain>РџСЂРµРґ Р›РёС†РѕРј СЏ РёСЃРєСЂРµРЅРЅРµ СЃС‚РѕСЏР».</plain>
         </string>
         <string>
-            <plain>А теперь огонь любви погас,</plain>
+            <plain>Рђ С‚РµРїРµСЂСЊ РѕРіРѕРЅСЊ Р»СЋР±РІРё РїРѕРіР°СЃ,</plain>
         </string>
         <string>
-            <plain>И нет сил у ног Твоих стоять.</plain>
+            <plain>Р РЅРµС‚ СЃРёР» Сѓ РЅРѕРі РўРІРѕРёС… СЃС‚РѕСЏС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Верю, Боже, любишь Ты меня</plain>
+            <plain>Р’РµСЂСЋ, Р‘РѕР¶Рµ, Р»СЋР±РёС€СЊ РўС‹ РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>И омоешь снова добела,</plain>
+            <plain>Р РѕРјРѕРµС€СЊ СЃРЅРѕРІР° РґРѕР±РµР»Р°,</plain>
         </string>
         <string>
-            <plain>И вернешь мне прежнюю любовь,</plain>
+            <plain>Р РІРµСЂРЅРµС€СЊ РјРЅРµ РїСЂРµР¶РЅСЋСЋ Р»СЋР±РѕРІСЊ,</plain>
         </string>
         <string>
-            <plain>- Ведь искуплен я Самим Тобой.</plain>
+            <plain>- Р’РµРґСЊ РёСЃРєСѓРїР»РµРЅ СЏ РЎР°РјРёРј РўРѕР±РѕР№.</plain>
         </string>
     </verse>
 </psalm>

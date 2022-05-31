@@ -1,67 +1,67 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1023" name="Слава Богу за все даяния" canon="false" text="" textRus="" music="">
+<psalm number="1023" name="РЎР»Р°РІР° Р‘РѕРіСѓ Р·Р° РІСЃРµ РґР°СЏРЅРёСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Слава Богу за все даяния,</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ Р·Р° РІСЃРµ РґР°СЏРЅРёСЏ,</plain>
         </string>
         <string>
-            <plain>Слава Богу за все страдания,</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ Р·Р° РІСЃРµ СЃС‚СЂР°РґР°РЅРёСЏ,</plain>
         </string>
         <string>
-            <plain>Слава Богу за ночи мрачные,</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ Р·Р° РЅРѕС‡Рё РјСЂР°С‡РЅС‹Рµ,</plain>
         </string>
         <string>
-            <plain>Дни удачные и неудачные.</plain>
+            <plain>Р”РЅРё СѓРґР°С‡РЅС‹Рµ Рё РЅРµСѓРґР°С‡РЅС‹Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слава Богу, за все Ему слава,</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ, Р·Р° РІСЃРµ Р•РјСѓ СЃР»Р°РІР°,</plain>
         </string>
         <string>
-            <plain>Он имеет на это право!</plain>
+            <plain>РћРЅ РёРјРµРµС‚ РЅР° СЌС‚Рѕ РїСЂР°РІРѕ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Слава Богу за дни погожие,</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ Р·Р° РґРЅРё РїРѕРіРѕР¶РёРµ,</plain>
         </string>
         <string>
-            <plain>За характеры наши несхожие,</plain>
+            <plain>Р—Р° С…Р°СЂР°РєС‚РµСЂС‹ РЅР°С€Рё РЅРµСЃС…РѕР¶РёРµ,</plain>
         </string>
         <string>
-            <plain>За дороги тяжелые, дальние,</plain>
+            <plain>Р—Р° РґРѕСЂРѕРіРё С‚СЏР¶РµР»С‹Рµ, РґР°Р»СЊРЅРёРµ,</plain>
         </string>
         <string>
-            <plain>За разлуки, всегда печальные.</plain>
+            <plain>Р—Р° СЂР°Р·Р»СѓРєРё, РІСЃРµРіРґР° РїРµС‡Р°Р»СЊРЅС‹Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Слава Богу за слезы с песнями.</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ Р·Р° СЃР»РµР·С‹ СЃ РїРµСЃРЅСЏРјРё.</plain>
         </string>
         <string>
-            <plain>Что Он тропками вел чудесными.</plain>
+            <plain>Р§С‚Рѕ РћРЅ С‚СЂРѕРїРєР°РјРё РІРµР» С‡СѓРґРµСЃРЅС‹РјРё.</plain>
         </string>
         <string>
-            <plain>Слава Богу за многие милости.</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ Р·Р° РјРЅРѕРіРёРµ РјРёР»РѕСЃС‚Рё.</plain>
         </string>
         <string>
-            <plain>Что помог христианами вырасти.</plain>
+            <plain>Р§С‚Рѕ РїРѕРјРѕРі С…СЂРёСЃС‚РёР°РЅР°РјРё РІС‹СЂР°СЃС‚Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Что Он путь нам всегда указывал,</plain>
+            <plain>Р§С‚Рѕ РћРЅ РїСѓС‚СЊ РЅР°Рј РІСЃРµРіРґР° СѓРєР°Р·С‹РІР°Р»,</plain>
         </string>
         <string>
-            <plain>Что не больно Он нас наказывал,</plain>
+            <plain>Р§С‚Рѕ РЅРµ Р±РѕР»СЊРЅРѕ РћРЅ РЅР°СЃ РЅР°РєР°Р·С‹РІР°Р»,</plain>
         </string>
         <string>
-            <plain>Что прощал, забывая прошлое.</plain>
+            <plain>Р§С‚Рѕ РїСЂРѕС‰Р°Р», Р·Р°Р±С‹РІР°СЏ РїСЂРѕС€Р»РѕРµ.</plain>
         </string>
         <string>
-            <plain>Что давал Он нам только хорошее!</plain>
+            <plain>Р§С‚Рѕ РґР°РІР°Р» РћРЅ РЅР°Рј С‚РѕР»СЊРєРѕ С…РѕСЂРѕС€РµРµ!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="59" name="Ты знаешь Боже мое желанье" canon="false" text="" textRus="" music="">
+<psalm number="59" name="РўС‹ Р·РЅР°РµС€СЊ Р‘РѕР¶Рµ РјРѕРµ Р¶РµР»Р°РЅСЊРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты знаешь, Боже, мое желанье,</plain>
+            <plain>РўС‹ Р·РЅР°РµС€СЊ, Р‘РѕР¶Рµ, РјРѕРµ Р¶РµР»Р°РЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Мои молитвы слышишь Ты;</plain>
+            <plain>РњРѕРё РјРѕР»РёС‚РІС‹ СЃР»С‹С€РёС€СЊ РўС‹;</plain>
         </string>
         <string>
-            <plain>Тебе известно мое страданье,</plain>
+            <plain>РўРµР±Рµ РёР·РІРµСЃС‚РЅРѕ РјРѕРµ СЃС‚СЂР°РґР°РЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Мои стремленья и мечты.</plain>
+            <plain>РњРѕРё СЃС‚СЂРµРјР»РµРЅСЊСЏ Рё РјРµС‡С‚С‹.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Ты знаешь, Боже, что не ищу я</plain>
+            <plain>РўС‹ Р·РЅР°РµС€СЊ, Р‘РѕР¶Рµ, С‡С‚Рѕ РЅРµ РёС‰Сѓ СЏ</plain>
         </string>
         <string>
-            <plain>Богатств и почестей земных;</plain>
+            <plain>Р‘РѕРіР°С‚СЃС‚РІ Рё РїРѕС‡РµСЃС‚РµР№ Р·РµРјРЅС‹С…;</plain>
         </string>
         <string>
-            <plain>Моим всем сердцем Тебя люблю я,</plain>
+            <plain>РњРѕРёРј РІСЃРµРј СЃРµСЂРґС†РµРј РўРµР±СЏ Р»СЋР±Р»СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>Хочу с Тобой быть каждый миг.</plain>
+            <plain>РҐРѕС‡Сѓ СЃ РўРѕР±РѕР№ Р±С‹С‚СЊ РєР°Р¶РґС‹Р№ РјРёРі.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Скорблю я часто, душа томится,</plain>
+            <plain>РЎРєРѕСЂР±Р»СЋ СЏ С‡Р°СЃС‚Рѕ, РґСѓС€Р° С‚РѕРјРёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>Не вижу радости бытья.</plain>
+            <plain>РќРµ РІРёР¶Сѓ СЂР°РґРѕСЃС‚Рё Р±С‹С‚СЊСЏ.</plain>
         </string>
         <string>
-            <plain>Я одинокий, как в клетке птица,</plain>
+            <plain>РЇ РѕРґРёРЅРѕРєРёР№, РєР°Рє РІ РєР»РµС‚РєРµ РїС‚РёС†Р°,</plain>
         </string>
         <string>
-            <plain>И умолкает песнь моя.</plain>
+            <plain>Р СѓРјРѕР»РєР°РµС‚ РїРµСЃРЅСЊ РјРѕСЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Никто не знает, не спросит даже</plain>
+            <plain>РќРёРєС‚Рѕ РЅРµ Р·РЅР°РµС‚, РЅРµ СЃРїСЂРѕСЃРёС‚ РґР°Р¶Рµ</plain>
         </string>
         <string>
-            <plain>Куда и что меня влечет,</plain>
+            <plain>РљСѓРґР° Рё С‡С‚Рѕ РјРµРЅСЏ РІР»РµС‡РµС‚,</plain>
         </string>
         <string>
-            <plain>И кто утешит, кто путь укажет,</plain>
+            <plain>Р РєС‚Рѕ СѓС‚РµС€РёС‚, РєС‚Рѕ РїСѓС‚СЊ СѓРєР°Р¶РµС‚,</plain>
         </string>
         <string>
-            <plain>Когда на сердце тяжкий гнет?</plain>
+            <plain>РљРѕРіРґР° РЅР° СЃРµСЂРґС†Рµ С‚СЏР¶РєРёР№ РіРЅРµС‚?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Мне мир чужим стал, и я - для мира.</plain>
+            <plain>РњРЅРµ РјРёСЂ С‡СѓР¶РёРј СЃС‚Р°Р», Рё СЏ - РґР»СЏ РјРёСЂР°.</plain>
         </string>
         <string>
-            <plain>О Боже, дай мне Твой покой!</plain>
+            <plain>Рћ Р‘РѕР¶Рµ, РґР°Р№ РјРЅРµ РўРІРѕР№ РїРѕРєРѕР№!</plain>
         </string>
         <string>
-            <plain>Устал бороться, слабеют силы,</plain>
+            <plain>РЈСЃС‚Р°Р» Р±РѕСЂРѕС‚СЊСЃСЏ, СЃР»Р°Р±РµСЋС‚ СЃРёР»С‹,</plain>
         </string>
         <string>
-            <plain>А путь далекий предо мной.</plain>
+            <plain>Рђ РїСѓС‚СЊ РґР°Р»РµРєРёР№ РїСЂРµРґРѕ РјРЅРѕР№.</plain>
         </string>
     </verse>
 </psalm>

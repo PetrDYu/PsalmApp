@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="666" name="Вот идет Господь с сияньем" canon="false" text="" textRus="" music="">
+<psalm number="666" name="Р’РѕС‚ РёРґРµС‚ Р“РѕСЃРїРѕРґСЊ СЃ СЃРёСЏРЅСЊРµРј" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот идет Господь с сияньем</plain>
+            <plain>Р’РѕС‚ РёРґРµС‚ Р“РѕСЃРїРѕРґСЊ СЃ СЃРёСЏРЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>И с победным торжеством;</plain>
+            <plain>Р СЃ РїРѕР±РµРґРЅС‹Рј С‚РѕСЂР¶РµСЃС‚РІРѕРј;</plain>
         </string>
         <string>
-            <plain>О, придите с ликованьем</plain>
+            <plain>Рћ, РїСЂРёРґРёС‚Рµ СЃ Р»РёРєРѕРІР°РЅСЊРµРј</plain>
         </string>
         <string>
-            <plain>И пред Ним с хвалой падем!</plain>
+            <plain>Р РїСЂРµРґ РќРёРј СЃ С…РІР°Р»РѕР№ РїР°РґРµРј!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Братья, славу воспевайте:</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, СЃР»Р°РІСѓ РІРѕСЃРїРµРІР°Р№С‚Рµ:</plain>
         </string>
         <string>
-            <plain>Воцарился "Муж скорбей"!</plain>
+            <plain>Р’РѕС†Р°СЂРёР»СЃСЏ "РњСѓР¶ СЃРєРѕСЂР±РµР№"!</plain>
         </string>
         <string>
-            <plain>И на Господа взирайте</plain>
+            <plain>Р РЅР° Р“РѕСЃРїРѕРґР° РІР·РёСЂР°Р№С‚Рµ</plain>
         </string>
         <string>
-            <plain>Взором радостных очей.</plain>
+            <plain>Р’Р·РѕСЂРѕРј СЂР°РґРѕСЃС‚РЅС‹С… РѕС‡РµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Славный день настал венчанья,</plain>
+            <plain>РЎР»Р°РІРЅС‹Р№ РґРµРЅСЊ РЅР°СЃС‚Р°Р» РІРµРЅС‡Р°РЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>На престол Господь вступил,</plain>
+            <plain>РќР° РїСЂРµСЃС‚РѕР» Р“РѕСЃРїРѕРґСЊ РІСЃС‚СѓРїРёР»,</plain>
         </string>
         <string>
-            <plain>И основы мирозданья</plain>
+            <plain>Р РѕСЃРЅРѕРІС‹ РјРёСЂРѕР·РґР°РЅСЊСЏ</plain>
         </string>
         <string>
-            <plain>Свет спасенья озарил.</plain>
+            <plain>РЎРІРµС‚ СЃРїР°СЃРµРЅСЊСЏ РѕР·Р°СЂРёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>На кресте в венце терновом</plain>
+            <plain>РќР° РєСЂРµСЃС‚Рµ РІ РІРµРЅС†Рµ С‚РµСЂРЅРѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Голова была Христа,</plain>
+            <plain>Р“РѕР»РѕРІР° Р±С‹Р»Р° РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>А теперь в сиянье новом</plain>
+            <plain>Рђ С‚РµРїРµСЂСЊ РІ СЃРёСЏРЅСЊРµ РЅРѕРІРѕРј</plain>
         </string>
         <string>
-            <plain>Блещет лика красота.</plain>
+            <plain>Р‘Р»РµС‰РµС‚ Р»РёРєР° РєСЂР°СЃРѕС‚Р°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>В небесах в согласье стройном</plain>
+            <plain>Р’ РЅРµР±РµСЃР°С… РІ СЃРѕРіР»Р°СЃСЊРµ СЃС‚СЂРѕР№РЅРѕРј</plain>
         </string>
         <string>
-            <plain>Все хвалу Христу поют;</plain>
+            <plain>Р’СЃРµ С…РІР°Р»Сѓ РҐСЂРёСЃС‚Сѓ РїРѕСЋС‚;</plain>
         </string>
         <string>
-            <plain>Вдохновением спокойным</plain>
+            <plain>Р’РґРѕС…РЅРѕРІРµРЅРёРµРј СЃРїРѕРєРѕР№РЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Реки радости текут.</plain>
+            <plain>Р РµРєРё СЂР°РґРѕСЃС‚Рё С‚РµРєСѓС‚.</plain>
         </string>
     </verse>
 </psalm>

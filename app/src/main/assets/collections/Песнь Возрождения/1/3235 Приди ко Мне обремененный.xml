@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3235" name="Приди ко Мне обремененный" canon="false" text="" textRus="" music="">
+<psalm number="3235" name="РџСЂРёРґРё РєРѕ РњРЅРµ РѕР±СЂРµРјРµРЅРµРЅРЅС‹Р№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Приди ко Мне, обремененный</plain>
+            <plain>РџСЂРёРґРё РєРѕ РњРЅРµ, РѕР±СЂРµРјРµРЅРµРЅРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>грехом и тяжкою виной,</plain>
+            <plain>РіСЂРµС…РѕРј Рё С‚СЏР¶РєРѕСЋ РІРёРЅРѕР№,</plain>
         </string>
         <string>
-            <plain>ты на Меня сложи всю тяжесть.</plain>
+            <plain>С‚С‹ РЅР° РњРµРЅСЏ СЃР»РѕР¶Рё РІСЃСЋ С‚СЏР¶РµСЃС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Приди, блаженство дам, покой!</plain>
+            <plain>РџСЂРёРґРё, Р±Р»Р°Р¶РµРЅСЃС‚РІРѕ РґР°Рј, РїРѕРєРѕР№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Обременённые, придите,</plain>
+            <plain>РћР±СЂРµРјРµРЅС‘РЅРЅС‹Рµ, РїСЂРёРґРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>голос зовущий слушайте Мой.</plain>
+            <plain>РіРѕР»РѕСЃ Р·РѕРІСѓС‰РёР№ СЃР»СѓС€Р°Р№С‚Рµ РњРѕР№.</plain>
         </string>
         <string>
-            <plain>Ко Мне придите жизнь примите.</plain>
+            <plain>РљРѕ РњРЅРµ РїСЂРёРґРёС‚Рµ Р¶РёР·РЅСЊ РїСЂРёРјРёС‚Рµ.</plain>
         </string>
         <string>
-            <plain>Ко Мне придите, дам покой!</plain>
+            <plain>РљРѕ РњРЅРµ РїСЂРёРґРёС‚Рµ, РґР°Рј РїРѕРєРѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Приди ко Мне, когда ты алчешь,</plain>
+            <plain>РџСЂРёРґРё РєРѕ РњРЅРµ, РєРѕРіРґР° С‚С‹ Р°Р»С‡РµС€СЊ,</plain>
         </string>
         <string>
-            <plain>и вечной жизни хлеб возьми!</plain>
+            <plain>Рё РІРµС‡РЅРѕР№ Р¶РёР·РЅРё С…Р»РµР± РІРѕР·СЊРјРё!</plain>
         </string>
         <string>
-            <plain>Здесь для тебя открыт источник:</plain>
+            <plain>Р—РґРµСЃСЊ РґР»СЏ С‚РµР±СЏ РѕС‚РєСЂС‹С‚ РёСЃС‚РѕС‡РЅРёРє:</plain>
         </string>
         <string>
-            <plain>доверься Мне и ввек живи.</plain>
+            <plain>РґРѕРІРµСЂСЊСЃСЏ РњРЅРµ Рё РІРІРµРє Р¶РёРІРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Приди ко Мне для очищенья,</plain>
+            <plain>РџСЂРёРґРё РєРѕ РњРЅРµ РґР»СЏ РѕС‡РёС‰РµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>приди, чтоб грех Я твой омыл!</plain>
+            <plain>РїСЂРёРґРё, С‡С‚РѕР± РіСЂРµС… РЇ С‚РІРѕР№ РѕРјС‹Р»!</plain>
         </string>
         <string>
-            <plain>Я за тебя страдал невинно,</plain>
+            <plain>РЇ Р·Р° С‚РµР±СЏ СЃС‚СЂР°РґР°Р» РЅРµРІРёРЅРЅРѕ,</plain>
         </string>
         <string>
-            <plain>тебя Собою искупил.</plain>
+            <plain>С‚РµР±СЏ РЎРѕР±РѕСЋ РёСЃРєСѓРїРёР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Приди ко Мне, когда нагрянет</plain>
+            <plain>РџСЂРёРґРё РєРѕ РњРЅРµ, РєРѕРіРґР° РЅР°РіСЂСЏРЅРµС‚</plain>
         </string>
         <string>
-            <plain>большое горе, страх, нужда.</plain>
+            <plain>Р±РѕР»СЊС€РѕРµ РіРѕСЂРµ, СЃС‚СЂР°С…, РЅСѓР¶РґР°.</plain>
         </string>
         <string>
-            <plain>Я укреплю больную душу,</plain>
+            <plain>РЇ СѓРєСЂРµРїР»СЋ Р±РѕР»СЊРЅСѓСЋ РґСѓС€Сѓ,</plain>
         </string>
         <string>
-            <plain>останусь верным до конца.</plain>
+            <plain>РѕСЃС‚Р°РЅСѓСЃСЊ РІРµСЂРЅС‹Рј РґРѕ РєРѕРЅС†Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Приди ко Мне с твоим страданьем,</plain>
+            <plain>РџСЂРёРґРё РєРѕ РњРЅРµ СЃ С‚РІРѕРёРј СЃС‚СЂР°РґР°РЅСЊРµРј,</plain>
         </string>
         <string>
-            <plain>возьму его Я на Себя.</plain>
+            <plain>РІРѕР·СЊРјСѓ РµРіРѕ РЇ РЅР° РЎРµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Болезни, горе и несчастья</plain>
+            <plain>Р‘РѕР»РµР·РЅРё, РіРѕСЂРµ Рё РЅРµСЃС‡Р°СЃС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>- всё возложи ты на Меня.</plain>
+            <plain>- РІСЃС‘ РІРѕР·Р»РѕР¶Рё С‚С‹ РЅР° РњРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Во всех делах был искушён я,</plain>
+            <plain>Р’Рѕ РІСЃРµС… РґРµР»Р°С… Р±С‹Р» РёСЃРєСѓС€С‘РЅ СЏ,</plain>
         </string>
         <string>
-            <plain>И я могу понять тебя.</plain>
+            <plain>Р СЏ РјРѕРіСѓ РїРѕРЅСЏС‚СЊ С‚РµР±СЏ.</plain>
         </string>
         <string>
-            <plain>Ныне приди, душа больная,</plain>
+            <plain>РќС‹РЅРµ РїСЂРёРґРё, РґСѓС€Р° Р±РѕР»СЊРЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>прими дар вечный от Меня.</plain>
+            <plain>РїСЂРёРјРё РґР°СЂ РІРµС‡РЅС‹Р№ РѕС‚ РњРµРЅСЏ.</plain>
         </string>
     </verse>
 </psalm>

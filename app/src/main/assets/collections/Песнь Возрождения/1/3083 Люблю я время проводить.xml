@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3083" name="Люблю я время проводить" canon="false" text="" textRus="" music="">
+<psalm number="3083" name="Р›СЋР±Р»СЋ СЏ РІСЂРµРјСЏ РїСЂРѕРІРѕРґРёС‚СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Люблю я время проводить</plain>
+            <plain>Р›СЋР±Р»СЋ СЏ РІСЂРµРјСЏ РїСЂРѕРІРѕРґРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>с Тобой наедине,</plain>
+            <plain>СЃ РўРѕР±РѕР№ РЅР°РµРґРёРЅРµ,</plain>
         </string>
         <string>
-            <plain>где близок Ты, Господь,</plain>
+            <plain>РіРґРµ Р±Р»РёР·РѕРє РўС‹, Р“РѕСЃРїРѕРґСЊ,</plain>
         </string>
         <string>
-            <plain>ко мне, и думать о Тебе.</plain>
+            <plain>РєРѕ РјРЅРµ, Рё РґСѓРјР°С‚СЊ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Помню, Господь, я о Тебе и о любви Твоей.</plain>
+            <plain>РџРѕРјРЅСЋ, Р“РѕСЃРїРѕРґСЊ, СЏ Рѕ РўРµР±Рµ Рё Рѕ Р»СЋР±РІРё РўРІРѕРµР№.</plain>
         </string>
         <string>
-            <plain>Твоя любовь огонь зажгла в душе моей.</plain>
+            <plain>РўРІРѕСЏ Р»СЋР±РѕРІСЊ РѕРіРѕРЅСЊ Р·Р°Р¶РіР»Р° РІ РґСѓС€Рµ РјРѕРµР№.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я слышу, как Ты за меня</plain>
+            <plain>РЇ СЃР»С‹С€Сѓ, РєР°Рє РўС‹ Р·Р° РјРµРЅСЏ</plain>
         </string>
         <string>
-            <plain>молился на горе,</plain>
+            <plain>РјРѕР»РёР»СЃСЏ РЅР° РіРѕСЂРµ,</plain>
         </string>
         <string>
-            <plain>я вижу слёз Твоих</plain>
+            <plain>СЏ РІРёР¶Сѓ СЃР»С‘Р· РўРІРѕРёС…</plain>
         </string>
         <string>
-            <plain>поток и помню о Тебе.</plain>
+            <plain>РїРѕС‚РѕРє Рё РїРѕРјРЅСЋ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Я вижу: в Гефсимании пот-</plain>
+            <plain>РЇ РІРёР¶Сѓ: РІ Р“РµС„СЃРёРјР°РЅРёРё РїРѕС‚-</plain>
         </string>
         <string>
-            <plain>кровью на челе,</plain>
+            <plain>РєСЂРѕРІСЊСЋ РЅР° С‡РµР»Рµ,</plain>
         </string>
         <string>
-            <plain>там Ты боролся за меня.</plain>
+            <plain>С‚Р°Рј РўС‹ Р±РѕСЂРѕР»СЃСЏ Р·Р° РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Я помню о Тебе.</plain>
+            <plain>РЇ РїРѕРјРЅСЋ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Тебя я вижу на кресте</plain>
+            <plain>РўРµР±СЏ СЏ РІРёР¶Сѓ РЅР° РєСЂРµСЃС‚Рµ</plain>
         </string>
         <string>
-            <plain>со скорбью на лице.</plain>
+            <plain>СЃРѕ СЃРєРѕСЂР±СЊСЋ РЅР° Р»РёС†Рµ.</plain>
         </string>
         <string>
-            <plain>Ты, Агнец, за меня страдал!</plain>
+            <plain>РўС‹, РђРіРЅРµС†, Р·Р° РјРµРЅСЏ СЃС‚СЂР°РґР°Р»!</plain>
         </string>
         <string>
-            <plain>Я помню о Тебе!</plain>
+            <plain>РЇ РїРѕРјРЅСЋ Рѕ РўРµР±Рµ!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Воскресшим вижу я</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃС€РёРј РІРёР¶Сѓ СЏ</plain>
         </string>
         <string>
-            <plain>Тебя во славе, в вышине.</plain>
+            <plain>РўРµР±СЏ РІРѕ СЃР»Р°РІРµ, РІ РІС‹С€РёРЅРµ.</plain>
         </string>
         <string>
-            <plain>Твои святые Ждут Тебя</plain>
+            <plain>РўРІРѕРё СЃРІСЏС‚С‹Рµ Р–РґСѓС‚ РўРµР±СЏ</plain>
         </string>
         <string>
-            <plain>и помнят о Тебе.</plain>
+            <plain>Рё РїРѕРјРЅСЏС‚ Рѕ РўРµР±Рµ.</plain>
         </string>
     </verse>
 </psalm>

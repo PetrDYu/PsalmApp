@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2425" name="Я совершаю путь свой дальний" canon="false" text="" textRus="" music="">
+<psalm number="2425" name="РЇ СЃРѕРІРµСЂС€Р°СЋ РїСѓС‚СЊ СЃРІРѕР№ РґР°Р»СЊРЅРёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Я совершаю путь свой дальний</plain>
+            <plain>РЇ СЃРѕРІРµСЂС€Р°СЋ РїСѓС‚СЊ СЃРІРѕР№ РґР°Р»СЊРЅРёР№</plain>
         </string>
         <string>
-            <plain>От тьмы к рассвету, всё вперед.</plain>
+            <plain>РћС‚ С‚СЊРјС‹ Рє СЂР°СЃСЃРІРµС‚Сѓ, РІСЃС‘ РІРїРµСЂРµРґ.</plain>
         </string>
         <string>
-            <plain>То вдруг очнусь я над пучиной</plain>
+            <plain>РўРѕ РІРґСЂСѓРі РѕС‡РЅСѓСЃСЊ СЏ РЅР°Рґ РїСѓС‡РёРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Безумно бесконечны вод,</plain>
+            <plain>Р‘РµР·СѓРјРЅРѕ Р±РµСЃРєРѕРЅРµС‡РЅС‹ РІРѕРґ,</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>То упаду, споткнувшись больно</plain>
+            <plain>РўРѕ СѓРїР°РґСѓ, СЃРїРѕС‚РєРЅСѓРІС€РёСЃСЊ Р±РѕР»СЊРЅРѕ</plain>
         </string>
         <string>
-            <plain>Об острый камень на пути.</plain>
+            <plain>РћР± РѕСЃС‚СЂС‹Р№ РєР°РјРµРЅСЊ РЅР° РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Но не промолвлю я:</plain>
+            <plain>РќРѕ РЅРµ РїСЂРѕРјРѕР»РІР»СЋ СЏ:</plain>
         </string>
         <string>
-            <plain>"Довольно", Мне надо всё вперёд идти.</plain>
+            <plain>"Р”РѕРІРѕР»СЊРЅРѕ", РњРЅРµ РЅР°РґРѕ РІСЃС‘ РІРїРµСЂС‘Рґ РёРґС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Проходит день, обманный вечер</plain>
+            <plain>РџСЂРѕС…РѕРґРёС‚ РґРµРЅСЊ, РѕР±РјР°РЅРЅС‹Р№ РІРµС‡РµСЂ</plain>
         </string>
         <string>
-            <plain>Не принесёт покоя мне.</plain>
+            <plain>РќРµ РїСЂРёРЅРµСЃС‘С‚ РїРѕРєРѕСЏ РјРЅРµ.</plain>
         </string>
         <string>
-            <plain>А ночью бессердечный ветер</plain>
+            <plain>Рђ РЅРѕС‡СЊСЋ Р±РµСЃСЃРµСЂРґРµС‡РЅС‹Р№ РІРµС‚РµСЂ</plain>
         </string>
         <string>
-            <plain>Пронзит меня в случайном сне.</plain>
+            <plain>РџСЂРѕРЅР·РёС‚ РјРµРЅСЏ РІ СЃР»СѓС‡Р°Р№РЅРѕРј СЃРЅРµ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И так без отдыха и крова</plain>
+            <plain>Р С‚Р°Рє Р±РµР· РѕС‚РґС‹С…Р° Рё РєСЂРѕРІР°</plain>
         </string>
         <string>
-            <plain>От солнца к ночи, снова к дню</plain>
+            <plain>РћС‚ СЃРѕР»РЅС†Р° Рє РЅРѕС‡Рё, СЃРЅРѕРІР° Рє РґРЅСЋ</plain>
         </string>
         <string>
-            <plain>Иду я к цели, давши слово;</plain>
+            <plain>РРґСѓ СЏ Рє С†РµР»Рё, РґР°РІС€Рё СЃР»РѕРІРѕ;</plain>
         </string>
         <string>
-            <plain>Что обещал - не изменю.</plain>
+            <plain>Р§С‚Рѕ РѕР±РµС‰Р°Р» - РЅРµ РёР·РјРµРЅСЋ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Мне мил мой путь, леса, и камни,</plain>
+            <plain>РњРЅРµ РјРёР» РјРѕР№ РїСѓС‚СЊ, Р»РµСЃР°, Рё РєР°РјРЅРё,</plain>
         </string>
         <string>
-            <plain>И дождь, и ветер, и утёс.</plain>
+            <plain>Р РґРѕР¶РґСЊ, Рё РІРµС‚РµСЂ, Рё СѓС‚С‘СЃ.</plain>
         </string>
         <string>
-            <plain>Я радуюсь, что цель близка мне,</plain>
+            <plain>РЇ СЂР°РґСѓСЋСЃСЊ, С‡С‚Рѕ С†РµР»СЊ Р±Р»РёР·РєР° РјРЅРµ,</plain>
         </string>
         <string>
-            <plain>А эта цель - мой Христос.</plain>
+            <plain>Рђ СЌС‚Р° С†РµР»СЊ - РјРѕР№ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </verse>
 </psalm>

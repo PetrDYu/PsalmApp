@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="731" name="О Тебе пою Спаситель" canon="false" text="" textRus="" music="">
+<psalm number="731" name="Рћ РўРµР±Рµ РїРѕСЋ РЎРїР°СЃРёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О Тебе пою, Спаситель,</plain>
+            <plain>Рћ РўРµР±Рµ РїРѕСЋ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Этот гимн души моей</plain>
+            <plain>Р­С‚РѕС‚ РіРёРјРЅ РґСѓС€Рё РјРѕРµР№</plain>
         </string>
         <string>
-            <plain>На пути земном в обитель,</plain>
+            <plain>РќР° РїСѓС‚Рё Р·РµРјРЅРѕРј РІ РѕР±РёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>На пути борьбы, скорбей.</plain>
+            <plain>РќР° РїСѓС‚Рё Р±РѕСЂСЊР±С‹, СЃРєРѕСЂР±РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В этом гимне - утешенье,</plain>
+            <plain>Р’ СЌС‚РѕРј РіРёРјРЅРµ - СѓС‚РµС€РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Зов небесной красоты,</plain>
+            <plain>Р—РѕРІ РЅРµР±РµСЃРЅРѕР№ РєСЂР°СЃРѕС‚С‹,</plain>
         </string>
         <string>
-            <plain>В нем и сила и забвенье,</plain>
+            <plain>Р’ РЅРµРј Рё СЃРёР»Р° Рё Р·Р°Р±РІРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Этот гимн, Спаситель, - Ты.</plain>
+            <plain>Р­С‚РѕС‚ РіРёРјРЅ, РЎРїР°СЃРёС‚РµР»СЊ, - РўС‹.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Труден путь, но гимн прекрасный</plain>
+            <plain>РўСЂСѓРґРµРЅ РїСѓС‚СЊ, РЅРѕ РіРёРјРЅ РїСЂРµРєСЂР°СЃРЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Помогает мне идти</plain>
+            <plain>РџРѕРјРѕРіР°РµС‚ РјРЅРµ РёРґС‚Рё</plain>
         </string>
         <string>
-            <plain>И Христовой силой властной</plain>
+            <plain>Р РҐСЂРёСЃС‚РѕРІРѕР№ СЃРёР»РѕР№ РІР»Р°СЃС‚РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Дух мой радует в пути.</plain>
+            <plain>Р”СѓС… РјРѕР№ СЂР°РґСѓРµС‚ РІ РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>И когда приду я в вечность,</plain>
+            <plain>Р РєРѕРіРґР° РїСЂРёРґСѓ СЏ РІ РІРµС‡РЅРѕСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Этот гимн опять спою,</plain>
+            <plain>Р­С‚РѕС‚ РіРёРјРЅ РѕРїСЏС‚СЊ СЃРїРѕСЋ,</plain>
         </string>
         <string>
-            <plain>Гимн святой и бесконечный</plain>
+            <plain>Р“РёРјРЅ СЃРІСЏС‚РѕР№ Рё Р±РµСЃРєРѕРЅРµС‡РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>Про святую жизнь в раю.</plain>
+            <plain>РџСЂРѕ СЃРІСЏС‚СѓСЋ Р¶РёР·РЅСЊ РІ СЂР°СЋ.</plain>
         </string>
     </verse>
 </psalm>

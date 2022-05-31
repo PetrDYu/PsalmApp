@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1199" name="Небо голубое небо" canon="false" text="" textRus="" music="">
+<psalm number="1199" name="РќРµР±Рѕ РіРѕР»СѓР±РѕРµ РЅРµР±Рѕ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Небо, голубое небо,</plain>
+            <plain>РќРµР±Рѕ, РіРѕР»СѓР±РѕРµ РЅРµР±Рѕ,</plain>
         </string>
         <string>
-            <plain>Восхищаюсь я тобой.</plain>
+            <plain>Р’РѕСЃС…РёС‰Р°СЋСЃСЊ СЏ С‚РѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Никогда в тебе я не был,</plain>
+            <plain>РќРёРєРѕРіРґР° РІ С‚РµР±Рµ СЏ РЅРµ Р±С‹Р»,</plain>
         </string>
         <string>
-            <plain>А теперь стремлюсь душой.</plain>
+            <plain>Рђ С‚РµРїРµСЂСЊ СЃС‚СЂРµРјР»СЋСЃСЊ РґСѓС€РѕР№.</plain>
         </string>
         <string>
-            <plain>Всей душой стремлюсь туда я,</plain>
+            <plain>Р’СЃРµР№ РґСѓС€РѕР№ СЃС‚СЂРµРјР»СЋСЃСЊ С‚СѓРґР° СЏ,</plain>
         </string>
         <string>
-            <plain>В Боге там найти покой,</plain>
+            <plain>Р’ Р‘РѕРіРµ С‚Р°Рј РЅР°Р№С‚Рё РїРѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>Там я воспою, ликуя,</plain>
+            <plain>РўР°Рј СЏ РІРѕСЃРїРѕСЋ, Р»РёРєСѓСЏ,</plain>
         </string>
         <string>
-            <plain>Он мне дал венец такой.</plain>
+            <plain>РћРЅ РјРЅРµ РґР°Р» РІРµРЅРµС† С‚Р°РєРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О небо, ты - венец моей мечты,</plain>
+            <plain>Рћ РЅРµР±Рѕ, С‚С‹ - РІРµРЅРµС† РјРѕРµР№ РјРµС‡С‚С‹,</plain>
         </string>
         <string>
-            <plain>К тебе я возношусь от суеты.</plain>
+            <plain>Рљ С‚РµР±Рµ СЏ РІРѕР·РЅРѕС€СѓСЃСЊ РѕС‚ СЃСѓРµС‚С‹.</plain>
         </string>
         <string>
-            <plain>Творцу хвалу слагаю я,</plain>
+            <plain>РўРІРѕСЂС†Сѓ С…РІР°Р»Сѓ СЃР»Р°РіР°СЋ СЏ,</plain>
         </string>
         <string>
-            <plain>- Он создал небо для меня.</plain>
+            <plain>- РћРЅ СЃРѕР·РґР°Р» РЅРµР±Рѕ РґР»СЏ РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Небо, голубое небо.</plain>
+            <plain>РќРµР±Рѕ, РіРѕР»СѓР±РѕРµ РЅРµР±Рѕ.</plain>
         </string>
         <string>
-            <plain>Ты меня влечёшь собой.</plain>
+            <plain>РўС‹ РјРµРЅСЏ РІР»РµС‡С‘С€СЊ СЃРѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>И как часто я с мольбою</plain>
+            <plain>Р РєР°Рє С‡Р°СЃС‚Рѕ СЏ СЃ РјРѕР»СЊР±РѕСЋ</plain>
         </string>
         <string>
-            <plain>Вновь склоняюсь пред тобой.</plain>
+            <plain>Р’РЅРѕРІСЊ СЃРєР»РѕРЅСЏСЋСЃСЊ РїСЂРµРґ С‚РѕР±РѕР№.</plain>
         </string>
         <string>
-            <plain>Всей душой стремлюсь туда я,</plain>
+            <plain>Р’СЃРµР№ РґСѓС€РѕР№ СЃС‚СЂРµРјР»СЋСЃСЊ С‚СѓРґР° СЏ,</plain>
         </string>
         <string>
-            <plain>В Боге там найти покой.</plain>
+            <plain>Р’ Р‘РѕРіРµ С‚Р°Рј РЅР°Р№С‚Рё РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Там я воспою, ликуя,</plain>
+            <plain>РўР°Рј СЏ РІРѕСЃРїРѕСЋ, Р»РёРєСѓСЏ,</plain>
         </string>
         <string>
-            <plain>Бог мне дал венец такой.</plain>
+            <plain>Р‘РѕРі РјРЅРµ РґР°Р» РІРµРЅРµС† С‚Р°РєРѕР№.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Небо, голубое небо,</plain>
+            <plain>РќРµР±Рѕ, РіРѕР»СѓР±РѕРµ РЅРµР±Рѕ,</plain>
         </string>
         <string>
-            <plain>Бесконечно, вечно ты,</plain>
+            <plain>Р‘РµСЃРєРѕРЅРµС‡РЅРѕ, РІРµС‡РЅРѕ С‚С‹,</plain>
         </string>
         <string>
-            <plain>И к тебе своей красою</plain>
+            <plain>Р Рє С‚РµР±Рµ СЃРІРѕРµР№ РєСЂР°СЃРѕСЋ</plain>
         </string>
         <string>
-            <plain>Вновь парят мои мечты.</plain>
+            <plain>Р’РЅРѕРІСЊ РїР°СЂСЏС‚ РјРѕРё РјРµС‡С‚С‹.</plain>
         </string>
         <string>
-            <plain>Всей душой стремлюсь туда я,</plain>
+            <plain>Р’СЃРµР№ РґСѓС€РѕР№ СЃС‚СЂРµРјР»СЋСЃСЊ С‚СѓРґР° СЏ,</plain>
         </string>
         <string>
-            <plain>В Боге там найти покой.</plain>
+            <plain>Р’ Р‘РѕРіРµ С‚Р°Рј РЅР°Р№С‚Рё РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Там я воспою, ликуя.</plain>
+            <plain>РўР°Рј СЏ РІРѕСЃРїРѕСЋ, Р»РёРєСѓСЏ.</plain>
         </string>
         <string>
-            <plain>Бог мне дал венец такой.</plain>
+            <plain>Р‘РѕРі РјРЅРµ РґР°Р» РІРµРЅРµС† С‚Р°РєРѕР№.</plain>
         </string>
     </verse>
 </psalm>

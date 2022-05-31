@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1484" name="Рождество это праздник света" canon="false" text="" textRus="" music="">
+<psalm number="1484" name="Р РѕР¶РґРµСЃС‚РІРѕ СЌС‚Рѕ РїСЂР°Р·РґРЅРёРє СЃРІРµС‚Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Рождество - это праздник света.</plain>
+            <plain>Р РѕР¶РґРµСЃС‚РІРѕ - СЌС‚Рѕ РїСЂР°Р·РґРЅРёРє СЃРІРµС‚Р°.</plain>
         </string>
         <string>
-            <plain>День рожденья большой Любви.</plain>
+            <plain>Р”РµРЅСЊ СЂРѕР¶РґРµРЅСЊСЏ Р±РѕР»СЊС€РѕР№ Р›СЋР±РІРё.</plain>
         </string>
         <string>
-            <plain>Это - с неба отзвук привета.</plain>
+            <plain>Р­С‚Рѕ - СЃ РЅРµР±Р° РѕС‚Р·РІСѓРє РїСЂРёРІРµС‚Р°.</plain>
         </string>
         <string>
-            <plain>Это - праздник для каждой семьи.</plain>
+            <plain>Р­С‚Рѕ - РїСЂР°Р·РґРЅРёРє РґР»СЏ РєР°Р¶РґРѕР№ СЃРµРјСЊРё.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Рождество - это воля Бога,</plain>
+            <plain>Р РѕР¶РґРµСЃС‚РІРѕ - СЌС‚Рѕ РІРѕР»СЏ Р‘РѕРіР°,</plain>
         </string>
         <string>
-            <plain>Это новая в небе звезда,</plain>
+            <plain>Р­С‚Рѕ РЅРѕРІР°СЏ РІ РЅРµР±Рµ Р·РІРµР·РґР°,</plain>
         </string>
         <string>
-            <plain>К жизни вечной прямая дорога,</plain>
+            <plain>Рљ Р¶РёР·РЅРё РІРµС‡РЅРѕР№ РїСЂСЏРјР°СЏ РґРѕСЂРѕРіР°,</plain>
         </string>
         <string>
-            <plain>Это - хлеб и живая вода.</plain>
+            <plain>Р­С‚Рѕ - С…Р»РµР± Рё Р¶РёРІР°СЏ РІРѕРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Рождество - это праздник мира,</plain>
+            <plain>Р РѕР¶РґРµСЃС‚РІРѕ - СЌС‚Рѕ РїСЂР°Р·РґРЅРёРє РјРёСЂР°,</plain>
         </string>
         <string>
-            <plain>Примиренье людей с Творцом.</plain>
+            <plain>РџСЂРёРјРёСЂРµРЅСЊРµ Р»СЋРґРµР№ СЃ РўРІРѕСЂС†РѕРј.</plain>
         </string>
         <string>
-            <plain>Пусть сердца откроются шире</plain>
+            <plain>РџСѓСЃС‚СЊ СЃРµСЂРґС†Р° РѕС‚РєСЂРѕСЋС‚СЃСЏ С€РёСЂРµ</plain>
         </string>
         <string>
-            <plain>В этот праздничный день пред Христом.</plain>
+            <plain>Р’ СЌС‚РѕС‚ РїСЂР°Р·РґРЅРёС‡РЅС‹Р№ РґРµРЅСЊ РїСЂРµРґ РҐСЂРёСЃС‚РѕРј.</plain>
         </string>
     </verse>
 </psalm>

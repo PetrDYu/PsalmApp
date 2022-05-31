@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="860" name="Вот и опять прощание" canon="false" text="" textRus="" music="">
+<psalm number="860" name="Р’РѕС‚ Рё РѕРїСЏС‚СЊ РїСЂРѕС‰Р°РЅРёРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вот и опять прощание,</plain>
+            <plain>Р’РѕС‚ Рё РѕРїСЏС‚СЊ РїСЂРѕС‰Р°РЅРёРµ,</plain>
         </string>
         <string>
-            <plain>Снова вокзал и дороги...</plain>
+            <plain>РЎРЅРѕРІР° РІРѕРєР·Р°Р» Рё РґРѕСЂРѕРіРё...</plain>
         </string>
         <string>
-            <plain>Последнее пожелание,</plain>
+            <plain>РџРѕСЃР»РµРґРЅРµРµ РїРѕР¶РµР»Р°РЅРёРµ,</plain>
         </string>
         <string>
-            <plain>Краткое слово: "С Богом!"</plain>
+            <plain>РљСЂР°С‚РєРѕРµ СЃР»РѕРІРѕ: "РЎ Р‘РѕРіРѕРј!"</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>С Богом в дорогу дальнюю,</plain>
+            <plain>РЎ Р‘РѕРіРѕРј РІ РґРѕСЂРѕРіСѓ РґР°Р»СЊРЅСЋСЋ,</plain>
         </string>
         <string>
-            <plain>С Богом на труд и страдания.</plain>
+            <plain>РЎ Р‘РѕРіРѕРј РЅР° С‚СЂСѓРґ Рё СЃС‚СЂР°РґР°РЅРёСЏ.</plain>
         </string>
         <string>
-            <plain>Видно далекое зарево,</plain>
+            <plain>Р’РёРґРЅРѕ РґР°Р»РµРєРѕРµ Р·Р°СЂРµРІРѕ,</plain>
         </string>
         <string>
-            <plain>С Богом, друзья, до свидания!</plain>
+            <plain>РЎ Р‘РѕРіРѕРј, РґСЂСѓР·СЊСЏ, РґРѕ СЃРІРёРґР°РЅРёСЏ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Скоро ль придется встретиться</plain>
+            <plain>РЎРєРѕСЂРѕ Р»СЊ РїСЂРёРґРµС‚СЃСЏ РІСЃС‚СЂРµС‚РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>В жизненном море скитания?</plain>
+            <plain>Р’ Р¶РёР·РЅРµРЅРЅРѕРј РјРѕСЂРµ СЃРєРёС‚Р°РЅРёСЏ?</plain>
         </string>
         <string>
-            <plain>А горизонт все светится,</plain>
+            <plain>Рђ РіРѕСЂРёР·РѕРЅС‚ РІСЃРµ СЃРІРµС‚РёС‚СЃСЏ,</plain>
         </string>
         <string>
-            <plain>С Богом, друзья, до свидания.</plain>
+            <plain>РЎ Р‘РѕРіРѕРј, РґСЂСѓР·СЊСЏ, РґРѕ СЃРІРёРґР°РЅРёСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Жизнь наша скоротечная,</plain>
+            <plain>Р–РёР·РЅСЊ РЅР°С€Р° СЃРєРѕСЂРѕС‚РµС‡РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>В небо - одно лишь желание.</plain>
+            <plain>Р’ РЅРµР±Рѕ - РѕРґРЅРѕ Р»РёС€СЊ Р¶РµР»Р°РЅРёРµ.</plain>
         </string>
         <string>
-            <plain>На смену придет жизнь вечная,</plain>
+            <plain>РќР° СЃРјРµРЅСѓ РїСЂРёРґРµС‚ Р¶РёР·РЅСЊ РІРµС‡РЅР°СЏ,</plain>
         </string>
         <string>
-            <plain>Скажем: "Земля, до свидания!"</plain>
+            <plain>РЎРєР°Р¶РµРј: "Р—РµРјР»СЏ, РґРѕ СЃРІРёРґР°РЅРёСЏ!"</plain>
         </string>
     </verse>
 </psalm>

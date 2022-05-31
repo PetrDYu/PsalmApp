@@ -1,70 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1498" name="Эту песню пою я для вас" canon="false" text="" textRus="" music="">
+<psalm number="1498" name="Р­С‚Сѓ РїРµСЃРЅСЋ РїРѕСЋ СЏ РґР»СЏ РІР°СЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Эту песню пою я для вас.</plain>
+            <plain>Р­С‚Сѓ РїРµСЃРЅСЋ РїРѕСЋ СЏ РґР»СЏ РІР°СЃ.</plain>
         </string>
         <string>
-            <plain>Дорогие мои друзья,</plain>
+            <plain>Р”РѕСЂРѕРіРёРµ РјРѕРё РґСЂСѓР·СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Я желаю сказать в этот час:</plain>
+            <plain>РЇ Р¶РµР»Р°СЋ СЃРєР°Р·Р°С‚СЊ РІ СЌС‚РѕС‚ С‡Р°СЃ:</plain>
         </string>
         <string>
-            <plain>Будьте счастливы вы всегда.</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ СЃС‡Р°СЃС‚Р»РёРІС‹ РІС‹ РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Будьте счастливы.</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ СЃС‡Р°СЃС‚Р»РёРІС‹.</plain>
         </string>
         <string>
-            <plain>Будьте счастливы,</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ СЃС‡Р°СЃС‚Р»РёРІС‹,</plain>
         </string>
         <string>
-            <plain>Будьте счастливы вы всегда!</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ СЃС‡Р°СЃС‚Р»РёРІС‹ РІС‹ РІСЃРµРіРґР°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Также хочется мне пожелать,</plain>
+            <plain>РўР°РєР¶Рµ С…РѕС‡РµС‚СЃСЏ РјРЅРµ РїРѕР¶РµР»Р°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб друг друга ценили вы.</plain>
+            <plain>Р§С‚РѕР± РґСЂСѓРі РґСЂСѓРіР° С†РµРЅРёР»Рё РІС‹.</plain>
         </string>
         <string>
-            <plain>Чтоб могли пребывать меж вас</plain>
+            <plain>Р§С‚РѕР± РјРѕРіР»Рё РїСЂРµР±С‹РІР°С‚СЊ РјРµР¶ РІР°СЃ</plain>
         </string>
         <string>
-            <plain>Золотые плоды любви.</plain>
+            <plain>Р—РѕР»РѕС‚С‹Рµ РїР»РѕРґС‹ Р»СЋР±РІРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пусть Христос с вами в путь пойдет,</plain>
+            <plain>РџСѓСЃС‚СЊ РҐСЂРёСЃС‚РѕСЃ СЃ РІР°РјРё РІ РїСѓС‚СЊ РїРѕР№РґРµС‚,</plain>
         </string>
         <string>
-            <plain>И легко будет вам идти;</plain>
+            <plain>Р Р»РµРіРєРѕ Р±СѓРґРµС‚ РІР°Рј РёРґС‚Рё;</plain>
         </string>
         <string>
-            <plain>Если крест будет ваш тяжел.</plain>
+            <plain>Р•СЃР»Рё РєСЂРµСЃС‚ Р±СѓРґРµС‚ РІР°С€ С‚СЏР¶РµР».</plain>
         </string>
         <string>
-            <plain>Бог поможет его вам нести.</plain>
+            <plain>Р‘РѕРі РїРѕРјРѕР¶РµС‚ РµРіРѕ РІР°Рј РЅРµСЃС‚Рё.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Слово Божье читайте вы.</plain>
+            <plain>РЎР»РѕРІРѕ Р‘РѕР¶СЊРµ С‡РёС‚Р°Р№С‚Рµ РІС‹.</plain>
         </string>
         <string>
-            <plain>Оно - помощь вам на пути.</plain>
+            <plain>РћРЅРѕ - РїРѕРјРѕС‰СЊ РІР°Рј РЅР° РїСѓС‚Рё.</plain>
         </string>
         <string>
-            <plain>Если все это будет у вас,</plain>
+            <plain>Р•СЃР»Рё РІСЃРµ СЌС‚Рѕ Р±СѓРґРµС‚ Сѓ РІР°СЃ,</plain>
         </string>
         <string>
-            <plain>Счастье будет всегда меж вас.</plain>
+            <plain>РЎС‡Р°СЃС‚СЊРµ Р±СѓРґРµС‚ РІСЃРµРіРґР° РјРµР¶ РІР°СЃ.</plain>
         </string>
     </verse>
 </psalm>

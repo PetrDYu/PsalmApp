@@ -1,104 +1,104 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3292" name="Почтим мы дар Царя небес" canon="false" text="" textRus="" music="">
+<psalm number="3292" name="РџРѕС‡С‚РёРј РјС‹ РґР°СЂ Р¦Р°СЂСЏ РЅРµР±РµСЃ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Почтим мы дар Царя небес,</plain>
+            <plain>РџРѕС‡С‚РёРј РјС‹ РґР°СЂ Р¦Р°СЂСЏ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>Свободу дал Он нам в тот день,</plain>
+            <plain>РЎРІРѕР±РѕРґСѓ РґР°Р» РћРЅ РЅР°Рј РІ С‚РѕС‚ РґРµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>Когда Христос воскрес</plain>
+            <plain>РљРѕРіРґР° РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ</plain>
         </string>
         <string>
-            <plain>От уз плененья.</plain>
+            <plain>РћС‚ СѓР· РїР»РµРЅРµРЅСЊСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Радость всем принёс Господь.</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ РІСЃРµРј РїСЂРёРЅС‘СЃ Р“РѕСЃРїРѕРґСЊ.</plain>
         </string>
         <string>
-            <plain>Из мёртвых Он воскрес,</plain>
+            <plain>РР· РјС‘СЂС‚РІС‹С… РћРЅ РІРѕСЃРєСЂРµСЃ,</plain>
         </string>
         <string>
-            <plain>Христос воскрес,</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ,</plain>
         </string>
         <string>
-            <plain>Христос воскрес</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ</plain>
         </string>
         <string>
-            <plain>Хвала Ему и честь.</plain>
+            <plain>РҐРІР°Р»Р° Р•РјСѓ Рё С‡РµСЃС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как дивен день, когда Христос воскрес</plain>
+            <plain>РљР°Рє РґРёРІРµРЅ РґРµРЅСЊ, РєРѕРіРґР° РҐСЂРёСЃС‚РѕСЃ РІРѕСЃРєСЂРµСЃ</plain>
         </string>
         <string>
-            <plain>И радость дал о том,</plain>
+            <plain>Р СЂР°РґРѕСЃС‚СЊ РґР°Р» Рѕ С‚РѕРј,</plain>
         </string>
         <string>
-            <plain>Кто смерть за всех принял</plain>
+            <plain>РљС‚Рѕ СЃРјРµСЂС‚СЊ Р·Р° РІСЃРµС… РїСЂРёРЅСЏР»</plain>
         </string>
         <string>
-            <plain>И смертью смерть попрал.</plain>
+            <plain>Р СЃРјРµСЂС‚СЊСЋ СЃРјРµСЂС‚СЊ РїРѕРїСЂР°Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>О, как велик сей день для нас,</plain>
+            <plain>Рћ, РєР°Рє РІРµР»РёРє СЃРµР№ РґРµРЅСЊ РґР»СЏ РЅР°СЃ,</plain>
         </string>
         <string>
-            <plain>Воскрес Спаситель наш</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃ РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€</plain>
         </string>
         <string>
-            <plain>Все мы Ему хвалу поём</plain>
+            <plain>Р’СЃРµ РјС‹ Р•РјСѓ С…РІР°Р»Сѓ РїРѕС‘Рј</plain>
         </string>
         <string>
-            <plain>Воскресшему Христу.</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃС€РµРјСѓ РҐСЂРёСЃС‚Сѓ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>О, братья, сёстры, радость нам</plain>
+            <plain>Рћ, Р±СЂР°С‚СЊСЏ, СЃС‘СЃС‚СЂС‹, СЂР°РґРѕСЃС‚СЊ РЅР°Рј</plain>
         </string>
         <string>
-            <plain>Дана Отцом с небес,</plain>
+            <plain>Р”Р°РЅР° РћС‚С†РѕРј СЃ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>Христос Спаситель наш воскрес</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ РЎРїР°СЃРёС‚РµР»СЊ РЅР°С€ РІРѕСЃРєСЂРµСЃ</plain>
         </string>
         <string>
-            <plain>Блажен, что веришь ты.</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅ, С‡С‚Рѕ РІРµСЂРёС€СЊ С‚С‹.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Ты будешь там, в земле святой,</plain>
+            <plain>РўС‹ Р±СѓРґРµС€СЊ С‚Р°Рј, РІ Р·РµРјР»Рµ СЃРІСЏС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Где светит свет Христа</plain>
+            <plain>Р“РґРµ СЃРІРµС‚РёС‚ СЃРІРµС‚ РҐСЂРёСЃС‚Р°</plain>
         </string>
         <string>
-            <plain>Там все сердца звучат с хвалой,</plain>
+            <plain>РўР°Рј РІСЃРµ СЃРµСЂРґС†Р° Р·РІСѓС‡Р°С‚ СЃ С…РІР°Р»РѕР№,</plain>
         </string>
         <string>
-            <plain>В небесной той стране.</plain>
+            <plain>Р’ РЅРµР±РµСЃРЅРѕР№ С‚РѕР№ СЃС‚СЂР°РЅРµ.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>С мирским богатством не сравнить</plain>
+            <plain>РЎ РјРёСЂСЃРєРёРј Р±РѕРіР°С‚СЃС‚РІРѕРј РЅРµ СЃСЂР°РІРЅРёС‚СЊ</plain>
         </string>
         <string>
-            <plain>Тот город золотой,</plain>
+            <plain>РўРѕС‚ РіРѕСЂРѕРґ Р·РѕР»РѕС‚РѕР№,</plain>
         </string>
         <string>
-            <plain>Там вечно буду петь я с Ним,</plain>
+            <plain>РўР°Рј РІРµС‡РЅРѕ Р±СѓРґСѓ РїРµС‚СЊ СЏ СЃ РќРёРј,</plain>
         </string>
         <string>
-            <plain>И жить в земле святой.</plain>
+            <plain>Р Р¶РёС‚СЊ РІ Р·РµРјР»Рµ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
 </psalm>

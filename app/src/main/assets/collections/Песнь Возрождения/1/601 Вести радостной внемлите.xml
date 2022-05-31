@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="601" name="Вести радостной внемлите" canon="false" text="" textRus="" music="">
+<psalm number="601" name="Р’РµСЃС‚Рё СЂР°РґРѕСЃС‚РЅРѕР№ РІРЅРµРјР»РёС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вести радостной внемлите:</plain>
+            <plain>Р’РµСЃС‚Рё СЂР°РґРѕСЃС‚РЅРѕР№ РІРЅРµРјР»РёС‚Рµ:</plain>
         </string>
         <string>
-            <plain>Бог пришел в юдоль скорбей!</plain>
+            <plain>Р‘РѕРі РїСЂРёС€РµР» РІ СЋРґРѕР»СЊ СЃРєРѕСЂР±РµР№!</plain>
         </string>
         <string>
-            <plain>Всем народам возвестите:</plain>
+            <plain>Р’СЃРµРј РЅР°СЂРѕРґР°Рј РІРѕР·РІРµСЃС‚РёС‚Рµ:</plain>
         </string>
         <string>
-            <plain>Он пришел спасти людей.</plain>
+            <plain>РћРЅ РїСЂРёС€РµР» СЃРїР°СЃС‚Рё Р»СЋРґРµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Слава, слава Богу в вышних!</plain>
+            <plain>РЎР»Р°РІР°, СЃР»Р°РІР° Р‘РѕРіСѓ РІ РІС‹С€РЅРёС…!</plain>
         </string>
         <string>
-            <plain>Слава, ангелы поют;</plain>
+            <plain>РЎР»Р°РІР°, Р°РЅРіРµР»С‹ РїРѕСЋС‚;</plain>
         </string>
         <string>
-            <plain>Слава, слава, мир и благость</plain>
+            <plain>РЎР»Р°РІР°, СЃР»Р°РІР°, РјРёСЂ Рё Р±Р»Р°РіРѕСЃС‚СЊ</plain>
         </string>
         <string>
-            <plain>К нам на землю снизойдут.</plain>
+            <plain>Рљ РЅР°Рј РЅР° Р·РµРјР»СЋ СЃРЅРёР·РѕР№РґСѓС‚.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вот над мрачною землею</plain>
+            <plain>Р’РѕС‚ РЅР°Рґ РјСЂР°С‡РЅРѕСЋ Р·РµРјР»РµСЋ</plain>
         </string>
         <string>
-            <plain>Чудная звезда взошла;</plain>
+            <plain>Р§СѓРґРЅР°СЏ Р·РІРµР·РґР° РІР·РѕС€Р»Р°;</plain>
         </string>
         <string>
-            <plain>Вместе с ангельской хвалою</plain>
+            <plain>Р’РјРµСЃС‚Рµ СЃ Р°РЅРіРµР»СЊСЃРєРѕР№ С…РІР°Р»РѕСЋ</plain>
         </string>
         <string>
-            <plain>Весть благую принесла.</plain>
+            <plain>Р’РµСЃС‚СЊ Р±Р»Р°РіСѓСЋ РїСЂРёРЅРµСЃР»Р°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Подымите ваши главы,</plain>
+            <plain>РџРѕРґС‹РјРёС‚Рµ РІР°С€Рё РіР»Р°РІС‹,</plain>
         </string>
         <string>
-            <plain>Люди, пленники забот:</plain>
+            <plain>Р›СЋРґРё, РїР»РµРЅРЅРёРєРё Р·Р°Р±РѕС‚:</plain>
         </string>
         <string>
-            <plain>Вот в сиянье вечной славы</plain>
+            <plain>Р’РѕС‚ РІ СЃРёСЏРЅСЊРµ РІРµС‡РЅРѕР№ СЃР»Р°РІС‹</plain>
         </string>
         <string>
-            <plain>Сам Спаситель к нам грядет.</plain>
+            <plain>РЎР°Рј РЎРїР°СЃРёС‚РµР»СЊ Рє РЅР°Рј РіСЂСЏРґРµС‚.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Иисус давно желает</plain>
+            <plain>РРёСЃСѓСЃ РґР°РІРЅРѕ Р¶РµР»Р°РµС‚</plain>
         </string>
         <string>
-            <plain>Весь греховный мир спасти,</plain>
+            <plain>Р’РµСЃСЊ РіСЂРµС…РѕРІРЅС‹Р№ РјРёСЂ СЃРїР°СЃС‚Рё,</plain>
         </string>
         <string>
-            <plain>Всех Он к счастью приглашает.</plain>
+            <plain>Р’СЃРµС… РћРЅ Рє СЃС‡Р°СЃС‚СЊСЋ РїСЂРёРіР»Р°С€Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>О, не медлите прийти.</plain>
+            <plain>Рћ, РЅРµ РјРµРґР»РёС‚Рµ РїСЂРёР№С‚Рё.</plain>
         </string>
     </verse>
 </psalm>

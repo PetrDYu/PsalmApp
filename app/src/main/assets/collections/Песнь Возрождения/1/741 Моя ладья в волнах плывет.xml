@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="741" name="Моя ладья в волнах плывет" canon="false" text="" textRus="" music="">
+<psalm number="741" name="РњРѕСЏ Р»Р°РґСЊСЏ РІ РІРѕР»РЅР°С… РїР»С‹РІРµС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Моя ладья в волнах плывет</plain>
+            <plain>РњРѕСЏ Р»Р°РґСЊСЏ РІ РІРѕР»РЅР°С… РїР»С‹РІРµС‚</plain>
         </string>
         <string>
-            <plain>Туда, к тем берегам;</plain>
+            <plain>РўСѓРґР°, Рє С‚РµРј Р±РµСЂРµРіР°Рј;</plain>
         </string>
         <string>
-            <plain>Сквозь бури рев ее ведет</plain>
+            <plain>РЎРєРІРѕР·СЊ Р±СѓСЂРё СЂРµРІ РµРµ РІРµРґРµС‚</plain>
         </string>
         <string>
-            <plain>Мой верный капитан.</plain>
+            <plain>РњРѕР№ РІРµСЂРЅС‹Р№ РєР°РїРёС‚Р°РЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>О, не страшись, не долог путь,</plain>
+            <plain>Рћ, РЅРµ СЃС‚СЂР°С€РёСЃСЊ, РЅРµ РґРѕР»РѕРі РїСѓС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Уж видны берега;</plain>
+            <plain>РЈР¶ РІРёРґРЅС‹ Р±РµСЂРµРіР°;</plain>
         </string>
         <string>
-            <plain>И слышно, как хвалу поют</plain>
+            <plain>Р СЃР»С‹С€РЅРѕ, РєР°Рє С…РІР°Р»Сѓ РїРѕСЋС‚</plain>
         </string>
         <string>
-            <plain>Друзья у ног Христа.</plain>
+            <plain>Р”СЂСѓР·СЊСЏ Сѓ РЅРѕРі РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Ты знаешь ли тот дивный край,</plain>
+            <plain>РўС‹ Р·РЅР°РµС€СЊ Р»Рё С‚РѕС‚ РґРёРІРЅС‹Р№ РєСЂР°Р№,</plain>
         </string>
         <string>
-            <plain>Где Родина моя,</plain>
+            <plain>Р“РґРµ Р РѕРґРёРЅР° РјРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Где братья ждут, где вечный рай?</plain>
+            <plain>Р“РґРµ Р±СЂР°С‚СЊСЏ Р¶РґСѓС‚, РіРґРµ РІРµС‡РЅС‹Р№ СЂР°Р№?</plain>
         </string>
         <string>
-            <plain>Ах, встречу ль там тебя?</plain>
+            <plain>РђС…, РІСЃС‚СЂРµС‡Сѓ Р»СЊ С‚Р°Рј С‚РµР±СЏ?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Мой челн благую весть несет</plain>
+            <plain>РњРѕР№ С‡РµР»РЅ Р±Р»Р°РіСѓСЋ РІРµСЃС‚СЊ РЅРµСЃРµС‚</plain>
         </string>
         <string>
-            <plain>Всем гибнущим в волнах:</plain>
+            <plain>Р’СЃРµРј РіРёР±РЅСѓС‰РёРј РІ РІРѕР»РЅР°С…:</plain>
         </string>
         <string>
-            <plain>Христос спасает и дает</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ СЃРїР°СЃР°РµС‚ Рё РґР°РµС‚</plain>
         </string>
         <string>
-            <plain>Блаженство в небесах.</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅСЃС‚РІРѕ РІ РЅРµР±РµСЃР°С….</plain>
         </string>
     </verse>
 </psalm>

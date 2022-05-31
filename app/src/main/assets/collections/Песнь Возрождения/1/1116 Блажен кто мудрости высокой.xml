@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1116" name="Блажен кто мудрости высокой" canon="false" text="" textRus="" music="">
+<psalm number="1116" name="Р‘Р»Р°Р¶РµРЅ РєС‚Рѕ РјСѓРґСЂРѕСЃС‚Рё РІС‹СЃРѕРєРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Блажен, кто мудрости высокой</plain>
+            <plain>Р‘Р»Р°Р¶РµРЅ, РєС‚Рѕ РјСѓРґСЂРѕСЃС‚Рё РІС‹СЃРѕРєРѕР№</plain>
         </string>
         <string>
-            <plain>послушен сердцем и умом,</plain>
+            <plain>РїРѕСЃР»СѓС€РµРЅ СЃРµСЂРґС†РµРј Рё СѓРјРѕРј,</plain>
         </string>
         <string>
-            <plain>кто и в ночной тиши глубокой,</plain>
+            <plain>РєС‚Рѕ Рё РІ РЅРѕС‡РЅРѕР№ С‚РёС€Рё РіР»СѓР±РѕРєРѕР№,</plain>
         </string>
         <string>
-            <plain>И при сиянии дневном</plain>
+            <plain>Р РїСЂРё СЃРёСЏРЅРёРё РґРЅРµРІРЅРѕРј</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Читает Книгу ту святую,</plain>
+            <plain>Р§РёС‚Р°РµС‚ РљРЅРёРіСѓ С‚Сѓ СЃРІСЏС‚СѓСЋ,</plain>
         </string>
         <string>
-            <plain>где силенГоспода закон.</plain>
+            <plain>РіРґРµ СЃРёР»РµРЅР“РѕСЃРїРѕРґР° Р·Р°РєРѕРЅ.</plain>
         </string>
         <string>
-            <plain>- Он не войдет в беседу злую,</plain>
+            <plain>- РћРЅ РЅРµ РІРѕР№РґРµС‚ РІ Р±РµСЃРµРґСѓ Р·Р»СѓСЋ,</plain>
         </string>
         <string>
-            <plain>на путь греха не ступит он.</plain>
+            <plain>РЅР° РїСѓС‚СЊ РіСЂРµС…Р° РЅРµ СЃС‚СѓРїРёС‚ РѕРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ему не нужен праздник шумный,</plain>
+            <plain>Р•РјСѓ РЅРµ РЅСѓР¶РµРЅ РїСЂР°Р·РґРЅРёРє С€СѓРјРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>куда не входят стыд и честь,</plain>
+            <plain>РєСѓРґР° РЅРµ РІС…РѕРґСЏС‚ СЃС‚С‹Рґ Рё С‡РµСЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>и где царит разгул безумный,</plain>
+            <plain>Рё РіРґРµ С†Р°СЂРёС‚ СЂР°Р·РіСѓР» Р±РµР·СѓРјРЅС‹Р№,</plain>
         </string>
         <string>
-            <plain>хула, злоречие и месть.</plain>
+            <plain>С…СѓР»Р°, Р·Р»РѕСЂРµС‡РёРµ Рё РјРµСЃС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ему не нужен путь разврата...</plain>
+            <plain>Р•РјСѓ РЅРµ РЅСѓР¶РµРЅ РїСѓС‚СЊ СЂР°Р·РІСЂР°С‚Р°...</plain>
         </string>
         <string>
-            <plain>Он - лишний гость на том пиру,</plain>
+            <plain>РћРЅ - Р»РёС€РЅРёР№ РіРѕСЃС‚СЊ РЅР° С‚РѕРј РїРёСЂСѓ,</plain>
         </string>
         <string>
-            <plain>где брат обманывает брата,</plain>
+            <plain>РіРґРµ Р±СЂР°С‚ РѕР±РјР°РЅС‹РІР°РµС‚ Р±СЂР°С‚Р°,</plain>
         </string>
         <string>
-            <plain>сестра клевещет на сестру.</plain>
+            <plain>СЃРµСЃС‚СЂР° РєР»РµРІРµС‰РµС‚ РЅР° СЃРµСЃС‚СЂСѓ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И вот, как древо у потока</plain>
+            <plain>Р РІРѕС‚, РєР°Рє РґСЂРµРІРѕ Сѓ РїРѕС‚РѕРєР°</plain>
         </string>
         <string>
-            <plain>питается от светлых вод</plain>
+            <plain>РїРёС‚Р°РµС‚СЃСЏ РѕС‚ СЃРІРµС‚Р»С‹С… РІРѕРґ</plain>
         </string>
         <string>
-            <plain>и разрастается широко,</plain>
+            <plain>Рё СЂР°Р·СЂР°СЃС‚Р°РµС‚СЃСЏ С€РёСЂРѕРєРѕ,</plain>
         </string>
         <string>
-            <plain>так он в спасенье возрастет.</plain>
+            <plain>С‚Р°Рє РѕРЅ РІ СЃРїР°СЃРµРЅСЊРµ РІРѕР·СЂР°СЃС‚РµС‚.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Как древо в листьях зеленеет,</plain>
+            <plain>РљР°Рє РґСЂРµРІРѕ РІ Р»РёСЃС‚СЊСЏС… Р·РµР»РµРЅРµРµС‚,</plain>
         </string>
         <string>
-            <plain>цветет, красуется плодом,</plain>
+            <plain>С†РІРµС‚РµС‚, РєСЂР°СЃСѓРµС‚СЃСЏ РїР»РѕРґРѕРј,</plain>
         </string>
         <string>
-            <plain>так он для Бога сердцем зреет,</plain>
+            <plain>С‚Р°Рє РѕРЅ РґР»СЏ Р‘РѕРіР° СЃРµСЂРґС†РµРј Р·СЂРµРµС‚,</plain>
         </string>
         <string>
-            <plain>И плод святой растет на нем.</plain>
+            <plain>Р РїР»РѕРґ СЃРІСЏС‚РѕР№ СЂР°СЃС‚РµС‚ РЅР° РЅРµРј.</plain>
         </string>
     </verse>
 </psalm>

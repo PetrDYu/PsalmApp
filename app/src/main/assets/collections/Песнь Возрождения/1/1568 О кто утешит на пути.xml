@@ -1,78 +1,78 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1568" name="О кто утешит на пути" canon="false" text="" textRus="" music="">
+<psalm number="1568" name="Рћ РєС‚Рѕ СѓС‚РµС€РёС‚ РЅР° РїСѓС‚Рё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, кто утешит на пути</plain>
+            <plain>Рћ, РєС‚Рѕ СѓС‚РµС€РёС‚ РЅР° РїСѓС‚Рё</plain>
         </string>
         <string>
-            <plain>Среди земных невзгод.</plain>
+            <plain>РЎСЂРµРґРё Р·РµРјРЅС‹С… РЅРµРІР·РіРѕРґ.</plain>
         </string>
         <string>
-            <plain>Кто изнемогшему в пути</plain>
+            <plain>РљС‚Рѕ РёР·РЅРµРјРѕРіС€РµРјСѓ РІ РїСѓС‚Рё</plain>
         </string>
         <string>
-            <plain>даст радость и покой?</plain>
+            <plain>РґР°СЃС‚ СЂР°РґРѕСЃС‚СЊ Рё РїРѕРєРѕР№?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, о, Иисус, только Ты!</plain>
+            <plain>РРёСЃСѓСЃ, Рѕ, РРёСЃСѓСЃ, С‚РѕР»СЊРєРѕ РўС‹!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Во тьме устал бороться я.</plain>
+            <plain>Р’Рѕ С‚СЊРјРµ СѓСЃС‚Р°Р» Р±РѕСЂРѕС‚СЊСЃСЏ СЏ.</plain>
         </string>
         <string>
-            <plain>Во мраке суеты.</plain>
+            <plain>Р’Рѕ РјСЂР°РєРµ СЃСѓРµС‚С‹.</plain>
         </string>
         <string>
-            <plain>Но кто же ободрит меня?</plain>
+            <plain>РќРѕ РєС‚Рѕ Р¶Рµ РѕР±РѕРґСЂРёС‚ РјРµРЅСЏ?</plain>
         </string>
         <string>
-            <plain>Иисус мой, только Ты!</plain>
+            <plain>РРёСЃСѓСЃ РјРѕР№, С‚РѕР»СЊРєРѕ РўС‹!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Твоя любовь меня влечет</plain>
+            <plain>РўРІРѕСЏ Р»СЋР±РѕРІСЊ РјРµРЅСЏ РІР»РµС‡РµС‚</plain>
         </string>
         <string>
-            <plain>Достичь мне высоты.</plain>
+            <plain>Р”РѕСЃС‚РёС‡СЊ РјРЅРµ РІС‹СЃРѕС‚С‹.</plain>
         </string>
         <string>
-            <plain>Но кто же к цели доведет?</plain>
+            <plain>РќРѕ РєС‚Рѕ Р¶Рµ Рє С†РµР»Рё РґРѕРІРµРґРµС‚?</plain>
         </string>
         <string>
-            <plain>Иисус мой, только Ты!</plain>
+            <plain>РРёСЃСѓСЃ РјРѕР№, С‚РѕР»СЊРєРѕ РўС‹!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Ни в ком не нахожу я здесь</plain>
+            <plain>РќРё РІ РєРѕРј РЅРµ РЅР°С…РѕР¶Сѓ СЏ Р·РґРµСЃСЊ</plain>
         </string>
         <string>
-            <plain>Святейшей чистоты.</plain>
+            <plain>РЎРІСЏС‚РµР№С€РµР№ С‡РёСЃС‚РѕС‚С‹.</plain>
         </string>
         <string>
-            <plain>Но кто ж источник всех красот?</plain>
+            <plain>РќРѕ РєС‚Рѕ Р¶ РёСЃС‚РѕС‡РЅРёРє РІСЃРµС… РєСЂР°СЃРѕС‚?</plain>
         </string>
         <string>
-            <plain>Иисус мой, только Ты!</plain>
+            <plain>РРёСЃСѓСЃ РјРѕР№, С‚РѕР»СЊРєРѕ РўС‹!</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>О, как прекрасен, Иисус,</plain>
+            <plain>Рћ, РєР°Рє РїСЂРµРєСЂР°СЃРµРЅ, РРёСЃСѓСЃ,</plain>
         </string>
         <string>
-            <plain>В небесной славе Ты.</plain>
+            <plain>Р’ РЅРµР±РµСЃРЅРѕР№ СЃР»Р°РІРµ РўС‹.</plain>
         </string>
         <string>
-            <plain>В Христовых ранах я лечусь,</plain>
+            <plain>Р’ РҐСЂРёСЃС‚РѕРІС‹С… СЂР°РЅР°С… СЏ Р»РµС‡СѓСЃСЊ,</plain>
         </string>
         <string>
-            <plain>Иисус мой, только Ты!</plain>
+            <plain>РРёСЃСѓСЃ РјРѕР№, С‚РѕР»СЊРєРѕ РўС‹!</plain>
         </string>
     </verse>
 </psalm>

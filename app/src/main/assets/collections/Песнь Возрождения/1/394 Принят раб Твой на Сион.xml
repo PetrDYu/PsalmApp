@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="394" name="Принят раб Твой на Сион" canon="false" text="" textRus="" music="">
+<psalm number="394" name="РџСЂРёРЅСЏС‚ СЂР°Р± РўРІРѕР№ РЅР° РЎРёРѕРЅ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Принят раб Твой на Сион;</plain>
+            <plain>РџСЂРёРЅСЏС‚ СЂР°Р± РўРІРѕР№ РЅР° РЎРёРѕРЅ;</plain>
         </string>
         <string>
-            <plain>Далеко скитался он</plain>
+            <plain>Р”Р°Р»РµРєРѕ СЃРєРёС‚Р°Р»СЃСЏ РѕРЅ</plain>
         </string>
         <string>
-            <plain>От Твоей Святой горы,</plain>
+            <plain>РћС‚ РўРІРѕРµР№ РЎРІСЏС‚РѕР№ РіРѕСЂС‹,</plain>
         </string>
         <string>
-            <plain>Расточал Твои дары.</plain>
+            <plain>Р Р°СЃС‚РѕС‡Р°Р» РўРІРѕРё РґР°СЂС‹.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Принят он на Сион!</plain>
+            <plain>РџСЂРёРЅСЏС‚ РѕРЅ РЅР° РЎРёРѕРЅ!</plain>
         </string>
         <string>
-            <plain>Теперь он Твой, да, принят он!</plain>
+            <plain>РўРµРїРµСЂСЊ РѕРЅ РўРІРѕР№, РґР°, РїСЂРёРЅСЏС‚ РѕРЅ!</plain>
         </string>
         <string>
-            <plain>Принят раб Твой на Сион!</plain>
+            <plain>РџСЂРёРЅСЏС‚ СЂР°Р± РўРІРѕР№ РЅР° РЎРёРѕРЅ!</plain>
         </string>
         <string>
-            <plain>Он теперь Твой гражданин навсегда.</plain>
+            <plain>РћРЅ С‚РµРїРµСЂСЊ РўРІРѕР№ РіСЂР°Р¶РґР°РЅРёРЅ РЅР°РІСЃРµРіРґР°.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Много, много он грешил,</plain>
+            <plain>РњРЅРѕРіРѕ, РјРЅРѕРіРѕ РѕРЅ РіСЂРµС€РёР»,</plain>
         </string>
         <string>
-            <plain>Но Ты грешного простил;</plain>
+            <plain>РќРѕ РўС‹ РіСЂРµС€РЅРѕРіРѕ РїСЂРѕСЃС‚РёР»;</plain>
         </string>
         <string>
-            <plain>И отныне он спасен,</plain>
+            <plain>Р РѕС‚РЅС‹РЅРµ РѕРЅ СЃРїР°СЃРµРЅ,</plain>
         </string>
         <string>
-            <plain>С ним ликует весь Сион.</plain>
+            <plain>РЎ РЅРёРј Р»РёРєСѓРµС‚ РІРµСЃСЊ РЎРёРѕРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Как прекрасен Твой Сион!</plain>
+            <plain>РљР°Рє РїСЂРµРєСЂР°СЃРµРЅ РўРІРѕР№ РЎРёРѕРЅ!</plain>
         </string>
         <string>
-            <plain>В вышине я вижу трон;</plain>
+            <plain>Р’ РІС‹С€РёРЅРµ СЏ РІРёР¶Сѓ С‚СЂРѕРЅ;</plain>
         </string>
         <string>
-            <plain>Слышу я: звучит на нем</plain>
+            <plain>РЎР»С‹С€Сѓ СЏ: Р·РІСѓС‡РёС‚ РЅР° РЅРµРј</plain>
         </string>
         <string>
-            <plain>Вечной радости псалом.</plain>
+            <plain>Р’РµС‡РЅРѕР№ СЂР°РґРѕСЃС‚Рё РїСЃР°Р»РѕРј.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Там лучи земных светил</plain>
+            <plain>РўР°Рј Р»СѓС‡Рё Р·РµРјРЅС‹С… СЃРІРµС‚РёР»</plain>
         </string>
         <string>
-            <plain>Свет Твой дивный заменил;</plain>
+            <plain>РЎРІРµС‚ РўРІРѕР№ РґРёРІРЅС‹Р№ Р·Р°РјРµРЅРёР»;</plain>
         </string>
         <string>
-            <plain>Там прекрасный сад цветет</plain>
+            <plain>РўР°Рј РїСЂРµРєСЂР°СЃРЅС‹Р№ СЃР°Рґ С†РІРµС‚РµС‚</plain>
         </string>
         <string>
-            <plain>И в нем зреет вечный плод.</plain>
+            <plain>Р РІ РЅРµРј Р·СЂРµРµС‚ РІРµС‡РЅС‹Р№ РїР»РѕРґ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Выше всех вершин Сион!</plain>
+            <plain>Р’С‹С€Рµ РІСЃРµС… РІРµСЂС€РёРЅ РЎРёРѕРЅ!</plain>
         </string>
         <string>
-            <plain>Над землей вознесся он;</plain>
+            <plain>РќР°Рґ Р·РµРјР»РµР№ РІРѕР·РЅРµСЃСЃСЏ РѕРЅ;</plain>
         </string>
         <string>
-            <plain>Я еще внизу горы,</plain>
+            <plain>РЇ РµС‰Рµ РІРЅРёР·Сѓ РіРѕСЂС‹,</plain>
         </string>
         <string>
-            <plain>Но Ты дал Свои дары.</plain>
+            <plain>РќРѕ РўС‹ РґР°Р» РЎРІРѕРё РґР°СЂС‹.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Я вкушаю их душой</plain>
+            <plain>РЇ РІРєСѓС€Р°СЋ РёС… РґСѓС€РѕР№</plain>
         </string>
         <string>
-            <plain>И счастлив перед Тобой;</plain>
+            <plain>Р СЃС‡Р°СЃС‚Р»РёРІ РїРµСЂРµРґ РўРѕР±РѕР№;</plain>
         </string>
         <string>
-            <plain>Сколь же будет день светлей</plain>
+            <plain>РЎРєРѕР»СЊ Р¶Рµ Р±СѓРґРµС‚ РґРµРЅСЊ СЃРІРµС‚Р»РµР№</plain>
         </string>
         <string>
-            <plain>На верху горы Твоей!</plain>
+            <plain>РќР° РІРµСЂС…Сѓ РіРѕСЂС‹ РўРІРѕРµР№!</plain>
         </string>
     </verse>
 </psalm>

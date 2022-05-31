@@ -1,143 +1,143 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="754" name="Ионафан был друг Давиду" canon="false" text="" textRus="" music="">
+<psalm number="754" name="РРѕРЅР°С„Р°РЅ Р±С‹Р» РґСЂСѓРі Р”Р°РІРёРґСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ионафан был друг Давиду,</plain>
+            <plain>РРѕРЅР°С„Р°РЅ Р±С‹Р» РґСЂСѓРі Р”Р°РІРёРґСѓ,</plain>
         </string>
         <string>
-            <plain>Высоко его ценил,</plain>
+            <plain>Р’С‹СЃРѕРєРѕ РµРіРѕ С†РµРЅРёР»,</plain>
         </string>
         <string>
-            <plain>И его он не по виду,</plain>
+            <plain>Р РµРіРѕ РѕРЅ РЅРµ РїРѕ РІРёРґСѓ,</plain>
         </string>
         <string>
-            <plain>А по сердцу полюбил.</plain>
+            <plain>Рђ РїРѕ СЃРµСЂРґС†Сѓ РїРѕР»СЋР±РёР».</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>А Давид, певец Сиона,</plain>
+            <plain>Рђ Р”Р°РІРёРґ, РїРµРІРµС† РЎРёРѕРЅР°,</plain>
         </string>
         <string>
-            <plain>Ионафана полюбил</plain>
+            <plain>РРѕРЅР°С„Р°РЅР° РїРѕР»СЋР±РёР»</plain>
         </string>
         <string>
-            <plain>И ему средь бедствий трона</plain>
+            <plain>Р РµРјСѓ СЃСЂРµРґСЊ Р±РµРґСЃС‚РІРёР№ С‚СЂРѕРЅР°</plain>
         </string>
         <string>
-            <plain>Крепкой верностью платил.</plain>
+            <plain>РљСЂРµРїРєРѕР№ РІРµСЂРЅРѕСЃС‚СЊСЋ РїР»Р°С‚РёР».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ионафан спасал Давида</plain>
+            <plain>РРѕРЅР°С„Р°РЅ СЃРїР°СЃР°Р» Р”Р°РІРёРґР°</plain>
         </string>
         <string>
-            <plain>От владыки своего,</plain>
+            <plain>РћС‚ РІР»Р°РґС‹РєРё СЃРІРѕРµРіРѕ,</plain>
         </string>
         <string>
-            <plain>И за то в порыве гнева</plain>
+            <plain>Р Р·Р° С‚Рѕ РІ РїРѕСЂС‹РІРµ РіРЅРµРІР°</plain>
         </string>
         <string>
-            <plain>Царь преследовал его.</plain>
+            <plain>Р¦Р°СЂСЊ РїСЂРµСЃР»РµРґРѕРІР°Р» РµРіРѕ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>За Давида на мученье</plain>
+            <plain>Р—Р° Р”Р°РІРёРґР° РЅР° РјСѓС‡РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>И на смерть он был готов</plain>
+            <plain>Р РЅР° СЃРјРµСЂС‚СЊ РѕРЅ Р±С‹Р» РіРѕС‚РѕРІ</plain>
         </string>
         <string>
-            <plain>И в своем ему служенье</plain>
+            <plain>Р РІ СЃРІРѕРµРј РµРјСѓ СЃР»СѓР¶РµРЅСЊРµ</plain>
         </string>
         <string>
-            <plain>Не щадил земных даров.</plain>
+            <plain>РќРµ С‰Р°РґРёР» Р·РµРјРЅС‹С… РґР°СЂРѕРІ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Меж Давидом, Ионафаном</plain>
+            <plain>РњРµР¶ Р”Р°РІРёРґРѕРј, РРѕРЅР°С„Р°РЅРѕРј</plain>
         </string>
         <string>
-            <plain>Бог невидимо стоял</plain>
+            <plain>Р‘РѕРі РЅРµРІРёРґРёРјРѕ СЃС‚РѕСЏР»</plain>
         </string>
         <string>
-            <plain>И союзом непрестанным</plain>
+            <plain>Р СЃРѕСЋР·РѕРј РЅРµРїСЂРµСЃС‚Р°РЅРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Их сердца соединял.</plain>
+            <plain>РС… СЃРµСЂРґС†Р° СЃРѕРµРґРёРЅСЏР».</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Дружба между Ионафаном</plain>
+            <plain>Р”СЂСѓР¶Р±Р° РјРµР¶РґСѓ РРѕРЅР°С„Р°РЅРѕРј</plain>
         </string>
         <string>
-            <plain>И Давидом - образец</plain>
+            <plain>Р Р”Р°РІРёРґРѕРј - РѕР±СЂР°Р·РµС†</plain>
         </string>
         <string>
-            <plain>Для высоких в мире саном,</plain>
+            <plain>Р”Р»СЏ РІС‹СЃРѕРєРёС… РІ РјРёСЂРµ СЃР°РЅРѕРј,</plain>
         </string>
         <string>
-            <plain>Для простых, для всех сердец.</plain>
+            <plain>Р”Р»СЏ РїСЂРѕСЃС‚С‹С…, РґР»СЏ РІСЃРµС… СЃРµСЂРґРµС†.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>В нашем мире развращенном</plain>
+            <plain>Р’ РЅР°С€РµРј РјРёСЂРµ СЂР°Р·РІСЂР°С‰РµРЅРЅРѕРј</plain>
         </string>
         <string>
-            <plain>Мало истинных друзей;</plain>
+            <plain>РњР°Р»Рѕ РёСЃС‚РёРЅРЅС‹С… РґСЂСѓР·РµР№;</plain>
         </string>
         <string>
-            <plain>Даже с другом просвещенным</plain>
+            <plain>Р”Р°Р¶Рµ СЃ РґСЂСѓРіРѕРј РїСЂРѕСЃРІРµС‰РµРЅРЅС‹Рј</plain>
         </string>
         <string>
-            <plain>Мира нет душе твоей.</plain>
+            <plain>РњРёСЂР° РЅРµС‚ РґСѓС€Рµ С‚РІРѕРµР№.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Друг, с друзьями неразлучный</plain>
+            <plain>Р”СЂСѓРі, СЃ РґСЂСѓР·СЊСЏРјРё РЅРµСЂР°Р·Р»СѓС‡РЅС‹Р№</plain>
         </string>
         <string>
-            <plain>В пору безмятежных дней,</plain>
+            <plain>Р’ РїРѕСЂСѓ Р±РµР·РјСЏС‚РµР¶РЅС‹С… РґРЅРµР№,</plain>
         </string>
         <string>
-            <plain>В час невзгоды злополучной</plain>
+            <plain>Р’ С‡Р°СЃ РЅРµРІР·РіРѕРґС‹ Р·Р»РѕРїРѕР»СѓС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Убегает от друзей.</plain>
+            <plain>РЈР±РµРіР°РµС‚ РѕС‚ РґСЂСѓР·РµР№.</plain>
         </string>
     </verse>
     <verse number="9">
         <string>
-            <plain>Если с жаждой дружбы верной</plain>
+            <plain>Р•СЃР»Рё СЃ Р¶Р°Р¶РґРѕР№ РґСЂСѓР¶Р±С‹ РІРµСЂРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Ты к Спасителю придешь,</plain>
+            <plain>РўС‹ Рє РЎРїР°СЃРёС‚РµР»СЋ РїСЂРёРґРµС€СЊ,</plain>
         </string>
         <string>
-            <plain>То в Его любви безмерной</plain>
+            <plain>РўРѕ РІ Р•РіРѕ Р»СЋР±РІРё Р±РµР·РјРµСЂРЅРѕР№</plain>
         </string>
         <string>
-            <plain>Друга верного найдешь.</plain>
+            <plain>Р”СЂСѓРіР° РІРµСЂРЅРѕРіРѕ РЅР°Р№РґРµС€СЊ.</plain>
         </string>
     </verse>
     <verse number="10">
         <string>
-            <plain>Чрез Христа найдешь ты много</plain>
+            <plain>Р§СЂРµР· РҐСЂРёСЃС‚Р° РЅР°Р№РґРµС€СЊ С‚С‹ РјРЅРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>В мире истинных друзей,</plain>
+            <plain>Р’ РјРёСЂРµ РёСЃС‚РёРЅРЅС‹С… РґСЂСѓР·РµР№,</plain>
         </string>
         <string>
-            <plain>Съединенных силой Бога</plain>
+            <plain>РЎСЉРµРґРёРЅРµРЅРЅС‹С… СЃРёР»РѕР№ Р‘РѕРіР°</plain>
         </string>
         <string>
-            <plain>Навсегда для вечных дней.</plain>
+            <plain>РќР°РІСЃРµРіРґР° РґР»СЏ РІРµС‡РЅС‹С… РґРЅРµР№.</plain>
         </string>
     </verse>
 </psalm>

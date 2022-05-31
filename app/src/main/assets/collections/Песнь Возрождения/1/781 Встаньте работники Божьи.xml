@@ -1,95 +1,95 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="781" name="Встаньте работники Божьи" canon="false" text="" textRus="" music="">
+<psalm number="781" name="Р’СЃС‚Р°РЅСЊС‚Рµ СЂР°Р±РѕС‚РЅРёРєРё Р‘РѕР¶СЊРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Встаньте, работники Божьи,</plain>
+            <plain>Р’СЃС‚Р°РЅСЊС‚Рµ, СЂР°Р±РѕС‚РЅРёРєРё Р‘РѕР¶СЊРё,</plain>
         </string>
         <string>
-            <plain>Нас ожидает борьба,</plain>
+            <plain>РќР°СЃ РѕР¶РёРґР°РµС‚ Р±РѕСЂСЊР±Р°,</plain>
         </string>
         <string>
-            <plain>Медлить мы больше не можем,</plain>
+            <plain>РњРµРґР»РёС‚СЊ РјС‹ Р±РѕР»СЊС€Рµ РЅРµ РјРѕР¶РµРј,</plain>
         </string>
         <string>
-            <plain>Бейте тревогу в набат.</plain>
+            <plain>Р‘РµР№С‚Рµ С‚СЂРµРІРѕРіСѓ РІ РЅР°Р±Р°С‚.</plain>
         </string>
         <string>
-            <plain>Грустные дни охлажденья,</plain>
+            <plain>Р“СЂСѓСЃС‚РЅС‹Рµ РґРЅРё РѕС…Р»Р°Р¶РґРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>Годы сомнений и мук...</plain>
+            <plain>Р“РѕРґС‹ СЃРѕРјРЅРµРЅРёР№ Рё РјСѓРє...</plain>
         </string>
         <string>
-            <plain>Нас побуждают знаменья,</plain>
+            <plain>РќР°СЃ РїРѕР±СѓР¶РґР°СЋС‚ Р·РЅР°РјРµРЅСЊСЏ,</plain>
         </string>
         <string>
-            <plain>К битве последней зовут.</plain>
+            <plain>Рљ Р±РёС‚РІРµ РїРѕСЃР»РµРґРЅРµР№ Р·РѕРІСѓС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Будем же, братья, готовы</plain>
+            <plain>Р‘СѓРґРµРј Р¶Рµ, Р±СЂР°С‚СЊСЏ, РіРѕС‚РѕРІС‹</plain>
         </string>
         <string>
-            <plain>Жизнь нашу ближним отдать,</plain>
+            <plain>Р–РёР·РЅСЊ РЅР°С€Сѓ Р±Р»РёР¶РЅРёРј РѕС‚РґР°С‚СЊ,</plain>
         </string>
         <string>
-            <plain>И, разбивая оковы,</plain>
+            <plain>Р, СЂР°Р·Р±РёРІР°СЏ РѕРєРѕРІС‹,</plain>
         </string>
         <string>
-            <plain>Царство Христа созидать.</plain>
+            <plain>Р¦Р°СЂСЃС‚РІРѕ РҐСЂРёСЃС‚Р° СЃРѕР·РёРґР°С‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Мчатся часы за часами,</plain>
+            <plain>РњС‡Р°С‚СЃСЏ С‡Р°СЃС‹ Р·Р° С‡Р°СЃР°РјРё,</plain>
         </string>
         <string>
-            <plain>Годы, столетья летят,</plain>
+            <plain>Р“РѕРґС‹, СЃС‚РѕР»РµС‚СЊСЏ Р»РµС‚СЏС‚,</plain>
         </string>
         <string>
-            <plain>В прахе лежат христиане</plain>
+            <plain>Р’ РїСЂР°С…Рµ Р»РµР¶Р°С‚ С…СЂРёСЃС‚РёР°РЅРµ</plain>
         </string>
         <string>
-            <plain>И, утомленные, спят.</plain>
+            <plain>Р, СѓС‚РѕРјР»РµРЅРЅС‹Рµ, СЃРїСЏС‚.</plain>
         </string>
         <string>
-            <plain>Братья, будите уснувших</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, Р±СѓРґРёС‚Рµ СѓСЃРЅСѓРІС€РёС…</plain>
         </string>
         <string>
-            <plain>Нежною лаской любви,</plain>
+            <plain>РќРµР¶РЅРѕСЋ Р»Р°СЃРєРѕР№ Р»СЋР±РІРё,</plain>
         </string>
         <string>
-            <plain>Всякий, имеющий очи,</plain>
+            <plain>Р’СЃСЏРєРёР№, РёРјРµСЋС‰РёР№ РѕС‡Рё,</plain>
         </string>
         <string>
-            <plain>Зорко на небо гляди.</plain>
+            <plain>Р—РѕСЂРєРѕ РЅР° РЅРµР±Рѕ РіР»СЏРґРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Плещутся волны прибоя,</plain>
+            <plain>РџР»РµС‰СѓС‚СЃСЏ РІРѕР»РЅС‹ РїСЂРёР±РѕСЏ,</plain>
         </string>
         <string>
-            <plain>Буря неверья ревет,</plain>
+            <plain>Р‘СѓСЂСЏ РЅРµРІРµСЂСЊСЏ СЂРµРІРµС‚,</plain>
         </string>
         <string>
-            <plain>И поколенье земное</plain>
+            <plain>Р РїРѕРєРѕР»РµРЅСЊРµ Р·РµРјРЅРѕРµ</plain>
         </string>
         <string>
-            <plain>Смерти навстречу идет.</plain>
+            <plain>РЎРјРµСЂС‚Рё РЅР°РІСЃС‚СЂРµС‡Сѓ РёРґРµС‚.</plain>
         </string>
         <string>
-            <plain>Вянут цветы молодые,</plain>
+            <plain>Р’СЏРЅСѓС‚ С†РІРµС‚С‹ РјРѕР»РѕРґС‹Рµ,</plain>
         </string>
         <string>
-            <plain>Гибнут во мраке страстей,</plain>
+            <plain>Р“РёР±РЅСѓС‚ РІРѕ РјСЂР°РєРµ СЃС‚СЂР°СЃС‚РµР№,</plain>
         </string>
         <string>
-            <plain>Будьте к ним нежны, родные,</plain>
+            <plain>Р‘СѓРґСЊС‚Рµ Рє РЅРёРј РЅРµР¶РЅС‹, СЂРѕРґРЅС‹Рµ,</plain>
         </string>
         <string>
-            <plain>Братья, спасайте людей!</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ, СЃРїР°СЃР°Р№С‚Рµ Р»СЋРґРµР№!</plain>
         </string>
     </verse>
 </psalm>

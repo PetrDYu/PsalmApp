@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="476" name="Бог любит малых воробьев" canon="false" text="" textRus="" music="">
+<psalm number="476" name="Р‘РѕРі Р»СЋР±РёС‚ РјР°Р»С‹С… РІРѕСЂРѕР±СЊРµРІ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Бог любит малых воробьев,</plain>
+            <plain>Р‘РѕРі Р»СЋР±РёС‚ РјР°Р»С‹С… РІРѕСЂРѕР±СЊРµРІ,</plain>
         </string>
         <string>
-            <plain>От гибели храня;</plain>
+            <plain>РћС‚ РіРёР±РµР»Рё С…СЂР°РЅСЏ;</plain>
         </string>
         <string>
-            <plain>И, если пташек любит Бог,</plain>
+            <plain>Р, РµСЃР»Рё РїС‚Р°С€РµРє Р»СЋР±РёС‚ Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>Он любит и меня.</plain>
+            <plain>РћРЅ Р»СЋР±РёС‚ Рё РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Да, любит Он! Да, любит Он!</plain>
+            <plain>Р”Р°, Р»СЋР±РёС‚ РћРЅ! Р”Р°, Р»СЋР±РёС‚ РћРЅ!</plain>
         </string>
         <string>
-            <plain>Я знаю, любит Он!</plain>
+            <plain>РЇ Р·РЅР°СЋ, Р»СЋР±РёС‚ РћРЅ!</plain>
         </string>
         <string>
-            <plain>Он любит маленьких детей;</plain>
+            <plain>РћРЅ Р»СЋР±РёС‚ РјР°Р»РµРЅСЊРєРёС… РґРµС‚РµР№;</plain>
         </string>
         <string>
-            <plain>Он любит и меня.</plain>
+            <plain>РћРЅ Р»СЋР±РёС‚ Рё РјРµРЅСЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Бог любит лилию в полях</plain>
+            <plain>Р‘РѕРі Р»СЋР±РёС‚ Р»РёР»РёСЋ РІ РїРѕР»СЏС…</plain>
         </string>
         <string>
-            <plain>У тихого ручья;</plain>
+            <plain>РЈ С‚РёС…РѕРіРѕ СЂСѓС‡СЊСЏ;</plain>
         </string>
         <string>
-            <plain>И, если любит Он цветы,</plain>
+            <plain>Р, РµСЃР»Рё Р»СЋР±РёС‚ РћРЅ С†РІРµС‚С‹,</plain>
         </string>
         <string>
-            <plain>Он любит и меня.</plain>
+            <plain>РћРЅ Р»СЋР±РёС‚ Рё РјРµРЅСЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог сотворил цветы и птиц,</plain>
+            <plain>Р‘РѕРі СЃРѕС‚РІРѕСЂРёР» С†РІРµС‚С‹ Рё РїС‚РёС†,</plain>
         </string>
         <string>
-            <plain>Их светом осеня;</plain>
+            <plain>РС… СЃРІРµС‚РѕРј РѕСЃРµРЅСЏ;</plain>
         </string>
         <string>
-            <plain>Он не забудет и детей,</plain>
+            <plain>РћРЅ РЅРµ Р·Р°Р±СѓРґРµС‚ Рё РґРµС‚РµР№,</plain>
         </string>
         <string>
-            <plain>Он любит и меня.</plain>
+            <plain>РћРЅ Р»СЋР±РёС‚ Рё РјРµРЅСЏ.</plain>
         </string>
     </verse>
 </psalm>

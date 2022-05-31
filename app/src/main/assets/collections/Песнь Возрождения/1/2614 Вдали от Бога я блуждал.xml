@@ -1,53 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2614" name="Вдали от Бога я блуждал" canon="false" text="" textRus="" music="">
+<psalm number="2614" name="Р’РґР°Р»Рё РѕС‚ Р‘РѕРіР° СЏ Р±Р»СѓР¶РґР°Р»" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Вдали от Бога я блуждал,</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ Р‘РѕРіР° СЏ Р±Р»СѓР¶РґР°Р»,</plain>
         </string>
         <string>
-            <plain>Теперь иду домой!</plain>
+            <plain>РўРµРїРµСЂСЊ РёРґСѓ РґРѕРјРѕР№!</plain>
         </string>
         <string>
-            <plain>Давно все силы расточал.</plain>
+            <plain>Р”Р°РІРЅРѕ РІСЃРµ СЃРёР»С‹ СЂР°СЃС‚РѕС‡Р°Р».</plain>
         </string>
         <string>
-            <plain>Отец, иду домой!</plain>
+            <plain>РћС‚РµС†, РёРґСѓ РґРѕРјРѕР№!</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иду домой, иду домой, в чудный Твой покой.</plain>
+            <plain>РРґСѓ РґРѕРјРѕР№, РёРґСѓ РґРѕРјРѕР№, РІ С‡СѓРґРЅС‹Р№ РўРІРѕР№ РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Кровью куплен, теперь я Твой, Иду, иду домой!</plain>
+            <plain>РљСЂРѕРІСЊСЋ РєСѓРїР»РµРЅ, С‚РµРїРµСЂСЊ СЏ РўРІРѕР№, РРґСѓ, РёРґСѓ РґРѕРјРѕР№!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Я много лет без Бога жил,</plain>
+            <plain>РЇ РјРЅРѕРіРѕ Р»РµС‚ Р±РµР· Р‘РѕРіР° Р¶РёР»,</plain>
         </string>
         <string>
-            <plain>Теперь иду домой!</plain>
+            <plain>РўРµРїРµСЂСЊ РёРґСѓ РґРѕРјРѕР№!</plain>
         </string>
         <string>
-            <plain>Спаситель грех мой искупил.</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ РіСЂРµС… РјРѕР№ РёСЃРєСѓРїРёР».</plain>
         </string>
         <string>
-            <plain>Господь, иду домой!</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РёРґСѓ РґРѕРјРѕР№!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Вдали от Бога тяжко жить.</plain>
+            <plain>Р’РґР°Р»Рё РѕС‚ Р‘РѕРіР° С‚СЏР¶РєРѕ Р¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Отец, иду домой!</plain>
+            <plain>РћС‚РµС†, РёРґСѓ РґРѕРјРѕР№!</plain>
         </string>
         <string>
-            <plain>Тебе хочу теперь служить.</plain>
+            <plain>РўРµР±Рµ С…РѕС‡Сѓ С‚РµРїРµСЂСЊ СЃР»СѓР¶РёС‚СЊ.</plain>
         </string>
         <string>
-            <plain>Господь, иду домой!</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, РёРґСѓ РґРѕРјРѕР№!</plain>
         </string>
     </verse>
 </psalm>

@@ -1,71 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3263" name="Когда во тьме ревёт гроза" canon="false" text="" textRus="" music="">
+<psalm number="3263" name="РљРѕРіРґР° РІРѕ С‚СЊРјРµ СЂРµРІС‘С‚ РіСЂРѕР·Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Когда во тьме ревёт гроза,</plain>
+            <plain>РљРѕРіРґР° РІРѕ С‚СЊРјРµ СЂРµРІС‘С‚ РіСЂРѕР·Р°,</plain>
         </string>
         <string>
-            <plain>пугает всё живое.</plain>
+            <plain>РїСѓРіР°РµС‚ РІСЃС‘ Р¶РёРІРѕРµ.</plain>
         </string>
         <string>
-            <plain>Когда туманит взор слеза,</plain>
+            <plain>РљРѕРіРґР° С‚СѓРјР°РЅРёС‚ РІР·РѕСЂ СЃР»РµР·Р°,</plain>
         </string>
         <string>
-            <plain>и сердцу нет покоя:</plain>
+            <plain>Рё СЃРµСЂРґС†Сѓ РЅРµС‚ РїРѕРєРѕСЏ:</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Склонись в мольбе,</plain>
+            <plain>РЎРєР»РѕРЅРёСЃСЊ РІ РјРѕР»СЊР±Рµ,</plain>
         </string>
         <string>
-            <plain>Христос тебе помочь давно желает.</plain>
+            <plain>РҐСЂРёСЃС‚РѕСЃ С‚РµР±Рµ РїРѕРјРѕС‡СЊ РґР°РІРЅРѕ Р¶РµР»Р°РµС‚.</plain>
         </string>
         <string>
-            <plain>Слезу скорбей с твоих очей</plain>
+            <plain>РЎР»РµР·Сѓ СЃРєРѕСЂР±РµР№ СЃ С‚РІРѕРёС… РѕС‡РµР№</plain>
         </string>
         <string>
-            <plain>отрёт рука святая.</plain>
+            <plain>РѕС‚СЂС‘С‚ СЂСѓРєР° СЃРІСЏС‚Р°СЏ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Когда умчалась юность вдаль</plain>
+            <plain>РљРѕРіРґР° СѓРјС‡Р°Р»Р°СЃСЊ СЋРЅРѕСЃС‚СЊ РІРґР°Р»СЊ</plain>
         </string>
         <string>
-            <plain>нет радости приятной.</plain>
+            <plain>РЅРµС‚ СЂР°РґРѕСЃС‚Рё РїСЂРёСЏС‚РЅРѕР№.</plain>
         </string>
         <string>
-            <plain>И придавила грудь печаль</plain>
+            <plain>Р РїСЂРёРґР°РІРёР»Р° РіСЂСѓРґСЊ РїРµС‡Р°Р»СЊ</plain>
         </string>
         <string>
-            <plain>о прошлом, невозвратном.</plain>
+            <plain>Рѕ РїСЂРѕС€Р»РѕРј, РЅРµРІРѕР·РІСЂР°С‚РЅРѕРј.</plain>
         </string>
         <string>
-            <plain>З Когда измучился в пути,</plain>
+            <plain>Р— РљРѕРіРґР° РёР·РјСѓС‡РёР»СЃСЏ РІ РїСѓС‚Рё,</plain>
         </string>
         <string>
-            <plain>не стало силы прежней.</plain>
+            <plain>РЅРµ СЃС‚Р°Р»Рѕ СЃРёР»С‹ РїСЂРµР¶РЅРµР№.</plain>
         </string>
         <string>
-            <plain>И дальше некуда идти</plain>
+            <plain>Р РґР°Р»СЊС€Рµ РЅРµРєСѓРґР° РёРґС‚Рё</plain>
         </string>
         <string>
-            <plain>и больше нет надежды.</plain>
+            <plain>Рё Р±РѕР»СЊС€Рµ РЅРµС‚ РЅР°РґРµР¶РґС‹.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Когда остался одинок,</plain>
+            <plain>РљРѕРіРґР° РѕСЃС‚Р°Р»СЃСЏ РѕРґРёРЅРѕРє,</plain>
         </string>
         <string>
-            <plain>здоровье изменило,</plain>
+            <plain>Р·РґРѕСЂРѕРІСЊРµ РёР·РјРµРЅРёР»Рѕ,</plain>
         </string>
         <string>
-            <plain>и час последней не далёк,</plain>
+            <plain>Рё С‡Р°СЃ РїРѕСЃР»РµРґРЅРµР№ РЅРµ РґР°Р»С‘Рє,</plain>
         </string>
         <string>
-            <plain>и скорбно и уныло.</plain>
+            <plain>Рё СЃРєРѕСЂР±РЅРѕ Рё СѓРЅС‹Р»Рѕ.</plain>
         </string>
     </verse>
 </psalm>

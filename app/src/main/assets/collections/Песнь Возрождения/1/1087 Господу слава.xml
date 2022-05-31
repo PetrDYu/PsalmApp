@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1087" name="Господу слава" canon="false" text="" textRus="" music="">
+<psalm number="1087" name="Р“РѕСЃРїРѕРґСѓ СЃР»Р°РІР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Господу слава!</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Осанна Господу!</plain>
+            <plain>РћСЃР°РЅРЅР° Р“РѕСЃРїРѕРґСѓ!</plain>
         </string>
         <string>
-            <plain>Господу слава!</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Жизнь свою Богу всю до конца отдав.</plain>
+            <plain>Р–РёР·РЅСЊ СЃРІРѕСЋ Р‘РѕРіСѓ РІСЃСЋ РґРѕ РєРѕРЅС†Р° РѕС‚РґР°РІ.</plain>
         </string>
         <string>
-            <plain>Мы любим Господа. Аллилуйя!</plain>
+            <plain>РњС‹ Р»СЋР±РёРј Р“РѕСЃРїРѕРґР°. РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
     </verse>
 </psalm>

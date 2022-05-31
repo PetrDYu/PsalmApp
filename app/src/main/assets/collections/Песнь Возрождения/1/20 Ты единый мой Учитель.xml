@@ -1,115 +1,115 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="20" name="Ты единый мой Учитель" canon="false" text="" textRus="" music="">
+<psalm number="20" name="РўС‹ РµРґРёРЅС‹Р№ РјРѕР№ РЈС‡РёС‚РµР»СЊ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Ты - единый мой Учитель</plain>
+            <plain>РўС‹ - РµРґРёРЅС‹Р№ РјРѕР№ РЈС‡РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>На пути моем земном;</plain>
+            <plain>РќР° РїСѓС‚Рё РјРѕРµРј Р·РµРјРЅРѕРј;</plain>
         </string>
         <string>
-            <plain>Недостойный Твой служитель</plain>
+            <plain>РќРµРґРѕСЃС‚РѕР№РЅС‹Р№ РўРІРѕР№ СЃР»СѓР¶РёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>Стал Твоим учеником.</plain>
+            <plain>РЎС‚Р°Р» РўРІРѕРёРј СѓС‡РµРЅРёРєРѕРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Я - в Твоей не зримой школе</plain>
+            <plain>РЇ - РІ РўРІРѕРµР№ РЅРµ Р·СЂРёРјРѕР№ С€РєРѕР»Рµ</plain>
         </string>
         <string>
-            <plain>И сижу у ног Твоих;</plain>
+            <plain>Р СЃРёР¶Сѓ Сѓ РЅРѕРі РўРІРѕРёС…;</plain>
         </string>
         <string>
-            <plain>Всем умом и всею волей</plain>
+            <plain>Р’СЃРµРј СѓРјРѕРј Рё РІСЃРµСЋ РІРѕР»РµР№</plain>
         </string>
         <string>
-            <plain>Ожидаю слов живых.</plain>
+            <plain>РћР¶РёРґР°СЋ СЃР»РѕРІ Р¶РёРІС‹С….</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Научи меня молиться</plain>
+            <plain>РќР°СѓС‡Рё РјРµРЅСЏ РјРѕР»РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Повседневною мольбой,</plain>
+            <plain>РџРѕРІСЃРµРґРЅРµРІРЅРѕСЋ РјРѕР»СЊР±РѕР№,</plain>
         </string>
         <string>
-            <plain>Чтобы мне обогаться</plain>
+            <plain>Р§С‚РѕР±С‹ РјРЅРµ РѕР±РѕРіР°С‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>Благодатию святой.</plain>
+            <plain>Р‘Р»Р°РіРѕРґР°С‚РёСЋ СЃРІСЏС‚РѕР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Научи меня молиться</plain>
+            <plain>РќР°СѓС‡Рё РјРµРЅСЏ РјРѕР»РёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>О других, не о себе,</plain>
+            <plain>Рћ РґСЂСѓРіРёС…, РЅРµ Рѕ СЃРµР±Рµ,</plain>
         </string>
         <string>
-            <plain>Чтобы мне усовершиться,</plain>
+            <plain>Р§С‚РѕР±С‹ РјРЅРµ СѓСЃРѕРІРµСЂС€РёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Уподобиться Тебе.</plain>
+            <plain>РЈРїРѕРґРѕР±РёС‚СЊСЃСЏ РўРµР±Рµ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Научи мольбе целебной</plain>
+            <plain>РќР°СѓС‡Рё РјРѕР»СЊР±Рµ С†РµР»РµР±РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Для себя и для людей;</plain>
+            <plain>Р”Р»СЏ СЃРµР±СЏ Рё РґР»СЏ Р»СЋРґРµР№;</plain>
         </string>
         <string>
-            <plain>Научи мольбе хвалебной</plain>
+            <plain>РќР°СѓС‡Рё РјРѕР»СЊР±Рµ С…РІР°Р»РµР±РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Под крестом Твоих скорбей.</plain>
+            <plain>РџРѕРґ РєСЂРµСЃС‚РѕРј РўРІРѕРёС… СЃРєРѕСЂР±РµР№.</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Научи такой молитве,</plain>
+            <plain>РќР°СѓС‡Рё С‚Р°РєРѕР№ РјРѕР»РёС‚РІРµ,</plain>
         </string>
         <string>
-            <plain>Как молился Ты, Христос,</plain>
+            <plain>РљР°Рє РјРѕР»РёР»СЃСЏ РўС‹, РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>В каплях крови, словно в битве,</plain>
+            <plain>Р’ РєР°РїР»СЏС… РєСЂРѕРІРё, СЃР»РѕРІРЅРѕ РІ Р±РёС‚РІРµ,</plain>
         </string>
         <string>
-            <plain>И в огне горячих слез.</plain>
+            <plain>Р РІ РѕРіРЅРµ РіРѕСЂСЏС‡РёС… СЃР»РµР·.</plain>
         </string>
     </verse>
     <verse number="7">
         <string>
-            <plain>Научи меня смиренью,</plain>
+            <plain>РќР°СѓС‡Рё РјРµРЅСЏ СЃРјРёСЂРµРЅСЊСЋ,</plain>
         </string>
         <string>
-            <plain>Кротости души Твоей;</plain>
+            <plain>РљСЂРѕС‚РѕСЃС‚Рё РґСѓС€Рё РўРІРѕРµР№;</plain>
         </string>
         <string>
-            <plain>Научи меня терпенью</plain>
+            <plain>РќР°СѓС‡Рё РјРµРЅСЏ С‚РµСЂРїРµРЅСЊСЋ</plain>
         </string>
         <string>
-            <plain>Под ярмом житейских дней.</plain>
+            <plain>РџРѕРґ СЏСЂРјРѕРј Р¶РёС‚РµР№СЃРєРёС… РґРЅРµР№.</plain>
         </string>
     </verse>
     <verse number="8">
         <string>
-            <plain>Научи меня трудиться,</plain>
+            <plain>РќР°СѓС‡Рё РјРµРЅСЏ С‚СЂСѓРґРёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>Как, Господь, трудился</plain>
+            <plain>РљР°Рє, Р“РѕСЃРїРѕРґСЊ, С‚СЂСѓРґРёР»СЃСЏ</plain>
         </string>
         <string>
-            <plain>Ты, Чтобы мне не утомиться</plain>
+            <plain>РўС‹, Р§С‚РѕР±С‹ РјРЅРµ РЅРµ СѓС‚РѕРјРёС‚СЊСЃСЏ</plain>
         </string>
         <string>
-            <plain>В мире зла и суеты.</plain>
+            <plain>Р’ РјРёСЂРµ Р·Р»Р° Рё СЃСѓРµС‚С‹.</plain>
         </string>
     </verse>
 </psalm>

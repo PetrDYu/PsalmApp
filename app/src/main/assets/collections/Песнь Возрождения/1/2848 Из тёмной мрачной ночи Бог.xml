@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2848" name="Из тёмной мрачной ночи Бог" canon="false" text="" textRus="" music="">
+<psalm number="2848" name="РР· С‚С‘РјРЅРѕР№ РјСЂР°С‡РЅРѕР№ РЅРѕС‡Рё Р‘РѕРі" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Из тёмной, мрачной ночи Бог,</plain>
+            <plain>РР· С‚С‘РјРЅРѕР№, РјСЂР°С‡РЅРѕР№ РЅРѕС‡Рё Р‘РѕРі,</plain>
         </string>
         <string>
-            <plain>где под грехом я изнемог,</plain>
+            <plain>РіРґРµ РїРѕРґ РіСЂРµС…РѕРј СЏ РёР·РЅРµРјРѕРі,</plain>
         </string>
         <string>
-            <plain>мне выйти в вечный свет помог,</plain>
+            <plain>РјРЅРµ РІС‹Р№С‚Рё РІ РІРµС‡РЅС‹Р№ СЃРІРµС‚ РїРѕРјРѕРі,</plain>
         </string>
         <string>
-            <plain>мой путь светом озарил.</plain>
+            <plain>РјРѕР№ РїСѓС‚СЊ СЃРІРµС‚РѕРј РѕР·Р°СЂРёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В свете я Христа,</plain>
+            <plain>Р’ СЃРІРµС‚Рµ СЏ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>петь могу в восторге</plain>
+            <plain>РїРµС‚СЊ РјРѕРіСѓ РІ РІРѕСЃС‚РѕСЂРіРµ</plain>
         </string>
         <string>
-            <plain>в свете Христа!</plain>
+            <plain>РІ СЃРІРµС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>В свете я Христа,</plain>
+            <plain>Р’ СЃРІРµС‚Рµ СЏ РҐСЂРёСЃС‚Р°,</plain>
         </string>
         <string>
-            <plain>живу в свете я Христа!</plain>
+            <plain>Р¶РёРІСѓ РІ СЃРІРµС‚Рµ СЏ РҐСЂРёСЃС‚Р°!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Теперь прошла вся темнота,</plain>
+            <plain>РўРµРїРµСЂСЊ РїСЂРѕС€Р»Р° РІСЃСЏ С‚РµРјРЅРѕС‚Р°,</plain>
         </string>
         <string>
-            <plain>обрёл покой и счастье я;</plain>
+            <plain>РѕР±СЂС‘Р» РїРѕРєРѕР№ Рё СЃС‡Р°СЃС‚СЊРµ СЏ;</plain>
         </string>
         <string>
-            <plain>и радостью душа полна с тех пор,</plain>
+            <plain>Рё СЂР°РґРѕСЃС‚СЊСЋ РґСѓС€Р° РїРѕР»РЅР° СЃ С‚РµС… РїРѕСЂ,</plain>
         </string>
         <string>
-            <plain>как Иисус мой свет.</plain>
+            <plain>РєР°Рє РРёСЃСѓСЃ РјРѕР№ СЃРІРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Иисус, как дорог стал ты мне Ты!</plain>
+            <plain>РРёСЃСѓСЃ, РєР°Рє РґРѕСЂРѕРі СЃС‚Р°Р» С‚С‹ РјРЅРµ РўС‹!</plain>
         </string>
         <string>
-            <plain>Я жажду лишь в Тебе пребыть и в Слове,</plain>
+            <plain>РЇ Р¶Р°Р¶РґСѓ Р»РёС€СЊ РІ РўРµР±Рµ РїСЂРµР±С‹С‚СЊ Рё РІ РЎР»РѕРІРµ,</plain>
         </string>
         <string>
-            <plain>что велит мне жить во свете Твоём всегда.</plain>
+            <plain>С‡С‚Рѕ РІРµР»РёС‚ РјРЅРµ Р¶РёС‚СЊ РІРѕ СЃРІРµС‚Рµ РўРІРѕС‘Рј РІСЃРµРіРґР°.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Господь, тебя благодарю,</plain>
+            <plain>Р“РѕСЃРїРѕРґСЊ, С‚РµР±СЏ Р±Р»Р°РіРѕРґР°СЂСЋ,</plain>
         </string>
         <string>
-            <plain>Твою лишь волю я творю,</plain>
+            <plain>РўРІРѕСЋ Р»РёС€СЊ РІРѕР»СЋ СЏ С‚РІРѕСЂСЋ,</plain>
         </string>
         <string>
-            <plain>покой в Тебе лишь нахожу.</plain>
+            <plain>РїРѕРєРѕР№ РІ РўРµР±Рµ Р»РёС€СЊ РЅР°С…РѕР¶Сѓ.</plain>
         </string>
         <string>
-            <plain>Ты - свет и спасенье мне.</plain>
+            <plain>РўС‹ - СЃРІРµС‚ Рё СЃРїР°СЃРµРЅСЊРµ РјРЅРµ.</plain>
         </string>
     </verse>
 </psalm>

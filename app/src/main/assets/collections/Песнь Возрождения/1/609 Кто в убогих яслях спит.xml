@@ -1,81 +1,81 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="609" name="Кто в убогих яслях спит" canon="false" text="" textRus="" music="">
+<psalm number="609" name="РљС‚Рѕ РІ СѓР±РѕРіРёС… СЏСЃР»СЏС… СЃРїРёС‚" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Кто в убогих яслях спит?</plain>
+            <plain>РљС‚Рѕ РІ СѓР±РѕРіРёС… СЏСЃР»СЏС… СЃРїРёС‚?</plain>
         </string>
         <string>
-            <plain>Чей Младенец там лежит?</plain>
+            <plain>Р§РµР№ РњР»Р°РґРµРЅРµС† С‚Р°Рј Р»РµР¶РёС‚?</plain>
         </string>
         <string>
-            <plain>Он - Господь, Христос, Спаситель,</plain>
+            <plain>РћРЅ - Р“РѕСЃРїРѕРґСЊ, РҐСЂРёСЃС‚РѕСЃ, РЎРїР°СЃРёС‚РµР»СЊ,</plain>
         </string>
         <string>
-            <plain>Божий Сын, наш Избавитель.</plain>
+            <plain>Р‘РѕР¶РёР№ РЎС‹РЅ, РЅР°С€ РР·Р±Р°РІРёС‚РµР»СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Мы к ногам Его падем,</plain>
+            <plain>РњС‹ Рє РЅРѕРіР°Рј Р•РіРѕ РїР°РґРµРј,</plain>
         </string>
         <string>
-            <plain>Возгласим Его царем.</plain>
+            <plain>Р’РѕР·РіР»Р°СЃРёРј Р•РіРѕ С†Р°СЂРµРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Кто толпе там говорит?</plain>
+            <plain>РљС‚Рѕ С‚РѕР»РїРµ С‚Р°Рј РіРѕРІРѕСЂРёС‚?</plain>
         </string>
         <string>
-            <plain>Кто страдальцам мир дарит?</plain>
+            <plain>РљС‚Рѕ СЃС‚СЂР°РґР°Р»СЊС†Р°Рј РјРёСЂ РґР°СЂРёС‚?</plain>
         </string>
         <string>
-            <plain>Кто же Он, к кому несут</plain>
+            <plain>РљС‚Рѕ Р¶Рµ РћРЅ, Рє РєРѕРјСѓ РЅРµСЃСѓС‚</plain>
         </string>
         <string>
-            <plain>Всех больных, слепых ведут?</plain>
+            <plain>Р’СЃРµС… Р±РѕР»СЊРЅС‹С…, СЃР»РµРїС‹С… РІРµРґСѓС‚?</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Кто там плачет и стоит</plain>
+            <plain>РљС‚Рѕ С‚Р°Рј РїР»Р°С‡РµС‚ Рё СЃС‚РѕРёС‚</plain>
         </string>
         <string>
-            <plain>На земле, где Лазарь спит?</plain>
+            <plain>РќР° Р·РµРјР»Рµ, РіРґРµ Р›Р°Р·Р°СЂСЊ СЃРїРёС‚?</plain>
         </string>
         <string>
-            <plain>Кто так радостно толпой</plain>
+            <plain>РљС‚Рѕ С‚Р°Рє СЂР°РґРѕСЃС‚РЅРѕ С‚РѕР»РїРѕР№</plain>
         </string>
         <string>
-            <plain>Встречен пеньем и хвалой?</plain>
+            <plain>Р’СЃС‚СЂРµС‡РµРЅ РїРµРЅСЊРµРј Рё С…РІР°Р»РѕР№?</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Кто в саду, припав лицом,</plain>
+            <plain>РљС‚Рѕ РІ СЃР°РґСѓ, РїСЂРёРїР°РІ Р»РёС†РѕРј,</plain>
         </string>
         <string>
-            <plain>Так взывает пред Отцом</plain>
+            <plain>РўР°Рє РІР·С‹РІР°РµС‚ РїСЂРµРґ РћС‚С†РѕРј</plain>
         </string>
         <string>
-            <plain>В теле чьем терзался дух</plain>
+            <plain>Р’ С‚РµР»Рµ С‡СЊРµРј С‚РµСЂР·Р°Р»СЃСЏ РґСѓС…</plain>
         </string>
         <string>
-            <plain>Посреди злодеев двух?</plain>
+            <plain>РџРѕСЃСЂРµРґРё Р·Р»РѕРґРµРµРІ РґРІСѓС…?</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Кто воскрес, чтоб всех спасти</plain>
+            <plain>РљС‚Рѕ РІРѕСЃРєСЂРµСЃ, С‡С‚РѕР± РІСЃРµС… СЃРїР°СЃС‚Рё</plain>
         </string>
         <string>
-            <plain>И заблудших всех найти?</plain>
+            <plain>Р Р·Р°Р±Р»СѓРґС€РёС… РІСЃРµС… РЅР°Р№С‚Рё?</plain>
         </string>
         <string>
-            <plain>Кто над всей землей царит</plain>
+            <plain>РљС‚Рѕ РЅР°Рґ РІСЃРµР№ Р·РµРјР»РµР№ С†Р°СЂРёС‚</plain>
         </string>
         <string>
-            <plain>И вселенную хранит?</plain>
+            <plain>Р РІСЃРµР»РµРЅРЅСѓСЋ С…СЂР°РЅРёС‚?</plain>
         </string>
     </verse>
 </psalm>

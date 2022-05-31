@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="692" name="Да будет Отцу Всеблагому хвала" canon="false" text="" textRus="" music="">
+<psalm number="692" name="Р”Р° Р±СѓРґРµС‚ РћС‚С†Сѓ Р’СЃРµР±Р»Р°РіРѕРјСѓ С…РІР°Р»Р°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Да будет Отцу Всеблагому хвала!</plain>
+            <plain>Р”Р° Р±СѓРґРµС‚ РћС‚С†Сѓ Р’СЃРµР±Р»Р°РіРѕРјСѓ С…РІР°Р»Р°!</plain>
         </string>
         <string>
-            <plain>Господня любовь нас от смерти спасла.</plain>
+            <plain>Р“РѕСЃРїРѕРґРЅСЏ Р»СЋР±РѕРІСЊ РЅР°СЃ РѕС‚ СЃРјРµСЂС‚Рё СЃРїР°СЃР»Р°.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Аллилуйя, честь и слава!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, С‡РµСЃС‚СЊ Рё СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Аллилуйя вовек;</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ РІРѕРІРµРє;</plain>
         </string>
         <string>
-            <plain>Аллилуйя, честь и слава!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, С‡РµСЃС‚СЊ Рё СЃР»Р°РІР°!</plain>
         </string>
         <string>
-            <plain>Бог с нами! Аминь.</plain>
+            <plain>Р‘РѕРі СЃ РЅР°РјРё! РђРјРёРЅСЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Спаситель! Да будет Тебе честь вовек;</plain>
+            <plain>РЎРїР°СЃРёС‚РµР»СЊ! Р”Р° Р±СѓРґРµС‚ РўРµР±Рµ С‡РµСЃС‚СЊ РІРѕРІРµРє;</plain>
         </string>
         <string>
-            <plain>Лишь в Тебе избавленье нашел человек.</plain>
+            <plain>Р›РёС€СЊ РІ РўРµР±Рµ РёР·Р±Р°РІР»РµРЅСЊРµ РЅР°С€РµР» С‡РµР»РѕРІРµРє.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Бог сил! Будь прославлен Ты в Духе Святом;</plain>
+            <plain>Р‘РѕРі СЃРёР»! Р‘СѓРґСЊ РїСЂРѕСЃР»Р°РІР»РµРЅ РўС‹ РІ Р”СѓС…Рµ РЎРІСЏС‚РѕРј;</plain>
         </string>
         <string>
-            <plain>Он ведет к небесам нас премудрым путем.</plain>
+            <plain>РћРЅ РІРµРґРµС‚ Рє РЅРµР±РµСЃР°Рј РЅР°СЃ РїСЂРµРјСѓРґСЂС‹Рј РїСѓС‚РµРј.</plain>
         </string>
     </verse>
 </psalm>

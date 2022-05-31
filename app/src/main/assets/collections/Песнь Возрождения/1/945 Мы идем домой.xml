@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="945" name="Мы идем домой" canon="false" text="" textRus="" music="">
+<psalm number="945" name="РњС‹ РёРґРµРј РґРѕРјРѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Мы идем домой,</plain>
+            <plain>РњС‹ РёРґРµРј РґРѕРјРѕР№,</plain>
         </string>
         <string>
-            <plain>Пастырь добрый мой.</plain>
+            <plain>РџР°СЃС‚С‹СЂСЊ РґРѕР±СЂС‹Р№ РјРѕР№.</plain>
         </string>
         <string>
-            <plain>Мы по миру слово несем.</plain>
+            <plain>РњС‹ РїРѕ РјРёСЂСѓ СЃР»РѕРІРѕ РЅРµСЃРµРј.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Молодые дни, золотые дни,</plain>
+            <plain>РњРѕР»РѕРґС‹Рµ РґРЅРё, Р·РѕР»РѕС‚С‹Рµ РґРЅРё,</plain>
         </string>
         <string>
-            <plain>Мы для Господа живем.</plain>
+            <plain>РњС‹ РґР»СЏ Р“РѕСЃРїРѕРґР° Р¶РёРІРµРј.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Кровь с Креста лилась.</plain>
+            <plain>РљСЂРѕРІСЊ СЃ РљСЂРµСЃС‚Р° Р»РёР»Р°СЃСЊ.</plain>
         </string>
         <string>
-            <plain>Он за нас страдал.</plain>
+            <plain>РћРЅ Р·Р° РЅР°СЃ СЃС‚СЂР°РґР°Р».</plain>
         </string>
         <string>
-            <plain>Смело, дружно мы воспоем!</plain>
+            <plain>РЎРјРµР»Рѕ, РґСЂСѓР¶РЅРѕ РјС‹ РІРѕСЃРїРѕРµРј!</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Божий Дух Святой -</plain>
+            <plain>Р‘РѕР¶РёР№ Р”СѓС… РЎРІСЏС‚РѕР№ -</plain>
         </string>
         <string>
-            <plain>Он ведет нас в бой,</plain>
+            <plain>РћРЅ РІРµРґРµС‚ РЅР°СЃ РІ Р±РѕР№,</plain>
         </string>
         <string>
-            <plain>Он ведет нас всею семьей.</plain>
+            <plain>РћРЅ РІРµРґРµС‚ РЅР°СЃ РІСЃРµСЋ СЃРµРјСЊРµР№.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Твердо стой, мой друг,</plain>
+            <plain>РўРІРµСЂРґРѕ СЃС‚РѕР№, РјРѕР№ РґСЂСѓРі,</plain>
         </string>
         <string>
-            <plain>Не страшись врага,</plain>
+            <plain>РќРµ СЃС‚СЂР°С€РёСЃСЊ РІСЂР°РіР°,</plain>
         </string>
         <string>
-            <plain>Мы для мира все здесь умрем.</plain>
+            <plain>РњС‹ РґР»СЏ РјРёСЂР° РІСЃРµ Р·РґРµСЃСЊ СѓРјСЂРµРј.</plain>
         </string>
     </verse>
 </psalm>

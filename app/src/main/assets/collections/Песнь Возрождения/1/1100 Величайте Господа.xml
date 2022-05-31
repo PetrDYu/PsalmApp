@@ -1,36 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1100" name="Величайте Господа" canon="false" text="" textRus="" music="">
+<psalm number="1100" name="Р’РµР»РёС‡Р°Р№С‚Рµ Р“РѕСЃРїРѕРґР°" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Величайте Господа,</plain>
+            <plain>Р’РµР»РёС‡Р°Р№С‚Рµ Р“РѕСЃРїРѕРґР°,</plain>
         </string>
         <string>
-            <plain>Он достоин похвалы!</plain>
+            <plain>РћРЅ РґРѕСЃС‚РѕРёРЅ РїРѕС…РІР°Р»С‹!</plain>
         </string>
         <string>
-            <plain>Он достоин похвалы!</plain>
+            <plain>РћРЅ РґРѕСЃС‚РѕРёРЅ РїРѕС…РІР°Р»С‹!</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Все грехи мои простил и оправдал меня,</plain>
+            <plain>Р’СЃРµ РіСЂРµС…Рё РјРѕРё РїСЂРѕСЃС‚РёР» Рё РѕРїСЂР°РІРґР°Р» РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>Все грехи мои простил и оправдал меня.</plain>
+            <plain>Р’СЃРµ РіСЂРµС…Рё РјРѕРё РїСЂРѕСЃС‚РёР» Рё РѕРїСЂР°РІРґР°Р» РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Осанна! Будь благословен.</plain>
+            <plain>РћСЃР°РЅРЅР°! Р‘СѓРґСЊ Р±Р»Р°РіРѕСЃР»РѕРІРµРЅ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты - моя скала,</plain>
+            <plain>РўС‹ - РјРѕСЏ СЃРєР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Скала спасенья!</plain>
+            <plain>РЎРєР°Р»Р° СЃРїР°СЃРµРЅСЊСЏ!</plain>
         </string>
         <string>
-            <plain>Скала спасенья!</plain>
+            <plain>РЎРєР°Р»Р° СЃРїР°СЃРµРЅСЊСЏ!</plain>
         </string>
     </verse>
 </psalm>

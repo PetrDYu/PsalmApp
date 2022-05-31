@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="766" name="Куда теперь идти мне" canon="false" text="" textRus="" music="">
+<psalm number="766" name="РљСѓРґР° С‚РµРїРµСЂСЊ РёРґС‚Рё РјРЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Куда теперь идти мне?</plain>
+            <plain>РљСѓРґР° С‚РµРїРµСЂСЊ РёРґС‚Рё РјРЅРµ?</plain>
         </string>
         <string>
-            <plain>Куда направить путь?</plain>
+            <plain>РљСѓРґР° РЅР°РїСЂР°РІРёС‚СЊ РїСѓС‚СЊ?</plain>
         </string>
         <string>
-            <plain>К земным ли благам жизни?</plain>
+            <plain>Рљ Р·РµРјРЅС‹Рј Р»Рё Р±Р»Р°РіР°Рј Р¶РёР·РЅРё?</plain>
         </string>
         <string>
-            <plain>Где можно отдохнуть?</plain>
+            <plain>Р“РґРµ РјРѕР¶РЅРѕ РѕС‚РґРѕС…РЅСѓС‚СЊ?</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Лишь там найду покой я,</plain>
+            <plain>Р›РёС€СЊ С‚Р°Рј РЅР°Р№РґСѓ РїРѕРєРѕР№ СЏ,</plain>
         </string>
         <string>
-            <plain>Лишь там не будет слез,</plain>
+            <plain>Р›РёС€СЊ С‚Р°Рј РЅРµ Р±СѓРґРµС‚ СЃР»РµР·,</plain>
         </string>
         <string>
-            <plain>Лишь там забуду скорбь я –</plain>
+            <plain>Р›РёС€СЊ С‚Р°Рј Р·Р°Р±СѓРґСѓ СЃРєРѕСЂР±СЊ СЏ вЂ“</plain>
         </string>
         <string>
-            <plain>Где Сам царит Христос.</plain>
+            <plain>Р“РґРµ РЎР°Рј С†Р°СЂРёС‚ РҐСЂРёСЃС‚РѕСЃ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Как трудно все оставить,</plain>
+            <plain>РљР°Рє С‚СЂСѓРґРЅРѕ РІСЃРµ РѕСЃС‚Р°РІРёС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Стремиться лишь туда,</plain>
+            <plain>РЎС‚СЂРµРјРёС‚СЊСЃСЏ Р»РёС€СЊ С‚СѓРґР°,</plain>
         </string>
         <string>
-            <plain>Где ждет меня Отчизна,</plain>
+            <plain>Р“РґРµ Р¶РґРµС‚ РјРµРЅСЏ РћС‚С‡РёР·РЅР°,</plain>
         </string>
         <string>
-            <plain>Желанная страна.</plain>
+            <plain>Р–РµР»Р°РЅРЅР°СЏ СЃС‚СЂР°РЅР°.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Не знаю что со мною</plain>
+            <plain>РќРµ Р·РЅР°СЋ С‡С‚Рѕ СЃРѕ РјРЅРѕСЋ</plain>
         </string>
         <string>
-            <plain>Случилось вдруг теперь,</plain>
+            <plain>РЎР»СѓС‡РёР»РѕСЃСЊ РІРґСЂСѓРі С‚РµРїРµСЂСЊ,</plain>
         </string>
         <string>
-            <plain>А сердце все тоскует</plain>
+            <plain>Рђ СЃРµСЂРґС†Рµ РІСЃРµ С‚РѕСЃРєСѓРµС‚</plain>
         </string>
         <string>
-            <plain>О Родине моей.</plain>
+            <plain>Рћ Р РѕРґРёРЅРµ РјРѕРµР№.</plain>
         </string>
     </verse>
 </psalm>

@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2839" name="Наш Господь вперед стремиться" canon="false" text="" textRus="" music="">
+<psalm number="2839" name="РќР°С€ Р“РѕСЃРїРѕРґСЊ РІРїРµСЂРµРґ СЃС‚СЂРµРјРёС‚СЊСЃСЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Наш Господь вперед стремиться,</plain>
+            <plain>РќР°С€ Р“РѕСЃРїРѕРґСЊ РІРїРµСЂРµРґ СЃС‚СЂРµРјРёС‚СЊСЃСЏ,</plain>
         </string>
         <string>
-            <plain>план спасенья завершить;</plain>
+            <plain>РїР»Р°РЅ СЃРїР°СЃРµРЅСЊСЏ Р·Р°РІРµСЂС€РёС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Его Слово громогласно</plain>
+            <plain>Р•РіРѕ РЎР»РѕРІРѕ РіСЂРѕРјРѕРіР»Р°СЃРЅРѕ</plain>
         </string>
         <string>
-            <plain>на твоем пути звучит.</plain>
+            <plain>РЅР° С‚РІРѕРµРј РїСѓС‚Рё Р·РІСѓС‡РёС‚.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Громче, громче - аллилуйя!</plain>
+            <plain>Р“СЂРѕРјС‡Рµ, РіСЂРѕРјС‡Рµ - Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>- слышим мы теперь уже</plain>
+            <plain>- СЃР»С‹С€РёРј РјС‹ С‚РµРїРµСЂСЊ СѓР¶Рµ</plain>
         </string>
         <string>
-            <plain>весть евангельского</plain>
+            <plain>РІРµСЃС‚СЊ РµРІР°РЅРіРµР»СЊСЃРєРѕРіРѕ</plain>
         </string>
         <string>
-            <plain>Слова о Спасителе Христе.</plain>
+            <plain>РЎР»РѕРІР° Рѕ РЎРїР°СЃРёС‚РµР»Рµ РҐСЂРёСЃС‚Рµ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Хоть весь мир грехом затмился,</plain>
+            <plain>РҐРѕС‚СЊ РІРµСЃСЊ РјРёСЂ РіСЂРµС…РѕРј Р·Р°С‚РјРёР»СЃСЏ,</plain>
         </string>
         <string>
-            <plain>милостив был Бог любви</plain>
+            <plain>РјРёР»РѕСЃС‚РёРІ Р±С‹Р» Р‘РѕРі Р»СЋР±РІРё</plain>
         </string>
         <string>
-            <plain>чрез видения пророков</plain>
+            <plain>С‡СЂРµР· РІРёРґРµРЅРёСЏ РїСЂРѕСЂРѕРєРѕРІ</plain>
         </string>
         <string>
-            <plain>и чрез чудеса Свои.</plain>
+            <plain>Рё С‡СЂРµР· С‡СѓРґРµСЃР° РЎРІРѕРё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но сильней Свою любовь</plain>
+            <plain>РќРѕ СЃРёР»СЊРЅРµР№ РЎРІРѕСЋ Р»СЋР±РѕРІСЊ</plain>
         </string>
         <string>
-            <plain>к нам проявил в Иисусе Он тем,</plain>
+            <plain>Рє РЅР°Рј РїСЂРѕСЏРІРёР» РІ РРёСЃСѓСЃРµ РћРЅ С‚РµРј,</plain>
         </string>
         <string>
-            <plain>что из любви к заблудшим</plain>
+            <plain>С‡С‚Рѕ РёР· Р»СЋР±РІРё Рє Р·Р°Р±Р»СѓРґС€РёРј</plain>
         </string>
         <string>
-            <plain>Сын с престола к нам сошел.</plain>
+            <plain>РЎС‹РЅ СЃ РїСЂРµСЃС‚РѕР»Р° Рє РЅР°Рј СЃРѕС€РµР».</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Мир лежит во сне греховном,</plain>
+            <plain>РњРёСЂ Р»РµР¶РёС‚ РІРѕ СЃРЅРµ РіСЂРµС…РѕРІРЅРѕРј,</plain>
         </string>
         <string>
-            <plain>пусть поэтому звучит</plain>
+            <plain>РїСѓСЃС‚СЊ РїРѕСЌС‚РѕРјСѓ Р·РІСѓС‡РёС‚</plain>
         </string>
         <string>
-            <plain>громко ваш призыв к спасенью,</plain>
+            <plain>РіСЂРѕРјРєРѕ РІР°С€ РїСЂРёР·С‹РІ Рє СЃРїР°СЃРµРЅСЊСЋ,</plain>
         </string>
         <string>
-            <plain>свет ваш каждый пусть узрит.</plain>
+            <plain>СЃРІРµС‚ РІР°С€ РєР°Р¶РґС‹Р№ РїСѓСЃС‚СЊ СѓР·СЂРёС‚.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Души так свободы жаждут</plain>
+            <plain>Р”СѓС€Рё С‚Р°Рє СЃРІРѕР±РѕРґС‹ Р¶Р°Р¶РґСѓС‚</plain>
         </string>
         <string>
-            <plain>- слышите их плач и зов?</plain>
+            <plain>- СЃР»С‹С€РёС‚Рµ РёС… РїР»Р°С‡ Рё Р·РѕРІ?</plain>
         </string>
         <string>
-            <plain>Весть скорее им несите:</plain>
+            <plain>Р’РµСЃС‚СЊ СЃРєРѕСЂРµРµ РёРј РЅРµСЃРёС‚Рµ:</plain>
         </string>
         <string>
-            <plain>«В Нем свобода от оков!»</plain>
+            <plain>В«Р’ РќРµРј СЃРІРѕР±РѕРґР° РѕС‚ РѕРєРѕРІ!В»</plain>
         </string>
     </verse>
     <verse number="6">
         <string>
-            <plain>Пойте громко: Аллилуйя!</plain>
+            <plain>РџРѕР№С‚Рµ РіСЂРѕРјРєРѕ: РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Бог Своих в Сион ведет.</plain>
+            <plain>Р‘РѕРі РЎРІРѕРёС… РІ РЎРёРѕРЅ РІРµРґРµС‚.</plain>
         </string>
         <string>
-            <plain>О своей свободе ныне</plain>
+            <plain>Рћ СЃРІРѕРµР№ СЃРІРѕР±РѕРґРµ РЅС‹РЅРµ</plain>
         </string>
         <string>
-            <plain>радостно народ поет.</plain>
+            <plain>СЂР°РґРѕСЃС‚РЅРѕ РЅР°СЂРѕРґ РїРѕРµС‚.</plain>
         </string>
     </verse>
 </psalm>

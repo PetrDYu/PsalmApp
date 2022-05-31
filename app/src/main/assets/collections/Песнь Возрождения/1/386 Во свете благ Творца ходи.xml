@@ -1,73 +1,73 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="386" name="Во свете благ Творца ходи" canon="false" text="" textRus="" music="">
+<psalm number="386" name="Р’Рѕ СЃРІРµС‚Рµ Р±Р»Р°Рі РўРІРѕСЂС†Р° С…РѕРґРё" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Во свете благ Творца ходи,</plain>
+            <plain>Р’Рѕ СЃРІРµС‚Рµ Р±Р»Р°Рі РўРІРѕСЂС†Р° С…РѕРґРё,</plain>
         </string>
         <string>
-            <plain>Его путем иди;</plain>
+            <plain>Р•РіРѕ РїСѓС‚РµРј РёРґРё;</plain>
         </string>
         <string>
-            <plain>Он Духа шлет к тебе с небес,</plain>
+            <plain>РћРЅ Р”СѓС…Р° С€Р»РµС‚ Рє С‚РµР±Рµ СЃ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>Чтоб мрак в душе исчез.</plain>
+            <plain>Р§С‚РѕР± РјСЂР°Рє РІ РґСѓС€Рµ РёСЃС‡РµР·.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>В свете ходи,</plain>
+            <plain>Р’ СЃРІРµС‚Рµ С…РѕРґРё,</plain>
         </string>
         <string>
-            <plain>В свете Христа!</plain>
+            <plain>Р’ СЃРІРµС‚Рµ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>В свете ходи,</plain>
+            <plain>Р’ СЃРІРµС‚Рµ С…РѕРґРё,</plain>
         </string>
         <string>
-            <plain>В свете слов Христа ходи!</plain>
+            <plain>Р’ СЃРІРµС‚Рµ СЃР»РѕРІ РҐСЂРёСЃС‚Р° С…РѕРґРё!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Во свете слов Христа ходи!</plain>
+            <plain>Р’Рѕ СЃРІРµС‚Рµ СЃР»РѕРІ РҐСЂРёСЃС‚Р° С…РѕРґРё!</plain>
         </string>
         <string>
-            <plain>На лик Его гляди;</plain>
+            <plain>РќР° Р»РёРє Р•РіРѕ РіР»СЏРґРё;</plain>
         </string>
         <string>
-            <plain>Он хочет с ранних лет вести</plain>
+            <plain>РћРЅ С…РѕС‡РµС‚ СЃ СЂР°РЅРЅРёС… Р»РµС‚ РІРµСЃС‚Рё</plain>
         </string>
         <string>
-            <plain>Нас по Его пути.</plain>
+            <plain>РќР°СЃ РїРѕ Р•РіРѕ РїСѓС‚Рё.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Во свете слов Христа ходи;</plain>
+            <plain>Р’Рѕ СЃРІРµС‚Рµ СЃР»РѕРІ РҐСЂРёСЃС‚Р° С…РѕРґРё;</plain>
         </string>
         <string>
-            <plain>И тучи впереди,</plain>
+            <plain>Р С‚СѓС‡Рё РІРїРµСЂРµРґРё,</plain>
         </string>
         <string>
-            <plain>И ночь греха пройдет, как тень,</plain>
+            <plain>Р РЅРѕС‡СЊ РіСЂРµС…Р° РїСЂРѕР№РґРµС‚, РєР°Рє С‚РµРЅСЊ,</plain>
         </string>
         <string>
-            <plain>В великий Божий день.</plain>
+            <plain>Р’ РІРµР»РёРєРёР№ Р‘РѕР¶РёР№ РґРµРЅСЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Во свете слов Христа иди,</plain>
+            <plain>Р’Рѕ СЃРІРµС‚Рµ СЃР»РѕРІ РҐСЂРёСЃС‚Р° РёРґРё,</plain>
         </string>
         <string>
-            <plain>Любовь храни в груди;</plain>
+            <plain>Р›СЋР±РѕРІСЊ С…СЂР°РЅРё РІ РіСЂСѓРґРё;</plain>
         </string>
         <string>
-            <plain>Союз с Ним здесь так сладок нам,</plain>
+            <plain>РЎРѕСЋР· СЃ РќРёРј Р·РґРµСЃСЊ С‚Р°Рє СЃР»Р°РґРѕРє РЅР°Рј,</plain>
         </string>
         <string>
-            <plain>Но слаще будет там.</plain>
+            <plain>РќРѕ СЃР»Р°С‰Рµ Р±СѓРґРµС‚ С‚Р°Рј.</plain>
         </string>
     </verse>
 </psalm>

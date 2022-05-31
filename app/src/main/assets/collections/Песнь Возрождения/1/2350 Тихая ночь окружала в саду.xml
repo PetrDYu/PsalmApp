@@ -1,88 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2350" name="Тихая ночь окружала в саду" canon="false" text="" textRus="" music="">
+<psalm number="2350" name="РўРёС…Р°СЏ РЅРѕС‡СЊ РѕРєСЂСѓР¶Р°Р»Р° РІ СЃР°РґСѓ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Тихая ночь окружала в саду</plain>
+            <plain>РўРёС…Р°СЏ РЅРѕС‡СЊ РѕРєСЂСѓР¶Р°Р»Р° РІ СЃР°РґСѓ</plain>
         </string>
         <string>
-            <plain>Мирно уснувших друзей.</plain>
+            <plain>РњРёСЂРЅРѕ СѓСЃРЅСѓРІС€РёС… РґСЂСѓР·РµР№.</plain>
         </string>
         <string>
-            <plain>Слышно, как ветер колышет листву,</plain>
+            <plain>РЎР»С‹С€РЅРѕ, РєР°Рє РІРµС‚РµСЂ РєРѕР»С‹С€РµС‚ Р»РёСЃС‚РІСѓ,</plain>
         </string>
         <string>
-            <plain>И протекает ручей.</plain>
+            <plain>Р РїСЂРѕС‚РµРєР°РµС‚ СЂСѓС‡РµР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>"Отче, о, Отче, пусть будет</plain>
+            <plain>"РћС‚С‡Рµ, Рѕ, РћС‚С‡Рµ, РїСѓСЃС‚СЊ Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>Воля во всем лишь Твоя,</plain>
+            <plain>Р’РѕР»СЏ РІРѕ РІСЃРµРј Р»РёС€СЊ РўРІРѕСЏ,</plain>
         </string>
         <string>
-            <plain>Но эта горькая чаша</plain>
+            <plain>РќРѕ СЌС‚Р° РіРѕСЂСЊРєР°СЏ С‡Р°С€Р°</plain>
         </string>
         <string>
-            <plain>Может минует Меня".</plain>
+            <plain>РњРѕР¶РµС‚ РјРёРЅСѓРµС‚ РњРµРЅСЏ".</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Эта молитва раздалась в саду,</plain>
+            <plain>Р­С‚Р° РјРѕР»РёС‚РІР° СЂР°Р·РґР°Р»Р°СЃСЊ РІ СЃР°РґСѓ,</plain>
         </string>
         <string>
-            <plain>То посмотрите - Христос,</plain>
+            <plain>РўРѕ РїРѕСЃРјРѕС‚СЂРёС‚Рµ - РҐСЂРёСЃС‚РѕСЃ,</plain>
         </string>
         <string>
-            <plain>Руки поднявши и, к небу, главу,</plain>
+            <plain>Р СѓРєРё РїРѕРґРЅСЏРІС€Рё Рё, Рє РЅРµР±Сѓ, РіР»Р°РІСѓ,</plain>
         </string>
         <string>
-            <plain>Муки Ему все принес.</plain>
+            <plain>РњСѓРєРё Р•РјСѓ РІСЃРµ РїСЂРёРЅРµСЃ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пот по ланитам, как кровь, выступал,</plain>
+            <plain>РџРѕС‚ РїРѕ Р»Р°РЅРёС‚Р°Рј, РєР°Рє РєСЂРѕРІСЊ, РІС‹СЃС‚СѓРїР°Р»,</plain>
         </string>
         <string>
-            <plain>Слезы стояли в глазах.</plain>
+            <plain>РЎР»РµР·С‹ СЃС‚РѕСЏР»Рё РІ РіР»Р°Р·Р°С….</plain>
         </string>
         <string>
-            <plain>Мир, грешный мир!</plain>
+            <plain>РњРёСЂ, РіСЂРµС€РЅС‹Р№ РјРёСЂ!</plain>
         </string>
         <string>
-            <plain>За тебя так страдал</plain>
+            <plain>Р—Р° С‚РµР±СЏ С‚Р°Рє СЃС‚СЂР°РґР°Р»</plain>
         </string>
         <string>
-            <plain>Тот, перед Кем ты лишь прах.</plain>
+            <plain>РўРѕС‚, РїРµСЂРµРґ РљРµРј С‚С‹ Р»РёС€СЊ РїСЂР°С….</plain>
         </string>
     </verse>
     <chorus number="3">
         <string>
-            <plain>"Отче, о, Отче, пусть будет</plain>
+            <plain>"РћС‚С‡Рµ, Рѕ, РћС‚С‡Рµ, РїСѓСЃС‚СЊ Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>Воля во всем лишь Твоя"</plain>
+            <plain>Р’РѕР»СЏ РІРѕ РІСЃРµРј Р»РёС€СЊ РўРІРѕСЏ"</plain>
         </string>
         <string>
-            <plain>- Эта молитва пусть будет</plain>
+            <plain>- Р­С‚Р° РјРѕР»РёС‚РІР° РїСѓСЃС‚СЊ Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>вечно святой для меня.</plain>
+            <plain>РІРµС‡РЅРѕ СЃРІСЏС‚РѕР№ РґР»СЏ РјРµРЅСЏ.</plain>
         </string>
         <string>
-            <plain>Чтобы всегда повторял</plain>
+            <plain>Р§С‚РѕР±С‹ РІСЃРµРіРґР° РїРѕРІС‚РѕСЂСЏР»</plain>
         </string>
         <string>
-            <plain>В жизни я эти слова:</plain>
+            <plain>Р’ Р¶РёР·РЅРё СЏ СЌС‚Рё СЃР»РѕРІР°:</plain>
         </string>
         <string>
-            <plain>"Отче, о, Отче, пусть будет</plain>
+            <plain>"РћС‚С‡Рµ, Рѕ, РћС‚С‡Рµ, РїСѓСЃС‚СЊ Р±СѓРґРµС‚</plain>
         </string>
         <string>
-            <plain>Воля во всем лишь Твоя".</plain>
+            <plain>Р’РѕР»СЏ РІРѕ РІСЃРµРј Р»РёС€СЊ РўРІРѕСЏ".</plain>
         </string>
     </chorus>
 </psalm>

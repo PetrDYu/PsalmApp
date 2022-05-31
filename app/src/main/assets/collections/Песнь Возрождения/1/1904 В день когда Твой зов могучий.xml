@@ -1,87 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1904" name="В день когда Твой зов могучий" canon="false" text="" textRus="" music="">
+<psalm number="1904" name="Р’ РґРµРЅСЊ РєРѕРіРґР° РўРІРѕР№ Р·РѕРІ РјРѕРіСѓС‡РёР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В день, когда Твой зов могучий</plain>
+            <plain>Р’ РґРµРЅСЊ, РєРѕРіРґР° РўРІРѕР№ Р·РѕРІ РјРѕРіСѓС‡РёР№</plain>
         </string>
         <string>
-            <plain>Дух мой к жизни пробудил,</plain>
+            <plain>Р”СѓС… РјРѕР№ Рє Р¶РёР·РЅРё РїСЂРѕР±СѓРґРёР»,</plain>
         </string>
         <string>
-            <plain>Ты меня для жизни лучшей</plain>
+            <plain>РўС‹ РјРµРЅСЏ РґР»СЏ Р¶РёР·РЅРё Р»СѓС‡С€РµР№</plain>
         </string>
         <string>
-            <plain>Раз навеки отделил.</plain>
+            <plain>Р Р°Р· РЅР°РІРµРєРё РѕС‚РґРµР»РёР».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Отделил в Свое владенье,</plain>
+            <plain>РћС‚РґРµР»РёР» РІ РЎРІРѕРµ РІР»Р°РґРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>В Свой удел, наследья часть,</plain>
+            <plain>Р’ РЎРІРѕР№ СѓРґРµР», РЅР°СЃР»РµРґСЊСЏ С‡Р°СЃС‚СЊ,</plain>
         </string>
         <string>
-            <plain>Чтоб я нес Тебе служенье,</plain>
+            <plain>Р§С‚РѕР± СЏ РЅРµСЃ РўРµР±Рµ СЃР»СѓР¶РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Чтоб я знал твою лишь власть.</plain>
+            <plain>Р§С‚РѕР± СЏ Р·РЅР°Р» С‚РІРѕСЋ Р»РёС€СЊ РІР»Р°СЃС‚СЊ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Меж моей душой и миром</plain>
+            <plain>РњРµР¶ РјРѕРµР№ РґСѓС€РѕР№ Рё РјРёСЂРѕРј</plain>
         </string>
         <string>
-            <plain>Стену Ты Свою воздвиг,</plain>
+            <plain>РЎС‚РµРЅСѓ РўС‹ РЎРІРѕСЋ РІРѕР·РґРІРёРі,</plain>
         </string>
         <string>
-            <plain>Чтоб я льнул к Твоим порфирам.</plain>
+            <plain>Р§С‚РѕР± СЏ Р»СЊРЅСѓР» Рє РўРІРѕРёРј РїРѕСЂС„РёСЂР°Рј.</plain>
         </string>
         <string>
-            <plain>Чтоб о мире я забыл.</plain>
+            <plain>Р§С‚РѕР± Рѕ РјРёСЂРµ СЏ Р·Р°Р±С‹Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Но как часто в удивленье,</plain>
+            <plain>РќРѕ РєР°Рє С‡Р°СЃС‚Рѕ РІ СѓРґРёРІР»РµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Я нежданно открывал...</plain>
+            <plain>РЇ РЅРµР¶РґР°РЅРЅРѕ РѕС‚РєСЂС‹РІР°Р»...</plain>
         </string>
         <string>
-            <plain>В сердце с миром единенье,</plain>
+            <plain>Р’ СЃРµСЂРґС†Рµ СЃ РјРёСЂРѕРј РµРґРёРЅРµРЅСЊРµ,</plain>
         </string>
         <string>
-            <plain>Нить вещественных начал...</plain>
+            <plain>РќРёС‚СЊ РІРµС‰РµСЃС‚РІРµРЅРЅС‹С… РЅР°С‡Р°Р»...</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>И теперь, быть может. Боже,</plain>
+            <plain>Р С‚РµРїРµСЂСЊ, Р±С‹С‚СЊ РјРѕР¶РµС‚. Р‘РѕР¶Рµ,</plain>
         </string>
         <string>
-            <plain>Ты во мне ту видишь нить;</plain>
+            <plain>РўС‹ РІРѕ РјРЅРµ С‚Сѓ РІРёРґРёС€СЊ РЅРёС‚СЊ;</plain>
         </string>
         <string>
-            <plain>Поспеши сильней и строже</plain>
+            <plain>РџРѕСЃРїРµС€Рё СЃРёР»СЊРЅРµР№ Рё СЃС‚СЂРѕР¶Рµ</plain>
         </string>
         <string>
-            <plain>С миром дух разъединить.</plain>
+            <plain>РЎ РјРёСЂРѕРј РґСѓС… СЂР°Р·СЉРµРґРёРЅРёС‚СЊ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Все невидимые связи</plain>
+            <plain>Р’СЃРµ РЅРµРІРёРґРёРјС‹Рµ СЃРІСЏР·Рё</plain>
         </string>
         <string>
-            <plain>С этим миром разрушай</plain>
+            <plain>РЎ СЌС‚РёРј РјРёСЂРѕРј СЂР°Р·СЂСѓС€Р°Р№</plain>
         </string>
         <string>
-            <plain>И, как пятна на алмазе,</plain>
+            <plain>Р, РєР°Рє РїСЏС‚РЅР° РЅР° Р°Р»РјР°Р·Рµ,</plain>
         </string>
         <string>
-            <plain>Грех от сердца удаляй...</plain>
+            <plain>Р“СЂРµС… РѕС‚ СЃРµСЂРґС†Р° СѓРґР°Р»СЏР№...</plain>
         </string>
     </verse>
 </psalm>

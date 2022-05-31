@@ -1,93 +1,93 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2918" name="Всем доволен я в Иисусе" canon="false" text="" textRus="" music="">
+<psalm number="2918" name="Р’СЃРµРј РґРѕРІРѕР»РµРЅ СЏ РІ РРёСЃСѓСЃРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Всем доволен я в Иисусе,</plain>
+            <plain>Р’СЃРµРј РґРѕРІРѕР»РµРЅ СЏ РІ РРёСЃСѓСЃРµ,</plain>
         </string>
         <string>
-            <plain>в совершенстве я спасён.</plain>
+            <plain>РІ СЃРѕРІРµСЂС€РµРЅСЃС‚РІРµ СЏ СЃРїР°СЃС‘РЅ.</plain>
         </string>
         <string>
-            <plain>Уповаю на Иисуса,</plain>
+            <plain>РЈРїРѕРІР°СЋ РЅР° РРёСЃСѓСЃР°,</plain>
         </string>
         <string>
-            <plain>ведь принёс спасенье Он.</plain>
+            <plain>РІРµРґСЊ РїСЂРёРЅС‘СЃ СЃРїР°СЃРµРЅСЊРµ РћРЅ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Господу хвала,</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>Господу хвала,</plain>
+            <plain>Р“РѕСЃРїРѕРґСѓ С…РІР°Р»Р°,</plain>
         </string>
         <string>
-            <plain>за Его любовь!</plain>
+            <plain>Р·Р° Р•РіРѕ Р»СЋР±РѕРІСЊ!</plain>
         </string>
         <string>
-            <plain>за Его любовь!</plain>
+            <plain>Р·Р° Р•РіРѕ Р»СЋР±РѕРІСЊ!</plain>
         </string>
         <string>
-            <plain>О, как радостна и счастлива душа,</plain>
+            <plain>Рћ, РєР°Рє СЂР°РґРѕСЃС‚РЅР° Рё СЃС‡Р°СЃС‚Р»РёРІР° РґСѓС€Р°,</plain>
         </string>
         <string>
-            <plain>что омыта чрез Иисуса кровь!</plain>
+            <plain>С‡С‚Рѕ РѕРјС‹С‚Р° С‡СЂРµР· РРёСЃСѓСЃР° РєСЂРѕРІСЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Во грехах блуждал я прежде,</plain>
+            <plain>Р’Рѕ РіСЂРµС…Р°С… Р±Р»СѓР¶РґР°Р» СЏ РїСЂРµР¶РґРµ,</plain>
         </string>
         <string>
-            <plain>в страхе и сомненьях жил,</plain>
+            <plain>РІ СЃС‚СЂР°С…Рµ Рё СЃРѕРјРЅРµРЅСЊСЏС… Р¶РёР»,</plain>
         </string>
         <string>
-            <plain>но нашёл меня Спаситель</plain>
+            <plain>РЅРѕ РЅР°С€С‘Р» РјРµРЅСЏ РЎРїР°СЃРёС‚РµР»СЊ</plain>
         </string>
         <string>
-            <plain>и грехи мои омыл.</plain>
+            <plain>Рё РіСЂРµС…Рё РјРѕРё РѕРјС‹Р».</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Всем доволен я в Иисусе!</plain>
+            <plain>Р’СЃРµРј РґРѕРІРѕР»РµРЅ СЏ РІ РРёСЃСѓСЃРµ!</plain>
         </string>
         <string>
-            <plain>Не покинет Он меня,</plain>
+            <plain>РќРµ РїРѕРєРёРЅРµС‚ РћРЅ РјРµРЅСЏ,</plain>
         </string>
         <string>
-            <plain>сохранит от всех пороков</plain>
+            <plain>СЃРѕС…СЂР°РЅРёС‚ РѕС‚ РІСЃРµС… РїРѕСЂРѕРєРѕРІ</plain>
         </string>
         <string>
-            <plain>- в Нём укрыт надёжно я.</plain>
+            <plain>- РІ РќС‘Рј СѓРєСЂС‹С‚ РЅР°РґС‘Р¶РЅРѕ СЏ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Я так счастлив, аллилуйя!</plain>
+            <plain>РЇ С‚Р°Рє СЃС‡Р°СЃС‚Р»РёРІ, Р°Р»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Славлю моего Христа!</plain>
+            <plain>РЎР»Р°РІР»СЋ РјРѕРµРіРѕ РҐСЂРёСЃС‚Р°!</plain>
         </string>
         <string>
-            <plain>Он мне дивный мир дарует,</plain>
+            <plain>РћРЅ РјРЅРµ РґРёРІРЅС‹Р№ РјРёСЂ РґР°СЂСѓРµС‚,</plain>
         </string>
         <string>
-            <plain>ибо я Его дитя.</plain>
+            <plain>РёР±Рѕ СЏ Р•РіРѕ РґРёС‚СЏ.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>И под кровом Божьих крыльев</plain>
+            <plain>Р РїРѕРґ РєСЂРѕРІРѕРј Р‘РѕР¶СЊРёС… РєСЂС‹Р»СЊРµРІ</plain>
         </string>
         <string>
-            <plain>безмятежен мой покой.</plain>
+            <plain>Р±РµР·РјСЏС‚РµР¶РµРЅ РјРѕР№ РїРѕРєРѕР№.</plain>
         </string>
         <string>
-            <plain>Чудно жить по воле Божьей</plain>
+            <plain>Р§СѓРґРЅРѕ Р¶РёС‚СЊ РїРѕ РІРѕР»Рµ Р‘РѕР¶СЊРµР№</plain>
         </string>
         <string>
-            <plain>сердцем всем и всей душой!</plain>
+            <plain>СЃРµСЂРґС†РµРј РІСЃРµРј Рё РІСЃРµР№ РґСѓС€РѕР№!</plain>
         </string>
     </verse>
 </psalm>

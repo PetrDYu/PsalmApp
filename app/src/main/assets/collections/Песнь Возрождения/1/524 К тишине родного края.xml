@@ -1,59 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="524" name="К тишине родного края" canon="false" text="" textRus="" music="">
+<psalm number="524" name="Рљ С‚РёС€РёРЅРµ СЂРѕРґРЅРѕРіРѕ РєСЂР°СЏ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>К тишине родного края</plain>
+            <plain>Рљ С‚РёС€РёРЅРµ СЂРѕРґРЅРѕРіРѕ РєСЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Возношусь я всей душой;</plain>
+            <plain>Р’РѕР·РЅРѕС€СѓСЃСЊ СЏ РІСЃРµР№ РґСѓС€РѕР№;</plain>
         </string>
         <string>
-            <plain>Радость чистая, святая</plain>
+            <plain>Р Р°РґРѕСЃС‚СЊ С‡РёСЃС‚Р°СЏ, СЃРІСЏС‚Р°СЏ</plain>
         </string>
         <string>
-            <plain>Светлой там течет рекой.</plain>
+            <plain>РЎРІРµС‚Р»РѕР№ С‚Р°Рј С‚РµС‡РµС‚ СЂРµРєРѕР№.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Я к Отчизне рвусь душою,</plain>
+            <plain>РЇ Рє РћС‚С‡РёР·РЅРµ СЂРІСѓСЃСЊ РґСѓС€РѕСЋ,</plain>
         </string>
         <string>
-            <plain>Направляя к небу взор,</plain>
+            <plain>РќР°РїСЂР°РІР»СЏСЏ Рє РЅРµР±Сѓ РІР·РѕСЂ,</plain>
         </string>
         <string>
-            <plain>Там, где цепью золотою</plain>
+            <plain>РўР°Рј, РіРґРµ С†РµРїСЊСЋ Р·РѕР»РѕС‚РѕСЋ</plain>
         </string>
         <string>
-            <plain>Звезд блистает дивный хор.</plain>
+            <plain>Р—РІРµР·Рґ Р±Р»РёСЃС‚Р°РµС‚ РґРёРІРЅС‹Р№ С…РѕСЂ.</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Там в садах тенистых рая</plain>
+            <plain>РўР°Рј РІ СЃР°РґР°С… С‚РµРЅРёСЃС‚С‹С… СЂР°СЏ</plain>
         </string>
         <string>
-            <plain>Миром расцвели поля;</plain>
+            <plain>РњРёСЂРѕРј СЂР°СЃС†РІРµР»Рё РїРѕР»СЏ;</plain>
         </string>
         <string>
-            <plain>Льется песнь не умолкая,</plain>
+            <plain>Р›СЊРµС‚СЃСЏ РїРµСЃРЅСЊ РЅРµ СѓРјРѕР»РєР°СЏ,</plain>
         </string>
         <string>
-            <plain>Всемогущего хваля.</plain>
+            <plain>Р’СЃРµРјРѕРіСѓС‰РµРіРѕ С…РІР°Р»СЏ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Там бежит источник счастья,</plain>
+            <plain>РўР°Рј Р±РµР¶РёС‚ РёСЃС‚РѕС‡РЅРёРє СЃС‡Р°СЃС‚СЊСЏ,</plain>
         </string>
         <string>
-            <plain>Напояя все кругом;</plain>
+            <plain>РќР°РїРѕСЏСЏ РІСЃРµ РєСЂСѓРіРѕРј;</plain>
         </string>
         <string>
-            <plain>Нет ни бури, ни ненастья, -</plain>
+            <plain>РќРµС‚ РЅРё Р±СѓСЂРё, РЅРё РЅРµРЅР°СЃС‚СЊСЏ, -</plain>
         </string>
         <string>
-            <plain>Иисус там все во всем.</plain>
+            <plain>РРёСЃСѓСЃ С‚Р°Рј РІСЃРµ РІРѕ РІСЃРµРј.</plain>
         </string>
     </verse>
 </psalm>

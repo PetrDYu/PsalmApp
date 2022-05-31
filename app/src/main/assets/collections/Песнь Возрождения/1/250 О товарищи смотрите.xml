@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="250" name="О товарищи смотрите" canon="false" text="" textRus="" music="">
+<psalm number="250" name="Рћ С‚РѕРІР°СЂРёС‰Рё СЃРјРѕС‚СЂРёС‚Рµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>О, товарищи, смотрите,</plain>
+            <plain>Рћ, С‚РѕРІР°СЂРёС‰Рё, СЃРјРѕС‚СЂРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>С неба дан сигнал</plain>
+            <plain>РЎ РЅРµР±Р° РґР°РЅ СЃРёРіРЅР°Р»</plain>
         </string>
         <string>
-            <plain>Новые полки глядите,</plain>
+            <plain>РќРѕРІС‹Рµ РїРѕР»РєРё РіР»СЏРґРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Нам Господь послал.</plain>
+            <plain>РќР°Рј Р“РѕСЃРїРѕРґСЊ РїРѕСЃР»Р°Р».</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>"Крепость Мою не сдавайте:</plain>
+            <plain>"РљСЂРµРїРѕСЃС‚СЊ РњРѕСЋ РЅРµ СЃРґР°РІР°Р№С‚Рµ:</plain>
         </string>
         <string>
-            <plain>Скоро Я приду!"</plain>
+            <plain>РЎРєРѕСЂРѕ РЇ РїСЂРёРґСѓ!"</plain>
         </string>
         <string>
-            <plain>Вы на небо отвечайте:</plain>
+            <plain>Р’С‹ РЅР° РЅРµР±Рѕ РѕС‚РІРµС‡Р°Р№С‚Рµ:</plain>
         </string>
         <string>
-            <plain>"Не сдадим врагу!"</plain>
+            <plain>"РќРµ СЃРґР°РґРёРј РІСЂР°РіСѓ!"</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>Вот идут полки чужие –</plain>
+            <plain>Р’РѕС‚ РёРґСѓС‚ РїРѕР»РєРё С‡СѓР¶РёРµ вЂ“</plain>
         </string>
         <string>
-            <plain>Сатана ведет;</plain>
+            <plain>РЎР°С‚Р°РЅР° РІРµРґРµС‚;</plain>
         </string>
         <string>
-            <plain>Братья падают родные,</plain>
+            <plain>Р‘СЂР°С‚СЊСЏ РїР°РґР°СЋС‚ СЂРѕРґРЅС‹Рµ,</plain>
         </string>
         <string>
-            <plain>Страх уж всех берет.</plain>
+            <plain>РЎС‚СЂР°С… СѓР¶ РІСЃРµС… Р±РµСЂРµС‚.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Знамя выше подымите,</plain>
+            <plain>Р—РЅР°РјСЏ РІС‹С€Рµ РїРѕРґС‹РјРёС‚Рµ,</plain>
         </string>
         <string>
-            <plain>Слушайте трубу;</plain>
+            <plain>РЎР»СѓС€Р°Р№С‚Рµ С‚СЂСѓР±Сѓ;</plain>
         </string>
         <string>
-            <plain>Смело, дружно все идите</plain>
+            <plain>РЎРјРµР»Рѕ, РґСЂСѓР¶РЅРѕ РІСЃРµ РёРґРёС‚Рµ</plain>
         </string>
         <string>
-            <plain>В Божию войну!</plain>
+            <plain>Р’ Р‘РѕР¶РёСЋ РІРѕР№РЅСѓ!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Длится бой, полки редеют,</plain>
+            <plain>Р”Р»РёС‚СЃСЏ Р±РѕР№, РїРѕР»РєРё СЂРµРґРµСЋС‚,</plain>
         </string>
         <string>
-            <plain>Помощь уж близка;</plain>
+            <plain>РџРѕРјРѕС‰СЊ СѓР¶ Р±Р»РёР·РєР°;</plain>
         </string>
         <string>
-            <plain>Не сдаются, не робеют</plain>
+            <plain>РќРµ СЃРґР°СЋС‚СЃСЏ, РЅРµ СЂРѕР±РµСЋС‚</plain>
         </string>
         <string>
-            <plain>Воины Христа.</plain>
+            <plain>Р’РѕРёРЅС‹ РҐСЂРёСЃС‚Р°.</plain>
         </string>
     </verse>
     <verse number="5">
         <string>
-            <plain>Вот идет Господь наш с неба,</plain>
+            <plain>Р’РѕС‚ РёРґРµС‚ Р“РѕСЃРїРѕРґСЊ РЅР°С€ СЃ РЅРµР±Р°,</plain>
         </string>
         <string>
-            <plain>Легионы с Ним;</plain>
+            <plain>Р›РµРіРёРѕРЅС‹ СЃ РќРёРј;</plain>
         </string>
         <string>
-            <plain>С Ним и радость и победа, -</plain>
+            <plain>РЎ РќРёРј Рё СЂР°РґРѕСЃС‚СЊ Рё РїРѕР±РµРґР°, -</plain>
         </string>
         <string>
-            <plain>Славу воздадим.</plain>
+            <plain>РЎР»Р°РІСѓ РІРѕР·РґР°РґРёРј.</plain>
         </string>
     </verse>
     <chorus number="5">
         <string>
-            <plain>"Крепость Мою не сдавайте:</plain>
+            <plain>"РљСЂРµРїРѕСЃС‚СЊ РњРѕСЋ РЅРµ СЃРґР°РІР°Р№С‚Рµ:</plain>
         </string>
         <string>
-            <plain>Вот уж Я иду!"</plain>
+            <plain>Р’РѕС‚ СѓР¶ РЇ РёРґСѓ!"</plain>
         </string>
         <string>
-            <plain>Вы на небо отвечайте:</plain>
+            <plain>Р’С‹ РЅР° РЅРµР±Рѕ РѕС‚РІРµС‡Р°Р№С‚Рµ:</plain>
         </string>
         <string>
-            <plain>"Не сдали врагу!"</plain>
+            <plain>"РќРµ СЃРґР°Р»Рё РІСЂР°РіСѓ!"</plain>
         </string>
     </chorus>
 </psalm>

@@ -1,85 +1,85 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3198" name="В горах иль в долине" canon="false" text="" textRus="" music="">
+<psalm number="3198" name="Р’ РіРѕСЂР°С… РёР»СЊ РІ РґРѕР»РёРЅРµ" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>В горах, иль в долине,</plain>
+            <plain>Р’ РіРѕСЂР°С…, РёР»СЊ РІ РґРѕР»РёРЅРµ,</plain>
         </string>
         <string>
-            <plain>иль в дальних морях</plain>
+            <plain>РёР»СЊ РІ РґР°Р»СЊРЅРёС… РјРѕСЂСЏС…</plain>
         </string>
         <string>
-            <plain>- где б ни пришлось мне быть,</plain>
+            <plain>- РіРґРµ Р± РЅРё РїСЂРёС€Р»РѕСЃСЊ РјРЅРµ Р±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>ведёт меня Слово Твоё, как маяк.</plain>
+            <plain>РІРµРґС‘С‚ РјРµРЅСЏ РЎР»РѕРІРѕ РўРІРѕС‘, РєР°Рє РјР°СЏРє.</plain>
         </string>
         <string>
-            <plain>Верным хочу я быть.</plain>
+            <plain>Р’РµСЂРЅС‹Рј С…РѕС‡Сѓ СЏ Р±С‹С‚СЊ.</plain>
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <plain>Верным быть, верным быть,</plain>
+            <plain>Р’РµСЂРЅС‹Рј Р±С‹С‚СЊ, РІРµСЂРЅС‹Рј Р±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>верным хочу я быть!</plain>
+            <plain>РІРµСЂРЅС‹Рј С…РѕС‡Сѓ СЏ Р±С‹С‚СЊ!</plain>
         </string>
         <string>
-            <plain>Верным быть, верным быть,</plain>
+            <plain>Р’РµСЂРЅС‹Рј Р±С‹С‚СЊ, РІРµСЂРЅС‹Рј Р±С‹С‚СЊ,</plain>
         </string>
         <string>
-            <plain>да, верным хочу я быть!</plain>
+            <plain>РґР°, РІРµСЂРЅС‹Рј С…РѕС‡Сѓ СЏ Р±С‹С‚СЊ!</plain>
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <plain>А в мудрости мира спасения нет</plain>
+            <plain>Рђ РІ РјСѓРґСЂРѕСЃС‚Рё РјРёСЂР° СЃРїР°СЃРµРЅРёСЏ РЅРµС‚</plain>
         </string>
         <string>
-            <plain>- жажду с Христом пребыть.</plain>
+            <plain>- Р¶Р°Р¶РґСѓ СЃ РҐСЂРёСЃС‚РѕРј РїСЂРµР±С‹С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Иисус у креста мне</plain>
+            <plain>РРёСЃСѓСЃ Сѓ РєСЂРµСЃС‚Р° РјРЅРµ</plain>
         </string>
         <string>
-            <plain>открыл вечный свет</plain>
+            <plain>РѕС‚РєСЂС‹Р» РІРµС‡РЅС‹Р№ СЃРІРµС‚</plain>
         </string>
         <string>
-            <plain>- верным хочу я быть.</plain>
+            <plain>- РІРµСЂРЅС‹Рј С…РѕС‡Сѓ СЏ Р±С‹С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Пусть дьявол, как ангел,</plain>
+            <plain>РџСѓСЃС‚СЊ РґСЊСЏРІРѕР», РєР°Рє Р°РЅРіРµР»,</plain>
         </string>
         <string>
-            <plain>приходит ко мне</plain>
+            <plain>РїСЂРёС…РѕРґРёС‚ РєРѕ РјРЅРµ</plain>
         </string>
         <string>
-            <plain>- Бог меня защитит.</plain>
+            <plain>- Р‘РѕРі РјРµРЅСЏ Р·Р°С‰РёС‚РёС‚.</plain>
         </string>
         <string>
-            <plain>Не может моей повредить он душе:</plain>
+            <plain>РќРµ РјРѕР¶РµС‚ РјРѕРµР№ РїРѕРІСЂРµРґРёС‚СЊ РѕРЅ РґСѓС€Рµ:</plain>
         </string>
         <string>
-            <plain>верным хочу я быть.</plain>
+            <plain>РІРµСЂРЅС‹Рј С…РѕС‡Сѓ СЏ Р±С‹С‚СЊ.</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Награда нас ждёт</plain>
+            <plain>РќР°РіСЂР°РґР° РЅР°СЃ Р¶РґС‘С‚</plain>
         </string>
         <string>
-            <plain>после верной борьбы</plain>
+            <plain>РїРѕСЃР»Рµ РІРµСЂРЅРѕР№ Р±РѕСЂСЊР±С‹</plain>
         </string>
         <string>
-            <plain>там в вышине небес,</plain>
+            <plain>С‚Р°Рј РІ РІС‹С€РёРЅРµ РЅРµР±РµСЃ,</plain>
         </string>
         <string>
-            <plain>когда пред престолом Христа будем мы.</plain>
+            <plain>РєРѕРіРґР° РїСЂРµРґ РїСЂРµСЃС‚РѕР»РѕРј РҐСЂРёСЃС‚Р° Р±СѓРґРµРј РјС‹.</plain>
         </string>
         <string>
-            <plain>О, стойте верно все!</plain>
+            <plain>Рћ, СЃС‚РѕР№С‚Рµ РІРµСЂРЅРѕ РІСЃРµ!</plain>
         </string>
     </verse>
 </psalm>

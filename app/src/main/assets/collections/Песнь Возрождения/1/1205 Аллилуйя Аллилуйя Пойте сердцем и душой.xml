@@ -1,107 +1,107 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1205" name="Аллилуйя Аллилуйя Пойте сердцем и душой" canon="false" text="" textRus="" music="">
+<psalm number="1205" name="РђР»Р»РёР»СѓР№СЏ РђР»Р»РёР»СѓР№СЏ РџРѕР№С‚Рµ СЃРµСЂРґС†РµРј Рё РґСѓС€РѕР№" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Аллилуйя, Аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Пойте сердцем и душой!</plain>
+            <plain>РџРѕР№С‚Рµ СЃРµСЂРґС†РµРј Рё РґСѓС€РѕР№!</plain>
         </string>
         <string>
-            <plain>Пойте Богу песнь хваленья.</plain>
+            <plain>РџРѕР№С‚Рµ Р‘РѕРіСѓ РїРµСЃРЅСЊ С…РІР°Р»РµРЅСЊСЏ.</plain>
         </string>
         <string>
-            <plain>Гимны радости святой.</plain>
+            <plain>Р“РёРјРЅС‹ СЂР°РґРѕСЃС‚Рё СЃРІСЏС‚РѕР№.</plain>
         </string>
         <string>
-            <plain>Тот, Кто был распят на древе.</plain>
+            <plain>РўРѕС‚, РљС‚Рѕ Р±С‹Р» СЂР°СЃРїСЏС‚ РЅР° РґСЂРµРІРµ.</plain>
         </string>
         <string>
-            <plain>Умирал за нас на нем.</plain>
+            <plain>РЈРјРёСЂР°Р» Р·Р° РЅР°СЃ РЅР° РЅРµРј.</plain>
         </string>
         <string>
-            <plain>Царь небес восстал из мертвых</plain>
+            <plain>Р¦Р°СЂСЊ РЅРµР±РµСЃ РІРѕСЃСЃС‚Р°Р» РёР· РјРµСЂС‚РІС‹С…</plain>
         </string>
         <string>
-            <plain>С бесконечным торжеством.</plain>
+            <plain>РЎ Р±РµСЃРєРѕРЅРµС‡РЅС‹Рј С‚РѕСЂР¶РµСЃС‚РІРѕРј.</plain>
         </string>
     </verse>
     <verse number="2">
         <string>
-            <plain>Узы смерти ныне сняты,</plain>
+            <plain>РЈР·С‹ СЃРјРµСЂС‚Рё РЅС‹РЅРµ СЃРЅСЏС‚С‹,</plain>
         </string>
         <string>
-            <plain>Жизнь из гроба родилась,</plain>
+            <plain>Р–РёР·РЅСЊ РёР· РіСЂРѕР±Р° СЂРѕРґРёР»Р°СЃСЊ,</plain>
         </string>
         <string>
-            <plain>Он воскрес, и жизнь бессмертья</plain>
+            <plain>РћРЅ РІРѕСЃРєСЂРµСЃ, Рё Р¶РёР·РЅСЊ Р±РµСЃСЃРјРµСЂС‚СЊСЏ</plain>
         </string>
         <string>
-            <plain>В наши души пролилась.</plain>
+            <plain>Р’ РЅР°С€Рё РґСѓС€Рё РїСЂРѕР»РёР»Р°СЃСЊ.</plain>
         </string>
         <string>
-            <plain>Победил Христос, и души</plain>
+            <plain>РџРѕР±РµРґРёР» РҐСЂРёСЃС‚РѕСЃ, Рё РґСѓС€Рё</plain>
         </string>
         <string>
-            <plain>Видят правды торжество;</plain>
+            <plain>Р’РёРґСЏС‚ РїСЂР°РІРґС‹ С‚РѕСЂР¶РµСЃС‚РІРѕ;</plain>
         </string>
         <string>
-            <plain>Мы восстанем к жизни вечной</plain>
+            <plain>РњС‹ РІРѕСЃСЃС‚Р°РЅРµРј Рє Р¶РёР·РЅРё РІРµС‡РЅРѕР№</plain>
         </string>
         <string>
-            <plain>Воскресением Его.</plain>
+            <plain>Р’РѕСЃРєСЂРµСЃРµРЅРёРµРј Р•РіРѕ.</plain>
         </string>
     </verse>
     <verse number="3">
         <string>
-            <plain>Ты воскрес, и мы воскреснем;</plain>
+            <plain>РўС‹ РІРѕСЃРєСЂРµСЃ, Рё РјС‹ РІРѕСЃРєСЂРµСЃРЅРµРј;</plain>
         </string>
         <string>
-            <plain>О, пролей на нас опять</plain>
+            <plain>Рћ, РїСЂРѕР»РµР№ РЅР° РЅР°СЃ РѕРїСЏС‚СЊ</plain>
         </string>
         <string>
-            <plain>Дождь Твоих благословений</plain>
+            <plain>Р”РѕР¶РґСЊ РўРІРѕРёС… Р±Р»Р°РіРѕСЃР»РѕРІРµРЅРёР№</plain>
         </string>
         <string>
-            <plain>И живую благодать.</plain>
+            <plain>Р Р¶РёРІСѓСЋ Р±Р»Р°РіРѕРґР°С‚СЊ.</plain>
         </string>
         <string>
-            <plain>Чтоб, живя сердцами в небе.</plain>
+            <plain>Р§С‚РѕР±, Р¶РёРІСЏ СЃРµСЂРґС†Р°РјРё РІ РЅРµР±Рµ.</plain>
         </string>
         <string>
-            <plain>Здесь мы дали плод святой.</plain>
+            <plain>Р—РґРµСЃСЊ РјС‹ РґР°Р»Рё РїР»РѕРґ СЃРІСЏС‚РѕР№.</plain>
         </string>
         <string>
-            <plain>Чтоб, на зов небес собравшись.</plain>
+            <plain>Р§С‚РѕР±, РЅР° Р·РѕРІ РЅРµР±РµСЃ СЃРѕР±СЂР°РІС€РёСЃСЊ.</plain>
         </string>
         <string>
-            <plain>Вечно были мы с Тобой!</plain>
+            <plain>Р’РµС‡РЅРѕ Р±С‹Р»Рё РјС‹ СЃ РўРѕР±РѕР№!</plain>
         </string>
     </verse>
     <verse number="4">
         <string>
-            <plain>Аллилуйя, Аллилуйя,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ,</plain>
         </string>
         <string>
-            <plain>Слава Богу вечных сил!</plain>
+            <plain>РЎР»Р°РІР° Р‘РѕРіСѓ РІРµС‡РЅС‹С… СЃРёР»!</plain>
         </string>
         <string>
-            <plain>Аллилуйя Иисусу,</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ РРёСЃСѓСЃСѓ,</plain>
         </string>
         <string>
-            <plain>Кто бессмертьем победил.</plain>
+            <plain>РљС‚Рѕ Р±РµСЃСЃРјРµСЂС‚СЊРµРј РїРѕР±РµРґРёР».</plain>
         </string>
         <string>
-            <plain>Аллилуйя Духу Божью!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ Р”СѓС…Сѓ Р‘РѕР¶СЊСЋ!</plain>
         </string>
         <string>
-            <plain>Славя Троице вовек!</plain>
+            <plain>РЎР»Р°РІСЏ РўСЂРѕРёС†Рµ РІРѕРІРµРє!</plain>
         </string>
         <string>
-            <plain>Аллилуйя, Аллилуйя!</plain>
+            <plain>РђР»Р»РёР»СѓР№СЏ, РђР»Р»РёР»СѓР№СЏ!</plain>
         </string>
         <string>
-            <plain>Слава Троице вовек!</plain>
+            <plain>РЎР»Р°РІР° РўСЂРѕРёС†Рµ РІРѕРІРµРє!</plain>
         </string>
     </verse>
 </psalm>
