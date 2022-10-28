@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="738" name="Я прихожу к Тебе в грехах Спаситель" canon="false" text="" textRus="" music="">
+<song number="738" name="Я прихожу к Тебе в грехах Спаситель" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я прихожу к Тебе в грехах, Спаситель.</plain>
@@ -56,4 +56,4 @@
             <plain>Что Ты простишь меня ради Него.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -8,7 +8,7 @@
             <plain>Земля уходит из-под самых ног.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>И весть пронзает сердце, как стрела, –</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -24,7 +24,7 @@
             <plain>Мария, Сын Твой ко Кресту прибит…</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Земля Голгофа солона от слез,</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -40,7 +40,7 @@
             <plain>От страха разбежались кто куда…</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>И только юный Иоанн с Тобой</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
@@ -56,7 +56,7 @@
             <plain>Вбирая боль кровоточащих ран.</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Ты слышишь, как Спаситель говорит</plain>
         </string>
         <string>
@@ -71,7 +71,7 @@
             <plain>Не в силах происшедшее понять,</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>Стоит Христа любимый ученик</plain>
             <repeat id="4" rep_rate="2" is_opening="false" />
         </string>
@@ -87,7 +87,7 @@
             <plain>Христос распятый в мир Любовь явил:</plain>
         </string>
         <string>
-            <repeat id="5" rep_rate="2" is_opening="true" />
+            <repeat id="5" rep_rate="-1" is_opening="true" />
             <plain>«Я заповедь Свою оставил вам</plain>
             <repeat id="5" rep_rate="2" is_opening="false" />
         </string>

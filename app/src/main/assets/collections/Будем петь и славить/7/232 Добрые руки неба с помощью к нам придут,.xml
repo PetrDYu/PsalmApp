@@ -11,7 +11,7 @@
             <plain>Если попросим счастья, счастье свое узрим,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Только мы сами часто не доверяем им.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -27,7 +27,7 @@
             <plain>Небу не безразличны наши земные дни,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>В переживаниях личных вовсе мы не одни.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -43,7 +43,7 @@
             <plain>Кружит мира воронка; чтоб от нее спастись</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>До высоты ребенка, веруя, умались.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
@@ -59,7 +59,7 @@
             <plain>Если попросим счастья, в Боге его узрим,</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Только колени чаще нужно склонять перед Ним.</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1256" name="О Аллилуйя Аминь" canon="false" text="" textRus="" music="">
+<song number="1256" name="О Аллилуйя Аминь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О, Аллилуйя, Аминь!</plain>
@@ -94,4 +94,4 @@
             <plain>Бог к сокрушенным близко.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1140" name="Из праха коры земной Ты создал меня" canon="false" text="" textRus="" music="">
+<song number="1140" name="Из праха коры земной Ты создал меня" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Из праха коры земной Ты создал меня.</plain>
@@ -42,4 +42,4 @@
             <plain>В Тебе, Всесильный Бог, познал я любовь!</plain>
         </string>
     </verse>
-</psalm>
+</song>

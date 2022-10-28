@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2422" name="Я надел белоснежный хитон" canon="false" text="" textRus="" music="">
+<song number="2422" name="Я надел белоснежный хитон" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я надел белоснежный хитон,</plain>
@@ -56,4 +56,4 @@
             <plain>Белоснежной одежду хранить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -20,12 +20,12 @@
             <plain>ЭЛИ́ ЭЛИ́... ШЭЛО́ ЙИГАМЭ́Р ЛЭОЛА́М</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>АХО́ЛЬ ВЭАЯ́М РИШРУ́Ш ШЭЛЬ А-МА́ИМ,</plain>
         </string>
         <string>
             <plain>БЭРА́К А-ШАМА́ЙИМ ТФИЛА́Т А-АДА́М</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

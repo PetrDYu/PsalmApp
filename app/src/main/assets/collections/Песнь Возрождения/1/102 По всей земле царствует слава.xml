@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="102" name="По всей земле царствует слава" canon="false" text="" textRus="" music="">
+<song number="102" name="По всей земле царствует слава" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>По всей земле царствует слава</plain>
@@ -104,4 +104,4 @@
             <plain>Объемлют пределы небес.</plain>
         </string>
     </verse>
-</psalm>
+</song>

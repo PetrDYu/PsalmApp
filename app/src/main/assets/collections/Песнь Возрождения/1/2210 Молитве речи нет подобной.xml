@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2210" name="Молитве речи нет подобной" canon="false" text="" textRus="" music="">
+<song number="2210" name="Молитве речи нет подобной" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Молитве речи нет подобной,</plain>
@@ -66,4 +66,4 @@
             <plain>Всегда молись, не уставай.</plain>
         </string>
     </verse>
-</psalm>
+</song>

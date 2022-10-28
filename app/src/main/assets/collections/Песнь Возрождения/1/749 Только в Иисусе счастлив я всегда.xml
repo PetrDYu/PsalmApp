@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="749" name="Только в Иисусе счастлив я всегда" canon="false" text="" textRus="" music="">
+<song number="749" name="Только в Иисусе счастлив я всегда" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Только в Иисусе счастлив я всегда,</plain>
@@ -56,4 +56,4 @@
             <plain>Где вечно буду ликовать душой!</plain>
         </string>
     </verse>
-</psalm>
+</song>

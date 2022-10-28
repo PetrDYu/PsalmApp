@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1258" name="О город жемчужных ворот и ясписной стены" canon="false" text="" textRus="" music="">
+<song number="1258" name="О город жемчужных ворот и ясписной стены" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О, город жемчужных ворот и ясписной стены!</plain>
@@ -66,4 +66,4 @@
             <plain>О, город дорогих камней, к тебе стремимся мы!</plain>
         </string>
     </chorus>
-</psalm>
+</song>

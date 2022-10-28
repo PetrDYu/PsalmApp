@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2322" name="Смотрю я на Господний мир и на Его дела" canon="false" text="" textRus="" music="">
+<song number="2322" name="Смотрю я на Господний мир и на Его дела" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Смотрю я на Господний мир и на Его дела,</plain>
@@ -60,4 +60,4 @@
             <plain>Все преклонится перед Ним, Бог чудеса творит.</plain>
         </string>
     </verse>
-</psalm>
+</song>

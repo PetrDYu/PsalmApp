@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="584" name="Господь наш щит и упованье" canon="false" text="" textRus="" music="">
+<song number="584" name="Господь наш щит и упованье" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь - наш щит и упованье,</plain>
@@ -104,4 +104,4 @@
             <plain>И усладит нам крест скорбей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

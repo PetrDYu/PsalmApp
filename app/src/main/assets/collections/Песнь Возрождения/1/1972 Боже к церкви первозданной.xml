@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1972" name="Боже к церкви первозданной" canon="false" text="" textRus="" music="">
+<song number="1972" name="Боже к церкви первозданной" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Боже, к церкви первозданной</plain>
@@ -98,4 +98,4 @@
             <plain>Чтобы церковь утвердить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

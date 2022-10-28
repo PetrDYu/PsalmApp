@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="849" name="Весна вновь наш край посетила" canon="false" text="" textRus="" music="">
+<song number="849" name="Весна вновь наш край посетила" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Весна вновь наш край посетила.</plain>
@@ -95,4 +95,4 @@
             <plain>Когда же с небес к нам придет она, Вечная весна?</plain>
         </string>
     </chorus>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="142" name="О Иисус Нет краше ничего" canon="false" text="" textRus="" music="">
+<song number="142" name="О Иисус Нет краше ничего" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О Иисус! Нет краше ничего</plain>
@@ -80,4 +80,4 @@
             <plain>Взор людской мог наблюдать.</plain>
         </string>
     </verse>
-</psalm>
+</song>

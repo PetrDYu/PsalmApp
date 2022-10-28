@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2344" name="Так много дорог на земле" canon="false" text="" textRus="" music="">
+<song number="2344" name="Так много дорог на земле" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Так много дорог на земле,</plain>
@@ -78,4 +78,4 @@
             <plain>Ему своё сердце отдай.</plain>
         </string>
     </verse>
-</psalm>
+</song>

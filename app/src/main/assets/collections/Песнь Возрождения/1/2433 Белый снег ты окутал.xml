@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2433" name="Белый снег ты окутал" canon="false" text="" textRus="" music="">
+<song number="2433" name="Белый снег ты окутал" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Белый снег, ты окутал Всю землю кругом,</plain>
@@ -70,4 +70,4 @@
             <plain>Не сойти с Твоего мне пути.</plain>
         </string>
     </verse>
-</psalm>
+</song>

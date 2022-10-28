@@ -8,7 +8,7 @@
             <plain>Прославляют небеса вечную любовь Твою.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Ангелы, ангелы, херувимы, серафимы</plain>
         </string>
         <string>
@@ -23,12 +23,12 @@
             <plain>Славят горы и моря вечную любовь Твою.</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>И поля, и луга, рыбы речные, звери лесные –</plain>
         </string>
         <string>
             <plain>Все, что растет, все, что живет, – славу Господу поет.</plain>
-            <repeat id="2" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -39,12 +39,12 @@
             <plain>Крестную любовь Твою воспевает Твой народ.</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Слава! Слава! Духу Святому, Духу Святому,</plain>
         </string>
         <string>
             <plain>Слава Отцу, слава Отцу, слава Господу Христу!</plain>
-            <repeat id="4" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

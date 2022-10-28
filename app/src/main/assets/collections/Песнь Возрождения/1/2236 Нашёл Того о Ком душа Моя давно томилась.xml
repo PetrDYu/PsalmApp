@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2236" name="Нашёл Того о Ком душа Моя давно томилась" canon="false" text="" textRus="" music="">
+<song number="2236" name="Нашёл Того о Ком душа Моя давно томилась" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Нашёл Того, о Ком душа Моя давно томилась,</plain>
@@ -42,4 +42,4 @@
             <plain>Христос, в тот край меня введи, Где клад, где клад бесценный для души.</plain>
         </string>
     </verse>
-</psalm>
+</song>

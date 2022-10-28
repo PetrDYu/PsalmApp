@@ -26,7 +26,7 @@
     </verse>
     <verse number="4">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Сердцем склонюсь,</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
             <plain>сердцем склонюсь пред Иисусом.</plain>

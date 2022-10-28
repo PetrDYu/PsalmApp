@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1287" name="Хлеб насущный дай нам на сей день" canon="false" text="" textRus="" music="">
+<song number="1287" name="Хлеб насущный дай нам на сей день" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>"Хлеб насущный дай нам на сей день"</plain>
@@ -84,4 +84,4 @@
             <plain>- Бог для всех одинаково благ.</plain>
         </string>
     </verse>
-</psalm>
+</song>

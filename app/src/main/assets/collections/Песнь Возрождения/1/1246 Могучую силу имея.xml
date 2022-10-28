@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1246" name="Могучую силу имея" canon="false" text="" textRus="" music="">
+<song number="1246" name="Могучую силу имея" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Могучую силу имея,</plain>
@@ -84,4 +84,4 @@
             <plain>В чьем сердце не властен Христос.</plain>
         </string>
     </verse>
-</psalm>
+</song>

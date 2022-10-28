@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1673" name="Ах зачем на земле расцветают цветы" canon="false" text="" textRus="" music="">
+<song number="1673" name="Ах зачем на земле расцветают цветы" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Ах, зачем на земле расцветают цветы.</plain>
@@ -70,4 +70,4 @@
             <plain>Будь всегда ты доволен судьбою.</plain>
         </string>
     </verse>
-</psalm>
+</song>

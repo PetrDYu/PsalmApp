@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="891" name="День Господен наступает" canon="false" text="" textRus="" music="">
+<song number="891" name="День Господен наступает" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>День Господен наступает,</plain>
@@ -70,4 +70,4 @@
             <plain>Близко царствие Христа!</plain>
         </string>
     </verse>
-</psalm>
+</song>

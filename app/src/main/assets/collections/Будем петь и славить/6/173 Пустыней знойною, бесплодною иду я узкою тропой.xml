@@ -5,7 +5,7 @@
             <plain>Пустыней знойною, бесплодною иду я узкою тропой.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Уж близко, близко моя Родина, Меня проводит Дух Святой.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -15,12 +15,12 @@
             <plain>И если солнце в горе скроется, и день и ночь обнимет тьмой,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Вокруг все мглой густой покроется, – мне путь осветит Дух</plain>
         </string>
         <string>
             <plain>Святой.</plain>
-            <repeat id="2" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -28,9 +28,9 @@
             <plain>Когда враги толпою грозною меня окружат, как стеной,</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>В лицо мне смерть дохнет угрозою, – победу даст мне Дух Святой.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
@@ -38,9 +38,9 @@
             <plain>Когда в пути к небесной Родине родным я стану, как чужой,</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>И если все друзья изменят мне, – со мной пребудет Дух Святой.</plain>
-            <repeat id="4" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="5">
@@ -48,9 +48,9 @@
             <plain>Когда и всё, что здесь имею я, отнимет смерть своей рукой,</plain>
         </string>
         <string>
-            <repeat id="5" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>Наследьем плоти станет тление, – со мною будет Дух Святой.</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="4" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

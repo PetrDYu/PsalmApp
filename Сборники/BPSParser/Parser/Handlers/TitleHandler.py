@@ -3,6 +3,7 @@ import re
 from Parser import cur_psalm, change_cur_psalm, change_cur_title_part
 from Parser.Elements.PsalmString import RepeatablePsalmString
 from Parser.Elements.RepeatTag import RepeatTag
+from Parser.Handlers import RepeatHandler
 from Parser.Handlers.BaseHandler import BaseHandler
 from Parser.Handlers.PsalmStringData import PsalmStringData
 from Parser.Configs import MUSIC_RE, MELODY_RE, TEXT_RE, TEXT_AND_MUSIC_RE, TEXT_RUS_RE
@@ -18,7 +19,7 @@ class TitleHandler(BaseHandler):
             if s.is_bold:
                 change_cur_psalm(int(s.str_data))
                 change_cur_title_part('title')
-                RepeatablePsalmString.reset_current_id()
+                RepeatHandler.reset_current_id()
             return
 
         r = re.match(TEXT_AND_MUSIC_RE, s.str_data)

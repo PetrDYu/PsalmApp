@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1731" name="Белое платье невесты Чистый виссон" canon="false" text="" textRus="" music="">
+<song number="1731" name="Белое платье невесты Чистый виссон" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Белое платье невесты - Чистый виссон.</plain>
@@ -44,4 +44,4 @@
             <plain>"Кончится скорби дорога", - Бог говорит.</plain>
         </string>
     </verse>
-</psalm>
+</song>

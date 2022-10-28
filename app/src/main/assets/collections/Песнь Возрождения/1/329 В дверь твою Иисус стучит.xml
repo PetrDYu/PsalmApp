@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="329" name="В дверь твою Иисус стучит" canon="false" text="" textRus="" music="">
+<song number="329" name="В дверь твою Иисус стучит" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В дверь твою Иисус стучит,</plain>
@@ -104,4 +104,4 @@
             <plain>Сердца дверь открой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

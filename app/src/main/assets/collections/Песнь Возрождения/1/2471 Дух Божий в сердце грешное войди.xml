@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2471" name="Дух Божий в сердце грешное войди" canon="false" text="" textRus="" music="">
+<song number="2471" name="Дух Божий в сердце грешное войди" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Дух Божий, в сердце грешное войди,</plain>
@@ -51,4 +51,4 @@
             <plain>Всегда молиться, никогда не унывать.</plain>
         </string>
     </verse>
-</psalm>
+</song>

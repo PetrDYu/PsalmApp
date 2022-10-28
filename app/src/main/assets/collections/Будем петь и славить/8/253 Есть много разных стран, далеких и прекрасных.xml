@@ -16,12 +16,12 @@
     </verse>
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Небесный Град, Небесный Град,</plain>
         </string>
         <string>
             <plain>Страна, где царствует любовь.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -37,12 +37,12 @@
     </verse>
     <verse number="0">
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Господь освящает, Господь исцеляет,</plain>
         </string>
         <string>
             <plain>Господь побеждает смерть.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">

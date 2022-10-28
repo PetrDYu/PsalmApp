@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="916" name="Из храма Христос со Своими друзьями" canon="false" text="" textRus="" music="">
+<song number="916" name="Из храма Христос со Своими друзьями" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Из храма Христос со Своими друзьями</plain>
@@ -125,4 +125,4 @@
             <plain>Предстанут в тот день пред Судьей!</plain>
         </string>
     </chorus>
-</psalm>
+</song>

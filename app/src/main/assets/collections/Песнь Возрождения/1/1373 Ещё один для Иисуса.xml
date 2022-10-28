@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1373" name="Ещё один для Иисуса" canon="false" text="" textRus="" music="">
+<song number="1373" name="Ещё один для Иисуса" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Ещё один для Иисуса</plain>
@@ -131,4 +131,4 @@
             <plain>Блаженны дни труда!</plain>
         </string>
     </chorus>
-</psalm>
+</song>

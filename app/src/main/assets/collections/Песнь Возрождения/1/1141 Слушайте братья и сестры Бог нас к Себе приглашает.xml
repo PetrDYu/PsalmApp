@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1141" name="Слушайте братья и сестры Бог нас к Себе приглашает" canon="false" text="" textRus="" music="">
+<song number="1141" name="Слушайте братья и сестры Бог нас к Себе приглашает" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Слушайте, братья и сестры, Бог нас к Себе приглашает,</plain>
@@ -56,4 +56,4 @@
             <plain>Встретим Его мы с восторгом неземной хвалы.</plain>
         </string>
     </verse>
-</psalm>
+</song>

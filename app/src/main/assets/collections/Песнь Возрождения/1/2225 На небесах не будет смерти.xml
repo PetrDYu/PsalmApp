@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2225" name="На небесах не будет смерти" canon="false" text="" textRus="" music="">
+<song number="2225" name="На небесах не будет смерти" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>На небесах не будет смерти,</plain>
@@ -84,4 +84,4 @@
             <plain>Он - щит нам верный здесь во всем.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="581" name="Брат Ободрись дни протекают" canon="false" text="" textRus="" music="">
+<song number="581" name="Брат Ободрись дни протекают" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Брат! Ободрись, дни протекают;</plain>
@@ -64,4 +64,4 @@
             <plain>Где будет слава, радость, мир.</plain>
         </string>
     </verse>
-</psalm>
+</song>

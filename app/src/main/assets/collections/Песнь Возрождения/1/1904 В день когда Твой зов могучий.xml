@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1904" name="В день когда Твой зов могучий" canon="false" text="" textRus="" music="">
+<song number="1904" name="В день когда Твой зов могучий" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В день, когда Твой зов могучий</plain>
@@ -84,4 +84,4 @@
             <plain>Грех от сердца удаляй...</plain>
         </string>
     </verse>
-</psalm>
+</song>

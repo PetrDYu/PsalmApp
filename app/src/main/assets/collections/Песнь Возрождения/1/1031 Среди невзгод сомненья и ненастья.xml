@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1031" name="Среди невзгод сомненья и ненастья" canon="false" text="" textRus="" music="">
+<song number="1031" name="Среди невзгод сомненья и ненастья" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Среди невзгод, сомненья и ненастья.</plain>
@@ -70,4 +70,4 @@
             <plain>И не пойду, а полечу вперед!</plain>
         </string>
     </verse>
-</psalm>
+</song>

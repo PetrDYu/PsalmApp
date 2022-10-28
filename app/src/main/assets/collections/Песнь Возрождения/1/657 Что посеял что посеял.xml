@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="657" name="Что посеял что посеял" canon="false" text="" textRus="" music="">
+<song number="657" name="Что посеял что посеял" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Что посеял, что посеял?</plain>
@@ -85,4 +85,4 @@
             <plain>Все пожнешь за гробом ты.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="217" name="Слышу призыв Иисуса" canon="false" text="" textRus="" music="">
+<song number="217" name="Слышу призыв Иисуса" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Слышу призыв Иисуса.</plain>
@@ -66,4 +66,4 @@
             <plain>Он придет уж вскоре взять тебя!</plain>
         </string>
     </verse>
-</psalm>
+</song>

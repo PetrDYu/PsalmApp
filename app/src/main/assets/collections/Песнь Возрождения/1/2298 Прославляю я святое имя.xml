@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2298" name="Прославляю я святое имя" canon="false" text="" textRus="" music="">
+<song number="2298" name="Прославляю я святое имя" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Прославляю я святое имя,</plain>
@@ -48,4 +48,4 @@
             <plain>Он для нас Свои объятья распахнёт.</plain>
         </string>
     </verse>
-</psalm>
+</song>

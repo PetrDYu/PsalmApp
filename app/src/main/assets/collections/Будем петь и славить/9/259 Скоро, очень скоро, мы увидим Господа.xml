@@ -2,7 +2,7 @@
 <psalm number="259" name="Скоро, очень скоро, мы увидим Господа" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
-            <repeat id="0" rep_rate="3" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Скоро, очень скоро, мы увидим Господа.</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
         </string>
@@ -12,7 +12,7 @@
     </verse>
     <verse number="2">
         <string>
-            <repeat id="1" rep_rate="3" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Плача больше нет, мы увидим Господа.</plain>
             <repeat id="1" rep_rate="3" is_opening="false" />
         </string>
@@ -22,7 +22,7 @@
     </verse>
     <verse number="3">
         <string>
-            <repeat id="2" rep_rate="3" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Болезни больше нет, мы увидим Господа.</plain>
             <repeat id="2" rep_rate="3" is_opening="false" />
         </string>
@@ -32,7 +32,7 @@
     </verse>
     <verse number="4">
         <string>
-            <repeat id="3" rep_rate="3" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Смерти больше нет, мы увидим Господа.</plain>
             <repeat id="3" rep_rate="3" is_opening="false" />
         </string>

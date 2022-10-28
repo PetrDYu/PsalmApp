@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="570" name="Не тоскуй ты душа дорогая" canon="false" text="" textRus="" music="">
+<song number="570" name="Не тоскуй ты душа дорогая" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Не тоскуй ты, душа дорогая,</plain>
@@ -126,4 +126,4 @@
             <plain>Там наш вечный блаженный приют.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="225" name="Мы твердо верим что есть Бог" canon="false" text="" textRus="" music="">
+<song number="225" name="Мы твердо верим что есть Бог" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Мы твердо верим, что есть Бог,</plain>
@@ -92,4 +92,4 @@
             <plain>Мы явимся пред Ним.</plain>
         </string>
     </verse>
-</psalm>
+</song>

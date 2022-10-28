@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2829" name="О чудный Младенец" canon="false" text="" textRus="" music="">
+<song number="2829" name="О чудный Младенец" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О чудный Младенец,</plain>
@@ -76,4 +76,4 @@
             <plain>дай мысли небесные нам.</plain>
         </string>
     </verse>
-</psalm>
+</song>

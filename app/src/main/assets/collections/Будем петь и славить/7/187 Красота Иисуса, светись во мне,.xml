@@ -8,12 +8,12 @@
             <plain>Чистота и любовь, проявись во мне.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Дух Любви и Огня, оживи меня,</plain>
         </string>
         <string>
             <plain>Чтобы образ Иисуса сиял во мне.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -24,12 +24,12 @@
             <plain>Всю Его чистоту и любовь всегда.</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>О Дух Божий, приди, все во мне измени,</plain>
         </string>
         <string>
             <plain>Чтобы образ Иисуса сиял во мне.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -40,12 +40,12 @@
             <plain>Славит имя Христа, Им одним живет,</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Чтобы имя Христа прославляли уста,</plain>
         </string>
         <string>
             <plain>Чтобы пела душа гимн хвалы всегда.</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
@@ -56,12 +56,12 @@
             <plain>Благодати обитель твори во мне,</plain>
         </string>
         <string>
-            <repeat id="6" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Чтоб я плод приносил и Тебя лишь любил,</plain>
         </string>
         <string>
             <plain>Чтоб вечерю Свою Ты со мной делил.</plain>
-            <repeat id="7" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

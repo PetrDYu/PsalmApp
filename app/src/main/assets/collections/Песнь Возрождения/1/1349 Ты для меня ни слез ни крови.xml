@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1349" name="Ты для меня ни слез ни крови" canon="false" text="" textRus="" music="">
+<song number="1349" name="Ты для меня ни слез ни крови" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Ты для меня ни слез, ни крови,</plain>
@@ -34,4 +34,4 @@
             <plain>Запечатлен в душе моей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

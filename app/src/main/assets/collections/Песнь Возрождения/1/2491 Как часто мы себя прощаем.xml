@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2491" name="Как часто мы себя прощаем" canon="false" text="" textRus="" music="">
+<song number="2491" name="Как часто мы себя прощаем" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Как часто мы себя прощаем,</plain>
@@ -53,4 +53,4 @@
             <plain>Учи меня по-христиански жить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

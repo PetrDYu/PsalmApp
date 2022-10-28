@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="705" name="Не ради почести и славы" canon="false" text="" textRus="" music="">
+<song number="705" name="Не ради почести и славы" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Не ради почести и славы</plain>
@@ -104,4 +104,4 @@
             <plain>Она достойною хвалой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="871" name="В час молитвы в час прощенья" canon="false" text="" textRus="" music="">
+<song number="871" name="В час молитвы в час прощенья" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В час молитвы, в час прощенья,</plain>
@@ -64,4 +64,4 @@
             <plain>- Прийми искупление.</plain>
         </string>
     </verse>
-</psalm>
+</song>

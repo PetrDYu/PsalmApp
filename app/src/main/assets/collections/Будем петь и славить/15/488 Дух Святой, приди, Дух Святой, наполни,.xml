@@ -8,12 +8,12 @@
             <plain>Дух Святой, открой нам небеса,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Красоту Христа, чистоту и святость,</plain>
         </string>
         <string>
             <plain>И любовь Небесного Отца.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">

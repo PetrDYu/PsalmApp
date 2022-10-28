@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2093" name="День уж прошёл вот ночь наступает" canon="false" text="" textRus="" music="">
+<song number="2093" name="День уж прошёл вот ночь наступает" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>День уж прошёл, вот ночь наступает,</plain>
@@ -56,4 +56,4 @@
             <plain>Там меня счастье ждёт.</plain>
         </string>
     </verse>
-</psalm>
+</song>

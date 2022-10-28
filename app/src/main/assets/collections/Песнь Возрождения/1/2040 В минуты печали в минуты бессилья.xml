@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2040" name="В минуты печали в минуты бессилья" canon="false" text="" textRus="" music="">
+<song number="2040" name="В минуты печали в минуты бессилья" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В минуты печали, в минуты бессилья,</plain>
@@ -56,4 +56,4 @@
             <plain>Смотри на Голгофу, на Голгофу смотри.</plain>
         </string>
     </verse>
-</psalm>
+</song>

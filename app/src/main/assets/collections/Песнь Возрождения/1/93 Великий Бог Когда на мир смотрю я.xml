@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="93" name="Великий Бог Когда на мир смотрю я" canon="false" text="" textRus="" music="">
+<song number="93" name="Великий Бог Когда на мир смотрю я" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Великий Бог! Когда на мир смотрю я,</plain>
@@ -120,4 +120,4 @@
             <plain>Признав величье Бога Своего.</plain>
         </string>
     </verse>
-</psalm>
+</song>

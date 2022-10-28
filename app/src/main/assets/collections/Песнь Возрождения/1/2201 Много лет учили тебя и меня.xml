@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2201" name="Много лет учили тебя и меня" canon="false" text="" textRus="" music="">
+<song number="2201" name="Много лет учили тебя и меня" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Много лет учили тебя и меня:</plain>
@@ -56,4 +56,4 @@
             <plain>Белым-белым парусом одним.</plain>
         </string>
     </verse>
-</psalm>
+</song>

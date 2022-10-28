@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2459" name="Господи Боже смири мое сердце" canon="false" text="" textRus="" music="">
+<song number="2459" name="Господи Боже смири мое сердце" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господи, Боже, смири мое сердце,</plain>
@@ -56,4 +56,4 @@
             <plain>Правде единственной, нужной, благой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

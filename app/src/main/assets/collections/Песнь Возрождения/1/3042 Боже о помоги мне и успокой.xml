@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3042" name="Боже о помоги мне и успокой" canon="false" text="" textRus="" music="">
+<song number="3042" name="Боже о помоги мне и успокой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Боже, о помоги мне и успокой,</plain>
@@ -42,4 +42,4 @@
             <plain>и помоги взирать мне лишь на Тебя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

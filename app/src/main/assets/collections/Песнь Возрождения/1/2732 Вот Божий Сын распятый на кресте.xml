@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2732" name="Вот Божий Сын распятый на кресте" canon="false" text="" textRus="" music="">
+<song number="2732" name="Вот Божий Сын распятый на кресте" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вот Божий Сын, распятый на кресте,</plain>
@@ -56,4 +56,4 @@
             <plain>Защитник Он моей души.</plain>
         </string>
     </verse>
-</psalm>
+</song>

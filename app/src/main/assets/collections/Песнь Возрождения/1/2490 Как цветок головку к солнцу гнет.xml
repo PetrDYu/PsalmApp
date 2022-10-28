@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2490" name="Как цветок головку к солнцу гнет" canon="false" text="" textRus="" music="">
+<song number="2490" name="Как цветок головку к солнцу гнет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Как цветок головку к солнцу гнет,</plain>
@@ -54,4 +54,4 @@
             <plain>Потому в мольбе взываю я к Тебе.</plain>
         </string>
     </verse>
-</psalm>
+</song>

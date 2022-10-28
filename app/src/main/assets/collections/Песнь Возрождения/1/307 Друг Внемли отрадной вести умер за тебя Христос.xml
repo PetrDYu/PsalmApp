@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="307" name="Друг Внемли отрадной вести умер за тебя Христос" canon="false" text="" textRus="" music="">
+<song number="307" name="Друг Внемли отрадной вести умер за тебя Христос" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Друг! Внемли отрадной вести: умер за тебя Христос;</plain>
@@ -62,4 +62,4 @@
             <plain>Верь, что ты спасен навеки чрез Его святую кровь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

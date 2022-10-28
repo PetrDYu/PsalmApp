@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1346" name="Спаситель наш Мы в этот час" canon="false" text="" textRus="" music="">
+<song number="1346" name="Спаситель наш Мы в этот час" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Спаситель наш! Мы в этот час</plain>
@@ -42,4 +42,4 @@
             <plain>Когда войдем мы в Дом Отца.</plain>
         </string>
     </verse>
-</psalm>
+</song>

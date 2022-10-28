@@ -5,7 +5,7 @@
             <plain>Поклоняемся Тебе и благословляем Тебя,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Христос, Который крестом Своим искупил мир.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -15,7 +15,7 @@
             <plain>Adoramus te Criste, benedicimus tibi,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>quia per crucem tuam redemisti mundum.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>

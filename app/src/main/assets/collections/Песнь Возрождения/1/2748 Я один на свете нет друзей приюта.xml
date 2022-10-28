@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2748" name="Я один на свете нет друзей приюта" canon="false" text="" textRus="" music="">
+<song number="2748" name="Я один на свете нет друзей приюта" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я один на свете, нет друзей, приюта,</plain>
@@ -56,4 +56,4 @@
             <plain>И о том повсюду я теперь пою.</plain>
         </string>
     </verse>
-</psalm>
+</song>

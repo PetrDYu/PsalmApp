@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2764" name="Вновь мы Вспоминаем радость дивной ночи той" canon="false" text="" textRus="" music="">
+<song number="2764" name="Вновь мы Вспоминаем радость дивной ночи той" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вновь мы Вспоминаем радость дивной ночи той!</plain>
@@ -56,4 +56,4 @@
             <plain>От грехов освобожденье нам Он дал.</plain>
         </string>
     </verse>
-</psalm>
+</song>

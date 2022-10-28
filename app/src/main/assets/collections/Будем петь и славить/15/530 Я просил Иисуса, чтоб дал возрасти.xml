@@ -95,7 +95,7 @@
             <plain>Чтоб ты знал: мир – ничто, ты ищи лишь во Мне,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Я тебя проведу. Но доверься Мне ныне…»</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2820" name="Кто готов страдать с Иисусом" canon="false" text="" textRus="" music="">
+<song number="2820" name="Кто готов страдать с Иисусом" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Кто готов страдать с Иисусом,</plain>
@@ -98,4 +98,4 @@
             <plain>ждет награда впереди!</plain>
         </string>
     </verse>
-</psalm>
+</song>

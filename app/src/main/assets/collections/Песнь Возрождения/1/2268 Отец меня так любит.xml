@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2268" name="Отец меня так любит" canon="false" text="" textRus="" music="">
+<song number="2268" name="Отец меня так любит" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Отец меня так любит, Он Сам мне говорит.</plain>
@@ -42,4 +42,4 @@
             <plain>Но с каждым днем отрадней мне вести той внимать.</plain>
         </string>
     </verse>
-</psalm>
+</song>

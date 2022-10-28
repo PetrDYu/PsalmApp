@@ -2,7 +2,7 @@
 <psalm number="78" name="Мы превозносим и славим Бога небес и Отца" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Мы превозносим и славим Бога небес и Отца!</plain>
         </string>
         <string>
@@ -13,12 +13,12 @@
         </string>
         <string>
             <plain>Богу великому слава вовеки, слава Тебе и хвала!</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Да будет Господу слава вовеки,</plain>
         </string>
         <string>
@@ -29,7 +29,7 @@
         </string>
         <string>
             <plain>Царь царей, мира Князь, Бог богов!</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="0">

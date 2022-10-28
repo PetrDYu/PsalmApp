@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="284" name="Удручен недугом страждет" canon="false" text="" textRus="" music="">
+<song number="284" name="Удручен недугом страждет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Удручен недугом, страждет</plain>
@@ -104,4 +104,4 @@
             <plain>Церкви Божией Жених.</plain>
         </string>
     </verse>
-</psalm>
+</song>

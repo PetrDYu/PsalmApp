@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="877" name="Голгофа Голгофа Голгофа" canon="false" text="" textRus="" music="">
+<song number="877" name="Голгофа Голгофа Голгофа" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Голгофа, Голгофа, Голгофа...</plain>
@@ -61,4 +61,4 @@
             <plain>Свободу мне дал Божий Сын!</plain>
         </string>
     </verse>
-</psalm>
+</song>

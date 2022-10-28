@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1149" name="Когда в душе тоска немая" canon="false" text="" textRus="" music="">
+<song number="1149" name="Когда в душе тоска немая" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Когда в душе тоска немая,</plain>
@@ -70,4 +70,4 @@
             <plain>Она - источник освященья.</plain>
         </string>
     </verse>
-</psalm>
+</song>

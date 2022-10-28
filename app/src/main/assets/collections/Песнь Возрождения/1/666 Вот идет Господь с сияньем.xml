@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="666" name="Вот идет Господь с сияньем" canon="false" text="" textRus="" music="">
+<song number="666" name="Вот идет Господь с сияньем" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вот идет Господь с сияньем</plain>
@@ -70,4 +70,4 @@
             <plain>Реки радости текут.</plain>
         </string>
     </verse>
-</psalm>
+</song>

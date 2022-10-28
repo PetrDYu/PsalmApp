@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3136" name="В духе и в глубоких мыслях на Голгофу я спешу" canon="false" text="" textRus="" music="">
+<song number="3136" name="В духе и в глубоких мыслях на Голгофу я спешу" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В духе и в глубоких мыслях на Голгофу я спешу;</plain>
@@ -67,4 +67,4 @@
             <plain>в этой мы любви пребудем до вечери в небесах.</plain>
         </string>
     </verse>
-</psalm>
+</song>

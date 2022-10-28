@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="658" name="Что сеял ты друг мой весною" canon="false" text="" textRus="" music="">
+<song number="658" name="Что сеял ты друг мой весною" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Что сеял ты, друг мой, весною?</plain>
@@ -90,4 +90,4 @@
             <plain>О, сей, неустанно, друг, сей!</plain>
         </string>
     </verse>
-</psalm>
+</song>

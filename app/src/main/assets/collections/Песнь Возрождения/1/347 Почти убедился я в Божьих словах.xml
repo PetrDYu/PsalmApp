@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="347" name="Почти убедился я в Божьих словах" canon="false" text="" textRus="" music="">
+<song number="347" name="Почти убедился я в Божьих словах" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Почти убедился я в Божьих словах,</plain>
@@ -60,4 +60,4 @@
             <plain>Ведь близок конец и последний твой час.</plain>
         </string>
     </verse>
-</psalm>
+</song>

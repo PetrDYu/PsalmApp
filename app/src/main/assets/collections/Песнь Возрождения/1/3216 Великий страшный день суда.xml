@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3216" name="Великий страшный день суда" canon="false" text="" textRus="" music="">
+<song number="3216" name="Великий страшный день суда" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Великий, страшный день суда</plain>
@@ -66,4 +66,4 @@
             <plain>погибель вечную уйдёшь, там уж спасенья не найдёшь!</plain>
         </string>
     </verse>
-</psalm>
+</song>

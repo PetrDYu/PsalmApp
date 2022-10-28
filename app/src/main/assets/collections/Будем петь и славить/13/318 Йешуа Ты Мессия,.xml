@@ -2,14 +2,14 @@
 <psalm number="318" name="Йешуа Ты Мессия," canon="false" text="" textRus="Н.Чернышева" music="Традиционная еврейская" additionalInfo="">
     <verse number="0">
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
-            <repeat id="0" rep_rate="3" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Йешуа! Ты – Мессия,</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
         </string>
         <string>
             <plain>Ты – наш Царь.</plain>
-            <repeat id="2" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="1">
@@ -30,14 +30,14 @@
     </verse>
     <verse number="0">
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
-            <repeat id="3" rep_rate="3" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>ЙЕШУА А-МАШИАХ</plain>
-            <repeat id="3" rep_rate="3" is_opening="false" />
+            <repeat id="2" rep_rate="3" is_opening="false" />
         </string>
         <string>
             <plain>МЕЛЕХ ИСРАЭЛЬ.</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

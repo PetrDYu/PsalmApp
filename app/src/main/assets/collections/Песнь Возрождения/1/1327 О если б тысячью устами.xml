@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1327" name="О если б тысячью устами" canon="false" text="" textRus="" music="">
+<song number="1327" name="О если б тысячью устами" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О, если б тысячью устами</plain>
@@ -153,4 +153,4 @@
             <plain>Воспеть Тебя, мой Бог, хвалой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

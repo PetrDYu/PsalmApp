@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3168" name="Взглянь на крест Христа Иисуса где Он кровь Свою пролил" canon="false" text="" textRus="" music="">
+<song number="3168" name="Взглянь на крест Христа Иисуса где Он кровь Свою пролил" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Взглянь на крест Христа Иисуса, где Он кровь Свою пролил!</plain>
@@ -48,4 +48,4 @@
             <plain>Славу даст тебе Бог, если поспешишь Христа принять.</plain>
         </string>
     </verse>
-</psalm>
+</song>

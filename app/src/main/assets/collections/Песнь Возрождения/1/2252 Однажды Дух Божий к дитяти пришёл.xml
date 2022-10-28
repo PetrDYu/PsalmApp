@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2252" name="Однажды Дух Божий к дитяти пришёл" canon="false" text="" textRus="" music="">
+<song number="2252" name="Однажды Дух Божий к дитяти пришёл" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Однажды Дух Божий к дитяти пришёл</plain>
@@ -104,4 +104,4 @@
             <plain>Он плакал горько: "Нет больше дня".</plain>
         </string>
     </verse>
-</psalm>
+</song>

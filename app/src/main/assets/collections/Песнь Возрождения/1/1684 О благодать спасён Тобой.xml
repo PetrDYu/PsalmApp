@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1684" name="О благодать спасён Тобой" canon="false" text="" textRus="" music="">
+<song number="1684" name="О благодать спасён Тобой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О, благодать! спасён Тобой</plain>
@@ -84,4 +84,4 @@
             <plain>Как в самый первый день.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -10,12 +10,12 @@
     </verse>
     <chorus number="1">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Пусть пребудет Божий мир с тобой всегда</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>И хранит тебя на многие года.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>

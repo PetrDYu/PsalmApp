@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1664" name="Небо небо о синее небо" canon="false" text="" textRus="" music="">
+<song number="1664" name="Небо небо о синее небо" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Небо, небо, о синее небо!</plain>
@@ -107,4 +107,4 @@
             <plain>Нас увенчает нетленным венцом.</plain>
         </string>
     </verse>
-</psalm>
+</song>

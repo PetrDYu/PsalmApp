@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1955" name="Боже юного меня" canon="false" text="" textRus="" music="">
+<song number="1955" name="Боже юного меня" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Боже, юного меня</plain>
@@ -28,4 +28,4 @@
             <plain>Гибнут в роковых волнах.</plain>
         </string>
     </verse>
-</psalm>
+</song>

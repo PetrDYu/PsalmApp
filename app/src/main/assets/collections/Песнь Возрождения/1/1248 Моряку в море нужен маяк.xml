@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1248" name="Моряку в море нужен маяк" canon="false" text="" textRus="" music="">
+<song number="1248" name="Моряку в море нужен маяк" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Моряку в море нужен маяк.</plain>
@@ -46,4 +46,4 @@
             <plain>На Того, Кто стоит впереди.</plain>
         </string>
     </verse>
-</psalm>
+</song>

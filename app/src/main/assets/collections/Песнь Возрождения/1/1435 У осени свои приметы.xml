@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1435" name="У осени свои приметы" canon="false" text="" textRus="" music="">
+<song number="1435" name="У осени свои приметы" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>У осени свои приметы,</plain>
@@ -94,4 +94,4 @@
             <plain>Хоть юность больше не вернется.</plain>
         </string>
     </verse>
-</psalm>
+</song>

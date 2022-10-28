@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1808" name="Звездочка блеснула" canon="false" text="" textRus="" music="">
+<song number="1808" name="Звездочка блеснула" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Звездочка блеснула</plain>
@@ -56,4 +56,4 @@
             <plain>Тихим мирным сном.</plain>
         </string>
     </verse>
-</psalm>
+</song>

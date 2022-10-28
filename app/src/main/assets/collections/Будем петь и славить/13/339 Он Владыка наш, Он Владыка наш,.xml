@@ -5,7 +5,7 @@
             <plain>Он Владыка наш, Он Владыка наш,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Царь царей, Господь Вселенной. Аллилуйя!</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -15,14 +15,14 @@
             <plain>У́ МАЛКЕ́ЙНУ́ У́ МАЛКЕ́ЙНУ́</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>У́ МЭ́ЛЭХ А́-МЛАХИ́М А́ЛЭЛУ́Я</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="0">
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>АЛЭЛУЯ</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
             <plain>(8 р.)</plain>

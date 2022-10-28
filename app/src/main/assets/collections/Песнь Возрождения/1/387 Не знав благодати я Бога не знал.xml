@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="387" name="Не знав благодати я Бога не знал" canon="false" text="" textRus="" music="">
+<song number="387" name="Не знав благодати я Бога не знал" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Не знав благодати, - я Бога не знал,</plain>
@@ -70,4 +70,4 @@
             <plain>"Господь - оправданье" петь буду всегда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

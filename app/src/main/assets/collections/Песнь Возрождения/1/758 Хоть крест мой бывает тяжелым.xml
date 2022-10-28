@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="758" name="Хоть крест мой бывает тяжелым" canon="false" text="" textRus="" music="">
+<song number="758" name="Хоть крест мой бывает тяжелым" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Хоть крест мой бывает тяжелым,</plain>
@@ -73,4 +73,4 @@
             <plain>И от зла меня хранит.</plain>
         </string>
     </verse>
-</psalm>
+</song>

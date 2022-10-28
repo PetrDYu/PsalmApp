@@ -16,12 +16,12 @@
     </verse>
     <chorus number="1">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Под защитой, под защитой,</plain>
         </string>
         <string>
             <plain>Под защитой Твоих крыл.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
     <verse number="2">
@@ -54,12 +54,12 @@
     </verse>
     <chorus number="3">
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Под защитой, под защитой,</plain>
         </string>
         <string>
             <plain>Под защитой Его крыл.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
 </psalm>

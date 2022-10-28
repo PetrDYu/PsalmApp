@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1181" name="Слышишь ли грешник призыв Христа" canon="false" text="" textRus="" music="">
+<song number="1181" name="Слышишь ли грешник призыв Христа" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Слышишь ли, грешник, призыв Христа?</plain>
@@ -56,4 +56,4 @@
             <plain>- Что же ты медлишь, друг мой, что ждешь?</plain>
         </string>
     </verse>
-</psalm>
+</song>

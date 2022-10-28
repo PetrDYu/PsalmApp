@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1496" name="Благословенье пусть на ваши головы" canon="false" text="" textRus="" music="">
+<song number="1496" name="Благословенье пусть на ваши головы" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Благословенье пусть на ваши головы</plain>
@@ -56,4 +56,4 @@
             <plain>Блажен, кто до конца любовь имеет!</plain>
         </string>
     </verse>
-</psalm>
+</song>

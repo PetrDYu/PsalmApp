@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1363" name="Кто знает час своей кончины" canon="false" text="" textRus="" music="">
+<song number="1363" name="Кто знает час своей кончины" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Кто знает час своей кончины?</plain>
@@ -156,4 +156,4 @@
             <plain>Чтоб я был в вере всякий час!</plain>
         </string>
     </verse>
-</psalm>
+</song>

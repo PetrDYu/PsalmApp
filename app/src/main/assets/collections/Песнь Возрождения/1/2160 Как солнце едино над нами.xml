@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2160" name="Как солнце едино над нами" canon="false" text="" textRus="" music="">
+<song number="2160" name="Как солнце едино над нами" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Как солнце едино над нами,</plain>
@@ -56,4 +56,4 @@
             <plain>Со мной Он всегда и везде.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -8,12 +8,12 @@
             <plain>Я хочу Тебе служить каждый день и час земной.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Без Тебя мне мира нет, без Тебя мне счастья нет.</plain>
         </string>
         <string>
             <plain>Лишь в Тебе сияет мне жизни вечной свет.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -24,7 +24,7 @@
             <plain>Я был мертв, но Ты меня к жизни пробудил.</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>В ком найду я свой покой? Лишь в Тебе, Спаситель мой.</plain>
         </string>
         <string>
@@ -39,7 +39,7 @@
             <plain>В тяжких муках умирал, жизни не щадил.</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Я хочу страдать с Тобой, Иисус, Спаситель мой.</plain>
         </string>
         <string>
@@ -54,12 +54,12 @@
             <plain>Не сдержу от счастья я благодарных слез.</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Лишь в Тебе хочу пребыть, лишь Тебе хочу служить.</plain>
         </string>
         <string>
             <plain>Ты, Христос мой, – верю я – будущность моя.</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

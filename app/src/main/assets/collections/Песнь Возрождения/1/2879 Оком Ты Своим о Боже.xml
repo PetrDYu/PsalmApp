@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2879" name="Оком Ты Своим о Боже" canon="false" text="" textRus="" music="">
+<song number="2879" name="Оком Ты Своим о Боже" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Оком Ты Своим, о Боже,</plain>
@@ -84,4 +84,4 @@
             <plain>- будь всегда опорой мне.</plain>
         </string>
     </verse>
-</psalm>
+</song>

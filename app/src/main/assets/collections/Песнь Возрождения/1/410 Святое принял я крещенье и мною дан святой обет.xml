@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="410" name="Святое принял я крещенье и мною дан святой обет" canon="false" text="" textRus="" music="">
+<song number="410" name="Святое принял я крещенье и мною дан святой обет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Святое принял я крещенье и мною дан святой обет –</plain>
@@ -28,4 +28,4 @@
             <plain>Храните здесь меня с любовью, пока душа придет туда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

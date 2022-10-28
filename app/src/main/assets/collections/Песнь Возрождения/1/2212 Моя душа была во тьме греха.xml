@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2212" name="Моя душа была во тьме греха" canon="false" text="" textRus="" music="">
+<song number="2212" name="Моя душа была во тьме греха" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Моя душа была во тьме греха,</plain>
@@ -56,4 +56,4 @@
             <plain>К закату дня меня не отзовёшь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

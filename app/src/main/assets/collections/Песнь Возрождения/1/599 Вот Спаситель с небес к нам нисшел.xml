@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="599" name="Вот Спаситель с небес к нам нисшел" canon="false" text="" textRus="" music="">
+<song number="599" name="Вот Спаситель с небес к нам нисшел" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вот Спаситель с небес к нам нисшел,</plain>
@@ -56,4 +56,4 @@
             <plain>Чтоб спасти Своих бедных овец.</plain>
         </string>
     </verse>
-</psalm>
+</song>

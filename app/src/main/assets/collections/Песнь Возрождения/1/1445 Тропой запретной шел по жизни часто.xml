@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1445" name="Тропой запретной шел по жизни часто" canon="false" text="" textRus="" music="">
+<song number="1445" name="Тропой запретной шел по жизни часто" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Тропой запретной шел по жизни часто,</plain>
@@ -53,4 +53,4 @@
             <plain>Так что вернись, не спрашивай: "Зачем?"</plain>
         </string>
     </verse>
-</psalm>
+</song>

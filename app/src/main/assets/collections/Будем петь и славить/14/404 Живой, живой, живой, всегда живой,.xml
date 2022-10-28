@@ -16,14 +16,14 @@
     </verse>
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Пой</plain>
         </string>
         <string>
             <plain>Пой: Иисус живой, всегда живой!</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Пой</plain>
         </string>
         <string>

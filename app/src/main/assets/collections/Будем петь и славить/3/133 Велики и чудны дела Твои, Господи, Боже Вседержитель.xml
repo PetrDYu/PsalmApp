@@ -14,7 +14,7 @@
             <plain>Все народы поклонятся пред Тобой, ибо Ты един свят!</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Свят, свят, ибо Ты един свят.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>

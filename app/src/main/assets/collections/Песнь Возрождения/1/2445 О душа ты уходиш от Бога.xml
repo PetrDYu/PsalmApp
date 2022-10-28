@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2445" name="О душа ты уходиш от Бога" canon="false" text="" textRus="" music="">
+<song number="2445" name="О душа ты уходиш от Бога" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О, бунта, ты уходишь от Бога,</plain>
@@ -48,4 +48,4 @@
             <plain>О, прильни и омойся в крови.</plain>
         </string>
     </verse>
-</psalm>
+</song>

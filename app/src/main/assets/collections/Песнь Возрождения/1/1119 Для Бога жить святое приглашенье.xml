@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1119" name="Для Бога жить святое приглашенье" canon="false" text="" textRus="" music="">
+<song number="1119" name="Для Бога жить святое приглашенье" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Для Бога жить - святое приглашенье.</plain>
@@ -70,4 +70,4 @@
             <plain>- Христос грядет, Христос грядет!</plain>
         </string>
     </verse>
-</psalm>
+</song>

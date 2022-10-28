@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="719" name="Все посвяти Иисусу" canon="false" text="" textRus="" music="">
+<song number="719" name="Все посвяти Иисусу" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Все посвяти Иисусу</plain>
@@ -92,4 +92,4 @@
             <plain>Все для Него посвяти!</plain>
         </string>
     </verse>
-</psalm>
+</song>

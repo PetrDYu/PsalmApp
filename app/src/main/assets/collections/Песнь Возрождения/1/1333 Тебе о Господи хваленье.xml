@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1333" name="Тебе о Господи хваленье" canon="false" text="" textRus="" music="">
+<song number="1333" name="Тебе о Господи хваленье" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Тебе, о Господи, хваленье</plain>
@@ -60,4 +60,4 @@
             <plain>Сложить наш крест скорбей земных.</plain>
         </string>
     </verse>
-</psalm>
+</song>

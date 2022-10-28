@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="708" name="Луч последний за горами вспыхнул и погас" canon="false" text="" textRus="" music="">
+<song number="708" name="Луч последний за горами вспыхнул и погас" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Луч последний за горами вспыхнул и погас...</plain>
@@ -56,4 +56,4 @@
             <plain>От житейских испытаний в край родной веди.</plain>
         </string>
     </verse>
-</psalm>
+</song>

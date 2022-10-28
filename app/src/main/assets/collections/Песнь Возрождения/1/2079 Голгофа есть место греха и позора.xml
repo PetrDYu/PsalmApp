@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2079" name="Голгофа есть место греха и позора" canon="false" text="" textRus="" music="">
+<song number="2079" name="Голгофа есть место греха и позора" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Голгофа есть место греха и позора,</plain>
@@ -87,4 +87,4 @@
             <plain>С довольным, победным, прекрасным лицом.</plain>
         </string>
     </verse>
-</psalm>
+</song>

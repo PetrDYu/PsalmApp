@@ -2,12 +2,12 @@
 <psalm number="95" name="Да будет славен наш Создатель" canon="false" text="по мотивам св. Франциска Ассизского" textRus="" music="" additionalInfo="">
     <chorus number="0">
         <string>
-            <repeat id="0" rep_rate="4" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Да будет славен наш Создатель.</plain>
             <repeat id="0" rep_rate="4" is_opening="false" />
         </string>
         <string>
-            <repeat id="1" rep_rate="4" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Laudato si o mi Signore.</plain>
             <repeat id="1" rep_rate="4" is_opening="false" />
         </string>

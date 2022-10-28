@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="241" name="Буря Господь завывает" canon="false" text="" textRus="" music="">
+<song number="241" name="Буря Господь завывает" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Буря, Господь, завывает,</plain>
@@ -89,4 +89,4 @@
             <plain>На вечный покой прими.</plain>
         </string>
     </verse>
-</psalm>
+</song>

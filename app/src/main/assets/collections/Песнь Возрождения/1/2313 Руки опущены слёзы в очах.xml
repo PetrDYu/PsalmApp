@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2313" name="Руки опущены слёзы в очах" canon="false" text="" textRus="" music="">
+<song number="2313" name="Руки опущены слёзы в очах" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Руки опущены, слёзы в очах.</plain>
@@ -64,4 +64,4 @@
             <plain>Смех и пощёчины, крики "Распни!".</plain>
         </string>
     </verse>
-</psalm>
+</song>

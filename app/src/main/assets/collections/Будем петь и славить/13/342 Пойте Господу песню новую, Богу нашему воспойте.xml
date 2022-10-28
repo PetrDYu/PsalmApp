@@ -2,22 +2,22 @@
 <psalm number="342" name="Пойте Господу песню новую, Богу нашему воспойте" canon="false" text="Линды Дувалл" textRus="И. Языковой, Ю. Пастернака" music="Линды Дувалл" additionalInfo="">
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Пойте Господу песню новую, Богу нашему воспойте.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Хвалите Его, песню новую воспойте.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <repeat id="2" rep_rate="3" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Аллилуйя, аллилуйя!</plain>
             <repeat id="2" rep_rate="3" is_opening="false" />
         </string>
         <string>
-            <repeat id="3" rep_rate="3" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Аллилуйя, аллилуйя!</plain>
             <repeat id="3" rep_rate="3" is_opening="false" />
         </string>

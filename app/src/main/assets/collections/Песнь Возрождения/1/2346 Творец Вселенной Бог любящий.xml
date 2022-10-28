@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2346" name="Творец Вселенной Бог любящий" canon="false" text="" textRus="" music="">
+<song number="2346" name="Творец Вселенной Бог любящий" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Творец Вселенной, Бог любящий</plain>
@@ -78,4 +78,4 @@
             <plain>Чтоб грешный мир от зла спасать?</plain>
         </string>
     </verse>
-</psalm>
+</song>

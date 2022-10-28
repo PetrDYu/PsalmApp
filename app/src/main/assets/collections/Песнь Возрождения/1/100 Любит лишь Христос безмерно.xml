@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="100" name="Любит лишь Христос безмерно" canon="false" text="" textRus="" music="">
+<song number="100" name="Любит лишь Христос безмерно" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Любит лишь Христос безмерно,</plain>
@@ -104,4 +104,4 @@
             <plain>Как любит Он!</plain>
         </string>
     </verse>
-</psalm>
+</song>

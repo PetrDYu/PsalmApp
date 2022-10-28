@@ -64,12 +64,12 @@
             <plain>Где вечно святые ликуют,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>В тот чудный и дивный, сказочный сад,</plain>
         </string>
         <string>
             <plain>Где Свет и Любовь торжествуют.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
 </psalm>

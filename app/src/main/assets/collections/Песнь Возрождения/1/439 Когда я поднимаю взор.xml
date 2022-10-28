@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="439" name="Когда я поднимаю взор" canon="false" text="" textRus="" music="">
+<song number="439" name="Когда я поднимаю взор" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Когда я поднимаю взор</plain>
@@ -56,4 +56,4 @@
             <plain>Господь! Я Твой всецело сам.</plain>
         </string>
     </verse>
-</psalm>
+</song>

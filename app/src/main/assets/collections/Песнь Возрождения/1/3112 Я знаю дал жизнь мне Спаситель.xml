@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3112" name="Я знаю дал жизнь мне Спаситель" canon="false" text="" textRus="" music="">
+<song number="3112" name="Я знаю дал жизнь мне Спаситель" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я знаю: дал жизнь мне Спаситель,</plain>
@@ -74,4 +74,4 @@
             <plain>с восторгом Его воспевай!</plain>
         </string>
     </verse>
-</psalm>
+</song>

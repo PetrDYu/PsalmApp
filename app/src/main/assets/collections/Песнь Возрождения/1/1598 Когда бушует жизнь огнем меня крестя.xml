@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1598" name="Когда бушует жизнь огнем меня крестя" canon="false" text="" textRus="" music="">
+<song number="1598" name="Когда бушует жизнь огнем меня крестя" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Когда бушует жизнь, огнем меня крестя,</plain>
@@ -56,4 +56,4 @@
             <plain>Что может у меня Его отнять?</plain>
         </string>
     </verse>
-</psalm>
+</song>

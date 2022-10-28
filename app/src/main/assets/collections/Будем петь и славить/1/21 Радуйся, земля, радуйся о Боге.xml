@@ -8,7 +8,7 @@
             <plain>Вся земля, прославляй Бога своего.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="6" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Аллилуйя.</plain>
             <repeat id="0" rep_rate="6" is_opening="false" />
         </string>
@@ -21,7 +21,7 @@
             <plain>Servite Domino in lætitia.</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Alleluia, alleluia in lætitia.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>

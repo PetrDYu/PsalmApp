@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2630" name="Я хочу чтоб не линяла Краска шелка щек и неба" canon="false" text="" textRus="" music="">
+<song number="2630" name="Я хочу чтоб не линяла Краска шелка щек и неба" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я хочу, чтоб не линяла Краска шелка, щек и неба,</plain>
@@ -56,4 +56,4 @@
             <plain>Пока Он не будет с нами В те обещанные дни.</plain>
         </string>
     </verse>
-</psalm>
+</song>

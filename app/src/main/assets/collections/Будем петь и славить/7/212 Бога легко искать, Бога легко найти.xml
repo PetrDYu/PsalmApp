@@ -8,12 +8,12 @@
             <plain>Бог – это благодать, Бог – это свет в пути,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Это любовь моя, это добро Твое,</plain>
         </string>
         <string>
             <plain>Это средь бурь маяк, отдых в конце пути.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -24,12 +24,12 @@
             <plain>В новую жизнь порог, в вечность манящий миг.</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Бог – это наш судья, истины вечный страж.</plain>
         </string>
         <string>
             <plain>Бог – это суть моя, совести голос наш.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -40,12 +40,12 @@
             <plain>Тот, Кто нам мир дает, Тот, Кто врачует боль,</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Это любовь людей, это прощенье зла,</plain>
         </string>
         <string>
             <plain>Это в душе моей мощный родник тепла.</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
@@ -56,12 +56,12 @@
             <plain>Это по телу дрожь в храме Его святом,</plain>
         </string>
         <string>
-            <repeat id="6" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Это молитвы стон, гимнов хваленья звук,</plain>
         </string>
         <string>
             <plain>Это земной поклон, это скрещенье рук.</plain>
-            <repeat id="7" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="5">
@@ -72,12 +72,12 @@
             <plain>Бог – это лучший друг, в бедах помощник Он.</plain>
         </string>
         <string>
-            <repeat id="8" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>Это воскресный день, это Голгофский крест,</plain>
         </string>
         <string>
             <plain>Это благая весть, крыльев могучих сень.</plain>
-            <repeat id="9" rep_rate="2" is_opening="false" />
+            <repeat id="4" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="6">
@@ -88,12 +88,12 @@
             <plain>Щит от враждебных пуль, кров от нависших туч.</plain>
         </string>
         <string>
-            <repeat id="10" rep_rate="2" is_opening="true" />
+            <repeat id="5" rep_rate="-1" is_opening="true" />
             <plain>Это святая Кровь, это прощенный грех...</plain>
         </string>
         <string>
             <plain>Бог – это та любовь, что обнимает всех.</plain>
-            <repeat id="11" rep_rate="2" is_opening="false" />
+            <repeat id="5" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

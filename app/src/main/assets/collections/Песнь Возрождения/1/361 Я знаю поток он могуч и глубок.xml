@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="361" name="Я знаю поток он могуч и глубок" canon="false" text="" textRus="" music="">
+<song number="361" name="Я знаю поток он могуч и глубок" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я знаю поток: он могуч и глубок,</plain>
@@ -84,4 +84,4 @@
             <plain>Нечистое чистым творит!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1511" name="Радуйся небо звезды ликуйте ангелы пойте" canon="false" text="" textRus="" music="">
+<song number="1511" name="Радуйся небо звезды ликуйте ангелы пойте" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Радуйся, небо; звезды, ликуйте; ангелы, пойте.</plain>
@@ -22,4 +22,4 @@
             <plain>Многие лета, многие лета, дай Твое счастье.</plain>
         </string>
     </verse>
-</psalm>
+</song>

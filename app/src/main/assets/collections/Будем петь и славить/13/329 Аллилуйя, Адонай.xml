@@ -11,7 +11,7 @@
             <plain>Ибо милость Его велика к нам и истина Божья вовек!</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="3" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Аллилу, аллилуйя,</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
         </string>
@@ -33,7 +33,7 @@
             <plain>ВЭ-ЭМЭ́Т АДОНА́Й ЛЭОЛА́М</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="3" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>А́ЛЭЛУ АЛЭЛУЯ</plain>
             <repeat id="1" rep_rate="3" is_opening="false" />
         </string>

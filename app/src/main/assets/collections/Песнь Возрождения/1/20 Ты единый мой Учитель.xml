@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="20" name="Ты единый мой Учитель" canon="false" text="" textRus="" music="">
+<song number="20" name="Ты единый мой Учитель" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Ты - единый мой Учитель</plain>
@@ -112,4 +112,4 @@
             <plain>В мире зла и суеты.</plain>
         </string>
     </verse>
-</psalm>
+</song>

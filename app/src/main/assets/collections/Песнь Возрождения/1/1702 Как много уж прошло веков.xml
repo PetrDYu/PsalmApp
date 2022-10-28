@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1702" name="Как много уж прошло веков" canon="false" text="" textRus="" music="">
+<song number="1702" name="Как много уж прошло веков" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Как много уж прошло веков,</plain>
@@ -75,4 +75,4 @@
             <plain>Голгофской жертвой ты живёшь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="907" name="Есть счастье святое есть дивная радость" canon="false" text="" textRus="" music="">
+<song number="907" name="Есть счастье святое есть дивная радость" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Есть счастье святое, есть дивная радость,</plain>
@@ -84,4 +84,4 @@
             <plain>Дарованный Богом чудес.</plain>
         </string>
     </verse>
-</psalm>
+</song>

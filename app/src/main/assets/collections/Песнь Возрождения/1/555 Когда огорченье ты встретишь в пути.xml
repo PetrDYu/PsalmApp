@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="555" name="Когда огорченье ты встретишь в пути" canon="false" text="" textRus="" music="">
+<song number="555" name="Когда огорченье ты встретишь в пути" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Когда огорченье ты встретишь в пути,</plain>
@@ -42,4 +42,4 @@
             <plain>Омывшем их кровью на скорбном кресте.</plain>
         </string>
     </verse>
-</psalm>
+</song>

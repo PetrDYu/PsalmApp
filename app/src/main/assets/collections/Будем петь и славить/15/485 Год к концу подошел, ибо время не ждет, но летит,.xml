@@ -92,12 +92,12 @@
             <plain>И с плодами святыми придти.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>О Христос, помоги так счислять наши дни,</plain>
         </string>
         <string>
             <plain>Чтобы мудрость в сердцах обрести.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
 </psalm>

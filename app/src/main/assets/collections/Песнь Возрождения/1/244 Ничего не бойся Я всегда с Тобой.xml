@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="244" name="Ничего не бойся Я всегда с Тобой" canon="false" text="" textRus="" music="">
+<song number="244" name="Ничего не бойся Я всегда с Тобой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>"Ничего не бойся! Я всегда с Тобой!</plain>
@@ -56,4 +56,4 @@
             <plain>Буду петь там вечно: "Не оставил Он меня!"</plain>
         </string>
     </verse>
-</psalm>
+</song>

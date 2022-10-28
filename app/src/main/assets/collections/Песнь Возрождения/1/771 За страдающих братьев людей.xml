@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="771" name="За страдающих братьев людей" canon="false" text="" textRus="" music="">
+<song number="771" name="За страдающих братьев людей" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>За страдающих братьев, людей</plain>
@@ -56,4 +56,4 @@
             <plain>Ждет посланников жертвы креста.</plain>
         </string>
     </verse>
-</psalm>
+</song>

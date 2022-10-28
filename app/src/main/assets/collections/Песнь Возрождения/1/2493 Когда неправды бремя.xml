@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2493" name="Когда неправды бремя" canon="false" text="" textRus="" music="">
+<song number="2493" name="Когда неправды бремя" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Когда неправды бремя</plain>
@@ -52,4 +52,4 @@
             <plain>И Он вам даст покой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

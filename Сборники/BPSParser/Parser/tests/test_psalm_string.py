@@ -3,6 +3,7 @@ from xml.etree.ElementTree import Element, tostring
 
 from Parser.Elements.PsalmString import PlainString, RepeatablePsalmString
 from Parser.Elements.RepeatTag import RepeatTag
+from Parser.Handlers import RepeatHandler
 
 
 class TestPlainString(TestCase):
@@ -20,7 +21,7 @@ class TestPlainString(TestCase):
 class TestRepeatString(TestCase):
 
     def test_single_child_xml(self):
-        RepeatablePsalmString.reset_current_id()
+        RepeatHandler.reset_current_id()
         exp_res = [Element("repeat", {
                         "id": "0",
                         "rep_rate": str(2),
@@ -38,8 +39,8 @@ class TestRepeatString(TestCase):
         el.extend(exp_res)
         exp_res = tostring(el, encoding='utf8', method='xml')
 
-        RepeatablePsalmString.reset_current_id()
-        res = RepeatablePsalmString()
+        RepeatHandler.reset_current_id()
+        res = RepeatablePsalmString(string_id=0)
         res.append_child(PlainString("test content"))
         el = Element("main")
         el.extend(res.get_xml_list())
@@ -49,7 +50,7 @@ class TestRepeatString(TestCase):
 
     def test_some_children_xml(self):
         RepeatablePsalmString.current_id = 1
-        rep_child = RepeatablePsalmString(3, True, False)
+        rep_child = RepeatablePsalmString(0, 3, True, False)
         rep_child.append_child(PlainString("test content inner"))
         children = [
             PlainString("test content outer 1"),
@@ -75,8 +76,8 @@ class TestRepeatString(TestCase):
         el.extend(exp_res)
         exp_res = tostring(el, encoding='utf8', method='xml').decode("utf-8")
 
-        RepeatablePsalmString.reset_current_id()
-        res = RepeatablePsalmString(repetition_rate=4, right_closed=False)
+        RepeatHandler.reset_current_id()
+        res = RepeatablePsalmString(0, repetition_rate=4, right_closed=False)
         res.append_children(children)
         el = Element("main")
         el.extend(res.get_xml_list())
@@ -87,14 +88,14 @@ class TestRepeatString(TestCase):
     def test_single_child_text(self):
         exp_res = "test content"
 
-        res = RepeatablePsalmString()
+        res = RepeatablePsalmString(string_id=0)
         res.append_child(PlainString("test content"))
         res = res.get_text()
 
         self.assertEqual(exp_res, res)
 
     def test_some_children_text(self):
-        rep_child = RepeatablePsalmString(3, True, False)
+        rep_child = RepeatablePsalmString(0, 3, True, False)
         rep_child.append_child(PlainString(" test content inner "))
         children = [
             PlainString("test content outer 1"),
@@ -104,7 +105,7 @@ class TestRepeatString(TestCase):
 
         exp_res = "test content outer 1 test content inner test content outer 2"
 
-        res = RepeatablePsalmString(repetition_rate=4, right_closed=False)
+        res = RepeatablePsalmString(0, repetition_rate=4, right_closed=False)
         res.append_children(children)
         res = res.get_text()
 

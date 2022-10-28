@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1585" name="Тихий час вечерний день трудов угас" canon="false" text="" textRus="" music="">
+<song number="1585" name="Тихий час вечерний день трудов угас" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Тихий час вечерний, день трудов угас.</plain>
@@ -56,4 +56,4 @@
             <plain>В тихий час вечерний благодать пошли.</plain>
         </string>
     </verse>
-</psalm>
+</song>

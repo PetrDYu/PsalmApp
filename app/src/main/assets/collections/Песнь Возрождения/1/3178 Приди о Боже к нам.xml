@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3178" name="Приди о Боже к нам" canon="false" text="" textRus="" music="">
+<song number="3178" name="Приди о Боже к нам" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Приди, о Боже, к нам,</plain>
@@ -92,4 +92,4 @@
             <plain>сумели мы.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2030" name="В древнее время Давид сидел и пел" canon="false" text="" textRus="" music="">
+<song number="2030" name="В древнее время Давид сидел и пел" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В древнее время Давид сидел и пел (3 р.).</plain>
@@ -92,4 +92,4 @@
             <plain>За то, что Он нас избавил.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2922" name="Ты Божья церковь избрана невестою Христа" canon="false" text="" textRus="" music="">
+<song number="2922" name="Ты Божья церковь избрана невестою Христа" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Ты, Божья церковь, избрана невестою Христа;</plain>
@@ -56,4 +56,4 @@
             <plain>придёт Жених - в небесный дом её с Собой возьмёт.</plain>
         </string>
     </verse>
-</psalm>
+</song>

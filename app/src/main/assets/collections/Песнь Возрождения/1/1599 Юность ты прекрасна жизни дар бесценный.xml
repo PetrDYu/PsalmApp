@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1599" name="Юность ты прекрасна жизни дар бесценный" canon="false" text="" textRus="" music="">
+<song number="1599" name="Юность ты прекрасна жизни дар бесценный" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Юность, ты прекрасна, жизни дар бесценный.</plain>
@@ -56,4 +56,4 @@
             <plain>Чтоб вернуть нам юность, Жизни нашей дар.</plain>
         </string>
     </verse>
-</psalm>
+</song>

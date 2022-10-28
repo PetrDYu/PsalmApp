@@ -8,12 +8,12 @@
             <plain>Да любите друг друга, как Я вас люблю.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Потому узнают все, что Мои ученики вы,</plain>
         </string>
         <string>
             <plain>Если будет между вами любовь.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

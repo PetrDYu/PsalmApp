@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1311" name="Возлюбим Бога всей душой" canon="false" text="" textRus="" music="">
+<song number="1311" name="Возлюбим Бога всей душой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Возлюбим Бога всей душой,</plain>
@@ -40,4 +40,4 @@
             <plain>Он ждет от нас любви одной.</plain>
         </string>
     </verse>
-</psalm>
+</song>

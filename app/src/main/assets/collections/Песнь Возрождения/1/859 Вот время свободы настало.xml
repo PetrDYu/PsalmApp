@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="859" name="Вот время свободы настало" canon="false" text="" textRus="" music="">
+<song number="859" name="Вот время свободы настало" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вот время свободы настало</plain>
@@ -92,4 +92,4 @@
             <plain>Омывшисьв пролитой Крови.</plain>
         </string>
     </verse>
-</psalm>
+</song>

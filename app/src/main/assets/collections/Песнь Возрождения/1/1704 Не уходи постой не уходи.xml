@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1704" name="Не уходи постой не уходи" canon="false" text="" textRus="" music="">
+<song number="1704" name="Не уходи постой не уходи" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Не уходи, постой, не уходи,</plain>
@@ -56,4 +56,4 @@
             <plain>Чтоб не пришла за грех тебе расплата.</plain>
         </string>
     </verse>
-</psalm>
+</song>

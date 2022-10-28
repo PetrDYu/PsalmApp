@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3298" name="Обетования Божьи" canon="false" text="" textRus="" music="">
+<song number="3298" name="Обетования Божьи" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Обетования Божьи</plain>
@@ -84,4 +84,4 @@
             <plain>Ясно ты узришь в Нём.</plain>
         </string>
     </verse>
-</psalm>
+</song>

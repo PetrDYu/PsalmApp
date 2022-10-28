@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1428" name="Бедное сердце сколько тревоги" canon="false" text="" textRus="" music="">
+<song number="1428" name="Бедное сердце сколько тревоги" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Бедное сердце, сколько тревоги</plain>
@@ -73,4 +73,4 @@
             <plain>Гибнуть пришлося и мне, и тебе.</plain>
         </string>
     </verse>
-</psalm>
+</song>

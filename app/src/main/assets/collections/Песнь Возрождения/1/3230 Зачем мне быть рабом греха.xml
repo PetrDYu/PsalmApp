@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3230" name="Зачем мне быть рабом греха" canon="false" text="" textRus="" music="">
+<song number="3230" name="Зачем мне быть рабом греха" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Зачем мне быть рабом греха,</plain>
@@ -104,4 +104,4 @@
             <plain>- кровь Агнца очищает!</plain>
         </string>
     </verse>
-</psalm>
+</song>

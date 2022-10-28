@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1136" name="Если нет драгоценного дара любви" canon="false" text="" textRus="" music="">
+<song number="1136" name="Если нет драгоценного дара любви" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Если нет драгоценного дара любви.</plain>
@@ -56,4 +56,4 @@
             <plain>Они в славе пребудут с Христом.</plain>
         </string>
     </verse>
-</psalm>
+</song>

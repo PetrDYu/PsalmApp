@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="484" name="Есть чертог наслажденья для малых детей" canon="false" text="" textRus="" music="">
+<song number="484" name="Есть чертог наслажденья для малых детей" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Есть чертог наслажденья для малых детей;</plain>
@@ -70,4 +70,4 @@
             <plain>И внимает их детским устам.</plain>
         </string>
     </verse>
-</psalm>
+</song>

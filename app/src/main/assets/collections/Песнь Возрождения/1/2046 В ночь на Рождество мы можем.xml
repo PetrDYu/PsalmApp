@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2046" name="В ночь на Рождество мы можем" canon="false" text="" textRus="" music="">
+<song number="2046" name="В ночь на Рождество мы можем" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В ночь на Рождество мы можем</plain>
@@ -57,4 +57,4 @@
             <plain>Как же будешь ты Ему в глаза смотреть?</plain>
         </string>
     </verse>
-</psalm>
+</song>

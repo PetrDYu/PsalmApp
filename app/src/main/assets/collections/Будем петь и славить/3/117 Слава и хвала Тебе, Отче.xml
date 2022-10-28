@@ -2,7 +2,7 @@
 <psalm number="117" name="Слава и хвала Тебе, Отче" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="1">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Слава и хвала Тебе, Отче!</plain>
         </string>
         <string>
@@ -10,22 +10,22 @@
         </string>
         <string>
             <plain>Слава и хвала Тебе, Господь Дух Святой!</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <chorus number="1">
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Слава, слава, слава в вышних Богу!</plain>
         </string>
         <string>
             <plain>Слава, слава в вышних!</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Я благодарю Тебя, Отче!</plain>
         </string>
         <string>
@@ -33,7 +33,7 @@
         </string>
         <string>
             <plain>Я благодарю Тебя, Господь Дух Святой!</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

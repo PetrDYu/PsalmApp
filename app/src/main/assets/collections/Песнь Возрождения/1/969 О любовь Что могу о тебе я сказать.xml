@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="969" name="О любовь Что могу о тебе я сказать" canon="false" text="" textRus="" music="">
+<song number="969" name="О любовь Что могу о тебе я сказать" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О любовь! Что могу о тебе я сказать?</plain>
@@ -70,4 +70,4 @@
             <plain>Чтоб, как Ты, так и я мог любить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

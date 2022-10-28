@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="687" name="День ушел от нас в вечность" canon="false" text="" textRus="" music="">
+<song number="687" name="День ушел от нас в вечность" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>День ушел от нас в вечность,</plain>
@@ -84,4 +84,4 @@
             <plain>Дорогие друзья!</plain>
         </string>
     </verse>
-</psalm>
+</song>

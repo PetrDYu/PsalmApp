@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1633" name="Летят года и без следа проходит день за днем" canon="false" text="" textRus="" music="">
+<song number="1633" name="Летят года и без следа проходит день за днем" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Летят года, и без следа проходит день за днем.</plain>
@@ -42,4 +42,4 @@
             <plain>От новых дней и лет всегда благословений ждем.</plain>
         </string>
     </verse>
-</psalm>
+</song>

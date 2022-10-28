@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2137" name="Знаешь ли ты Иисуса Христа" canon="false" text="" textRus="" music="">
+<song number="2137" name="Знаешь ли ты Иисуса Христа" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Знаешь ли ты Иисуса Христа?</plain>
@@ -92,4 +92,4 @@
             <plain>Если не знаешь - жаль.</plain>
         </string>
     </verse>
-</psalm>
+</song>

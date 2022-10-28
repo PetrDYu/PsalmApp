@@ -36,12 +36,12 @@
             <plain>Спаситель у нас лишь один, к Иисусу скорей поспеши.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Беги под Его покров, укройся в тени Его крыл.</plain>
         </string>
         <string>
             <plain>Пролил Он святую Кровь и Небо тебе подарил.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

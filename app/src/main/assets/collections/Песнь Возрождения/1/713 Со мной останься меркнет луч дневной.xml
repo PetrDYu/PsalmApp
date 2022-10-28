@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="713" name="Со мной останься меркнет луч дневной" canon="false" text="" textRus="" music="">
+<song number="713" name="Со мной останься меркнет луч дневной" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Со мной останься, меркнет луч дневной,</plain>
@@ -112,4 +112,4 @@
             <plain>Со мною вечно будет Царь царей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

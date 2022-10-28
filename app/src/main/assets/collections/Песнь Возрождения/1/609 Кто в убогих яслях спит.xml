@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="609" name="Кто в убогих яслях спит" canon="false" text="" textRus="" music="">
+<song number="609" name="Кто в убогих яслях спит" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Кто в убогих яслях спит?</plain>
@@ -78,4 +78,4 @@
             <plain>И вселенную хранит?</plain>
         </string>
     </verse>
-</psalm>
+</song>

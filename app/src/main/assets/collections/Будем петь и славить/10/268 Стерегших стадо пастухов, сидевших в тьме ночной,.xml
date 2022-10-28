@@ -6,7 +6,7 @@
         </string>
         <string>
             <plain>Господень ангел озарил</plain>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>вдруг славой неземной.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -17,7 +17,7 @@
         </string>
         <string>
             <plain>Я возвещаю радость вам,</plain>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>что будет людям всем».</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -28,7 +28,7 @@
         </string>
         <string>
             <plain>Явился в мир Христос Господь,</plain>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Владыка всех племен.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
@@ -39,7 +39,7 @@
         </string>
         <string>
             <plain>Повит Младенец в пелены,</plain>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>и в яслях Он лежит.</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
@@ -50,7 +50,7 @@
         </string>
         <string>
             <plain>Пропели радостную весть</plain>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>над скорбною землей.</plain>
             <repeat id="4" rep_rate="2" is_opening="false" />
         </string>
@@ -69,7 +69,7 @@
         </string>
         <string>
             <plain>Благоволенье Бог явил</plain>
-            <repeat id="5" rep_rate="2" is_opening="true" />
+            <repeat id="5" rep_rate="-1" is_opening="true" />
             <plain>к томящимся во мгле.</plain>
             <repeat id="5" rep_rate="2" is_opening="false" />
         </string>

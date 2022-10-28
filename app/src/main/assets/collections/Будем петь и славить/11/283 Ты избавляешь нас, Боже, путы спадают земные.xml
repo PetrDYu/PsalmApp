@@ -10,7 +10,7 @@
     </verse>
     <chorus number="1">
         <string>
-            <repeat id="0" rep_rate="8" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Авва Отче!</plain>
             <repeat id="0" rep_rate="8" is_opening="false" />
         </string>

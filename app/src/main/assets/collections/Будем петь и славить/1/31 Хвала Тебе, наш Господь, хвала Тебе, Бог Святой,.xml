@@ -2,20 +2,20 @@
 <psalm number="31" name="Хвала Тебе, наш Господь, хвала Тебе, Бог Святой," canon="false" text="Г. Смита" textRus="" music="Г. Смита" additionalInfo="">
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Хвала Тебе, наш Господь, хвала Тебе, Бог Святой,</plain>
         </string>
         <string>
             <plain>хвала за Иисуса, Сына Твоего!</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Теперь слабый скажет</plain>
         </string>
         <string>
             <plain>«Я богат» благодаря кресту Иисуса Христа.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>(Хвала. – в конце)</plain>

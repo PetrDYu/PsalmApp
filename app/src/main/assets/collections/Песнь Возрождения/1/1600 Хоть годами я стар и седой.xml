@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1600" name="Хоть годами я стар и седой" canon="false" text="" textRus="" music="">
+<song number="1600" name="Хоть годами я стар и седой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Хоть годами я стар и седой,</plain>
@@ -64,4 +64,4 @@
             <plain>Будешь сердцем всегда ты молодой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

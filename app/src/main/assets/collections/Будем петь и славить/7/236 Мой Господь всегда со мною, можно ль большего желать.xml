@@ -11,7 +11,7 @@
             <plain>Мир святой наполнил душу, дивный свет рассеял тьму,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Что б ни встретилось, я слышу</plain>
         </string>
     </verse>
@@ -26,7 +26,7 @@
             <plain>Хоть нога порой споткнется, хоть бываю одинок,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Из скалы высокой льется вечной радости поток.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -42,7 +42,7 @@
             <plain>Дух живой из царства тленья вознесется в край иной,</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Воспоет Христу хваленье, что Он был всегда со мной.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>

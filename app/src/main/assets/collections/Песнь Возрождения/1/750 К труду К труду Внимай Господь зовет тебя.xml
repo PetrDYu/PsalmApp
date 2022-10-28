@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="750" name="К труду К труду Внимай Господь зовет тебя" canon="false" text="" textRus="" music="">
+<song number="750" name="К труду К труду Внимай Господь зовет тебя" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>К труду! К труду! Внимай, Господь зовет тебя,</plain>
@@ -56,4 +56,4 @@
             <plain>Скажи Ему сегодня: "Я, Господь, готов!"</plain>
         </string>
     </verse>
-</psalm>
+</song>

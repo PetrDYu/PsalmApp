@@ -22,12 +22,12 @@
             <plain>Нам необходим Его совет.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>И такого Друга каждый назовет своим однажды,</plain>
         </string>
         <string>
             <plain>Иисус – наш Друг из Назарета.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
     <verse number="2">

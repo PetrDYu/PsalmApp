@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2247" name="Новый год наступил" canon="false" text="" textRus="" music="">
+<song number="2247" name="Новый год наступил" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Новый год наступил,</plain>
@@ -51,4 +51,4 @@
             <plain>Отец, Молим, прости, пошли пробуждены.</plain>
         </string>
     </verse>
-</psalm>
+</song>

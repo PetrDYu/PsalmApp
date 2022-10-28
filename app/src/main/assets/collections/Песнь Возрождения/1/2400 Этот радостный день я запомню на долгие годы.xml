@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2400" name="Этот радостный день я запомню на долгие годы" canon="false" text="" textRus="" music="">
+<song number="2400" name="Этот радостный день я запомню на долгие годы" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Этот радостный день я запомню на долгие годы,</plain>
@@ -56,4 +56,4 @@
             <plain>Пусть всегда будет самым хорошим и сильным желаньем.</plain>
         </string>
     </verse>
-</psalm>
+</song>

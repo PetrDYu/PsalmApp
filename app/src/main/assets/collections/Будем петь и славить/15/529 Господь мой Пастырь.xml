@@ -2,7 +2,7 @@
 <psalm number="529" name="Господь мой Пастырь" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Господь – мой Пастырь;</plain>
         </string>
         <string>
@@ -13,10 +13,10 @@
         </string>
         <string>
             <plain>И водит меня к водам тихим.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Твоя благость и милость да сопровождают</plain>
         </string>
         <string>
@@ -27,7 +27,7 @@
         </string>
         <string>
             <plain>Многие-многие дни.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>Многие-многие дни…</plain>

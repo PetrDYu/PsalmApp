@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2226" name="На планету людей на планету страстей" canon="false" text="" textRus="" music="">
+<song number="2226" name="На планету людей на планету страстей" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>На планету людей, на планету страстей</plain>
@@ -56,4 +56,4 @@
             <plain>Навсегда дать спасены и радость.</plain>
         </string>
     </verse>
-</psalm>
+</song>

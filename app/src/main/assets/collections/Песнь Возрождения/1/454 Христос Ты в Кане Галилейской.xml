@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="454" name="Христос Ты в Кане Галилейской" canon="false" text="" textRus="" music="">
+<song number="454" name="Христос Ты в Кане Галилейской" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Христос! Ты в Кане Галилейской</plain>
@@ -98,4 +98,4 @@
             <plain>Тобой свершаемый союз.</plain>
         </string>
     </verse>
-</psalm>
+</song>

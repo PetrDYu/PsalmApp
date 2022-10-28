@@ -8,7 +8,7 @@
             <plain>Сравнится ль кто с сияньем красоты Его?</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Ведь Агнец, Божий Сын, /ведь Агнец, Божий Сын/</plain>
         </string>
         <string>
@@ -19,7 +19,7 @@
         </string>
         <string>
             <plain>Достоин славы Он!</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -30,7 +30,7 @@
             <plain>Кто был распят, чтоб примирить людей с Творцом.</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Навеки будет Он /навеки будет Он/</plain>
         </string>
         <string>
@@ -41,7 +41,7 @@
         </string>
         <string>
             <plain>Я только перед Ним.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

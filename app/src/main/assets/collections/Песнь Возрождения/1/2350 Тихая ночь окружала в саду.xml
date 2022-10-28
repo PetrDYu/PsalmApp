@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2350" name="Тихая ночь окружала в саду" canon="false" text="" textRus="" music="">
+<song number="2350" name="Тихая ночь окружала в саду" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Тихая ночь окружала в саду</plain>
@@ -85,4 +85,4 @@
             <plain>Воля во всем лишь Твоя".</plain>
         </string>
     </chorus>
-</psalm>
+</song>

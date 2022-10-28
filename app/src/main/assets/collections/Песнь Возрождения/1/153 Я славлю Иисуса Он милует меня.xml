@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="153" name="Я славлю Иисуса Он милует меня" canon="false" text="" textRus="" music="">
+<song number="153" name="Я славлю Иисуса Он милует меня" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я славлю Иисуса, Он милует меня,</plain>
@@ -42,4 +42,4 @@
             <plain>Спасителя Святого живую благодать.</plain>
         </string>
     </verse>
-</psalm>
+</song>

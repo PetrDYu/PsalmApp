@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="777" name="Не стремись земли великие дела творить" canon="false" text="" textRus="" music="">
+<song number="777" name="Не стремись земли великие дела творить" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Не стремись земли великие дела творить,</plain>
@@ -56,4 +56,4 @@
             <plain>Пусть твой свет сияет пред людьми.</plain>
         </string>
     </verse>
-</psalm>
+</song>

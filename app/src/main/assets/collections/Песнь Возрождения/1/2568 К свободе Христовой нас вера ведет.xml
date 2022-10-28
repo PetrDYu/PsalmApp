@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2568" name="К свободе Христовой нас вера ведет" canon="false" text="" textRus="" music="">
+<song number="2568" name="К свободе Христовой нас вера ведет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>К свободе Христовой нас вера ведет,</plain>
@@ -53,4 +53,4 @@
             <plain>И с пеньем врана победишь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

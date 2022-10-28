@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="912" name="Здесь еще стоим у берега" canon="false" text="" textRus="" music="">
+<song number="912" name="Здесь еще стоим у берега" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Здесь еще стоим у берега,</plain>
@@ -70,4 +70,4 @@
             <plain>Средь искупленных найдем.</plain>
         </string>
     </verse>
-</psalm>
+</song>

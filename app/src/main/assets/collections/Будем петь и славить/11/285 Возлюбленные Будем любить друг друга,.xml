@@ -16,12 +16,12 @@
     </verse>
     <chorus number="1">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Кто не любит, тот Бога не познал,</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <repeat id="1" rep_rate="3" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Потому что Бог есть любовь,</plain>
             <repeat id="1" rep_rate="3" is_opening="false" />
             <plain />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3227" name="В чудных одеждах все" canon="false" text="" textRus="" music="">
+<song number="3227" name="В чудных одеждах все" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В чудных одеждах все:</plain>
@@ -92,4 +92,4 @@
             <plain>даст славу нам.</plain>
         </string>
     </verse>
-</psalm>
+</song>

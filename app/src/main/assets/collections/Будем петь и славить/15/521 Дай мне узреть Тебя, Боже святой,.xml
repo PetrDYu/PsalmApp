@@ -53,7 +53,7 @@
             <plain>Что б ни случилось, навеки я Твой.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Дай мне узреть Тебя, Владыка благой!</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>

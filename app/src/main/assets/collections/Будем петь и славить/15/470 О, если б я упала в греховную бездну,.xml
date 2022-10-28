@@ -11,7 +11,7 @@
             <plain>Что эти преступленья, словно капли, исчезнут,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Коснувшись Твоего палящего огня.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -27,7 +27,7 @@
             <plain>А если я слаба, полюбит и такою</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>И будет с каждым днем любить еще сильней.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -43,7 +43,7 @@
             <plain>Мне нужен Ты, Господь, Ты, ставший Человеком, –</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Ты Братом стал моим, страдая за меня.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
@@ -59,7 +59,7 @@
             <plain>Но чтобы им придать хотя б немного смысла,</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Я все их положу у сердца Твоего.</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
@@ -75,7 +75,7 @@
             <plain>Но к сердцу Твоему спешу я без оглядки,</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>И страха нет во мне</plain>
         </string>
     </verse>

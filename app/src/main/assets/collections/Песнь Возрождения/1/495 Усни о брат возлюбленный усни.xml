@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="495" name="Усни о брат возлюбленный усни" canon="false" text="" textRus="" music="">
+<song number="495" name="Усни о брат возлюбленный усни" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Усни, о брат возлюбленный, усни!</plain>
@@ -98,4 +98,4 @@
             <plain>Спокойной ночи, брат!</plain>
         </string>
     </verse>
-</psalm>
+</song>

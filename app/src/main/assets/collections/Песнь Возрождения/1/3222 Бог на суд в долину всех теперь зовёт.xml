@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3222" name="Бог на суд в долину всех теперь зовёт" canon="false" text="" textRus="" music="">
+<song number="3222" name="Бог на суд в долину всех теперь зовёт" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Бог на суд в долину всех теперь зовёт:</plain>
@@ -70,4 +70,4 @@
             <plain>день земной к концу идёт.</plain>
         </string>
     </verse>
-</psalm>
+</song>

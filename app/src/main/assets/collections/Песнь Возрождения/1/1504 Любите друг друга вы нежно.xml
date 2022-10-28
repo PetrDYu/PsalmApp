@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1504" name="Любите друг друга вы нежно" canon="false" text="" textRus="" music="">
+<song number="1504" name="Любите друг друга вы нежно" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Любите друг друга вы нежно.</plain>
@@ -56,4 +56,4 @@
             <plain>И жизнь будет вам хороша.</plain>
         </string>
     </verse>
-</psalm>
+</song>

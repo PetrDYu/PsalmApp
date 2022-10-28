@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="422" name="Что вину мне может смыть" canon="false" text="" textRus="" music="">
+<song number="422" name="Что вину мне может смыть" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Что вину мне может смыть?</plain>
@@ -70,4 +70,4 @@
             <plain>О, ничто, лишь кровь Иисуса!</plain>
         </string>
     </verse>
-</psalm>
+</song>

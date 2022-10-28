@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="980" name="Отчего одиноко воркуешь" canon="false" text="" textRus="" music="">
+<song number="980" name="Отчего одиноко воркуешь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Отчего одиноко воркуешь,</plain>
@@ -112,4 +112,4 @@
             <plain>- Я в Обитель тебя приведу.</plain>
         </string>
     </verse>
-</psalm>
+</song>

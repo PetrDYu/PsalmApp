@@ -8,7 +8,7 @@
             <plain>Иисусу вся слава, честь и хвала!</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Величие! Божье величие!</plain>
         </string>
         <string>
@@ -19,7 +19,7 @@
         </string>
         <string>
             <plain>Воспевай и восхваляй имя Творца!</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

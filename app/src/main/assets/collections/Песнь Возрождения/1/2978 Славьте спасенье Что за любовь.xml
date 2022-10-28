@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2978" name="Славьте спасенье Что за любовь" canon="false" text="" textRus="" music="">
+<song number="2978" name="Славьте спасенье Что за любовь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Славьте спасенье! Что за любовь:</plain>
@@ -70,4 +70,4 @@
             <plain>радость с небес в наши сердца.</plain>
         </string>
     </verse>
-</psalm>
+</song>

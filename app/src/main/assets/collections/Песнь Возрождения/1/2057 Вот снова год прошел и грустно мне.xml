@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2057" name="Вот снова год прошел и грустно мне" canon="false" text="" textRus="" music="">
+<song number="2057" name="Вот снова год прошел и грустно мне" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вот снова год прошел, и грустно мне,</plain>
@@ -84,4 +84,4 @@
             <plain>Чтобы любил Тебя, шел в бой смелей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

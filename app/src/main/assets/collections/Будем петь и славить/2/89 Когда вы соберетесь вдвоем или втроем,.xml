@@ -11,7 +11,7 @@
             <plain>Я вас не позабуду и в этот самый час,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>В ту самую минуту Я буду среди вас.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -27,7 +27,7 @@
             <plain>И чтоб ни попросили мы вместе у Отца,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>В Его любви и силе исполнить до конца.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -43,7 +43,7 @@
             <plain>Любите же друг друга, как возлюбил Я вас –</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Вот для Меня услуга, вот главное сейчас.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>

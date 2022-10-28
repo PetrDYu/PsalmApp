@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="174" name="Среди всех жизни перемен" canon="false" text="" textRus="" music="">
+<song number="174" name="Среди всех жизни перемен" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Среди всех жизни перемен,</plain>
@@ -64,4 +64,4 @@
             <plain>И Он вас сохранит.</plain>
         </string>
     </verse>
-</psalm>
+</song>

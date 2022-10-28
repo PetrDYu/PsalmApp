@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="166" name="Пусть земля вся утверждает" canon="false" text="" textRus="" music="">
+<song number="166" name="Пусть земля вся утверждает" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Пусть земля вся утверждает,</plain>
@@ -98,4 +98,4 @@
             <plain>Будь на страже, Пастырь мой!</plain>
         </string>
     </verse>
-</psalm>
+</song>

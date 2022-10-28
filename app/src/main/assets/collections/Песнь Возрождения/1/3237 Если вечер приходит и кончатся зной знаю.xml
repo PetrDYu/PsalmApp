@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3237" name="Если вечер приходит и кончатся зной знаю" canon="false" text="" textRus="" music="">
+<song number="3237" name="Если вечер приходит и кончатся зной знаю" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Если вечер приходит и кончатся зной, знаю:</plain>
@@ -70,4 +70,4 @@
             <plain>будут вместе с Иисусом жить в небесной стране.</plain>
         </string>
     </verse>
-</psalm>
+</song>

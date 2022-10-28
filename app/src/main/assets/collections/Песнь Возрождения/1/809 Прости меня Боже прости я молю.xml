@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="809" name="Прости меня Боже прости я молю" canon="false" text="" textRus="" music="">
+<song number="809" name="Прости меня Боже прости я молю" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Прости меня, Боже, прости, я молю,</plain>
@@ -100,4 +100,4 @@
             <plain>И, светом влекомые, шли все к Тебе.</plain>
         </string>
     </verse>
-</psalm>
+</song>

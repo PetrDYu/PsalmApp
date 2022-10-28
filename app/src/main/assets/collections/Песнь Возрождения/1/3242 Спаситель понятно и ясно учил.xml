@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3242" name="Спаситель понятно и ясно учил" canon="false" text="" textRus="" music="">
+<song number="3242" name="Спаситель понятно и ясно учил" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Спаситель понятно и ясно учил:</plain>
@@ -82,4 +82,4 @@
             <plain>- вы должны родиться вновь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

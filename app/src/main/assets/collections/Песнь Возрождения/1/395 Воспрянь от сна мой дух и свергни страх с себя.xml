@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="395" name="Воспрянь от сна мой дух и свергни страх с себя" canon="false" text="" textRus="" music="">
+<song number="395" name="Воспрянь от сна мой дух и свергни страх с себя" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Воспрянь от сна, мой дух, и свергни страх с себя!</plain>
@@ -70,4 +70,4 @@
             <plain>Среди печали и труда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

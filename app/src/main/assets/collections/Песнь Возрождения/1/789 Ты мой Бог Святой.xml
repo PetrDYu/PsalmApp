@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="789" name="Ты мой Бог Святой" canon="false" text="" textRus="" music="">
+<song number="789" name="Ты мой Бог Святой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Ты - мой Бог Святой,</plain>
@@ -52,4 +52,4 @@
             <plain>Верю, примешь меня к Себе.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="435" name="С Голгофы кровь струится ручей святой течет" canon="false" text="" textRus="" music="">
+<song number="435" name="С Голгофы кровь струится ручей святой течет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>С Голгофы кровь струится, ручей святой течет;</plain>
@@ -53,4 +53,4 @@
             <plain>Там песни, там блаженство, там счастье для сердец.</plain>
         </string>
     </verse>
-</psalm>
+</song>

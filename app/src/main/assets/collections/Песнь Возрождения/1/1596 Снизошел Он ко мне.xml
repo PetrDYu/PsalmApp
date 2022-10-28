@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1596" name="Снизошел Он ко мне" canon="false" text="" textRus="" music="">
+<song number="1596" name="Снизошел Он ко мне" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Снизошел Он ко мне.</plain>
@@ -81,4 +81,4 @@
             <plain>Что не славило Имя святое.</plain>
         </string>
     </verse>
-</psalm>
+</song>

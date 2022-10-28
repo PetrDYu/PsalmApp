@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3200" name="Я знаю славную страну где славят все Творца" canon="false" text="" textRus="" music="">
+<song number="3200" name="Я знаю славную страну где славят все Творца" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я знаю славную страну, где славят все Творца,</plain>
@@ -56,4 +56,4 @@
             <plain>и вечной жизни я венец из рук Его приму.</plain>
         </string>
     </verse>
-</psalm>
+</song>

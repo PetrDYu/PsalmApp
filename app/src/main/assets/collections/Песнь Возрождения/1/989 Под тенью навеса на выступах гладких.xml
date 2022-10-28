@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="989" name="Под тенью навеса на выступах гладких" canon="false" text="" textRus="" music="">
+<song number="989" name="Под тенью навеса на выступах гладких" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Под тенью навеса на выступах гладких</plain>
@@ -126,4 +126,4 @@
             <plain>Поверила дивным словам".</plain>
         </string>
     </verse>
-</psalm>
+</song>

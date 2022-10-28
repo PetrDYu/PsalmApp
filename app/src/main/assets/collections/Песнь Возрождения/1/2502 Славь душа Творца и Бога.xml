@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2502" name="Славь душа Творца и Бога" canon="false" text="" textRus="" music="">
+<song number="2502" name="Славь душа Творца и Бога" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Славь, душа, Творца и Бога!</plain>
@@ -66,4 +66,4 @@
             <plain>Славь Творца вовек веков!</plain>
         </string>
     </chorus>
-</psalm>
+</song>

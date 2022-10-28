@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="254" name="Как хорошо и как приятно" canon="false" text="" textRus="" music="">
+<song number="254" name="Как хорошо и как приятно" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Как хорошо и как приятно</plain>
@@ -80,4 +80,4 @@
             <plain>Там с ангельским сольются пеньем.</plain>
         </string>
     </verse>
-</psalm>
+</song>

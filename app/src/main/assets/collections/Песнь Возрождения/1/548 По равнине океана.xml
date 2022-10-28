@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="548" name="По равнине океана" canon="false" text="" textRus="" music="">
+<song number="548" name="По равнине океана" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>По равнине океана</plain>
@@ -128,4 +128,4 @@
             <plain>Петь мы вечно будем там.</plain>
         </string>
     </verse>
-</psalm>
+</song>

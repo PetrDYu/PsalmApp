@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2880" name="Твёрдым в жизненной борьбе будь юный воин" canon="false" text="" textRus="" music="">
+<song number="2880" name="Твёрдым в жизненной борьбе будь юный воин" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Твёрдым в жизненной борьбе будь, юный воин,</plain>
@@ -87,4 +87,4 @@
             <plain>и храни ты сердце чистое от зла.</plain>
         </string>
     </verse>
-</psalm>
+</song>

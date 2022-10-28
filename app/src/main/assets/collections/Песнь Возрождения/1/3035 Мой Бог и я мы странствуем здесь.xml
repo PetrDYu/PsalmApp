@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3035" name="Мой Бог и я мы странствуем здесь" canon="false" text="" textRus="" music="">
+<song number="3035" name="Мой Бог и я мы странствуем здесь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Мой Бог и я, мы странствуем здесь</plain>
@@ -60,4 +60,4 @@
             <plain>где наша радость вечно не пройдёт.</plain>
         </string>
     </verse>
-</psalm>
+</song>

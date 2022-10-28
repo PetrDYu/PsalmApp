@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="412" name="О прими Господь хваленье что помог мне дать обет" canon="false" text="" textRus="" music="">
+<song number="412" name="О прими Господь хваленье что помог мне дать обет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О прими, Господь, хваленье, что помог мне дать обет,</plain>
@@ -56,4 +56,4 @@
             <plain>И приду я к вечной жизни, в край блаженства, в Ханаан.</plain>
         </string>
     </verse>
-</psalm>
+</song>

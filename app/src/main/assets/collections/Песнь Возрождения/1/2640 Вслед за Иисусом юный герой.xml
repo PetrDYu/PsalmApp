@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2640" name="Вслед за Иисусом юный герой" canon="false" text="" textRus="" music="">
+<song number="2640" name="Вслед за Иисусом юный герой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вслед за Иисусом, юный герой,</plain>
@@ -59,4 +59,4 @@
             <plain>Скоро пожнем мы плоды.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1343" name="Господь тот труд не наш а Твой" canon="false" text="" textRus="" music="">
+<song number="1343" name="Господь тот труд не наш а Твой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь, тот труд не наш, а Твой,</plain>
@@ -96,4 +96,4 @@
             <plain>Служить в борьбе, в нужде.</plain>
         </string>
     </verse>
-</psalm>
+</song>

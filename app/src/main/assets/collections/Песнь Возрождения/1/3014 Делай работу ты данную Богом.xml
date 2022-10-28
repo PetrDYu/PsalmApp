@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3014" name="Делай работу ты данную Богом" canon="false" text="" textRus="" music="">
+<song number="3014" name="Делай работу ты данную Богом" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Делай работу ты, данную Богом,</plain>
@@ -56,4 +56,4 @@
             <plain>что на земле в любви сеяли мы.</plain>
         </string>
     </verse>
-</psalm>
+</song>

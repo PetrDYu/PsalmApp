@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1761" name="Люблю я Спаситель Тебя всей душой" canon="false" text="" textRus="" music="">
+<song number="1761" name="Люблю я Спаситель Тебя всей душой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Люблю я, Спаситель, Тебя всей душой,</plain>
@@ -56,4 +56,4 @@
             <plain>Тебя еще больше люблю я теперь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

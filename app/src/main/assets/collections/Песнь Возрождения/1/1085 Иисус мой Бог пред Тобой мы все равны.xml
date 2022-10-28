@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1085" name="Иисус мой Бог пред Тобой мы все равны" canon="false" text="" textRus="" music="">
+<song number="1085" name="Иисус мой Бог пред Тобой мы все равны" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Иисус, мой Бог, пред Тобой мы все равны.</plain>
@@ -14,4 +14,4 @@
             <plain>Благослови меня, Иисус!</plain>
         </string>
     </verse>
-</psalm>
+</song>

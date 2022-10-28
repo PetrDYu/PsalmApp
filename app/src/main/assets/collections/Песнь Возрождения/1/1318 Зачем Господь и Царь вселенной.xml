@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1318" name="Зачем Господь и Царь вселенной" canon="false" text="" textRus="" music="">
+<song number="1318" name="Зачем Господь и Царь вселенной" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Зачем, Господь и Царь вселенной,</plain>
@@ -60,4 +60,4 @@
             <plain>Предстать с хвалой к Его чертогу.</plain>
         </string>
     </verse>
-</psalm>
+</song>

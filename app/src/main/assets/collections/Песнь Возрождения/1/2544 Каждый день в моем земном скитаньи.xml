@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2544" name="Каждый день в моем земном скитаньи" canon="false" text="" textRus="" music="">
+<song number="2544" name="Каждый день в моем земном скитаньи" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Каждый день в моем земном скитаньи</plain>
@@ -78,4 +78,4 @@
             <plain>И навек с Тобой пребыть.</plain>
         </string>
     </verse>
-</psalm>
+</song>

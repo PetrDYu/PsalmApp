@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2249" name="О великий Творец кто я есть пред Тобой" canon="false" text="" textRus="" music="">
+<song number="2249" name="О великий Творец кто я есть пред Тобой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О, великий Творец, кто я есть пред Тобой,</plain>
@@ -95,4 +95,4 @@
             <plain>Все за то, что Ты помнишь меня.</plain>
         </string>
     </verse>
-</psalm>
+</song>

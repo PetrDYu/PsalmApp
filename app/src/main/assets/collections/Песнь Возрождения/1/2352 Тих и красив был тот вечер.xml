@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2352" name="Тих и красив был тот вечер" canon="false" text="" textRus="" music="">
+<song number="2352" name="Тих и красив был тот вечер" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Тих и красив был тот вечер,</plain>
@@ -104,4 +104,4 @@
             <plain>Счастье уйдёт навсегда. А-а-а...</plain>
         </string>
     </verse>
-</psalm>
+</song>

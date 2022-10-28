@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1341" name="Вполне и безвозвратно" canon="false" text="" textRus="" music="">
+<song number="1341" name="Вполне и безвозвратно" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вполне и безвозвратно</plain>
@@ -70,4 +70,4 @@
             <plain>меня Ты научай.</plain>
         </string>
     </verse>
-</psalm>
+</song>

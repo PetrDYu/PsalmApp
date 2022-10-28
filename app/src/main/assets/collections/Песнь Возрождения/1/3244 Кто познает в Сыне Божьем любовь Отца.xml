@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3244" name="Кто познает в Сыне Божьем любовь Отца" canon="false" text="" textRus="" music="">
+<song number="3244" name="Кто познает в Сыне Божьем любовь Отца" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Кто познает в Сыне Божьем любовь Отца?</plain>
@@ -62,4 +62,4 @@
             <plain>что в Иисусе мы нашли покой!</plain>
         </string>
     </verse>
-</psalm>
+</song>

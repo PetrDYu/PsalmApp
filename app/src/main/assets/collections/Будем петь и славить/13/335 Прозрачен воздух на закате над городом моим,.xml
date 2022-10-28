@@ -86,12 +86,12 @@
     </verse>
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>ЙЕРУША́ЛАИМ ШЭЛЬ ЗАА́В ВЭ-ШЭЛЬ НЕХО́ШЕТ</plain>
         </string>
         <string>
             <plain>ВЭ-ШЭЛЬ О́Р ХА-ЛО ЛЕ-ХО́ЛЬ ШИРА́ИХ АНИ́ КИНО́Р</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

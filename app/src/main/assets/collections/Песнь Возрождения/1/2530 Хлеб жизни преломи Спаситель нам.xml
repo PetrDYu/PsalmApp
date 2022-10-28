@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2530" name="Хлеб жизни преломи Спаситель нам" canon="false" text="" textRus="" music="">
+<song number="2530" name="Хлеб жизни преломи Спаситель нам" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Хлеб жизни преломи, Спаситель, нам,</plain>
@@ -56,4 +56,4 @@
             <plain>Хочу Тебя любить, Ты - хлеб живой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

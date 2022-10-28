@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="839" name="Большая звезда на небе взошла" canon="false" text="" textRus="" music="">
+<song number="839" name="Большая звезда на небе взошла" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Большая звезда на небе взошла</plain>
@@ -50,4 +50,4 @@
             <plain>В тот чудный край, в Отцовский дом.</plain>
         </string>
     </verse>
-</psalm>
+</song>

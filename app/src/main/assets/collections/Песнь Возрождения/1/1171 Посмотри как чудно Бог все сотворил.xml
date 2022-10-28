@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1171" name="Посмотри как чудно Бог все сотворил" canon="false" text="" textRus="" music="">
+<song number="1171" name="Посмотри как чудно Бог все сотворил" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Посмотри, как чудно Бог все сотворил:</plain>
@@ -42,4 +42,4 @@
             <plain>Так отдай все лучшее ты Ему, любя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

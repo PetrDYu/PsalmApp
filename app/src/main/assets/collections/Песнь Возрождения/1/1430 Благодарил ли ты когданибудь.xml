@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1430" name="Благодарил ли ты когданибудь" canon="false" text="" textRus="" music="">
+<song number="1430" name="Благодарил ли ты когданибудь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Благодарил ли ты когда-нибудь</plain>
@@ -56,4 +56,4 @@
             <plain>Не отвечаешь Господу любовью?</plain>
         </string>
     </verse>
-</psalm>
+</song>

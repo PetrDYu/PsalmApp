@@ -36,12 +36,12 @@
             <plain>Хочет Он спасти тебя даром, даром, даром.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Сердце ты Ему отдай, этот зов не отвергай.</plain>
         </string>
         <string>
             <plain>И получишь вечный рай даром, даром, даром.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3101" name="Что б делал я без Иисуса" canon="false" text="" textRus="" music="">
+<song number="3101" name="Что б делал я без Иисуса" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Что б делал я без Иисуса,</plain>
@@ -104,4 +104,4 @@
             <plain>Как Ты, Иисус, нужен мне!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="538" name="Так недавно расцветали" canon="false" text="" textRus="" music="">
+<song number="538" name="Так недавно расцветали" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Так недавно расцветали</plain>
@@ -84,4 +84,4 @@
             <plain>Осень жизни принесла.</plain>
         </string>
     </verse>
-</psalm>
+</song>

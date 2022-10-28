@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1938" name="Вы детей Ко Мне пустите" canon="false" text="" textRus="" music="">
+<song number="1938" name="Вы детей Ко Мне пустите" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вы детей Ко Мне пустите!</plain>
@@ -84,4 +84,4 @@
             <plain>Вот желание мое.</plain>
         </string>
     </verse>
-</psalm>
+</song>

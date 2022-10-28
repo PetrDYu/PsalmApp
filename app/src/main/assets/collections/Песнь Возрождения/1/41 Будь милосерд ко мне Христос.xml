@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="41" name="Будь милосерд ко мне Христос" canon="false" text="" textRus="" music="">
+<song number="41" name="Будь милосерд ко мне Христос" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Будь милосерд ко мне, Христос!</plain>
@@ -70,4 +70,4 @@
             <plain>Прощенья, Господи, прошу!</plain>
         </string>
     </verse>
-</psalm>
+</song>

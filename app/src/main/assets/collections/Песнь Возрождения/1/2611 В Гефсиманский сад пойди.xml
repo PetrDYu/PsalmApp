@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2611" name="В Гефсиманский сад пойди" canon="false" text="" textRus="" music="">
+<song number="2611" name="В Гефсиманский сад пойди" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В Гефсиманский сад пойди,</plain>
@@ -77,4 +77,4 @@
             <plain>Нам путь жизни указал. Аминь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

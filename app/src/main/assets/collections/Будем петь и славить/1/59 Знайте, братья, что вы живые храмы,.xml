@@ -2,7 +2,7 @@
 <psalm number="59" name="Знайте, братья, что вы живые храмы," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
-            <repeat id="0" rep_rate="3" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Знайте, братья, что вы – живые храмы,</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
         </string>
@@ -12,7 +12,7 @@
     </verse>
     <verse number="2">
         <string>
-            <repeat id="1" rep_rate="3" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Храмы веры, надежды и славы,</plain>
             <repeat id="1" rep_rate="3" is_opening="false" />
         </string>

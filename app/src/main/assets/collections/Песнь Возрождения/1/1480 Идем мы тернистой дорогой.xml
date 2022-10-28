@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1480" name="Идем мы тернистой дорогой" canon="false" text="" textRus="" music="">
+<song number="1480" name="Идем мы тернистой дорогой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Идем мы тернистой дорогой.</plain>
@@ -56,4 +56,4 @@
             <plain>Чтоб крест христианский нести.</plain>
         </string>
     </verse>
-</psalm>
+</song>

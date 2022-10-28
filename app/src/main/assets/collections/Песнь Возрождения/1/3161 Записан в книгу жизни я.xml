@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3161" name="Записан в книгу жизни я" canon="false" text="" textRus="" music="">
+<song number="3161" name="Записан в книгу жизни я" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Записан в книгу жизни я</plain>
@@ -70,4 +70,4 @@
             <plain>сам в книгу жизни вечной.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="826" name="Юность светлая весна ранняя" canon="false" text="" textRus="" music="">
+<song number="826" name="Юность светлая весна ранняя" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Юность светлая, весна ранняя –</plain>
@@ -70,4 +70,4 @@
             <plain>Будешь царствовать ты с Ним.</plain>
         </string>
     </verse>
-</psalm>
+</song>

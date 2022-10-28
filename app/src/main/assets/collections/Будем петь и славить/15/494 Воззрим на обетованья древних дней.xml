@@ -2,7 +2,7 @@
 <psalm number="494" name="Воззрим на обетованья древних дней" canon="false" text="Дж. М. Грэя, М. Рэдмана" textRus="" music="С. Морозова" additionalInfo="">
     <verse number="1">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Воззрим на обетованья древних дней.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -15,19 +15,19 @@
     </verse>
     <chorus number="1">
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Господь, нам пошли пробуждение,</plain>
         </string>
         <string>
             <plain>Пусть оно начнется с меня!</plain>
-            <repeat id="2" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
     <verse number="2">
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Воззрим на обетованья, что Бог нам дал.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>Если мы обратимся и станем послушны Тебе,</plain>

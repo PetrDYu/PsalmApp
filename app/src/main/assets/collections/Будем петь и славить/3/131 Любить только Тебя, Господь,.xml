@@ -2,7 +2,7 @@
 <psalm number="131" name="Любить только Тебя, Господь," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="3" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Любить только Тебя, Господь,</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
         </string>
@@ -10,7 +10,7 @@
             <plain>И не смотреть назад.</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Твоим путем ходить, Господь,</plain>
         </string>
         <string>
@@ -21,7 +21,7 @@
         </string>
         <string>
             <plain>И не смотреть назад.</plain>
-            <repeat id="2" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

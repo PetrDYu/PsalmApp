@@ -8,12 +8,12 @@
             <plain>И Тебя призываю, о Спаситель души.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Ты приди в мою душу, тихо свет Свой пролей,</plain>
         </string>
         <string>
             <plain>Я Твой голос услышу; Твое слово – елей.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -24,12 +24,12 @@
             <plain>И в минуты такие мне бывает легко.</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Знаю я</plain>
         </string>
         <string>
             <plain>Приходи в тихий вечер, о Иисус, приходи.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -40,12 +40,12 @@
             <plain>Как в Эммаус когда-то, рядом с нами иди.</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Разъясняй Слово жизни, чтоб горели сердца,</plain>
         </string>
         <string>
             <plain>По дороге к Отчизне с нами будь до конца.</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

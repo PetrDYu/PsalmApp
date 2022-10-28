@@ -8,12 +8,12 @@
             <plain>Чистые, нежные руки.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Ты посмотри, эти руки в крови –</plain>
         </string>
         <string>
             <plain>След истязанья и муки.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -24,12 +24,12 @@
             <plain>Совесть тебя осуждает.</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Взглянь, дорогая душа, это</plain>
         </string>
         <string>
             <plain>Он Руки к тебе простирает!</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -40,12 +40,12 @@
             <plain>Cтавят на камне спасенья.</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>О, это жизнь, а не просто слова,</plain>
         </string>
         <string>
             <plain>Это любовь и прощенье.</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
@@ -56,12 +56,12 @@
             <plain>Полные ласки, привета.</plain>
         </string>
         <string>
-            <repeat id="6" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Можно ли долго стоять в стороне</plain>
         </string>
         <string>
             <plain>И не ответить на это?</plain>
-            <repeat id="7" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="5">
@@ -72,12 +72,12 @@
             <plain>Не отвернись равнодушно.</plain>
         </string>
         <string>
-            <repeat id="8" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>Руки Христа – это руки любви.</plain>
         </string>
         <string>
             <plain>Друг мой, вставать тебе нужно.</plain>
-            <repeat id="9" rep_rate="2" is_opening="false" />
+            <repeat id="4" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

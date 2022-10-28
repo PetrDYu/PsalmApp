@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="455" name="Боже предстали по воле Твоей" canon="false" text="" textRus="" music="">
+<song number="455" name="Боже предстали по воле Твоей" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Боже, предстали по воле Твоей</plain>
@@ -56,4 +56,4 @@
             <plain>Сам Ты веди их до цели благой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

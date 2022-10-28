@@ -2,7 +2,7 @@
 <psalm number="68" name="Приходите, Богу песнь воспоем," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Приходите, Богу песнь воспоем,</plain>
         </string>
         <string>
@@ -13,7 +13,7 @@
         </string>
         <string>
             <plain>Всей нашей душой, от сердца всего.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="0">

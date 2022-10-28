@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2326" name="Сотвори во мне сердце мудрое" canon="false" text="" textRus="" music="">
+<song number="2326" name="Сотвори во мне сердце мудрое" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Сотвори во мне сердце мудрое,</plain>
@@ -70,4 +70,4 @@
             <plain>О котором мечтаем теперь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

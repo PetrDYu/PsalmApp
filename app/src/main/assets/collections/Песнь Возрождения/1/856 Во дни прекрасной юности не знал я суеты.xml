@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="856" name="Во дни прекрасной юности не знал я суеты" canon="false" text="" textRus="" music="">
+<song number="856" name="Во дни прекрасной юности не знал я суеты" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Во дни прекрасной юности не знал я суеты.</plain>
@@ -84,4 +84,4 @@
             <plain>Пролил Христос на разум мой молитвой матери.</plain>
         </string>
     </verse>
-</psalm>
+</song>

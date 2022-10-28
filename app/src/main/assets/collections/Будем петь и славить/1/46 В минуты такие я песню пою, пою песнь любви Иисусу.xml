@@ -8,7 +8,7 @@
             <plain>В минуты такие мой дух возношу, к Тебе возношу, Иисус.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="3" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Я люблю Тебя</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
             <plain>, мой Господь Иисус.</plain>

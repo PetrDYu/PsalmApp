@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1726" name="В этом мире есть два лишь пути" canon="false" text="" textRus="" music="">
+<song number="1726" name="В этом мире есть два лишь пути" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В этом мире есть два лишь пути -</plain>
@@ -84,4 +84,4 @@
             <plain>Не других, а себя ты обманешь!</plain>
         </string>
     </verse>
-</psalm>
+</song>

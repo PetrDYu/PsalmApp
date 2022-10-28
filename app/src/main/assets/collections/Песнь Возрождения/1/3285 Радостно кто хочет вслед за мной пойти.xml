@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3285" name="Радостно кто хочет вслед за мной пойти" canon="false" text="" textRus="" music="">
+<song number="3285" name="Радостно кто хочет вслед за мной пойти" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>«Радостно кто хочет вслед за мной пойти,</plain>
@@ -79,4 +79,4 @@
             <plain>свои силы, время посвятить Тебе!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -23,7 +23,7 @@
             <plain>Скорби не бойся, в Нем лишь покойся,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Скоро конец борьбе.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -51,7 +51,7 @@
             <plain>Выше земного, света иного</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Отблеск мы зрим уж здесь.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -79,7 +79,7 @@
             <plain>Песню хваленья, песню спасенья</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Вечно там буду петь!</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>

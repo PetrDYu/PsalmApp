@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="206" name="Славною рекою льется Божий мир" canon="false" text="" textRus="" music="">
+<song number="206" name="Славною рекою льется Божий мир" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Славною рекою льется Божий мир,</plain>
@@ -50,4 +50,4 @@
             <plain>Верен Бог для тех, кто верует душой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -14,7 +14,7 @@
         </string>
         <string>
             <plain>Тот на небе будет,</plain>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>где Господь живет,</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>

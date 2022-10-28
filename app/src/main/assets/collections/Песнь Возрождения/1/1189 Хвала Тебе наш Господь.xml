@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1189" name="Хвала Тебе наш Господь" canon="false" text="" textRus="" music="">
+<song number="1189" name="Хвала Тебе наш Господь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Хвала Тебе, наш Господь!</plain>
@@ -44,4 +44,4 @@
             <plain>Благодаря тому, что Бог нам дал, хвала!</plain>
         </string>
     </verse>
-</psalm>
+</song>

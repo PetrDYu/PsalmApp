@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3043" name="Что может быть блаженней" canon="false" text="" textRus="" music="">
+<song number="3043" name="Что может быть блаженней" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Что может быть блаженней</plain>
@@ -68,4 +68,4 @@
             <plain>Его иметь всегда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

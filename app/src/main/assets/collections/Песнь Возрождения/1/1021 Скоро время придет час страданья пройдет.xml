@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1021" name="Скоро время придет час страданья пройдет" canon="false" text="" textRus="" music="">
+<song number="1021" name="Скоро время придет час страданья пройдет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Скоро время придет, час страданья пройдет.</plain>
@@ -32,4 +32,4 @@
             <plain>Будем славить Христа со святыми всегда!</plain>
         </string>
     </verse>
-</psalm>
+</song>

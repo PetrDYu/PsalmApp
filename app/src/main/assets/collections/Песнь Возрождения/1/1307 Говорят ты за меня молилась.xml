@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1307" name="Говорят ты за меня молилась" canon="false" text="" textRus="" music="">
+<song number="1307" name="Говорят ты за меня молилась" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Говорят, ты за меня молилась.</plain>
@@ -56,4 +56,4 @@
             <plain>И познать молитвы красоту.</plain>
         </string>
     </verse>
-</psalm>
+</song>

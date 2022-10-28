@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="98" name="О неужели Царь вселенной" canon="false" text="" textRus="" music="">
+<song number="98" name="О неужели Царь вселенной" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О, неужели, Царь вселенной,</plain>
@@ -84,4 +84,4 @@
             <plain>- Ты для меня Его забыл.</plain>
         </string>
     </verse>
-</psalm>
+</song>

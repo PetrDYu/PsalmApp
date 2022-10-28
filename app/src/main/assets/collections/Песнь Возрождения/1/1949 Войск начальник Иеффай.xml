@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1949" name="Войск начальник Иеффай" canon="false" text="" textRus="" music="">
+<song number="1949" name="Войск начальник Иеффай" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Войск начальник Иеффай</plain>
@@ -221,4 +221,4 @@
             <plain>Тем за жертву заплатить?</plain>
         </string>
     </verse>
-</psalm>
+</song>

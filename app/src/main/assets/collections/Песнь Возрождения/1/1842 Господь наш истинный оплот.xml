@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1842" name="Господь наш истинный оплот" canon="false" text="" textRus="" music="">
+<song number="1842" name="Господь наш истинный оплот" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь наш истинный оплот,</plain>
@@ -116,4 +116,4 @@
             <plain>Оно пребудет с нами.</plain>
         </string>
     </verse>
-</psalm>
+</song>

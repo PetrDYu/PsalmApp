@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="700" name="Как дышит в семени цветок" canon="false" text="" textRus="" music="">
+<song number="700" name="Как дышит в семени цветок" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Как дышит в семени цветок,</plain>
@@ -67,4 +67,4 @@
             <plain>Хочу в земной стране.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2164" name="Как часто на жизненном море" canon="false" text="" textRus="" music="">
+<song number="2164" name="Как часто на жизненном море" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Как часто на жизненном море</plain>
@@ -70,4 +70,4 @@
             <plain>Невинных ни в чём христиан.</plain>
         </string>
     </verse>
-</psalm>
+</song>

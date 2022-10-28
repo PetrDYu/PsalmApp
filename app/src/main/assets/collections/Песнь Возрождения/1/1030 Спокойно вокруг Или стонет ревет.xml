@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1030" name="Спокойно вокруг Или стонет ревет" canon="false" text="" textRus="" music="">
+<song number="1030" name="Спокойно вокруг Или стонет ревет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Спокойно вокруг Или стонет, ревет</plain>
@@ -56,4 +56,4 @@
             <plain>В объятьях Своих обогрев?</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -5,7 +5,7 @@
             <plain>Утром молись ты, а также и днем, вечером тоже молись всегда.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Будет тогда Иисус с тобой, Он слышит голос твой.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -15,7 +15,7 @@
             <plain>Утром и днем, и вечером – слушает Бог тебя всегда,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>И отвечает Он ласково, ты слушай Его слова.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>

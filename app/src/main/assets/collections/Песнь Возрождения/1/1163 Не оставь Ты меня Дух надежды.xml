@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1163" name="Не оставь Ты меня Дух надежды" canon="false" text="" textRus="" music="">
+<song number="1163" name="Не оставь Ты меня Дух надежды" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Не оставь Ты меня. Дух надежды.</plain>
@@ -56,4 +56,4 @@
             <plain>Я прошу, чтобы Духа мне дал.</plain>
         </string>
     </verse>
-</psalm>
+</song>

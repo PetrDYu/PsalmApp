@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1978" name="Будь скор чтоб слышать Божье" canon="false" text="" textRus="" music="">
+<song number="1978" name="Будь скор чтоб слышать Божье" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Будь скор, чтоб слышать Божье</plain>
@@ -84,4 +84,4 @@
             <plain>Иди и долг свой исполняй.</plain>
         </string>
     </verse>
-</psalm>
+</song>

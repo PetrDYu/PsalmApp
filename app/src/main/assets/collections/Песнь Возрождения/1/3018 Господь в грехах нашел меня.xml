@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3018" name="Господь в грехах нашел меня" canon="false" text="" textRus="" music="">
+<song number="3018" name="Господь в грехах нашел меня" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь в грехах нашел меня,</plain>
@@ -76,4 +76,4 @@
             <plain>служу я всей душой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

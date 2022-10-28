@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1912" name="Великий Бог Всесильный Бог" canon="false" text="" textRus="" music="">
+<song number="1912" name="Великий Бог Всесильный Бог" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Великий Бог, Всесильный Бог!</plain>
@@ -42,4 +42,4 @@
             <plain>Он может бездну превозмочь. Аллилуйя!</plain>
         </string>
     </verse>
-</psalm>
+</song>

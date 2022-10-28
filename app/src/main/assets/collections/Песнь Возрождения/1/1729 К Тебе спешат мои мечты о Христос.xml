@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1729" name="К Тебе спешат мои мечты о Христос" canon="false" text="" textRus="" music="">
+<song number="1729" name="К Тебе спешат мои мечты о Христос" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>К Тебе спешат мои мечты, о, Христос!</plain>
@@ -56,4 +56,4 @@
             <plain>Страны небесной, неземной, о, услышь!</plain>
         </string>
     </verse>
-</psalm>
+</song>

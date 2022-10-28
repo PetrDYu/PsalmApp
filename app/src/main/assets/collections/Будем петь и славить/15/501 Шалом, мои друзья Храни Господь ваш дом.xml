@@ -8,12 +8,12 @@
             <plain>Пусть в сердце к вам войдет шалом, шалом.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>И хоть не прост порой тот мир, где мы живем,</plain>
         </string>
         <string>
             <plain>Пусть окружает нас шалом, шалом!</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -24,12 +24,12 @@
             <plain>И наполняет нас шалом, шалом.</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Улыбками сиять давайте день за днем.</plain>
         </string>
         <string>
             <plain>Приносит радость нам шалом, шалом!</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -40,12 +40,12 @@
             <plain>«Пошли, Господь, нам всем шалом, шалом!»</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Нас не смутят пути, которыми пойдем.</plain>
         </string>
         <string>
             <plain>Наградой будет нам шалом, шалом!</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
@@ -56,12 +56,12 @@
             <plain>И вместе с ней Господь нам дарует шалом.</plain>
         </string>
         <string>
-            <repeat id="6" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Нас не смутят пути, которыми пойдем.</plain>
         </string>
         <string>
             <plain>Наградой будет нам шалом, шалом!</plain>
-            <repeat id="7" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="785" name="Факел веры угасает" canon="false" text="" textRus="" music="">
+<song number="785" name="Факел веры угасает" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Факел веры угасает,</plain>
@@ -84,4 +84,4 @@
             <plain>И скажи: "Я у ног Твоих стою".</plain>
         </string>
     </verse>
-</psalm>
+</song>

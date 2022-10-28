@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="829" name="Сын мой Зачем ушел вдаль" canon="false" text="" textRus="" music="">
+<song number="829" name="Сын мой Зачем ушел вдаль" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Сын мой! Зачем ушел вдаль?</plain>
@@ -56,4 +56,4 @@
             <plain>На зов любви Своей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

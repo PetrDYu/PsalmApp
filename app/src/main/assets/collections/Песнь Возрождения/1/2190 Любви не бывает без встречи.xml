@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2190" name="Любви не бывает без встречи" canon="false" text="" textRus="" music="">
+<song number="2190" name="Любви не бывает без встречи" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Любви не бывает без встречи.</plain>
@@ -75,4 +75,4 @@
             <plain>- Всему на земле основа (2 р.).</plain>
         </string>
     </chorus>
-</psalm>
+</song>

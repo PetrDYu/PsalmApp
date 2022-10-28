@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2594" name="Пришел в мир Спаситель" canon="false" text="" textRus="" music="">
+<song number="2594" name="Пришел в мир Спаситель" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Пришел в мир Спаситель,</plain>
@@ -71,4 +71,4 @@
             <plain>Не опоздай, не опаздай!</plain>
         </string>
     </verse>
-</psalm>
+</song>

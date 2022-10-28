@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="652" name="Красота Иисуса светись во мне" canon="false" text="" textRus="" music="">
+<song number="652" name="Красота Иисуса светись во мне" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Красота Иисуса, светись во мне!</plain>
@@ -68,4 +68,4 @@
             <plain>Чтобы пела душа гимн хвалы всегда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2291" name="Привет тебе наш виноградник" canon="false" text="" textRus="" music="">
+<song number="2291" name="Привет тебе наш виноградник" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Привет тебе, наш виноградник!</plain>
@@ -98,4 +98,4 @@
             <plain>Твой плод приятный, плод святой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

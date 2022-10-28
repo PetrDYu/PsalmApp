@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2007" name="Благословите ныне Господа" canon="false" text="" textRus="" music="">
+<song number="2007" name="Благословите ныне Господа" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Благословите ныне Господа,</plain>
@@ -42,4 +42,4 @@
             <plain>Блогословением. Аминь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

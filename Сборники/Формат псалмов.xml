@@ -10,7 +10,7 @@
         <string><plain></plain></string>
         <string><plain></plain></string>
         <string>
-            <repeat rep_rate="<number of repetition>" is_opening="true" id="1"/>
+            <repeat rep_rate="-1" is_opening="true" id="1"/>
             <plain></plain>
         </string>
         <string>

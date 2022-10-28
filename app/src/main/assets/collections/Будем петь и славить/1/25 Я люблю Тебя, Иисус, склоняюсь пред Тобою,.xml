@@ -8,7 +8,7 @@
             <plain>славлю и хвалю Тебя, нашего Царя.</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="4" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Аллилуйя.</plain>
             <repeat id="0" rep_rate="4" is_opening="false" />
         </string>

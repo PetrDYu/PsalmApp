@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2891" name="Чудесный Спаситель Христос мой Господь" canon="false" text="" textRus="" music="">
+<song number="2891" name="Чудесный Спаситель Христос мой Господь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Чудесный Спаситель - Христос, мой Господь,</plain>
@@ -76,4 +76,4 @@
             <plain>пред всеми прославлю Его.</plain>
         </string>
     </verse>
-</psalm>
+</song>

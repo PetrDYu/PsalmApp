@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="727" name="Сегодня все мы здесь ликуем" canon="false" text="" textRus="" music="">
+<song number="727" name="Сегодня все мы здесь ликуем" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Сегодня все мы здесь ликуем,</plain>
@@ -78,4 +78,4 @@
             <plain>Христос один спасает нас!</plain>
         </string>
     </verse>
-</psalm>
+</song>

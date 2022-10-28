@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="434" name="Господь Иисус умерший в мучениях креста" canon="false" text="" textRus="" music="">
+<song number="434" name="Господь Иисус умерший в мучениях креста" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь Иисус, умерший в мучениях креста</plain>
@@ -76,4 +76,4 @@
             <plain>Распятого Иисуса и больше ничего.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1529" name="Бежит ручеек по просторам полей" canon="false" text="" textRus="" music="">
+<song number="1529" name="Бежит ручеек по просторам полей" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Бежит ручеек по просторам полей,</plain>
@@ -70,4 +70,4 @@
             <plain>Я в Церкви найду отдых, мир и покой...</plain>
         </string>
     </verse>
-</psalm>
+</song>

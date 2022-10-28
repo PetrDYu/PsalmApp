@@ -11,7 +11,7 @@
             <plain>Свет и любовь в жилищах Твоих!</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Господи сил, помилуй нас.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -27,7 +27,7 @@
             <plain>Песни хвалы в жилищах Твоих,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Господи сил, помилуй нас.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -43,7 +43,7 @@
             <plain>Дай достучаться в жилища Твои!</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Господи сил, помилуй нас.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>

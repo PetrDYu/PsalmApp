@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2759" name="Только Ты охраняешь меня" canon="false" text="" textRus="" music="">
+<song number="2759" name="Только Ты охраняешь меня" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Только Ты охраняешь меня</plain>
@@ -66,4 +66,4 @@
             <plain>Чем за это воздам я Тебе?</plain>
         </string>
     </verse>
-</psalm>
+</song>

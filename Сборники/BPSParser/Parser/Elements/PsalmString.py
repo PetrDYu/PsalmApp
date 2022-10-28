@@ -39,19 +39,13 @@ class PsalmString(XMLable, Textable, Container):
 
 
 class RepeatablePsalmString(ListXMLable, Textable, Container):
-    current_id = 0
 
-    @classmethod
-    def reset_current_id(cls):
-        cls.current_id = 0
-
-    def __init__(self, repetition_rate: int = 2, left_closed: bool = True, right_closed: bool = True):
+    def __init__(self, string_id: int, repetition_rate: int = 2, left_closed: bool = True, right_closed: bool = True):
         super().__init__()
-        self.repetition_rate: int = repetition_rate
         self.left_closed = left_closed
         self.right_closed = right_closed
-        self.id = RepeatablePsalmString.current_id
-        RepeatablePsalmString.current_id += 1
+        self.repetition_rate: int = repetition_rate
+        self.id = string_id
 
     def __str__(self):
         return f"<RepeatablePsalmString '{self.get_text()}' ({self.repetition_rate})>"

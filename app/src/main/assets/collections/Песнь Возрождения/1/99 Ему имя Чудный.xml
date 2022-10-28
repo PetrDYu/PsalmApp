@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="99" name="Ему имя Чудный" canon="false" text="" textRus="" music="">
+<song number="99" name="Ему имя Чудный" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Ему имя: Чудный,</plain>
@@ -112,4 +112,4 @@
             <plain>Льнут к Нему сердца.</plain>
         </string>
     </verse>
-</psalm>
+</song>

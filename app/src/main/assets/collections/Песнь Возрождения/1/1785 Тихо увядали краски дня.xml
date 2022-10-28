@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1785" name="Тихо увядали краски дня" canon="false" text="" textRus="" music="">
+<song number="1785" name="Тихо увядали краски дня" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Тихо увядали краски дня,</plain>
@@ -70,4 +70,4 @@
             <plain>Возвещая искупленье душам.</plain>
         </string>
     </verse>
-</psalm>
+</song>

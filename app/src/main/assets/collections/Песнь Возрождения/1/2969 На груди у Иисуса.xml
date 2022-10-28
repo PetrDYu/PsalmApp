@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2969" name="На груди у Иисуса" canon="false" text="" textRus="" music="">
+<song number="2969" name="На груди у Иисуса" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>На груди у Иисуса</plain>
@@ -87,4 +87,4 @@
             <plain>за любовь Твою ко мне.</plain>
         </string>
     </verse>
-</psalm>
+</song>

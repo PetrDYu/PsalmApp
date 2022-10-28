@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2619" name="О грешник к Иисусу приди" canon="false" text="" textRus="" music="">
+<song number="2619" name="О грешник к Иисусу приди" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О грешник, к Иисусу приди,</plain>
@@ -89,4 +89,4 @@
             <plain>Открыт этот пир и для них.</plain>
         </string>
     </verse>
-</psalm>
+</song>

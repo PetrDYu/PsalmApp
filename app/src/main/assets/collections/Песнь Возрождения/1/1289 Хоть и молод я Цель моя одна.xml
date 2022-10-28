@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1289" name="Хоть и молод я Цель моя одна" canon="false" text="" textRus="" music="">
+<song number="1289" name="Хоть и молод я Цель моя одна" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Хоть и молод я - Цель моя одна,</plain>
@@ -56,4 +56,4 @@
             <plain>Тебя, И отныне дать Тебе мою свободу.</plain>
         </string>
     </verse>
-</psalm>
+</song>

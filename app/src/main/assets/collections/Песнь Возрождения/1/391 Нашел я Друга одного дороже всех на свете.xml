@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="391" name="Нашел я Друга одного дороже всех на свете" canon="false" text="" textRus="" music="">
+<song number="391" name="Нашел я Друга одного дороже всех на свете" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Нашел я Друга одного, дороже всех на свете,</plain>
@@ -56,4 +56,4 @@
             <plain>Я навсегда соединен с Ним вечным, неизменным.</plain>
         </string>
     </verse>
-</psalm>
+</song>

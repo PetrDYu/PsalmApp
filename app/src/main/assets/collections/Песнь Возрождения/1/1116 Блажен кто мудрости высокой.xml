@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1116" name="Блажен кто мудрости высокой" canon="false" text="" textRus="" music="">
+<song number="1116" name="Блажен кто мудрости высокой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Блажен, кто мудрости высокой</plain>
@@ -84,4 +84,4 @@
             <plain>И плод святой растет на нем.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="681" name="Друг Из временной разлуки" canon="false" text="" textRus="" music="">
+<song number="681" name="Друг Из временной разлуки" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Друг! Из временной разлуки</plain>
@@ -70,4 +70,4 @@
             <plain>Для кружка благословит.</plain>
         </string>
     </verse>
-</psalm>
+</song>

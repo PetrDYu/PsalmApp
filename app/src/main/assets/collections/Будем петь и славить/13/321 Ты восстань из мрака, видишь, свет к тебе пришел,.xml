@@ -2,12 +2,12 @@
 <psalm number="321" name="Ты восстань из мрака, видишь, свет к тебе пришел," canon="false" text="Дж. М. Морина" textRus="Г. Грановской" music="Дж. М. Морина" additionalInfo="">
     <verse number="1">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Ты восстань из мрака, видишь, свет к тебе пришел,</plain>
         </string>
         <string>
             <plain>Воссияла слава над тобою.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>Подними глаза свои и оглянись вокруг,</plain>
@@ -64,12 +64,12 @@
     </verse>
     <verse number="3">
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Дети чужестранцев твои стены возведут,</plain>
         </string>
         <string>
             <plain>Их вожди служить тебе прибудут.</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>Городом Господним назовет тебя твой Бог,</plain>

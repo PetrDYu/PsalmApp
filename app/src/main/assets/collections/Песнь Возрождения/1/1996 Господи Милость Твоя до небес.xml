@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1996" name="Господи Милость Твоя до небес" canon="false" text="" textRus="" music="">
+<song number="1996" name="Господи Милость Твоя до небес" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господи! Милость Твоя до небес</plain>
@@ -23,4 +23,4 @@
             <plain>Да будет слава Господу!</plain>
         </string>
     </verse>
-</psalm>
+</song>

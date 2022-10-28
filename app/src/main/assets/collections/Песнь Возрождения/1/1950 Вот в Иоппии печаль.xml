@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1950" name="Вот в Иоппии печаль" canon="false" text="" textRus="" music="">
+<song number="1950" name="Вот в Иоппии печаль" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вот в Иоппии печаль,</plain>
@@ -126,4 +126,4 @@
             <plain>И к спасенью привлечет.</plain>
         </string>
     </verse>
-</psalm>
+</song>

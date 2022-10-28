@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2173" name="Когда на сердце очень больно" canon="false" text="" textRus="" music="">
+<song number="2173" name="Когда на сердце очень больно" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Когда на сердце очень больно</plain>
@@ -56,4 +56,4 @@
             <plain>О, мой Христос, Тебе хвала".</plain>
         </string>
     </verse>
-</psalm>
+</song>

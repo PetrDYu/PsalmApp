@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2245" name="Неужели мой Бог я останусь" canon="false" text="" textRus="" music="">
+<song number="2245" name="Неужели мой Бог я останусь" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Неужели, мой Бог, я останусь,</plain>
@@ -140,4 +140,4 @@
             <plain>Поздно будет стучаться тогда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

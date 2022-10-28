@@ -5,7 +5,7 @@
             <plain>Боже чудесный, Отче Небесный, мы призываем Тебя!</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Духом едина, сердцем едина, молится Церковь Твоя.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -15,7 +15,7 @@
             <plain>Боже чудесный, Отче Небесный, воля да будет Твоя!</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Духом едина, сердцем едина, молится Церковь Твоя.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -25,7 +25,7 @@
             <plain>Боже чудесный, Отче Небесный, мы прославляем Тебя!</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Духом едина, сердцем едина, молится Церковь Твоя.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>

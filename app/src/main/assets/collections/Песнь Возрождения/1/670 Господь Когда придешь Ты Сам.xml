@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="670" name="Господь Когда придешь Ты Сам" canon="false" text="" textRus="" music="">
+<song number="670" name="Господь Когда придешь Ты Сам" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь! Когда придешь Ты Сам</plain>
@@ -52,4 +52,4 @@
             <plain>Ты дашь и мне вкусить покой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

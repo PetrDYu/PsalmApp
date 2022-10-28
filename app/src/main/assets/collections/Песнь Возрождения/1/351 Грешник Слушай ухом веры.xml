@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="351" name="Грешник Слушай ухом веры" canon="false" text="" textRus="" music="">
+<song number="351" name="Грешник Слушай ухом веры" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Грешник! Слушай ухом веры:</plain>
@@ -104,4 +104,4 @@
             <plain>"Отойди во тьму!"</plain>
         </string>
     </verse>
-</psalm>
+</song>

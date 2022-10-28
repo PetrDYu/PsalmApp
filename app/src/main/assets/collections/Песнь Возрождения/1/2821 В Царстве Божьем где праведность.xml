@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2821" name="В Царстве Божьем где праведность" canon="false" text="" textRus="" music="">
+<song number="2821" name="В Царстве Божьем где праведность" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В Царстве Божьем, где праведность,</plain>
@@ -70,4 +70,4 @@
             <plain>там от веры к виденью приду.</plain>
         </string>
     </verse>
-</psalm>
+</song>

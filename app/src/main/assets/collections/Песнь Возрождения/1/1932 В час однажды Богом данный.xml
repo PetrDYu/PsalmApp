@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1932" name="В час однажды Богом данный" canon="false" text="" textRus="" music="">
+<song number="1932" name="В час однажды Богом данный" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В час, однажды Богом данный,</plain>
@@ -52,4 +52,4 @@
             <plain>Где все Творцу хвалу поет.</plain>
         </string>
     </verse>
-</psalm>
+</song>

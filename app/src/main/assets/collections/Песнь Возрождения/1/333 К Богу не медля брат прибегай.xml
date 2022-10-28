@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="333" name="К Богу не медля брат прибегай" canon="false" text="" textRus="" music="">
+<song number="333" name="К Богу не медля брат прибегай" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>К Богу не медля, брат, прибегай,</plain>
@@ -56,4 +56,4 @@
             <plain>Грешник, ко Мне скорее иди!"</plain>
         </string>
     </verse>
-</psalm>
+</song>

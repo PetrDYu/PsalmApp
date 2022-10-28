@@ -5,11 +5,14 @@ import xml.etree.ElementTree as xml
 
 class RepeatTag(ListXMLable, Textable):
 
-    def __init__(self, id: int, is_opening: bool, repetition_rate: int = 2):
+    def __init__(self, tag_id: int, is_opening: bool, repetition_rate: int = 2):
         super().__init__()
-        self.repetition_rate: int = repetition_rate
         self.is_opening: bool = is_opening
-        self.id: int = id
+        if is_opening:
+            self.repetition_rate: int = -1
+        else:
+            self.repetition_rate: int = repetition_rate
+        self.id: int = tag_id
 
     def __str__(self):
         return f"<RepeatTag id={self.id} is_opening={self.is_opening} (rep. rate: {self.repetition_rate})>"

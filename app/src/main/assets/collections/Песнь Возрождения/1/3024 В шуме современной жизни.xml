@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3024" name="В шуме современной жизни" canon="false" text="" textRus="" music="">
+<song number="3024" name="В шуме современной жизни" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В шуме современной жизни,</plain>
@@ -82,4 +82,4 @@
             <plain>у Его груди.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2185" name="Куда пойду кому скажу" canon="false" text="" textRus="" music="">
+<song number="2185" name="Куда пойду кому скажу" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Куда пойду, кому скажу</plain>
@@ -70,4 +70,4 @@
             <plain>Склонюсь на грудь главой своей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

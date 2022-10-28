@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="255" name="Здесь мы слышим голос Бога" canon="false" text="" textRus="" music="">
+<song number="255" name="Здесь мы слышим голос Бога" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Здесь мы слышим голос Бога:</plain>
@@ -130,4 +130,4 @@
             <plain>Съединила нас давно!"</plain>
         </string>
     </verse>
-</psalm>
+</song>

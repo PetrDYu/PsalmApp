@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="634" name="Тишина царит в полночи" canon="false" text="" textRus="" music="">
+<song number="634" name="Тишина царит в полночи" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Тишина царит в полночи,</plain>
@@ -45,4 +45,4 @@
             <plain>Радость Он принес с небес.</plain>
         </string>
     </verse>
-</psalm>
+</song>

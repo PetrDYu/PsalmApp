@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="518" name="В досуге ль за трудом" canon="false" text="" textRus="" music="">
+<song number="518" name="В досуге ль за трудом" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В досуге ль, за трудом –</plain>
@@ -81,4 +81,4 @@
             <plain>Как сладостно мне знать о том!</plain>
         </string>
     </verse>
-</psalm>
+</song>

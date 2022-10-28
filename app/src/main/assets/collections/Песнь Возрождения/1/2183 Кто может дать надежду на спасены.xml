@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2183" name="Кто может дать надежду на спасены" canon="false" text="" textRus="" music="">
+<song number="2183" name="Кто может дать надежду на спасены" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Кто может дать надежду на спасены</plain>
@@ -84,4 +84,4 @@
             <plain>Блаженна жизнь, когда в ней все Твое!</plain>
         </string>
     </verse>
-</psalm>
+</song>

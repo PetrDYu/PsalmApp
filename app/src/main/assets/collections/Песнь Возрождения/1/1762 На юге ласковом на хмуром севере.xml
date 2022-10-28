@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1762" name="На юге ласковом на хмуром севере" canon="false" text="" textRus="" music="">
+<song number="1762" name="На юге ласковом на хмуром севере" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>На юге ласковом, на хмуром севере</plain>
@@ -70,4 +70,4 @@
             <plain>Служите верно Господу Христу!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1749" name="За каждый день за каждое мгновенье" canon="false" text="" textRus="" music="">
+<song number="1749" name="За каждый день за каждое мгновенье" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>3а каждый день, за каждое мгновенье</plain>
@@ -45,4 +45,4 @@
             <plain>Тебя воспеть среди земных скорбей!</plain>
         </string>
     </verse>
-</psalm>
+</song>

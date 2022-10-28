@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2169" name="Когда Господь могучим словом" canon="false" text="" textRus="" music="">
+<song number="2169" name="Когда Господь могучим словом" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Когда Господь могучим словом</plain>
@@ -84,4 +84,4 @@
             <plain>На правом Господа суде. (2 р.).</plain>
         </string>
     </verse>
-</psalm>
+</song>

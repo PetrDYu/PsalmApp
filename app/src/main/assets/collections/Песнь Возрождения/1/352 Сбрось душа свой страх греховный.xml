@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="352" name="Сбрось душа свой страх греховный" canon="false" text="" textRus="" music="">
+<song number="352" name="Сбрось душа свой страх греховный" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Сбрось, душа, свой страх греховный</plain>
@@ -104,4 +104,4 @@
             <plain>Чтоб Творца могли хвалить?!</plain>
         </string>
     </verse>
-</psalm>
+</song>

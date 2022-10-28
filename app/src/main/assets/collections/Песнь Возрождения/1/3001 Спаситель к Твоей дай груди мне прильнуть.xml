@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3001" name="Спаситель к Твоей дай груди мне прильнуть" canon="false" text="" textRus="" music="">
+<song number="3001" name="Спаситель к Твоей дай груди мне прильнуть" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Спаситель, к Твоей дай груди мне прильнуть,</plain>
@@ -79,4 +79,4 @@
             <plain>в блаженной небесной стране!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2835" name="Скоро звук трубы раздастся и великий день придёт" canon="false" text="" textRus="" music="">
+<song number="2835" name="Скоро звук трубы раздастся и великий день придёт" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Скоро звук трубы раздастся и великий день придёт,</plain>
@@ -56,4 +56,4 @@
             <plain>так пред Богом устоишь ты, будешь счастлив навсегда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3278" name="Мне снилось окончилась жатва" canon="false" text="" textRus="" music="">
+<song number="3278" name="Мне снилось окончилась жатва" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Мне снилось: окончилась жатва,</plain>
@@ -126,4 +126,4 @@
             <plain>тоже, плод принести.</plain>
         </string>
     </verse>
-</psalm>
+</song>

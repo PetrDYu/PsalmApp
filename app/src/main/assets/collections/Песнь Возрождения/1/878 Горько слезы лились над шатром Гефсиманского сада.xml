@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="878" name="Горько слезы лились над шатром Гефсиманского сада" canon="false" text="" textRus="" music="">
+<song number="878" name="Горько слезы лились над шатром Гефсиманского сада" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Горько слезы лились над шатром Гефсиманского сада.</plain>
@@ -80,4 +80,4 @@
             <plain>В глазах Христа блестит любовь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

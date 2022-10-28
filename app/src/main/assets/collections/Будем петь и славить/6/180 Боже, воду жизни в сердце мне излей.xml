@@ -16,7 +16,7 @@
     </verse>
     <chorus number="1">
         <string>
-            <repeat id="0" rep_rate="6" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Отче.</plain>
             <repeat id="0" rep_rate="6" is_opening="false" />
         </string>
@@ -37,7 +37,7 @@
     </verse>
     <chorus number="2">
         <string>
-            <repeat id="1" rep_rate="4" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Дух Святой.</plain>
             <repeat id="1" rep_rate="4" is_opening="false" />
         </string>
@@ -58,7 +58,7 @@
     </verse>
     <chorus number="3">
         <string>
-            <repeat id="2" rep_rate="6" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Иисус.</plain>
             <repeat id="2" rep_rate="6" is_opening="false" />
         </string>

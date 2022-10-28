@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="743" name="Клонится к ночи день труда" canon="false" text="" textRus="" music="">
+<song number="743" name="Клонится к ночи день труда" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Клонится к ночи день труда,</plain>
@@ -100,4 +100,4 @@
             <plain>И лишь Ему служить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

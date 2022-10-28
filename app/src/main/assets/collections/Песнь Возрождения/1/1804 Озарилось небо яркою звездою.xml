@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1804" name="Озарилось небо яркою звездою" canon="false" text="" textRus="" music="">
+<song number="1804" name="Озарилось небо яркою звездою" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Озарилось небо яркою звездою,</plain>
@@ -84,4 +84,4 @@
             <plain>И с твоим спасеньем, друг мой, тоже!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -8,12 +8,12 @@
             <plain>Буду славить я Того, Кто всех дороже!</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Буду славить я Христа здесь на земле и в небесах.</plain>
         </string>
         <string>
             <plain>Аллилуйя! Аллилуйя!</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
@@ -24,12 +24,12 @@
             <plain>Он пролил за нас кровь святую!</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>И за это благодарность все Ему мы воспоем.</plain>
         </string>
         <string>
             <plain>Аллилуйя! Аллилуйя!</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -40,12 +40,12 @@
             <plain>Он воскрес на третье утро по Писанью!</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Смерть и ад Он победил, восстал из гроба Божий Сын.</plain>
         </string>
         <string>
             <plain>Аллилуйя! Аллилуйя!</plain>
-            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
@@ -56,12 +56,12 @@
             <plain>Буду петь от всей души: «О, аллилуйя!»</plain>
         </string>
         <string>
-            <repeat id="6" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Иисус, благодарим Тебя за дар любви святой.</plain>
         </string>
         <string>
             <plain>Аллилуйя! Аллилуйя!</plain>
-            <repeat id="7" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </psalm>

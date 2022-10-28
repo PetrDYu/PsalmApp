@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="837" name="Боже мой от Тебя не скрыты мои тайны" canon="false" text="" textRus="" music="">
+<song number="837" name="Боже мой от Тебя не скрыты мои тайны" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Боже мой, от Тебя не скрыты мои тайны</plain>
@@ -56,4 +56,4 @@
             <plain>Мне прости. Мне прости.</plain>
         </string>
     </verse>
-</psalm>
+</song>

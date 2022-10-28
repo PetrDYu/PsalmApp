@@ -8,7 +8,7 @@
             <plain>Иисус Христос воскрес, Иисус жив,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Снова придет Иисус к нам.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>

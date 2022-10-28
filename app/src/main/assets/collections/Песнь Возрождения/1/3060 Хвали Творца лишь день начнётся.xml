@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3060" name="Хвали Творца лишь день начнётся" canon="false" text="" textRus="" music="">
+<song number="3060" name="Хвали Творца лишь день начнётся" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Хвали Творца, лишь день начнётся,</plain>
@@ -42,4 +42,4 @@
             <plain>- молитвы шёпот, сердца жар.</plain>
         </string>
     </verse>
-</psalm>
+</song>

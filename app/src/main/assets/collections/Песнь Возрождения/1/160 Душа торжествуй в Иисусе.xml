@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="160" name="Душа торжествуй в Иисусе" canon="false" text="" textRus="" music="">
+<song number="160" name="Душа торжествуй в Иисусе" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Душа, торжествуй в Иисусе,</plain>
@@ -84,4 +84,4 @@
             <plain>И радуясь Им лишь одним.</plain>
         </string>
     </chorus>
-</psalm>
+</song>

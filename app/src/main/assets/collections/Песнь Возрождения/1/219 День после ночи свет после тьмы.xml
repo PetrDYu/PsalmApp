@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="219" name="День после ночи свет после тьмы" canon="false" text="" textRus="" music="">
+<song number="219" name="День после ночи свет после тьмы" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>День после ночи, свет после тьмы;</plain>
@@ -42,4 +42,4 @@
             <plain>- Вот что дарует верным Христос!</plain>
         </string>
     </verse>
-</psalm>
+</song>

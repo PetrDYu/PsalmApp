@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="57" name="Господь огонь с небес священный" canon="false" text="" textRus="" music="">
+<song number="57" name="Господь огонь с небес священный" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь, огонь с небес священный,</plain>
@@ -104,4 +104,4 @@
             <plain>Твой огонь, о, пошли!</plain>
         </string>
     </verse>
-</psalm>
+</song>

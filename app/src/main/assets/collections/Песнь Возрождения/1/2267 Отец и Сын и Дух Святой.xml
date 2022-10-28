@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2267" name="Отец и Сын и Дух Святой" canon="false" text="" textRus="" music="">
+<song number="2267" name="Отец и Сын и Дух Святой" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Отец и Сын, и Дух Святой</plain>
@@ -79,4 +79,4 @@
             <plain>В нас открывается.</plain>
         </string>
     </verse>
-</psalm>
+</song>

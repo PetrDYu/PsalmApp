@@ -5,7 +5,7 @@
             <plain>Когда я в духе созерцаю Мессии образ неземной,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Тогда я горе забываю души усталой и больной.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -15,7 +15,7 @@
             <plain>Когда я вижу взор Иисуса, к Отцу взывающий с мольбой,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Тогда своих скорбей стыжусь я И не стремлюсь на путь иной.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -25,7 +25,7 @@
             <plain>Когда тот голос повторится: «Зачем оставил Ты Меня».</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Душа надеждой озарится, что не оставлен Богом я.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
@@ -35,7 +35,7 @@
             <plain>И слышу голос: «Совершилось!», – и предал Дух Свой Иисус.</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Его любовь с моею слилась, Господь со мной, я не страшусь.</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
@@ -45,7 +45,7 @@
             <plain>Ты мне Свой образ открываешь, Свое создание любя,</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>На небесах усыновляешь... А что я сделал для Тебя?</plain>
             <repeat id="4" rep_rate="2" is_opening="false" />
         </string>

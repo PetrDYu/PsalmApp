@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2311" name="Расставаясь не будем печальны" canon="false" text="" textRus="" music="">
+<song number="2311" name="Расставаясь не будем печальны" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Расставаясь не будем печальны,</plain>
@@ -56,4 +56,4 @@
             <plain>Будем Бога об этом просить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

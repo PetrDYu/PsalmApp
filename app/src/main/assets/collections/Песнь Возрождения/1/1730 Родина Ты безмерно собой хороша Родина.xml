@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1730" name="Родина Ты безмерно собой хороша Родина" canon="false" text="" textRus="" music="">
+<song number="1730" name="Родина Ты безмерно собой хороша Родина" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Родина! Ты безмерно собой хороша, Родина,</plain>
@@ -56,4 +56,4 @@
             <plain>Цель моя: в тебе вечно Иисусу служить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="803" name="В вечных обителях Божьего рая" canon="false" text="" textRus="" music="">
+<song number="803" name="В вечных обителях Божьего рая" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>В вечных обителях Божьего рая</plain>
@@ -70,4 +70,4 @@
             <plain>День явления Царя царей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

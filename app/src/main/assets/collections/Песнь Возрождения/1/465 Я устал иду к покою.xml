@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="465" name="Я устал иду к покою" canon="false" text="" textRus="" music="">
+<song number="465" name="Я устал иду к покою" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я устал, иду к покою,</plain>
@@ -28,4 +28,4 @@
             <plain>Телу - сон, душе - покой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

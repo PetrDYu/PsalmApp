@@ -8,6 +8,26 @@ from Parser.Configs import REPEAT_3_DBP_RE, REPEAT_WITH_INNER_AND_ANY_OUTER, REP
 
 
 class RepeatHandler(BaseHandler):
+    current_id = 0
+    opened_repeat_id_list = []
+
+    @classmethod
+    def reset_current_id(cls):
+        cls.current_id = 0
+
+    @classmethod
+    def return_current_id_and_increment(cls):
+        temp_id = cls.current_id
+        cls.current_id += 1
+        return temp_id
+
+    @classmethod
+    def add_opened_id(cls, string_id):
+        cls.opened_repeat_id_list.append(string_id)
+
+    @classmethod
+    def return_and_remove_last_id(cls):
+        return cls.opened_repeat_id_list.pop()
 
     def __init__(self, next_handler: BaseHandler = None):
         super().__init__(next_handler)
@@ -48,7 +68,7 @@ class RepeatHandler(BaseHandler):
         children = []
         full_string_handled = False
         if r:
-            repeat_3 = RepeatablePsalmString(3, True, True)
+            repeat_3 = RepeatablePsalmString(RepeatHandler.return_current_id_and_increment(), 3, True, True)
             children.append(repeat_3)
             repeat_3.append_child(PlainString(r.group('text')))
             left_border = r.start()
@@ -72,7 +92,12 @@ class RepeatHandler(BaseHandler):
             n_inner = int(r.group("n_inner") if r.group("n_inner") is not None else 2)
             n_outer = int(r.group("n_outer") if r.group("n_outer") is not None else 2)
 
-            inner_repeat = RepeatablePsalmString(repetition_rate=n_inner)
+            inner_repeat = RepeatablePsalmString(
+                RepeatHandler.return_current_id_and_increment(),
+                repetition_rate=n_inner,
+                left_closed=True,
+                right_closed=True
+            )
             inner_repeat.append_children(
                 RepeatHandler.get_children_with_3_dp(
                     left_border,
@@ -81,9 +106,17 @@ class RepeatHandler(BaseHandler):
                     "text_inner"
                 )
             )
-
+            # TODO возможно, здесь должно было быть and, а не or
             if r.group("dbp_outer_left") or r.group("dbp_outer_right"):
+                outer_repeat_id = 0
+                if r.group("dbp_outer_left"):
+                    outer_repeat_id = RepeatHandler.return_current_id_and_increment()
+                    RepeatHandler.add_opened_id(outer_repeat_id)
+                if r.group("dbp_outer_right"):
+                    outer_repeat_id = RepeatHandler.return_and_remove_last_id()
+
                 outer_repeat = RepeatablePsalmString(
+                    string_id=outer_repeat_id,
                     repetition_rate=n_outer,
                     right_closed=r.group("dbp_outer_right") is not None,
                     left_closed=r.group("dbp_outer_left") is not None
@@ -143,7 +176,14 @@ class RepeatHandler(BaseHandler):
         if r and (r.group("dbp_left") or r.group("dbp_right")):
             full_string_handled = True
             n = int(r.group("n") if r.group("n") is not None else 2)
+            repeat_id = 0
+            if r.group("dbp_left"):
+                repeat_id = RepeatHandler.return_current_id_and_increment()
+                RepeatHandler.add_opened_id(repeat_id)
+            if r.group("dbp_right"):
+                repeat_id = RepeatHandler.return_and_remove_last_id()
             repeat = RepeatablePsalmString(
+                repeat_id,
                 repetition_rate=n,
                 right_closed=r.group("dbp_right") is not None,
                 left_closed=r.group("dbp_left") is not None

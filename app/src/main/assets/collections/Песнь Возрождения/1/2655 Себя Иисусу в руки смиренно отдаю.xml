@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2655" name="Себя Иисусу в руки смиренно отдаю" canon="false" text="" textRus="" music="">
+<song number="2655" name="Себя Иисусу в руки смиренно отдаю" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Себя Иисусу в руки смиренно отдаю.</plain>
@@ -42,4 +42,4 @@
             <plain>Когда от скорби жгучей войду в Иерусалим.</plain>
         </string>
     </verse>
-</psalm>
+</song>

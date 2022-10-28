@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="487" name="Вот ель в лесу как зелена" canon="false" text="" textRus="" music="">
+<song number="487" name="Вот ель в лесу как зелена" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Вот ель в лесу: как зелена</plain>
@@ -80,4 +80,4 @@
             <plain>Кто в дом Его впускает.</plain>
         </string>
     </verse>
-</psalm>
+</song>

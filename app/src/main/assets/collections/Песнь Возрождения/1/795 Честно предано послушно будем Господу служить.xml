@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="795" name="Честно предано послушно будем Господу служить" canon="false" text="" textRus="" music="">
+<song number="795" name="Честно предано послушно будем Господу служить" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Честно, предано, послушно будем Господу служить.</plain>
@@ -70,4 +70,4 @@
             <plain>И, на Господа взирая, всем любовию служить.</plain>
         </string>
     </verse>
-</psalm>
+</song>

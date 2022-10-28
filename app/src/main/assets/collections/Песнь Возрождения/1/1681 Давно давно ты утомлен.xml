@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1681" name="Давно давно ты утомлен" canon="false" text="" textRus="" music="">
+<song number="1681" name="Давно давно ты утомлен" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Давно давно ты утомлен,</plain>
@@ -56,4 +56,4 @@
             <plain>О них не вспомяну.</plain>
         </string>
     </chorus>
-</psalm>
+</song>

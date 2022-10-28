@@ -6,7 +6,7 @@
         </string>
         <string>
             <plain>Хорошо пребыть в служеньи,</plain>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>прославляя сердцем Бога.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -17,7 +17,7 @@
         </string>
         <string>
             <plain>Исполнять Христа заветы</plain>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>честно, преданно, послушно.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -28,7 +28,7 @@
         </string>
         <string>
             <plain>За тропой борьбы, тревоги</plain>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>будем с Господом мы вечно.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>

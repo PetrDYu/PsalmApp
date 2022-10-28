@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="190" name="Обетованья всегда пребудут" canon="false" text="" textRus="" music="">
+<song number="190" name="Обетованья всегда пребудут" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Обетованья всегда пребудут,</plain>
@@ -70,4 +70,4 @@
             <plain>Что обещал Бог, то даст.</plain>
         </string>
     </verse>
-</psalm>
+</song>

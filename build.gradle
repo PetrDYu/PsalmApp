@@ -4,29 +4,30 @@ buildscript {
         roomVersion = '2.4.2'
         coroutines = '1.5.2'
         lifecycleVersion = '2.4.1'
+        kotlinVersion = '1.6.10'
     }
 }// Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {
-    id 'com.android.application' version '7.1.3' apply false
-    id 'com.android.library' version '7.1.3' apply false
-    id 'org.jetbrains.kotlin.android' version '1.6.10' apply false
+    id 'com.android.application' version '7.3.1' apply false
+    id 'com.android.library' version '7.3.1' apply false
+    id 'org.jetbrains.kotlin.android' version "$kotlinVersion" apply false
 }
 
 allprojects {
     tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
         kotlinOptions {
             freeCompilerArgs += [
-                    "-Xuse-experimental=kotlin.ExperimentalUnsignedTypes",
-                    "-Xuse-experimental=kotlinx.coroutines.ExperimentalCoroutinesApi",
-                    "-Xuse-experimental=kotlinx.coroutines.InternalCoroutinesApi",
-                    "-Xuse-experimental=androidx.compose.animation.ExperimentalAnimationApi",
-                    "-Xuse-experimental=androidx.compose.ExperimentalComposeApi",
-                    "-Xuse-experimental=androidx.compose.foundation.ExperimentalFoundationApi",
-                    "-Xuse-experimental=androidx.compose.material.ExperimentalMaterialApi",
-                    "-Xuse-experimental=androidx.compose.runtime.ExperimentalComposeApi",
-                    "-Xuse-experimental=androidx.compose.ui.ExperimentalComposeUiApi",
-                    "-Xuse-experimental=coil.annotation.ExperimentalCoilApi",
-                    "-Xuse-experimental=com.google.accompanist.pager.ExperimentalPagerApi"
+                    "-opt-in=kotlin.ExperimentalUnsignedTypes",
+                    "-opt-in=kotlinx.coroutines.ExperimentalCoroutinesApi",
+                    "-opt-in=kotlinx.coroutines.InternalCoroutinesApi",
+                    "-opt-in=androidx.compose.animation.ExperimentalAnimationApi",
+                    "-opt-in=androidx.compose.ExperimentalComposeApi",
+                    "-opt-in=androidx.compose.foundation.ExperimentalFoundationApi",
+                    "-opt-in=androidx.compose.material.ExperimentalMaterialApi",
+                    "-opt-in=androidx.compose.runtime.ExperimentalComposeApi",
+                    "-opt-in=androidx.compose.ui.ExperimentalComposeUiApi",
+                    "-opt-in=coil.annotation.ExperimentalCoilApi",
+                    "-opt-in=com.google.accompanist.pager.ExperimentalPagerApi"
             ]
         }
     }

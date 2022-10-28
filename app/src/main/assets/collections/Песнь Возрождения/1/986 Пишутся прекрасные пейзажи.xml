@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="986" name="Пишутся прекрасные пейзажи" canon="false" text="" textRus="" music="">
+<song number="986" name="Пишутся прекрасные пейзажи" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Пишутся прекрасные пейзажи</plain>
@@ -56,4 +56,4 @@
             <plain>Вечного художника рукой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

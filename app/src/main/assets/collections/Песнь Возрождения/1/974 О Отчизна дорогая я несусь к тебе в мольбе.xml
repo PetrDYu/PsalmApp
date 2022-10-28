@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="974" name="О Отчизна дорогая я несусь к тебе в мольбе" canon="false" text="" textRus="" music="">
+<song number="974" name="О Отчизна дорогая я несусь к тебе в мольбе" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>О Отчизна дорогая, я несусь к тебе в мольбе.</plain>
@@ -56,4 +56,4 @@
             <plain>День придет, умру я тоже... Нет, не здесь мой дом родной!</plain>
         </string>
     </verse>
-</psalm>
+</song>

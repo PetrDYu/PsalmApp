@@ -12,7 +12,7 @@
         </string>
         <string>
             <plain>Он всемогущий Хранитель,</plain>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>о ты, истомленный грехом.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -29,7 +29,7 @@
         </string>
         <string>
             <plain>Что же тебя не пускает?</plain>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Он всем предлагает Свой дар.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -46,7 +46,7 @@
         </string>
         <string>
             <plain>Плачь прекратит и стенанья,</plain>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>все слезы с очей Он отрет.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
@@ -63,7 +63,7 @@
         </string>
         <string>
             <plain>Новую жизнь и спасенье,</plain>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>о ты, истомленный грехом</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>

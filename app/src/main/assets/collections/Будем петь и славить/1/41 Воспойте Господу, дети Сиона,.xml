@@ -2,17 +2,17 @@
 <psalm number="41" name="Воспойте Господу, дети Сиона," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Воспойте Господу, дети Сиона,</plain>
         </string>
         <string>
             <plain>Ибо Он нас освободил.</plain>
-            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <repeat id="2" rep_rate="3" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Широко открой сердце перед Ним,</plain>
-            <repeat id="2" rep_rate="3" is_opening="false" />
+            <repeat id="1" rep_rate="3" is_opening="false" />
         </string>
         <string>
             <plain>Перед Господом Богом сил.</plain>

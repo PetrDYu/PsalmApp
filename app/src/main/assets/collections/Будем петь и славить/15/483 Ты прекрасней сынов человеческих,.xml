@@ -11,7 +11,7 @@
             <plain>Ты Собой нам открыл двери вечности,</plain>
         </string>
         <string>
-            <repeat id="0" rep_rate="2" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>О Спаситель, чудный Иисус!</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
@@ -27,7 +27,7 @@
             <plain>Его Имя для нас дорогое,</plain>
         </string>
         <string>
-            <repeat id="1" rep_rate="2" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Всех дороже здесь на земле.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
@@ -43,7 +43,7 @@
             <plain>Но Ты видишь в скорбях человека</plain>
         </string>
         <string>
-            <repeat id="2" rep_rate="2" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>И готов к нему с неба сойти.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
@@ -59,7 +59,7 @@
             <plain>Быть всех выше, Господь, Ты достоин.</plain>
         </string>
         <string>
-            <repeat id="3" rep_rate="2" is_opening="true" />
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Твоей славой полна вся земля.</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
@@ -75,7 +75,7 @@
             <plain>Той невестой является Церковь,</plain>
         </string>
         <string>
-            <repeat id="4" rep_rate="2" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>И Ты скоро за нею придешь.</plain>
             <repeat id="4" rep_rate="2" is_opening="false" />
         </string>
@@ -91,7 +91,7 @@
             <plain>Ты любовию вечной, нетленной</plain>
         </string>
         <string>
-            <repeat id="5" rep_rate="2" is_opening="true" />
+            <repeat id="5" rep_rate="-1" is_opening="true" />
             <plain>Продолжаешь любить род людской.</plain>
             <repeat id="5" rep_rate="2" is_opening="false" />
         </string>

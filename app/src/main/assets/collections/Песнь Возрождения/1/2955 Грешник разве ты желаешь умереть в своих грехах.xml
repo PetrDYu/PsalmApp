@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2955" name="Грешник разве ты желаешь умереть в своих грехах" canon="false" text="" textRus="" music="">
+<song number="2955" name="Грешник разве ты желаешь умереть в своих грехах" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Грешник, разве ты желаешь умереть в своих грехах?</plain>
@@ -62,4 +62,4 @@
             <plain>если благодать отвергнешь, что Он хочет дать тебе!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2431" name="Я шёл как все пустынного страной" canon="false" text="" textRus="" music="">
+<song number="2431" name="Я шёл как все пустынного страной" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Я шёл, как все, пустынного страной</plain>
@@ -78,4 +78,4 @@
             <plain>Бог спас меня, и, значит, я живу (2 Р.).</plain>
         </string>
     </verse>
-</psalm>
+</song>

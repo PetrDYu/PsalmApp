@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="2805" name="Мы в глубоких размышленьях вспоминаем иногда" canon="false" text="" textRus="" music="">
+<song number="2805" name="Мы в глубоких размышленьях вспоминаем иногда" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Мы в глубоких размышленьях вспоминаем иногда,</plain>
@@ -56,4 +56,4 @@
             <plain>Он такой же будет завтра и на вечные века.</plain>
         </string>
     </verse>
-</psalm>
+</song>

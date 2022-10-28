@@ -2,7 +2,7 @@
 <psalm number="114" name="Отвлечемся от себя и будем прославлять Всевышнего" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
-            <repeat id="0" rep_rate="3" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Отвлечемся от себя и будем прославлять Всевышнего.</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
         </string>
@@ -12,7 +12,7 @@
     </verse>
     <verse number="2">
         <string>
-            <repeat id="1" rep_rate="3" is_opening="true" />
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Отвлечемся от себя и воспоем Христа Царя царей,</plain>
             <repeat id="1" rep_rate="3" is_opening="false" />
         </string>
@@ -22,7 +22,7 @@
     </verse>
     <verse number="3">
         <string>
-            <repeat id="2" rep_rate="3" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Отвлечемся от себя, наш Иисус Христос грядет с небес.</plain>
             <repeat id="2" rep_rate="3" is_opening="false" />
         </string>

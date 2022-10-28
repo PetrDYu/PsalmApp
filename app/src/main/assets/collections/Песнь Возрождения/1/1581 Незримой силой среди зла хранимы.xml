@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1581" name="Незримой силой среди зла хранимы" canon="false" text="" textRus="" music="">
+<song number="1581" name="Незримой силой среди зла хранимы" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Незримой силой среди зла хранимы,</plain>
@@ -84,4 +84,4 @@
             <plain>И, несомненно, каждый новый день.</plain>
         </string>
     </verse>
-</psalm>
+</song>

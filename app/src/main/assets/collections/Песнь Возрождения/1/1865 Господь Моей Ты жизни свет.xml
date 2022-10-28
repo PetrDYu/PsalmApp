@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="1865" name="Господь Моей Ты жизни свет" canon="false" text="" textRus="" music="">
+<song number="1865" name="Господь Моей Ты жизни свет" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
             <plain>Господь! Моей Ты жизни - свет,</plain>
@@ -240,4 +240,4 @@
             <plain>Я буду вечно жить с Тобой.</plain>
         </string>
     </verse>
-</psalm>
+</song>
