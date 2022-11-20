@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="409" name="Иисус любит, меня любит, слышит Он всегда меня" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="409" name="Иисус любит, меня любит, слышит Он всегда меня" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Иисус любит, меня любит, слышит Он всегда меня.</plain>
@@ -24,4 +24,4 @@
             <plain>Очень я люблю Иисуса, больше жизни всей своей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

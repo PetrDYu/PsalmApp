@@ -19,7 +19,7 @@ class Psalm:
         self.parts: list[PsalmPart] = []
 
     def get_xml(self):
-        psalm_tag = xml.Element('psalm', {
+        psalm_tag = xml.Element('song', {
             'number': str(self.number),
             'name': self.name,
             'canon': str(self.canon).lower(),

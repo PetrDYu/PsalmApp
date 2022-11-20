@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="340" name="Отец наш и Царь наш, Отец наш и Царь наш," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
+<song number="340" name="Отец наш и Царь наш, Отец наш и Царь наш," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Отец наш и Царь наш, Отец наш и Царь наш,</plain>
@@ -34,4 +34,4 @@
             <plain>АСЭ́ ИМА́НУ Ц’ДАКА́ ВА-ХЭ́СЕД ВЭ́ОШИЭ́НУ́</plain>
         </string>
     </verse>
-</psalm>
+</song>

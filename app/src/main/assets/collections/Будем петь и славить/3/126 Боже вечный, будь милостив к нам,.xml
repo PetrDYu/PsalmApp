@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="126" name="Боже вечный, будь милостив к нам," canon="false" text="А. Мерцена" textRus="" music="А. Мерцена" additionalInfo="">
+<song number="126" name="Боже вечный, будь милостив к нам," canon="false" text="А. Мерцена" textRus="" music="А. Мерцена" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Боже вечный, будь милостив к нам,</plain>
@@ -74,4 +74,4 @@
             <plain>Сладостно мне, о Господи сил!</plain>
         </string>
     </verse>
-</psalm>
+</song>

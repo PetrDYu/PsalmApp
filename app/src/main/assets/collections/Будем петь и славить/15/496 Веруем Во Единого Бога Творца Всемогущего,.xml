@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="496" name="Веруем Во Единого Бога Творца Всемогущего," canon="false" text="И. Глушакова" textRus="" music="С. Воробьева" additionalInfo="">
+<song number="496" name="Веруем Во Единого Бога Творца Всемогущего," canon="false" text="И. Глушакова" textRus="" music="С. Воробьева" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Веруем! Во Единого Бога Творца Всемогущего,</plain>
@@ -69,4 +69,4 @@
             <plain>1-й куплет.</plain>
         </string>
     </verse>
-</psalm>
+</song>

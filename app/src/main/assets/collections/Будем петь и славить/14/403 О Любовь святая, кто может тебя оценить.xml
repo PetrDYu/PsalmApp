@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="403" name="О Любовь святая, кто может тебя оценить" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="403" name="О Любовь святая, кто может тебя оценить" canon="false" text="" textRus="" music="" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>О Любовь святая, кто может тебя оценить?</plain>
@@ -40,4 +40,4 @@
             <plain>Он от жизни скверной всех избавить рад.</plain>
         </string>
     </verse>
-</psalm>
+</song>

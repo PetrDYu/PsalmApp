@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="350" name="Услышь, Господь, молитву мою," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
+<song number="350" name="Услышь, Господь, молитву мою," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Услышь, Господь, молитву мою,</plain>
@@ -56,4 +56,4 @@
             <plain>Там воспоем Господню любовь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

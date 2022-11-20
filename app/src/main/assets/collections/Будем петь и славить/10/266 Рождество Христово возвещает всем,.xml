@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="266" name="Рождество Христово возвещает всем," canon="false" text="" textRus="Д. Ясько" music="Дж.К. Ринка" additionalInfo="">
+<song number="266" name="Рождество Христово возвещает всем," canon="false" text="" textRus="Д. Ясько" music="Дж.К. Ринка" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Рождество Христово возвещает всем,</plain>
@@ -40,4 +40,4 @@
             <plain>Под Его рукою радость и покой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

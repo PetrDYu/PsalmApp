@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="341" name="Господу пой, вся земля, о спасеньи Его возвещай" canon="false" text="Милеса и Кари Кахалоа" textRus="И. Языковой, Ю. Пастернака" music="Милеса и Кари Кахалоа" additionalInfo="">
+<song number="341" name="Господу пой, вся земля, о спасеньи Его возвещай" canon="false" text="Милеса и Кари Кахалоа" textRus="И. Языковой, Ю. Пастернака" music="Милеса и Кари Кахалоа" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Господу пой, вся земля, о спасеньи Его возвещай.</plain>
@@ -16,4 +16,4 @@
             <plain>Ликуй, вся земля. Царствует Господь Бог наш!</plain>
         </string>
     </verse>
-</psalm>
+</song>

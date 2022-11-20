@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="433" name="Господи, мы пред Тобой," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="433" name="Господи, мы пред Тобой," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Господи, мы пред Тобой,</plain>
@@ -39,4 +39,4 @@
             <plain>Господи, живи с нами, просияй Твоей любовью в нас.</plain>
         </string>
     </verse>
-</psalm>
+</song>

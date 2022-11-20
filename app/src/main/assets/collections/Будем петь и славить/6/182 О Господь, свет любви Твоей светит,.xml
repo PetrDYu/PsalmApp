@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="182" name="О Господь, свет любви Твоей светит," canon="false" text="Г. Кендрика" textRus="М. Винецкой" music="Г. Кендрика" additionalInfo="">
+<song number="182" name="О Господь, свет любви Твоей светит," canon="false" text="Г. Кендрика" textRus="М. Винецкой" music="Г. Кендрика" additionalInfo="">
     <verse number="1">
         <string>
             <plain>О Господь, свет любви Твоей светит,</plain>
@@ -65,4 +65,4 @@
             <plain>Даруй мне свет, даруй мне свет.</plain>
         </string>
     </verse>
-</psalm>
+</song>

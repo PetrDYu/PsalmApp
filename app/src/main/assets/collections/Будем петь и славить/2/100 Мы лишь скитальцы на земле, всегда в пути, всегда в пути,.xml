@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="100" name="Мы лишь скитальцы на земле, всегда в пути, всегда в пути," canon="false" text="А.Ашикяна" textRus="М. Винецкой" music="А.Ашикяна" additionalInfo="">
+<song number="100" name="Мы лишь скитальцы на земле, всегда в пути, всегда в пути," canon="false" text="А.Ашикяна" textRus="М. Винецкой" music="А.Ашикяна" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Мы лишь скитальцы на земле, всегда в пути, всегда в пути,</plain>
@@ -70,4 +70,4 @@
             <plain>И о бессмертии святых в тиши поют, в тиши поют.</plain>
         </string>
     </verse>
-</psalm>
+</song>

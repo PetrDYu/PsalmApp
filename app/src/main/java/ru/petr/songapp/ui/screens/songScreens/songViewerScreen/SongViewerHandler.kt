@@ -10,19 +10,20 @@ import androidx.compose.runtime.*
 import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Modifier
 import dev.wirespec.jetmagic.models.ComposableInstance
-import ru.petr.songapp.data.models.songData.SongWithCollectionFromDB
+import ru.petr.songapp.ui.screens.songScreens.models.Song
 import ru.petr.songapp.ui.screens.songScreens.models.SongParams
+import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 
 @Composable
-fun SongViewHandler(composableInstance: ComposableInstance) {
+fun SongViewerHandler(composableInstance: ComposableInstance) {
     val vm = composableInstance.viewmodel as SongViewViewModel
     val p = composableInstance.parameters as SongParams
     val song by vm.getSongById(p.songId).observeAsState()
-    SongView(song = song)
+    SongViewer(song = song)
 }
 
 @Composable
-fun SongView(song: SongWithCollectionFromDB?) {
+fun SongViewer(song: Song?) {
     Box(modifier = Modifier
         .fillMaxSize()
         .verticalScroll(rememberScrollState())
@@ -31,7 +32,7 @@ fun SongView(song: SongWithCollectionFromDB?) {
         if (song == null) {
             Text("Ошибка в процессе загрузки")
         } else {
-            Text(song.body)
+            ru.petr.songapp.ui.screens.songScreens.models.SongView(showType = SongShowTypes.READ, song = song)
         }
     }
 }

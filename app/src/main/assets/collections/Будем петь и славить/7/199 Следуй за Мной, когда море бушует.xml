@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="199" name="Следуй за Мной, когда море бушует" canon="false" text="В. Белых" textRus="" music="" additionalInfo="">
+<song number="199" name="Следуй за Мной, когда море бушует" canon="false" text="В. Белых" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Следуй за Мной, когда море бушует.</plain>
@@ -56,4 +56,4 @@
             <plain>Следуй, лишь следуй за Мной.</plain>
         </string>
     </verse>
-</psalm>
+</song>

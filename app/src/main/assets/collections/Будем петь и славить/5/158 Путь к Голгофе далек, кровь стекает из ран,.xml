@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="158" name="Путь к Голгофе далек, кровь стекает из ран," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="158" name="Путь к Голгофе далек, кровь стекает из ран," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Путь к Голгофе далек, кровь стекает из ран,</plain>
@@ -75,4 +75,4 @@
             <plain>Припевы 1-й и 2-й.</plain>
         </string>
     </verse>
-</psalm>
+</song>

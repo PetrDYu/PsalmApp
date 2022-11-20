@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="11" name="Мне с Тобой не страшно, Боже, и во тьме," canon="false" text="" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+<song number="11" name="Мне с Тобой не страшно, Боже, и во тьме," canon="false" text="" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Мне с Тобой не страшно, Боже, и во тьме,</plain>
@@ -16,4 +16,4 @@
             <plain>la nuit comme le jour est lumiére.</plain>
         </string>
     </verse>
-</psalm>
+</song>

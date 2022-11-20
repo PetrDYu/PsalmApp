@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="311" name="Адонай, Ты Пастырь добрый мой" canon="false" text="" textRus="М. Винецкой" music="сестры Рахэль" additionalInfo="">
+<song number="311" name="Адонай, Ты Пастырь добрый мой" canon="false" text="" textRus="М. Винецкой" music="сестры Рахэль" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Адонай, Ты Пастырь добрый мой.</plain>
@@ -63,4 +63,4 @@
             <plain>О, как я жажду пребывать в Твоем доме вовек!</plain>
         </string>
     </verse>
-</psalm>
+</song>

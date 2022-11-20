@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="282" name="Радуйтесь всегда, молитесь непрестанно," canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="282" name="Радуйтесь всегда, молитесь непрестанно," canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="1">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -60,4 +60,4 @@
             <plain>1-й куплет.</plain>
         </string>
     </verse>
-</psalm>
+</song>

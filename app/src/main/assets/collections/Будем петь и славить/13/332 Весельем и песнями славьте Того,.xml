@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="332" name="Весельем и песнями славьте Того," canon="false" text="Гокама" textRus="Г. Грановской" music="Гокама" additionalInfo="">
+<song number="332" name="Весельем и песнями славьте Того," canon="false" text="Гокама" textRus="Г. Грановской" music="Гокама" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Весельем и песнями славьте Того,</plain>
@@ -46,4 +46,4 @@
             <plain>Потому что Иисус Мессия нас пришел спасти!»</plain>
         </string>
     </verse>
-</psalm>
+</song>

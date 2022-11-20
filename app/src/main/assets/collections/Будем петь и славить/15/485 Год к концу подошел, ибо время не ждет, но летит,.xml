@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="485" name="Год к концу подошел, ибо время не ждет, но летит," canon="false" text="Ю. Шевчук" textRus="" music="Ю. Шевчук" additionalInfo="">
+<song number="485" name="Год к концу подошел, ибо время не ждет, но летит," canon="false" text="Ю. Шевчук" textRus="" music="Ю. Шевчук" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Год к концу подошел, ибо время не ждет, но летит,</plain>
@@ -100,4 +100,4 @@
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
-</psalm>
+</song>

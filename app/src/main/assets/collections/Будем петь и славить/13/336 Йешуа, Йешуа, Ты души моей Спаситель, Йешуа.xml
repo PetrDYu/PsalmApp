@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="336" name="Йешуа, Йешуа, Ты души моей Спаситель, Йешуа" canon="false" text="El Shaddai Congregation" textRus="И. Языковой, Ю. Пастернака" music="El Shaddai Congregation" additionalInfo="">
+<song number="336" name="Йешуа, Йешуа, Ты души моей Спаситель, Йешуа" canon="false" text="El Shaddai Congregation" textRus="И. Языковой, Ю. Пастернака" music="El Shaddai Congregation" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Йешуа, Йешуа, Ты души моей Спаситель, Йешуа.</plain>
@@ -14,4 +14,4 @@
             <plain>И Слово Твое, как свет во тьме. Йешуа, люблю Тебя, люблю Тебя!</plain>
         </string>
     </verse>
-</psalm>
+</song>

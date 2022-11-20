@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="467" name="О, ты прекрасна, возлюбленная, ты прекрасна" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="467" name="О, ты прекрасна, возлюбленная, ты прекрасна" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="0">
         <string>
             <plain>О, ты прекрасна, возлюбленная, ты прекрасна!</plain>
@@ -80,4 +80,4 @@
             <plain>Положи, как перстень, меня, положи на руку твою.</plain>
         </string>
     </verse>
-</psalm>
+</song>

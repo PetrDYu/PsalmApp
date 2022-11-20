@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="50" name="Слава Тебе, Отче, слава Тебе, Иисус," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="" additionalInfo="">
+<song number="50" name="Слава Тебе, Отче, слава Тебе, Иисус," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Слава Тебе, Отче, слава Тебе, Иисус,</plain>
@@ -13,4 +13,4 @@
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

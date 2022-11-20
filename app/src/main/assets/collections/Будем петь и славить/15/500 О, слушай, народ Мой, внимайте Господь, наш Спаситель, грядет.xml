@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="500" name="О, слушай, народ Мой, внимайте Господь, наш Спаситель, грядет" canon="false" text="О. Греджевой" textRus="" music="" additionalInfo="">
+<song number="500" name="О, слушай, народ Мой, внимайте Господь, наш Спаситель, грядет" canon="false" text="О. Греджевой" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>О, слушай, народ Мой, внимайте: Господь, наш Спаситель, грядет!</plain>
@@ -55,4 +55,4 @@
             <plain>Припев.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="62" name="Песней Господа восславь Воспой воскресшему Царю" canon="false" text="Т. Петтигроува" textRus="Ю. Пастернака" music="Т. Петтигроува" additionalInfo="">
+<song number="62" name="Песней Господа восславь Воспой воскресшему Царю" canon="false" text="Т. Петтигроува" textRus="Ю. Пастернака" music="Т. Петтигроува" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Песней Господа восславь! Воспой воскресшему Царю!</plain>
@@ -10,4 +10,4 @@
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

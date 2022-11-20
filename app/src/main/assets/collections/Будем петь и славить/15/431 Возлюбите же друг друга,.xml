@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="431" name="Возлюбите же друг друга," canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+<song number="431" name="Возлюбите же друг друга," canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Возлюбите же друг друга,</plain>
@@ -80,4 +80,4 @@
             <plain>Пребудьте же в Моей любви.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="121" name="Помилуй, о Боже, помилуй меня" canon="false" text="" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="121" name="Помилуй, о Боже, помилуй меня" canon="false" text="" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Помилуй, о Боже, помилуй меня!</plain>
@@ -70,4 +70,4 @@
             <plain>Готово сердце мое.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="278" name="В Вифлееме Царь родился в те далекие года," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="278" name="В Вифлееме Царь родился в те далекие года," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>В Вифлееме Царь родился в те далекие года,</plain>
@@ -55,4 +55,4 @@
             <plain>Где сияет вечным светом Вифлеемская звезда.</plain>
         </string>
     </verse>
-</psalm>
+</song>

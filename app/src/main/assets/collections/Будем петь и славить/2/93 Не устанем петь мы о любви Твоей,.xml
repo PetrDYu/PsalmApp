@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="93" name="Не устанем петь мы о любви Твоей," canon="false" text="Н.-А. Шефно" textRus="" music="Н.-А. Шефно" additionalInfo="">
+<song number="93" name="Не устанем петь мы о любви Твоей," canon="false" text="Н.-А. Шефно" textRus="" music="Н.-А. Шефно" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Не устанем петь мы о любви Твоей,</plain>
@@ -42,4 +42,4 @@
             <plain>«Среди мертвых не ищи ты Того, Кто жив».</plain>
         </string>
     </verse>
-</psalm>
+</song>

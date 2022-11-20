@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="528" name="Мой Господь, в этот час я склоняюсь в мольбе," canon="false" text="В. Кушнир" textRus="" music="" additionalInfo="">
+<song number="528" name="Мой Господь, в этот час я склоняюсь в мольбе," canon="false" text="В. Кушнир" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Мой Господь, в этот час я склоняюсь в мольбе,</plain>
@@ -56,4 +56,4 @@
             <plain>Свою Церковь возьмешь от скорбей и от зла.</plain>
         </string>
     </verse>
-</psalm>
+</song>

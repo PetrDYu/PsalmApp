@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="13" name="Даруй, о Господи, мир Твой всем тем, кто верит в Тебя" canon="false" text="" textRus="Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+<song number="13" name="Даруй, о Господи, мир Твой всем тем, кто верит в Тебя" canon="false" text="" textRus="Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Даруй, о Господи, мир Твой всем тем, кто верит в Тебя.</plain>
@@ -16,4 +16,4 @@
             <plain>Dona, dona la pace, Signore, dona la pace.</plain>
         </string>
     </verse>
-</psalm>
+</song>

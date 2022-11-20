@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="313" name="Царь царей, Господь наш Бог, слава, аллилуйя" canon="false" text="Софи Конти и Наоми Батья" textRus="" music="Еврейская народная" additionalInfo="">
+<song number="313" name="Царь царей, Господь наш Бог, слава, аллилуйя" canon="false" text="Софи Конти и Наоми Батья" textRus="" music="Еврейская народная" additionalInfo="">
     <verse number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -12,4 +12,4 @@
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="106" name="Пой аллилуйя Господу" canon="false" text="" textRus="" music="Л. Стассен" additionalInfo="">
+<song number="106" name="Пой аллилуйя Господу" canon="false" text="" textRus="" music="Л. Стассен" additionalInfo="">
     <verse number="1">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -64,4 +64,4 @@
             <plain>Воздайте славу Господу!</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="331" name="Будет слышен в селеньях Иуды" canon="false" text="" textRus="Н. Чернышев" music="Традиционная еврейская" additionalInfo="">
+<song number="331" name="Будет слышен в селеньях Иуды" canon="false" text="" textRus="Н. Чернышев" music="Традиционная еврейская" additionalInfo="">
     <verse number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -38,4 +38,4 @@
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="337" name="Мой мир вам, друзья, Мой мир вам, друзья, шалом, шалом" canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="" additionalInfo="">
+<song number="337" name="Мой мир вам, друзья, Мой мир вам, друзья, шалом, шалом" canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Мой мир вам, друзья, Мой мир вам, друзья, шалом, шалом!</plain>
@@ -16,4 +16,4 @@
             <plain>ЛЭИТРАО́Т ЛЭИТРАО́Т ШАЛО́М ШАЛО́М</plain>
         </string>
     </verse>
-</psalm>
+</song>

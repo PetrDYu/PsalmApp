@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="295" name="Господь мой, как о Тебе молчать" canon="false" text="Дж. Ристо" textRus="" music="Дж. Ристо" additionalInfo="">
+<song number="295" name="Господь мой, как о Тебе молчать" canon="false" text="Дж. Ристо" textRus="" music="Дж. Ристо" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Господь мой, как о Тебе молчать?</plain>
@@ -56,4 +56,4 @@
             <plain>Чтоб горели наши сердца.</plain>
         </string>
     </verse>
-</psalm>
+</song>

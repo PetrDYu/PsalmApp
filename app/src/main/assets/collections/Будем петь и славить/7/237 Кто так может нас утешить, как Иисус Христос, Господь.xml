@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="237" name="Кто так может нас утешить, как Иисус Христос, Господь" canon="false" text="Т. Харриса" textRus="" music="Т. Харриса" additionalInfo="">
+<song number="237" name="Кто так может нас утешить, как Иисус Христос, Господь" canon="false" text="Т. Харриса" textRus="" music="Т. Харриса" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Кто так может нас утешить, как Иисус Христос, Господь?</plain>
@@ -48,4 +48,4 @@
             <plain>Буду вечно со святыми прославлять Христа Царя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

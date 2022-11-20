@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="97" name="Через хлеб и вино мы с Тобою одно" canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+<song number="97" name="Через хлеб и вино мы с Тобою одно" canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
     <chorus number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -42,4 +42,4 @@
             <plain>Бог Вселенной примет нас, как детей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -77,7 +77,14 @@ fun VerseView(
     showType: SongShowTypes,
     verse: SongPart.Verse,
 ) {
-
+    Row(modifier) {
+        Text("${verse.number}")
+        Column {
+            for (line in verse.lines) {
+                LineView(showType = showType, line = line)
+            }
+        }
+    }
 }
 
 @Composable
@@ -86,7 +93,14 @@ fun BridgeView(
     showType: SongShowTypes,
     bridge: SongPart.Bridge,
 ) {
-
+    Row(modifier) {
+        Text("Мост:")
+        Column {
+            for (line in bridge.lines) {
+                LineView(showType = showType, line = line)
+            }
+        }
+    }
 }
 
 @Composable

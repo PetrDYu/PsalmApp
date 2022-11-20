@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="333" name="Горит Твой свет в моей ночи, силен я силою Твоей" canon="false" text="Джоэля Чернофа, Дэниэла бен Йосефа" textRus="И. Языковой, Ю. Пастернака" music="Джоэля Чернофа, Дэниэла бен Йосефа" additionalInfo="">
+<song number="333" name="Горит Твой свет в моей ночи, силен я силою Твоей" canon="false" text="Джоэля Чернофа, Дэниэла бен Йосефа" textRus="И. Языковой, Ю. Пастернака" music="Джоэля Чернофа, Дэниэла бен Йосефа" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Горит Твой свет в моей ночи, силен я силою Твоей.</plain>
@@ -34,4 +34,4 @@
             <plain>Лай, лай, лай...</plain>
         </string>
     </verse>
-</psalm>
+</song>

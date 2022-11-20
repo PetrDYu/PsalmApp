@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="190" name="Спаситель, говори нам всегда, во всякий час" canon="false" text="обр. Л. Л. Пикетта" textRus="" music="обр. Л. Л. Пикетта" additionalInfo="">
+<song number="190" name="Спаситель, говори нам всегда, во всякий час" canon="false" text="обр. Л. Л. Пикетта" textRus="" music="обр. Л. Л. Пикетта" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Спаситель, говори нам всегда, во всякий час</plain>
@@ -56,4 +56,4 @@
             <plain>Творить Твою лишь волю и в Твой войти покой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="450" name="Душа, возвратись в твой покой," canon="false" text="" textRus="" music="общины Taizé Канон" additionalInfo="">
+<song number="450" name="Душа, возвратись в твой покой," canon="false" text="" textRus="" music="общины Taizé Канон" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Душа, возвратись в твой покой,</plain>
@@ -17,4 +17,4 @@
             <plain>(Душа…  – в конце)</plain>
         </string>
     </verse>
-</psalm>
+</song>

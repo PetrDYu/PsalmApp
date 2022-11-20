@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="60" name="Руки воздень твой Господь идет " canon="false" text="С. Л. Фрая" textRus="Ю. Пастернака" music="С. Л. Фрая" additionalInfo="">
+<song number="60" name="Руки воздень твой Господь идет " canon="false" text="С. Л. Фрая" textRus="Ю. Пастернака" music="С. Л. Фрая" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Руки воздень – твой Господь идет –</plain>
@@ -14,4 +14,4 @@
             <plain>И прославь своею жизнью нашего Царя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

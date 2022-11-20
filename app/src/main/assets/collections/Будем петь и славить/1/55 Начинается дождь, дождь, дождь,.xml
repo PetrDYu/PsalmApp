@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="55" name="Начинается дождь, дождь, дождь," canon="false" text="" textRus="Ю. Пастернака" music="Шотландская народная" additionalInfo="">
+<song number="55" name="Начинается дождь, дождь, дождь," canon="false" text="" textRus="Ю. Пастернака" music="Шотландская народная" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Начинается дождь, дождь, дождь,</plain>
@@ -23,4 +23,4 @@
             <plain>Начинается дождь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

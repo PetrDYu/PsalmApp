@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="35" name="Боже, верю я в Тебя, Иисус, прими меня," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="35" name="Боже, верю я в Тебя, Иисус, прими меня," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Боже, верю я в Тебя, Иисус, прими меня,</plain>
@@ -8,4 +8,4 @@
             <plain>Дух Святой, владей Ты мною, жизнь новую твори.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="273" name="Как Христос родился, в грешный мир явился " canon="false" text="" textRus="М. Винецкой" music="М.М. Миодушевского" additionalInfo="">
+<song number="273" name="Как Христос родился, в грешный мир явился " canon="false" text="" textRus="М. Винецкой" music="М.М. Миодушевского" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Как Христос родился, в грешный мир явился –</plain>
@@ -54,4 +54,4 @@
             <plain>И в вертепе том убогом возблагодарите Бога.</plain>
         </string>
     </verse>
-</psalm>
+</song>

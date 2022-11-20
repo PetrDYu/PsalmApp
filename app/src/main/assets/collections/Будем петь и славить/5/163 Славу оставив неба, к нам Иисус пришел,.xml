@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="163" name="Славу оставив неба, к нам Иисус пришел," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="163" name="Славу оставив неба, к нам Иисус пришел," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Славу оставив неба, к нам Иисус пришел,</plain>
@@ -46,4 +46,4 @@
             <plain>Спеши, пока не поздно, скорей войти.</plain>
         </string>
     </verse>
-</psalm>
+</song>

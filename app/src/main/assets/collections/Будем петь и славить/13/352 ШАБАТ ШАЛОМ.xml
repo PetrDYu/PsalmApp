@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="352" name="ШАБАТ ШАЛОМ" canon="false" text="" textRus="" music="Традиционная еврейская" additionalInfo="">
+<song number="352" name="ШАБАТ ШАЛОМ" canon="false" text="" textRus="" music="Традиционная еврейская" additionalInfo="">
     <verse number="0">
         <string>
             <plain>ШАБА́Т ШАЛО́М</plain>
@@ -28,4 +28,4 @@
             <plain>ШАБА́Т ШАЛО́М</plain>
         </string>
     </verse>
-</psalm>
+</song>

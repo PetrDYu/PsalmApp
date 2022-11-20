@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="362" name="Милость Твоя выше неба, милость Твоя шире поля," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="362" name="Милость Твоя выше неба, милость Твоя шире поля," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Милость Твоя выше неба, милость Твоя шире поля,</plain>
@@ -33,4 +33,4 @@
             <plain>Дотронутся руками до пола; 4. Выпрямиться.</plain>
         </string>
     </verse>
-</psalm>
+</song>

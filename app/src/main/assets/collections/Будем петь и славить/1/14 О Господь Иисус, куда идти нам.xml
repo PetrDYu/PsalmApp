@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="14" name="О Господь Иисус, куда идти нам" canon="false" text="" textRus="Ю. Пастернака" music="общины Taizé" additionalInfo="">
+<song number="14" name="О Господь Иисус, куда идти нам" canon="false" text="" textRus="Ю. Пастернака" music="общины Taizé" additionalInfo="">
     <verse number="0">
         <string>
             <plain>О Господь Иисус, куда идти нам?</plain>
@@ -30,4 +30,4 @@
             <plain>Sohn des lebendigen Gottes.</plain>
         </string>
     </verse>
-</psalm>
+</song>

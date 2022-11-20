@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="508" name="Иегова Рафа, Иегова Ире, Иегова Нисси," canon="false" text="В. Коропа" textRus="" music="В. Коропа" additionalInfo="">
+<song number="508" name="Иегова Рафа, Иегова Ире, Иегова Нисси," canon="false" text="В. Коропа" textRus="" music="В. Коропа" additionalInfo="">
     <verse number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -29,4 +29,4 @@
             <plain>(Иегова Рафа. – в конце)</plain>
         </string>
     </verse>
-</psalm>
+</song>

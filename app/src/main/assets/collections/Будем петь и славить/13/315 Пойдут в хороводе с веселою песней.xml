@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="315" name="Пойдут в хороводе с веселою песней" canon="false" text="М. Уотсон" textRus="Ю. Пастернака" music="М. Уотсон" additionalInfo="">
+<song number="315" name="Пойдут в хороводе с веселою песней" canon="false" text="М. Уотсон" textRus="Ю. Пастернака" music="М. Уотсон" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Пойдут в хороводе с веселою песней</plain>
@@ -28,4 +28,4 @@
             <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

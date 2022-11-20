@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="231" name="Куда б Ты ни повел меня, Я знаю, что Ты там" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="231" name="Куда б Ты ни повел меня, Я знаю, что Ты там" canon="false" text="" textRus="" music="" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Куда б Ты ни повел меня, Я знаю, что Ты там:</plain>
@@ -35,4 +35,4 @@
             <plain>Прославить я хочу Тебя, мой Бог, как Ты велик!</plain>
         </string>
     </verse>
-</psalm>
+</song>

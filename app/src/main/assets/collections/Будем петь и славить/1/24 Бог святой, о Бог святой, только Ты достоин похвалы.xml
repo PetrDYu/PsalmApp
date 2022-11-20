@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="24" name="Бог святой, о Бог святой, только Ты достоин похвалы" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="24" name="Бог святой, о Бог святой, только Ты достоин похвалы" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Бог святой, о Бог святой, только Ты достоин похвалы.</plain>
@@ -14,4 +14,4 @@
             <plain>Ты свят и чист, о как велик мой Бог святой!</plain>
         </string>
     </verse>
-</psalm>
+</song>

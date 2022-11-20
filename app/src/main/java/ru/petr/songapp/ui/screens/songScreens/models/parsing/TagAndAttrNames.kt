@@ -17,5 +17,11 @@ enum class TagAndAttrNames(val _name: String) {
     NUMBER_ATTR("number"),
     IS_OPENING_ATTR("is_opening"),
     REP_RATE_ATTR("rep_rate"),
+    NAME_ATTR("name"),
+    CANON_ATTR("canon"),
+    TEXT_ATTR("text"),
+    TEXT_RUS_ATTR("textRus"),
+    MUSIC_ATTR("music"),
+    ADDITIONAL_INFO_ATTR("additionalInfo")
 
 }

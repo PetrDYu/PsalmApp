@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="438" name="На кифаре и на лире я Твое прославлю имя" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+<song number="438" name="На кифаре и на лире я Твое прославлю имя" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>На кифаре и на лире я Твое прославлю имя.</plain>
@@ -41,4 +41,4 @@
             <plain>1-й куплет.</plain>
         </string>
     </verse>
-</psalm>
+</song>

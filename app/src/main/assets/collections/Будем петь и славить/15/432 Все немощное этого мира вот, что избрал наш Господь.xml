@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="432" name="Все немощное этого мира вот, что избрал наш Господь" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="432" name="Все немощное этого мира вот, что избрал наш Господь" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Все немощное этого мира – вот, что избрал наш Господь.</plain>
@@ -14,4 +14,4 @@
             <plain>Дух любви, приди, мы зовем Тебя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

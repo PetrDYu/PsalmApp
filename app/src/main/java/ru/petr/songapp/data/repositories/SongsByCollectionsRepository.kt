@@ -4,35 +4,35 @@ import androidx.annotation.WorkerThread
 import kotlinx.coroutines.flow.*
 import ru.petr.songapp.data.models.songData.SongDBModel
 import ru.petr.songapp.data.models.songData.dao.SongDao
-import ru.petr.songapp.data.repositories.utils.SongCollectionView
+import ru.petr.songapp.data.repositories.utils.SongCollectionFlow
 
 class SongsByCollectionsRepository (private val songDao: SongDao, private val songCollectionsRepository: SongCollectionsRepository) {
 
-    var songsByCollections: Flow<List<SongCollectionView>> =
+    var songsByCollections: Flow<List<SongCollectionFlow>> =
         songCollectionsRepository.allCollections.map { collections ->
-            val songCollectionViewList: MutableList<SongCollectionView> = mutableListOf()
+            val songCollectionFlowList: MutableList<SongCollectionFlow> = mutableListOf()
             collections.forEach { collection ->
-                songCollectionViewList.add(SongCollectionView(collection, songDao.getCollectionSongsNames(collection.id)))
+                songCollectionFlowList.add(SongCollectionFlow(collection, songDao.getCollectionSongsNames(collection.id)))
             }
-            songCollectionViewList
+            songCollectionFlowList
         }
 
     init {
         /*CoroutineScope(Dispatchers.IO).launch {
             *//*songCollectionsRepository.allCollections.collect { collections ->
                 songsByCollections = flow{
-                    val songCollectionViewList: MutableList<SongCollectionView> = mutableListOf()
+                    val songCollectionViewList: MutableList<SongCollectionFlow> = mutableListOf()
                     collections.forEach {
-                        songCollectionViewList.add(SongCollectionView(it, songDao.getCollectionSongsNames(it.id)))
+                        songCollectionViewList.add(SongCollectionFlow(it, songDao.getCollectionSongsNames(it.id)))
                     }
                     emit(songCollectionViewList)
                 }
             }*//*
 
             songsByCollections = songCollectionsRepository.allCollections.map { collections ->
-                val songCollectionViewList: MutableList<SongCollectionView> = mutableListOf()
+                val songCollectionViewList: MutableList<SongCollectionFlow> = mutableListOf()
                 collections.forEach { collection ->
-                    songCollectionViewList.add(SongCollectionView(collection, songDao.getCollectionSongsNames(collection.id)))
+                    songCollectionViewList.add(SongCollectionFlow(collection, songDao.getCollectionSongsNames(collection.id)))
                 }
                 songCollectionViewList
             }

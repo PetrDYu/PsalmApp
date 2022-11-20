@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="181" name="Не воинством и не силой, не воинством и не силой," canon="false" text="Клэр, малой сестры Иисуса" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="181" name="Не воинством и не силой, не воинством и не силой," canon="false" text="Клэр, малой сестры Иисуса" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Не воинством и не силой, не воинством и не силой,</plain>
@@ -21,4 +21,4 @@
             <plain>(Приди, Дух Творец, приди, Дух Святой)</plain>
         </string>
     </verse>
-</psalm>
+</song>

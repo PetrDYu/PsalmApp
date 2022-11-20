@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="449" name="Я Тебя ищу, Тебя зову, Боже мой милый" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+<song number="449" name="Я Тебя ищу, Тебя зову, Боже мой милый" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Я Тебя ищу, Тебя зову, Боже мой милый.</plain>
@@ -40,4 +40,4 @@
             <plain>Ты, как день, сияющий в ночи, свет жизни каждой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

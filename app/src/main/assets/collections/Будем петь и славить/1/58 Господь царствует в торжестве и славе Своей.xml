@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="58" name="Господь царствует в торжестве и славе Своей" canon="false" text="" textRus="Ю. Пастернака" music="" additionalInfo="">
+<song number="58" name="Господь царствует в торжестве и славе Своей" canon="false" text="" textRus="Ю. Пастернака" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Господь царствует в торжестве и славе Своей.</plain>
@@ -8,4 +8,4 @@
             <plain>Хвалим мы Тебя, Боже наш, славим мы Тебя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

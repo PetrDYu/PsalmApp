@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="45" name="Наш Господь победу совершил," canon="false" text="Д. Гаррета" textRus="" music="Д. Гаррета" additionalInfo="">
+<song number="45" name="Наш Господь победу совершил," canon="false" text="Д. Гаррета" textRus="" music="Д. Гаррета" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Наш Господь победу совершил,</plain>
@@ -33,4 +33,4 @@
             <plain>И вся земля увидит то, что...</plain>
         </string>
     </verse>
-</psalm>
+</song>

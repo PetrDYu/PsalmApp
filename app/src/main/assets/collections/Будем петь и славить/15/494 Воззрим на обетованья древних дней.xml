@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="494" name="Воззрим на обетованья древних дней" canon="false" text="Дж. М. Грэя, М. Рэдмана" textRus="" music="С. Морозова" additionalInfo="">
+<song number="494" name="Воззрим на обетованья древних дней" canon="false" text="Дж. М. Грэя, М. Рэдмана" textRus="" music="С. Морозова" additionalInfo="">
     <verse number="1">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -36,4 +36,4 @@
             <plain>То Ты придешь и исцелишь землю сию.</plain>
         </string>
     </verse>
-</psalm>
+</song>

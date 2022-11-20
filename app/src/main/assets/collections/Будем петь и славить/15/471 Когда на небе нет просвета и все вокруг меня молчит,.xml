@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="471" name="Когда на небе нет просвета и все вокруг меня молчит," canon="false" text="Терезы Малой из Лизьё" textRus="" music="бр. Эфраима" additionalInfo="">
+<song number="471" name="Когда на небе нет просвета и все вокруг меня молчит," canon="false" text="Терезы Малой из Лизьё" textRus="" music="бр. Эфраима" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Когда на небе нет просвета и все вокруг меня молчит,</plain>
@@ -77,4 +77,4 @@
             <plain>Не в смерти радость и не в жизни, а лишь в одном – Тебя любить!</plain>
         </string>
     </verse>
-</psalm>
+</song>

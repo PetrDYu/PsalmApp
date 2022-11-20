@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="57" name="Вы свет миру, вам Господь сказал," canon="false" text="" textRus="Е. Орловой, И. Языковой" music="" additionalInfo="">
+<song number="57" name="Вы свет миру, вам Господь сказал," canon="false" text="" textRus="Е. Орловой, И. Языковой" music="" additionalInfo="">
     <verse number="1">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -30,4 +30,4 @@
             <repeat id="3" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

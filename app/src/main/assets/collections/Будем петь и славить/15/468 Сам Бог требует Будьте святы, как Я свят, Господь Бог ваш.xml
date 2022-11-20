@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="468" name="Сам Бог требует Будьте святы, как Я свят, Господь Бог ваш" canon="false" text="преп. Иоанна Кронштадтского" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="468" name="Сам Бог требует Будьте святы, как Я свят, Господь Бог ваш" canon="false" text="преп. Иоанна Кронштадтского" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Сам Бог требует: «Будьте святы, как Я свят, Господь Бог ваш».</plain>
@@ -17,4 +17,4 @@
             <plain>Сам Бог требует: «Будьте святы, как свят Бог ваш».</plain>
         </string>
     </verse>
-</psalm>
+</song>

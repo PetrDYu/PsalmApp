@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="29" name="Призываю Тебя, приди, укрепи меня," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="29" name="Призываю Тебя, приди, укрепи меня," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Призываю Тебя, приди, укрепи меня,</plain>
@@ -20,4 +20,4 @@
             <plain>Приди, Дух Святой! (2)</plain>
         </string>
     </verse>
-</psalm>
+</song>

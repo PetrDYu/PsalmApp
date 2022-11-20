@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="124" name="Твой Лик Отчизна моя," canon="false" text="Терезы Малой из Лизьё" textRus="И. Языковой, Ю. Пастернака" music="бр. Эфраима" additionalInfo="">
+<song number="124" name="Твой Лик Отчизна моя," canon="false" text="Терезы Малой из Лизьё" textRus="И. Языковой, Ю. Пастернака" music="бр. Эфраима" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Твой Лик – Отчизна моя,</plain>
@@ -46,4 +46,4 @@
             <plain>Чтобы однажды, став святою, привлекать к Тебе сердца людей.</plain>
         </string>
     </verse>
-</psalm>
+</song>

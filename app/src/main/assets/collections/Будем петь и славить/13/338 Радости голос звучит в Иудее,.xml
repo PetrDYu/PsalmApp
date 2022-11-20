@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="338" name="Радости голос звучит в Иудее," canon="false" text="Шломо Карлибаха" textRus="Ю. Пастернака" music="Шломо Карлибаха" additionalInfo="">
+<song number="338" name="Радости голос звучит в Иудее," canon="false" text="Шломо Карлибаха" textRus="Ю. Пастернака" music="Шломо Карлибаха" additionalInfo="">
     <verse number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -59,4 +59,4 @@
             <repeat id="5" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

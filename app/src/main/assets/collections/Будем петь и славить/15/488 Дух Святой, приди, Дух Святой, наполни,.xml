@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="488" name="Дух Святой, приди, Дух Святой, наполни," canon="false" text="Р. Исмаилова" textRus="" music="Р. Исмаилова" additionalInfo="">
+<song number="488" name="Дух Святой, приди, Дух Святой, наполни," canon="false" text="Р. Исмаилова" textRus="" music="Р. Исмаилова" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Дух Святой, приди, Дух Святой, наполни,</plain>
@@ -81,4 +81,4 @@
             <plain>1-й куплет.</plain>
         </string>
     </verse>
-</psalm>
+</song>

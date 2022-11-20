@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="243" name="Крепка, как смерть, Твоя любовь, она чиста и глубока" canon="false" text="Т. Витман" textRus="" music="Т. Витман" additionalInfo="">
+<song number="243" name="Крепка, как смерть, Твоя любовь, она чиста и глубока" canon="false" text="Т. Витман" textRus="" music="Т. Витман" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Крепка, как смерть, Твоя любовь, она чиста и глубока.</plain>
@@ -70,4 +70,4 @@
             <plain>Твой образ в сердце отражать, меня в Себя преобрази.</plain>
         </string>
     </verse>
-</psalm>
+</song>

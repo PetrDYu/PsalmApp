@@ -39,6 +39,9 @@ data class SongDBModel(
 
     @ColumnInfo(name = "Body")
     val body: String,
+
+    @ColumnInfo(name = "PlainText")
+    val plainText: String,
 )
 
 data class SongData(

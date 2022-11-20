@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="527" name="Прославляю Тебя, о мой Спаситель Иисус," canon="false" text="Л. Мироненковой" textRus="" music="Л. Мироненковой" additionalInfo="">
+<song number="527" name="Прославляю Тебя, о мой Спаситель Иисус," canon="false" text="Л. Мироненковой" textRus="" music="Л. Мироненковой" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Прославляю Тебя, о мой Спаситель Иисус,</plain>
@@ -52,4 +52,4 @@
             <plain>На земле здесь и в Царстве Христа.</plain>
         </string>
     </verse>
-</psalm>
+</song>

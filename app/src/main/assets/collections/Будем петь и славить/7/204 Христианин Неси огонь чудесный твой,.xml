@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="204" name="Христианин Неси огонь чудесный твой," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="204" name="Христианин Неси огонь чудесный твой," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Христианин! Неси огонь чудесный твой,</plain>
@@ -73,4 +73,4 @@
             <plain>Он сохранит светильник твой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

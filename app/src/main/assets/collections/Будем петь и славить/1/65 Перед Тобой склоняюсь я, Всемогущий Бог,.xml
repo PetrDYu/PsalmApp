@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="65" name="Перед Тобой склоняюсь я, Всемогущий Бог," canon="false" text="С. Корбет-Вуд" textRus="" music="С. Корбет-Вуд" additionalInfo="">
+<song number="65" name="Перед Тобой склоняюсь я, Всемогущий Бог," canon="false" text="С. Корбет-Вуд" textRus="" music="С. Корбет-Вуд" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Перед Тобой склоняюсь я, Всемогущий Бог,</plain>
@@ -14,4 +14,4 @@
             <plain>Перед Тобой склоняюсь я. Ты – любовь моя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

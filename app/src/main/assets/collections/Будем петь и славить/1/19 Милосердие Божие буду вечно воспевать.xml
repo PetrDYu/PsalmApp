@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="19" name="Милосердие Божие буду вечно воспевать" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+<song number="19" name="Милосердие Божие буду вечно воспевать" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Милосердие Божие буду вечно воспевать!</plain>
@@ -8,4 +8,4 @@
             <plain>Misericordias Domini in aeternum cantabo!</plain>
         </string>
     </verse>
-</psalm>
+</song>

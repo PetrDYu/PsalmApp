@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="460" name="Вы наше письмо, написанное в наших сердцах," canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="460" name="Вы наше письмо, написанное в наших сердцах," canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Вы – наше письмо, написанное в наших сердцах,</plain>
@@ -46,4 +46,4 @@
             <plain>Но на плотяных скрижалях сердца.</plain>
         </string>
     </verse>
-</psalm>
+</song>

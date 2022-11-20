@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="299" name="Благодарю, Создатель мой," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="299" name="Благодарю, Создатель мой," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Благодарю, Создатель мой,</plain>
@@ -55,4 +55,4 @@
             <plain>Припев 2 р.</plain>
         </string>
     </verse>
-</psalm>
+</song>

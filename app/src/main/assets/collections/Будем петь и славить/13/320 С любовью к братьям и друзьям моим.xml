@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="320" name="С любовью к братьям и друзьям моим" canon="false" text="" textRus="М. Винецкой" music="Традиционная еврейская" additionalInfo="">
+<song number="320" name="С любовью к братьям и друзьям моим" canon="false" text="" textRus="М. Винецкой" music="Традиционная еврейская" additionalInfo="">
     <verse number="1">
         <string>
             <plain>С любовью к братьям и друзьям моим</plain>
@@ -56,4 +56,4 @@
             <plain>Бог милосердный твой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

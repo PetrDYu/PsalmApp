@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="385" name="Как прекрасен Божий мир Славьте Бога, славьте" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="385" name="Как прекрасен Божий мир Славьте Бога, славьте" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Как прекрасен Божий мир! Славьте Бога, славьте!</plain>
@@ -27,4 +27,4 @@
             <plain>Птицы радостно поют. Пойте Богу, пойте!</plain>
         </string>
     </verse>
-</psalm>
+</song>

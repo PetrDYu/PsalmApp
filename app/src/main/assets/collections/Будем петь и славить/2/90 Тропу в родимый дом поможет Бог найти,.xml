@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="90" name="Тропу в родимый дом поможет Бог найти," canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева." music="А. Ашикяна" additionalInfo="">
+<song number="90" name="Тропу в родимый дом поможет Бог найти," canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева." music="А. Ашикяна" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Тропу в родимый дом поможет Бог найти,</plain>
@@ -68,4 +68,4 @@
             <plain>Припев 2 р.</plain>
         </string>
     </verse>
-</psalm>
+</song>

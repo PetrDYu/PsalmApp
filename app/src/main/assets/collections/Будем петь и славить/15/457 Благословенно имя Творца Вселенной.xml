@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="457" name="Благословенно имя Творца Вселенной" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
+<song number="457" name="Благословенно имя Творца Вселенной" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Благословенно имя Творца Вселенной.</plain>
@@ -22,4 +22,4 @@
             <plain>Nunc et in saecula benedictum.</plain>
         </string>
     </verse>
-</psalm>
+</song>

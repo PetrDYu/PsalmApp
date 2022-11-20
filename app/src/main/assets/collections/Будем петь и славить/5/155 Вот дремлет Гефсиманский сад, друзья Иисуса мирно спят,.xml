@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="155" name="Вот дремлет Гефсиманский сад, друзья Иисуса мирно спят," canon="false" text="И. Проханова" textRus="" music="П. Чайковского" additionalInfo="">
+<song number="155" name="Вот дремлет Гефсиманский сад, друзья Иисуса мирно спят," canon="false" text="И. Проханова" textRus="" music="П. Чайковского" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Вот дремлет Гефсиманский сад, друзья Иисуса мирно спят,</plain>
@@ -32,4 +32,4 @@
             <plain>И Ангел Божий тут стоял и Сына Божья подкреплял.</plain>
         </string>
     </verse>
-</psalm>
+</song>

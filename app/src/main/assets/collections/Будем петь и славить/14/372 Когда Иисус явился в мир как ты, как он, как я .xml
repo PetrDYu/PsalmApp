@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="372" name="Когда Иисус явился в мир как ты, как он, как я " canon="false" text="И. Языковой" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="372" name="Когда Иисус явился в мир как ты, как он, как я " canon="false" text="И. Языковой" textRus="" music="Ю. Пастернака" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Когда Иисус явился в мир – как ты, как он, как я –</plain>
@@ -47,4 +47,4 @@
             <plain>Иосиф плотничать учил и Библию читать.</plain>
         </string>
     </verse>
-</psalm>
+</song>

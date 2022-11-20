@@ -25,7 +25,7 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
             TopAppBar(
             title = { Text(collectionName) },
             elevation = 10.dp
-        )
+            )
         },
     ) {
         crm.RenderChildComposable(

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="209" name="Прощай, когда на сердце камень ляжет" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="209" name="Прощай, когда на сердце камень ляжет" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Прощай, когда на сердце камень ляжет</plain>
@@ -82,4 +82,4 @@
             <plain>И все грехи из сердца удалит.</plain>
         </string>
     </verse>
-</psalm>
+</song>

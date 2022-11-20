@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="430" name="Величие Божье величие" canon="false" text="" textRus="Е. Трофимовой" music="Дж. У. Хэйфорда" additionalInfo="">
+<song number="430" name="Величие Божье величие" canon="false" text="" textRus="Е. Трофимовой" music="Дж. У. Хэйфорда" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Величие! Божье величие!</plain>
@@ -22,4 +22,4 @@
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

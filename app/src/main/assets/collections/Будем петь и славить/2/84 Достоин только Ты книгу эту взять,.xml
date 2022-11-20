@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="84" name="Достоин только Ты книгу эту взять," canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева" music="А. Ашикяна" additionalInfo="">
+<song number="84" name="Достоин только Ты книгу эту взять," canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева" music="А. Ашикяна" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Достоин только Ты книгу эту взять,</plain>
@@ -42,4 +42,4 @@
             <plain>Ибо Ты, только Ты заклан был за нас.</plain>
         </string>
     </verse>
-</psalm>
+</song>

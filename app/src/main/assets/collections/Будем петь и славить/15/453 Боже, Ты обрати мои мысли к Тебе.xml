@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="453" name="Боже, Ты обрати мои мысли к Тебе" canon="false" text="Д. Бонхёффера" textRus="" music="общины Taizé" additionalInfo="">
+<song number="453" name="Боже, Ты обрати мои мысли к Тебе" canon="false" text="Д. Бонхёффера" textRus="" music="общины Taizé" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Боже, Ты обрати мои мысли к Тебе.</plain>
@@ -34,4 +34,4 @@
             <plain>Aber du weißt den Weg für mich.</plain>
         </string>
     </verse>
-</psalm>
+</song>

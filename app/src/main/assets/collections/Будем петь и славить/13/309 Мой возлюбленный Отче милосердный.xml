@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="309" name="Мой возлюбленный Отче милосердный" canon="false" text="Сары и Йехуды Цвейг" textRus="М. Винецкой" music="Сары и Йехуды Цвейг" additionalInfo="">
+<song number="309" name="Мой возлюбленный Отче милосердный" canon="false" text="Сары и Йехуды Цвейг" textRus="М. Винецкой" music="Сары и Йехуды Цвейг" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Мой возлюбленный Отче милосердный!</plain>
@@ -44,4 +44,4 @@
             <plain>МЭ́ШОХ А́ВДЭХА́ ЛА-ЛА-ЛА... Э́ЛЬ РЭЦО́НЭХА́</plain>
         </string>
     </chorus>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="12" name="В ночи, блуждая, слепые, мы воду живую ищем" canon="false" text="Л. Росалеса" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+<song number="12" name="В ночи, блуждая, слепые, мы воду живую ищем" canon="false" text="Л. Росалеса" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
     <verse number="0">
         <string>
             <plain>В ночи, блуждая, слепые, мы воду живую ищем.</plain>
@@ -16,4 +16,4 @@
             <plain>sólo la sed nos alumbra, sólo la sed nos alumbra.</plain>
         </string>
     </verse>
-</psalm>
+</song>

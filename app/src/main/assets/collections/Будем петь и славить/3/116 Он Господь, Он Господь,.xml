@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="116" name="Он Господь, Он Господь," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="116" name="Он Господь, Он Господь," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Он – Господь, Он – Господь,</plain>
@@ -28,4 +28,4 @@
             <plain>Иисус Христос – Господь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

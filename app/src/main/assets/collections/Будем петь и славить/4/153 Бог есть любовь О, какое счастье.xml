@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="153" name="Бог есть любовь О, какое счастье" canon="false" text="" textRus="Р. Циммермана" music="" additionalInfo="">
+<song number="153" name="Бог есть любовь О, какое счастье" canon="false" text="" textRus="Р. Циммермана" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Бог есть любовь! О, какое счастье!</plain>
@@ -113,4 +113,4 @@
             <plain>Припев.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="351" name="Вот нисходит к вам от Бога милость и мир, от Бога милость и мир" canon="false" text="Якова Шаймана" textRus="Ю. Пастернака" music="Якова Шаймана" additionalInfo="">
+<song number="351" name="Вот нисходит к вам от Бога милость и мир, от Бога милость и мир" canon="false" text="Якова Шаймана" textRus="Ю. Пастернака" music="Якова Шаймана" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Вот нисходит к вам от Бога милость и мир, от Бога милость и мир.</plain>
@@ -31,4 +31,4 @@
             <plain>ВЭ-ЯВРИ́ ЭТХЕ́М БЭ́-ХОХО́ БЭ́-ХОХО́</plain>
         </string>
     </verse>
-</psalm>
+</song>

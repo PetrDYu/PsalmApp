@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="357" name="Славен наш Бог, сильный спасать" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="357" name="Славен наш Бог, сильный спасать" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Славен наш Бог,</plain>
@@ -78,4 +78,4 @@
             <plain>РА́М АДОНА́Й НОТЭ́Н ЭТ ЙЕШУ́А НОТЭ́Н ЭТ ЙЕШУ́АТО́</plain>
         </string>
     </verse>
-</psalm>
+</song>

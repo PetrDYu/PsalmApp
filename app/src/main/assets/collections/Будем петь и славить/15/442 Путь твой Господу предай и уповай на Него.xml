@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="442" name="Путь твой Господу предай и уповай на Него" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+<song number="442" name="Путь твой Господу предай и уповай на Него" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Путь твой Господу предай и уповай на Него.</plain>
@@ -53,4 +53,4 @@
             <plain>Укрепит его любовь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

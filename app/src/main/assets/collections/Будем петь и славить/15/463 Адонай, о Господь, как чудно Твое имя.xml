@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="463" name="Адонай, о Господь, как чудно Твое имя" canon="false" text="И. Языковой, Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+<song number="463" name="Адонай, о Господь, как чудно Твое имя" canon="false" text="И. Языковой, Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Адонай, о Господь, как чудно Твое имя</plain>
@@ -84,4 +84,4 @@
             <plain>Адонай, хочу благодарить Тебя всегда!</plain>
         </string>
     </verse>
-</psalm>
+</song>

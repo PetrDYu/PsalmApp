@@ -22,7 +22,7 @@ import ru.petr.songapp.ui.screens.songCollectionScreen.SongListViewModel
 import ru.petr.songapp.ui.screens.songCollectionScreen.SongListViewModelFactory
 import ru.petr.songapp.ui.screens.songCollectionScreen.SongsListsHandler
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongScreenHandler
-import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewHandler
+import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerHandler
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewViewModel
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewViewModelFactory
 import java.util.*
@@ -119,7 +119,7 @@ class SongApp: Application() {
                             }
                         }
                     ) { composableInstance ->
-                        SongViewHandler(composableInstance = composableInstance)
+                        SongViewerHandler(composableInstance = composableInstance)
                     }
                 )
             )

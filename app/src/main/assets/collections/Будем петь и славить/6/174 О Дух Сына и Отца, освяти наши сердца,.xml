@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="174" name="О Дух Сына и Отца, освяти наши сердца," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="174" name="О Дух Сына и Отца, освяти наши сердца," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>О Дух Сына и Отца, освяти наши сердца,</plain>
@@ -48,4 +48,4 @@
             <plain>От падений сохрани, в край небесный доведи.</plain>
         </string>
     </verse>
-</psalm>
+</song>

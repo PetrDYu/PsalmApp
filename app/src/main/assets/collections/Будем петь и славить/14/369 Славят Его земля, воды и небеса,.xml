@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="369" name="Славят Его земля, воды и небеса," canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+<song number="369" name="Славят Его земля, воды и небеса," canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Славят Его земля, воды и небеса,</plain>
@@ -35,4 +35,4 @@
             <plain>Дети: аллилуйя! Славят Тебя.</plain>
         </string>
     </verse>
-</psalm>
+</song>

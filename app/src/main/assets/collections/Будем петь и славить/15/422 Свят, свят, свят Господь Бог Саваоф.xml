@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="422" name="Свят, свят, свят Господь Бог Саваоф" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="422" name="Свят, свят, свят Господь Бог Саваоф" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Свят, свят, свят Господь Бог Саваоф!</plain>
@@ -35,4 +35,4 @@
             <plain>Припев</plain>
         </string>
     </verse>
-</psalm>
+</song>

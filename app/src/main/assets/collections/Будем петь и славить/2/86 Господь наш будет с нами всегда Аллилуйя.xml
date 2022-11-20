@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="86" name="Господь наш будет с нами всегда Аллилуйя" canon="false" text="В. Шишкарева" textRus="" music="В. Шишкарева" additionalInfo="">
+<song number="86" name="Господь наш будет с нами всегда Аллилуйя" canon="false" text="В. Шишкарева" textRus="" music="В. Шишкарева" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Господь наш будет с нами всегда. Аллилуйя!</plain>
@@ -35,4 +35,4 @@
             <plain>Нашей песне не будет конца. Аллилуйя!</plain>
         </string>
     </verse>
-</psalm>
+</song>

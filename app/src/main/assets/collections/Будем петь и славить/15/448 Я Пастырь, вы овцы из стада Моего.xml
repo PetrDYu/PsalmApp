@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="448" name="Я Пастырь, вы овцы из стада Моего" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="448" name="Я Пастырь, вы овцы из стада Моего" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Я – Пастырь, вы – овцы из стада Моего.</plain>
@@ -16,4 +16,4 @@
             <plain>Тем, кто придет к Тебе, жизнь вечную Ты дашь.</plain>
         </string>
     </verse>
-</psalm>
+</song>

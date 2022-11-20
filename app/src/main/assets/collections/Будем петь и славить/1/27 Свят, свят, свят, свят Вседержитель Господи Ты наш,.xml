@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="27" name="Свят, свят, свят, свят Вседержитель Господи Ты наш," canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева" music="А. Ашикяна" additionalInfo="">
+<song number="27" name="Свят, свят, свят, свят Вседержитель Господи Ты наш," canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева" music="А. Ашикяна" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Свят, свят, свят, свят Вседержитель Господи Ты наш,</plain>
@@ -18,4 +18,4 @@
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

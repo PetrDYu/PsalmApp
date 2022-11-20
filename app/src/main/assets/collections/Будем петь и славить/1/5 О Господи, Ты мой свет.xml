@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="5" name="О Господи, Ты мой свет" canon="false" text="" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+<song number="5" name="О Господи, Ты мой свет" canon="false" text="" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
     <verse number="0">
         <string>
             <plain>О Господи, Ты мой свет.</plain>
@@ -28,4 +28,4 @@
             <plain>Mon Dieu, mon Dieu, éclaire ma ténèbre.</plain>
         </string>
     </verse>
-</psalm>
+</song>

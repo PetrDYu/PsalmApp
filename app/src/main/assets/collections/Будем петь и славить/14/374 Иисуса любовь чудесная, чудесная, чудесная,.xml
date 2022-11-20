@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="374" name="Иисуса любовь чудесная, чудесная, чудесная," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="374" name="Иисуса любовь чудесная, чудесная, чудесная," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Иисуса любовь чудесная, чудесная, чудесная,</plain>
@@ -17,4 +17,4 @@
             <plain>Широка – ее не обоймешь, любовь чудесная.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -12,13 +12,14 @@ import ru.petr.songapp.data.models.songData.CollectionSection
 import ru.petr.songapp.data.models.songData.SongDBModel
 import ru.petr.songapp.data.models.songData.SongCollectionDBModel
 import ru.petr.songapp.data.models.songData.SongData
+import ru.petr.songapp.ui.screens.songScreens.models.parsing.TagAndAttrNames
 
 const val INFO_FILE_EXT = "info"
 const val COLLECTIONS_FOLDER = "collections"
 const val COLLECTION_INFO_FILE = "collection.$INFO_FILE_EXT"
 const val SECTION_INFO_FILE = "section.$INFO_FILE_EXT"
 
-const val LOG_TAG = "create_db_utils"
+private const val LOG_TAG = "create_db_utils"
 
 suspend fun populateDBFromAssets(appContext: Context, database: SongAppDB) {
     CoroutineScope(Dispatchers.IO).launch {
@@ -68,19 +69,23 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
     var textRusAuthors = ""
     var musicComposers = ""
     var additionalInfo = ""
+    var plainText = ""
     while (parser.eventType != XmlPullParser.END_DOCUMENT) {
-        if (parser.eventType == XmlPullParser.START_TAG && parser.name == "song") {
+        if (parser.eventType == XmlPullParser.START_TAG && parser.name == TagAndAttrNames.SONG_TAG._name) {
             for (attrI in 0 until parser.attributeCount) {
                 when (parser.getAttributeName(attrI)) {
-                    "number" -> { numberInCollection = parser.getAttributeValue(attrI).toInt() }
-                    "name" -> { name = parser.getAttributeValue(attrI) }
-                    "canon" -> { isCanon = parser.getAttributeValue(attrI).toBoolean() }
-                    "text" -> { textAuthors = parser.getAttributeValue(attrI) }
-                    "textRus" -> { textRusAuthors = parser.getAttributeValue(attrI) }
-                    "music" -> { musicComposers = parser.getAttributeValue(attrI) }
-                    "additionalInfo" -> { additionalInfo = parser.getAttributeValue(attrI) }
+                    TagAndAttrNames.NUMBER_ATTR._name -> { numberInCollection = parser.getAttributeValue(attrI).toInt() }
+                    TagAndAttrNames.NAME_ATTR._name -> { name = parser.getAttributeValue(attrI) }
+                    TagAndAttrNames.CANON_ATTR._name -> { isCanon = parser.getAttributeValue(attrI).toBoolean() }
+                    TagAndAttrNames.TEXT_ATTR._name -> { textAuthors = parser.getAttributeValue(attrI) }
+                    TagAndAttrNames.TEXT_RUS_ATTR._name -> { textRusAuthors = parser.getAttributeValue(attrI) }
+                    TagAndAttrNames.MUSIC_ATTR._name -> { musicComposers = parser.getAttributeValue(attrI) }
+                    TagAndAttrNames.ADDITIONAL_INFO_ATTR._name -> { additionalInfo = parser.getAttributeValue(attrI) }
                 }
             }
+        }
+        if (parser.text != null) {
+            plainText += parser.text.trim().lowercase() + (if (!plainText.endsWith(" ")) " " else "")
         }
         parser.next()
     }
@@ -96,10 +101,11 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
             textRusAuthors,
             musicComposers,
             additionalInfo,
-            false, // TODO как здесь будет задаваться isFixed?
+            true, // all songs from included files are fixed
         ),
         appContext.assets
             .open("$COLLECTIONS_FOLDER/$collectionName/$sectionFolder/$songFile")
             .bufferedReader().readText(),
+        plainText,
     )
 }

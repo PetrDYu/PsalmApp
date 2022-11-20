@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="435" name="Дух Создатель, приди" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+<song number="435" name="Дух Создатель, приди" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Дух Создатель, приди!</plain>
@@ -42,4 +42,4 @@
             <plain>Молиться Ты нас научи.</plain>
         </string>
     </verse>
-</psalm>
+</song>

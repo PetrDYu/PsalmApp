@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="189" name="Ты не печалься, не беспокойся," canon="false" text="св. Терезы Авильской, И. Языковой" textRus="" music="Ж. Бертье, Г. Гселя" additionalInfo="">
+<song number="189" name="Ты не печалься, не беспокойся," canon="false" text="св. Терезы Авильской, И. Языковой" textRus="" music="Ж. Бертье, Г. Гселя" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Ты не печалься, не беспокойся,</plain>
@@ -56,4 +56,4 @@
             <plain>Тихой молитвы перед причастьем.</plain>
         </string>
     </verse>
-</psalm>
+</song>

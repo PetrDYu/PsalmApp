@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="202" name="Я хочу за Тобою идти," canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="202" name="Я хочу за Тобою идти," canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Я хочу за Тобою идти,</plain>
@@ -76,4 +76,4 @@
             <plain>Только Ты – моя радость, покой.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="240" name="Иисус друг одиноких, грешных, немощных людей" canon="false" text="В. Чапмена" textRus="" music="Р. Причарда" additionalInfo="">
+<song number="240" name="Иисус друг одиноких, грешных, немощных людей" canon="false" text="В. Чапмена" textRus="" music="Р. Причарда" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Иисус – друг одиноких, грешных, немощных людей;</plain>
@@ -48,4 +48,4 @@
             <plain>Все простил, Свое дал имя, мы теперь народ Его.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="329" name="Аллилуйя, Адонай" canon="false" text="Рахели Борски" textRus="И. Языковой, Ю. Пастернака" music="Рахели Борски" additionalInfo="">
+<song number="329" name="Аллилуйя, Адонай" canon="false" text="Рахели Борски" textRus="И. Языковой, Ю. Пастернака" music="Рахели Борски" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Аллилуйя, Адонай!</plain>
@@ -41,4 +41,4 @@
             <plain>А́ЛЭЛУЯ́</plain>
         </string>
     </verse>
-</psalm>
+</song>

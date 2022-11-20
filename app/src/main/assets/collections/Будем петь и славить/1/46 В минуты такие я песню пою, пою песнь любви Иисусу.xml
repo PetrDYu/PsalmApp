@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="46" name="В минуты такие я песню пою, пою песнь любви Иисусу" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="46" name="В минуты такие я песню пою, пою песнь любви Иисусу" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>В минуты такие я песню пою, пою песнь любви Иисусу.</plain>
@@ -14,4 +14,4 @@
             <plain>, мой Господь Иисус.</plain>
         </string>
     </verse>
-</psalm>
+</song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="48" name="Отверзи мне очи, чтоб видеть Иисуса," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="Б. Калла" additionalInfo="">
+<song number="48" name="Отверзи мне очи, чтоб видеть Иисуса," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="Б. Калла" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Отверзи мне очи, чтоб видеть Иисуса,</plain>
@@ -14,4 +14,4 @@
             <plain>Отверзи мне очи, чтоб видеть Его.</plain>
         </string>
     </verse>
-</psalm>
+</song>

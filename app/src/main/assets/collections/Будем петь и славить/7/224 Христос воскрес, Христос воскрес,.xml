@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="224" name="Христос воскрес, Христос воскрес," canon="false" text="Кико Аргуэльо" textRus="М. Винецкой, Ю. Пастернака" music="Кико Аргуэльо" additionalInfo="">
+<song number="224" name="Христос воскрес, Христос воскрес," canon="false" text="Кико Аргуэльо" textRus="М. Винецкой, Ю. Пастернака" music="Кико Аргуэльо" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Христос воскрес, Христос воскрес,</plain>
@@ -35,4 +35,4 @@
             <plain>Воспоем с Ним вместе.</plain>
         </string>
     </verse>
-</psalm>
+</song>

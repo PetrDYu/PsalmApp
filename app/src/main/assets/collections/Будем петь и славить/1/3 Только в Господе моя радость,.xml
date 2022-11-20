@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="3" name="Только в Господе моя радость," canon="false" text="" textRus="Г. Зобина,  Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+<song number="3" name="Только в Господе моя радость," canon="false" text="" textRus="Г. Зобина,  Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Только в Господе моя радость,</plain>
@@ -34,4 +34,4 @@
             <plain>En ell confio i no tinc por.</plain>
         </string>
     </verse>
-</psalm>
+</song>

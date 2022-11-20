@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="91" name="Да, Он воскрес и жив сейчас, аллилуйя" canon="false" text="общины Emmanuel" textRus="" music="общины Emmanuel" additionalInfo="">
+<song number="91" name="Да, Он воскрес и жив сейчас, аллилуйя" canon="false" text="общины Emmanuel" textRus="" music="общины Emmanuel" additionalInfo="">
     <chorus number="0">
         <string>
             <plain>Да, Он воскрес и жив сейчас, аллилуйя!</plain>
@@ -45,4 +45,4 @@
             <plain>Припев 2 р.</plain>
         </string>
     </verse>
-</psalm>
+</song>

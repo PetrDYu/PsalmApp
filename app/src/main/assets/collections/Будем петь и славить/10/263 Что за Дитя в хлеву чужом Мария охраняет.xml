@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="263" name="Что за Дитя в хлеву чужом Мария охраняет" canon="false" text="" textRus="Д. Ясько" music="Английская народная" additionalInfo="">
+<song number="263" name="Что за Дитя в хлеву чужом Мария охраняет" canon="false" text="" textRus="Д. Ясько" music="Английская народная" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Что за Дитя в хлеву чужом Мария охраняет?</plain>
@@ -38,4 +38,4 @@
             <plain>Он Царь царей, пред Ним скорей дверь сердца отворите.</plain>
         </string>
     </verse>
-</psalm>
+</song>

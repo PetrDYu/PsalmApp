@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="359" name="Шалом, шалом, шалом Так дети Божии повсюду говорят" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="359" name="Шалом, шалом, шалом Так дети Божии повсюду говорят" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Шалом, шалом, шалом! Так дети Божии повсюду говорят.</plain>
@@ -29,4 +29,4 @@
             <plain>Аллилуйя! Аллилуйя! Шалом! Аллилуйя! Славен Бог!</plain>
         </string>
     </verse>
-</psalm>
+</song>

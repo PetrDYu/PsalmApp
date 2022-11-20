@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="364" name="Бог любит малых воробьев, от гибели храня" canon="false" text="М. Страуб" textRus="" music="С.В. Страуба" additionalInfo="">
+<song number="364" name="Бог любит малых воробьев, от гибели храня" canon="false" text="М. Страуб" textRus="" music="С.В. Страуба" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Бог любит малых воробьев, от гибели храня;</plain>
@@ -38,4 +38,4 @@
             <plain>Он не забудет и детей, Он любит и меня.</plain>
         </string>
     </verse>
-</psalm>
+</song>

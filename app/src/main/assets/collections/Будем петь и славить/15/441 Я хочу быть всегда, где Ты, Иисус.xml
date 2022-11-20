@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="441" name="Я хочу быть всегда, где Ты, Иисус" canon="false" text="" textRus="Е. Трофимовой" music="" additionalInfo="">
+<song number="441" name="Я хочу быть всегда, где Ты, Иисус" canon="false" text="" textRus="Е. Трофимовой" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Я хочу быть всегда, где Ты, Иисус.</plain>
@@ -14,4 +14,4 @@
             <plain>Я хочу быть всегда, где Ты.</plain>
         </string>
     </verse>
-</psalm>
+</song>

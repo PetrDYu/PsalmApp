@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="276" name="К пастырям ночью голос прозвучал" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="276" name="К пастырям ночью голос прозвучал" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>К пастырям ночью голос прозвучал:</plain>
@@ -51,4 +51,4 @@
             <plain>Всех в Отцовский Дом.</plain>
         </string>
     </verse>
-</psalm>
+</song>

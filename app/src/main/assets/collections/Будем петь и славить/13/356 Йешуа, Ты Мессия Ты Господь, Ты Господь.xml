@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="356" name="Йешуа, Ты Мессия Ты Господь, Ты Господь" canon="false" text="" textRus="" music="" additionalInfo="">
+<song number="356" name="Йешуа, Ты Мессия Ты Господь, Ты Господь" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Йешуа, Ты Мессия! Ты Господь, Ты Господь.</plain>
@@ -16,4 +16,4 @@
             <plain>ЛИКВОД ЭЛОИМ ЛИКВОД ЭЛОИМ А-АВ</plain>
         </string>
     </verse>
-</psalm>
+</song>

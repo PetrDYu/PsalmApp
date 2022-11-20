@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="330" name="Благодарим Тебя, Господь, за доброту Твою," canon="false" text="" textRus="Ю. Пастернака" music="Sabbath Eva Song" additionalInfo="">
+<song number="330" name="Благодарим Тебя, Господь, за доброту Твою," canon="false" text="" textRus="Ю. Пастернака" music="Sabbath Eva Song" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Благодарим Тебя, Господь, за доброту Твою,</plain>
@@ -30,4 +30,4 @@
             <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-</psalm>
+</song>

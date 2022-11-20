@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="423" name="Любить себя дарить, любить себя дарить," canon="false" text="Терезы Малой из Лизье" textRus="" music="бр. Эфраима" additionalInfo="">
+<song number="423" name="Любить себя дарить, любить себя дарить," canon="false" text="Терезы Малой из Лизье" textRus="" music="бр. Эфраима" additionalInfo="">
     <chorus number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -43,4 +43,4 @@
             <plain>Но без любви, нет пользы мне в том.</plain>
         </string>
     </verse>
-</psalm>
+</song>

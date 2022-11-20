@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="112" name="Воскликни Богу, вся земля Народы, как одна семья," canon="false" text="Д. Ясько" textRus="" music="" additionalInfo="">
+<song number="112" name="Воскликни Богу, вся земля Народы, как одна семья," canon="false" text="Д. Ясько" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
             <plain>Воскликни Богу, вся земля! Народы, как одна семья,</plain>
@@ -32,4 +32,4 @@
             <plain>Господня милость без конца, Господня верность в род и род...</plain>
         </string>
     </verse>
-</psalm>
+</song>

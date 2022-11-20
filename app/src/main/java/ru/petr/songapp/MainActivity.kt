@@ -6,6 +6,7 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
+import androidx.compose.runtime.toMutableStateList
 import androidx.compose.ui.Modifier
 import dev.wirespec.jetmagic.composables.ScreenFactoryHandler
 import dev.wirespec.jetmagic.composables.crm
@@ -13,8 +14,9 @@ import dev.wirespec.jetmagic.navigation.navman
 import kotlinx.coroutines.flow.flowOf
 import ru.petr.songapp.data.models.songData.SongCollectionDBModel
 import ru.petr.songapp.data.models.songData.dao.ShortSong
-import ru.petr.songapp.data.repositories.utils.SongCollectionView
+import ru.petr.songapp.data.repositories.utils.SongCollectionFlow
 import ru.petr.songapp.ui.ComposableResourceIds
+import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.theme.SongAppTheme
 
 
@@ -80,11 +82,11 @@ val songs = listOf(
 )
 
 val songCollections = listOf(
-    SongCollectionView(SongCollectionDBModel(1, "Будем петь и славить", "БПС"), flowOf(songs)),
-    SongCollectionView(SongCollectionDBModel(2, "Будем петь и славить", "БПС"), flowOf(songs)),
-    SongCollectionView(SongCollectionDBModel(3, "Будем петь и славить", "БПС"), flowOf(songs)),
-    SongCollectionView(SongCollectionDBModel(4, "Будем петь и славить", "БПС"), flowOf(songs)),
-    SongCollectionView(SongCollectionDBModel(5, "Будем петь и славить", "БПС"), flowOf(songs)),
-    SongCollectionView(SongCollectionDBModel(6, "Будем петь и славить", "БПС"), flowOf(songs))
+    SongCollectionView(SongCollectionDBModel(1, "Будем петь и славить", "БПС"), songs.toMutableStateList()),
+    SongCollectionView(SongCollectionDBModel(2, "Будем петь и славить", "БПС"), songs.toMutableStateList()),
+    SongCollectionView(SongCollectionDBModel(3, "Будем петь и славить", "БПС"), songs.toMutableStateList()),
+    SongCollectionView(SongCollectionDBModel(4, "Будем петь и славить", "БПС"), songs.toMutableStateList()),
+    SongCollectionView(SongCollectionDBModel(5, "Будем петь и славить", "БПС"), songs.toMutableStateList()),
+    SongCollectionView(SongCollectionDBModel(6, "Будем петь и славить", "БПС"), songs.toMutableStateList())
 )
 

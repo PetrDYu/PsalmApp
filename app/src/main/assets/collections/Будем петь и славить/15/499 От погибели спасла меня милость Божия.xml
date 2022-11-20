@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="499" name="От погибели спасла меня милость Божия" canon="false" text="А. Вельк" textRus="" music="О. Арндта" additionalInfo="">
+<song number="499" name="От погибели спасла меня милость Божия" canon="false" text="А. Вельк" textRus="" music="О. Арндта" additionalInfo="">
     <verse number="1">
         <string>
             <plain>От погибели спасла меня милость Божия.</plain>
@@ -77,4 +77,4 @@
             <plain>1 куплет</plain>
         </string>
     </verse>
-</psalm>
+</song>

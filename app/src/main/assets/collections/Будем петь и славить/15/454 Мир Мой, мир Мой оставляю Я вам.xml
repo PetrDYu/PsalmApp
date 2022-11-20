@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<psalm number="454" name="Мир Мой, мир Мой оставляю Я вам" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
+<song number="454" name="Мир Мой, мир Мой оставляю Я вам" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Мир Мой, мир Мой оставляю Я вам.</plain>
@@ -16,4 +16,4 @@
             <plain>Meinen Frieden gebe ich euch. Euer Herz verzage nicht.</plain>
         </string>
     </verse>
-</psalm>
+</song>
