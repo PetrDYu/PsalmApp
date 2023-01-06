@@ -62,7 +62,7 @@ object SongPartBuilder {
                             layerStack,
                             onFindClosedTag = { newLayer ->
                                 processClosingTag(newLayer, lines)
-                            }
+                            },
                         )
                     )
                     extractor.clean()

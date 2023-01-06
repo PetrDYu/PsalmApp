@@ -5,13 +5,12 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.asLiveData
 import kotlinx.coroutines.flow.map
-import ru.petr.songapp.data.models.songData.SongWithCollectionFromDB
 import ru.petr.songapp.data.repositories.SongRepository
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
 import ru.petr.songapp.ui.screens.songScreens.models.Song
 import ru.petr.songapp.ui.screens.songScreens.models.parsing.SongBuilder
 
-class SongViewViewModel(private val songRepository: SongRepository) : ViewModel() {
+class SongViewerViewModel(private val songRepository: SongRepository) : ViewModel() {
 
     fun getSongById(id: Int): LiveData<Song> {
         return songRepository.getSongById(id).map {
@@ -20,11 +19,11 @@ class SongViewViewModel(private val songRepository: SongRepository) : ViewModel(
     }
 }
 
-class SongViewViewModelFactory(private val repository: SongRepository) : ViewModelProvider.Factory {
+class SongViewerViewModelFactory(private val repository: SongRepository) : ViewModelProvider.Factory {
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
-        if (modelClass.isAssignableFrom(SongViewViewModel::class.java)) {
+        if (modelClass.isAssignableFrom(SongViewerViewModel::class.java)) {
             @Suppress("UNCHECKED_CAST")
-            return SongViewViewModel(repository) as T
+            return SongViewerViewModel(repository) as T
         }
         throw IllegalArgumentException("Unknown ViewModel class")
     }

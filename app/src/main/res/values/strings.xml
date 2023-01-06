@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Psalm App</string>
+    <string name="chorus_title">Припев</string>
+    <string name="bridge_title">Мост</string>
+    <string name="times"> (%1$d р.)</string>
 </resources>

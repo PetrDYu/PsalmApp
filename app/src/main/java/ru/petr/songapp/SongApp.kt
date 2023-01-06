@@ -17,14 +17,12 @@ import ru.petr.songapp.data.repositories.SongCollectionsRepository
 import ru.petr.songapp.data.repositories.SongRepository
 import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
 import ru.petr.songapp.ui.ComposableResourceIds
-import ru.petr.songapp.ui.screens.songCollectionScreen.SongCollectionScreenHandler
-import ru.petr.songapp.ui.screens.songCollectionScreen.SongListViewModel
-import ru.petr.songapp.ui.screens.songCollectionScreen.SongListViewModelFactory
-import ru.petr.songapp.ui.screens.songCollectionScreen.SongsListsHandler
+import ru.petr.songapp.ui.screens.songCollectionScreen.*
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongScreenHandler
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerHandler
-import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewViewModel
-import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewViewModelFactory
+import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerViewModel
+import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerViewModelFactory
+import ru.petr.songapp.ui.screens.startScreen.StartScreenHandler
 import java.util.*
 
 class SongApp: Application() {
@@ -74,10 +72,25 @@ class SongApp: Application() {
 
         crm.apply {
             addComposableResources(
+                //Screens
                 mutableListOf(
-                    //Screens
+                    ComposableResource(
+                        resourceId = ComposableResourceIds.StartScreen,
+                    ) { composableInstance ->
+//                        Log.d("app", "call main screen handler")
+                        StartScreenHandler(composableInstance)
+                    },
                     ComposableResource(
                         resourceId = ComposableResourceIds.SongCollectionsScreen,
+                        viewmodelClass = SongListViewModel::class.java,
+                        onCreateViewmodel = {
+                            val activity = currentActivity
+                            if (activity != null) {
+                                ViewModelProvider(activity, SongListViewModelFactory(songListRepository))[SongListViewModel::class.java]
+                            } else {
+                                SongListViewModel(songListRepository)
+                            }
+                        }
                     ) { composableInstance ->
 //                        Log.d("app", "call main screen handler")
                         SongCollectionScreenHandler(composableInstance = composableInstance)
@@ -90,32 +103,28 @@ class SongApp: Application() {
 
                     //Child composables
                     ComposableResource(
-                        resourceId = ComposableResourceIds.SongsLists,
-                        viewmodelClass = SongListViewModel::class.java,
-                        onCreateViewmodel = {
-                            val activity = currentActivity
-                            if (activity != null) {
-                                ViewModelProvider(activity, SongListViewModelFactory(songListRepository))[SongListViewModel::class.java]
-                            } else {
-                                SongListViewModel(songListRepository)
-                            }
-                        }
+                        resourceId = ComposableResourceIds.SongsLists
                     ) { composableInstance ->
 //                        Log.d("app", "call main screen")
                         SongsListsHandler(composableInstance)
                     },
                     ComposableResource(
+                        resourceId = ComposableResourceIds.SearchSongs
+                    ) {
+                      SearchSongsListHandler(composableInstance = it)
+                    },
+                    ComposableResource(
                         resourceId = ComposableResourceIds.SongView,
-                        viewmodelClass = SongViewViewModel::class.java,
+                        viewmodelClass = SongViewerViewModel::class.java,
                         onCreateViewmodel = {
                             val activity = currentActivity
                             if (activity != null) {
                                 ViewModelProvider(
                                     activity,
-                                    SongViewViewModelFactory(mSongRepository)
-                                )[SongViewViewModel::class.java]
+                                    SongViewerViewModelFactory(mSongRepository)
+                                )[SongViewerViewModel::class.java]
                             } else {
-                                SongViewViewModel(mSongRepository)
+                                SongViewerViewModel(mSongRepository)
                             }
                         }
                     ) { composableInstance ->

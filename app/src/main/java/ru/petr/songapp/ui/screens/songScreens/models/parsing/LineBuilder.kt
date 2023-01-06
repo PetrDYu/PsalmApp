@@ -12,7 +12,7 @@ object LineBuilder {
     fun buildLine(xmlString: String,
                   currentLayers: SongPartBuilder.CurrentLayersHolder,//MutableList<ChunkLayer>,
                   layerStack: Song.LayerStack,
-                  onFindClosedTag: (newLayer: ChunkLayer) -> Unit
+                  onFindClosedTag: (newLayer: ChunkLayer) -> Unit,
     ): SongPartLine {
         var chunks = mutableListOf<LineChunk>()
 
@@ -27,11 +27,12 @@ object LineBuilder {
                     chunk.setLayersIfNotSet(currentLayers.layers/*toList()*/)
                     addChunkToChunks(chunk, currentLayers, chunks)
                     chunk = LineChunk()
+                    val attributes = fetchAttributes(parser).toMutableMap()
                     ChunkLayersBuilder.modifyLayerList(
                         layerStack,
                         currentLayers,
                         parser.name,
-                        fetchAttributes(parser),
+                        attributes,
                         onFindMarkDataTag = { newLayer ->
                             processMarkDataTag(chunk, currentLayers, newLayer)
                         },

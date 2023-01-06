@@ -2,7 +2,9 @@ package ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.l
 
 import ru.petr.songapp.ui.screens.songScreens.models.parsing.TagAndAttrNames
 
-class ChordLayer(override val layerChunkId: Int, override val layerId: Int = 0) : ChunkLayer.AddingLayer {
+class ChordLayer(override val layerChunkId: Int,
+                 override val layerId: Int = 0,
+) : ChunkLayer.AddingLayer {
 
     companion object: ChunkLayerCompanion {
         override val layerTagName: String = TagAndAttrNames.CHORD_TAG._name

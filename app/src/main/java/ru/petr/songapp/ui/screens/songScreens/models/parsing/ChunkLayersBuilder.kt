@@ -2,15 +2,15 @@ package ru.petr.songapp.ui.screens.songScreens.models.parsing
 
 import ru.petr.songapp.ui.screens.songScreens.models.Song
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers.*
-import kotlin.reflect.full.companionObject
 
 object ChunkLayersBuilder {
-    fun modifyLayerList(layerStack: Song.LayerStack,
-                        currentLayers: SongPartBuilder.CurrentLayersHolder,//MutableList<ChunkLayer>,
-                        tagName: String,
-                        attributes: Map<String, String>,
-                        onFindMarkDataTag: (newLayer: ChunkLayer) -> Unit,
-                        onFindClosedTag: (newLayer: ChunkLayer) -> Unit
+    fun modifyLayerList(
+        layerStack: Song.LayerStack,
+        currentLayers: SongPartBuilder.CurrentLayersHolder,//MutableList<ChunkLayer>,
+        tagName: String,
+        attributes: Map<String, String>,
+        onFindMarkDataTag: (newLayer: ChunkLayer) -> Unit,
+        onFindClosedTag: (newLayer: ChunkLayer) -> Unit,
     ) {
         val layerChunkId = attributes
             .getOrElse(TagAndAttrNames.ID_ATTR._name) {
@@ -19,6 +19,8 @@ object ChunkLayersBuilder {
 
         val layerId = attributes.getOrDefault(TagAndAttrNames.LAYER_ID_ATTR._name, "0").toInt()
 
+        val mutableAttributes = attributes.toMutableMap()
+
         when (val layerType = ChunkLayerTypes.getLayerTypeByName(tagName)) {
             ChunkLayerTypes.MarkDataLayer -> {
                 processMarkDataTag(
@@ -26,12 +28,12 @@ object ChunkLayersBuilder {
                     tagName,
                     layerChunkId,
                     layerId,
-                    attributes,
+                    mutableAttributes,
                     onFindMarkDataTag
                 )
             }
             ChunkLayerTypes.ContinuousDataLayer -> {
-                val layerIsOpening = attributes
+                val layerIsOpening = mutableAttributes
                     .getOrElse(TagAndAttrNames.IS_OPENING_ATTR._name) {
                         throw IllegalArgumentException("Attribute \"is_opening\" is not presented in attributes for $tagName layer")
                     }.toBoolean()
@@ -42,7 +44,7 @@ object ChunkLayersBuilder {
                         tagName,
                         layerChunkId,
                         layerId,
-                        attributes
+                        mutableAttributes
                     )
                 } else {
                     processCloseContinuousDataTag(
@@ -51,7 +53,7 @@ object ChunkLayersBuilder {
                         tagName,
                         layerChunkId,
                         layerId,
-                        attributes,
+                        mutableAttributes,
                         onFindClosedTag
                     )
                 }

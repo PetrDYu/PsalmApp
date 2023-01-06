@@ -7,11 +7,11 @@ enum class ChunkLayerTypes {
     MarkDataLayer;
 
     companion object {
-        private val continuousDataLayers = listOf<String>(
+        private val continuousDataLayers = listOf(
             TagAndAttrNames.REPEAT_TAG._name,
         )
-        private val markDataLayers = listOf<String>(
-
+        private val markDataLayers = listOf(
+            TagAndAttrNames.CHORD_TAG._name
         )
 
         fun getLayerTypeByName(layerTagName: String): ChunkLayerTypes {

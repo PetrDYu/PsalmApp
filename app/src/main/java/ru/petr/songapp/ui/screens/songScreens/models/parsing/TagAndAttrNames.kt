@@ -22,6 +22,8 @@ enum class TagAndAttrNames(val _name: String) {
     TEXT_ATTR("text"),
     TEXT_RUS_ATTR("textRus"),
     MUSIC_ATTR("music"),
-    ADDITIONAL_INFO_ATTR("additionalInfo")
+    ADDITIONAL_INFO_ATTR("additionalInfo"),
+
+    // Non XML attributes
 
 }

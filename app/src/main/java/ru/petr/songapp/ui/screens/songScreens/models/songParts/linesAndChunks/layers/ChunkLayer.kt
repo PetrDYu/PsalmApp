@@ -1,6 +1,7 @@
 package ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers
 
-import kotlin.reflect.full.companionObject
+import android.content.Context
+import androidx.compose.ui.text.TextStyle
 import kotlin.reflect.full.companionObjectInstance
 
 sealed interface ChunkLayer {
@@ -10,13 +11,26 @@ sealed interface ChunkLayer {
     val layerType: ChunkLayerTypes
         get() = (this::class.companionObjectInstance as ChunkLayerCompanion).layerType
 
-    sealed interface WrappingLayer: ChunkLayer
+    sealed interface WrappingLayer: ChunkLayer {
+        fun modifyTextAndStyle(text:ChunkText,
+                               style: TextStyle,
+                               isStart: Boolean,
+                               isEnd: Boolean,
+                               isMultiline: Boolean,
+                               context: Context,
+        ): Pair<ChunkText, TextStyle>
+
+    }
     sealed interface AddingLayer: ChunkLayer
 
+    private fun hasSameLayerTagName(tagName: String): Boolean {
+        return (this::class.companionObjectInstance as ChunkLayerCompanion).layerTagName == tagName
+    }
+
     fun isSameWithTagNameLayerChunkIdAndLayerId(tagName: String, layerChunkId: Int, layerId: Int): Boolean {
-        return ((this::class.companionObjectInstance as ChunkLayerCompanion).layerTagName == tagName) &&
+        return (hasSameLayerTagName(tagName) &&
                 (this.layerChunkId == layerChunkId) &&
-                (this.layerId == layerId)
+                (this.layerId == layerId))
     }
 
     fun isSameWithLayer(layer: ChunkLayer): Boolean {
@@ -25,6 +39,11 @@ sealed interface ChunkLayer {
             layer.layerChunkId,
             layer.layerId
         )
+    }
+
+    fun isSimilarWithLayer(layer: ChunkLayer): Boolean {
+        return (hasSameLayerTagName((layer::class.companionObjectInstance as ChunkLayerCompanion).layerTagName) &&
+                (this.layerId == layer.layerId))
     }
 }
 

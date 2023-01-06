@@ -1,5 +1,6 @@
 package ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks
 
+import ru.petr.songapp.ui.screens.songScreens.models.parsing.TagAndAttrNames
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers.ChunkLayer
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers.ChunkLayerCompanion
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers.ChunkLayerTypes
@@ -29,6 +30,18 @@ class LineChunk {
 
     fun hasSameLayer(layer: ChunkLayer): Boolean {
         return null != this.layers.find { chunkLayer -> chunkLayer.isSameWithLayer(layer) }
+    }
+
+    fun hasSimilarLayer(layer: ChunkLayer): Boolean {
+        return null != this.layers.find { chunkLayer -> chunkLayer.isSimilarWithLayer(layer) }
+    }
+
+    fun getSimilarLayer(layer: ChunkLayer): ChunkLayer? {
+        return this.layers.find { chunkLayer -> chunkLayer.isSimilarWithLayer(layer) }
+    }
+
+    fun hasSameLayer(tagName: String, layerChunkId: Int, layerId: Int): Boolean {
+        return null != this.layers.find { chunkLayer -> chunkLayer.isSameWithTagNameLayerChunkIdAndLayerId(tagName, layerChunkId, layerId) }
     }
 
     fun isEmpty(): Boolean {

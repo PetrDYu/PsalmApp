@@ -31,6 +31,19 @@ class Song (
         private val addingLayers = mutableListOf<StackedLayer<ChunkLayer.AddingLayer>>()
         private val wrappingLayers = mutableListOf<StackedLayer<ChunkLayer.WrappingLayer>>()
 
+        val activeAddingLayers: List<ChunkLayer.AddingLayer>
+            get() = addingLayers.filter { LayerStates.LAYER_ON == it.layerState }.sortedBy { it.layerPosition }.map { it.layer }
+
+        val activeWrappingLayers: List<ChunkLayer.WrappingLayer>
+            get() = wrappingLayers.filter { LayerStates.LAYER_ON == it.layerState }.sortedBy { it.layerPosition }.map { it.layer }
+
+        val allAddingLayers: List<ChunkLayer.AddingLayer>
+            get() = addingLayers.sortedBy { it.layerPosition }.map { it.layer }
+
+        val allWrappingLayers: List<ChunkLayer.WrappingLayer>
+            get() = wrappingLayers.sortedBy { it.layerPosition }.map { it.layer }
+
+
         fun addLayer(layer: ChunkLayer): AddLayerResults {
             val result: AddLayerResults
             if (layer::class.isSubclassOf(ChunkLayer.AddingLayer::class)) {

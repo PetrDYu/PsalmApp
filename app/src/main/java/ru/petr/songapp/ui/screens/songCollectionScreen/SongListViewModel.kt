@@ -1,22 +1,18 @@
 package ru.petr.songapp.ui.screens.songCollectionScreen
 
 import android.util.Log
-import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.mutableStateListOf
-import androidx.compose.runtime.toMutableStateList
 import androidx.compose.ui.Modifier
+import androidx.core.text.isDigitsOnly
 import androidx.lifecycle.*
 import dev.wirespec.jetmagic.navigation.navman
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
-import ru.petr.songapp.data.models.songData.SongCollectionDBModel
 import ru.petr.songapp.data.models.songData.SongDBModel
-import ru.petr.songapp.data.models.songData.dao.ShortSong
 import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
-import ru.petr.songapp.data.repositories.utils.SongCollectionFlow
 import ru.petr.songapp.ui.ComposableResourceIds
+import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.screens.songScreens.models.SongParams
 
@@ -28,8 +24,14 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
     val songsByCollections = _songsByCollections.asStateFlow()
     private var _copySongsByCollection: List<SongCollectionView>? = null
 
-    private val _searchViewActive = MutableStateFlow(false)
-    val searchViewActive = _searchViewActive.asStateFlow()
+    private val _searchIsActive = MutableStateFlow(false)
+    val searchIsActive = _searchIsActive.asStateFlow()
+
+    private val _fullTextSearchIsActive = MutableStateFlow(false)
+    val fullTextSearchIsActive = _fullTextSearchIsActive.asStateFlow()
+
+    private val _fullTextSearchResult: MutableStateFlow<List<FullTextSearchResultItem>?> = MutableStateFlow(null)
+    val fullTextSearchResult = _fullTextSearchResult.asStateFlow()
 
     init {
         viewModelScope.launch {
@@ -45,6 +47,7 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
                                 songs
                             )
                             _songsByCollections.value = songCollectionViewList
+                            _copySongsByCollection = songCollectionViewList
                         }
                     }
                 }
@@ -59,23 +62,31 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
     }
 
     fun searchSongs(searchText: String) {
-        _copySongsByCollection = _songsByCollections.value?.toList()
-        _songsByCollections.value?.toMutableList()?.let { songCollectionViews ->
+        _copySongsByCollection
+        _copySongsByCollection?.toMutableList()?.let { songCollectionViews ->
             songCollectionViews.forEachIndexed { index, songCollectionView ->
-                val songCollectionViewNew = SongCollectionView(
-                    songCollectionView.songCollection,
-                    songCollectionView.songs.filter { searchText.lowercase() in it.Name.lowercase() }
-                )
+                val songCollectionViewNew: SongCollectionView = if (searchText.isDigitsOnly()) {
+                    SongCollectionView(
+                        songCollectionView.songCollection,
+                        songCollectionView.songs.filter { searchText.toInt() == it.NumberInCollection }
+                    )
+                } else {
+                    SongCollectionView(
+                        songCollectionView.songCollection,
+                        songCollectionView.songs.filter { searchText.lowercase() in it.Name.lowercase() }
+                    )
+                }
                 songCollectionViews[index] = songCollectionViewNew
             }
 
             _songsByCollections.value = songCollectionViews
-            _searchViewActive.value = true
+            _searchIsActive.value = true
         }
     }
 
     fun backFromSearch() {
         _songsByCollections.value = _copySongsByCollection
+        _searchIsActive.value = false
         Log.d(LOG_TAG, "backFromSearch")
     }
 }

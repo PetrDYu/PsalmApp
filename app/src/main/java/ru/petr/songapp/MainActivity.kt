@@ -1,13 +1,16 @@
 package ru.petr.songapp
 
 import android.os.Bundle
+import android.window.OnBackInvokedDispatcher
 import androidx.activity.ComponentActivity
+import androidx.activity.OnBackPressedCallback
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.runtime.toMutableStateList
 import androidx.compose.ui.Modifier
+import androidx.core.os.BuildCompat
 import dev.wirespec.jetmagic.composables.ScreenFactoryHandler
 import dev.wirespec.jetmagic.composables.crm
 import dev.wirespec.jetmagic.navigation.navman
@@ -26,16 +29,30 @@ class MainActivity : ComponentActivity() {
         SongListViewModelFactory((application as SongApp).songListRepository)
     }*/
 
+    @BuildCompat.PrereleaseSdkCheck
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
-
 
         navman.activity = this
 
         if (navman.totalScreensDisplayed == 0) {
-            navman.goto(composableResId = ComposableResourceIds.SongCollectionsScreen)
+            navman.goto(composableResId = ComposableResourceIds.StartScreen)
         }
+
+        if (BuildCompat.isAtLeastT()) {
+            onBackInvokedDispatcher.registerOnBackInvokedCallback(
+                OnBackInvokedDispatcher.PRIORITY_DEFAULT
+            ) {
+                mainBackPressedCallback()
+            }
+        } else {
+            onBackPressedDispatcher.addCallback(this /* lifecycle owner */, object : OnBackPressedCallback(true) {
+                override fun handleOnBackPressed() {
+                    mainBackPressedCallback()
+                }
+            })
+        }
+
 
         setContent {
             SongAppTheme {
@@ -51,9 +68,9 @@ class MainActivity : ComponentActivity() {
         }
     }
 
-    override fun onBackPressed() {
+    fun mainBackPressedCallback() {
         if(!navman.goBack())
-            super.onBackPressed()
+            finish()
     }
 
     override fun onDestroy() {

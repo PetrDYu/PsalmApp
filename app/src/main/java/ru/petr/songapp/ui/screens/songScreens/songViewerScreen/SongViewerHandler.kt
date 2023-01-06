@@ -16,7 +16,7 @@ import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 
 @Composable
 fun SongViewerHandler(composableInstance: ComposableInstance) {
-    val vm = composableInstance.viewmodel as SongViewViewModel
+    val vm = composableInstance.viewmodel as SongViewerViewModel
     val p = composableInstance.parameters as SongParams
     val song by vm.getSongById(p.songId).observeAsState()
     SongViewer(song = song)

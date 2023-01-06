@@ -1,10 +1,7 @@
 package ru.petr.songapp.ui.screens.songScreens.models.parsing
 
-import android.nfc.Tag
-import org.junit.Assert.*
 import org.junit.Test
 import ru.petr.songapp.ui.screens.songScreens.models.Song
-import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers.ChunkLayer
 
 class ChunkLayersBuilderTest {
     @Test
@@ -18,10 +15,10 @@ class ChunkLayersBuilderTest {
             TagAndAttrNames.IS_OPENING_ATTR._name to "true"
         )
 
-        ChunkLayersBuilder.modifyLayerList(stack, curLayers, "repeat", attributes, {}, {})
+        ChunkLayersBuilder.modifyLayerList(stack, curLayers, "repeat", attributes, {}, {},)
         attributes[TagAndAttrNames.IS_OPENING_ATTR._name] = "false"
         attributes[TagAndAttrNames.REP_RATE_ATTR._name] = "2"
-        ChunkLayersBuilder.modifyLayerList(stack, curLayers, "repeat", attributes, {}, {})
+        ChunkLayersBuilder.modifyLayerList(stack, curLayers, "repeat", attributes, {}, {},)
         val a = 2
     }
 }
