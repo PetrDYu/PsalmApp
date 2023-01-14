@@ -3,4 +3,5 @@
     <string name="chorus_title">Припев</string>
     <string name="bridge_title">Мост</string>
     <string name="times"> (%1$d р.)</string>
+    <string name="font_size_setting_label">Размер шрифта</string>
 </resources>

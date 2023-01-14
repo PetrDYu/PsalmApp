@@ -2,14 +2,14 @@ package ru.petr.songapp.ui.screens.songCollectionScreen
 
 import android.util.Log
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.core.text.isDigitsOnly
 import androidx.lifecycle.*
 import dev.wirespec.jetmagic.navigation.navman
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
-import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
-import ru.petr.songapp.data.models.songData.SongDBModel
+import ru.petr.songapp.data.models.room.songData.SongDBModel
 import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
@@ -26,6 +26,9 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
 
     private val _searchIsActive = MutableStateFlow(false)
     val searchIsActive = _searchIsActive.asStateFlow()
+
+    private val _collectionsScreenIsActive = MutableStateFlow(false)
+    val collectionsScreenIsActive = _collectionsScreenIsActive.asStateFlow()
 
     private val _fullTextSearchIsActive = MutableStateFlow(false)
     val fullTextSearchIsActive = _fullTextSearchIsActive.asStateFlow()
@@ -53,12 +56,19 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
                 }
             }
         }
+
+        navman.observeScreenChange { composableInstance ->
+            if (composableInstance.composableResId == ComposableResourceIds.StartScreen) { // TODO здесь надо будет поменять на CollectionsScreen, когда переделаю нормально со стартовым экраном
+                _collectionsScreenIsActive.value = true
+            }
+        }
     }
 
     fun insert(songDBModel: SongDBModel) = viewModelScope.launch { repository.insert(songDBModel) }
 
     fun updateOrGotoSong(id: Int) {
         navman.goto(composableResId = ComposableResourceIds.SongScreen, p = SongParams(Modifier, songId = id))
+        _collectionsScreenIsActive.value = false
     }
 
     fun searchSongs(searchText: String) {

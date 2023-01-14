@@ -12,7 +12,9 @@ import dev.wirespec.jetmagic.initializeJetmagic
 import dev.wirespec.jetmagic.models.ComposableResource
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.SupervisorJob
-import ru.petr.songapp.data.models.SongAppDB
+import ru.petr.songapp.data.models.datastore.settings.SettingsStore
+import ru.petr.songapp.data.models.room.SongAppDB
+import ru.petr.songapp.data.repositories.SettingsRepository
 import ru.petr.songapp.data.repositories.SongCollectionsRepository
 import ru.petr.songapp.data.repositories.SongRepository
 import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
@@ -26,15 +28,18 @@ import ru.petr.songapp.ui.screens.startScreen.StartScreenHandler
 import java.util.*
 
 class SongApp: Application() {
-    val appScope = CoroutineScope(SupervisorJob())
-    val database by lazy { SongAppDB.getDB(this, appScope) }
-    val mSongCollectionsRepository by lazy { SongCollectionsRepository(database.SongCollectionDao()) }
-    val songListRepository by lazy {
-        SongsByCollectionsRepository(database.SongDao(), mSongCollectionsRepository)
+    private val appScope = CoroutineScope(SupervisorJob())
+    private val database by lazy { SongAppDB.getDB(this, appScope) }
+    private val songCollectionsRepository by lazy { SongCollectionsRepository(database.SongCollectionDao()) }
+    private val songListRepository by lazy {
+        SongsByCollectionsRepository(database.SongDao(), songCollectionsRepository)
     }
-    val mSongRepository by lazy {
+    private val songRepository by lazy {
         SongRepository(database.SongDao())
     }
+
+    private val settingsStore by lazy { SettingsStore(this) }
+    private val settingsRepository by lazy { SettingsRepository(settingsStore) }
 
     companion object {
         lateinit var context: SongApp
@@ -121,10 +126,10 @@ class SongApp: Application() {
                             if (activity != null) {
                                 ViewModelProvider(
                                     activity,
-                                    SongViewerViewModelFactory(mSongRepository)
+                                    SongViewerViewModelFactory(songRepository, settingsRepository)
                                 )[SongViewerViewModel::class.java]
                             } else {
-                                SongViewerViewModel(mSongRepository)
+                                SongViewerViewModel(songRepository, settingsRepository)
                             }
                         }
                     ) { composableInstance ->

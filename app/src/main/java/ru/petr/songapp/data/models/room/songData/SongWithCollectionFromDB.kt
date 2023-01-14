@@ -1,4 +1,4 @@
-package ru.petr.songapp.data.models.songData
+package ru.petr.songapp.data.models.room.songData
 
 import androidx.room.ColumnInfo
 import androidx.room.Embedded
@@ -11,7 +11,7 @@ data class SongWithCollectionFromDB (
 
     @ColumnInfo(name = "CollectionId")
     val collectionId: Int,
-    
+
     @Relation(parentColumn = "CollectionId", entityColumn = "Id")
     val collection: SongCollectionDBModel,
 

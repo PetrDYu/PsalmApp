@@ -2,9 +2,9 @@ package ru.petr.songapp.ui.screens.songScreens.models.parsing
 
 import org.junit.Assert
 import org.junit.Test
-import ru.petr.songapp.data.models.songData.SongCollectionDBModel
-import ru.petr.songapp.data.models.songData.SongData
-import ru.petr.songapp.data.models.songData.SongWithCollectionFromDB
+import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
+import ru.petr.songapp.data.models.room.songData.SongData
+import ru.petr.songapp.data.models.room.songData.SongWithCollectionFromDB
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
 import java.io.File
 import java.util.*

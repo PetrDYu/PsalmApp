@@ -14,10 +14,8 @@ import androidx.core.os.BuildCompat
 import dev.wirespec.jetmagic.composables.ScreenFactoryHandler
 import dev.wirespec.jetmagic.composables.crm
 import dev.wirespec.jetmagic.navigation.navman
-import kotlinx.coroutines.flow.flowOf
-import ru.petr.songapp.data.models.songData.SongCollectionDBModel
-import ru.petr.songapp.data.models.songData.dao.ShortSong
-import ru.petr.songapp.data.repositories.utils.SongCollectionFlow
+import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
+import ru.petr.songapp.data.models.room.songData.dao.ShortSong
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.theme.SongAppTheme

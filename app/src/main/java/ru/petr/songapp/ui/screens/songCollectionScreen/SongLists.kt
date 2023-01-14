@@ -5,7 +5,8 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.text.KeyboardActions
+import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search
@@ -13,13 +14,16 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalFocusManager
+import androidx.compose.ui.platform.LocalSoftwareKeyboardController
+import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.PagerState
 import com.google.accompanist.pager.rememberPagerState
-import ru.petr.songapp.data.models.songData.dao.ShortSong
+import ru.petr.songapp.data.models.room.songData.dao.ShortSong
 import ru.petr.songapp.songCollections
 import ru.petr.songapp.songs
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
@@ -131,9 +135,19 @@ fun SearchSongBar(modifier: Modifier = Modifier, searchText: String, onChangeSea
         verticalAlignment = Alignment.CenterVertically,
         modifier = modifier
     ) {
+        val keyboardController = LocalSoftwareKeyboardController.current
+        val focusManager = LocalFocusManager.current
         TextField(
             value = searchText,
             onValueChange = onChangeSearchText,
+            keyboardOptions = KeyboardOptions(imeAction = ImeAction.Done),
+            keyboardActions = KeyboardActions(
+                onDone = {
+                    onSearchButtonClick()
+                    keyboardController?.hide()
+                    focusManager.clearFocus()
+                }
+            ),
             placeholder = { Text(text = "Название или номер псалма") },
             modifier = Modifier
                 .padding(horizontal = 8.dp, vertical = 8.dp)
@@ -141,7 +155,13 @@ fun SearchSongBar(modifier: Modifier = Modifier, searchText: String, onChangeSea
             singleLine = true,
             colors = TextFieldDefaults.textFieldColors(backgroundColor = Color.White)
         )
-        IconButton(onClick = onSearchButtonClick) {
+        IconButton(
+            onClick = {
+                onSearchButtonClick()
+                keyboardController?.hide()
+                focusManager.clearFocus()
+            }
+        ) {
             Icon(
                 imageVector = Icons.Default.Search,
                 contentDescription = null,

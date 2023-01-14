@@ -1,7 +1,7 @@
 package ru.petr.songapp.ui.screens.songScreens.models.parsing
 
 import org.xmlpull.v1.XmlPullParser
-import ru.petr.songapp.data.models.songData.SongWithCollectionFromDB
+import ru.petr.songapp.data.models.room.songData.SongWithCollectionFromDB
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
 import ru.petr.songapp.ui.screens.songScreens.models.Song
 import ru.petr.songapp.ui.screens.songScreens.models.parsing.SongPartBuilder.getPartBuilder

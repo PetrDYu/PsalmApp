@@ -2,8 +2,8 @@ package ru.petr.songapp.data.repositories
 
 import androidx.annotation.WorkerThread
 import kotlinx.coroutines.flow.Flow
-import ru.petr.songapp.data.models.songData.SongCollectionDBModel
-import ru.petr.songapp.data.models.songData.dao.SongCollectionDao
+import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
+import ru.petr.songapp.data.models.room.songData.dao.SongCollectionDao
 
 class SongCollectionsRepository(private val psalmCollectionDao: SongCollectionDao) {
 

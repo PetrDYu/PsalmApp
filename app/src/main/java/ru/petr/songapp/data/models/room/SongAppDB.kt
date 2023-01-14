@@ -1,4 +1,4 @@
-package ru.petr.songapp.data.models
+package ru.petr.songapp.data.models.room
 
 import android.content.Context
 import androidx.room.Database
@@ -7,13 +7,14 @@ import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
-import ru.petr.songapp.data.models.songData.CollectionSection
-import ru.petr.songapp.data.models.songData.SongDBModel
-import ru.petr.songapp.data.models.songData.SongCollectionDBModel
-import ru.petr.songapp.data.models.songData.dao.CollectionSectionDao
-import ru.petr.songapp.data.models.songData.dao.SongCollectionDao
-import ru.petr.songapp.data.models.songData.dao.SongDao
-import ru.petr.songapp.data.models.songData.utils.*
+import ru.petr.songapp.data.models.room.songData.CollectionSection
+import ru.petr.songapp.data.models.room.songData.SongDBModel
+import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
+import ru.petr.songapp.data.models.room.songData.dao.CollectionSectionDao
+import ru.petr.songapp.data.models.room.songData.dao.SongCollectionDao
+import ru.petr.songapp.data.models.room.songData.dao.SongDao
+import ru.petr.songapp.data.models.room.songData.utils.populateDBFromAssets
+
 //import ru.petr.songapp.songCollections
 
 @Database(entities = [SongDBModel::class, SongCollectionDBModel::class, CollectionSection::class], version = 1, exportSchema = true)

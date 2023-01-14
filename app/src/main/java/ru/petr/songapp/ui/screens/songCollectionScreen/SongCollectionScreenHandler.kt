@@ -1,6 +1,7 @@
 package ru.petr.songapp.ui.screens.songCollectionScreen
 
 import androidx.activity.compose.BackHandler
+import androidx.activity.compose.LocalOnBackPressedDispatcherOwner
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.padding
@@ -8,12 +9,15 @@ import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalFocusManager
+import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.unit.dp
 import com.google.accompanist.pager.PagerState
 import com.google.accompanist.pager.pagerTabIndicatorOffset
 import com.google.accompanist.pager.rememberPagerState
 import dev.wirespec.jetmagic.composables.crm
 import dev.wirespec.jetmagic.models.ComposableInstance
+import dev.wirespec.jetmagic.navigation.navman
 import kotlinx.coroutines.launch
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
@@ -29,10 +33,17 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
     var collectionName by remember { mutableStateOf("Сборники") }
 
     val vm = composableInstance.viewmodel as SongListViewModel
+
+    val collectionsScreenIsActive by vm.collectionsScreenIsActive.collectAsState()
+
     val songCollections = vm.songsByCollections.collectAsState().value
+
     val searchIsActive = vm.searchIsActive.collectAsState().value
     val fullTextSearchIsActive = vm.fullTextSearchIsActive.collectAsState().value
     val fullTextSearchResult = vm.fullTextSearchResult.collectAsState().value
+
+    val keyboardController = LocalSoftwareKeyboardController.current
+    val focusManager = LocalFocusManager.current
     Scaffold(
         scaffoldState = scaffoldState,
         topBar = {
@@ -54,12 +65,13 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
                 onFullTextSearchClick = {}
             ) { id ->
                 vm.updateOrGotoSong(id)
-                vm.backFromSearch()
+                keyboardController?.hide()
+                focusManager.clearFocus()
             }
         }
     }
 
-    BackHandler(searchIsActive) {
+    BackHandler(searchIsActive && collectionsScreenIsActive) {
         vm.backFromSearch()
     }
 

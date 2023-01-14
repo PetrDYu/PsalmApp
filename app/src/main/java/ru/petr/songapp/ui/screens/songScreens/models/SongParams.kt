@@ -6,5 +6,5 @@ import dev.wirespec.jetmagic.models.ComposableParams
 class SongParams(
     modifier: Modifier,
     data: Any? = null,
-    val songId: Int
+    val songId: Int,
 ) : ComposableParams(modifier = modifier, data = data)

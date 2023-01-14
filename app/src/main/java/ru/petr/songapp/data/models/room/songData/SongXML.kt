@@ -1,4 +1,4 @@
-package ru.petr.songapp.data.models.songData
+package ru.petr.songapp.data.models.room.songData
 
 class SongXML(xml: String) {
 

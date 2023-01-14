@@ -1,4 +1,4 @@
-package ru.petr.songapp.data.models.songData.utils
+package ru.petr.songapp.data.models.room.songData.utils
 
 import android.content.Context
 import android.util.Log
@@ -7,11 +7,11 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserFactory
-import ru.petr.songapp.data.models.SongAppDB
-import ru.petr.songapp.data.models.songData.CollectionSection
-import ru.petr.songapp.data.models.songData.SongDBModel
-import ru.petr.songapp.data.models.songData.SongCollectionDBModel
-import ru.petr.songapp.data.models.songData.SongData
+import ru.petr.songapp.data.models.room.SongAppDB
+import ru.petr.songapp.data.models.room.songData.CollectionSection
+import ru.petr.songapp.data.models.room.songData.SongDBModel
+import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
+import ru.petr.songapp.data.models.room.songData.SongData
 import ru.petr.songapp.ui.screens.songScreens.models.parsing.TagAndAttrNames
 
 const val INFO_FILE_EXT = "info"
@@ -58,7 +58,7 @@ fun getSectionName(appContext: Context, collectionName: String, sectionFolder: S
         .bufferedReader().readText()
 }
 
-fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, collectionId: Int, collectionName: String, sectionId: Int, sectionFolder: String): SongDBModel{
+fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, collectionId: Int, collectionName: String, sectionId: Int, sectionFolder: String): SongDBModel {
     val file = appContext.assets.open("$COLLECTIONS_FOLDER/$collectionName/$sectionFolder/$songFile")
     Log.d(LOG_TAG, "parsing file: $songFile")
     parser.setInput(file, "UTF-8")

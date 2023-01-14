@@ -78,4 +78,25 @@ class LineChunk {
         chunk.layers = layers
         return chunk
     }
+
+    fun splitByWords(): List<LineChunk> {
+        val resultChunksList: MutableList<LineChunk> = mutableListOf()
+        val chunkText = text
+        val chunkLayers = layers.toMutableList()
+        if (chunkText != null) {
+            val splitChunkText = chunkText.text.split(" ")
+            splitChunkText.forEachIndexed { wordInd, word ->
+                val newChunk = LineChunk()
+                newChunk.layers = chunkLayers.toList()
+                newChunk.text = ChunkText("$word ")
+                resultChunksList.add(newChunk)
+                if (hasMarkDataLayer && wordInd == 0) {
+                    chunkLayers.removeAll { it.layerType == ChunkLayerTypes.MarkDataLayer }
+                }
+            }
+        } else {
+            resultChunksList.add(this)
+        }
+        return resultChunksList
+    }
 }

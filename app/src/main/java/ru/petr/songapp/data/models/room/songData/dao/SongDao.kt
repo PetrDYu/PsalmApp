@@ -1,10 +1,9 @@
-package ru.petr.songapp.data.models.songData.dao
+package ru.petr.songapp.data.models.room.songData.dao
 
-import androidx.annotation.WorkerThread
 import androidx.room.*
 import kotlinx.coroutines.flow.Flow
-import ru.petr.songapp.data.models.songData.SongDBModel
-import ru.petr.songapp.data.models.songData.SongWithCollectionFromDB
+import ru.petr.songapp.data.models.room.songData.SongDBModel
+import ru.petr.songapp.data.models.room.songData.SongWithCollectionFromDB
 
 @Dao
 interface SongDao {

@@ -1,4 +1,4 @@
-package ru.petr.songapp.data.models.songData
+package ru.petr.songapp.data.models.room.songData
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
