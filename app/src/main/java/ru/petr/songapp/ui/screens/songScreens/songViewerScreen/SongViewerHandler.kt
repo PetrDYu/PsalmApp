@@ -40,6 +40,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
     val song by vm.getSongById(p.songId).observeAsState()
 
     val fontSize = vm.fontSize.collectAsState()
+    val proModeIsActive = vm.proModeIsActive.collectAsState()
     
     val settingsSheetState = rememberModalBottomSheetState(initialValue = ModalBottomSheetValue.Hidden)
     ModalBottomSheetLayout(
@@ -79,16 +80,18 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
                 Icon(Icons.Default.Settings, stringResource(id = R.string.settings_button_description))
             }
 
-            FloatingActionButton(
-                onClick = {
+            if (proModeIsActive.value) {
+                FloatingActionButton(
+                    onClick = {
 
-                },
-                Modifier.constrainAs(editButton) {
-                    start.linkTo(parent.start, margin = 30.dp)
-                    bottom.linkTo(parent.bottom, margin = 30.dp)
-                },
-            ) {
-                Icon(Icons.Default.Edit, stringResource(id = R.string.edit_button_description))
+                    },
+                    Modifier.constrainAs(editButton) {
+                        start.linkTo(parent.start, margin = 30.dp)
+                        bottom.linkTo(parent.bottom, margin = 30.dp)
+                    },
+                ) {
+                    Icon(Icons.Default.Edit, stringResource(id = R.string.edit_button_description))
+                }
             }
         }
     }

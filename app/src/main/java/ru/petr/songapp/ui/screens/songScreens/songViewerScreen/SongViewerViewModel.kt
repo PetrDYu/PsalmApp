@@ -16,12 +16,19 @@ import ru.petr.songapp.ui.screens.songScreens.models.parsing.SongBuilder
 
 class SongViewerViewModel(private val songRepository: SongRepository, private val settingsRepository: SettingsRepository) : ViewModel() {
 
+    // Initialize settings with default values
     private val _fontSize: MutableStateFlow<Int> = MutableStateFlow(settingsRepository.settingsMap[Settings.SONG_FONT_SIZE] as Int)
     val fontSize: StateFlow<Int> = _fontSize.asStateFlow()
+
+    private val _proModeIsActive: MutableStateFlow<Boolean> = MutableStateFlow(settingsRepository.settingsMap[Settings.PRO_MODE_IS_ACTIVE] as Boolean)
+    val proModeIsActive: StateFlow<Boolean> = _proModeIsActive.asStateFlow()
 
     init {
         viewModelScope.launch {
             settingsRepository.songFontSize.collect{ newSize -> _fontSize.value = newSize }
+        }
+        viewModelScope.launch {
+            settingsRepository.proModeIsActive.collect{ newValue -> _proModeIsActive.value = newValue }
         }
     }
 
