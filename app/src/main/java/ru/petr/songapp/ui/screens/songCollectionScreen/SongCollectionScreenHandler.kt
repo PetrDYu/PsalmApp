@@ -4,13 +4,16 @@ import androidx.activity.compose.BackHandler
 import androidx.activity.compose.LocalOnBackPressedDispatcherOwner
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.*
 import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import com.google.accompanist.pager.PagerState
 import com.google.accompanist.pager.pagerTabIndicatorOffset
@@ -19,6 +22,7 @@ import dev.wirespec.jetmagic.composables.crm
 import dev.wirespec.jetmagic.models.ComposableInstance
 import dev.wirespec.jetmagic.navigation.navman
 import kotlinx.coroutines.launch
+import ru.petr.songapp.R
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SearchSongsParams
@@ -44,6 +48,8 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
 
     val keyboardController = LocalSoftwareKeyboardController.current
     val focusManager = LocalFocusManager.current
+
+    var searchText by remember { mutableStateOf("") }
     Scaffold(
         scaffoldState = scaffoldState,
         topBar = {
@@ -58,11 +64,15 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
                 songCollections = songCollections,
                 onChangeCollectionName = { name: String -> collectionName = name},
                 onSearch = vm::searchSongs,
-                composableId = composableInstance.id,
+//                composableId = composableInstance.id,
                 searchIsActive = searchIsActive,
                 fullTextSearchIsActive = fullTextSearchIsActive,
                 fullTextSearchResult = fullTextSearchResult,
-                onFullTextSearchClick = {}
+                onFullTextSearchClick = {},
+                searchText = searchText,
+                onChangeSearchText = { newText ->
+                    searchText = newText
+                }
             ) { id ->
                 vm.updateOrGotoSong(id)
                 keyboardController?.hide()
@@ -73,6 +83,7 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
 
     BackHandler(searchIsActive && collectionsScreenIsActive) {
         vm.backFromSearch()
+        searchText = ""
     }
 
 }
@@ -81,15 +92,20 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
 fun CollectionsScreen(songCollections: List<SongCollectionView>?,
                       onChangeCollectionName: (String)->Unit,
                       onSearch: (searchText: String) -> Unit,
-                      composableId: String,
+//                      composableId: String,
                       searchIsActive: Boolean,
                       fullTextSearchIsActive: Boolean,
                       fullTextSearchResult: List<FullTextSearchResultItem>? = listOf(),
                       onFullTextSearchClick: (collectionId: Int) -> Unit,
-                      onSongNameClick: (id:Int) -> Unit) {
-    var searchText by remember { mutableStateOf("") }
+                      searchText: String,
+                      onChangeSearchText: (newText: String) -> Unit,
+                      onSongNameClick: (id:Int) -> Unit,
+) {
     if (songCollections.isNullOrEmpty()) {
-        Text("Ни одного сборника ещё не добавлено")
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center){
+            Text(stringResource(id = R.string.collections_not_added))
+        }
+
     } else {
         Column {
             val pagerState = rememberPagerState(pageCount = songCollections.size)
@@ -144,9 +160,7 @@ fun CollectionsScreen(songCollections: List<SongCollectionView>?,
 //            Tabs(tabs = songCollections, pagerState = pagerState)
             SearchSongBar(
                 searchText = searchText,
-                onChangeSearchText = { newText ->
-                    searchText = newText
-                },
+                onChangeSearchText = onChangeSearchText,
                 onSearchButtonClick = {
                     onSearch(searchText)
                 }

@@ -16,6 +16,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -23,6 +24,7 @@ import androidx.compose.ui.unit.sp
 import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.PagerState
 import com.google.accompanist.pager.rememberPagerState
+import ru.petr.songapp.R
 import ru.petr.songapp.data.models.room.songData.dao.ShortSong
 import ru.petr.songapp.songCollections
 import ru.petr.songapp.songs
@@ -70,15 +72,14 @@ fun SongList(songs: List<ShortSong>,
 ){
     if (songs.isEmpty()){
         if (searchIsActive) {
-            Text("В сборнике не найдено ни одного псалма")
+            Text(stringResource(id = R.string.not_found_songs_in_collection))
         } else {
-            Text("В сборник не добавлено ни одного псалма")
+            Text(stringResource(id = R.string.not_added_songs_in_collection))
         }
     } else {
         LazyColumn(
             Modifier
-                .fillMaxWidth()
-                .padding(horizontal = 20.dp, vertical = 0.dp)
+                .fillMaxSize()
         ) {
             items(songs.size) { index ->
 
@@ -86,19 +87,25 @@ fun SongList(songs: List<ShortSong>,
                     "${songs[index].NumberInCollection}. ${songs[index].Name}",
                     Modifier
                         .clickable { onSongNameClick(songs[index].Id) }
-                        .padding(vertical = 10.dp)
+                        .padding(vertical = 10.dp, horizontal = 20.dp)
                         .fillMaxWidth(),
                     fontSize = 20.sp
                 )
                 if (index != songs.size - 1 || fullTextSearchIsActive)
-                    Divider()
+                    Divider(Modifier.padding(horizontal = 20.dp))
             }
 
             if (searchIsActive) {
                 if (!fullTextSearchIsActive) {
                     items(1) {
-                        Button(onClick = { onFullTextSearchClick() }) {
-                            Text("Искать по текстам псалмов")
+                        Button(
+                            modifier = Modifier
+                                .padding(horizontal = 40.dp, vertical = 10.dp)
+                                .fillMaxWidth()
+                                .height(40.dp),
+                            onClick = { onFullTextSearchClick() }
+                        ) {
+                            Text(stringResource(id = R.string.search_by_full_text))
                         }
                     }
                 } else {
@@ -137,7 +144,7 @@ fun SearchSongBar(modifier: Modifier = Modifier, searchText: String, onChangeSea
     ) {
         val keyboardController = LocalSoftwareKeyboardController.current
         val focusManager = LocalFocusManager.current
-        TextField(
+        OutlinedTextField(
             value = searchText,
             onValueChange = onChangeSearchText,
             keyboardOptions = KeyboardOptions(imeAction = ImeAction.Done),
@@ -148,7 +155,7 @@ fun SearchSongBar(modifier: Modifier = Modifier, searchText: String, onChangeSea
                     focusManager.clearFocus()
                 }
             ),
-            placeholder = { Text(text = "Название или номер псалма") },
+            placeholder = { Text(text = stringResource(id = R.string.search_bar_placeholder)) },
             modifier = Modifier
                 .padding(horizontal = 8.dp, vertical = 8.dp)
                 .weight(1f),

@@ -1,9 +1,7 @@
 package ru.petr.songapp.ui.screens.songScreens.models
 
+import androidx.compose.foundation.layout.*
 import ru.petr.songapp.R
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
 import androidx.compose.material.LocalTextStyle
 import androidx.compose.material.Text
 import androidx.compose.runtime.*
@@ -28,7 +26,7 @@ fun SongView(
     song: Song,
     fontSize: Int,
 ) {
-    Column(modifier) {
+    Column(modifier.padding(top = 20.dp, start = 10.dp, end = 5.dp)) {
         for (part in song.mSongParts) {
             SongPartView(
                 showType = showType,
@@ -51,6 +49,7 @@ fun SongPartView(
     when (part) {
         is SongPart.Chorus -> {
             ChorusView(
+                modifier,
                 showType = showType,
                 chorus = part,
                 layerStack = layerStack,
@@ -59,6 +58,7 @@ fun SongPartView(
         }
         is SongPart.Verse -> {
             VerseView(
+                modifier,
                 showType = showType,
                 verse = part,
                 layerStack = layerStack,
@@ -67,6 +67,7 @@ fun SongPartView(
         }
         is SongPart.Bridge -> {
             BridgeView(
+                modifier,
                 showType = showType,
                 bridge = part,
                 layerStack = layerStack,
@@ -74,6 +75,7 @@ fun SongPartView(
             )
         }
     }
+    Spacer(modifier = Modifier.height(fontSize.dp))
 }
 
 @Composable
@@ -85,7 +87,11 @@ fun ChorusView(
     fontSize: Int,
 ) {
     Column(modifier) {
-        Text("${stringResource(id = R.string.chorus_title)}:", fontSize = fontSize.sp)
+        Text(
+            "${stringResource(id = R.string.chorus_title)}:",
+            fontSize = fontSize.sp,
+            modifier = Modifier.padding(bottom = (fontSize * 0.3).dp)
+        )
         Column {
             for ((lineInd, line) in chorus.lines.withIndex()) {
                 LineView(
@@ -110,7 +116,12 @@ fun VerseView(
     fontSize: Int,
 ) {
     Row(modifier) {
-        Text("${verse.number}", fontSize = fontSize.sp)
+        if (verse.number != 0) {
+            Text("${verse.number}. ", fontSize = fontSize.sp)
+        } else {
+            Text("   ", fontSize = fontSize.sp)
+        }
+
         Column {
             for ((lineInd, line) in verse.lines.withIndex()) {
                 LineView(
@@ -135,7 +146,12 @@ fun BridgeView(
     fontSize: Int,
 ) {
     Column(modifier) {
-        Text("${stringResource(id = R.string.bridge_title)}:", fontSize = fontSize.sp)
+        Text(
+            "${stringResource(id = R.string.bridge_title)}:",
+            fontSize = fontSize.sp,
+            modifier = Modifier.padding(bottom = (fontSize * 0.3).dp)
+        )
+
         Column {
             for ((lineInd, line) in bridge.lines.withIndex()) {
                 LineView(
@@ -161,7 +177,7 @@ fun LineView(
     nextLine: SongPartLine?,
     fontSize: Int,
 ) {
-    SongTextAdaptiveContentLayout(modifier) {
+    SongTextAdaptiveContentLayout(modifier.padding(bottom = (fontSize * 0.3).dp)) {
         val chunksList = line.getChunksSplitByWords()
         for ((chunkInd, chunk) in chunksList.withIndex()) {
             ChunkView(

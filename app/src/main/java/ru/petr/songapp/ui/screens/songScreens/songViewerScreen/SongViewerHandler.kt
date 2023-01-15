@@ -8,6 +8,7 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Edit
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.runtime.*
 import androidx.compose.runtime.livedata.observeAsState
@@ -52,7 +53,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
         sheetElevation = 50.dp,
     ) {
         ConstraintLayout() {
-            val (viewer, settingsButton) = createRefs()
+            val (viewer, settingsButton, editButton) = createRefs()
             SongViewer(
                 Modifier.constrainAs(viewer) {
                     top.linkTo(parent.top, margin = 20.dp)
@@ -63,6 +64,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
                 song = song,
                 fontSize = fontSize.value,
             )
+
             FloatingActionButton(
                 onClick = {
                     scope.launch {
@@ -74,7 +76,19 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
                     bottom.linkTo(parent.bottom, margin = 30.dp)
                 },
             ) {
-                Icon(Icons.Default.Settings, "Settings")
+                Icon(Icons.Default.Settings, stringResource(id = R.string.settings_button_description))
+            }
+
+            FloatingActionButton(
+                onClick = {
+
+                },
+                Modifier.constrainAs(editButton) {
+                    start.linkTo(parent.start, margin = 30.dp)
+                    bottom.linkTo(parent.bottom, margin = 30.dp)
+                },
+            ) {
+                Icon(Icons.Default.Edit, stringResource(id = R.string.edit_button_description))
             }
         }
     }
