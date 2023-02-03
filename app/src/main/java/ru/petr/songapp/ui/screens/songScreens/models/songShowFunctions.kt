@@ -17,7 +17,6 @@ import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.Li
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.SongPartLine
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers.ChunkLayer
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.layers.ChunkText
-import kotlin.math.max
 
 @Composable
 fun SongView(
@@ -177,33 +176,48 @@ fun LineView(
     nextLine: SongPartLine?,
     fontSize: Int,
 ) {
+    val layersInCurrentLine: MutableList<ChunkLayer> = mutableListOf()
+    line.chunks.forEach { chunk ->
+            chunk.layers.forEach { layer ->
+                if (null == layersInCurrentLine.find { it.isSimilarWithLayer(layer) }) {
+                    layersInCurrentLine.add(layer)
+                }
+            }
+    }
     SongTextAdaptiveContentLayout(modifier.padding(bottom = (fontSize * 0.3).dp)) {
         val chunksList = line.getChunksSplitByWords()
-        for ((chunkInd, chunk) in chunksList.withIndex()) {
-            ChunkView(
-                showType = showType,
-                chunk = chunk,
-                layerStack = layerStack,
-                previousChunk = if (chunkInd != 0) chunksList[chunkInd - 1] else null,
-                nextChunk = if (chunkInd != chunksList.lastIndex) chunksList[chunkInd + 1] else null,
-                isLayerMultiline = { layer ->
-                    var result = false
-                    previousLine?.let { line ->
-                        if (line.chunks.isNotEmpty())
-                        {
-                            result = line.chunks[line.chunks.lastIndex].hasSameLayer(layer)
-                        }
-                    }
-                    nextLine?.let { line ->
-                        if (line.chunks.isNotEmpty())
-                        {
-                            result = result || line.chunks[0].hasSameLayer(layer)
-                        }
-                    }
-                    result
-                },
-                fontSize = fontSize,
-            )
+
+        var chunkInd = 0;
+        while(chunkInd < chunksList.size) {
+            Row {
+                do {
+                    val chunk = chunksList[chunkInd]
+                    ChunkView(
+                        showType = showType,
+                        chunk = chunk,
+                        layerStack = layerStack,
+                        previousChunk = if (chunkInd != 0) chunksList[chunkInd - 1] else null,
+                        nextChunk = if (chunkInd != chunksList.lastIndex) chunksList[chunkInd + 1] else null,
+                        isLayerMultiline = { layer ->
+                            var result = false
+                            previousLine?.let { line ->
+                                if (line.chunks.isNotEmpty()) {
+                                    result = line.chunks[line.chunks.lastIndex].hasSameLayer(layer)
+                                }
+                            }
+                            nextLine?.let { line ->
+                                if (line.chunks.isNotEmpty()) {
+                                    result = result || line.chunks[0].hasSameLayer(layer)
+                                }
+                            }
+                            result
+                        },
+                        fontSize = fontSize,
+                        layersInCurrentLine = layersInCurrentLine,
+                    )
+                    chunkInd++
+                } while ((!chunk.text!!.text.endsWith(" ")) && (chunkInd < chunksList.size))
+            }
         }
     }
 }
@@ -218,17 +232,20 @@ fun ChunkView(
     nextChunk: LineChunk? = null,
     isLayerMultiline: (layer: ChunkLayer) -> Boolean,
     fontSize: Int,
+    layersInCurrentLine: List<ChunkLayer>
 ) {
     Box(modifier = modifier) {
         when (showType) {
-            SongShowTypes.READ -> {
+            SongShowTypes.VIEW -> {
                 Column() {
                     for (layer in layerStack.activeAddingLayers) {
                         val chunkAddingLayer = chunk.getSimilarLayer(layer)
                         if (chunkAddingLayer != null) {
-                            ShowAddingLayer(layer = layer)
+                            ShowAddingLayer(layer = (chunkAddingLayer as ChunkLayer.AddingLayer), fontSize)
                         } else {
-                            // TODO здесь надо будет сделать заполнение для отсутствующих в конкретном chunk'е слоёв
+                            if (null != layersInCurrentLine.find { it.isSimilarWithLayer(layer) }) {
+                                ShowEmptyAddingLayer(layer = layer, fontSize)
+                            }
                         }
                     }
 
@@ -257,7 +274,7 @@ fun ChunkTextView(text: ChunkText?,
                   isLayerMultiline: (layer: ChunkLayer.WrappingLayer) -> Boolean,
                   fontSize: Int,
 ) {
-    require(text != null)
+    requireNotNull(text)
     var newChunkText: ChunkText = text
     var newTextStyle = LocalTextStyle.current.copy()
     chunkWrappingLayers.forEach {
@@ -330,5 +347,5 @@ private fun SongTextAdaptiveContentLayout(
 fun SongPreview() {
     val songColl = SongCollectionDBModel(1, "Test", "Test")
 //    val song = Song.getSong(, false, songColl)
-//    SongView(showType = SongShowTypes.READ, song = )
+//    SongView(showType = SongShowTypes.VIEW, song = )
 }

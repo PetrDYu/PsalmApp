@@ -20,6 +20,9 @@ import ru.petr.songapp.data.repositories.SongRepository
 import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.*
+import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorHandler
+import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorViewModel
+import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorViewModelFactory
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongScreenHandler
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerHandler
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerViewModel
@@ -119,7 +122,7 @@ class SongApp: Application() {
                       SearchSongsListHandler(composableInstance = it)
                     },
                     ComposableResource(
-                        resourceId = ComposableResourceIds.SongView,
+                        resourceId = ComposableResourceIds.SongViewer,
                         viewmodelClass = SongViewerViewModel::class.java,
                         onCreateViewmodel = {
                             val activity = currentActivity
@@ -134,6 +137,23 @@ class SongApp: Application() {
                         }
                     ) { composableInstance ->
                         SongViewerHandler(composableInstance = composableInstance)
+                    },
+                    ComposableResource(
+                        resourceId = ComposableResourceIds.SongEditor,
+                        viewmodelClass = SongEditorViewModel::class.java,
+                        onCreateViewmodel = {
+                            val activity = currentActivity
+                            if (activity != null) {
+                                ViewModelProvider(
+                                    activity,
+                                    SongEditorViewModelFactory(songRepository, settingsRepository)
+                                )[SongEditorViewModel::class.java]
+                            } else {
+                                SongEditorViewModel(songRepository, settingsRepository)
+                            }
+                        }
+                    ) { composableInstance ->
+                        SongEditorHandler(composableInstance = composableInstance)
                     }
                 )
             )

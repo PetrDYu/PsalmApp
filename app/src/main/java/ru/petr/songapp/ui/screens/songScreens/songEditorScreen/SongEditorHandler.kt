@@ -1,6 +1,8 @@
-package ru.petr.songapp.ui.screens.songScreens.songViewerScreen
+package ru.petr.songapp.ui.screens.songScreens.songEditorScreen
 
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.gestures.scrollable
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -30,10 +32,10 @@ import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 import ru.petr.songapp.ui.screens.songScreens.models.SongView
 
 @Composable
-fun SongViewerHandler(composableInstance: ComposableInstance) {
+fun SongEditorHandler(composableInstance: ComposableInstance) {
     val scope = rememberCoroutineScope()
 
-    val vm = composableInstance.viewmodel as SongViewerViewModel
+    val vm = composableInstance.viewmodel as SongEditorViewModel
     val p = composableInstance.parameters as SongParams
     val song by vm.getSongById(p.songId).observeAsState()
 
@@ -41,7 +43,12 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
     val proModeIsActive = vm.proModeIsActive.collectAsState()
     
     val settingsSheetState = rememberModalBottomSheetState(initialValue = ModalBottomSheetValue.Hidden)
-    ModalBottomSheetLayout(
+    Row(Modifier.horizontalScroll(rememberScrollState())){
+        Text("111111111")
+        TextField(value = "long1 long1 long1 long1 long1 long1 long1 long1 long1 long1 long1 long1 long1 long1 long1 ", onValueChange = {})
+        Text("1111111")
+    }
+    /*ModalBottomSheetLayout(
         sheetContent = {
             SettingsSheetContent(fontSize.value) { newSize ->
                 vm.saveFontSizeSetting(newSize)
@@ -81,7 +88,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
             if (proModeIsActive.value) {
                 FloatingActionButton(
                     onClick = {
-                        vm.editSong(p.songId)
+
                     },
                     Modifier.constrainAs(editButton) {
                         start.linkTo(parent.start, margin = 30.dp)
@@ -92,7 +99,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
                 }
             }
         }
-    }
+    }*/
     
 }
 

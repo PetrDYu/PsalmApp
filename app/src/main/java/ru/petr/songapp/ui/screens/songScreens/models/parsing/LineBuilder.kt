@@ -75,84 +75,23 @@ object LineBuilder {
                                  currentLayers: SongPartBuilder.CurrentLayersHolder,//MutableList<ChunkLayer>,
                                  chunks: MutableList<LineChunk>) {
         chunk.setLayersIfNotSet(currentLayers.layers/*toList()*/)
+        if (chunk.text == null) {
+            chunk.text = ChunkText("")
+        }
         if (chunks.isEmpty()) {
             if (!chunk.isEmpty()) {
                 chunks.add(chunk)
             }
         } else {
             val previousChunk = chunks[chunks.lastIndex]
-            if (chunk.hasMarkDataLayer) {
-                if (previousChunk.hasMarkDataLayer) {
-                    chunks.add(unionChunks(chunk, previousChunk))
-                } else if (previousChunk.text == null) {
-                    if (chunks.size > 1) {
-                        val doublePreviousChunk = chunks[chunks.lastIndex - 1]
-                        if (doublePreviousChunk.hasMarkDataLayer) {
-                            chunks.removeAt(chunks.lastIndex - 1)
-                            chunks.add(unionChunks(chunk, doublePreviousChunk))
-                        }
-                    } else {
-                        chunks.add(chunk)
-                    }
-                } else {
-                    // Do nothing
-                }
+            if (previousChunk.text!!.text == "") {
+                val newChunk = unionChunks(previousChunk, chunk)
+                chunks.removeAt(chunks.lastIndex)
+                chunks.add(newChunk)
             } else {
-                if (previousChunk.hasMarkDataLayer) {
-                    if (chunks.size > 1) {
-                        val doublePreviousChunk = chunks[chunks.lastIndex - 1]
-                        processPreviousChunkWithTextNull(
-                            doublePreviousChunk,
-                            previousPosition = 2,
-                            chunk,
-                            chunks,
-                            currentLayers
-                        )
-//                        if (doublePreviousChunk.text == null) {
-//                            if (currentLayers.lastOperation == SongPartBuilder.CurrentLayersHolder.Operations.ADD) {
-//                                chunks.removeAt(chunks.lastIndex - 1)
-//                                chunks.add(chunk)
-//                            } else if (currentLayers.lastOperation == SongPartBuilder.CurrentLayersHolder.Operations.REMOVE) {
-//                                // Do nothing
-//                            } else {
-//                                throw IllegalStateException("Unknown operation ${currentLayers.lastOperation.name}")
-//                            }
-////                            chunks.removeAt(chunks.lastIndex - 1)
-////                            chunks.add(unionChunks(chunk, doublePreviousChunk))
-//                        }
-                    } else {
-                        chunks.add(chunk)
-                    }
-                } else {
-                    processPreviousChunkWithTextNull(
-                        previousChunk,
-                        previousPosition = 1,
-                        chunk,
-                        chunks,
-                        currentLayers
-                    )
-//                    if (previousChunk.text == null) {
-//                        if (currentLayers.lastOperation == SongPartBuilder.CurrentLayersHolder.Operations.ADD) {
-//                            chunks.removeAt(chunks.lastIndex)
-//                            chunks.add(chunk)
-//                        } else if (currentLayers.lastOperation == SongPartBuilder.CurrentLayersHolder.Operations.REMOVE) {
-//                            // Do nothing
-//                        } else {
-//                            throw IllegalStateException("Unknown operation ${currentLayers.lastOperation.name}")
-//                        }
-////                            chunks.removeAt(chunks.lastIndex - 1)
-////                            chunks.add(unionChunks(chunk, doublePreviousChunk))
-//                    }
-                }
+                chunks.add(chunk)
             }
         }
-
-
-//        if (!chunk.isEmpty()) {
-//            if (!chunkHasNullTextAndSameLayersWithPreviousChunk(chunk, chunks)) {
-//                chunks.add(chunk)
-//            }
-//        }
     }
 
     // Здесь предполагается,что chunk не содержит MarkDataLayer'а
@@ -192,6 +131,7 @@ object LineBuilder {
         }
         val newChunk = LineChunk()
         newChunk.setLayersIfNotSet(newLayers.toList())
+        newChunk.text = ChunkText("${chunk1.text!!.text}${chunk2.text!!.text}")
         return newChunk
     }
 
@@ -230,9 +170,9 @@ object LineBuilder {
         return wasFoundOpeningTag
     }
 
-    private fun processMarkDataTag(chunk: LineChunk, currentLayers: SongPartBuilder.CurrentLayersHolder/*MutableList<ChunkLayer>*/, newLayer: ChunkLayer) {
+    private fun processMarkDataTag(chunk: LineChunk, currentLayers: SongPartBuilder.CurrentLayersHolder, newLayer: ChunkLayer) {
         currentLayers.add(newLayer)
-        val result = chunk.setLayersIfNotSet(currentLayers.layers/*toList()*/)
+        val result = chunk.setLayersIfNotSet(currentLayers.layers)
         if (!result) {
             throw IllegalStateException("Chunk already has layers list")
         }

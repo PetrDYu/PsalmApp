@@ -3,20 +3,26 @@ package ru.petr.songapp.ui.screens.songCollectionScreen
 import android.content.res.Configuration
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.gestures.Orientation
+import androidx.compose.foundation.gestures.rememberScrollableState
+import androidx.compose.foundation.gestures.scrollable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.text.BasicText
+import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Search
-import androidx.compose.runtime.Composable
+import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.TextLayoutResult
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -162,6 +168,32 @@ fun SearchSongBar(modifier: Modifier = Modifier, searchText: String, onChangeSea
             singleLine = true,
             colors = TextFieldDefaults.textFieldColors(backgroundColor = Color.White)
         )
+//        var offset by remember { mutableStateOf(0f) }
+//        var wordoffset by remember {
+//            mutableStateOf(0f to 0f)
+//        }
+//        Column() {
+//            Text("offset: $offset, word: ${wordoffset.first}: ${wordoffset.second}")
+//            BasicTextField(value = "long1 long2 long3 long4 long5 long6 long7 long8 long9 long10 long11 long12 text",
+//                onValueChange = {},
+//                singleLine = true,
+//                onTextLayout = {layoutResult ->
+//                    val boundary = layoutResult.getWordBoundary(0)
+//                    val path = layoutResult.getPathForRange(boundary.start, boundary.end)
+//                    wordoffset = path.getBounds().left to path.getBounds().right
+//                },
+//                modifier = Modifier
+//                    .fillMaxWidth()
+//                    .scrollable(
+//                        orientation = Orientation.Horizontal,
+//                        state = rememberScrollableState { delta ->
+//                            offset += delta
+//                            delta
+//                        }
+//                    )
+//            )
+//        }
+
         IconButton(
             onClick = {
                 onSearchButtonClick()

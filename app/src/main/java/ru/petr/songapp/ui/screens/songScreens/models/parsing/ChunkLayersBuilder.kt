@@ -14,7 +14,7 @@ object ChunkLayersBuilder {
     ) {
         val layerChunkId = attributes
             .getOrElse(TagAndAttrNames.ID_ATTR._name) {
-                throw IllegalArgumentException("Attribute \"id\" is not presented in attributes for $tagName layer")
+                throw IllegalArgumentException("Attribute ${TagAndAttrNames.ID_ATTR._name} is not presented in attributes for $tagName layer")
             }.toInt()
 
         val layerId = attributes.getOrDefault(TagAndAttrNames.LAYER_ID_ATTR._name, "0").toInt()
@@ -137,7 +137,32 @@ object ChunkLayersBuilder {
     }
 
     private fun buildChordLayer(layerChunkId: Int, attributes: Map<String, String>): ChordLayer {
-        return ChordLayer(layerChunkId)
+        val isMinor = attributes
+            .getOrElse(TagAndAttrNames.CHORD_IS_MINOR._name) {
+                throw IllegalArgumentException("\"${TagAndAttrNames.CHORD_IS_MINOR._name}\" attribute is not presented in attributes for chord layer")
+            }.toBoolean()
+
+        val mainChordText = attributes
+            .getOrElse(TagAndAttrNames.MAIN_CHORD._name) {
+                throw IllegalArgumentException("\"${TagAndAttrNames.MAIN_CHORD._name}\" attribute is not presented in attributes for chord layer")
+            }
+        val mainChord = ChordLayer.MAIN_CHORDS.valueOf(mainChordText)
+
+        val chordSignText = attributes
+            .getOrElse(TagAndAttrNames.CHORD_SIGN._name) {
+                throw IllegalArgumentException("\"${TagAndAttrNames.CHORD_SIGN._name}\" attribute is not presented in attributes for chord layer")
+            }
+        val chordSign = ChordLayer.SIGNS.fromText(chordSignText)
+
+        val chordTypeText = attributes
+            .getOrElse(TagAndAttrNames.CHORD_TYPE._name) {
+                throw IllegalArgumentException("\"${TagAndAttrNames.CHORD_TYPE._name}\" attribute is not presented in attributes for chord layer")
+            }
+        val chordType = ChordLayer.CHORD_TYPES.fromText(chordTypeText)
+
+        val chord = ChordLayer.Chord(mainChord, isMinor, chordSign, chordType)
+
+        return ChordLayer(layerChunkId, chord)
     }
 
     private fun buildRepeatLayer(layerChunkId: Int, attributes: Map<String, String>): RepeatLayer {

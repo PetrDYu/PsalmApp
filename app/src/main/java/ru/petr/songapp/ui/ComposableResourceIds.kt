@@ -9,5 +9,6 @@ object ComposableResourceIds {
     //Child composables on screens
     const val SongsLists = "songsLists"
     const val SearchSongs = "searchSongs"
-    const val SongView = "songView"
+    const val SongViewer = "songViewer"
+    const val SongEditor = "songEditor"
 }

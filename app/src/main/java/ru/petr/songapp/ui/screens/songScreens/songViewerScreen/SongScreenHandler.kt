@@ -9,20 +9,36 @@ import androidx.compose.ui.Modifier
 import dev.wirespec.jetmagic.composables.crm
 import dev.wirespec.jetmagic.models.ComposableInstance
 import ru.petr.songapp.ui.ComposableResourceIds
+import ru.petr.songapp.ui.screens.songScreens.models.SongParams
+import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 
 @Composable
 fun SongScreenHandler(composableInstance: ComposableInstance) {
     val scaffoldState = rememberScaffoldState()
+    val songShowType = (composableInstance.parameters as SongParams).showType
     Scaffold (
         scaffoldState = scaffoldState,
     ) { paddingValues ->
         Box(Modifier.padding(paddingValues)) {
-            crm.RenderChildComposable(
-                parentComposableId = composableInstance.id,
-                composableResId = ComposableResourceIds.SongView,
-                childComposableId = ComposableResourceIds.SongView,
-                p = composableInstance.parameters
-            )
+            when(songShowType) {
+                SongShowTypes.VIEW -> {
+                    crm.RenderChildComposable(
+                        parentComposableId = composableInstance.id,
+                        composableResId = ComposableResourceIds.SongViewer,
+                        childComposableId = ComposableResourceIds.SongViewer,
+                        p = composableInstance.parameters
+                    )
+                }
+                SongShowTypes.EDIT -> {
+                    crm.RenderChildComposable(
+                        parentComposableId = composableInstance.id,
+                        composableResId = ComposableResourceIds.SongEditor,
+                        childComposableId = ComposableResourceIds.SongEditor,
+                        p = composableInstance.parameters
+                    )
+                }
+            }
+
         }
 
     }

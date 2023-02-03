@@ -2,7 +2,6 @@ package ru.petr.songapp.ui.screens.songCollectionScreen
 
 import android.util.Log
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
 import androidx.core.text.isDigitsOnly
 import androidx.lifecycle.*
 import dev.wirespec.jetmagic.navigation.navman
@@ -15,6 +14,7 @@ import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.screens.songScreens.models.SongParams
+import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 
 private const val LOG_TAG = "SongListViewModel"
 
@@ -67,30 +67,37 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
     fun insert(songDBModel: SongDBModel) = viewModelScope.launch { repository.insert(songDBModel) }
 
     fun updateOrGotoSong(id: Int) {
-        navman.goto(composableResId = ComposableResourceIds.SongScreen, p = SongParams(Modifier, songId = id))
+        navman.goto(
+            composableResId = ComposableResourceIds.SongScreen,
+            p = SongParams(
+                songId = id,
+                showType = SongShowTypes.VIEW
+            )
+        )
         _collectionsScreenIsActive.value = false
     }
 
     fun searchSongs(searchText: String) {
-        _copySongsByCollection
-        _copySongsByCollection?.toMutableList()?.let { songCollectionViews ->
-            songCollectionViews.forEachIndexed { index, songCollectionView ->
-                val songCollectionViewNew: SongCollectionView = if (searchText.isDigitsOnly()) {
-                    SongCollectionView(
-                        songCollectionView.songCollection,
-                        songCollectionView.songs.filter { searchText.toInt() == it.NumberInCollection }
-                    )
-                } else {
-                    SongCollectionView(
-                        songCollectionView.songCollection,
-                        songCollectionView.songs.filter { searchText.lowercase() in it.Name.lowercase() }
-                    )
+        if (searchText != "") {
+            _copySongsByCollection?.toMutableList()?.let { songCollectionViews ->
+                songCollectionViews.forEachIndexed { index, songCollectionView ->
+                    val songCollectionViewNew: SongCollectionView = if (searchText.isDigitsOnly()) {
+                        SongCollectionView(
+                            songCollectionView.songCollection,
+                            songCollectionView.songs.filter { searchText.toInt() == it.NumberInCollection }
+                        )
+                    } else {
+                        SongCollectionView(
+                            songCollectionView.songCollection,
+                            songCollectionView.songs.filter { searchText.lowercase() in it.Name.lowercase() }
+                        )
+                    }
+                    songCollectionViews[index] = songCollectionViewNew
                 }
-                songCollectionViews[index] = songCollectionViewNew
-            }
 
-            _songsByCollections.value = songCollectionViews
-            _searchIsActive.value = true
+                _songsByCollections.value = songCollectionViews
+                _searchIsActive.value = true
+            }
         }
     }
 

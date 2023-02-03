@@ -85,6 +85,7 @@ dependencies {
 
     // Room components
     implementation "androidx.room:room-ktx:$rootProject.roomVersion"
+//    implementation 'androidx.core:core-ktx:+'
     kapt "androidx.room:room-compiler:$rootProject.roomVersion"
     androidTestImplementation "androidx.room:room-testing:$rootProject.roomVersion"
 
@@ -110,7 +111,7 @@ dependencies {
     androidTestImplementation "androidx.compose.ui:ui-test-junit4:$compose_version"
     debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
 
-    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.9.1'
+//    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.9.1'
     implementation "org.jetbrains.kotlin:kotlin-reflect:$kotlinVersion"
 
     testImplementation 'xmlpull:xmlpull:1.1.3.1'

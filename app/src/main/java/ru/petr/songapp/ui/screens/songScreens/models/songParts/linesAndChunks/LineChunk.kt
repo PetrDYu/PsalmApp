@@ -85,13 +85,27 @@ class LineChunk {
         val chunkLayers = layers.toMutableList()
         if (chunkText != null) {
             val splitChunkText = chunkText.text.split(" ")
-            splitChunkText.forEachIndexed { wordInd, word ->
+            if (splitChunkText.size == 1) {
                 val newChunk = LineChunk()
                 newChunk.layers = chunkLayers.toList()
-                newChunk.text = ChunkText("$word ")
+                newChunk.text = ChunkText(splitChunkText[0])
                 resultChunksList.add(newChunk)
-                if (hasMarkDataLayer && wordInd == 0) {
-                    chunkLayers.removeAll { it.layerType == ChunkLayerTypes.MarkDataLayer }
+            } else {
+                splitChunkText.forEachIndexed { wordInd, word ->
+                    val newChunk = LineChunk()
+                    newChunk.layers = chunkLayers.toList()
+                    if (wordInd == splitChunkText.lastIndex) {
+                        if (splitChunkText[splitChunkText.lastIndex] != "") {
+                            newChunk.text = ChunkText(word)
+                            resultChunksList.add(newChunk)
+                        }
+                    } else {
+                        newChunk.text = ChunkText("$word ")
+                        resultChunksList.add(newChunk)
+                    }
+                    if (hasMarkDataLayer && wordInd == 0) {
+                        chunkLayers.removeAll { it.layerType == ChunkLayerTypes.MarkDataLayer }
+                    }
                 }
             }
         } else {
