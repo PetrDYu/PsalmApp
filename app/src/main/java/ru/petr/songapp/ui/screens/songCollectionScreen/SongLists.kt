@@ -78,9 +78,15 @@ fun SongList(songs: List<ShortSong>,
 ){
     if (songs.isEmpty()){
         if (searchIsActive) {
-            Text(stringResource(id = R.string.not_found_songs_in_collection))
+            Text(stringResource(
+                id = R.string.not_found_songs_in_collection),
+                modifier = Modifier.padding(vertical = 10.dp, horizontal = 20.dp)
+            )
         } else {
-            Text(stringResource(id = R.string.not_added_songs_in_collection))
+            Text(stringResource(
+                id = R.string.not_added_songs_in_collection),
+                modifier = Modifier.padding(vertical = 10.dp, horizontal = 20.dp)
+            )
         }
     } else {
         LazyColumn(
