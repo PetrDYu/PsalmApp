@@ -2,6 +2,7 @@ package ru.petr.songapp.ui.screens.songCollectionScreen
 
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.LocalOnBackPressedDispatcherOwner
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -155,10 +156,11 @@ fun CollectionsScreen(songCollections: List<SongCollectionView>?,
                 }
 
             }
-            Tabs(tabs = songCollections, pagerState = pagerState)
+//            Tabs(tabs = songCollections, pagerState = pagerState) // TODO
 //            TabsContent(Modifier.weight(1f), pagerState = pagerState, songCollections = songCollections, onSongNameClick = onSongNameClick)
 //            Tabs(tabs = songCollections, pagerState = pagerState)
             SearchSongBar(
+                modifier = Modifier.background(MaterialTheme.colors.secondary),
                 searchText = searchText,
                 onChangeSearchText = onChangeSearchText,
                 onSearchButtonClick = {
@@ -175,7 +177,7 @@ fun Tabs(tabs: List<SongCollectionView>, pagerState: PagerState) {
     // OR ScrollableTabRow()
     ScrollableTabRow(
         selectedTabIndex = pagerState.currentPage,
-        contentColor = Color.White,
+        contentColor = Color.Black,
         indicator = { tabPositions ->
             TabRowDefaults.Indicator(
                 Modifier.pagerTabIndicatorOffset(pagerState, tabPositions)

@@ -23,6 +23,7 @@ import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.TextLayoutResult
+import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -53,7 +54,7 @@ fun TabsContent(modifier: Modifier = Modifier,
         if (songList.isEmpty()){
             songList = listOf()
         }
-        Box(Modifier.background(Color.White)) {
+        Box(/*Modifier.background(Color.White)*/) {
             SongList(
                 songs = songList,
                 onSongNameClick = onSongNameClick,
@@ -94,15 +95,25 @@ fun SongList(songs: List<ShortSong>,
                 .fillMaxSize()
         ) {
             items(songs.size) { index ->
-
-                Text(
-                    "${songs[index].NumberInCollection}. ${songs[index].Name}",
+                Row(
                     Modifier
                         .clickable { onSongNameClick(songs[index].Id) }
                         .padding(vertical = 10.dp, horizontal = 20.dp)
-                        .fillMaxWidth(),
-                    fontSize = 20.sp
-                )
+                        .fillMaxWidth()
+
+                ) {
+                    Text(
+                        "${songs[index].NumberInCollection}. ",
+                        fontSize = 20.sp,
+                        color = MaterialTheme.colors.secondaryVariant,
+                        fontStyle = FontStyle.Italic
+                    )
+                    Text(
+                        songs[index].Name,
+                        fontSize = 20.sp
+                    )
+                }
+
                 if (index != songs.size - 1 || fullTextSearchIsActive)
                     Divider(Modifier.padding(horizontal = 20.dp))
             }
@@ -172,7 +183,7 @@ fun SearchSongBar(modifier: Modifier = Modifier, searchText: String, onChangeSea
                 .padding(horizontal = 8.dp, vertical = 8.dp)
                 .weight(1f),
             singleLine = true,
-            colors = TextFieldDefaults.textFieldColors(backgroundColor = Color.White)
+//            colors = TextFieldDefaults.textFieldColors(backgroundColor = Color.White)
         )
 //        var offset by remember { mutableStateOf(0f) }
 //        var wordoffset by remember {
@@ -213,7 +224,7 @@ fun SearchSongBar(modifier: Modifier = Modifier, searchText: String, onChangeSea
                 Modifier
                     .size(35.dp)
                     .padding(end = 6.dp),
-                tint = Color.Blue
+//                tint = Color(243,  244, 236)
             )
         }
     }
