@@ -26,6 +26,7 @@ import kotlinx.coroutines.launch
 import ru.petr.songapp.R
 import ru.petr.songapp.ui.screens.songScreens.models.Song
 import ru.petr.songapp.ui.screens.songScreens.models.SongParams
+import ru.petr.songapp.ui.screens.songScreens.models.SongScreenParams
 import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 import ru.petr.songapp.ui.screens.songScreens.models.SongView
 
@@ -35,16 +36,16 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
 
     val vm = composableInstance.viewmodel as SongViewerViewModel
     val p = composableInstance.parameters as SongParams
-    val song by vm.getSongById(p.songId).observeAsState()
+    val song: Song = p.song
 
-    val fontSize = vm.fontSize.collectAsState()
-    val proModeIsActive = vm.proModeIsActive.collectAsState()
+    val fontSize = p.songSettings.songFontSize
+    val proModeIsActive = p.songSettings.proModeIsActive
     
     val settingsSheetState = rememberModalBottomSheetState(initialValue = ModalBottomSheetValue.Hidden)
     ModalBottomSheetLayout(
         sheetContent = {
-            SettingsSheetContent(fontSize.value) { newSize ->
-                vm.saveFontSizeSetting(newSize)
+            SettingsSheetContent(fontSize) { newSize ->
+                p.songSettings.setSongFontSize(newSize)
             }
         },
         sheetState = settingsSheetState,
@@ -61,7 +62,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
                     end.linkTo(parent.end, margin = 30.dp)
                 },
                 song = song,
-                fontSize = fontSize.value,
+                fontSize = fontSize,
             )
 
             FloatingActionButton(
@@ -78,7 +79,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
                 Icon(Icons.Default.Settings, stringResource(id = R.string.settings_button_description))
             }
 
-            if (proModeIsActive.value) {
+            if (proModeIsActive) {
                 FloatingActionButton(
                     onClick = {
                         vm.editSong(p.songId)

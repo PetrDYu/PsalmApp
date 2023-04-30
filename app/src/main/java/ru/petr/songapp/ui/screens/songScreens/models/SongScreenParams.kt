@@ -3,10 +3,9 @@ package ru.petr.songapp.ui.screens.songScreens.models
 import androidx.compose.ui.Modifier
 import dev.wirespec.jetmagic.models.ComposableParams
 
-class SongParams(
+class SongScreenParams(
     modifier: Modifier = Modifier,
     data: Any? = null,
-    val song: Song,
     val songId: Int,
-    val songSettings: SongSettings,
+    val showType: SongShowTypes,
 ) : ComposableParams(modifier = modifier, data = data)

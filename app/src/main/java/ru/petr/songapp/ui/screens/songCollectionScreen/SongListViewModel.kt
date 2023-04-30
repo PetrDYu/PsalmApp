@@ -1,7 +1,6 @@
 package ru.petr.songapp.ui.screens.songCollectionScreen
 
 import android.util.Log
-import androidx.compose.ui.Modifier
 import androidx.core.text.isDigitsOnly
 import androidx.lifecycle.*
 import dev.wirespec.jetmagic.navigation.navman
@@ -13,7 +12,7 @@ import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
-import ru.petr.songapp.ui.screens.songScreens.models.SongParams
+import ru.petr.songapp.ui.screens.songScreens.models.SongScreenParams
 import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 
 private const val LOG_TAG = "SongListViewModel"
@@ -69,7 +68,7 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
     fun updateOrGotoSong(id: Int) {
         navman.goto(
             composableResId = ComposableResourceIds.SongScreen,
-            p = SongParams(
+            p = SongScreenParams(
                 songId = id,
                 showType = SongShowTypes.VIEW
             )

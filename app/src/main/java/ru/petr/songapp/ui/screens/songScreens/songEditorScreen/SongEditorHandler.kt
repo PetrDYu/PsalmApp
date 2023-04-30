@@ -1,16 +1,11 @@
 package ru.petr.songapp.ui.screens.songScreens.songEditorScreen
 
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.gestures.scrollable
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.*
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Edit
-import androidx.compose.material.icons.filled.Settings
 import androidx.compose.runtime.*
 import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Alignment
@@ -22,12 +17,11 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.constraintlayout.compose.ConstraintLayout
 import dev.wirespec.jetmagic.models.ComposableInstance
-import kotlinx.coroutines.launch
 import ru.petr.songapp.R
 import ru.petr.songapp.ui.screens.songScreens.models.Song
 import ru.petr.songapp.ui.screens.songScreens.models.SongParams
+import ru.petr.songapp.ui.screens.songScreens.models.SongScreenParams
 import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 import ru.petr.songapp.ui.screens.songScreens.models.SongView
 
@@ -37,10 +31,10 @@ fun SongEditorHandler(composableInstance: ComposableInstance) {
 
     val vm = composableInstance.viewmodel as SongEditorViewModel
     val p = composableInstance.parameters as SongParams
-    val song by vm.getSongById(p.songId).observeAsState()
+    val song = p.song
 
-    val fontSize = vm.fontSize.collectAsState()
-    val proModeIsActive = vm.proModeIsActive.collectAsState()
+    val fontSize = p.songSettings.songFontSize
+    val proModeIsActive = p.songSettings.proModeIsActive
     
     val settingsSheetState = rememberModalBottomSheetState(initialValue = ModalBottomSheetValue.Hidden)
     Row(Modifier.horizontalScroll(rememberScrollState())){

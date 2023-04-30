@@ -12,44 +12,17 @@ import ru.petr.songapp.data.repositories.SettingsRepository
 import ru.petr.songapp.data.repositories.SongRepository
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
-import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.screens.songScreens.models.Song
-import ru.petr.songapp.ui.screens.songScreens.models.SongParams
+import ru.petr.songapp.ui.screens.songScreens.models.SongScreenParams
 import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
 import ru.petr.songapp.ui.screens.songScreens.models.parsing.SongBuilder
 
-class SongViewerViewModel(private val songRepository: SongRepository, private val settingsRepository: SettingsRepository) : ViewModel() {
-
-    // Initialize settings with default values
-    private val _fontSize: MutableStateFlow<Int> = MutableStateFlow(settingsRepository.settingsMap[Settings.SONG_FONT_SIZE] as Int)
-    val fontSize: StateFlow<Int> = _fontSize.asStateFlow()
-
-    private val _proModeIsActive: MutableStateFlow<Boolean> = MutableStateFlow(settingsRepository.settingsMap[Settings.PRO_MODE_IS_ACTIVE] as Boolean)
-    val proModeIsActive: StateFlow<Boolean> = _proModeIsActive.asStateFlow()
-
-    init {
-        viewModelScope.launch {
-            settingsRepository.songFontSize.collect{ newSize -> _fontSize.value = newSize }
-        }
-        viewModelScope.launch {
-            settingsRepository.proModeIsActive.collect{ newValue -> _proModeIsActive.value = newValue }
-        }
-    }
-
-    fun getSongById(id: Int): LiveData<Song> {
-        return songRepository.getSongById(id).map {
-            SongBuilder.getSong(it, SongCollection(false, "test", "test")) // TODO заменить на реальную SongCollections
-        }.asLiveData()
-    }
-
-    fun saveFontSizeSetting(newSize: Int) {
-        settingsRepository.storeSongFontSize(newSize)
-    }
+class SongViewerViewModel() : ViewModel() {
 
     fun editSong(id: Int) {
         navman.goto(
             composableResId = ComposableResourceIds.SongScreen,
-            p = SongParams(
+            p = SongScreenParams(
                 songId = id,
                 showType = SongShowTypes.EDIT
             )
@@ -57,13 +30,11 @@ class SongViewerViewModel(private val songRepository: SongRepository, private va
     }
 }
 
-class SongViewerViewModelFactory(private val songRepository: SongRepository,
-                                 private val settingsRepository: SettingsRepository,
-) : ViewModelProvider.Factory {
+class SongViewerViewModelFactory() : ViewModelProvider.Factory {
     override fun <T : ViewModel> create(modelClass: Class<T>): T {
         if (modelClass.isAssignableFrom(SongViewerViewModel::class.java)) {
             @Suppress("UNCHECKED_CAST")
-            return SongViewerViewModel(songRepository, settingsRepository) as T
+            return SongViewerViewModel() as T
         }
         throw IllegalArgumentException("Unknown ViewModel class")
     }

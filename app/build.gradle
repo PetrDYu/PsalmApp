@@ -33,11 +33,11 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
     }
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = '17'
     }
     buildFeatures {
         compose true
@@ -53,38 +53,22 @@ android {
     namespace 'ru.petr.songapp'
 }
 
-//tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
-//    kotlinOptions {
-//        freeCompilerArgs += [
-//                "-Xuse-experimental=kotlin.ExperimentalUnsignedTypes",
-//                "-Xuse-experimental=kotlinx.coroutines.ExperimentalCoroutinesApi",
-//                "-Xuse-experimental=kotlinx.coroutines.InternalCoroutinesApi",
-//                "-Xuse-experimental=androidx.compose.animation.ExperimentalAnimationApi",
-//                "-Xuse-experimental=androidx.compose.ExperimentalComposeApi",
-//                "-Xuse-experimental=androidx.compose.foundation.ExperimentalFoundationApi",
-//                "-Xuse-experimental=androidx.compose.material.ExperimentalMaterialApi",
-//                "-Xuse-experimental=androidx.compose.runtime.ExperimentalComposeApi",
-//                "-Xuse-experimental=androidx.compose.ui.ExperimentalComposeUiApi",
-//                "-Xuse-experimental=coil.annotation.ExperimentalCoilApi"
-//        ]
-//    }
-//}
-
 dependencies {
 
-    implementation 'androidx.core:core-ktx:1.9.0'
+    implementation 'androidx.core:core-ktx:1.10.0'
     implementation "androidx.compose.ui:ui:$compose_version"
     implementation "androidx.compose.material:material:$compose_version"
     implementation "androidx.compose.ui:ui-tooling-preview:$compose_version"
-    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
-    implementation 'androidx.activity:activity-compose:1.6.1'
-    implementation 'dev.wirespec.jetmagic:jetmagic:1.4.0'
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.6.1'
+    implementation 'androidx.activity:activity-compose:1.7.1'
+//    implementation 'dev.wirespec.jetmagic:jetmagic:1.4.0'
     implementation "androidx.compose.runtime:runtime-livedata:$compose_version"
     implementation "com.google.accompanist:accompanist-pager:0.14.0" // Pager
     implementation "com.google.accompanist:accompanist-pager-indicators:0.14.0" // Pager Indicators
 
     // Room components
     implementation "androidx.room:room-ktx:$rootProject.roomVersion"
+    implementation project(path: ':jetmagic')
 //    implementation 'androidx.core:core-ktx:+'
     kapt "androidx.room:room-compiler:$rootProject.roomVersion"
     androidTestImplementation "androidx.room:room-testing:$rootProject.roomVersion"
@@ -104,6 +88,8 @@ dependencies {
 
     // Constraint layout compose
     implementation "androidx.constraintlayout:constraintlayout-compose:1.0.1"
+
+    implementation "androidx.compose.ui:ui-text-google-fonts:1.5.0-alpha03"
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'

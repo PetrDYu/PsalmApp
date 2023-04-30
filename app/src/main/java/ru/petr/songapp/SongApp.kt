@@ -23,7 +23,9 @@ import ru.petr.songapp.ui.screens.songCollectionScreen.*
 import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorHandler
 import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorViewModel
 import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorViewModelFactory
-import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongScreenHandler
+import ru.petr.songapp.ui.screens.songScreens.SongScreenHandler
+import ru.petr.songapp.ui.screens.songScreens.SongScreenViewModel
+import ru.petr.songapp.ui.screens.songScreens.SongScreenViewModelFactory
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerHandler
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerViewModel
 import ru.petr.songapp.ui.screens.songScreens.songViewerScreen.SongViewerViewModelFactory
@@ -82,10 +84,10 @@ class SongApp: Application() {
             addComposableResources(
                 //Screens
                 mutableListOf(
+                    // Main Screens
                     ComposableResource(
                         resourceId = ComposableResourceIds.StartScreen,
                     ) { composableInstance ->
-//                        Log.d("app", "call main screen handler")
                         StartScreenHandler(composableInstance)
                     },
                     ComposableResource(
@@ -105,6 +107,18 @@ class SongApp: Application() {
                     },
                     ComposableResource(
                         resourceId = ComposableResourceIds.SongScreen,
+                        viewmodelClass = SongScreenViewModel::class.java,
+                        onCreateViewmodel = {
+                            val activity = currentActivity
+                            if (activity != null) {
+                                ViewModelProvider(
+                                    activity,
+                                    SongScreenViewModelFactory(songRepository, settingsRepository)
+                                )[SongScreenViewModel::class.java]
+                            } else {
+                                SongScreenViewModel(songRepository, settingsRepository)
+                            }
+                        }
                     ) { composableInstance ->
                         SongScreenHandler(composableInstance = composableInstance)
                     },
@@ -129,10 +143,10 @@ class SongApp: Application() {
                             if (activity != null) {
                                 ViewModelProvider(
                                     activity,
-                                    SongViewerViewModelFactory(songRepository, settingsRepository)
+                                    SongViewerViewModelFactory()
                                 )[SongViewerViewModel::class.java]
                             } else {
-                                SongViewerViewModel(songRepository, settingsRepository)
+                                SongViewerViewModel()
                             }
                         }
                     ) { composableInstance ->

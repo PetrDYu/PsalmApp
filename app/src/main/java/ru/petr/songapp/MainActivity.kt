@@ -38,11 +38,16 @@ class MainActivity : ComponentActivity() {
         }
 
         if (BuildCompat.isAtLeastT()) {
-            onBackInvokedDispatcher.registerOnBackInvokedCallback(
-                OnBackInvokedDispatcher.PRIORITY_DEFAULT
-            ) {
-                mainBackPressedCallback()
-            }
+//            onBackInvokedDispatcher.registerOnBackInvokedCallback(
+//                OnBackInvokedDispatcher.PRIORITY_DEFAULT
+//            ) {
+//                mainBackPressedCallback()
+//            }
+            onBackPressedDispatcher.addCallback(this /* lifecycle owner */, object : OnBackPressedCallback(true) {
+                override fun handleOnBackPressed() {
+                    mainBackPressedCallback()
+                }
+            })
         } else {
             onBackPressedDispatcher.addCallback(this /* lifecycle owner */, object : OnBackPressedCallback(true) {
                 override fun handleOnBackPressed() {

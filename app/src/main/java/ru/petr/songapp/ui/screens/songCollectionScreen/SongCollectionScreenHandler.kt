@@ -3,11 +3,11 @@ package ru.petr.songapp.ui.screens.songCollectionScreen
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.LocalOnBackPressedDispatcherOwner
 import androidx.compose.foundation.background
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.*
 import androidx.compose.material.*
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.AddCircle
+import androidx.compose.material.icons.filled.CheckCircle
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -55,7 +55,20 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
         scaffoldState = scaffoldState,
         topBar = {
             TopAppBar(
-            title = { Text(collectionName) },
+            title = {
+                Row(
+                     verticalAlignment = Alignment.CenterVertically
+                ) {
+                    IconButton(onClick = { /*TODO*/ }) {
+                        Icon(
+                            imageVector = Icons.Default.AddCircle,
+                            contentDescription = null,
+                            tint = Color(209, 99, 62)
+                        )
+                    }
+                    Text(collectionName)
+                }
+            },
             elevation = 10.dp
             )
         },
