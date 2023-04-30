@@ -1,6 +1,7 @@
 buildscript {
     ext {
         compose_version = '1.4.2'
+        compose_compiler = compose_version
         roomVersion = '2.5.1'
         coroutines = '1.5.2'
         lifecycleVersion = '2.6.1'
