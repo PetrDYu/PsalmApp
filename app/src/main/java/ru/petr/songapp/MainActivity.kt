@@ -1,7 +1,6 @@
 package ru.petr.songapp
 
 import android.os.Bundle
-import android.window.OnBackInvokedDispatcher
 import androidx.activity.ComponentActivity
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.compose.setContent
@@ -15,7 +14,7 @@ import dev.wirespec.jetmagic.composables.ScreenFactoryHandler
 import dev.wirespec.jetmagic.composables.crm
 import dev.wirespec.jetmagic.navigation.navman
 import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
-import ru.petr.songapp.data.models.room.songData.dao.ShortSong
+import ru.petr.songapp.data.models.room.songData.dao.SongDataForCollection
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.theme.SongAppTheme
@@ -83,22 +82,22 @@ class MainActivity : ComponentActivity() {
 }
 
 val songs = listOf(
-    ShortSong(1, 1, "Близко Господь и день Его"),
-    ShortSong(2, 2, "Хвалите Господа"),
-    ShortSong(3, 3, "Только в Господе моя радость"),
-    ShortSong(4, 4, "Господу хвала и имени Его"),
-    ShortSong(5, 5, "О, Господи, Ты мой свет"),
-    ShortSong(6, 6, "Услыши меня"),
-    ShortSong(7, 7, "Будьте здесь"),
-    ShortSong(8, 8, "Поклоняемся Тебе"),
-    ShortSong(9, 9, "Magnificat"),
-    ShortSong(10, 10, "Слава в вышних"),
-    ShortSong(11, 11, "Мне с Тобой не страшно"),
-    ShortSong(12, 12, "В ночи, блуждая"),
-    ShortSong(13, 13, "Даруй, о, Господи"),
-    ShortSong(14, 14, "О, Господь Иисус, куда"),
-    ShortSong(15, 15, "В Тебе моя душа находит"),
-    ShortSong(16, 16, "О, Господь Иисус, Ты")
+    SongDataForCollection(1, 1, "Близко Господь и день Его"),
+    SongDataForCollection(2, 2, "Хвалите Господа"),
+    SongDataForCollection(3, 3, "Только в Господе моя радость"),
+    SongDataForCollection(4, 4, "Господу хвала и имени Его"),
+    SongDataForCollection(5, 5, "О, Господи, Ты мой свет"),
+    SongDataForCollection(6, 6, "Услыши меня"),
+    SongDataForCollection(7, 7, "Будьте здесь"),
+    SongDataForCollection(8, 8, "Поклоняемся Тебе"),
+    SongDataForCollection(9, 9, "Magnificat"),
+    SongDataForCollection(10, 10, "Слава в вышних"),
+    SongDataForCollection(11, 11, "Мне с Тобой не страшно"),
+    SongDataForCollection(12, 12, "В ночи, блуждая"),
+    SongDataForCollection(13, 13, "Даруй, о, Господи"),
+    SongDataForCollection(14, 14, "О, Господь Иисус, куда"),
+    SongDataForCollection(15, 15, "В Тебе моя душа находит"),
+    SongDataForCollection(16, 16, "О, Господь Иисус, Ты")
 )
 
 val songCollections = listOf(

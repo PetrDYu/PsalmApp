@@ -1,5 +1,6 @@
 package ru.petr.songapp.ui.screens.songCollectionScreen
 
+import android.util.Log
 import androidx.activity.compose.BackHandler
 import androidx.activity.compose.LocalOnBackPressedDispatcherOwner
 import androidx.compose.foundation.background
@@ -27,6 +28,7 @@ import ru.petr.songapp.R
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SearchSongsParams
+import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongsListsParams
 
@@ -36,6 +38,9 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
     val scaffoldState = rememberScaffoldState()
 //    Log.d("main_screen", "create scaffoldState")
     var collectionName by remember { mutableStateOf("Сборники") }
+    var currentCollection: SongCollection by remember {
+        mutableStateOf(SongCollection(false, "test", "test"))
+    }
 
     val vm = composableInstance.viewmodel as SongListViewModel
 
@@ -76,7 +81,15 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
         Box(Modifier.padding(it)) {
             CollectionsScreen(
                 songCollections = songCollections,
-                onChangeCollectionName = { name: String -> collectionName = name},
+                onChangeCollectionName = {
+                    name: String -> collectionName = name
+                    val collectionDB = songCollections?.first { it.songCollection.name == collectionName }
+                    collectionDB?.let {
+                        currentCollection = SongCollection(false, collectionName, it.songCollection.shortName)
+                        currentCollection.addSongsAsLink(it.songs)
+                    }
+
+                 },
                 onSearch = vm::searchSongs,
 //                composableId = composableInstance.id,
                 searchIsActive = searchIsActive,
@@ -88,7 +101,7 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
                     searchText = newText
                 }
             ) { id ->
-                vm.updateOrGotoSong(id)
+                vm.updateOrGotoSong(id, currentCollection)
                 keyboardController?.hide()
                 focusManager.clearFocus()
             }
@@ -123,7 +136,14 @@ fun CollectionsScreen(songCollections: List<SongCollectionView>?,
     } else {
         Column {
             val pagerState = rememberPagerState(pageCount = songCollections.size)
-            onChangeCollectionName(songCollections[pagerState.currentPage].songCollection.name)
+            var previousPage by remember {
+                mutableStateOf(-1)
+            }
+            if (previousPage != pagerState.currentPage) {
+                onChangeCollectionName(songCollections[pagerState.currentPage].songCollection.name)
+                previousPage = pagerState.currentPage
+            }
+
             Box(Modifier.weight(1f)){
                 if (!searchIsActive) {
                     /*crm.RenderChildComposable(

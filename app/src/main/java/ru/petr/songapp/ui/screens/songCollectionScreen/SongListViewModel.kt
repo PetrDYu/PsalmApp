@@ -11,6 +11,7 @@ import ru.petr.songapp.data.models.room.songData.SongDBModel
 import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
+import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.screens.songScreens.models.SongScreenParams
 import ru.petr.songapp.ui.screens.songScreens.models.SongShowTypes
@@ -65,11 +66,12 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
 
     fun insert(songDBModel: SongDBModel) = viewModelScope.launch { repository.insert(songDBModel) }
 
-    fun updateOrGotoSong(id: Int) {
+    fun updateOrGotoSong(id: Int, songCollection: SongCollection) {
         navman.goto(
             composableResId = ComposableResourceIds.SongScreen,
             p = SongScreenParams(
                 songId = id,
+                songCollection = songCollection,
                 showType = SongShowTypes.VIEW
             )
         )
@@ -83,12 +85,12 @@ class SongListViewModel(private val repository: SongsByCollectionsRepository) : 
                     val songCollectionViewNew: SongCollectionView = if (searchText.isDigitsOnly()) {
                         SongCollectionView(
                             songCollectionView.songCollection,
-                            songCollectionView.songs.filter { searchText.toInt() == it.NumberInCollection }
+                            songCollectionView.songs.filter { searchText.toInt() == it.numberInCollection }
                         )
                     } else {
                         SongCollectionView(
                             songCollectionView.songCollection,
-                            songCollectionView.songs.filter { searchText.lowercase() in it.Name.lowercase() }
+                            songCollectionView.songs.filter { searchText.lowercase() in it.name.lowercase() }
                         )
                     }
                     songCollectionViews[index] = songCollectionViewNew

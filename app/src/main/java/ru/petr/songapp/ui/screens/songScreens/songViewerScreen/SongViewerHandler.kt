@@ -82,7 +82,7 @@ fun SongViewerHandler(composableInstance: ComposableInstance) {
             if (proModeIsActive) {
                 FloatingActionButton(
                     onClick = {
-                        vm.editSong(p.songId)
+                        vm.editSong(p.songId, song.mNumberInCollection.mCollection)
                     },
                     Modifier.constrainAs(editButton) {
                         start.linkTo(parent.start, margin = 30.dp)

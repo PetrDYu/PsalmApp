@@ -35,9 +35,9 @@ class SongScreenViewModel(private val songRepository: SongRepository, private va
         }
     }
 
-    fun getSongById(id: Int): LiveData<Song> {
+    fun getSongById(id: Int, songCollection: SongCollection): LiveData<Song> {
         return songRepository.getSongById(id).map {
-            SongBuilder.getSong(it, SongCollection(false, "test", "test")) // TODO заменить на реальную SongCollections
+            SongBuilder.getSong(it, songCollection)
         }.asLiveData()
     }
 

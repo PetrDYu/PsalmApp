@@ -1,5 +1,6 @@
 package ru.petr.songapp.ui.screens.songCollectionScreen.models
 
+import ru.petr.songapp.data.models.room.songData.dao.SongDataForCollection
 import ru.petr.songapp.ui.screens.songScreens.models.Song
 
 class SongCollection(val isFixed: Boolean, title: String, shortTitle: String) {
@@ -14,6 +15,10 @@ class SongCollection(val isFixed: Boolean, title: String, shortTitle: String) {
         val mutableSongs = mSongs.toMutableList()
         mutableSongs.add(songData)
         mSongs = mutableSongs
+    }
+
+    fun addSongsAsLink(songs: List<SongDataForCollection>) {
+        mSongs = songs
     }
 
     fun openSong(id: Int): Song {

@@ -1,15 +1,9 @@
 package ru.petr.songapp.ui.screens.songCollectionScreen
 
 import android.content.res.Configuration
-import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.gestures.Orientation
-import androidx.compose.foundation.gestures.rememberScrollableState
-import androidx.compose.foundation.gestures.scrollable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.text.BasicText
-import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.*
@@ -18,11 +12,9 @@ import androidx.compose.material.icons.filled.Search
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.text.TextLayoutResult
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.tooling.preview.Preview
@@ -32,7 +24,7 @@ import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.PagerState
 import com.google.accompanist.pager.rememberPagerState
 import ru.petr.songapp.R
-import ru.petr.songapp.data.models.room.songData.dao.ShortSong
+import ru.petr.songapp.data.models.room.songData.dao.SongDataForCollection
 import ru.petr.songapp.songCollections
 import ru.petr.songapp.songs
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
@@ -70,7 +62,7 @@ fun TabsContent(modifier: Modifier = Modifier,
 
 
 @Composable
-fun SongList(songs: List<ShortSong>,
+fun SongList(songs: List<SongDataForCollection>,
              onSongNameClick: (id:Int) -> Unit,
              searchIsActive: Boolean,
              fullTextSearchIsActive: Boolean,
@@ -97,19 +89,19 @@ fun SongList(songs: List<ShortSong>,
             items(songs.size) { index ->
                 Row(
                     Modifier
-                        .clickable { onSongNameClick(songs[index].Id) }
+                        .clickable { onSongNameClick(songs[index].id) }
                         .padding(vertical = 10.dp, horizontal = 20.dp)
                         .fillMaxWidth()
 
                 ) {
                     Text(
-                        "${songs[index].NumberInCollection}. ",
+                        "${songs[index].numberInCollection}. ",
                         fontSize = 20.sp,
                         color = MaterialTheme.colors.secondaryVariant,
                         fontStyle = FontStyle.Italic
                     )
                     Text(
-                        songs[index].Name,
+                        songs[index].name,
                         fontSize = 20.sp
                     )
                 }
@@ -134,9 +126,9 @@ fun SongList(songs: List<ShortSong>,
                 } else {
                     items(fullTextSearchResult.size) { index ->
                         Text(
-                            "${fullTextSearchResult[index].song.NumberInCollection}. ${fullTextSearchResult[index].song.Name}",
+                            "${fullTextSearchResult[index].song.numberInCollection}. ${fullTextSearchResult[index].song.name}",
                             Modifier
-                                .clickable { onSongNameClick(fullTextSearchResult[index].song.Id) }
+                                .clickable { onSongNameClick(fullTextSearchResult[index].song.id) }
                                 .padding(vertical = 10.dp)
                                 .fillMaxWidth(),
                             fontSize = 20.sp

@@ -10,6 +10,7 @@ import kotlinx.coroutines.launch
 import ru.petr.songapp.data.repositories.Settings
 import ru.petr.songapp.data.repositories.SettingsRepository
 import ru.petr.songapp.data.repositories.SongRepository
+import ru.petr.songapp.songCollections
 import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
 import ru.petr.songapp.ui.screens.songScreens.models.Song
@@ -19,11 +20,12 @@ import ru.petr.songapp.ui.screens.songScreens.models.parsing.SongBuilder
 
 class SongViewerViewModel() : ViewModel() {
 
-    fun editSong(id: Int) {
+    fun editSong(id: Int, songCollection: SongCollection) {
         navman.goto(
             composableResId = ComposableResourceIds.SongScreen,
             p = SongScreenParams(
                 songId = id,
+                songCollection = songCollection,
                 showType = SongShowTypes.EDIT
             )
         )
