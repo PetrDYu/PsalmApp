@@ -23,7 +23,10 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.font.FontStyle
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import dev.wirespec.jetmagic.composables.crm
 import dev.wirespec.jetmagic.models.ComposableInstance
 import ru.petr.songapp.ui.ComposableResourceIds
@@ -53,7 +56,7 @@ fun SongScreenHandler(composableInstance: ComposableInstance) {
             val songTitle by remember(songNumber) {
                 mutableStateOf(song.mNumberInCollection.mCollection.mSongs.first { it.numberInCollection == songNumber }.name)
             }
-            PsalmTitle(songNumber, songTitle)
+            PsalmTitle(songNumber, songTitle, songFontSize)
          },
     ) { paddingValues ->
         Box(Modifier.padding(paddingValues)) {
@@ -103,7 +106,7 @@ fun SongScreenHandler(composableInstance: ComposableInstance) {
 }
 
 @Composable
-fun PsalmTitle(number: Int, name: String) {
+fun PsalmTitle(number: Int, name: String, songFontSize: Int) {
     Card(backgroundColor = MaterialTheme.colors.background) {
         Row(
             Modifier.fillMaxWidth(),
@@ -111,7 +114,8 @@ fun PsalmTitle(number: Int, name: String) {
         ) {
             IconButton(
                 onClick = {
-                }
+                },
+                Modifier.padding(horizontal = 5.dp)
             ) {
                 Icon(
                     imageVector = Icons.Default.AddCircle,
@@ -120,9 +124,19 @@ fun PsalmTitle(number: Int, name: String) {
                 )
             }
             
-            Column() {
-                Text("$number", Modifier.padding(bottom = 2.dp))
-                Text(name.uppercase())
+            Column(Modifier.padding(end = 20.dp)) {
+                Text(
+                    "$number",
+                    fontSize = (songFontSize * 0.8).sp,
+                    modifier = Modifier.padding(top = 10.dp, bottom = 2.dp),
+                    fontWeight = FontWeight.Bold
+                )
+                Text(
+                    name.uppercase(),
+                    fontSize = (songFontSize * 0.8).sp,
+                    modifier = Modifier.padding(bottom = 15.dp),
+                    fontWeight = FontWeight.Bold
+                )
             }
         }
     }
