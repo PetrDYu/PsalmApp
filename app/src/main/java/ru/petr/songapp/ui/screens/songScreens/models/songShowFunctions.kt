@@ -9,9 +9,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.Layout
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
-import androidx.compose.ui.tooling.preview.Preview
+//import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.*
-import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
+//import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.SongPart
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.LineChunk
 import ru.petr.songapp.ui.screens.songScreens.models.songParts.linesAndChunks.SongPartLine
@@ -45,125 +45,71 @@ fun SongPartView(
     layerStack: Song.LayerStack,
     fontSize: Int,
 ) {
-    when (part) {
+    val (partType, titleId, number) = when (part) {
         is SongPart.Chorus -> {
-            ChorusView(
-                modifier,
-                showType = showType,
-                chorus = part,
-                layerStack = layerStack,
-                fontSize = fontSize,
-            )
+            Triple(SongPart.SongPartTypes.CHORUS, R.string.chorus_title, -1)
         }
         is SongPart.Verse -> {
-            VerseView(
-                modifier,
-                showType = showType,
-                verse = part,
-                layerStack = layerStack,
-                fontSize = fontSize,
-            )
+            Triple(SongPart.SongPartTypes.VERSE, R.string.verse_title, part.number)
         }
         is SongPart.Bridge -> {
-            BridgeView(
-                modifier,
-                showType = showType,
-                bridge = part,
-                layerStack = layerStack,
-                fontSize = fontSize,
+            Triple(SongPart.SongPartTypes.BRIDGE, R.string.bridge_title, -1)
+        }
+    }
+    Column(modifier) {
+        SongPartTitleView(modifier, showType, partType, titleId, number, fontSize)
+        SongPartBodyView(showType = showType, part = part, layerStack = layerStack, fontSize = fontSize)
+        Spacer(modifier = Modifier.height(fontSize.dp))
+    }
+}
+
+@Composable
+fun SongPartBodyView(modifier: Modifier = Modifier,
+                     showType: SongShowTypes,
+                     part: SongPart,
+                     layerStack: Song.LayerStack,
+                     fontSize: Int,
+) {
+    Column (
+            modifier.padding(start=20.dp)
+    ) {
+        for ((lineInd, line) in part.lines.withIndex()) {
+            LineView(
+                    showType = showType,
+                    line = line,
+                    layerStack = layerStack,
+                    previousLine = if (lineInd != 0) part.lines[lineInd - 1] else null,
+                    nextLine = if (lineInd != part.lines.lastIndex) part.lines[lineInd + 1] else null,
+                    fontSize = fontSize,
             )
         }
     }
-    Spacer(modifier = Modifier.height(fontSize.dp))
 }
 
 @Composable
-fun ChorusView(
+fun SongPartTitleView(
     modifier: Modifier = Modifier,
     showType: SongShowTypes,
-    chorus: SongPart.Chorus,
-    layerStack: Song.LayerStack,
+    partType: SongPart.SongPartTypes,
+    titleId: Int,
+    number: Int,
     fontSize: Int,
 ) {
-    Column(modifier) {
-        Text(
-            "${stringResource(id = R.string.chorus_title)}:",
-            fontSize = fontSize.sp,
-            modifier = Modifier.padding(bottom = (fontSize * 0.3).dp)
-        )
-        Column {
-            for ((lineInd, line) in chorus.lines.withIndex()) {
-                LineView(
-                    showType = showType,
-                    line = line,
-                    layerStack = layerStack,
-                    previousLine = if (lineInd != 0) chorus.lines[lineInd - 1] else null,
-                    nextLine = if (lineInd != chorus.lines.lastIndex) chorus.lines[lineInd + 1] else null,
-                    fontSize = fontSize,
-                )
-            }
+    val titleString = when (partType) {
+        SongPart.SongPartTypes.VERSE -> {
+            "${stringResource(id = titleId)} $number:"
+        }
+
+        SongPart.SongPartTypes.CHORUS,
+        SongPart.SongPartTypes.BRIDGE -> {
+            "${stringResource(id = titleId)}:"
         }
     }
-}
-
-@Composable
-fun VerseView(
-    modifier: Modifier = Modifier,
-    showType: SongShowTypes,
-    verse: SongPart.Verse,
-    layerStack: Song.LayerStack,
-    fontSize: Int,
-) {
-    Row(modifier) {
-        if (verse.number != 0) {
-            Text("${verse.number}. ", fontSize = fontSize.sp)
-        } else {
-            Text("   ", fontSize = fontSize.sp)
-        }
-
-        Column {
-            for ((lineInd, line) in verse.lines.withIndex()) {
-                LineView(
-                    showType = showType,
-                    line = line,
-                    layerStack = layerStack,
-                    previousLine = if (lineInd != 0) verse.lines[lineInd - 1] else null,
-                    nextLine = if (lineInd != verse.lines.lastIndex) verse.lines[lineInd + 1] else null,
-                    fontSize = fontSize,
-                )
-            }
-        }
-    }
-}
-
-@Composable
-fun BridgeView(
-    modifier: Modifier = Modifier,
-    showType: SongShowTypes,
-    bridge: SongPart.Bridge,
-    layerStack: Song.LayerStack,
-    fontSize: Int,
-) {
-    Column(modifier) {
-        Text(
-            "${stringResource(id = R.string.bridge_title)}:",
-            fontSize = fontSize.sp,
-            modifier = Modifier.padding(bottom = (fontSize * 0.3).dp)
-        )
-
-        Column {
-            for ((lineInd, line) in bridge.lines.withIndex()) {
-                LineView(
-                    showType = showType,
-                    line = line,
-                    layerStack = layerStack,
-                    previousLine = if (lineInd != 0) bridge.lines[lineInd - 1] else null,
-                    nextLine = if (lineInd != bridge.lines.lastIndex) bridge.lines[lineInd + 1] else null,
-                    fontSize = fontSize,
-                )
-            }
-        }
-    }
+    Text(
+            titleString,
+            fontSize = (fontSize * 0.75).sp,
+            modifier = modifier.padding(bottom = (fontSize * 0.3).dp)
+    )
 }
 
 @Composable
@@ -187,7 +133,7 @@ fun LineView(
     SongTextAdaptiveContentLayout(modifier.padding(bottom = (fontSize * 0.3).dp)) {
         val chunksList = line.getChunksSplitByWords()
 
-        var chunkInd = 0;
+        var chunkInd = 0
         while(chunkInd < chunksList.size) {
             Row {
                 do {
@@ -237,7 +183,7 @@ fun ChunkView(
     Box(modifier = modifier) {
         when (showType) {
             SongShowTypes.VIEW -> {
-                Column() {
+                Column {
                     for (layer in layerStack.activeAddingLayers) {
                         val chunkAddingLayer = chunk.getSimilarLayer(layer)
                         if (chunkAddingLayer != null) {
@@ -302,7 +248,7 @@ private fun SongTextAdaptiveContentLayout(
         val maxRowHeghts = mutableListOf(0)
         var rowNumber = 0
         var currentRowSize = 0
-        val placeables = measurables.mapIndexed { index, measureable ->
+        val placeables = measurables.mapIndexed { _, measureable ->
             val placeable = measureable.measure(outerConstraints)
             if (currentRowSize != 0 &&
                 ((currentRowSize + placeable.width) > outerConstraints.maxWidth)) {
@@ -342,10 +288,11 @@ private fun SongTextAdaptiveContentLayout(
 }
 
 
+/*
 @Preview
 @Composable
 fun SongPreview() {
     val songColl = SongCollectionDBModel(1, "Test", "Test")
 //    val song = Song.getSong(, false, songColl)
 //    SongView(showType = SongShowTypes.VIEW, song = )
-}
+}*/

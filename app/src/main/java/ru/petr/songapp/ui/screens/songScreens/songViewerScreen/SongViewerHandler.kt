@@ -161,7 +161,13 @@ fun SongViewer(modifier: Modifier, song: Song?, fontSize: Int) {
         if (song == null) {
             Text("Ошибка в процессе загрузки")
         } else {
-            SongView(showType = SongShowTypes.VIEW, song = song, fontSize = fontSize)
+            SongView(modifier = Modifier.padding(start = 10.dp,
+                                                 end = 20.dp,
+                                                 top = 30.dp,
+                                                 bottom=30.dp),
+                     showType = SongShowTypes.VIEW,
+                     song = song,
+                     fontSize = fontSize)
         }
     }
 }
