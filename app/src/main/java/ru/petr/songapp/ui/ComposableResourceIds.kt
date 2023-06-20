@@ -7,6 +7,7 @@ object ComposableResourceIds {
 
     //Screens
     const val StartScreen = "startScreen"
+    const val MainScreen = "mainScreen"
     const val SongCollectionsScreen = "songCollectionScreen"
     const val SongScreen = "songScreens"
 

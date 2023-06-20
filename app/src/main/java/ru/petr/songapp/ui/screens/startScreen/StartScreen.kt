@@ -10,8 +10,8 @@ import ru.petr.songapp.ui.ComposableResourceIds
 fun StartScreenHandler(composableInstance: ComposableInstance) {
     crm.RenderChildComposable(
         parentComposableId = composableInstance.id,
-        composableResId = ComposableResourceIds.SongCollectionsScreen,
-        childComposableId = ComposableResourceIds.SongCollectionsScreen
+        composableResId = ComposableResourceIds.MainScreen,
+        childComposableId = ComposableResourceIds.MainScreen
     )
 //    navman.goto(composableResId = ComposableResourceIds.SongCollectionsScreen)
 }

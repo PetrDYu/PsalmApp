@@ -29,6 +29,7 @@ import ru.petr.songapp.ui.ComposableResourceIds
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.FullTextSearchResultItem
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SearchSongsParams
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollection
+import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionScreenParams
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongCollectionView
 import ru.petr.songapp.ui.screens.songCollectionScreen.models.SongsListsParams
 
@@ -54,6 +55,11 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
 
     val keyboardController = LocalSoftwareKeyboardController.current
     val focusManager = LocalFocusManager.current
+
+    val p = composableInstance.parameters as SongCollectionScreenParams
+    val initialPage: Int =
+        songCollections?.indexOfFirst { it.songCollection.id == p.songCollectionId } ?: 0
+
 
     var searchText by remember { mutableStateOf("") }
     Scaffold(
@@ -90,6 +96,7 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
                     }
 
                  },
+                initialPage = initialPage,
                 onSearch = vm::searchSongs,
 //                composableId = composableInstance.id,
                 searchIsActive = searchIsActive,
@@ -117,6 +124,7 @@ fun SongCollectionScreenHandler(composableInstance: ComposableInstance) {
 
 @Composable
 fun CollectionsScreen(songCollections: List<SongCollectionView>?,
+                      initialPage: Int,
                       onChangeCollectionName: (String)->Unit,
                       onSearch: (searchText: String) -> Unit,
 //                      composableId: String,
@@ -135,9 +143,10 @@ fun CollectionsScreen(songCollections: List<SongCollectionView>?,
 
     } else {
         Column {
-            val pagerState = rememberPagerState(pageCount = songCollections.size)
+            val pagerState = rememberPagerState(pageCount = songCollections.size,
+                                                initialPage = initialPage)
             var previousPage by remember {
-                mutableStateOf(-1)
+                mutableIntStateOf(-1)
             }
             if (previousPage != pagerState.currentPage) {
                 onChangeCollectionName(songCollections[pagerState.currentPage].songCollection.name)

@@ -19,6 +19,9 @@ import ru.petr.songapp.data.repositories.SongCollectionsRepository
 import ru.petr.songapp.data.repositories.SongRepository
 import ru.petr.songapp.data.repositories.SongsByCollectionsRepository
 import ru.petr.songapp.ui.ComposableResourceIds
+import ru.petr.songapp.ui.screens.mainScreen.MainScreenHandler
+import ru.petr.songapp.ui.screens.mainScreen.MainScreenViewModel
+import ru.petr.songapp.ui.screens.mainScreen.MainScreenViewModelFactory
 import ru.petr.songapp.ui.screens.songCollectionScreen.*
 import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorHandler
 import ru.petr.songapp.ui.screens.songScreens.songEditorScreen.SongEditorViewModel
@@ -91,12 +94,30 @@ class SongApp: Application() {
                         StartScreenHandler(composableInstance)
                     },
                     ComposableResource(
+                            resourceId = ComposableResourceIds.MainScreen,
+                            viewmodelClass = MainScreenViewModel::class.java,
+                            onCreateViewmodel = {
+                                val activity = currentActivity
+                                if (activity != null) {
+                                    ViewModelProvider(activity,
+                                                      MainScreenViewModelFactory(songCollectionsRepository)
+                                    )[MainScreenViewModel::class.java]
+                                } else {
+                                    MainScreenViewModel(songCollectionsRepository)
+                                }
+                            }
+                    ) {composableInstance ->
+                      MainScreenHandler(composableInstance)
+                    },
+                    ComposableResource(
                         resourceId = ComposableResourceIds.SongCollectionsScreen,
                         viewmodelClass = SongListViewModel::class.java,
                         onCreateViewmodel = {
                             val activity = currentActivity
                             if (activity != null) {
-                                ViewModelProvider(activity, SongListViewModelFactory(songListRepository))[SongListViewModel::class.java]
+                                ViewModelProvider(activity,
+                                                  SongListViewModelFactory(songListRepository)
+                                )[SongListViewModel::class.java]
                             } else {
                                 SongListViewModel(songListRepository)
                             }
