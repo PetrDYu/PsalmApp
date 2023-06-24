@@ -97,7 +97,10 @@ fun SongPartTitleView(
 ) {
     val titleString = when (partType) {
         SongPart.SongPartTypes.VERSE -> {
-            "${stringResource(id = titleId)} $number:"
+            if (number != 0)
+                "${stringResource(id = titleId)} $number:"
+            else
+                "${stringResource(id = titleId)}:"
         }
 
         SongPart.SongPartTypes.CHORUS,
