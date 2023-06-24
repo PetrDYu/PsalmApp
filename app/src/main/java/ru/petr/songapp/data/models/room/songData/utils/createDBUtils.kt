@@ -23,6 +23,9 @@ private const val LOG_TAG = "create_db_utils"
 
 suspend fun populateDBFromAssets(appContext: Context, database: SongAppDB) {
     CoroutineScope(Dispatchers.IO).launch {
+        val favoriteSongsDbModel = SongCollectionDBModel(0, "Избранное", "Избранное")
+        database.SongCollectionDao().insert(favoriteSongsDbModel)
+
         appContext.assets.list("$COLLECTIONS_FOLDER/")?.forEach { collection ->
             val shortCollectionName: String = getShortCollectionName(appContext, collection)
             val collectionId = database.SongCollectionDao().insert(SongCollectionDBModel(0, collection, shortCollectionName)).toInt()
