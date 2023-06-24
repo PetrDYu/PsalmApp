@@ -2,6 +2,7 @@ package ru.petr.songapp.ui.screens.mainScreen
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.Card
@@ -16,6 +17,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.unit.dp
 import dev.wirespec.jetmagic.models.ComposableInstance
 
 @Composable
@@ -46,19 +48,23 @@ fun MainScreenHandler(composableInstance: ComposableInstance) {
 }
 
 @Composable
-fun SongCollectionListItem(name: String,
+fun SongCollectionListItem(modifier: Modifier = Modifier,
+                           name: String,
                            marker: ImageVector,
                            markerColor: Color,
                            onClick: ()->Unit
 ) {
-    Card(onClick = onClick) {
-        Row {
+    Card(modifier = modifier.fillMaxSize(),
+         onClick = onClick
+    ) {
+        Row (Modifier.padding(vertical = 10.dp, horizontal = 5.dp)) {
             Icon(
+                    modifier = Modifier.padding(all = 5.dp),
                     imageVector = marker,
                     contentDescription = null,
                     tint = markerColor
             )
-            Text(name.uppercase())
+            Text(name.uppercase(), Modifier.padding(all = 5.dp))
         }
     }
 }
