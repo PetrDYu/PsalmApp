@@ -9,16 +9,10 @@ import androidx.room.*
             entity = SongCollectionDBModel::class,
             parentColumns = ["Id"],
             childColumns = ["CollectionId"]
-        ),
-        ForeignKey(
-            entity = CollectionSection::class,
-            parentColumns = ["Id"],
-            childColumns = ["SectionId"]
         )
     ],
     indices = [
         Index("CollectionId"),
-        Index("SectionId"),
         Index("Name"),
         Index("CollectionId", "NumberInCollection")
     ]
@@ -30,9 +24,6 @@ data class SongDBModel(
 
     @ColumnInfo(name = "CollectionId")
     val collectionId: Int,
-
-    @ColumnInfo(name = "SectionId")
-    val sectionId: Int,
 
     @Embedded
     val songData: SongData,

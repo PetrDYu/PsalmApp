@@ -7,21 +7,18 @@ import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
-import ru.petr.songapp.data.models.room.songData.CollectionSection
 import ru.petr.songapp.data.models.room.songData.SongDBModel
 import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
-import ru.petr.songapp.data.models.room.songData.dao.CollectionSectionDao
 import ru.petr.songapp.data.models.room.songData.dao.SongCollectionDao
 import ru.petr.songapp.data.models.room.songData.dao.SongDao
 import ru.petr.songapp.data.models.room.songData.utils.populateDBFromAssets
 
-//import ru.petr.songapp.songCollections
-
-@Database(entities = [SongDBModel::class, SongCollectionDBModel::class, CollectionSection::class], version = 1, exportSchema = true)
+@Database(entities = [SongDBModel::class, SongCollectionDBModel::class], version = 1, exportSchema = true)
 abstract class SongAppDB() : RoomDatabase() {
     abstract fun SongDao(): SongDao
     abstract fun SongCollectionDao(): SongCollectionDao
-    abstract fun CollectionSectionDao(): CollectionSectionDao
+
+    var creatingJob: Job? = null
 
     private class SongAppDBCallback(
         private val scope: CoroutineScope,

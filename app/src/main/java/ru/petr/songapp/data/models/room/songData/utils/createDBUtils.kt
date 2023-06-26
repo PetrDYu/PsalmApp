@@ -2,13 +2,9 @@ package ru.petr.songapp.data.models.room.songData.utils
 
 import android.content.Context
 import android.util.Log
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserFactory
 import ru.petr.songapp.data.models.room.SongAppDB
-import ru.petr.songapp.data.models.room.songData.CollectionSection
 import ru.petr.songapp.data.models.room.songData.SongDBModel
 import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
 import ru.petr.songapp.data.models.room.songData.SongData
@@ -17,7 +13,6 @@ import ru.petr.songapp.ui.screens.songScreens.models.parsing.TagAndAttrNames
 const val INFO_FILE_EXT = "info"
 const val COLLECTIONS_FOLDER = "collections"
 const val COLLECTION_INFO_FILE = "collection.$INFO_FILE_EXT"
-const val SECTION_INFO_FILE = "section.$INFO_FILE_EXT"
 
 private const val LOG_TAG = "create_db_utils"
 
@@ -26,27 +21,19 @@ suspend fun populateDBFromAssets(appContext: Context, database: SongAppDB) {
         val favoriteSongsDbModel = SongCollectionDBModel(0, "Избранное", "Избранное")
         database.SongCollectionDao().insert(favoriteSongsDbModel)
 
-        appContext.assets.list("$COLLECTIONS_FOLDER/")?.forEach { collection ->
-            val shortCollectionName: String = getShortCollectionName(appContext, collection)
-            val collectionId = database.SongCollectionDao().insert(SongCollectionDBModel(0, collection, shortCollectionName)).toInt()
-            appContext.assets.list("$COLLECTIONS_FOLDER/$collection/")?.forEach { sectionForlder ->
-                if (!sectionForlder.endsWith(".$INFO_FILE_EXT")) {
-                    val sectionName: String = getSectionName(appContext, collection, sectionForlder)
-                    val sectionId = database.CollectionSectionDao().insert(CollectionSection(0, collectionId, sectionName, sectionForlder.toInt())).toInt()
-                    appContext.assets.list("$COLLECTIONS_FOLDER/$collection/$sectionForlder/")?.forEach { songFile ->
-                        if (!songFile.endsWith(".$INFO_FILE_EXT")) {
-                            val factory = XmlPullParserFactory.newInstance()
-                            factory.isNamespaceAware = true
-                            val parser: XmlPullParser = factory.newPullParser()
-                            val newSong = parseSongFile(appContext, parser, songFile, collectionId, collection, sectionId, sectionForlder)
-                            database.SongDao().insert(newSong)
-                        }
-                    }
-                }
+    appContext.assets.list("$COLLECTIONS_FOLDER/")?.forEach { collection ->
+        val shortCollectionName: String = getShortCollectionName(appContext, collection)
+        val collectionId = database.SongCollectionDao().insert(SongCollectionDBModel(0, collection, shortCollectionName)).toInt()
+        appContext.assets.list("$COLLECTIONS_FOLDER/$collection/")?.forEach { songFile ->
+            if (!songFile.endsWith(".$INFO_FILE_EXT")) {
+                val factory = XmlPullParserFactory.newInstance()
+                factory.isNamespaceAware = true
+                val parser: XmlPullParser = factory.newPullParser()
+                val newSong = parseSongFile(appContext, parser, songFile, collectionId, collection)
+                database.SongDao().insert(newSong)
             }
         }
     }
-
 }
 
 fun getShortCollectionName(appContext: Context, collectionName: String): String {
@@ -55,14 +42,8 @@ fun getShortCollectionName(appContext: Context, collectionName: String): String 
         .bufferedReader().readText()
 }
 
-fun getSectionName(appContext: Context, collectionName: String, sectionFolder: String): String {
-    return appContext.assets
-        .open("$COLLECTIONS_FOLDER/$collectionName/$sectionFolder/$SECTION_INFO_FILE")
-        .bufferedReader().readText()
-}
-
-fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, collectionId: Int, collectionName: String, sectionId: Int, sectionFolder: String): SongDBModel {
-    val file = appContext.assets.open("$COLLECTIONS_FOLDER/$collectionName/$sectionFolder/$songFile")
+fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, collectionId: Int, collectionName: String): SongDBModel {
+    val file = appContext.assets.open("$COLLECTIONS_FOLDER/$collectionName/$songFile")
     Log.d(LOG_TAG, "parsing file: $songFile")
     parser.setInput(file, "UTF-8")
     var numberInCollection = 0
@@ -95,7 +76,6 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
     return SongDBModel(
         0,
         collectionId,
-        sectionId,
         SongData(
             name,
             numberInCollection,
@@ -107,7 +87,7 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
             true, // all songs from included files are fixed
         ),
         appContext.assets
-            .open("$COLLECTIONS_FOLDER/$collectionName/$sectionFolder/$songFile")
+            .open("$COLLECTIONS_FOLDER/$collectionName/$songFile")
             .bufferedReader().readText(),
         plainText,
     )
