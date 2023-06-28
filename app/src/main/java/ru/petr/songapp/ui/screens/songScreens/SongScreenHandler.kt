@@ -54,7 +54,7 @@ fun SongScreenHandler(composableInstance: ComposableInstance) {
         topBar = {
             val songNumber = song.mNumberInCollection.mNumber
             val songTitle by remember(songNumber) {
-                mutableStateOf(song.mNumberInCollection.mCollection.mSongs.first { it.numberInCollection == songNumber }.name)
+                mutableStateOf(song.mNumberInCollection.mCollection.mSongs.firstOrNull { it.numberInCollection == songNumber }?.name ?: "")
             }
             PsalmTitle(songNumber, songTitle, songFontSize)
          },
