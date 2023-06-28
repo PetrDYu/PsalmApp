@@ -8,6 +8,7 @@ import ru.petr.songapp.data.models.room.SongAppDB
 import ru.petr.songapp.data.models.room.songData.SongDBModel
 import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
 import ru.petr.songapp.data.models.room.songData.SongData
+import ru.petr.songapp.data.models.room.songData.dao.SongDataForCollection
 import ru.petr.songapp.ui.screens.songScreens.models.parsing.TagAndAttrNames
 
 const val INFO_FILE_EXT = "info"
@@ -16,16 +17,26 @@ const val COLLECTION_INFO_FILE = "collection.$INFO_FILE_EXT"
 
 private const val LOG_TAG = "create_db_utils"
 
-suspend fun populateDBFromAssets(appContext: Context, database: SongAppDB) {
-    CoroutineScope(Dispatchers.IO).launch {
+suspend fun populateDBFromAssets(appContext: Context,
+                                 database: SongAppDB,
+                                 curDBPopulation: Map<String, Pair<Int, List<SongDataForCollection>>> = mapOf()) {
+    if (!curDBPopulation.containsKey("Избранное")) {
         val favoriteSongsDbModel = SongCollectionDBModel(0, "Избранное", "Избранное")
         database.SongCollectionDao().insert(favoriteSongsDbModel)
+    }
 
     appContext.assets.list("$COLLECTIONS_FOLDER/")?.forEach { collection ->
-        val shortCollectionName: String = getShortCollectionName(appContext, collection)
-        val collectionId = database.SongCollectionDao().insert(SongCollectionDBModel(0, collection, shortCollectionName)).toInt()
+        val collectionId = if (!curDBPopulation.containsKey(collection)) {
+            val shortCollectionName: String = getShortCollectionName(appContext, collection)
+            database.SongCollectionDao().insert(SongCollectionDBModel(0, collection, shortCollectionName)).toInt()
+        } else {
+            curDBPopulation[collection]!!.first
+        }
+        // TODO обработать вхождение песен в сборник
         appContext.assets.list("$COLLECTIONS_FOLDER/$collection/")?.forEach { songFile ->
-            if (!songFile.endsWith(".$INFO_FILE_EXT")) {
+            if (!songFile.endsWith(".$INFO_FILE_EXT") &&
+                ((curDBPopulation[collection] == null) || (curDBPopulation[collection] != null) &&
+                (!isSongAlreadyInCollection(songFile, curDBPopulation[collection]!!.second)))) {
                 val factory = XmlPullParserFactory.newInstance()
                 factory.isNamespaceAware = true
                 val parser: XmlPullParser = factory.newPullParser()
@@ -34,6 +45,12 @@ suspend fun populateDBFromAssets(appContext: Context, database: SongAppDB) {
             }
         }
     }
+}
+
+fun isSongAlreadyInCollection(songFileName: String,
+                              collection: List<SongDataForCollection>) : Boolean {
+    val songNum = songFileName.split(' '/*, limit = 1*/)[0].toInt()
+    return collection.firstOrNull { it.numberInCollection == songNum } != null
 }
 
 fun getShortCollectionName(appContext: Context, collectionName: String): String {

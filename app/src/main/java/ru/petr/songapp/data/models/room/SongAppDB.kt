@@ -1,16 +1,19 @@
 package ru.petr.songapp.data.models.room
 
 import android.content.Context
+import android.util.Log
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import ru.petr.songapp.data.models.room.songData.SongDBModel
 import ru.petr.songapp.data.models.room.songData.SongCollectionDBModel
 import ru.petr.songapp.data.models.room.songData.dao.SongCollectionDao
 import ru.petr.songapp.data.models.room.songData.dao.SongDao
+import ru.petr.songapp.data.models.room.songData.utils.checkOpenedDB
 import ru.petr.songapp.data.models.room.songData.utils.populateDBFromAssets
 
 @Database(entities = [SongDBModel::class, SongCollectionDBModel::class], version = 1, exportSchema = true)
@@ -27,10 +30,18 @@ abstract class SongAppDB() : RoomDatabase() {
         override fun onCreate(db: SupportSQLiteDatabase) {
             super.onCreate(db)
             INSTANCE?.let { database ->
-                scope.launch {
+                database.creatingJob = scope.launch {
                     populateDBFromAssets(appContext, database)
                 }
             }
+        }
+
+        override fun onOpen(db: SupportSQLiteDatabase) {
+            super.onOpen(db)
+            INSTANCE?.let { database ->
+                checkOpenedDB(appContext, database)
+            }
+            Log.d("DB", "opened")
         }
     }
 
