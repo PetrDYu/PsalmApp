@@ -11,7 +11,7 @@ interface SongDao {
     suspend fun insert(songDBModel: SongDBModel)
 
     @Query("SELECT Id, NumberInCollection, Name FROM Songs WHERE CollectionId = :collectionId ORDER BY NumberInCollection")
-    fun getCollectionSongsNames(collectionId: Int): Flow<List<SongDataForCollection>>
+    fun getCollectionSongs(collectionId: Int): Flow<List<SongDataForCollection>>
 
     @Query("SELECT * FROM Songs WHERE Id = :id LIMIT 1")
     fun getSongById(id: Int): Flow<SongDBModel>

@@ -12,7 +12,7 @@ class SongsByCollectionsRepository (private val songDao: SongDao, private val so
         songCollectionsRepository.allCollections.map { collections ->
             val songCollectionFlowList: MutableList<SongCollectionFlow> = mutableListOf()
             collections.forEach { collection ->
-                songCollectionFlowList.add(SongCollectionFlow(collection, songDao.getCollectionSongsNames(collection.id)))
+                songCollectionFlowList.add(SongCollectionFlow(collection, songDao.getCollectionSongs(collection.id)))
             }
             songCollectionFlowList
         }
